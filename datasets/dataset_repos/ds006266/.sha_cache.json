@@ -1,0 +1,10 @@
+{
+  "CHANGES": "b290551f17274934ba8f6ace32102b83091dfd65",
+  "dataset_description.json": "5bd62e10c430795ee0f3e5a530e3ea85fb95716f",
+  "README": "44c20126352a7ac06cd11b2394ab0ee6185ae391",
+  "participants.tsv": "0117830107b26e124747dcfa0043a4f9df4259ae",
+  "participants.json": "f37c3472b606b17f815270eaf14978ce1c54e2e8",
+  "sub-60100/ses-1/func/sub-60100_ses-1_task-retrieval_events.tsv": "9ade1cd93b6700586e6ebb9853d46857e1d39662",
+  "sub-60100/ses-1/func/sub-60100_ses-1_task-forgetexp_events.tsv": "80d3f2bfeeed127587ad4de00f7856690e4e28f5",
+  "sub-60100/ses-2/func/sub-60100_ses-2_task-forgetexp_events.tsv": "812cdfad016a147ac15b2cba4c2eb4d002258513"
+}

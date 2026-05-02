@@ -1,0 +1,8 @@
+{
+  "RepetitionTime": 9.512,
+  "FlipAngle": 90,
+  "PhaseEncodingDirection": "j-",
+  "EchoTime": 0.089,
+  "EffectiveEchoSpacing": 0.000415007,
+  "TotalReadoutTime": 0.0385956
+}

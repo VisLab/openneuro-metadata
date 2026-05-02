@@ -1,0 +1,22 @@
+1.0.8 2026-02-18
+  - added missing files.
+1.0.7 2026-02-18
+  - Added missing P1 ses1 echo 1 timeseries
+  - added missing P1 ses19 echo 2 timeseries
+1.0.6 2025-06-09
+  - New Addition of T1 Images for subject P7
+1.0.5 2025-04-16
+  - Moved MEQ and behavior to 'Behavioral Assessments' director
+1.0.4 2025-04-14
+  - Adding T1 images for subject P7
+1.0.3 2025-04-14
+  - Updated MEQ spreadsheet
+1.0.2 2025-04-07
+  - Updated readme and dataset_description
+  - Added MEQ
+1.0.1 2025-03-31
+  - Including Structural files for P7, in ses-0
+1.0.0 2025-03-31
+  - First Version
+1.0.0 2025-02-27 
+  - Initial release

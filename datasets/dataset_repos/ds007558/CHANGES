@@ -1,0 +1,2 @@
+1.0.0 2026-03-25
+  - Initial BIDS-formatted EEG dataset including pre- and post-intervention recordings across multiple groups. Data have been standardized to comply with BIDS specification.

@@ -1,0 +1,16 @@
+1.0.7 2026-03-25
+  - updated dataset_description file, adding now reference links
+1.0.6 2025-09-25
+  - fixed inaccuracies in the readme dataset description
+1.0.5 2025-08-29
+  - Fixed files corrupted resting-state files of subjects C01725, C01731, P0804, P0821, P0921.
+1.0.4 2025-07-17
+  - Fixed warnings regarding Gzip files
+1.0.3 2025-07-15
+  - Fixed typos in README file, fixed warnings reading task-based fmri stimuli files (SuspiciouslyLongBOLDDesign). Added GeneratedBy and SourceDatasets fields in the dataset_description.json
+1.0.2 2025-07-01
+  - Fixed events from task-finger from two subjects.  
+1.0.1 2025-06-27
+  - Changes in README file
+1.0.0 2025-06-27
+  - First commit

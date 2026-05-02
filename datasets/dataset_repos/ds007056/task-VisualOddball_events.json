@@ -1,0 +1,48 @@
+{
+  "onset": {
+    "Description": "Event onset time relative to the start of the EEG recording.",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event.",
+    "Units": "s"
+  },
+  "sample": {
+    "Description": "sample of the event."
+  },
+  "value": {
+    "Description": "Experimental condition label for the event.",
+    "Levels": {
+      "boundary": "boundary event",
+      "11": "Rare_Target",
+      "22": "Rare_Target",
+      "33": "Rare_Target",
+      "44": "Rare_Target",
+      "55": "Rare_Target",
+      "12": "Frequent_NonTarget",
+      "13": "Frequent_NonTarget",
+      "14": "Frequent_NonTarget",
+      "15": "Frequent_NonTarget",
+      "21": "Frequent_NonTarget",
+      "23": "Frequent_NonTarget",
+      "24": "Frequent_NonTarget",
+      "25": "Frequent_NonTarget",
+      "31": "Frequent_NonTarget",
+      "32": "Frequent_NonTarget",
+      "34": "Frequent_NonTarget",
+      "35": "Frequent_NonTarget",
+      "41": "Frequent_NonTarget",
+      "42": "Frequent_NonTarget",
+      "43": "Frequent_NonTarget",
+      "45": "Frequent_NonTarget",
+      "51": "Frequent_NonTarget",
+      "52": "Frequent_NonTarget",
+      "53": "Frequent_NonTarget",
+      "54": "Frequent_NonTarget",
+      "201": "CorrectResponse",
+      "202": "IncorrectResponse",
+      "1" : "Unknown",
+      "221" : "Unknown"
+    }
+  }
+}

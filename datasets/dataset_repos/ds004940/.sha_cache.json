@@ -1,0 +1,15 @@
+{
+  "CHANGES": "33562bcf41815fe95bc4b522fdd2785da2cda480",
+  "N400PvsA_stimuli_parameters.json": "3b833566b4bcca2caf3d9dbc7d707d7b62197e84",
+  "participants.json": "33922ae4c7e0deafae22e1a78da04188fce5d80c",
+  "task-N400Passive_eeg.json": "d396ee5fc5b23e997062fb8586b15d39540e52c7",
+  "participants.tsv": "4f8b498c00d97688857c4e24b6fe30683fe7d92b",
+  "task-N400Active_eeg.json": "7e1c609f027618e4c5da4ea05f635c48d31e91c3",
+  "task-N400Active_events.json": "cc3a7c3358d0ae1c65c1939f86e15c744b8214a8",
+  "dataset_description.json": "221d94d8ecb65be7cf5f72c61029f53fbb115da0",
+  "README": "992be0cd028c1592f700e68ebbee1540fb39d11b",
+  "N400PvsA_stimuli_parameters.tsv": "b1a119f2fabce9a8f5f5f86d8a29215322151caa",
+  "task-N400Passive_events.json": "7df21779a3cb9fec927594682f6b1b58f40942f1",
+  "sub-001/eeg/sub-001_task-N400Passive_events.tsv": "816f2edd3c9adb9265ea4809f12dee92645bef52",
+  "sub-001/eeg/sub-001_task-N400Active_events.tsv": "37baeb3e708f4e22087b480dd4e4d9e27b943b5a"
+}

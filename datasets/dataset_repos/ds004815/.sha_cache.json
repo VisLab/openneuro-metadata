@@ -1,0 +1,23 @@
+{
+  "participants.tsv": "e58dabc531211b719fb7e331932ad3a9e51370a1",
+  "participants.json": "643963b20b3e9d4a3de30a5655299fd94ec2396b",
+  "CHANGES": "a1606bf9a91ffec8bbb544e3640a1c2d183e7d82",
+  "dataset_description.json": "1974d96128bfee92403242e300f7dcc949089856",
+  "README": "6a9d24d1e95a830f8bc7e41bde53b159a8c873a1",
+  "sub-01/ses-01/func/sub-01_ses-01_task-auditory_run-01_events.tsv": "2e1690f8f831cac4caeb7b61d6984dcacbe49ec5",
+  "sub-01/ses-01/func/sub-01_ses-01_task-auditory_run-07_events.tsv": "981c35dbb55d1226b13d69e55278780d1dacba1f",
+  "sub-01/ses-01/func/sub-01_ses-01_task-auditory_run-02_events.tsv": "1903e677268e202346bfdde0b82f69a505453e51",
+  "sub-01/ses-01/func/sub-01_ses-01_task-auditory_run-06_events.tsv": "fc76b9a0c436066a6399883cbc1171b7b2194ed1",
+  "sub-01/ses-01/func/sub-01_ses-01_task-auditory_run-03_events.tsv": "ab359083c26737b4a9756b550995aec7d4125403",
+  "sub-01/ses-02/func/sub-01_ses-02_task-auditory_run-02_events.tsv": "5ea6854d4d77e27590b793fb8d2f9a8f0cf88a07",
+  "sub-01/ses-01/func/sub-01_ses-01_task-auditory_run-08_events.tsv": "2fdfb1eb85596261f0cb4aadcfce0504a3bc7a4d",
+  "sub-01/ses-01/func/sub-01_ses-01_task-auditory_run-05_events.tsv": "d26f11760ac560538915f3c621408bc754fbadb5",
+  "sub-01/ses-02/func/sub-01_ses-02_task-auditory_run-01_events.tsv": "186d72910ef140471b0026c633fa7a0667a38336",
+  "sub-01/ses-01/func/sub-01_ses-01_task-auditory_run-04_events.tsv": "3a869567943de4daef2cf5e2dd35b25513f5d0ff",
+  "sub-01/ses-02/func/sub-01_ses-02_task-auditory_run-08_events.tsv": "ddde73ae075d8642669dbf055219b4396f821b0f",
+  "sub-01/ses-02/func/sub-01_ses-02_task-auditory_run-04_events.tsv": "9057faa7daad0137442e5560abe79aefedf7b9ec",
+  "sub-01/ses-02/func/sub-01_ses-02_task-auditory_run-03_events.tsv": "6c7a409e3108cafa4c279e0c792e0de6f27222e2",
+  "sub-01/ses-02/func/sub-01_ses-02_task-auditory_run-06_events.tsv": "35680dcc0ce0d92425c549dac96ed7419af69bb3",
+  "sub-01/ses-02/func/sub-01_ses-02_task-auditory_run-05_events.tsv": "701d3bb8818c44e72b5a7296a02c6328dd14b746",
+  "sub-01/ses-02/func/sub-01_ses-02_task-auditory_run-07_events.tsv": "54e051f74322d3db8eb96aa780e68d8507a36682"
+}

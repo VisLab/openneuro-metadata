@@ -1,0 +1,13 @@
+{
+    "Name": "DeepMReye",
+    "BIDSVersion": "1.0.3",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006833.v1.0.1",
+    "Authors": [
+        "Sina Kling",
+        "Uriel Lascombes",
+        "Matthias Nau",
+        "Guillaume Masson",
+        "Martin Szinte"
+    ],
+    "License": "CC0"
+}

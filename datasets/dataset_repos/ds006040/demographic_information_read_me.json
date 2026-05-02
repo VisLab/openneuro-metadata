@@ -1,0 +1,8 @@
+{
+    "gender": {
+        "description": "1 represents Female, 0 represents Male"
+    },
+    "native_korean": {
+        "description": "1 represents Yes (Native Korean), 0 represents No"
+    }
+}

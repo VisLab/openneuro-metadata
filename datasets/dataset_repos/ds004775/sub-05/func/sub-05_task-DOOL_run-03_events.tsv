@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-05	0	3	baseline	0	0	0	0
+30	180	sub-05	16	3	3A	3	good	negative	Belle’s daughter gets very sick. 
+210	30	sub-05	106	3	baseline	0	0	0	0
+240	180	sub-05	121	3	2B	2	bad	negative	Chelsea’s terrible car accident. 
+420	30	sub-05	211	3	baseline	0	0	0	0
+450	180	sub-05	226	3	4A	4	bad	positive	Sami’s good luck. 
+630	30	sub-05	316	3	baseline	0	0	0	0
+660	180	sub-05	331	3	5C	5	random 	random	Becky – Random scenes
+840	30	sub-05	421	3	baseline	0	0	0	0
+870	180	sub-05	436	3	1A	1	good	positive	Belle’s daughter has survived. 
+1050	30	sub-05	526	3	baseline	0	0	0	0

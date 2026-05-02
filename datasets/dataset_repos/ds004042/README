@@ -1,0 +1,26 @@
+This dataset is described in the following articles:
+"Lee, H. & Chen, J. (2022a). Predicting memory from the network structure of naturalistic events. Nature Communications, 13, 4235"
+"Lee, H. & Chen, J. (2022b). A generalized cortical activity pattern at internally-generated mental context boundaries during unguided narrative recall. eLife, 11, e73693"
+"Lee, H., Chen, J., & Hasson, U. (2022). A functional neuroimaging dataset acquired during naturalistic movie watching and narrated recall of a series of short cinematic films. Data in Brief, 108788"
+
+Twenty 8-35 year old subjects with normal or corrected-to-normal vision participated. 
+They lay in a Skyra 3T scanner with a mirror on the head coil reflecting projected stimuli. 
+
+In Lee & Chen (2022a, 2022b), subjects 3, 4, 5, 6, and 15 were not analyzed due to excessive motion.
+One additional subject's data was collected but not uploaded as the subject had difficulty hearing during movie watching.
+
+Task 1: Movie watching
+Subjects watch 10 short films, ~50 minutes total. The movie watching task was split into two parts (5 movies each). 
+Each part started with a short (~40 s) cartoon introduction clip.
+
+Task 2: Free spoken recall
+With no prompts, subjects describe aloud everything they can remember from the films.
+
+There was no intervening task between the two tasks.
+Subjects 8, 10, 15, 16, and 18 had two scanning runs for the recall task, 
+either because they had to take a break or the duration of the scanning run exceeded the scanner limit (35 minutes).
+
+Due to copyright issues, we are not uploading the movie video files. 
+Detailed information about the movie stimuli can be found in Lee & Chen (2022a).
+
+The movie onset timestamps in the annotation .xlsx files (provided as additional files) are dependent on the human annotator's subjective perception; some movie transitions are not punctate (e.g., there may be a few seconds of black screen at the beginning or end, which is indistinguishable from the title scenes).

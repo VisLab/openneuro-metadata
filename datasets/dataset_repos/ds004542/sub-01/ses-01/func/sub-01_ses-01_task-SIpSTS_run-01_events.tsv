@@ -1,0 +1,9 @@
+onset	duration	trial_type
+3.0	16.04	interact
+19.04	16.0	non_interact
+35.04	16.02	interact
+51.06	16.03	non_interact
+81.12	16.02	non_interact
+97.14	16.1	interact
+113.24	16.03	non_interact
+129.27	16.09	interact

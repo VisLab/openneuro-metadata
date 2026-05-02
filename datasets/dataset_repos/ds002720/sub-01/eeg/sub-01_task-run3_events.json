@@ -1,0 +1,12 @@
+{
+	"1":
+	{
+		"LongName":	"Lower alpha",
+		"Description": "Participants are instructed to lower their alpha levels to modulate the position of an on-screen cue or the tempo of some music"
+	},
+	"2":
+	{
+		"LongName":	"Raise alpha",
+		"Description": "Participants are instructed to increase their alpha levels to modulate the position of an on-screen cue or the tempo of some music"
+	}
+}

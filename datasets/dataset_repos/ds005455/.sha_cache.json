@@ -1,0 +1,14 @@
+{
+  "dataset_description.json": "a159d69558f2d6f66323f4f409f4fbce7943e309",
+  "README": "6bee5407cebdc99877bc698cede5ede42eeba6ba",
+  "scans.json": "c31c3fa635f8c17fca6f8259e608013d19fc7214",
+  "task-LanguageControl_bold.json": "9d0603d0358f875192db19ac2fce1e2aeb1a9a0a",
+  "participants.json": "1958bb776445a90fc34dcf58ac6d043d7f849b69",
+  "CHANGES": "4b7ea90dad4388d1b401f2f6d3bfc20dd8b0039b",
+  "participants.tsv": "458b96e89382c0813e455e1a819b9829349fef02",
+  "task-CognitiveControl_bold.json": "6a24869cd9d353d9c15cc86e4810e723608ad5eb",
+  "sub-001/func/sub-001_task-CognitiveControl_run-01_events.tsv": "79bd5af8891267b163e5b83233eec8e883095a5b",
+  "sub-001/func/sub-001_task-LanguageControl_run-02_events.tsv": "48f3aeade9e7b57f9191720eba608fe7ee4e7a87",
+  "sub-001/func/sub-001_task-CognitiveControl_run-02_events.tsv": "91fc31ef307643ddd72dd705fccbcc071bb40cfb",
+  "sub-001/func/sub-001_task-LanguageControl_run-01_events.tsv": "0d00c5288b82db9cd9b0dabcb741d45da3d09651"
+}

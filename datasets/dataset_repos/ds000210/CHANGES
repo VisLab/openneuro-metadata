@@ -1,0 +1,18 @@
+2.0.0	2018-04-09
+
+	- Renamed dataset name to same as OpenfMRI
+
+1.0.0	2018-04-09
+
+	- Initial publish
+
+Revision history for OpenfMRI dataset ds000210
+
+1.0.1 2017-10-13
+
+  - Converted dataset to BIDS Spec 1.0.2
+
+1.0.0  2016-10-05
+
+  - Original Release
+

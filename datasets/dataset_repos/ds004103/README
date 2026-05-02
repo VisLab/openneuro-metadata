@@ -1,0 +1,40 @@
+# Collaborations and deceptions in strategic interactions revealed by hyperscanning fMRI
+
+## Aims:
+
+The current study aims to investigate the neural mechanisms of interpersonal collaborations and deceptions, with an Opening Treasure Chest (OTC) game under the fMRI hyperscanning setup. 
+
+## Methods
+
+*fMRI:* In this hyperscanning fMRI study, the participant pairs (n=33) from Taipei and Tainan joined an opening-treasure-chest (OTC) game, where the dyads took alternative turns as senders (to inform) and receivers (to decide) for guessing the right chest. 
+The cooperation condition was achieved by, upon successful guessing, splitting the $200NTD trial reward, thereby promoting mutual trust. The competition condition, in contrast, was done by, also upon winning, the latter receivers taking all the $150NTD reward, thereby encouraging strategic interactions.
+
+## General findings and importance:
+
+For fMRI, the GLM contrasts reaffirmed the three documented sub-networks related to social deception: theory-of-mind (ToM), executive control, and reward processing. Another key finding was the negative correlations between the connectivity of right temporo-parietal junction (rTPJ, known as the ToM region) and emotion-related regions, including amygdala, parahippocampal gyrus, and rostral anterior cingulate (rACC), and senders’ lying rates. Furthermore, the Multi-Voxel Pattern Analysis (MVPA) over multiple searchlight-unearthed Region-Of-Interests (ROIs) in classifying either the “truth-telling vs. lying in $150” or the “truthful in $200 vs. truthful in $150” conditions achieved 61% and 84.5%, respectively. Lastly, principal component analysis (PCA) could reduce these high dimensional fMRI data in above-mentioned comparisons to the same level of accuracy with less than 200 or less than 10 components, respectively, suggesting that it may be due more to the individual difference in
+explaining the suboptimal results. To sum up, these results reveal the neural substrates underpinning the idiosyncratic social deceptions in dyadic interactions.
+
+## Sample Size
+
+Sixty-six (33 pairs) participants, between 20 and 30 years of age (M=23.4, SD=2.9), participated in the study. 
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset
+page.
+
+Known Issues
+------------
+
+
+Bids-validator Output
+---------------------
+

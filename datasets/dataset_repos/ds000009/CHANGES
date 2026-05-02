@@ -1,0 +1,19 @@
+2.0.1 20160508
+
+    - Fixed NA values in events.tsv files
+
+2.0.0 20160325
+
+    - Conversion to BIDS format. Data have been regenerated from source
+      where possible
+
+1.1.0 20160221
+
+    - Update orientation information in NIFTI headers for better
+      left-right determination
+
+1.0.0 20140203
+
+    - Initial Release
+
+

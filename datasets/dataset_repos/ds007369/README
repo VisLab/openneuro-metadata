@@ -1,0 +1,73 @@
+# Invariant Versus Context-Specific Representation of Face Shape and Motion in the Face Network
+
+This repository contains the fMRI dataset associated with the study:
+
+> Hosseini, S. S., & Soto, F. A. (2025). *Invariant versus context-specific representation of face shape and motion in the face network.* Preprint.
+
+## Dataset overview
+
+This dataset includes whole-brain fMRI data from **12 participants** who viewed dynamic synthetic face stimuli in which **facial shape and facial motion were independently manipulated**. The experiment was designed to test whether neural representations of face shape and motion in face-selective cortical regions are invariant or context-specific.
+
+Participants viewed short videos generated from 3D face models, combining:
+- 3 facial shapes (identities)
+- 3 facial motion patterns (pose-preserving and pose-changing)
+
+The dataset includes:
+- Raw functional and anatomical MRI data in **BIDS format**
+- Event timing files for all runs
+- Functional localizer data for defining face-selective ROIs
+
+All anatomical images have been **defaced** to protect participant privacy.
+
+## Experimental design
+
+The experiment consisted of:
+- A behavioral familiarization session
+- A face localizer task (faces vs objects)
+- A main event-related task with dynamic face stimuli
+
+Participants performed a one-back repetition detection task during scanning.
+
+Full details of stimuli, procedure, and analysis are provided in the paper.
+
+## Related resources
+
+Derived data, statistical maps, beta estimates, and full analysis code are available on OSF:
+
+👉 https://osf.io/q2v68
+
+The OSF repository includes:
+- Single-trial beta estimates
+- ROI masks
+- Decoding analysis scripts (Python)
+- Reproduction code for all figures in the paper
+
+This OpenNeuro dataset contains only the **raw MRI data** required to reproduce those analyses.
+
+## Data structure
+
+The dataset follows the Brain Imaging Data Structure (BIDS) specification:
+
+- `sub-*/ses-*/anat/` – T1-weighted anatomical images  
+- `sub-*/ses-*/func/` – Functional runs (main task and localizer)  
+- `events.tsv` files – Trial-level timing and condition labels  
+- `dataset_description.json` – Dataset metadata  
+
+## How to cite
+
+If you use this dataset, please cite:
+
+Hosseini, S. S., & Soto, F. A. (2025). *Invariant versus context-specific representation of face shape and motion in the face network.*
+
+And include a link to this OpenNeuro dataset.
+
+## License
+
+This dataset is released under the **CC0 1.0 Public Domain Dedication**.  
+You are free to use, share, and adapt the data without restriction.
+
+## Notes
+
+- This dataset is intended for research and educational use.
+- All participants provided informed consent for public data sharing.
+- Faces in anatomical images have been removed via automated defacing.

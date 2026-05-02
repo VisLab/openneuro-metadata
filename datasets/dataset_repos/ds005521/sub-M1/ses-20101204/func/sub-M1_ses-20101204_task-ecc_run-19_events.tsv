@@ -1,0 +1,18 @@
+onset	duration	ring_color	ring_radius
+0	16	Gray	n/a
+16	16	Black White	1.5d
+32	16	Gray	n/a
+48	16	Black White	3.5d-1.5d
+64	16	Gray	n/a
+80	16	Black White	7d-3.5d
+96	16	Gray	n/a
+112	16	Black White	10d-7d
+128	16	Gray	n/a
+144	16	Red Green	1.5d
+160	16	Gray	n/a
+176	16	Red Green	3.5d-1.5d
+192	16	Gray	n/a
+208	16	Red Green	7d-3.5d
+224	16	Gray	n/a
+240	16	Red Green	10d-7d
+256	16	Gray	n/a

@@ -1,0 +1,9 @@
+{
+  "CHANGES": "fd67b0b4ec8ec2c329032999035a7b8e9fe14ae6",
+  "participants.json": "597f726ea25e127beadce44b884f54a434e15ca8",
+  "task-rdk_events.json": "c6d5b0c621a6dd8de2c37d6e0b71808bbdd9218d",
+  "dataset_description.json": "b9738fd9eb3bbc171ef8b856631944d11ab1e530",
+  "participants.tsv": "e90d7b8fd681ef776cdc98c97ef3dd1fdc4e2ddb",
+  "README": "e54ecbf024fee249009bb8c94a15a8856d9ee6fa",
+  "sub-S01/eeg/sub-S01_task-rdk_events.tsv": "e2dd14a9ef6dbf5fde639cab600c2f0dc9cbbfd7"
+}

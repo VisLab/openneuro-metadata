@@ -1,0 +1,50 @@
+# Gamified Attention Bias Modification Training to Augment CBT for Youth Anxiety Disorders: A Randomized Controlled Trial
+
+A comprehensive dataset for the data included in the manuscript entitled “Gamified Attention Bias Modification Training to Augment CBT for Youth Anxiety Disorders: A Randomized Controlled Trial.” This dataset contains demographic variables, clinical symptoms reported by clinicians, self, and parent, and BIDS-formatted imaging data.
+
+## Participants
+
+Treatment-seeking pediatric patients with a primary anxiety disorder (n = 121) and healthy volunteer youth (n = 90) completed questionnaires and participated in two task-based functional magnetic resonance imaging (fMRI) scans utilizing an attention-bias threat-based dot-probe task. After the first fMRI scan ("pre"-scan), patients with an anxiety disorder participated in 12 weeks of manualized cognitive behavioral therapy (CBT) with nine weeks of augmentative gamified attention bias modification training (ABMT) from weeks 4-12 of CBT. Youth were randomly assigned to an active or sham version of ABMT. Patients completed the second fMRI scan after week 12 of CBT ("post"-scan). Healthy volunteers did not participate in CBT or ABMT; they completed the two fMRI scans on a similar time interval to parallel patients. A full overview can be found in `sourcedata/cohort_diagram.jpg`.
+
+## Participant Eligibility
+
+Participants included youth ages 8-17 years. To be eligible for the study, participants needed to be able to read, speak, and understand English. Two groups of participants were included in the current study:
+
+1. Youth with a primary diagnosis of an anxiety disorder (generalized, social, separation anxiety disorder, panic disorder, or specific phobia).
+2. Youth with no psychiatric diagnoses (healthy volunteers), as assessed by a clinician using the Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime version (KSADS-PL).
+
+Participants were excluded for:
+
+- IQ < 70
+- diagnosis of autism spectrum disorder, past and/or current posttraumatic stress disorder, or schizophrenia
+- substance use within the past three months
+- neurological disorder
+
+Parents and youth completed written informed consent and assent, respectively. Families received monetary compensation.
+
+## Clinical Measures
+
+Clinical symptoms were assessed by clinician, self, and parent, and youth completed a task-based fMRI scan twice to capture change in attention bias.
+
+Anxiety symptoms were assessed by the Screen for Child Anxiety Related Emotional Disorders (SCARED) child-self or parent report total scores and subscale scores, the Pediatric Anxiety Rating Scale (PARS) clinician report, and the Clinical Global Impression (CGI) clinician report.
+
+## Biological and Physiological Measures
+
+No biological or physiological measures were included in any analyses.
+
+## Imaging Studies
+
+Structural and functional data were included. No resting state imaging data were included in any analyses.
+
+Neuroimaging data were acquired on two identical 3T GE scanners with 32-channel head coils. A high-resolution T1 structural scan was acquired (MPRAGE: NEX=1, TE = min full; TI = 900ms, FOV=25.6cm, matrix = 256×176, bandwidth = 25.00Hz per 256 voxels). Functional image volumes were collected with a T2*-weighting gradient-echo pulse sequence (TR=2300ms, echo time=25ms, flip angle=50°, FOV=24 cm, matrix=96×96, 2.5x2.5x3mm resolution).
+
+The dot-probe fMRI task includes three conditions in a random order:
+
+1. 80 threat-congruent trials: the arrow is presented in the previously vacated location of the angry face.
+2. 80 threat-incongruent trials: the arrow is presented in the previous neutral face location.
+3. 80 neutral trials: both faces were neutral.
+
+## Contacts
+
+- Contact: Meghan E. Byrne ([meghan.byrne2@nih.gov](mailto:meghan.byrne2@nih.gov))
+- Dataset curation supported by the [NIMH Data Science & Sharing Team](https://cmn.nimh.nih.gov/dsst) ([nimhdsst@mail.nih.gov](mailto:nimhdsst@mail.nih.gov)).

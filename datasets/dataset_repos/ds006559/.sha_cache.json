@@ -1,0 +1,14 @@
+{
+  "dataset_description.json": "8d6bb5583b57fbf212ee1234863c7543d1d6eb0e",
+  "CHANGES": "8d48cf4b60980e106c48f9531511ba4b494149d9",
+  "task-persuade_bold.json": "0d79ae436ae47d3852380245973f14fc2f83dee0",
+  "README": "4ea4df338a2fd3becd0994b243674e1c1bde596a",
+  "participants.tsv": "acffa8bf23401b41210e6565e66301ae90c2b895",
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "sub-02/func/sub-02_task-persuade_run-1_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-02/func/sub-02_task-persuade_run-5_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-02/func/sub-02_task-persuade_run-4_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-02/func/sub-02_task-persuade_run-3_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-02/func/sub-02_task-persuade_run-2_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5"
+}

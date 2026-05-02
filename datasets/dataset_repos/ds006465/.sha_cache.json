@@ -1,0 +1,15 @@
+{
+  "participants.json": "6bd1deedf896aa932d1f05462adfa58d968d93de",
+  "participants.tsv": "34ebccb29dca45ca9e8b785df075524877c23ca6",
+  "CHANGES": "c8e82df219fa7ff73b87cf0efa507b0c3fdf8396",
+  "dataset_description.json": "d2d151a3bb39caf2ca8d3d96eaa8626c1032cef5",
+  "README.md": "83b5488d0992a762f13fe5c22fae4524b52557c7",
+  "sub-01/ses-2/eeg/sub-01_ses-2_task-imaginedspeech_events.tsv": "452e9d4a33d55e70860afc08d73bb9c8eb7f5853",
+  "sub-01/ses-3/eeg/sub-01_ses-3_task-imaginedspeech_events.tsv": "4b3026c28fef88eb2e9fbf547c9d9134eac8bf62",
+  "sub-01/ses-1/eeg/sub-01_ses-1_task-imaginedspeech_events.json": "fc8174cc3c7e0c1a49155c8c69b4da9df0f6f96a",
+  "sub-01/ses-4/eeg/sub-01_ses-4_task-imaginedspeech_events.tsv": "29dc408604afbef313ab862260fc7f1fe03ec774",
+  "sub-01/ses-3/eeg/sub-01_ses-3_task-imaginedspeech_events.json": "fc8174cc3c7e0c1a49155c8c69b4da9df0f6f96a",
+  "sub-01/ses-1/eeg/sub-01_ses-1_task-imaginedspeech_events.tsv": "9859f6393a8bcb429d34c41952d73d1585f0ecb5",
+  "sub-01/ses-2/eeg/sub-01_ses-2_task-imaginedspeech_events.json": "fc8174cc3c7e0c1a49155c8c69b4da9df0f6f96a",
+  "sub-01/ses-4/eeg/sub-01_ses-4_task-imaginedspeech_events.json": "fc8174cc3c7e0c1a49155c8c69b4da9df0f6f96a"
+}

@@ -1,0 +1,10 @@
+{
+  "participants.tsv": "46facb5431c1624a90662a3a6915fcd80ebd7f28",
+  "participants.json": "45915e7d40c421115022532b830fe49f9251ba6a",
+  "CHANGES": "85ae6a94ab9cf770b64ed7c70b755cd35571fd03",
+  "dataset_description.json": "824cb238b3365af31399a2c60e2a50bcbed6fad6",
+  "task-PassiveViewing_events.json": "cc5e2398f360cf8986c6bc04211f8d741d1bfe5d",
+  "README": "caf6d83601ee6ac4c7de2c129cf1c83a06fe99f5",
+  "sub-001/eeg/sub-001_task-PassiveViewing_events.json": "b69de00690d72407e9ed1252ce6deeb9c4cc6787",
+  "sub-001/eeg/sub-001_task-PassiveViewing_events.tsv": "9729d07a92c94c30765f87d65a14c769c87a9e86"
+}

@@ -1,0 +1,101 @@
+onset	duration	trial_type	accuracy	response_time	stimA	stimB	stimC	match_posit
+4.0	4.91	Grammatical	1	0.522	divers	were	floating	n/a
+8.91	4.91	Ungrammatical	1	0.399	squirrels	has	sniff	n/a
+13.82	4.91	Grammatical	1	0.46	buyers	can	rent	n/a
+18.73	4.91	Ungrammatical	1	0.621	wolf	could	howling	n/a
+23.64	4.91	Grammatical	1	0.487	salesman	is	loud	n/a
+28.55	4.91	Ungrammatical	1	0.597	cousin	is	talk	n/a
+33.46	4.91	Grammatical	1	0.563	witness	is	honest	n/a
+38.37	4.91	Ungrammatical	1	0.695	librarians	can	accusing	n/a
+43.28	4.91	Grammatical	1	0.563	fox	was	clever	n/a
+48.19	4.91	Grammatical	1	0.663	collector	was	blamed	n/a
+57.1	4.91	control	1	0.458	\ /	/ \	/ \	2.0
+62.01	4.91	control	1	0.472	\ /	/ \	/ /	n/a
+66.92	4.91	control	1	0.521	\ \	\ /	\ \	1.0
+71.83	4.91	control	1	0.511	\ \	\ /	/ \	n/a
+76.74	4.91	control	1	0.591	/ /	/ \	\ \	n/a
+81.65	4.91	control	1	0.443	/ /	/ \	/ \	2.0
+86.56	4.91	control	1	0.444	\ /	/ \	\ /	1.0
+91.47	4.91	control	1	0.504	/ /	/ \	/ /	1.0
+96.38	4.91	control	1	0.436	/ \	/ /	\ /	n/a
+101.29	4.91	control	1	0.445	\ \	\ /	\ /	2.0
+110.2	4.91	Grammatical	1	0.634	lion	was	chained	n/a
+115.11	4.91	Ungrammatical	1	0.345	beavers	has	asleep	n/a
+120.02	4.91	Ungrammatical	1	0.417	alligator	are	biting	n/a
+124.93	4.91	Grammatical	1	0.566	snake	was	cornered	n/a
+129.84	4.91	Grammatical	1	0.523	pilots	are	landing	n/a
+134.75	4.91	Ungrammatical	1	0.556	wife	are	creative	n/a
+139.66	4.91	Grammatical	1	0.454	weavers	could	knit	n/a
+144.57	4.91	Grammatical	1	0.493	clowns	were	silly	n/a
+149.48	4.91	Ungrammatical	1	0.607	players	were	change	n/a
+154.39	4.91	Grammatical	1	0.558	ladies	were	helped	n/a
+163.3	4.91	control	1	0.476	/ /	\ \	\ \	2.0
+168.21	4.91	control	1	0.592	/ \	/ /	/ \	1.0
+173.12	4.91	control	1	0.358	\ /	\ \	\ \	2.0
+178.03	4.91	control	1	0.459	/ /	\ \	\ /	n/a
+182.94	4.91	control	1	0.432	/ /	\ \	/ /	1.0
+187.85	4.91	control	1	0.39	/ \	/ /	/ /	2.0
+192.76	4.91	control	1	0.501	/ \	\ \	/ /	n/a
+197.67	4.91	control	1	0.517	\ /	\ \	\ /	1.0
+202.58	4.91	control	1	0.492	\ /	/ /	/ \	n/a
+207.49	4.91	control	1	0.525	\ \	/ /	/ \	n/a
+216.4	4.91	Grammatical	1	0.667	janitor	has	swept	n/a
+221.31	4.91	Ungrammatical	1	0.591	grooms	could	nervous	n/a
+226.22	4.91	Grammatical	1	0.529	soldiers	could	attack	n/a
+231.13	4.91	Ungrammatical	1	0.479	generals	was	tripping	n/a
+236.04	4.91	Ungrammatical	1	0.772	voters	was	cheering	n/a
+240.95	4.91	Grammatical	1	0.485	toad	could	jump	n/a
+245.86	4.91	Grammatical	1	0.5	director	can	watch	n/a
+250.77	4.91	Ungrammatical	0	0.665	cooks	have	tasting	n/a
+255.68	4.91	Grammatical	1	0.703	musician	can	tune	n/a
+260.59	4.91	Grammatical	1	0.524	rats	were	climbing	n/a
+269.5	4.91	control	1	0.474	\ \	/ /	/ /	2.0
+274.41	4.91	control	1	0.525	/ /	/ \	\ \	n/a
+279.32	4.91	control	1	0.46	/ /	\ /	/ \	n/a
+284.23	4.91	control	1	0.551	/ /	\ /	/ /	1.0
+289.14	4.91	control	1	0.586	/ \	\ \	/ \	1.0
+294.05	4.91	control	1	0.446	/ /	\ /	\ /	2.0
+298.96	4.91	control	1	0.373	/ \	\ \	\ \	2.0
+303.87	4.91	control	1	0.61	\ /	/ \	/ /	n/a
+308.78	4.91	control	1	0.509	\ \	/ /	\ \	1.0
+313.69	4.91	control	1	0.499	\ \	/ \	/ /	n/a
+322.6	4.91	Grammatical	1	0.629	turkey	was	roasted	n/a
+327.51	4.91	Grammatical	1	0.642	dove	has	perched	n/a
+332.42	4.91	Ungrammatical	1	0.659	horses	have	fast	n/a
+337.33	4.91	Ungrammatical	1	0.625	manager	could	serious	n/a
+342.24	4.91	Grammatical	1	0.565	detectives	are	surprised	n/a
+347.15	4.91	Ungrammatical	1	0.595	nephew	has	lazy	n/a
+352.06	4.91	Grammatical	1	0.597	maids	can	serve	n/a
+356.97	4.91	Ungrammatical	1	0.417	vets	is	examine	n/a
+361.88	4.91	Grammatical	1	0.542	cat	can	drink	n/a
+366.79	4.91	Grammatical	1	0.602	sisters	are	smiling	n/a
+375.7	4.91	control	1	0.489	\ \	\ /	/ \	n/a
+380.61	4.91	control	1	0.506	\ \	/ \	\ \	1.0
+385.52	4.91	control	1	0.399	/ \	\ /	\ /	2.0
+390.43	4.91	control	1	0.562	\ /	/ /	\ /	1.0
+395.34	4.91	control	1	0.383	\ /	/ /	/ /	2.0
+400.25	4.91	control	1	0.509	/ \	/ /	\ /	n/a
+405.16	4.91	control	1	0.472	\ \	/ /	\ /	n/a
+410.07	4.91	control	1	0.412	\ \	/ \	/ \	2.0
+414.98	4.91	control	1	0.482	/ \	\ /	/ \	1.0
+419.89	4.91	control	1	0.521	/ /	\ \	\ /	n/a
+428.8	4.91	Grammatical	1	0.555	pig	is	snorting	n/a
+433.71	4.91	Grammatical	1	0.514	builders	are	strong	n/a
+438.62	4.91	Ungrammatical	1	0.577	experts	are	test	n/a
+443.53	4.91	Grammatical	1	0.47	riders	are	exercising	n/a
+448.44	4.91	Grammatical	1	0.551	coach	can	win	n/a
+453.35	4.91	Grammatical	1	0.508	gardeners	are	digging	n/a
+458.26	4.91	Ungrammatical	1	0.585	uncle	had	learning	n/a
+463.17	4.91	Grammatical	1	0.538	strangers	were	chosen	n/a
+468.08	4.91	Ungrammatical	1	0.312	turtles	was	hide	n/a
+472.99	4.91	Ungrammatical	0	0.601	boxer	has	punching	n/a
+481.9	4.91	control	1	0.581	/ /	/ \	/ /	1.0
+486.81	4.91	control	1	0.508	\ \	/ \	\ /	n/a
+491.72	4.91	control	1	0.507	\ \	\ /	\ \	1.0
+496.63	4.91	control	1	0.441	\ /	\ \	\ \	2.0
+501.54	4.91	control	1	0.568	/ \	\ \	/ \	1.0
+506.45	4.91	control	1	0.441	/ \	/ /	/ /	2.0
+511.36	4.91	control	1	0.661	/ /	\ /	\ \	n/a
+516.27	4.91	control	1	0.552	\ /	/ /	\ \	n/a
+521.18	4.91	control	1	0.374	\ \	/ \	/ \	2.0
+526.09	4.91	control	1	0.458	/ \	\ \	/ /	n/a

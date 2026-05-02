@@ -1,0 +1,12 @@
+{
+  "CHANGES": "6f77ccbdf37cf5de9ab2005d581122d2c7920617",
+  "participants.tsv": "d7f41baee4f98f84eb8ac32b0639b3227a24ad30",
+  "participants.json": "d9e907dfa8669f5705742d41f271aa36cf70bd6d",
+  "dataset_description.json": "8b7070fbd30d63378322d40194980c184207abd4",
+  "README.txt": "2ef07687eeb0549b1c1b693c6254fd83f3f84d6c",
+  "task-cat_events.json": "aa8d07e17c75f164c01f988007ba3f886ae4af4e",
+  "sub-101/func/sub-101_task-cat_run-4_events.tsv": "373e1dc15c6a6a0d04c3f8966ebf1c12b7c246b2",
+  "sub-101/func/sub-101_task-cat_run-2_events.tsv": "23b23859906759c48f7dd7c76e1c4699fe5ec1b3",
+  "sub-101/func/sub-101_task-cat_run-3_events.tsv": "76e5901575e94204e44acac71a92c3a875472e0b",
+  "sub-101/func/sub-101_task-cat_run-1_events.tsv": "be701f24e1aa02cd73fb540421f42a0f427c1cc4"
+}

@@ -1,0 +1,11 @@
+The project about optogenetic fMRI stimulating dorsal raphe serotonin neurons under awake state and anesthetized state.
+
+Findings of the works
+- Functional map of serotonergic activation by optogenetics, including reward-related network
+- General anesthetics, isoflurane, reverses brain-wide activation by DRN stimulation
+- Functional map was correlated with structural density.
+- The expression of 5-HT receptors and structural density can explain the functional maps.
+- General anesthetics may change receptor response.
+
+Codes are also available from github.
+https://github.com/Taiyou/OptofMRI_5HT/tree/main

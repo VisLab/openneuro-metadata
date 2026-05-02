@@ -1,0 +1,19 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Verio",
+	"EchoTrainLength": 147,
+	"InstitutionName": "SIBR",
+	"InstitutionAddress": "Frew_4805_Pittsburgh_PA_District_US_15213",
+	"DeviceSerialNumber": "40482",
+	"SoftwareVersions": "syngo_MR_B17",
+	"ScanningSequence": "SE",
+	"SequenceVariant": "SK_SP",
+	"SequenceName": "_spc3d1_294ns",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 120,
+	"EchoTime": 0.418,
+	"RepetitionTime": 3,
+	"PhaseEncodingLines": 258,
+	"AccelFactPE": 2,
+	"PhaseEncodingDirection": "i-"
+}

@@ -1,0 +1,10 @@
+{
+  "T1w.json": "16c290347f9d4a208c4fd24e92a5ea968bbc314d",
+  "CHANGES": "007ade6709b0090cf7da313496bf00e451b76e5a",
+  "task-rapm_events.json": "6b9bd92479258ededc7a82080af7de82ac13a55d",
+  "dataset_description.json": "6a7707d77f117603039025b151e802e43e797084",
+  "participants.json": "9b7e51063db58a995383b926227e5dfe8155f158",
+  "participants.tsv": "6e13fd1933cd507388dfd45b216cac2752f2985d",
+  "task-rapm_bold.json": "1c70b28b44fc3e1dcfd86f24a98294120f772fb5",
+  "sub-01/func/sub-01_task-rapm_events.tsv": "e416f327caf35b351622a718572cb9f7b47c075b"
+}

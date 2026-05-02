@@ -1,0 +1,20 @@
+{
+    "Name": "Cross-linguistic song listening fMRI dataset",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Ling-Yao Chien",
+        "Chen-Gia Tsai"
+    ],
+    "Acknowledgements": "Data were collected at the Imaging Center for Integrated Body, Mind, and Culture Research, National Taiwan University.",
+    "HowToAcknowledge": "Please cite the associated publication when using this dataset.",
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007645.v1.0.0",
+    "Funding": [
+        "NSC 112-2410-H-002 -071"
+    ],
+    "EthicsApprovals": [
+        "The study was approved by the Institutional Review Board of National Taiwan University (202210HM014) and all methods were performed in accordance with the relevant guidelines and regulations of the Declaration of Helsinki."
+    ]
+}

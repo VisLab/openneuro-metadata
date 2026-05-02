@@ -1,0 +1,15 @@
+{
+  "CHANGES": "24d6e47fbe45d206d3f540056ffab06a13955364",
+  "participants.tsv": "2cc5b0347f4cf1c134511b16cd436ea494d04e6b",
+  "dataset_description.json": "ae51ef5c72dfc9aa7442eb9aef68b4b2d3f5d1d6",
+  "participants.json": "19abe0b0e4002d3fa0ab96799bd458ab5552789e",
+  "README": "59c23e2c1ce7a536f5f9108c0e6cafc6c147e435",
+  "sub-K0059/meg/sub-K0059_task-vowels_run-03_events.tsv": "6572b87da1da115ab68b4428c9f000d7723b0e16",
+  "sub-K0059/meg/sub-K0059_task-vowels_run-03_events.json": "fd61e1643a994b4e54d30b981645d3eff492c5c6",
+  "sub-K0059/meg/sub-K0059_task-vowels_run-02_events.json": "fd61e1643a994b4e54d30b981645d3eff492c5c6",
+  "sub-K0059/meg/sub-K0059_task-vowels_run-01_events.tsv": "01a394a209a53297895d312887dde38bea4bbf7b",
+  "sub-K0059/meg/sub-K0059_task-vowels_run-01_events.json": "fd61e1643a994b4e54d30b981645d3eff492c5c6",
+  "sub-K0059/meg/sub-K0059_task-vowels_run-04_events.json": "fd61e1643a994b4e54d30b981645d3eff492c5c6",
+  "sub-K0059/meg/sub-K0059_task-vowels_run-04_events.tsv": "06ec007c68c08fabfb9965c51b7be97d26f4c4eb",
+  "sub-K0059/meg/sub-K0059_task-vowels_run-02_events.tsv": "0c8d6464bc48265e80ee7814f207267686348013"
+}

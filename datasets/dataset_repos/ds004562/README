@@ -1,0 +1,5 @@
+This is the dataset for publication: Song Y, Shin W, Kim P and Jeong J (2023) Neural representations for multi-context visuomotor adaptation and the impact of common representation on multi-task performance: a multivariate decoding approach. Front. Hum. Neurosci. 17:1221944. doi: 10.3389/fnhum.2023.1221944
+
+Sub-16 was unable to complete the MRI session due to arm numbness, so sub-16 was excluded from the analysis.
+
+Additional relevant codes and behavioral data can be found on OSF here: https://github.com/YJ-0000/Multi-context_Representation_during_VisuomotorAdaptation.git

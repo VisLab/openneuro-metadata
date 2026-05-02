@@ -1,0 +1,11 @@
+## Defacing
+
+Pydeface was used on all anatomical images to ensure 
+deindentification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+## Known Issues
+
+- BIDS validator warns that some stimuli files are not included in events.tsv. This is due to listing stimuli as stim1_file and stim2_file in events.tsv files as each trial contained two stimuli. All stimuli were confirmed to exist in stimuli/ directory and be used in events.tsv files
+- Slices were acquired interleaved from bottom to top, odd first.
+- Age at phenotype / standardized testing and shifted(deidentified) date of birth is provided in participant.tsv. Shifted(deidentified) acquisition date of each imagining file is provided in sidecar json file for each image. Date of standardized testing is not available.

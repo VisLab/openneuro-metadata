@@ -1,0 +1,8 @@
+1.2.1 2026-02-18
+  - Updated datacite.yml with the corrected title.
+1.2.0 2026-02-16
+  - Updated README
+1.1.0 2026-02-13
+  - Version 1.1.0 — 2026‑02   Updates: Updated README for clarity. Updated datacite.yml with ORCID information. Added missing DWI sidecar files (.bval, .bvec). Updated DWI .json metadata to include acquisition parameter details. Readme
+1.0.0 2025-11-20
+  - Release 1

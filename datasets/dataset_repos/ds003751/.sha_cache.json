@@ -1,0 +1,9 @@
+{
+  "participants.json": "a962e16a65af39ff2e5f6abc531612b7af15eab4",
+  "dataset_description.json": "084b53c08c9f0ac503ff96801352d677aae69d17",
+  "participants.tsv": "fe03725c95ce54f700794257db7979929e0a0da9",
+  "LICENSE": "17517a37e8b06409464774c435cee3ce662269aa",
+  "CHANGES": "d689e30c627e94be4425f810ec4f40215699a571",
+  "README": "4e23bacf7fba38d9ef49875f80e2da5aec7ecbff",
+  "sub-mit113/eeg/sub-mit113_task-emotion_events.tsv": "8fd1063f77354fcb70ccd1b80aba0a3ca5abfbbb"
+}

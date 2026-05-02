@@ -1,0 +1,4 @@
+1.0.1 2023-09-27
+  - Added link to the preprint for acknowledgements
+1.0.0 2023-09-19
+  - First version of the dataset, including anatomical, field map and fMRI data from the placebo pain task for N = 395 participants. The dataset also includes derivatives, with beta estimate maps of each condition from the participant-level analysis (merged into a single nii.gz file) and the corresponding behavioral data.

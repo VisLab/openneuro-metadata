@@ -1,0 +1,16 @@
+{
+    "Name": "EEG Mortality Dataset in Parkinson's Disease",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Simin Jamshidi",
+        "Arturo Espinoza",
+        "Soura Dasgupta",
+        "Nandakumar Narayanan"
+    ],
+    "Modalities": [
+        "EEG"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007020.v1.0.0"
+}

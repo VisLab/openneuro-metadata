@@ -1,0 +1,9 @@
+{
+  "dataset_description.json": "66f0ff34817a7a5c6605859c750221debb7f6ba9",
+  "README": "b108d2c2b6683c6962ac4eaad5f65fa4c3c95f55",
+  "CHANGES": "cf02db8226d4ab9970dd35124ef5a3d9998e6ddb",
+  "participants.json": "2f15a3982c53b9854fa560aaa4910cd3fd9a7fb7",
+  "participants.tsv": "4ae61eacc0397e6535477731014949aa58c55978",
+  "sub-01/eeg/sub-01_task-drumtrainer_events.json": "dd1a3257bc9d91c6f2e91dcbcac7e2c3448c4fa5",
+  "sub-01/eeg/sub-01_task-drumtrainer_events.tsv": "fc2e96cb2d120f04c64bdfa4cf4a471e591f5cd8"
+}

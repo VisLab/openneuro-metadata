@@ -1,0 +1,19 @@
+{
+  "CHANGES": "a537fb0841a6b33af0b3519d400118956bc3f393",
+  "README": "7639ffd20b0fc0561a3d6dd1c81a85af3b5cdc70",
+  "dataset_description.json": "e4f12f3605cf7dd34d5b867507e431985780b714",
+  "task-condassoc_bold.json": "f181dc08ff7b1e44dd076f1b82ebe654299987a3",
+  "participants.tsv": "5a67c3fd149a2fd8307bda0db5cfd1600f478cc2",
+  "sub-001/func/sub-001_task-condassoc_run-05_events.json": "959db3270a2677f570aac2558242579c1b6f8df9",
+  "sub-001/func/sub-001_task-condassoc_run-01_events.json": "959db3270a2677f570aac2558242579c1b6f8df9",
+  "sub-001/func/sub-001_task-condassoc_run-02_events.json": "959db3270a2677f570aac2558242579c1b6f8df9",
+  "sub-001/func/sub-001_task-condassoc_run-04_events.json": "959db3270a2677f570aac2558242579c1b6f8df9",
+  "sub-001/func/sub-001_task-condassoc_run-01_events.tsv": "143fadb05be3777322a9e5d6be2a3c5e942a442a",
+  "sub-001/func/sub-001_task-condassoc_run-03_events.json": "959db3270a2677f570aac2558242579c1b6f8df9",
+  "sub-001/func/sub-001_task-condassoc_run-05_events.tsv": "dd5a8519b8579f0069db26d0e05611487799cefe",
+  "sub-001/func/sub-001_task-condassoc_run-03_events.tsv": "92ea060a15dc91cddc4cd31df9a17ac67d224955",
+  "sub-001/func/sub-001_task-condassoc_run-04_events.tsv": "3a725915ce3993b0c0b24c7806d6188cef1c9add",
+  "sub-001/func/sub-001_task-condassoc_run-02_events.tsv": "31d81727bc9906b0a1c793494fb0e8be2578324a",
+  "sub-001/func/sub-001_task-condassoc_run-06_events.json": "959db3270a2677f570aac2558242579c1b6f8df9",
+  "sub-001/func/sub-001_task-condassoc_run-06_events.tsv": "44f521bb9b59143795d9e2dbc6bc0b22f6a9e489"
+}

@@ -1,0 +1,26 @@
+{
+    "trial_type": {
+        "Description": "Type of task event",
+        "Levels": {
+            "A": "This is a trial pitting a rewarded A scene against a neutral A scene",
+            "B": "This is a trial pitting a rewarded B scene against a neutral B scene"
+        }
+    },
+    "condition": {
+        "Description": "Original task condition",
+        "Levels": {
+            "nonviolation": "The scenes displayed belong to nonviolation condition pairmates",
+            "violation": "The scenes displayed belongs violation condition pairmates"
+        }
+    },
+    "response_accuracy": {
+        "Description": "A participant's response is scored for accuracy. If no response was made, the value is NaN",
+        "Levels": {
+            "0": "Incorrect response",
+            "1": "Correct response"
+        }
+    },
+    "response_time": {
+        "Description": "Reaction time. Time in seconds for participant to make a response since stimulus onset"
+    }
+}

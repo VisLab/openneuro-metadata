@@ -1,0 +1,22 @@
+**Summary**
+
+One ultimate goal of visual neuroscience is to understand how the brain processes visual stimuli encountered in the natural environment. Achieving this goal requires records of brain responses under massive amounts of naturalistic stimuli. Although the scientific community has put in a lot of effort to collect large-scale functional magnetic resonance imaging (fMRI) data under naturalistic stimuli, more naturalistic fMRI datasets are still urgently needed. We present here the Natural Object Dataset (NOD), a large-scale fMRI dataset containing responses to 57,120 naturalistic images from 30 participants. NOD strives for a balance between sampling variation between individuals and sampling variation between stimuli. This enables NOD to be utilized not only for determining whether an observation is generalizable across many individuals, but also for testing whether a response pattern is generalized to a variety of naturalistic stimuli. We anticipate that the NOD together with existing naturalistic neuroimaging datasets will serve as a new impetus for our understanding of the visual processing of naturalistic stimuli. 
+
+**Data record**
+
+The data were organized according to the Brain-Imaging-Data-Structure (BIDS) Specification version 1.7.0 and can be accessed from the OpenNeuro public repository (accession number: ds004496). In short, raw data of each subject were stored in “sub-<ID>” directories; The preprocessed volume data and the derived surface-based data can be found in “derivatives/fmriprep” and “derivatives/ciftify” directories, respectively.
+
+*Stimulus images*
+The stimulus images for different fMRI experiments are deposited in separate folders: “stimuli/imagenet”, “stimuli/coco”, “stimuli/prf”, and “stimuli/floc”. Each experiment folder contains corresponding stimulus images, and the auxiliary files can be found within the “info” subfolder. 
+
+*Raw MRI data*
+Each participant folder consists of several session folders:  anat, coco, imagenet, prf, floc. Each session folder in turn includes “anat”, “func”, or “fmap” folders for corresponding modality data. The scan information for each session is provided in a TSV file. 
+
+*Preprocessed volume data from fMRIprep*
+The preprocessed volume-based fMRI data are in subject's native space, saved as “sub-<subID>_ses-<sesID>_task-<taskID>_run-<index>_space-T1w_desc-preproc_bold.nii.gz” for each functional run. A “sub-<subID>_ses-<sesID>_task-<taskID>_run-<index>_desc-confounds_timeseries.tsv” file stores the confounds variable extracted by fMRIprep. The details of other auxiliary files can be found under each session folder.
+
+*Preprocessed surface-based data from ciftify*
+The preprocessed surface-based data are in standard fsLR space, saved as “sub-<subID>/results/ses-<sesID>_task-<taskID>_run-<index>/ses-<sesID>_task-<taskID>_run-<index>_Atlas.dtseries.nii” for each functional run under each run folder. The standard and native fsLR surface can be found in the standard_fsLR_surface and T1w_fsLR_surface folders, respectively.
+
+*Brain activation data from surface-based GLM analyses*
+The brain activation data are derived from GLM analyses on the standard fsLR space, saved as “sub-<subID>/results/ses-<sesID>_task-<taskID>_run-<index>/ses-<sesID>_task-<taskID>_run-<index>_beta.dscalar.nii” for each functional run from both ImageNet and COCO experiments. Within each run folder, the auxiliary information about labels or conditions can be found in “ses-<sesID>_task-<taskID>_run-<index>_label.txt”. Additionally, individual-specific character-, faces-, body- and place--selective activation maps and ROIs are stored in “sub-<subID>/results/ses-floc_task-floc” folder; And pRF parameters maps are stored in “sub-<subID>/results/ses-prf_task-prf” folder.

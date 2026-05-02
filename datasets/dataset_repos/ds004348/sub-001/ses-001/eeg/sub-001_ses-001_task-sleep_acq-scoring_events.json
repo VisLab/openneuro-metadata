@@ -1,0 +1,15 @@
+{
+    "staging": {
+        "Description": "Manual sleep scoring",
+        "Levels": {
+            "1": "Wake",
+            "2": "REM",
+            "3": "N1",
+            "4": "N2",
+            "5": "N3",
+            "6": "A",
+            "7": "Artefact",
+            "8": "Unscored"
+        }
+    }
+}

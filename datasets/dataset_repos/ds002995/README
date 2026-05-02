@@ -1,0 +1,15 @@
+Dataset description
+===================
+
+Taste Quality Representation in the Human Brain
+The Journal of Neuroscience, January 29, 2020 40(5):1042–1052
+https://doi.org/10.1523/JNEUROSCI.1751-19.2019
+
+In the mammalian brain, the insula is the primary cortical substrate involved in the perception of taste. Recent imaging studies in rodents have identified a ‘gustotopic’ organization in the insula, whereby distinct insula regions are selectively responsive to one of the five basic tastes. However, numerous studies in monkeys have reported that gustatory cortical neurons are broadly-tuned to multiple tastes, and tastes are not represented in discrete spatial locations. Neuroimaging studies in humans have thus far been unable to discern between these two models, though this may be due to the relatively low spatial resolution employed in taste studies to date. In the present study, we examined the spatial representation of taste within the human brain of 18 healthy subjects using ultra-high resolution functional magnetic resonance imaging (MRI) at high magnetic field strength (7-Tesla). During scanning, male and female participants tasted sweet, salty, sour and tasteless liquids, delivered via a custom-built MRI-compatible tastant-delivery system. During the fMRI task, received 0.5mL of sweet, sour, salty, and neutral tastant, in a block design (4 identical taste events / 20s block), followed by a (5s) wash period. Functional MRI data was acquired at ultra-high voxel resolution (1.2mm x 1.2mm x 1.2mm) at high magnetic field strength (7-Tesla). Echo-planar images (EPI) were acquired in 68 axial slices, in a scan window that ranged from the top of the cingulate gyrus (superiorly) to the tip of the temporal pole (inferiorly). 
+
+MRI Files included are: 
+A) Skull-stripped T1w anatomical scans from MP2RAGE acquisition (uni_den volume) resolution 0.7mm X 0.7mm X 0.7mm. 
+B) 8 task epi files - 130vol, acquired Anterior-to-Posterior
+C) 1 epi file (fmap) - 20vol, acquired Posterior-to-Anterior, for topup spatial distortion correction 
+
+

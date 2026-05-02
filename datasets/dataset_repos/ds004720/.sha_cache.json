@@ -1,0 +1,11 @@
+{
+  "CHANGES": "7a1f06c0edfabce2e17397ec79eaac282632d843",
+  "README": "07b2db56e2c79a5acd281f0ec8611cc633b49fc2",
+  "participants.tsv": "42e8db8aea13451d42bf97f83358a833181eb11b",
+  "dataset_description.json": "1679a6543587955ffec4da189c1140e8c0415f81",
+  "participants.json": "41979c8cc8137efc9c770394bf37c133feff8d3b",
+  "sub-01/func/sub-01_task-multiband_run-02_events.tsv": "a28e4b43796e527f51ee5fea3711fb44682eee80",
+  "sub-01/func/sub-01_task-singleband_run-02_events.tsv": "a28e4b43796e527f51ee5fea3711fb44682eee80",
+  "sub-01/func/sub-01_task-multiband_run-01_events.tsv": "a28e4b43796e527f51ee5fea3711fb44682eee80",
+  "sub-01/func/sub-01_task-singleband_run-01_events.tsv": "a28e4b43796e527f51ee5fea3711fb44682eee80"
+}

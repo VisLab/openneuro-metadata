@@ -1,0 +1,31 @@
+{
+    "onset": {
+        "Description": "Onset of the audio event.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the audio event.",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Which audio type was heard by the subject in this trial."
+    },
+    "value": {
+        "Description": "The code associated with a trial type. NOTE: this is NOT the trigger\n    type in EEG annotations but these are separated by 2 triggers in EEG"
+    },
+    "sample": {
+        "Description": "The sample within the EEG data at which an event occurred."
+    },
+    "token": {
+        "Description": "The file number of the trial type. E.g., for male_high trial 1 you would \n        load 'male001_highf0'."
+    },
+    "EEG_trigger_start": {
+        "Description": "The trigger values in the EEG annotations for the event onset."
+    },
+    "EEG_trigger_end": {
+        "Description": "The trigger values in the EEG annotations for 20 ms before event offset."
+    },
+    "stim_file": {
+        "Description": "The file loaded to play the audio (called 'x' in the hdf5 dictionary)"
+    }
+}

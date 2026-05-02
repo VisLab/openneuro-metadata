@@ -1,0 +1,12 @@
+{
+  "CHANGES": "0af1fe2775011569f8646f4aab53fed0de1353b4",
+  "participants.tsv": "40d8e79d007421f6bb602d78b5c76900d56ed554",
+  "task-TAU1_events.json": "f98fae7d26f0194757352dd08d384587ef1de763",
+  "participants.json": "eaa6c758f4e4658eda614cf228b6216237b36a5c",
+  "task-TAU1_bold.json": "26b60e8fee618b735d01bbc478cd82415466e422",
+  "task-TAU2_events.json": "f98fae7d26f0194757352dd08d384587ef1de763",
+  "dataset_description.json": "26a803c4c958f2aa47652d805a5a8132358a022a",
+  "task-rest_bold.json": "547deb3d6d9df815771d56e8196cbfba745b3799",
+  "task-TAU2_bold.json": "26b60e8fee618b735d01bbc478cd82415466e422",
+  "README.md": "82e502d9e8df8a211fd20b20f6922764d0389085"
+}

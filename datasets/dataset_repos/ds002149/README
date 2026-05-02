@@ -1,0 +1,17 @@
+This is the functional and structural MRI data used for the following studies:
+```
+Hamm, A.G. and Mattfeld, A. T. (2019) Distinct Neural Circuits Underlie Prospective
+and Concurrent Memory-Guided Behavior, Cell Reports, Vol. 28(10)
+```
+Formerly ```https://openneuro.org/datasets/ds002078```
+
+Folders are organised in subject number (e.g. sub-001). Within each folder there are subfolders with the following:
+
+1) anat - T1-weighted structural scan
+
+2) func - contains BOLD data for:
+```
+Our novel conditional visual associative learning task, with kaleidoscopic images used as stimuli with 6 scans across three sets of images. 
+```
+
+Please note that not all participants finished all tasks, or scans. See papers for a description.

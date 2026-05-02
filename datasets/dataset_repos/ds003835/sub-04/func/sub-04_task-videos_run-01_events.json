@@ -1,0 +1,15 @@
+{
+    "trial_type": {
+        "LongName": "Stimulus presented",
+        "Description": "Segment of each trial",
+        "Levels": {
+            "cue": "Screen displays the name of the upcoming video",
+            "video": "Video playback. Refer to csv data files for the name of each video",
+            "full": "Post-video fixation period, after a Full-length video",
+            "interrupted": "Post-video fixation period, after an Interrupted video",
+            "exclude_cue": "Same as cue but for an excluded trial",
+            "exclude_video": "Same as video but for an excluded trial",
+            "exclude_fix": "Post-video fixation period for an excluded trial"
+        }
+    }
+}

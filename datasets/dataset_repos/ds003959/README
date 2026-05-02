@@ -1,0 +1,7 @@
+This project investigates the application of a recently developed diffusion MRI technique, namely Soma and Neurite Density Imaging (SANDI), to characterize mouse brain tissue microstructure, both in white and gray matter, in-vivo. SANDI employs a multi-shell diffusion acquisition up to high b-values and a three-compartment model to disentangle the signal contribution from water diffusing in spherical objects (assumed to be associated with cell bodies) and in impermeable cylinders (representing neurites). 
+
+The dataset consists of multi-shell diffusion MRI data from 6 wild type mice with 8 b-values: 1, 2.5, 4, 5.5, 7, 8.5, 10 and 12.5 ms/um2 with 40 directions per shell. 
+
+Ses-1 provides the nifti files for the pre-processed magnitude data and ses-2 provides the nifti files for the pre-processed real data.
+
+Complex data is available from the corresponding author.

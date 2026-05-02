@@ -1,0 +1,9 @@
+This dataset comprises of n=15 individuals who underwent simultaneous MRI-PET imaging. FDG-PET data was acquired using three different radiotracer administration protocols: bolus, constant infusion, and 50% bolus + 50% infusion. n=5 subjects were acquired with each administration protocol. BOLD-fMRI and FDG-PET was acquired while participants viewed a flickering checkerboard stimulus, presented in an embedded block design.
+
+(IMPORTANT: Please note that the UTE, Dixon, 16 seconds reconstructed PET data, fPET information and unconstracted PET listmode data) are not compatible with the current BIDS specifications. They are in the corresponding directories:
+
+UTE: /sub-*/ute
+Dixon: /sub-*/dixon
+Reconstrcuted PET: /sub-*/pet
+fPET information:/pet_info
+listmode data: /sourcedata/sub-*/pet

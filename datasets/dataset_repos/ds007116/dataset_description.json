@@ -1,0 +1,45 @@
+{
+    "Authors": [
+        "Brooke L. Sevchik",
+        "Golia Shafiei",
+        "Kristin Murtha",
+        "Sophia Linguiti",
+        "Lia Brodrick",
+        "Juliette B.H. Brook",
+        "Matt Cieslak",
+        "Elizabeth Flook",
+        "Kahini Mehta",
+        "Steven L. Meisler",
+        "Kosha Ruparel",
+        "Sage Rush",
+        "Taylor Salo",
+        "S. Parker Singleton",
+        "Tien T. Tong",
+        "Mrugank Salunke",
+        "Dani S. Bassett",
+        "Monica E. Calkins",
+        "Mark A. Elliott",
+        "Raquel E. Gur",
+        "Ruben C. Gur",
+        "Tyler M. Moore",
+        "J. Cobb Scott",
+        "Russell T. Shinohara",
+        "M. Dylan Tisdal",
+        "Daniel H. Wolf",
+        "David R. Roalf",
+        "Theodore D. Satterthwaite"
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007116.v1.0.2",
+    "Funding": [
+        "NIH R01MH113550"
+    ],
+    "HowToAcknowledge": "Please cite our preprint on bioRxiv: https://doi.org/10.1101/2025.11.10.687633",
+    "License": "CC0",
+    "Name": "Penn LEAD: Penn Longitudinal Executive functioning in Adolescent Development",
+    "ReferencesAndLinks": [
+        "TODO",
+        "List of papers or websites"
+    ]
+}

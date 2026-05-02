@@ -1,0 +1,29 @@
+1.0.0	2018-09-14
+
+	- adding DOI
+
+1.0.0	2018-08-31
+
+	- Fixing DOI
+
+1.0.0	2018-08-30
+
+	- added doi
+
+2.0.0	2018-04-09
+
+	- Renamed dataset name to same as OpenfMRI
+
+1.0.0	2018-04-09
+
+	- Initial publish
+
+Revision history for OpenfMRI dataset ds000244
+
+1.0.1 2018-03-28
+
+  - Fixed participants.tsv
+
+1.0.0 2017-10-29
+
+  - Initial release

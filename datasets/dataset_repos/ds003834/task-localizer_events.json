@@ -1,0 +1,13 @@
+{
+    "stim_type": {
+        "LongName": "Stimulus type",
+        "Description": "Type of video presented",
+        "Levels": {
+            "face": "Face video",
+            "object": "Object video",
+            "fixation": "A fixation cross was displayed",
+            "button_press": "Participant pressed a button to indicate that the same video was presented"
+        }
+    }
+}
+

@@ -1,0 +1,23 @@
+{
+  "TaskName": "Auditory Listening and Covert Speech",
+  "TaskDescription": "Participants listen to prerecorded speech stimuli and perform covert (silent/imagined) speech production while EEG is recorded.",
+  "Instructions": "Listen carefully to the presented speech stimuli. During covert trials, internally repeat or imagine producing the prompted utterance without overt articulation.",
+  "InstitutionName": "Araya Inc.",
+  "InstitutionAddress": "Tokyo, Japan",
+  "Manufacturer": "ANT Neuro",
+  "ManufacturersModelName": "Pangolin 64",
+  "SoftwareVersions": "eego SDK 1.8.0",
+  "DeviceSerialNumber": "pangolin-001",
+  "CapManufacturer": "Easycap",
+  "CapManufacturersModelName": "M10",
+  "ECGChannelCount": 0,
+  "PowerLineFrequency": 50,
+  "EEGPlacementScheme": "Custom montage based on 10-20 system",
+  "EEGReference": "FCz",
+  "EEGGround": "AFz",
+  "RecordingType": "continuous",
+  "SoftwareFilters": "n/a",
+  "HardwareFilters": "n/a",
+  "SubjectArtefactDescription": "n/a",
+  "InstitutionalDepartmentName": "n/a"
+}

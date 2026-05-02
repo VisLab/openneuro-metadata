@@ -1,0 +1,18 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: unexakorea
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+    creators:
+      - name: unexakorea
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

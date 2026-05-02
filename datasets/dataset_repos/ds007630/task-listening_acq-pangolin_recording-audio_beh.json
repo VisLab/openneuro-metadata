@@ -1,0 +1,5 @@
+{
+  "SamplingFrequency": 48000,
+  "BitDepth": 16,
+  "Description": "Audio stimulus presented to the participant during the auditory listening task."
+}

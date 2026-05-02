@@ -1,0 +1,21 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "Duration of the event trigger.",
+    "Units": "second"
+  },
+  "sample": {
+    "Description": "EEG sample during which event onset occurs",
+    "Units": "ms"
+  },
+  "value": {
+    "Description": "The code (EEG Marker value) associated with an event",
+    "Levels": {
+      "visualcue": "S1: Visual Cue",
+      "response": "S2: Response"
+    }
+  }
+}

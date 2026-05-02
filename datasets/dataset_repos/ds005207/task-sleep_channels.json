@@ -1,0 +1,17 @@
+{
+    "name": {
+        "Description": "Name of channel"
+    },
+    "type": {
+        "Description": "Type of channel, e.g. EEG, EOG, ECG, EMG"
+    },
+    "units": {
+        "Description": "The unit of the signal, often micro volts"
+    },
+    "sampling frequency": {
+        "Description": "The sample frequency of the signal in Hertz"
+    },
+    "eeg reference": {
+        "Description": "The reference used to create a channel"
+    }
+}

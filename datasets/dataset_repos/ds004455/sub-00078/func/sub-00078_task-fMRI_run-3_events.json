@@ -1,0 +1,20 @@
+{
+    "trial_type": {
+        "LongName": "Trial stage",
+        "Description": "Stage of each trial in the the two-stage task",
+        "Levels": {
+            "first_stage": "Choice between two carpets (story condition) or boxes (abstract condition)",
+            "second_stage": "Choice between two lamps",
+            "feedback": "Reward or no reward"
+        }
+    },
+    "slow": {
+        "LongName": "Slow",
+        "Description": "If the participant missed the time limit for making a choice",
+        "Levels": {
+            "0": "The participant responded within the limit",
+            "1": "The participant missed the limit",
+            "n/a": "When there was no choice to be made (feedback events)"
+        }
+    }
+}

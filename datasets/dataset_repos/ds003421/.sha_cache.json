@@ -1,0 +1,13 @@
+{
+  "participants.json": "902acdbd2c3937415ad4c5dd2de09fd304250dd8",
+  "dataset_description.json": "8c6e262679625c2e3cc204efb6c32fc87a1c9a1d",
+  "participants.tsv": "b567c351e9136cd609888737e00ebc14f8f9e678",
+  "README": "7bc0258476a0b3d38156fbcedfe345d399666481",
+  "CHANGES": "1486e47a6ba681d336ba90088987912ae6012d61",
+  "sub-01/ses-Memory/eeg/sub-01_ses-Memory_task-PicturesNaming_events.json": "2b4b9265fc20439dc0afc716c7fbf41c807590ad",
+  "sub-01/ses-Naming/eeg/sub-01_ses-Naming_task-PicturesNaming_events.json": "2b4b9265fc20439dc0afc716c7fbf41c807590ad",
+  "sub-01/ses-Memory/eeg/sub-01_ses-Memory_task-PicturesNaming_events.tsv": "c8d5fb9a84220b28624975339ed3b4237ca25fd7",
+  "sub-01/ses-Naming/eeg/sub-01_ses-Naming_task-PicturesNaming_events.tsv": "937f350fb00dde54156eb07b1e962589de1c9b80",
+  "sub-01/ses-Audio/eeg/sub-01_ses-Audio_task-PicturesNaming_events.tsv": "b7942a3a3bdabc98a9ba16f85527dbd51e351a64",
+  "sub-01/ses-Audio/eeg/sub-01_ses-Audio_task-PicturesNaming_events.json": "203cb72bcd584f67135e2ae27ab67c6a87e186d2"
+}

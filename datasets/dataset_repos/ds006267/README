@@ -1,0 +1,17 @@
+# The NIMH Intramural Longitudinal Study of the Endocrine and Neurobiological Events Accompanying Puberty: Protocol and rationale for methods and measures
+
+Delineating the relationship between human neurodevelopment and the maturation of the hypothalamic-pituitary-gonadal (HPG) axis during puberty is critical for investigating the increase in vulnerability to neuropsychiatric disorders that is well documented during this period. This dataset includes structural T1-weighted MR images collected from 24 8-year old children.
+
+**Note**: The T1-weighted images included in this initial version of the dataset are the mean image for each subject across all of their longitudinal sessions.  Future releases will include session-level structural and functional images.
+
+## Core Selection Criteria 
+
+During an initial screening visit, we employed five core selection criteria to ensure a group of prepubertal boys and girls likely to have comparable endocrine exposures at enrollment into the study.
+
+1. A consistent time point for study entry at eight years of age
+2. The absence of visible markers of puberty as assessed by a clinical exam
+3. A body mass index (BMI) between the 15th and 85th percentiles
+4. A normal tempo of growth as measured by hand and wrist skeletal bone age on X-ray
+5. Normal development including age-appropriate developmental milestones, typical cognitive development (IQ > 70), and no symptoms of psychopathology
+
+See the corresponding manuscript for more detail regarding the inclusion procedures and their scientific bases. 

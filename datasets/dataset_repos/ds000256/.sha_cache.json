@@ -1,0 +1,20 @@
+{
+  "CHANGES": "0e69e9f4b94df848585ea014c85cb1c2fa5f9bd4",
+  "task-restbaseline_bold.json": "c0e0d74a63767d3ff641b720c533c79fcecc4bbc",
+  "task-restfixationfixed_bold.json": "26e848c3dcba9853a3a1d1fd2e97cff593f679b5",
+  "task-restfixationadaptive_bold.json": "de1a176585d8b46bec2eae39aebde2e86a4d3266",
+  "task-restmovieadaptive_bold.json": "d21c6e60b335241d427be56b2e07290c310e4bff",
+  "README": "b78c793e66e968130f7e42250940872b701564a0",
+  "task-restfixationnofeedback_bold.json": "8b8e784ce260410ef4da425a1f217afbd81cc717",
+  "participants.tsv": "c07935c7d8754001bf90af12e5ebea69885853ff",
+  "dataset_description.json": "6e62e0c172e269f51262a095e0ffec8eb0636a65",
+  "task-restmoviefixed_bold.json": "694e20fd40ac071953a620e453078d94d141cc9b",
+  "task-restmovienofeedback_bold.json": "4f32e6384e77b4507ec03140be52d7e1da0b9837",
+  "sub-CTS200/func/sub-CTS200_task-restmoviefixed_events.tsv": "a2cdacb4697a80aadc51f332e9bb3a0d24dce8d4",
+  "sub-CTS200/func/sub-CTS200_task-restmovieadaptive_events.tsv": "a2cdacb4697a80aadc51f332e9bb3a0d24dce8d4",
+  "sub-CTS200/func/sub-CTS200_task-restfixationnofeedback_events.tsv": "a2cdacb4697a80aadc51f332e9bb3a0d24dce8d4",
+  "sub-CTS200/func/sub-CTS200_task-restbaseline_events.tsv": "a2cdacb4697a80aadc51f332e9bb3a0d24dce8d4",
+  "sub-CTS200/func/sub-CTS200_task-restfixationfixed_events.tsv": "a2cdacb4697a80aadc51f332e9bb3a0d24dce8d4",
+  "sub-CTS200/func/sub-CTS200_task-restfixationadaptive_events.tsv": "a2cdacb4697a80aadc51f332e9bb3a0d24dce8d4",
+  "sub-CTS200/func/sub-CTS200_task-restmovienofeedback_events.tsv": "a2cdacb4697a80aadc51f332e9bb3a0d24dce8d4"
+}

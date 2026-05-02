@@ -1,0 +1,153 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Jiaen Liu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Peter van Gelderen
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Jacco A. de Zwart
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Jeff H. Duyn
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Yujia Huang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Shuxian Qu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Andrea Grant
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Edward Auerbach
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Matt Waks
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Russell Lagore
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 10
+      - name: Lance Delabarre
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 11
+      - name: Alireza Sadeghi-Tarakameh
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 12
+      - name: Yigitcan Eryaman
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 13
+      - name: Gregor Adriany
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 14
+      - name: Kamil Ugurbil
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 15
+      - name: Xiaoping Wu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 16
+    creators:
+      - name: Jiaen Liu
+        nameType: Personal
+      - name: Peter van Gelderen
+        nameType: Personal
+      - name: Jacco A. de Zwart
+        nameType: Personal
+      - name: Jeff H. Duyn
+        nameType: Personal
+      - name: Yujia Huang
+        nameType: Personal
+      - name: Shuxian Qu
+        nameType: Personal
+      - name: Andrea Grant
+        nameType: Personal
+      - name: Edward Auerbach
+        nameType: Personal
+      - name: Matt Waks
+        nameType: Personal
+      - name: Russell Lagore
+        nameType: Personal
+      - name: Lance Delabarre
+        nameType: Personal
+      - name: Alireza Sadeghi-Tarakameh
+        nameType: Personal
+      - name: Yigitcan Eryaman
+        nameType: Personal
+      - name: Gregor Adriany
+        nameType: Personal
+      - name: Kamil Ugurbil
+        nameType: Personal
+      - name: Xiaoping Wu
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

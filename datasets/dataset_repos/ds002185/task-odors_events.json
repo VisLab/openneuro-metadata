@@ -1,0 +1,23 @@
+{
+        "trial_type": {
+		"Description": "odour type delivery (3 sec)",
+		"Levels": {
+			"orange": "oil from Frutarom Inc. Israel",
+			"smelly-cheese": "isovaleric acid CAS no. 503-74-2, from Sigma-Aldrich, Israel",
+			"banana": "oil from from Frutarom Inc. Israel",
+                        "asafetida": "oil from DreamAir, NYC, USA"
+		}
+	},
+
+
+	"response": {
+		"Description": "Subjective pleasantness ratings following an odor delivery",
+		"Levels": {
+			"1": "very unpleasant",
+			"2": "mild unpleasant",
+			"3": "mild pleasant",
+                        "4": "very pleasant",
+                        "NoPress": "No response was recorded"
+		}
+	}
+}

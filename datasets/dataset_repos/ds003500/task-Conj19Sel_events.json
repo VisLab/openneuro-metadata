@@ -1,0 +1,62 @@
+{
+  "onset": {
+    "LongName": "Trial onset time",
+    "Description": "Onset time of block",
+    "Units": "s"
+  },
+  "duration": {
+    "LongName": "Trial duration",
+    "Description": "Duration of block",
+    "Units": "s"
+  },
+  "block": {
+    "LongName": "Block number",
+    "Description": "Number of block"
+  },
+  "block_type_intended": {
+    "LongName": "Intended block type",
+    "Description": "Category of the presented block. Text appeared at the beginning of each block to remind the participant of the block type.",
+    "Levels": {
+      "single": "single shape stimuli",
+      "array": "3x3 array of shape stimuli"
+    }
+  },
+  "block_type_performed": {
+    "LongName": "Block type as performed by participant",
+    "Description": "Category of the performed block. Based on subject responses authors categorized the way subjects were performing the block. In long periods of non-response, block was divided into multiple onsets and durations so as to segment out and not include in analysis.",
+    "Levels": {
+      "single": "single shape stimuli",
+      "array": "3x3 array of shape stimuli",
+      "NR": "Period of three or more consecutive non-responses, alternatinmg responses, or random responses indicating inattention to task. Noted in comments."
+    }
+  },
+  "response_time_avg": {
+    "LongName": "Average Response Time",
+    "Description": "Average response time across block",
+    "Units": "s"
+  },
+  "correct_total": {
+    "LongName": "Correct responses within block",
+    "Description": "Total number of correct responses within duration period, dictated by the performed block type"
+  },
+  "errors_total": {
+    "LongName": "Incorrect responses within block",
+    "Description": "Total number of errors made within duration period, dictated by the performed block type"
+  },
+  "false-neg": {
+    "LongName": "Number of false negative errors",
+    "Description": "Total number of false negative errors made within duration period. False negative categorized as subject did not detect target stimulus although it was present"
+  },
+  "false-pos": {
+   "LongName": "Number of false positive errors",
+   "Description": "Total number of false positive errors made within duration period. False positive categorized as subject said target stimulus was present although it wasn't"
+},
+  "NR": {
+    "LongName": "Number of non-response errors",
+    "Description": "Total number of non-response errors made within duration period"
+},
+  "comments": {
+    "LongName": "Comments",
+    "Description": "Additional comments about duration period"
+  }
+}

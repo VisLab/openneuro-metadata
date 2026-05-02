@@ -1,0 +1,26 @@
+{
+    "Name": "fMRI Study Dataset",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Tianze Wang",
+        "Yunjing Li & Xin Zhao"
+    ],
+    "Acknowledgements": "Thanks to participants",
+    "HowToAcknowledge": "under review",
+    "Funding": [
+        "National Natural Science Foundation of China (Grant No. 32260207)"
+    ],
+    "EthicsApprovals": [
+        "20241214"
+    ],
+    "ReferencesAndLinks": [
+        "Northwest Normal University"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007318.v1.0.0",
+    "HEDVersion": "",
+    "TaskName": "removal",
+    "TaskDescription": "Clarifying Removal in Working Memory: fMRI Evidence for updating over Inhibition",
+    "Instructions": "Participants memorized six letters. In the processing phase, a cue indicated whether to remove a specified letter (cue: /), encode a new letter (cue: a new letter), or maintain the original set (cue: =). In the retrieval phase, participants made an old/new judgment on a probe letter relative to the current memory set."
+}

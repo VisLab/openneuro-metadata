@@ -1,0 +1,15 @@
+{
+    "Name": "Connectomix test dataset 2",
+    "BIDSVersion": "1.2.0",
+    "License": "CC0",
+    "Authors": [
+        "Rovai, Antonin"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "",
+    "Funding": [],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005699.v1.0.0"
+}

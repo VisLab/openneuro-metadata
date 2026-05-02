@@ -1,0 +1,30 @@
+README
+
+Description
+-------- 
+This data set consists of two sessions of resting-state spinal cord fMRI data from 48 healthy participants. This data set was collected as a part of a larger methodological project (see https://doi.org/10.1002/hbm.26018). Data from these 48 participants have already been shared (https://openneuro.org/datasets/ds004068/versions/1.0.3), but here we provide previously unavailable resting-state fMRI data associated with the following manuscript: https://www.sciencedirect.com/science/article/pii/S1053811923003038?via%3Dihub
+. 
+For each participant, we share i) a T2-weighted anatomical image, ii) two resting-state fMRI acquisitions of 250 volumes each (acquired with manual and automated slice-specific z-shimming), and iii) associated peripheral physiological data (ECG and respiratory recordings).
+For a detailed description, please see: 
+
+https://www.sciencedirect.com/science/article/pii/S1053811923003038?via%3Dihub
+
+Citing this dataset 
+-------- 
+Should you make use of this data set in any publication, please cite the following article: 
+
+https://www.sciencedirect.com/science/article/pii/S1053811923003038?via%3Dihub
+
+Kaptan, M., Horn, U., Vannesjo, S. J., Mildner, T., Weiskopf, N., Finsterbusch, J., Brooks, J. C. W., & Eippert, F. (2023). Reliability of resting-state functional connectivity in the human spinal cord: Assessing the impact of distinct noise sources. NeuroImage, 120152. https://doi.org/10.1016/j.neuroimage.2023.120152
+
+
+License 
+------- 
+This data set is made available under the Creative Commons CC0 license. For more information, see https://creativecommons.org/share-your-work/public-domain/cc0/
+
+Data set 
+------- 
+This data set is organized according to the Brain Imaging Data Structure (BIDS) specification. For more information on BIDS, see https://bids-specification.readthedocs.io/en/stable/
+Each participant’s data are in one subdirectory (e.g., sub-ZS001), which contains the raw NIfTI data (after DICOM to NIfTI conversion) for this particular participant, as well as the associated metadata.
+Raw and processed peripheral physiological data can be found in each participant’s subdirectory under the “derivatives” folder. Manually obtained or adjusted MRI-based derivatives (e.g., spinal cord masks, segmental labels) are also shared for each participant and can be found in each participant’s subdirectory of the “derivatives” folder. For more details about the preprocessing pipeline and the description of each derivative, please see the following links: https://github.com/eippertlab/restingstate-reliability-spinalcord/ and PREPRINT LINK. Please note that data from three participants (sub-ZS009, sub-ZS018, sub-ZS030) are excluded from all analyses due to technical errors in the acquisition of peripheral physiological data, but their datasets are still provided for the sake of completeness.
+Should you have any questions about this data set, please contact mkaptan@stanford.edu or eippert@cbs.mpg.de.

@@ -1,0 +1,62 @@
+{
+  "onset": {
+    "LongName": "Trial onset time",
+    "Description": "Onset time of block",
+    "Units": "s"
+  },
+  "duration": {
+    "LongName": "Trial duration",
+    "Description": "Duration of block",
+    "Units": "s"
+  },
+  "block": {
+    "LongName": "Block number",
+    "Description": "Number of block"
+  },
+  "block_type_intended": {
+    "LongName": "Intended block type",
+    "Description": "Category of the presented block. Text appeared at the beginning of each block to remind the participant of the block type.",
+    "Levels": {
+      "go": "respond to all shapes",
+      "no-go": "withold response when target shapes present"
+    }
+  },
+  "block_type_performed": {
+    "LongName": "Block type as performed by participant",
+    "Description": "Category of the performed block. Based on subject responses authors categorized the way subjects were performing the block. In long periods of non-response, block was divided into multiple onsets and durations so as to segment out and not include in analysis.",
+    "Levels": {
+      "go": "respond to all shapes",
+      "no-go": "withold response when target shapes present",
+      "NR": "Period of three or more consecutive non-responses, alternatinmg responses, or random responses indicating inattention to task. Noted in comments."
+    }
+  },
+  "response_time_avg": {
+    "LongName": "Average Response Time",
+    "Description": "Average response time across block",
+    "Units": "s"
+  },
+  "correct_total": {
+    "LongName": "Correct responses within block",
+    "Description": "Total number of correct responses within duration period, dictated by the performed block type"
+  },
+  "errors_total": {
+    "LongName": "Incorrect responses within block",
+    "Description": "Total number of errors made within duration period, dictated by the performed block type"
+  },
+  "false-no_go": {
+    "LongName": "Number of false no-go errors",
+    "Description": "Total number of false no-go errors made within duration period. False no-go categorized as a non-response within a go block"
+  },
+  "false-go": {
+   "LongName": "Number of false go errors",
+   "Description": "Total number of false go errors made within duration period. False go categorized as a failure to withold a response to target within a no-go block"
+},
+  "NR": {
+    "LongName": "Number of non-response errors",
+    "Description": "Total number of non-response errors made within duration period. 2 consecutive non-responses in period requiring response, larger chunks of non-response periods partialed out into other onset and duration sections to be removed from analysis"
+},
+  "comments": {
+    "LongName": "Comments",
+    "Description": "Additional comments about duration period"
+  }
+}

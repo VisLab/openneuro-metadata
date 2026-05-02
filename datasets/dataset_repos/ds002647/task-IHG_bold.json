@@ -1,0 +1,23 @@
+{
+	"TaskName": "Isometric Handgrip (IHG) Task",
+	"Description": "Subjects focused on luminance-normed visual cues that prompted them when to squeeze/grip without squeezing (HG/CTRL) and rest.",
+	"SeriesDescription": "fMRI-handgrip",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND", "NORM", "MOSAIC"],
+	"Modality": "MR",
+	"RepetitionTime": 2,
+	"PhaseEncodingDirection": "j-",
+	"EffectiveEchoSpacing": 0.00025,
+	"EchoTime": 0.025,
+	"SliceThickness": 3,
+	"FlipAngle": 90,
+	"Manufacturer": "SIEMENS",
+	"SoftwareVersion": "syngo MR D13D",
+	"MRAcquisitionType": "2D",
+	"InstitutionName": "USC",
+	"InstitutionAddress": "McClintock 3520A,Los Angeles //SVC0e0594213b1104//,CA,US,90089",
+	"DeviceSerialNumber": "67025",
+	"ScanningSequence": "EP",
+	"SequenceVariant": "SK",
+	"ScanOptions": "FS",
+	"SequenceName": "*epfid2d1_64"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "Fribourg Ultimatum Game in Schizophrenia Study",
+    "BIDSVersion": "v1.6.0",
+    "Authors": [
+        "Anna Pad\u00e9e",
+        "Pascal Missonnier",
+        "Anne Pr\u00e9vot",
+        "Gr\u00e9goire Favre",
+        "Isabelle Gothuey",
+        "Marco Merlo",
+        "Jonas Richiardi"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004000.v1.0.0",
+    "License": "CC0"
+}

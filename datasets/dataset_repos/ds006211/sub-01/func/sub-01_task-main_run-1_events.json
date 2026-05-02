@@ -1,0 +1,12 @@
+{
+    "trial_type": {
+        "LongName": "Trial type",
+        "Description": "",
+        "Levels": {
+            "NA": "Non-memory adjust",
+            "MA": "Memory adjust",
+            "NP": "Non-memory parity",
+            "MP": "Memory parity"
+        }
+    }
+}

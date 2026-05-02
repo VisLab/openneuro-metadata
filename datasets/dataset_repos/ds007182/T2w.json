@@ -1,0 +1,21 @@
+{
+    "Description": "T2-weighted anatomical image",
+    "RepetitionTime": 2.5,
+    "EchoTime": 0.33,
+    "PhaseEncodingDirection": "j-",
+    "ParallelAcquisitionTechnique": "SENSE",
+    "ParallelReductionFactorInPlan": 2,
+    "FlipAngle": 90,
+    "WaterFatShift": 0.834,
+    "PulseSequenceType": "TSE",
+    "SkullStripped": false,
+    "Manufacturer": "Philips",
+    "ManufacturersModelName": "Achieva dStream",
+    "MagneticFieldStrength": 3,
+    "InstitutionName": "University of Amsterdam",
+    "InstitutionAddress": "Nieuwe Achtergracht 129B, 1018 WS Amsterdam, The Netherlands",
+    "InstitutionalDepartmentName": "Department of Psychology",
+    "StationName": "MR01",
+    "DeviceSerialNumber": "000000",
+    "SoftwareVersions": "5.x"
+}

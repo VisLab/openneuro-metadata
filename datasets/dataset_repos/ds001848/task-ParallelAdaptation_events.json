@@ -1,0 +1,19 @@
+{
+	"TaskName": "ParallelAdaptation",
+	"Condition Name": {
+		"NullNull0 NullNull0": "Null trial, repeated habituation trial",
+		"DeviantSymbolic1 DeviantSymbolic1": "Deviant symbolic trial with a numerical distance of 1",
+		"DeviantSymbolic4 DeviantSymbolic4": "Deviant symbolic trial with a numerical distance of 4",
+		"DeviantNonsymbolic1 DeviantNonsymbolic1": "Deviant nonsymbolic trial with a numerical distance of 1",
+		"DeviantNonsymbolic4 DeviantNonsymbolic4": "Deviant nonsymbolic trial with a numerical distance of 4",
+		"DeviantPhysicalSize1 DeviantPhysicalSize1": "Deviant physical size trial with a small physical size change",
+		"DeviantPhysicalSize4 DeviantPhysicalSize4": "Deviant physical size trial with a large physical size change",
+		"CatchSymbolic1 CatchSymbolic1": "Catch deviant symbolic trial with a numerical distance of 1 presented in blue font",
+		"CatchSymbolic4 CatchSymbolic4": "Catch deviant symbolic trial with a numerical distance of 4 presented in blue font",
+		"CatchQuantity1 CatchQuantity1": "Catch deviant nonsymbolic trial with a numerical distance of 1 presented in blue font",
+		"CatchQuantity4 CatchQuantity4": "Catch deviant nonsymbolic trial with a numerical distance of 4 presented in blue font",
+		"CatchPhysicalSize1 CatchPhysicalSize1": "Deviant physical size trial with a small physical size change shown in blue font",
+		"CatchPhysicalSize4 CatchPhysicalSize4": "Deviant physical size trial with a large physical size change shown in blue font",
+		"CatchNull0 CatchNull0": "Catch null trial, repeated habituation trial shown in blue font."
+	}
+}

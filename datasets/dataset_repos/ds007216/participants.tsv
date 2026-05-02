@@ -1,0 +1,26 @@
+participant_id	age	sex	hand	race	ethnicity	dsm5tr_domainI_score	dsm5tr_domainII_score	dsm5tr_domainIII_score	dsm5tr_domainIV_score	dsm5tr_domainV_score	dsm5tr_domainVI_score	dsm5tr_domainVII_score	dsm5tr_domainVIII_score	dsm5tr_domainIX_score	dsm5tr_domainX_score	dsm5tr_domainXI_score	dsm5tr_domainXII_score	dsm5tr_domainXIII_score	phq9_score	rrs_total_score	rrsD_score	rrsR_score	rrsB_score	gad7_score	mwDS_score	mwD_score	mwS_score	whodas_score	stai_v1_score	stai_v2_score	hrs_sleep_v1	hrs_sleep_v2
+sub-001	19	F	R	Asian	Not Hispanic or Latino	0	1	0	1	0	0	0	2	0	0	0	0	1	4	28	17	6	5	0	42	21	21	0	-9	-9	8	-9
+sub-002	21	M	R	Asian	Not Hispanic or Latino	0	0	0	1	0	0	0	0	0	0	0	0	0	1	31	17	8	6	0	35	18	17	0	-9	20	9	7.5
+sub-003	35	M	R	Asian	Not Hispanic or Latino	0	0	0	0	0	0	0	1	0	0	0	0	0	1	43	23	11	9	0	37	18	19	0	-9	30	7	6.5
+sub-004	19	F	R	Asian	Not Hispanic or Latino	1	1	0	1	0	0	0	0	0	0	0	1	0	3	29	16	8	5	1	13	6	7	0	-9	23	-9	6
+sub-005	20	F	R	White	Not Hispanic or Latino	0	1	0	1	0	0	0	0	0	1	0	0	0	2	45	26	9	10	1	39	21	18	0	35	36	7	7
+sub-006	24	F	R	White	Not Hispanic or Latino	1	0	0	1	0	0	0	0	0	2	0	0	0	2	29	17	5	7	0	26	14	12	0	21	29	9	7.5
+sub-007	19	M	R	White	Not Hispanic or Latino	1	1	0	1	0	0	0	1	0	0	0	0	0	4	36	19	8	9	1	34	20	14	4	24	24	-9	8.5
+sub-008	18	F	R	More than one race	Not Hispanic or Latino	2	1	3	1	3	0	0	2	1	1	2	3	0	10	65	38	13	14	6	36	17	19	13	35	35	-9	7.5
+sub-009	19	F	R	Black or African American	Not Hispanic or Latino	1	2	3	4	0	0	0	1	0	0	0	1	4	3	33	17	7	9	4	38	24	14	2	22	22	9	8.5
+sub-010	18	F	R	White	Not Hispanic or Latino	1	1	3	2	1	0	0	3	0	0	0	1	0	3	34	19	8	7	4	36	16	20	9	45	38	8.5	10
+sub-011	18	F	R	White	Hispanic or latino	1	0	2	2	1	0	0	0	0	0	0	1	0	3	39	21	10	8	2	38	21	17	3	27	25	8	8
+sub-012	18	F	R	White	Not Hispanic or Latino	1	1	0	0	0	0	0	0	0	0	0	0	0	3	27	15	6	6	0	24	20	4	0	22	26	7	7.5
+sub-013	28	M	R	Black or African American	Not Hispanic or Latino	0	0	1	0	0	0	0	0	0	0	0	0	0	1	22	12	5	5	0	14	8	6	0	20	20	6	-9
+sub-014	33	F	R	White	Not Hispanic or Latino	0	0	0	1	0	0	0	0	0	0	0	0	0	1	23	12	6	5	0	33	23	10	12	23	23	8	7.5
+sub-015	24	F	R	White	Hispanic or latino	1	1	2	2	3	0	0	1	1	2	1	2	4	10	47	25	11	11	8	35	13	22	24	40	26	9	8
+sub-016	32	M	R	White	Not Hispanic or Latino	0	0	0	0	0	0	0	0	0	0	0	0	0	1	28	16	6	6	0	21	12	9	12	27	41	-9	6.5
+sub-017	26	F	R	White	Not Hispanic or Latino	2	2	2	2	0	0	0	1	0	0	0	1	2	7	38	21	8	9	6	43	26	17	16	45	33	8.5	8
+sub-018	35	M	R	White	Not Hispanic or Latino	0	0	0	1	1	0	0	0	1	0	0	0	0	2	50	26	13	11	1	33	15	18	16	28	25	7	7
+sub-019	21	M	R	White	Not Hispanic or Latino	0	0	0	2	0	0	0	1	0	0	0	0	0	2	39	21	10	8	4	35	21	14	13	25	23	7	7
+sub-020	28	M	R	Black or African American	Not Hispanic or Latino	0	1	1	0	0	0	0	0	0	0	0	0	0	1	24	12	6	6	0	8	4	4	12	23	22	9	7
+sub-021	22	M	R	Other	Not Hispanic or Latino	1	1	0	0	0	0	0	0	0	1	0	1	0	1	57	28	15	14	0	46	28	18	16	34	45	6.5	8
+sub-022	24	F	R	Other	Not Hispanic or Latino	0	0	0	1	0	0	0	0	1	0	0	0	0	2	44	24	11	9	3	24	13	11	13	-9	-9	-9	-9
+sub-023	21	F	R	White	Not Hispanic or Latino	1	1	0	1	1	1	1	1	0	4	1	1	0	12	50	29	11	10	5	52	28	24	25	23	26	7.5	-9
+sub-024	22	F	R	White	Not Hispanic or Latino	0	0	0	0	0	0	0	0	0	0	0	0	0	4	30	17	6	7	0	33	21	12	13	29	33	6	6.5
+sub-025	22	F	R	More than one race	Not Hispanic or Latino	2	1	1	2	3	0	0	0	0	1	0	2	1	10	44	26	8	10	9	30	14	16	22	29	32	6.5	3

@@ -1,0 +1,16 @@
+{
+  "task-localizer_bold.json": "21acc31804543da4ac61e954bb094785ec16dd7f",
+  "CHANGES": "834a001798045d5fced5c4ca5ce63e6b19ea73e2",
+  "task-caricatures_bold.json": "21acc31804543da4ac61e954bb094785ec16dd7f",
+  "participants.tsv": "f570f936e7d5305d8e7e29f9da8b5abc74276b30",
+  "dataset_description.json": "6dc11cbfcf0609356bbd7f03f61cbf55bff4561b",
+  "acq-mprage_T1w.json": "ad8e0a7e1f4c3266656933f46025e9fd3334c821",
+  "README": "7c3999050b8fc8ac64941f4554d1d5d869f564ba",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-localizer_run-02_events.tsv": "d58a274fa96c3f16a47c8734343cc97849523798",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-localizer_run-01_events.tsv": "4b7b9d811ca6ad8d694537f769a2db3671080726",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-caricatures_run-01_events.tsv": "6554695a126d8e4260bc7f20963d4e9b32eb5534",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-caricatures_run-04_events.tsv": "062deadea1b356434a76c0f2262d34119dda02ef",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-caricatures_run-03_events.tsv": "39eea9d182547d4500edcf85e85555b57728a171",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-caricatures_run-05_events.tsv": "c8f821d8c70e913411c4e5748342cd923a3b2a12",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-caricatures_run-02_events.tsv": "feb053e8c2d4e53b4a86a3ad3daaa03e210dc0fb"
+}

@@ -1,0 +1,13 @@
+{
+  "task-scrambled_bold.json": "72de3d752c1e0fca35bf3ee49670831d76c26cfc",
+  "participants.tsv": "b51dcd3005ff432edc1c64d7706afe0a54f019b9",
+  "task-CMIYC_bold.json": "4fbd4da338f58413406d8c52264d4fc163a6f792",
+  "CHANGES": "bd94b85105258bfe84786cfc764ae7828a7ff32a",
+  "dataset_description.json": "55d96e7bab52687ae1151e9c7497b775276ad697",
+  "README": "9239f400f56f292bd56a4881a209483ab8570d77",
+  "sub-sid000001/func/sub-sid000001_task-CMIYC_events.tsv": "14e4eb439e9eda6809d6da1f78cf8121fbcda8ab",
+  "sub-sid000001/func/sub-sid000001_task-scrambled_run-04_events.tsv": "fbcc79c1625ab3645c9fb7e6c1f81439dfc7785d",
+  "sub-sid000001/func/sub-sid000001_task-scrambled_run-02_events.tsv": "4efe89675e2ee90eaa9f845881f8f8e6f6c2aaae",
+  "sub-sid000001/func/sub-sid000001_task-scrambled_run-01_events.tsv": "76c87237be746b5e6f6884b15cbea5ff07037d90",
+  "sub-sid000001/func/sub-sid000001_task-scrambled_run-03_events.tsv": "aa6614a918c3c84314982a9fb48e9110154d8e95"
+}

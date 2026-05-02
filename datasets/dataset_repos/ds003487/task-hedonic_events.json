@@ -1,0 +1,8 @@
+{
+ "trial_phase": {"Description" : "Wether it is ITI or trial phase"},
+ "trial": {"Description" : "Counting number of trial"},
+ "condition": {"Description" : "Which condition: CS+, CS-, Baseline or None"},
+ "perceived_liking": {"Description" : "Liking rating for the trial"},
+ "perceived_intensity": {"Description" : "Intensity rating for the trial"}
+
+}

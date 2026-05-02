@@ -1,0 +1,24 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "trial_type": {
+    "Description": "Trigger Meaning",
+    "Levels": {
+      "cor": "Correct Response",
+      "err": "Error Response",
+      "con": "Congruent Stimulus",
+      "inc": "Incongruent Stimulus"
+    }
+  },
+  "value": {
+    "Description": "Value of event",
+    "Levels": {
+      "cor": "Correct Response",
+      "err": "Error Response",
+      "con": "Congruent Stimulus",
+      "inc": "Incongruent Stimulus"
+    }
+  }
+}

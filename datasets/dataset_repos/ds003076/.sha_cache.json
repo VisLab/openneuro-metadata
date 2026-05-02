@@ -1,0 +1,15 @@
+{
+  "T1w.json": "0901b99e4bee733af37649be6f729609ab30c254",
+  "participants.tsv": "43c2dfd585edaf013188573e089a96201dc5f122",
+  "CHANGES": "94f36257579c4d6d271091bf6dd4c153884bb632",
+  "dataset_description.json": "6801fc01931ece8424a29678755889fb9fafae8b",
+  "task-Transitive_bold.json": "7911a5b0cc13549804c2ec93e258c219878a3032",
+  "participants.json": "7a029bde5f864fe0494154ce9a4547dc38339764",
+  "task-Syllogisms_bold.json": "4da36d65fcb5f42a45c1d34514c8bc7c3c21ee59",
+  "task-Syllogisms_events.json": "8c7d0b0e2d556de28be4fcb086ab1cd87ad9de9f",
+  "task-Transitive_events.json": "8c7d0b0e2d556de28be4fcb086ab1cd87ad9de9f",
+  "sub-1001/func/sub-1001_task-Syllogisms_run-02_events.tsv": "8fdbfbf5c74cb508d0059b7e30b65b1fa293656f",
+  "sub-1001/func/sub-1001_task-Syllogisms_run-01_events.tsv": "0466d7b1064fb48ac8a00f6533774833b1571b69",
+  "sub-1001/func/sub-1001_task-Transitive_run-01_events.tsv": "86fdd25fcd1383518be3c014319a3898835829b2",
+  "sub-1001/func/sub-1001_task-Transitive_run-02_events.tsv": "1533b5741d6514bf0fd8205eb857c1e6e6c3ee5f"
+}

@@ -1,0 +1,46 @@
+{
+  "trial_type": {
+    "LongName": "Condition",
+    "Description": "Syntactic structure of each sentence in a sequence of 10",
+    "Levels": {
+      "dative 1-3": "a 1-word NP followed by a 3-word VP, the second word is in the dative case",
+      "genitive 2-2": "a 2-word NP followed by a 2-word VP, the second word is in the genitive case"
+    }
+  },
+  "memory_task_sentence_1": {
+    "LongName": "Was the first memory-task sentence present in the audio?",
+    "Description": "After each stimulus, there were two memory tasks of the same type: we showed a sentence on the screen and asked the participant if this sentence was present in the audio they just listened to.",
+    "Levels": {
+      "real": "The sentence was in the audio.",
+      "fake": "The sentence was not in the audio."
+    }
+  },
+  "memory_task_response_1": {
+    "LongName": "First memory task response.",
+    "Description": "How did the participant respond in the first memory task?",
+    "Levels": {
+      "real": "The sentence was in the audio.",
+      "fake": "The sentence was not in the audio."
+    }
+  },
+  "memory_task_sentence_2": {
+    "LongName": "Was the second memory-task sentence present in the audio?",
+    "Description": "After each stimulus, there were two memory tasks of the same type: we showed a sentence on the screen and asked the participant if this sentence was present in the audio they just listened to.",
+    "Levels": {
+      "real": "The sentence was in the audio.",
+      "fake": "The sentence was not in the audio."
+    }
+  },
+  "memory_task_response_2": {
+    "LongName": "First memory task response.",
+    "Description": "How did the participant respond in the second memory task?",
+    "Levels": {
+      "real": "The sentence was in the audio.",
+      "fake": "The sentence was not in the audio."
+    }
+  },
+  "sentences_start_ms": {
+    "LongName": "Start of the first sentence in ms since the audio beginning.",
+    "Description": "For most of the participants the audio did not start straight away, instead, we first played a half or so of an additional sentence with the volume gradually rising. We are not interested in this part of the trial and need to know how many ms into the trial the actual first sentence started. For a first coule of participant who didn't have such intros, this is always 1000."
+  }
+}

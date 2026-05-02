@@ -1,0 +1,10 @@
+{
+  "CHANGES": "f48c4d33fcb2c1366f5d38b269675902cf6a2af4",
+  "README": "aec0cc588122bf35a7217c6428edb34da4c72ce9",
+  "participants.tsv": "bd1fd8f5c0a4372e680d6e4742cda769411409ac",
+  "dataset_description.json": "8610eb2128d13cdf523eeef04da76dcc64320cbd",
+  "participants.json": "2d56872270922ee3d6773e03077d6fa2cd50d2c8",
+  "events.json": "e0737fad4c892c4a2ce21c9856d46a9c84944708",
+  "sub-001/eeg/sub-001_task-internalattention_events.json": "f685df403974ad2d7bff2b3e15f57c518d6b9684",
+  "sub-001/eeg/sub-001_task-internalattention_events.tsv": "265f8b6a82544643d0369eb887c95b3970b29976"
+}

@@ -1,0 +1,6 @@
+{
+	"RepetitionTime":2.0,
+	"TaskName": "RLtestphase",
+	"MultiBandFactor": 1,
+    "SliceOrder": "ascending"
+}

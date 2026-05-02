@@ -1,0 +1,29 @@
+{
+  "sim_level": {
+    "LongName": "Similarity Level",
+    "Description": "Similarity level between target and lure stimuli. Defined for each lure stimulus.",
+    "Levels": {
+      "High": "high similarity pair",
+      "Low": "low similarity pair"
+    }
+  },
+  "pres_number": {
+    "LongName": "presentation number"
+  },
+  "lag": {
+    "LongName": "repetition lag",
+    "Description": "Lag in trials between first and second presentation."
+  },
+  "response": {
+    "LongName": "behavioral response",
+    "Description": "response in the continuous recognition task",
+    "Levels": {
+      "new": "new stimulus",
+      "old": "exact repetition of previous stimulus",
+      "similar": "similar but not identical to previous stimulus"
+    }
+  },
+  "fix_count": {
+    "LongName": "raw fixation count"
+  }
+}

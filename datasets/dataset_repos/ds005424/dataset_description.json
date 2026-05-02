@@ -1,0 +1,25 @@
+{
+    "Name": "BaBa21",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Arnaud Le Troter",
+        "David Meunier",
+        "Katherine Bryant",
+        "Julien Sein",
+        "Siham Bouziane",
+        "Adrien Meguerditchian"
+    ],
+    "ReferencesAndLinks": [
+        "Katherine L. Bryant, Arnaud Le Troter, David Meunier, Yannick Becker, Scott A. Love, Siham Bouziane, Kep Kee Loh1, Julien Sein, Luc Renaud, Olivier Coulon, Adrien Meguerditchian, in submission. Longitudinal MRI template of the baboon brain from birth to adolescence"
+    ],
+    "Acknowledgements": "We are very grateful to the Station de Primatologie CNRS, particularly animal care staff, vets and technicians as well as administrative staff of the ILCB, the CRPN and the LPC: Nadia Melili, Nadera Bureau,  Frederic Lombardo and Colette Pourpe respectively.",
+    "Funding": [
+        "This project received funding from the European Research Council under the European Union's Horizon 2020 research and innovation program grant agreement No 716931 - GESTIMAGE - ERC-2016-STG (P.I. Adrien Meguerditchian), from the Agence Nationale de la Recherche (ANR-23-CE28-0029-01, BabOnto  Project, P.I. Adrien Meguerditchian) as well as from grants ANR-16-CONV-0002 (ILCB), and ANR-11- 656 IDEX-0001-02 (A*MIDEX). Y.B. was funded by the Fondation Fyssen. MRI acquisitions were performed at the Center IRM-INT (UMR 7289, AMU-CNRS), a platform member of France Life Imaging network (grant ANR-11-INBS-0006)."
+    ],
+    "EthicsApprovals": [
+        "All animal procedures were approved by the Ethical committee of neurosciences C2EA-71  (INT Marseille; APAFIS#13553-201802151547729 v4), and were conducted at the Station de Primatologie (SdP; Rousset-Sur-Arc, France) and the Centre IRM (INT Marseille, Centre Européen en Imagerie Médicale) under agreement C130877 for conducting experiments on vertebrate animals. All methods were performed in accordance with the relevant French law, CNRS guidelines and the European Union regulations (Directive 2010/63/EU)."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005424.v1.0.1"
+}

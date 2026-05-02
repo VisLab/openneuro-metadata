@@ -1,0 +1,10 @@
+1.2.2 2025-05-22
+  - Read me file updated with data descriptor publication (see references).
+1.2.1 2025-05-13
+  - ReadMe file updated.
+1.2.0 2025-04-12
+  - Participants json file updated
+1.1.0 2025-04-11
+  - Participants tsv and json files updated
+1.0.0 2025-03-17
+  - BIDS validated EEG dataset

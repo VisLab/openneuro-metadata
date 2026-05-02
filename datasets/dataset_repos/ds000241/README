@@ -1,0 +1,37 @@
+
+Accession #: ds000241 
+Description: AK6: Animal Kingdom; 6 Species
+
+Dataset for study reported in:
+
+Connolly, A. C., J. S. Guntupalli, J. Gors, M. Hanke, Y. O. Halchenko, Y.-C. Wu, H. Abdi, and J. V. Haxby. The Representation of Biological Classes in the Human Brain. Journal of Neuroscience 32.8 (2012): 2608-618.
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Defacing
+--------
+Defacing was performed by the submitter.
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it 
+here: https://mriqc.readthedocs.io/en/stable/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000241/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000241.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.
+
+Known Issues
+------------
+N/A
+

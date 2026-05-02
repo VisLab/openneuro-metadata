@@ -1,0 +1,13 @@
+{
+  "README": "5488ac98aa135e6e5dd5d5c53a96c66f4d9f7274",
+  "CHANGES": "6179e7172eeebd296aa1c52e42c35a9afa33cc1d",
+  "participants.tsv": "8bf79fb5250802b853ea6f9b036c4d37e2197bd1",
+  "dataset_description.json": "93844375095a50800e0602429dcc632b0319e4b7",
+  "participants.json": "d6cf06975ee5992ab3980ba711e55e70d2e763e0",
+  "sub-00078/func/sub-00078_task-fMRI_run-3_events.json": "3ea1454cd21a7f255456966c813a577945d852a4",
+  "sub-00078/func/sub-00078_task-fMRI_run-2_events.tsv": "36cdc5c193d5cb8a4734d2e097025328f86b5bfc",
+  "sub-00078/func/sub-00078_task-fMRI_run-2_events.json": "3ea1454cd21a7f255456966c813a577945d852a4",
+  "sub-00078/func/sub-00078_task-fMRI_run-1_events.json": "3ea1454cd21a7f255456966c813a577945d852a4",
+  "sub-00078/func/sub-00078_task-fMRI_run-1_events.tsv": "0b71bd98b54d967dc4eccfd837b65cb418585644",
+  "sub-00078/func/sub-00078_task-fMRI_run-3_events.tsv": "918fe39d77da0ddbd821708cea6da59dc7789558"
+}

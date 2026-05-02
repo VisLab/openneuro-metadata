@@ -1,0 +1,12 @@
+{
+  "README": "8009ca9450fa227db4780d8339f578d6f057482d",
+  "CHANGES": "09e50b577497dbb2328d4ba59c4545e42cac4ebf",
+  "dataset_description.json": "f9080c9865408812c1df565d7df867c1ba3b5181",
+  "task-PredictionError_events.json": "7453d1a36d26e712975c5137341c435c76cb4006",
+  "participants.tsv": "982eec55019dd148d681758d85998631b88d7830",
+  "CITATION.cff": "feac364e1676dab96b21de6b26b87d28fd4aec1f",
+  "participants.json": "62a635b0b8828748cdcdd183e16edeeaccb70373",
+  "sub-02/ses-EMS/eeg/sub-02_ses-EMS_task-PredictionError_events.tsv": "23a6677ce41e0baf5fb38cfda79dc3e26aca3457",
+  "sub-02/ses-Visual/eeg/sub-02_ses-Visual_task-PredictionError_events.tsv": "37fdb38a0648cfbd15585dcab43903766b5f00be",
+  "sub-02/ses-Vibro/eeg/sub-02_ses-Vibro_task-PredictionError_events.tsv": "bf98a728a78cfd8f6ecd69eccb4bcb90dec62561"
+}

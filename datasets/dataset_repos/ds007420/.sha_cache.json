@@ -1,0 +1,16 @@
+{
+  "participants.tsv": "00eaca18841e5a7c193fd0cce17286700d0f3564",
+  "dataset_description.json": "b2ca27afa608effed1211fd10564ff1cb623be0f",
+  "CHANGES": "c050285aee75aa2791497fc62b78387ec4464bc0",
+  "datacite.yml": "48a21350b2a7f80e55db0f60e6b28693ba49a614",
+  "sub-170/ses-02/nirs/sub-170_ses-02_task-BallSqueezing_run-01_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-170/ses-01/nirs/sub-170_ses-01_task-Resting_events.tsv": "caa8f13876bcd298e11111a3f7072be5b9b46e6a",
+  "sub-170/ses-02/nirs/sub-170_ses-02_task-BallSqueezing_run-01_events.tsv": "89364692d467da8d1243afdcbe36510af93024c7",
+  "sub-170/ses-01/nirs/sub-170_ses-01_task-Resting_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-170/ses-03/nirs/sub-170_ses-03_task-Motion_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-170/ses-02/nirs/sub-170_ses-02_task-BallSqueezing_run-03_events.tsv": "79411dc77cdf0d1cdf3887742ec07d0f10113fc9",
+  "sub-170/ses-02/nirs/sub-170_ses-02_task-BallSqueezing_run-02_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-170/ses-02/nirs/sub-170_ses-02_task-BallSqueezing_run-03_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-170/ses-03/nirs/sub-170_ses-03_task-Motion_events.tsv": "3b8e9901a557ed64e0addb3fd5c0d25357457aac",
+  "sub-170/ses-02/nirs/sub-170_ses-02_task-BallSqueezing_run-02_events.tsv": "bcfb7245ee65f7fb8d233abbf46f8e6162f4c84f"
+}

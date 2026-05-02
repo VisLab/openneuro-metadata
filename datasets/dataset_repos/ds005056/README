@@ -1,0 +1,8 @@
+
+DICOM files were converted using a newer version of dcm2nii, dcm2niix, from MRIcron (v1.0.210190902)
+
+
+However, in the relevant paper (https://github.com/zelanolab/human_olfactory_tubercle_and_periaqueductal_gray_structural_connectivity): 
+DICOM files were converted using old version of dcm2nii from MRIcron (dcm2nii).
+The images have been field-bias corrected using FSL and skull-stripped (derivatives folder).
+

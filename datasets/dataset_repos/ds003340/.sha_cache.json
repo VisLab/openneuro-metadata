@@ -1,0 +1,20 @@
+{
+  "task-foodpicture_bold.json": "87ba7f44382cd16f024dd78f71d482bcf92d300c",
+  "participants.tsv": "523971accf9ae66c67be6d2a92ee8120f285f40e",
+  "CHANGES": "79f4ba85cfb7f9084f49de39db3c008d1fc7ad2d",
+  "dataset_description.json": "ee0e31e0fa1577f3758b84fdf9a3f7437be695a2",
+  "dir-PA_epi.json": "fa5e6682337d9da3513df733f5b6bfa7c577ae87",
+  "task-foodpicture_events.json": "f5ca3c713fd3a84643fe18f4373b83ee5f76eadc",
+  "T1w.json": "267b6feb08bb00caa37d599a363db9a50daa27fd",
+  "README": "f3ff39d7a9a8db6dbcdf3ecaebec34129b71bfd3",
+  "participants.json": "cfb02f336ed94c5af0302f75b5765499d6aab3b3",
+  "task-tastemap_bold.json": "37dbe1a79f361d7ed6e330cbe2536b9da097f99a",
+  "task-tastemap_events.json": "1182a82527bbb9ac0666fea00332594406ae1b1e",
+  "sub-008/ses-01/func/sub-008_ses-01_task-foodpicture_run-02_events.tsv": "3526036b4935bf5d92251d41ea850ef57896d475",
+  "sub-008/ses-01/func/sub-008_ses-01_task-tastemap_run-04_events.tsv": "3ff4e3143cb99a45d6b94ec25c2d2536867d7fa7",
+  "sub-008/ses-01/func/sub-008_ses-01_task-foodpicture_run-01_events.tsv": "5cab02f253a58c328c631d00525f68d81372d00d",
+  "sub-008/ses-01/func/sub-008_ses-01_task-tastemap_run-02_events.tsv": "514736ff306a3ceff4783269e77d7761342f52a7",
+  "sub-008/ses-01/func/sub-008_ses-01_task-tastemap_run-01_events.tsv": "bf0378f2e4e13e7dcd843a914430eb7e11ff507e",
+  "sub-008/ses-01/func/sub-008_ses-01_task-foodpicture_run-04_events.tsv": "5eacfd8a532fb2ac1969c4cc268e9784b736977a",
+  "sub-008/ses-01/func/sub-008_ses-01_task-tastemap_run-03_events.tsv": "fc1ca78043b9189006c889593c5c5747fba43981"
+}

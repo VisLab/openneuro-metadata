@@ -1,0 +1,13 @@
+{
+  "CHANGES": "f922fec4773c499bc02e01f0e81c8d95e5345495",
+  "participants.json": "3aedc3fbfbf1736f9dafab7bff4628acdde39a89",
+  "dataset_description.json": "c6a550e5b2635f2947c34683ba47259287df50c4",
+  "README": "4cd261bf795f0eaa1f6a2b5fc0e6c983d761a5a8",
+  "participants.tsv": "6bc287deef8f9d26113c7fd2935d226873e306c3",
+  "sub-s002/func/sub-s002_task-face_run-01_events.tsv": "2cd6847b1a3ebd577c7f49e47bd21d7c4e62623a",
+  "sub-s002/func/sub-s002_task-nback_run-02_events.tsv": "d0d42c36fd5a341d8872ce1766c4588323a6e61f",
+  "sub-s002/func/sub-s002_task-qreact_run-02_events.tsv": "e26efd419c72fc6b1f92ed072cd3b4d3c4b907cc",
+  "sub-s002/func/sub-s002_task-face_run-02_events.tsv": "f2a3a5c4b456814a80371df5a96eade478bd1fb1",
+  "sub-s002/func/sub-s002_task-qreact_run-01_events.tsv": "7f8ce32cb40573e2b0d2c18803edff15a6b83a1c",
+  "sub-s002/func/sub-s002_task-nback_run-01_events.tsv": "4e831e7a264a124e3be221593411f0a0abe6c238"
+}

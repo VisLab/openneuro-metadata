@@ -1,0 +1,9 @@
+{
+  "CHANGES": "19750cbcfb239e21c40e2ae107b4fb029015efa0",
+  "participants.json": "5658f4739a663eef3dfb7721c7940c3f41b029ec",
+  "participants.tsv": "2a8fb10cff8028c670f4d4726cb05f795831a27c",
+  "README.txt": "0ee673cc357aba5d18f0113849c4e85f250fffa0",
+  "dataset_description.json": "acc94298d1896288baa103e364080ac75033acb3",
+  "sub-01/eeg/sub-01_task-RPS_events.json": "e4a81661ba66082d844aed54227ff7c251c7b1d7",
+  "sub-01/eeg/sub-01_task-RPS_events.tsv": "e08e62dd94b3d3c3c570a9e35e79b5c3ba3fcae8"
+}

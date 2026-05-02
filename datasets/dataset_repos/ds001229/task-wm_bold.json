@@ -1,0 +1,20 @@
+{
+	"TaskName": "Working Memory",
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Skyra",
+	"EchoTrainLength": 29,
+	"AcquisitionNumber": 1,
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 71,
+	"EchoTime": 0.034,
+	"RepetitionTime": 2,
+	"PhaseEncodingLines": 59,
+	"BandwidthPerPixelPhaseEncode": 49.18,
+	"EffectiveEchoSpacing": 0.000344635,
+	"TotalReadoutTime": 0.0196442,
+	"AccelFactPE": 2,
+	"TrueEchoSpacing": 0.00068927,
+	"PhaseEncodingDirection": "j-",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0"
+}

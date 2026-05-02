@@ -1,0 +1,16 @@
+{
+  "CHANGES": "26af4faaea45e8fd4daf6aa225e5c1286bdca040",
+  "task-mentalstates_bold.json": "caa1cb58420c61b40b81eaabd63665062990f263",
+  "participants.tsv": "3b0b8fbcc9d3bb41c351216042fe126568e3423a",
+  "dataset_description.json": "2f4b9a0d27c7307c02388b3ab7b090c71db1029a",
+  "dir-PA_epi.json": "f32a189b82147e723592f802b7f9d4f2ae146bd7",
+  "dir-AP_epi.json": "66ca4139c051de57a161f086b8cc4a34ac35999c",
+  "sub-002/func/sub-002_task-mentalstates_run-01_events.tsv": "4221fc4cdab3ed7b0dff72a3c367aec77b7bf30a",
+  "sub-002/func/sub-002_task-mentalstates_run-08_events.tsv": "e8ef359989a326a7262afce87dd640dd1dba3193",
+  "sub-002/func/sub-002_task-mentalstates_run-03_events.tsv": "130d7666826a2078b39513bdef408298bc04addf",
+  "sub-002/func/sub-002_task-mentalstates_run-04_events.tsv": "dd8f4b292e049172c61050914153fae723ad8ec9",
+  "sub-002/func/sub-002_task-mentalstates_run-06_events.tsv": "98ec9edce983f6c1cd3354282896910efa5a4e8d",
+  "sub-002/func/sub-002_task-mentalstates_run-07_events.tsv": "da9c6eb289936499a4f69468cf2b0e3a1d6492cd",
+  "sub-002/func/sub-002_task-mentalstates_run-02_events.tsv": "28d9d5915f1c4b06911f1eb3c3166a68c14a368b",
+  "sub-002/func/sub-002_task-mentalstates_run-05_events.tsv": "4668db5122305a9a35b4e2e125c046ada88db694"
+}

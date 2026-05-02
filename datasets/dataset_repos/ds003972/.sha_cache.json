@@ -1,0 +1,12 @@
+{
+  "task-bodymotor_bold.json": "48d4a100e25296edb8a85792ab27f4d90b31c0e3",
+  "participants.json": "bb34c6e015c2dc1dc123f1ee1023fc5809348312",
+  "participants.tsv": "0cb5f63c2cd472cd3ec26f4ce5cb1c4676cc983f",
+  "CHANGES": "5114e175589d057cb65a8823a7df004d34157f63",
+  "README": "be875fc07e265f168aea736c6d82223a84f3d16f",
+  "dataset_description.json": "7b27c0422c950cea73aecbabeaec500aced6c399",
+  "sub-01/func/sub-01_task-bodymotor_run-04_events.tsv": "dc8f2f580410f96a3124cf27cc78875617362b85",
+  "sub-01/func/sub-01_task-bodymotor_run-02_events.tsv": "31b627bcb62751a0dc31f43bbac611a54335285d",
+  "sub-01/func/sub-01_task-bodymotor_run-01_events.tsv": "753e351f1a5aa63f4d0003ac369c1e4a4dca359b",
+  "sub-01/func/sub-01_task-bodymotor_run-03_events.tsv": "2b44668ff06d98f86410219eba9ee806e84be98d"
+}

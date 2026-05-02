@@ -1,0 +1,11 @@
+{
+	"RepetitionTime": 2.0,
+	"TaskName": "social comparison",
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "TRIO",
+	"MagneticFieldStrength": 3,
+	"PulseSequenceType": "EPI",
+	"EchoTime": 0.030,
+        "CogAtlasID": "http://www.cognitiveatlas.org/task/id/trm_5879199fde201",
+	"Instructions": "Imagine that someone is comparing your body to the body of the woman/man you see in the picture. That is, imagine someone is saying 'your body looks like hers/his.'" 
+}

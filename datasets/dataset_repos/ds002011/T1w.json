@@ -1,0 +1,8 @@
+{
+    "Title": "T1 Anatomical Image",
+    "Description": "This is a high-resolution anatomical scan of the brain",
+    "RepetitionTime": 2.3,
+    "EchoTime": 0.0226,
+    "FlipAngle": 9,
+    "InstitutionName": "University of Southern California"
+}

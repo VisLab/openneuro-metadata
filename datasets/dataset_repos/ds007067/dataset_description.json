@@ -1,0 +1,16 @@
+{
+    "Name": "spine_fMRI_7T",
+    "BIDSVersion": "1.2.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Alexandre D’Astous",
+        "Caroline Landelle",
+        "Arnaud Bréhéret",
+        "Antoine Guénette",
+        "Julien Doyon",
+        "Eva Alonso-Ortiz",
+        "Julien Cohen-Adad"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007067.v3.0.0"
+}

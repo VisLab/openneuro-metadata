@@ -1,0 +1,25 @@
+Study design:
+
+34 adult language learners aged 20-70 were recruited from a language school. Subjects were at either intermediate or advanced levels of learning the same second language. Subjects performed semantic comprehension (reading and speech) and verbal production tasks in the MRI scanner in their native and new languages.
+
+----------------------------------
+
+Publications using this dataset:
+
+[1] Gurunandan, K., Carreiras, M., & Paz-Alonso, P.M. (2019). Functional plasticity associated with language learning in adults. NeuroImage, 201. Doi:10.1016/j.neuroimage.2019.116040
+- Data: comprehension task from this dataset.
+- Summary: In this work, we examined different dimensions of learning-dependent plasticity of reading and speech comprehension in intermediate and advanced adult language learners, i.e. after the initial effort of adult second language learning, do language networks continue to change with increasing proficiency?
+
+[2] Gurunandan, K., Arnaez-Telleria, J., Carreiras, M., & Paz-Alonso, P.M. (2020). Converging evidence for differential specialization and plasticity of language systems. Journal of Neuroscience, 40(50), 9715-9724. Doi:10.1523/JNEUROSCI.0851-20.2020
+- Data: comprehension and production tasks from this dataset + comprehension and production tasks from a longitudinal dataset (available at [add link]).
+- Summary: In this work, we put together cross-sectional and longitudinal studies in a comprehensive examination of the flexibility of lateralisation, i.e. is hemispheric lateralisation of language processing fixed in early childhood or can it change with later language learning?
+
+----------------------------------
+
+The derivatives folder contains the laterality index data for Experiment-1 results presented in Gurunandan et al. (2020).
+
+----------------------------------
+
+If you have any questions, please contact:
+- Kshipra Gurunandan k.gurunandan@bcbl.eu
+- Pedro M. Paz-Alonso p.pazalonso@bcbl.eu

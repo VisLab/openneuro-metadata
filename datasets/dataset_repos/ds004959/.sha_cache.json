@@ -1,0 +1,9 @@
+{
+  "CHANGES": "3f1a88233d10683b41e5bfa3a146ef47df20d1b1",
+  "dataset_description.json": "d2e7ffdb82ccd975621d088f45b4a25b7df65d6b",
+  "participants.json": "de6867947fad248588c0390d0b3d96a478fc6931",
+  "README": "e5303ef8b66212049e6c828466cd5ac3f7668cb9",
+  "participants.tsv": "7dcbe998649536f4553468dacd8c84b418ad7df3",
+  "sub-control1/func/sub-control1_task-Stim80uA10Hz_run-01_events.tsv": "2889f3ebc27601349e24faa5d41c9e045d5ce35d",
+  "sub-control1/func/sub-control1_task-Stim80uA10Hz_run-02_events.tsv": "2889f3ebc27601349e24faa5d41c9e045d5ce35d"
+}

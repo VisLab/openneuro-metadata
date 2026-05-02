@@ -1,0 +1,11 @@
+Subjects and MRI protocol
+-------------------------------------
+
+Nine SCA2 patients and 16 age-matched healthy controls, were examined twice (SCA2 patients 3.6±0.7 years and controls 3.3±1.0 years apart) on the same 1.5T MRI scanner (Philips Intera, Best, The Netherlands) by acquiring: 
+-	sagittal 3D T1-weighted turbo gradient echo images [repetition time (TR) = 8.1 ms, echo time (TE) = 3.7 ms, flip angle = 8°, inversion time = 764 ms, field of view (FOV) = 256 mm × 256 mm, matrix size = 256 × 256, 160 contiguous slices, slice thickness = 1 mm];
+-	axial diffusion-weighted images by using a single-shot echo-planar imaging sequence (TR = 9394 ms, TE = 89 ms, FOV = 256 mm × 256 mm, matrix size = 128×128, 50 slices, slice thickness = 3 mm, no gap, number of excitations = 3). Diffusion sensitizing gradients were applied along 15 non-collinear and non-coplanar directions using b-value of 0 (b0 image) and 1000 s/mm2.
+
+Defacing
+------------
+
+Pydeface was used on all anatomical images to ensure de-identification of subjects.

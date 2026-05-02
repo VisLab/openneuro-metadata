@@ -1,0 +1,10 @@
+# README #
+
+### Directory description ###
+
+This directory contains data organized in the BIDS structure. For more information about the BIDS structure check: https://bids.neuroimaging.io/.
+
+### Data description ###
+
+Data consists of task realease suppression fMRI and anatomical T1 weighted images.
+

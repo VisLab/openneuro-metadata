@@ -1,0 +1,28 @@
+{
+    "Name": "AMRI 00-N-0082 natural stimuli",
+    "BIDSVersion": "1.4.1",
+    "HEDVersion": "",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Mandelkow, Hendrik",
+        "Duyn, Jeff H",
+        "de Zwart, Jacco A"
+    ],
+    "Acknowledgements": "n/a",
+    "HowToAcklowledge": "n/a",
+    "Funding": [
+        "NINDS/NIH intramural"
+    ],
+    "EthicsApprovals": [
+        "NIH protocol 00-N-0082"
+    ],
+    "ReferenceAndLinks": [
+        "https://doi.org/10.1016/j.neuroimage.2017.08.053"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006654.v1.0.4",
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1016/j.neuroimage.2017.08.053"
+    ],
+    "HowToAcknowledge": "H. Mandelkow, J.A. de Zwart, J.H. Duyn, 2017, \"Effects of spatial fMRI resolution on the classification of naturalistic movies\", NeuroImage, https://doi.org/10.1016/j.neuroimage.2017.08.053"
+}

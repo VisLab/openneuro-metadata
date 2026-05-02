@@ -1,0 +1,13 @@
+onset	duration	trial_type
+15.0	15	bodyparts
+34.5	15	words
+54.0	15	scrambled
+73.5	15	faces
+93.0	15	scenes
+112.5	15	objects
+142.5	15	objects
+162.0	15	scenes
+181.5	15	faces
+201.0	15	scrambled
+220.5	15	words
+240.0	15	bodyparts

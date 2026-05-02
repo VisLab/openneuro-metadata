@@ -1,0 +1,37 @@
+onset	duration	trial_type	stim_type	response	response_time	stim_group	stim_id	trial_id	run_id
+2.030	3	foil new	foil	sure new	0.425	n/a	328	1	1
+14.011	3	foil new	foil	sure new	1.667	n/a	329	2	1
+26.026	3	foil new	foil	sure new	1.389	n/a	330	3	1
+38.023	3	lure new	lure	sure new	1.231	3	233	4	1
+50.021	3	foil new	foil	sure new	0.809	n/a	322	5	1
+62.035	3	foil new	foil	sure new	1.194	n/a	313	6	1
+74.016	3	target old	target	sure old	1.221	8	185	7	1
+86.030	3	target old	target	sure old	1.486	5	157	8	1
+98.028	3	target old	target	sure old	1.360	6	165	9	1
+110.025	3	foil new	foil	sure new	1.090	n/a	310	10	1
+122.023	3	target old	target	sure old	1.324	1	117	11	1
+134.037	3	foil new	foil	sure new	1.589	n/a	318	12	1
+146.018	3	lure new	lure	sure new	1.168	2	224	13	1
+158.032	3	lure new	lure	sure new	1.561	1	214	14	1
+170.030	3	n/a	target	n/a	n/a	2	127	15	1
+182.011	3	foil new	foil	sure new	0.870	n/a	320	16	1
+194.025	3	target old	target	sure old	1.135	4	145	17	1
+206.023	3	target old	target	sure old	1.329	9	191	18	1
+218.020	3	lure new	lure	unsure new	2.139	9	292	19	1
+230.035	3	lure new	lure	sure new	1.420	8	284	20	1
+242.016	3	foil new	foil	sure new	1.367	n/a	302	21	1
+254.013	3	foil new	foil	sure new	1.289	n/a	325	22	1
+266.028	3	lure old	lure	sure old	1.106	7	272	23	1
+278.025	3	target old	target	sure old	0.884	1	113	24	1
+290.023	3	lure old	lure	unsure old	2.374	5	254	25	1
+302.037	3	lure new	lure	sure new	1.071	2	223	26	1
+314.018	3	target old	target	unsure old	1.627	7	173	27	1
+326.032	3	foil new	foil	sure new	1.083	n/a	309	28	1
+338.030	3	foil new	foil	sure new	0.973	n/a	306	29	1
+350.027	3	target old	target	sure old	1.735	9	197	30	1
+362.025	3	lure new	lure	sure new	1.377	6	262	31	1
+374.023	3	target old	target	sure old	1.963	2	123	32	1
+386.020	3	lure new	lure	unsure new	1.581	1	212	33	1
+398.034	3	lure old	lure	sure old	0.966	8	282	34	1
+410.015	3	target old	target	sure old	1.305	3	135	35	1
+422.030	3	lure new	lure	unsure new	2.234	4	242	36	1

@@ -1,0 +1,68 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "second"
+  },
+  "response_time": {
+    "Description": "Response time column not use for this data"
+  },
+  "sample": {
+    "Description": "Event sample starting at 0 (Matlab convention starting at 1)"
+  },
+  "value": {
+    "Description": "Value of event (numerical)",
+    "Levels": {
+      "ASRinstruct": "When participants were given instructions to open or close their eyes for the ASR segments",
+      "countdown_lowdev": "Countdown: When the countdown started, participants started walking. This being _lowdev indicates that for this participant, deviants were low-pitched (800 Hz)",
+      "countdown_highdev": "Countdown: When the countdown started, participants started walking. This being _highdev indicates that for this participant, deviants were high-pitched (1000 Hz)",
+      "WalkingInstruct1": "Instruction for task 3, the walking-together task. cond 1: Natural: they walk natually together in a clockwise direction around the arena.",
+      "WalkingInstruct2": "Instruction for task 3, the walking-together task. cond 2: Blocked/control: they walk together while participant wears side-blinders, in a clockwise direction around the arena.",
+      "WalkingInstruct3": "Instruction for task 3, the walking-together task. cond 3: Sync: they walk together while participant tries to synchronize with experimenter, in a clockwise direction around the arena."
+    }
+  },
+  "trial_type": {
+    "Description": "Upper hierarchy for events in the experiment. Type of event (different from EEGLAB convention)",
+    "Levels": {
+      "ASReyesopen": "Eyes open: This is the start of when participants stood with eyes open",
+      "ASReyesclose": "Eyes closed: This is when participants stood with eyes close",
+      "end": "End of eyes open/closed and walking blocks: This is to mark when these tasks ended",
+      "standard1": "standard - standing: frequent tone during standing condition",
+      "deviant1": "target - standing: target tone during standing condition",
+      "standard2": "standard - walk alone: frequent tone during walk alone condition",
+      "deviant2": "target - walk alone: target tone during walk alone condition",
+      "standard3": "standard - walk together: frequent tone during walk together condition",
+      "deviant3": "target - walk together: target tone during walk together condition",
+      "walk1_start": "start of walking cond 1: Natural. Note: countdown plays for about 12 seconds at the beginning. whole trial is 6 minutes.",
+      "walk2_start": "start of walking cond 2: Blocked. Note: countdown plays for about 12 seconds at the beginning. whole trial is 6 minutes.",
+      "walk3_start": "start of walking cond 3: Sync. Note: countdown plays for about 12 seconds at the beginning. whole trial is 6 minutes.",
+      "ParHSOWA1": "Participant right heel strike (as determined by foot acceleration) during oddball task, walking alone, 1st time",
+      "ParHSOWA2": "Participant right heel strike (as determined by foot acceleration) during oddball task, walking alone, 2nd time",
+      "ParTOOWA1": "Participant right toe off (as determined by foot acceleration) during oddball task, walking alone, 1st time",
+      "ParTOOWA2": "Participant right toe off (as determined by foot acceleration) during oddball task, walking alone, 2nd time",
+      "ParHSOWT1": "Participant right heel strike (as determined by foot acceleration) during oddball task, walking together with experimenter, 1st time",
+      "ParHSOWT2": "Participant right heel strike (as determined by foot acceleration) during oddball task, walking together with experimenter, 2nd time",
+      "ParTOOWT1": "Participant right toe off (as determined by foot acceleration) during oddball task, walking together with experimenter, 1st time",
+      "ParTOOWT2": "Participant right toe off (as determined by foot acceleration) during oddball task, walking together with experimenter, 2nd time",
+      "ExpHSOWT1": "Experimenter right heel strike (as determined by foot acceleration) during oddball task, walking together with experimenter, 1st time",
+      "ExpHSOWT2": "Experimenter right heel strike (as determined by foot acceleration) during oddball task, walking together with experimenter, 2nd time",
+      "ExpTOOWT1": "Experimenter right toe off (as determined by foot acceleration) during oddball task, walking together with experimenter, 1st time",
+      "ExpTOOWT2": "Experimenter right toe off (as determined by foot acceleration) during oddball task, walking together with experimenter, 2nd time",
+      "ParHS_WC": "Participant right heel strike during walking task control/blocked condition",
+      "ParTO_WC": "Participant right toe off during walking task control/blocked condition",
+      "ExpHS_WC": "Experimenter right heel strike during walking task control/blocked condition",
+      "ExpTO_WC": "Experimenter right toe off during walking task control/blocked condition",
+      "ParHS_WN": "Participant right heel strike during walking task natural condition",
+      "ParTO_WN": "Participant right toe off during walking task natural condition",
+      "ExpHS_WN": "Experimenter right heel strike during walking task natural condition",
+      "ExpTO_WN": "Experimenter right toe off during walking task natural condition",
+      "ParHS_WS": "Participant right heel strike during walking task natural condition",
+      "ParTO_WS": "Participant right toe off during walking task natural condition",
+      "ExpHS_WS": "Experimenter right heel strike during walking task natural condition",
+      "ExpTO_WS": "Experimenter right toe off during walking task natural condition"
+    }
+  }
+}

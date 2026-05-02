@@ -1,0 +1,13 @@
+{
+    "value": {
+        "LongName": "Current Value",
+        "Description": "Letter presented on screen for that trial"
+    },
+    "accuracy": {
+        "Description": "Whether subject was right or wrong",
+        "Levels": {
+            "0": "incorrect",
+            "1": "correct"
+        }
+    }
+}

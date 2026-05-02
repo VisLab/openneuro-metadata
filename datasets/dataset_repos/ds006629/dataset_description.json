@@ -1,0 +1,35 @@
+{
+    "Name": "SINGSING",
+    "BIDSVersion": "1.7.0",
+    "License": "CC0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Valerie Chanoine",
+        "Jean-Michel Badier",
+        "Mireille Besson",
+        "Talya Inbar"
+    ],
+    "Acknowledgements": "MEG data acquisition was performed in the MEG Centre (Timone Hospital, Marseille, France)",
+    "Funding": [
+        "This research has been supported by funding from the Institute of Convergence ILCB (France 2030, ANR-16-CONV-0002) and the Excellence Initiative of Aix-Marseille University A*MIDEX (ANR-11-IDEX-0001-02)"
+    ],
+    "ReferencesAndLinks": [
+        "a data paper",
+        "a resource to be cited when using the data"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006629.v1.0.1",
+    "GeneratedBy": [
+        {
+            "Name": "MNE-BIDS",
+            "Version": "0.14",
+            "Description": "MNE-BIDS is a Python package that allows you to read and write BIDS-compatible datasets with the help of MNE-Python."
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "DOI": "doi:10.18112/openneuro.ds006629.v1.0.0",
+            "URL": "https://openneuro.org/datasets/ds006629",
+            "Version": "1.0.0"
+        }
+    ]
+}

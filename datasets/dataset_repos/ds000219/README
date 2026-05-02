@@ -1,0 +1,620 @@
+Data acquisition methods have been described in detail in Dalenberg et al. (2017, Plos One)
+
+————————————————————————————————
+IMPORTANT NOTES
+————————————————————————————————
+Due to technical difficulties with the PRESTO sequence several volumes were missing or broken.
+To fix the timing of the data, missing volumes need to be filled and broken volumes need replacement. 
+
+Missing/borken volumes:
+
+Participant_id	run	volumes_missing	volumes_broken
+sub-06	r1	[1 2 3 4 5 6 7 8 9 10]	[]
+sub-08	r4	[1 2 3 4 5 6 7 8 9 10]	[]
+sub-18	r1	[1 2 3 4 5 6 7 8 9 10]	[]
+sub-20	r1	[1 2 3 4 5 6 7 8 9 10]	[]
+
+Further missing data due to difficulties with the gustometer or brain abnormalities:
+sub-02 r1
+sub-03 r2
+sub-04 r1
+sub-10 r3
+sub-16 r1 r2 r3 r4
+sub-19 r2
+sub-22 r4
+
+_____________________________
+##   Stimulus information  ##
+_____________________________
+
+Flavour_Products	Description
+anaman	Product brand DubbelFrisss, flavour Pineapple-Mango
+appbos	Product brand DubbelFrisss, flavour Apple-Blueberry
+appper	Product brand DubbelFrisss, flavour Apple-Peach
+sinman	Product brand DubbelFrisss, flavour Orange-Tangerine
+fra	Product brand Optimel, flavour Raspberry
+kok	Product brand Optimel, flavour Coconut
+lim	Product brand Optimel, flavour Lemon
+ska	Product brand Optimel, flavour Orange-Cinnamon
+
+##Product compositions##
+DubbelFrisss Pineapple-Mango:
+water, fruit juices from concentrated fruit juices, (apple, pineapple 1%, mango 1%), citric acid, aroma, sugar, carbonic acid (< 0,1%). Total sugars/sodium (per 100gr): 8.6gr/0.001gr.
+
+DubbelFrisss Apple-Blueberry:
+water, fruit juices from concentrated fruit juices, (apple 11%, blackcurrant 3%, aronia berry), citric acid, aroma, sugar, carbonic acid (< 0,1%). Total sugars/sodium (per 100 gr): 8.5gr/0.001gr.
+
+DubbelFrisss Apple-Peach:
+water, fruit juices from concentrated fruit juices, (apple 14%, peach 1.1%), citric acid, aroma, sugar, carbonic acid (< 0,1%). Total sugars/sodium (per 100gr): 8.6gr/0.001gr.
+
+DubbelFrisss Orange-Tangerine:
+water, fruit juices from concentrated fruit juices, (orange 7%, apple, tangerine 2.4%), citric acid, aroma, sugar, carbonic acid (< 0,1%). Total sugars/sodium (per 100 gr): 8.6gr/0.001gr
+
+Optimel general:
+Yogurt from skimmed milk, 5% fruit juices (see below), corn starch, calcium, sucralose. Proteins/Sugars/Sodium/Calcium (per 100gr): 3.1g/3.6g/0.04gr/120mg. Vitamins from the B complex (B2: 0,21mg; B6: 0,21mg; B12: 0,38 microgr).
+
+Optimel Raspberry: apple, 1% raspberry, aronia berry, lemon
+Optimel Coconut: apple, lemon, 1% coconut
+Optimel Lime: apple, 0.5% lemon, 0.5% lime
+Optimel Orange-Cinnamon: apple, 1% orange, cinnamon
+
+##General procedure per trial##
+Period	Description
+warning_star	Warning for upcomming flavour stimulus using a star on the screen (2s)
+taste_and_swallow	Instruction to first taste (3.5s) and then swallow (4s) the 2ml flavour stimulus
+judge	Passivily judge the stimulus (22.5s) while watching a fixation cross.
+rate	Actively rate the stimulus on a 7 point liking scale (self paced)
+rinse	Rinsing procedure to rinse the palate using 2ml of a 5% artificial saliva solution (29s)
+
+##Stimulus labels##
+All stimulus screens (except "warning_star" and "rinse") are coded as a combination of the general procedure and Flavour product as follows:
+
+taste_and_swallow_appbos
+judge_appbos
+rate_appbos
+
+taste_and_swallow_appper
+judge_appper
+rate_appper
+
+taste_and_swallow_sinman
+judge_sinman
+rate_sinman
+
+taste_and_swallow_anaman
+judge_anaman
+rate_anaman 
+
+taste_and_swallow_fra
+judge_fra
+rate_fra
+
+taste_and_swallow_kok
+judge_kok
+rate_kok
+
+taste_and_swallow_lim
+judge_lim
+rate_lim
+
+taste_and_swallow_ska
+judge_ska
+rate_ska 
+
+
+————————————————————————————————
+SCANNER & PRESTO SEQUENCE DETAILS
+————————————————————————————————
+
+3T Philips Intera MRI Scanner
+32 channel head coil 
+Variable number of TRs per run (depending on answering times)
+
+————————————————————————————————
+SCANNER PRESTO EXAM CARD
+————————————————————————————————
+Coil selection 1 =		"SENSE-Head-32P";
+     element selection =	"selection 1";
+Coil selection 2 =		"SENSE-Head-32AH";
+     element selection =	"selection 1";
+Dual coil =			"yes";
+CLEAR =				"yes";
+    body tuned =		"no";
+FOV          FH (mm) =		230;
+             AP (mm) =		230;
+             RL (mm) =		153;
+Voxel size   FH (mm) =		3;
+             AP (mm) =		3;
+             RL (mm) =		3;
+Recon voxel size (mm) =		2.875;
+Fold-over suppression =		"no";
+Slice oversampling =		"default";
+Reconstruction matrix =		80;
+SENSE =				"yes";
+    P reduction (AP) =		1.89999998;
+    P os factor =		1;
+    S reduction (RL) =		1.89999998;
+Overcontiguous slices =		"no";
+Stacks =			1;
+    slices =			51;
+    slice orientation =		"sagittal";
+    fold-over direction =	"AP";
+    fat shift direction =	"P";
+Stack Offc. AP (P=+mm) =	-8.07165337;
+            RL (L=+mm) =	-2.93776155;
+            FH (H=+mm) =	21.0553951;
+      Ang.  AP (deg) =		0.122744754;
+            RL (deg) =		1.3835777;
+            FH (deg) =		-0.273202777;
+Chunks =			1;
+Large table movement =		"no";
+PlanAlign =			"no";
+REST slabs =			0;
+Interactive positioning =	"no";
+Patient position =		"head first";
+        orientation =		"supine";
+Scan type =			"Imaging";
+Scan mode =			"3D";
+    technique =			"FFE";
+Contrast enhancement =		"T1";
+Acquisition mode =		"cartesian";
+Fast Imaging mode =		"EPI";
+    3D non-selective =		"no";
+    shot mode =			"multishot";
+EPI factor =			17;
+Echoes =			1;
+    partial echo =		"no";
+    shifted echo =		"yes";
+        TE>TR shift =		1;
+        M add factor =		-4;
+        P add factor =		-4;
+        S add factor =		-4;
+TE =				"user defined";
+    (ms) =			10;
+Flip angle (deg) =		7;
+TR =				"user defined";
+    (ms) =			20;
+Halfscan =			"no";
+Water-fat shift =		"minimum";
+Shim =				"auto";
+Fat suppression =		"no";
+Water suppression =		"no";
+MTC =				"no";
+Research prepulse =		"no";
+Diffusion mode =		"no";
+SAR mode =			"high";
+B1 mode =			"default";
+PNS mode =			"low";
+Gradient mode =			"default";
+SofTone mode =			"no";
+Cardiac synchronization =	"no";
+Respiratory compensation =	"no";
+Navigator respiratory comp =	"no";
+Flow compensation =		"no";
+fMRI echo stabilisation =	"no";
+NSA =				1;
+Angio / Contrast enh. =		"no";
+Quantitative flow =		"no";
+Manual start =			"yes";
+Dynamic study =			"individual";
+    dyn scans =			700;
+    dyn scan times =		"shortest";
+    FOV time mode =		"default";
+    dummy scans =		2;
+    immediate subtraction =	"no";
+    fast next scan =		"no";
+    synch. ext. device =	"yes";
+        start at dyn. =		1;
+        interval (dyn) =	1;
+    dyn stabilization =		"yes";
+    prospect. motion corr. =	"no";
+Keyhole =			"no";
+Arterial Spin labeling =	"no";
+Preparation phases =		"full";
+Interactive F0 =		"no";
+B0 field map =			"no";
+B1 field map =			"no";
+MIP/MPR =			"no";
+Images =			" M", (3) " no";
+Autoview image =		" M";
+Calculated images =		(4) " no";
+Reference tissue =		"Grey matter";
+Preset window contrast =	"soft";
+Reconstruction mode =		"real time";
+    reuse memory =		"no";
+Save raw data =			"no";
+Hardcopy protocol =		"no";
+Ringing filtering =		"default";
+Geometry correction =		"default";
+Elliptical k-space shutter =	"default";
+IF_info_seperator =		1634755923;
+Total scan duration =		"17:56.5";
+Rel. signal level (%) =		100;
+Act. TR/TE (shifted) (ms) =	"20 / 30";
+Dyn. scan time =		"00:01.5";
+Time to k0 =			"0.750";
+ACQ matrix M x P =		"76 x 58";
+ACQ voxel MPS (mm) =		"3.03 / 3.92 / 3.00";
+REC voxel MPS (mm) =		"2.88 / 2.88 / 3.00";
+Scan percentage (%) =		77.272728;
+Act. WFS (pix) / BW (Hz) =	"4.999 / 86.9";
+BW in EPI freq. dir. (Hz) =	"2654.6";
+Min. WFS (pix) / Max. BW (Hz) =	"4.976 / 87.3";
+Min. TR/TE (ms) =		"19 / 7.4";
+ES-FFE: added M area =		-15.5215797;
+ES-FFE: added P area =		-15.5215797;
+ES-FFE: added S area =		-15.5215797;
+SAR / head =			"<  2 %";
+Whole body / level =		"0.0 W/kg / normal";
+B1 rms =			"0.33 uT";
+PNS / level =			"46 % / normal";
+Sound Pressure Level (dB) =	14.8522921;
+
+————————————————————————————————
+PUBLICATIONS
+————————————————————————————————
+Dalenberg, J.R., Weitkamp, L., Renken, R.J., Nanetti, L., ter Horst G.J., (2017). Flavor pleasantness processing in the ventral emotion network. Plos One _____, doi: ______
+
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+This is second set of dataset(first set of dataset for Flavor Plesantness processing is ds000218 ) for Flavor Plesantness processing study.
+
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure deindentification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000219/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000219
+accession number.
+3) Send an email to submissions@openfmri.org. Please include the ds000219 accession number in
+your email.
+
+Known Issues
+------------
+N/A
+
+Bids-validator Output
+---------------------
+
+	1: You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. (code: 13 - SLICE_TIMING_NOT_DEFINED)
+       		/sub-01/func/sub-01_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-01/sub-01_task-RPflavourtask_bold.json, /sub-01/func/sub-01_task-RPflavourtask_run-01_bold.json
+       		/sub-01/func/sub-01_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-01/sub-01_task-RPflavourtask_bold.json, /sub-01/func/sub-01_task-RPflavourtask_run-02_bold.json
+       		/sub-01/func/sub-01_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-01/sub-01_task-RPflavourtask_bold.json, /sub-01/func/sub-01_task-RPflavourtask_run-03_bold.json
+       		/sub-01/func/sub-01_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-01/sub-01_task-RPflavourtask_bold.json, /sub-01/func/sub-01_task-RPflavourtask_run-04_bold.json
+       		/sub-02/func/sub-02_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-02/sub-02_task-RPflavourtask_bold.json, /sub-02/func/sub-02_task-RPflavourtask_run-02_bold.json
+       		/sub-02/func/sub-02_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-02/sub-02_task-RPflavourtask_bold.json, /sub-02/func/sub-02_task-RPflavourtask_run-03_bold.json
+       		/sub-02/func/sub-02_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-02/sub-02_task-RPflavourtask_bold.json, /sub-02/func/sub-02_task-RPflavourtask_run-04_bold.json
+       		/sub-03/func/sub-03_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-03/sub-03_task-RPflavourtask_bold.json, /sub-03/func/sub-03_task-RPflavourtask_run-01_bold.json
+       		/sub-03/func/sub-03_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-03/sub-03_task-RPflavourtask_bold.json, /sub-03/func/sub-03_task-RPflavourtask_run-03_bold.json
+       		/sub-03/func/sub-03_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-03/sub-03_task-RPflavourtask_bold.json, /sub-03/func/sub-03_task-RPflavourtask_run-04_bold.json
+       		/sub-04/func/sub-04_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-04/sub-04_task-RPflavourtask_bold.json, /sub-04/func/sub-04_task-RPflavourtask_run-02_bold.json
+       		/sub-04/func/sub-04_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-04/sub-04_task-RPflavourtask_bold.json, /sub-04/func/sub-04_task-RPflavourtask_run-03_bold.json
+       		/sub-04/func/sub-04_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-04/sub-04_task-RPflavourtask_bold.json, /sub-04/func/sub-04_task-RPflavourtask_run-04_bold.json
+       		/sub-05/func/sub-05_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-05/sub-05_task-RPflavourtask_bold.json, /sub-05/func/sub-05_task-RPflavourtask_run-01_bold.json
+       		/sub-05/func/sub-05_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-05/sub-05_task-RPflavourtask_bold.json, /sub-05/func/sub-05_task-RPflavourtask_run-02_bold.json
+       		/sub-05/func/sub-05_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-05/sub-05_task-RPflavourtask_bold.json, /sub-05/func/sub-05_task-RPflavourtask_run-03_bold.json
+       		/sub-05/func/sub-05_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-05/sub-05_task-RPflavourtask_bold.json, /sub-05/func/sub-05_task-RPflavourtask_run-04_bold.json
+       		/sub-06/func/sub-06_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-06/sub-06_task-RPflavourtask_bold.json, /sub-06/func/sub-06_task-RPflavourtask_run-01_bold.json
+       		/sub-06/func/sub-06_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-06/sub-06_task-RPflavourtask_bold.json, /sub-06/func/sub-06_task-RPflavourtask_run-02_bold.json
+       		/sub-06/func/sub-06_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-06/sub-06_task-RPflavourtask_bold.json, /sub-06/func/sub-06_task-RPflavourtask_run-03_bold.json
+       		/sub-06/func/sub-06_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-06/sub-06_task-RPflavourtask_bold.json, /sub-06/func/sub-06_task-RPflavourtask_run-04_bold.json
+       		/sub-07/func/sub-07_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-07/sub-07_task-RPflavourtask_bold.json, /sub-07/func/sub-07_task-RPflavourtask_run-01_bold.json
+       		/sub-07/func/sub-07_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-07/sub-07_task-RPflavourtask_bold.json, /sub-07/func/sub-07_task-RPflavourtask_run-02_bold.json
+       		/sub-07/func/sub-07_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-07/sub-07_task-RPflavourtask_bold.json, /sub-07/func/sub-07_task-RPflavourtask_run-03_bold.json
+       		/sub-07/func/sub-07_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-07/sub-07_task-RPflavourtask_bold.json, /sub-07/func/sub-07_task-RPflavourtask_run-04_bold.json
+       		/sub-08/func/sub-08_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-08/sub-08_task-RPflavourtask_bold.json, /sub-08/func/sub-08_task-RPflavourtask_run-01_bold.json
+       		/sub-08/func/sub-08_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-08/sub-08_task-RPflavourtask_bold.json, /sub-08/func/sub-08_task-RPflavourtask_run-02_bold.json
+       		/sub-08/func/sub-08_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-08/sub-08_task-RPflavourtask_bold.json, /sub-08/func/sub-08_task-RPflavourtask_run-03_bold.json
+       		/sub-08/func/sub-08_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-08/sub-08_task-RPflavourtask_bold.json, /sub-08/func/sub-08_task-RPflavourtask_run-04_bold.json
+       		/sub-09/func/sub-09_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-09/sub-09_task-RPflavourtask_bold.json, /sub-09/func/sub-09_task-RPflavourtask_run-01_bold.json
+       		/sub-09/func/sub-09_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-09/sub-09_task-RPflavourtask_bold.json, /sub-09/func/sub-09_task-RPflavourtask_run-02_bold.json
+       		/sub-09/func/sub-09_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-09/sub-09_task-RPflavourtask_bold.json, /sub-09/func/sub-09_task-RPflavourtask_run-03_bold.json
+       		/sub-09/func/sub-09_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-09/sub-09_task-RPflavourtask_bold.json, /sub-09/func/sub-09_task-RPflavourtask_run-04_bold.json
+       		/sub-10/func/sub-10_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-10/sub-10_task-RPflavourtask_bold.json, /sub-10/func/sub-10_task-RPflavourtask_run-01_bold.json
+       		/sub-10/func/sub-10_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-10/sub-10_task-RPflavourtask_bold.json, /sub-10/func/sub-10_task-RPflavourtask_run-02_bold.json
+       		/sub-10/func/sub-10_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-10/sub-10_task-RPflavourtask_bold.json, /sub-10/func/sub-10_task-RPflavourtask_run-04_bold.json
+       		/sub-11/func/sub-11_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-11/sub-11_task-RPflavourtask_bold.json, /sub-11/func/sub-11_task-RPflavourtask_run-01_bold.json
+       		/sub-11/func/sub-11_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-11/sub-11_task-RPflavourtask_bold.json, /sub-11/func/sub-11_task-RPflavourtask_run-02_bold.json
+       		/sub-11/func/sub-11_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-11/sub-11_task-RPflavourtask_bold.json, /sub-11/func/sub-11_task-RPflavourtask_run-03_bold.json
+       		/sub-11/func/sub-11_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-11/sub-11_task-RPflavourtask_bold.json, /sub-11/func/sub-11_task-RPflavourtask_run-04_bold.json
+       		/sub-12/func/sub-12_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-12/sub-12_task-RPflavourtask_bold.json, /sub-12/func/sub-12_task-RPflavourtask_run-01_bold.json
+       		/sub-12/func/sub-12_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-12/sub-12_task-RPflavourtask_bold.json, /sub-12/func/sub-12_task-RPflavourtask_run-02_bold.json
+       		/sub-12/func/sub-12_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-12/sub-12_task-RPflavourtask_bold.json, /sub-12/func/sub-12_task-RPflavourtask_run-03_bold.json
+       		/sub-12/func/sub-12_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-12/sub-12_task-RPflavourtask_bold.json, /sub-12/func/sub-12_task-RPflavourtask_run-04_bold.json
+       		/sub-13/func/sub-13_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-13/sub-13_task-RPflavourtask_bold.json, /sub-13/func/sub-13_task-RPflavourtask_run-01_bold.json
+       		/sub-13/func/sub-13_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-13/sub-13_task-RPflavourtask_bold.json, /sub-13/func/sub-13_task-RPflavourtask_run-02_bold.json
+       		/sub-13/func/sub-13_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-13/sub-13_task-RPflavourtask_bold.json, /sub-13/func/sub-13_task-RPflavourtask_run-03_bold.json
+       		/sub-13/func/sub-13_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-13/sub-13_task-RPflavourtask_bold.json, /sub-13/func/sub-13_task-RPflavourtask_run-04_bold.json
+       		/sub-14/func/sub-14_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-14/sub-14_task-RPflavourtask_bold.json, /sub-14/func/sub-14_task-RPflavourtask_run-01_bold.json
+       		/sub-14/func/sub-14_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-14/sub-14_task-RPflavourtask_bold.json, /sub-14/func/sub-14_task-RPflavourtask_run-02_bold.json
+       		/sub-14/func/sub-14_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-14/sub-14_task-RPflavourtask_bold.json, /sub-14/func/sub-14_task-RPflavourtask_run-03_bold.json
+       		/sub-14/func/sub-14_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-14/sub-14_task-RPflavourtask_bold.json, /sub-14/func/sub-14_task-RPflavourtask_run-04_bold.json
+       		/sub-15/func/sub-15_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-15/sub-15_task-RPflavourtask_bold.json, /sub-15/func/sub-15_task-RPflavourtask_run-01_bold.json
+       		/sub-15/func/sub-15_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-15/sub-15_task-RPflavourtask_bold.json, /sub-15/func/sub-15_task-RPflavourtask_run-02_bold.json
+       		/sub-15/func/sub-15_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-15/sub-15_task-RPflavourtask_bold.json, /sub-15/func/sub-15_task-RPflavourtask_run-03_bold.json
+       		/sub-15/func/sub-15_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-15/sub-15_task-RPflavourtask_bold.json, /sub-15/func/sub-15_task-RPflavourtask_run-04_bold.json
+       		/sub-17/func/sub-17_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-17/sub-17_task-RPflavourtask_bold.json, /sub-17/func/sub-17_task-RPflavourtask_run-01_bold.json
+       		/sub-17/func/sub-17_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-17/sub-17_task-RPflavourtask_bold.json, /sub-17/func/sub-17_task-RPflavourtask_run-02_bold.json
+       		/sub-17/func/sub-17_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-17/sub-17_task-RPflavourtask_bold.json, /sub-17/func/sub-17_task-RPflavourtask_run-03_bold.json
+       		/sub-17/func/sub-17_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-17/sub-17_task-RPflavourtask_bold.json, /sub-17/func/sub-17_task-RPflavourtask_run-04_bold.json
+       		/sub-18/func/sub-18_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-18/sub-18_task-RPflavourtask_bold.json, /sub-18/func/sub-18_task-RPflavourtask_run-01_bold.json
+       		/sub-18/func/sub-18_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-18/sub-18_task-RPflavourtask_bold.json, /sub-18/func/sub-18_task-RPflavourtask_run-02_bold.json
+       		/sub-18/func/sub-18_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-18/sub-18_task-RPflavourtask_bold.json, /sub-18/func/sub-18_task-RPflavourtask_run-03_bold.json
+       		/sub-18/func/sub-18_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-18/sub-18_task-RPflavourtask_bold.json, /sub-18/func/sub-18_task-RPflavourtask_run-04_bold.json
+       		/sub-19/func/sub-19_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-19/sub-19_task-RPflavourtask_bold.json, /sub-19/func/sub-19_task-RPflavourtask_run-01_bold.json
+       		/sub-19/func/sub-19_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-19/sub-19_task-RPflavourtask_bold.json, /sub-19/func/sub-19_task-RPflavourtask_run-03_bold.json
+       		/sub-19/func/sub-19_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-19/sub-19_task-RPflavourtask_bold.json, /sub-19/func/sub-19_task-RPflavourtask_run-04_bold.json
+       		/sub-20/func/sub-20_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-20/sub-20_task-RPflavourtask_bold.json, /sub-20/func/sub-20_task-RPflavourtask_run-01_bold.json
+       		/sub-20/func/sub-20_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-20/sub-20_task-RPflavourtask_bold.json, /sub-20/func/sub-20_task-RPflavourtask_run-02_bold.json
+       		/sub-20/func/sub-20_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-20/sub-20_task-RPflavourtask_bold.json, /sub-20/func/sub-20_task-RPflavourtask_run-03_bold.json
+       		/sub-20/func/sub-20_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-20/sub-20_task-RPflavourtask_bold.json, /sub-20/func/sub-20_task-RPflavourtask_run-04_bold.json
+       		/sub-21/func/sub-21_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-21/sub-21_task-RPflavourtask_bold.json, /sub-21/func/sub-21_task-RPflavourtask_run-01_bold.json
+       		/sub-21/func/sub-21_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-21/sub-21_task-RPflavourtask_bold.json, /sub-21/func/sub-21_task-RPflavourtask_run-02_bold.json
+       		/sub-21/func/sub-21_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-21/sub-21_task-RPflavourtask_bold.json, /sub-21/func/sub-21_task-RPflavourtask_run-03_bold.json
+       		/sub-21/func/sub-21_task-RPflavourtask_run-04_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-21/sub-21_task-RPflavourtask_bold.json, /sub-21/func/sub-21_task-RPflavourtask_run-04_bold.json
+       		/sub-22/func/sub-22_task-RPflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-22/sub-22_task-RPflavourtask_bold.json, /sub-22/func/sub-22_task-RPflavourtask_run-01_bold.json
+       		/sub-22/func/sub-22_task-RPflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-22/sub-22_task-RPflavourtask_bold.json, /sub-22/func/sub-22_task-RPflavourtask_run-02_bold.json
+       		/sub-22/func/sub-22_task-RPflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-22/sub-22_task-RPflavourtask_bold.json, /sub-22/func/sub-22_task-RPflavourtask_run-03_bold.json
+
+       	2: Not all subjects contain the same files. Each subject should contain the same number of files with the same naming unless some files are known to be missing. (code: 38 - INCONSISTENT_SUBJECTS)
+       		/sub-02/func/sub-02_task-RPflavourtask_run-01_bold.json
+       			This file is missing for subject sub-02, but is present for most other subjects.
+       		/sub-02/func/sub-02_task-RPflavourtask_run-01_bold.nii.gz
+       			This file is missing for subject sub-02, but is present for most other subjects.
+       		/sub-02/func/sub-02_task-RPflavourtask_run-01_events.tsv
+       			This file is missing for subject sub-02, but is present for most other subjects.
+       		/sub-03/func/sub-03_task-RPflavourtask_run-02_bold.json
+       			This file is missing for subject sub-03, but is present for most other subjects.
+       		/sub-03/func/sub-03_task-RPflavourtask_run-02_bold.nii.gz
+       			This file is missing for subject sub-03, but is present for most other subjects.
+       		/sub-03/func/sub-03_task-RPflavourtask_run-02_events.tsv
+       			This file is missing for subject sub-03, but is present for most other subjects.
+       		/sub-04/func/sub-04_task-RPflavourtask_run-01_bold.json
+       			This file is missing for subject sub-04, but is present for most other subjects.
+       		/sub-04/func/sub-04_task-RPflavourtask_run-01_bold.nii.gz
+       			This file is missing for subject sub-04, but is present for most other subjects.
+       		/sub-04/func/sub-04_task-RPflavourtask_run-01_events.tsv
+       			This file is missing for subject sub-04, but is present for most other subjects.
+       		/sub-10/func/sub-10_task-RPflavourtask_run-03_bold.json
+       			This file is missing for subject sub-10, but is present for most other subjects.
+       		/sub-10/func/sub-10_task-RPflavourtask_run-03_bold.nii.gz
+       			This file is missing for subject sub-10, but is present for most other subjects.
+       		/sub-10/func/sub-10_task-RPflavourtask_run-03_events.tsv
+       			This file is missing for subject sub-10, but is present for most other subjects.
+       		/sub-19/func/sub-19_task-RPflavourtask_run-02_bold.json
+       			This file is missing for subject sub-19, but is present for most other subjects.
+       		/sub-19/func/sub-19_task-RPflavourtask_run-02_bold.nii.gz
+       			This file is missing for subject sub-19, but is present for most other subjects.
+       		/sub-19/func/sub-19_task-RPflavourtask_run-02_events.tsv
+       			This file is missing for subject sub-19, but is present for most other subjects.
+       		/sub-22/func/sub-22_task-RPflavourtask_run-04_bold.json
+       			This file is missing for subject sub-22, but is present for most other subjects.
+       		/sub-22/func/sub-22_task-RPflavourtask_run-04_bold.nii.gz
+       			This file is missing for subject sub-22, but is present for most other subjects.
+       		/sub-22/func/sub-22_task-RPflavourtask_run-04_events.tsv
+       			This file is missing for subject sub-22, but is present for most other subjects.
+
+       	3: Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)
+       		/sub-01/func/sub-01_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,570 (voxels).
+       		/sub-01/func/sub-01_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,566 (voxels).
+       		/sub-01/func/sub-01_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,558 (voxels).
+       		/sub-01/func/sub-01_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,558 (voxels).
+       		/sub-02/func/sub-02_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,570 (voxels).
+       		/sub-02/func/sub-02_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,561 (voxels).
+       		/sub-02/func/sub-02_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,559 (voxels).
+       		/sub-03/func/sub-03_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,512 (voxels).
+       		/sub-03/func/sub-03_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,558 (voxels).
+       		/sub-03/func/sub-03_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,557 (voxels).
+       		/sub-04/func/sub-04_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,557 (voxels).
+       		/sub-04/func/sub-04_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,555 (voxels).
+       		/sub-04/func/sub-04_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,552 (voxels).
+       		/sub-05/func/sub-05_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,561 (voxels).
+       		/sub-05/func/sub-05_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,560 (voxels).
+       		/sub-05/func/sub-05_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,565 (voxels).
+       		/sub-05/func/sub-05_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,560 (voxels).
+       		/sub-06/func/sub-06_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,568 (voxels).
+       		/sub-06/func/sub-06_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,555 (voxels).
+       		/sub-06/func/sub-06_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,556 (voxels).
+       		/sub-06/func/sub-06_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,557 (voxels).
+       		/sub-07/func/sub-07_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,561 (voxels).
+       		/sub-07/func/sub-07_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,558 (voxels).
+       		/sub-07/func/sub-07_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,555 (voxels).
+       		/sub-08/func/sub-08_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,559 (voxels).
+       		/sub-08/func/sub-08_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,558 (voxels).
+       		/sub-08/func/sub-08_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,547 (voxels).
+       		/sub-09/func/sub-09_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,559 (voxels).
+       		/sub-09/func/sub-09_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,562 (voxels).
+       		/sub-09/func/sub-09_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,557 (voxels).
+       		/sub-09/func/sub-09_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,565 (voxels).
+       		/sub-10/func/sub-10_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,559 (voxels).
+       		/sub-10/func/sub-10_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,560 (voxels).
+       		/sub-10/func/sub-10_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,561 (voxels).
+       		/sub-11/func/sub-11_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,550 (voxels).
+       		/sub-12/func/sub-12_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,557 (voxels).
+       		/sub-12/func/sub-12_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,555 (voxels).
+       		/sub-13/func/sub-13_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,562 (voxels).
+       		/sub-13/func/sub-13_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,565 (voxels).
+       		/sub-13/func/sub-13_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,568 (voxels).
+       		/sub-13/func/sub-13_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,570 (voxels).
+       		/sub-14/func/sub-14_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,574 (voxels).
+       		/sub-14/func/sub-14_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,578 (voxels).
+       		/sub-14/func/sub-14_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,567 (voxels).
+       		/sub-14/func/sub-14_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,568 (voxels).
+       		/sub-15/func/sub-15_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,556 (voxels).
+       		/sub-15/func/sub-15_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,555 (voxels).
+       		/sub-15/func/sub-15_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,553 (voxels).
+       		/sub-17/func/sub-17_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,562 (voxels).
+       		/sub-17/func/sub-17_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,556 (voxels).
+       		/sub-18/func/sub-18_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,558 (voxels).
+       		/sub-18/func/sub-18_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,568 (voxels).
+       		/sub-19/func/sub-19_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,553 (voxels).
+       		/sub-19/func/sub-19_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,555 (voxels).
+       		/sub-20/func/sub-20_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,593 (voxels).
+       		/sub-20/func/sub-20_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,582 (voxels).
+       		/sub-20/func/sub-20_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,572 (voxels).
+       		/sub-20/func/sub-20_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,563 (voxels).
+       		/sub-21/func/sub-21_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,565 (voxels).
+       		/sub-21/func/sub-21_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,553 (voxels).
+       		/sub-21/func/sub-21_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,552 (voxels).
+       		/sub-21/func/sub-21_task-RPflavourtask_run-04_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,553 (voxels).
+       		/sub-22/func/sub-22_task-RPflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,569 (voxels).
+       		/sub-22/func/sub-22_task-RPflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,561 (voxels).
+       		/sub-22/func/sub-22_task-RPflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,563 (voxels).
+
+        Summary:                  Available Tasks:        Available Modalities:
+        281 Files, 14.92GB        RP flavour task         T1w
+        21 - Subjects                                     bold
+        1 - Session

@@ -1,0 +1,26 @@
+{
+  "InstitutionName": "Weill Cornell Medicine",
+  "InstitutionAddress": "1300 York Avenue, New York, NY 10065",
+  "Manufacturer": "GE",
+  "ManufacturersModelName": "Discovery MR750",
+  "SoftwareVersions": "DV26.0_R01_1725.a",
+  "MagneticFieldStrength": 3,
+  "NumberReceiveCoilActiveElements": 32,
+  "PulseSequenceType": "sLASER",
+  "ScanningSequence": "SVS",
+  "WaterSuppression": true,
+  "OuterVolumeSuppression": true,
+  "B0ShimmingTechnique": "Double-echo GRE",
+  "BodyPart": "Brain",
+  "BodyPartDetails": "Medial parietal lobe",
+  "ResonantNucleus": [
+    "1H"
+  ],
+  "SpectrometerFrequency": 127.77,
+  "SpectralWidth": 5000,
+  "EchoTime": 0.035,
+  "NumberOfSpectralPoints": 4096,
+  "AcquisitionVoxelSize": [30, 30, 30],
+  "RepetitionTime": 2,
+  "NumberOfTransients": 64
+}

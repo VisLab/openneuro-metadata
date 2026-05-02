@@ -1,0 +1,11 @@
+This dataset contains the intact-story data from:
+
+C. Baldassano, U. Hasson, K. Norman. "Representation of real-world event schemas during narrative perception."
+
+This dataset also contains the recall data from: 
+
+R. Masis-Obando, K. Norman, C. Baldassano. "Schema representations in distinct brain networks support narrative memory during encoding and retrieval."
+
+Stimuli are available here: https://figshare.com/articles/Event_Schema_Stimuli/5760306/3
+
+Note that sub-07 is missing recall data, which was lost due to a technical error.

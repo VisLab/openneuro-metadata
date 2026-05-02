@@ -1,0 +1,15 @@
+{
+  "participants.json": "00aa954db8b8468432c630cd79a5154e81d1a9bd",
+  "participants.tsv": "fa376e3cc665362baf79cc48cc32dfee59aa6fe1",
+  "task-ProgramCategorization_bold.json": "fdbebc9c2fa45c35c3bcbe148e9ba69d0b18ed63",
+  "README": "e38cba62ff21f2562b1e3bd374e950f84d7d29fe",
+  "task-ProgramCategorization_events.json": "b6502530c706aefa23950907b6f26ef0bdf0ba47",
+  "CHANGES": "33393583315a6e70236af198297c3238dbf6a09d",
+  "dataset_description.json": "c44e3679814d70423e9297d4f2f4762daa5ae126",
+  "sub-01/func/sub-01_task-ProgramCategorization_run-06_events.tsv": "4502f3b31ca9932359b35b5eaa268799b1e27300",
+  "sub-01/func/sub-01_task-ProgramCategorization_run-04_events.tsv": "b5905dbc0c9426fb7d96ad519eef7ed2db796b05",
+  "sub-01/func/sub-01_task-ProgramCategorization_run-01_events.tsv": "51934b79ec16ea91b59f6b13e4969bdbf82a211b",
+  "sub-01/func/sub-01_task-ProgramCategorization_run-03_events.tsv": "c2851a3962d99ebe72bc79172836add32af2af87",
+  "sub-01/func/sub-01_task-ProgramCategorization_run-05_events.tsv": "f01ba258b3e0104807d246eb58a48f07bd3ccce0",
+  "sub-01/func/sub-01_task-ProgramCategorization_run-02_events.tsv": "f3b5cd29d3c7319a5113dcbd09888e1031b0d9a8"
+}

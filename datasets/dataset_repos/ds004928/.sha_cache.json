@@ -1,0 +1,16 @@
+{
+  "CHANGES": "292748227c9ca1637959d2a3271293c67ad32972",
+  "task-tones_bold.json": "927665f9de0a1caf074d89514aba3f6000e02b8b",
+  "README.txt": "a7e7fb33e749abf957793ff4308dd64bfb76849f",
+  "dataset_description.json": "ac01accb87bce3c75df95d5d5a6d14bdb34a5aad",
+  "events.json": "c3fcffe87182467a774fbffe118c873ffc2d5d8a",
+  "participants.tsv": "d3da91ab9dc1351f944e4aa45ff3c4edbca51cbd",
+  "sub-01/func/sub-01_task-tones_run-2_events.tsv": "8535048d953d4c8a0560aea00d9d5c41c8634a5a",
+  "sub-01/func/sub-01_task-tones_run-7_events.tsv": "af3c22941ebe245b6e403fc4bd2d39b140fc0800",
+  "sub-01/func/sub-01_task-tones_run-1_events.tsv": "af3c22941ebe245b6e403fc4bd2d39b140fc0800",
+  "sub-01/func/sub-01_task-tones_run-5_events.tsv": "a315549f53b769af4e07f4039e38edf6f7b931ec",
+  "sub-01/func/sub-01_task-tones_run-4_events.tsv": "3751936ea768955f3ae026d619929721074f7c2b",
+  "sub-01/func/sub-01_task-tones_run-3_events.tsv": "9c5c5d3a8dfd593203bc66db6a1dd58794daef99",
+  "sub-01/func/sub-01_task-tones_run-6_events.tsv": "8a49286236f19628774fa873e666b567453c1c2e",
+  "sub-01/func/sub-01_task-tones_run-8_events.tsv": "8535048d953d4c8a0560aea00d9d5c41c8634a5a"
+}

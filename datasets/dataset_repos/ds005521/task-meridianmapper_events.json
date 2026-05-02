@@ -1,0 +1,18 @@
+{
+  "onset": {
+    "Description": "The onset of the event.",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "The duration of the event.",
+    "Units": "seconds"
+  },
+  "condition": {
+    "Description": "",
+    "Levels": {
+      "Horizontal": "Horizontal",
+      "Vertical": "Vertical",
+      "Gray": "Gray"
+    }
+  }
+}

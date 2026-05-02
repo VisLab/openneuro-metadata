@@ -1,0 +1,10 @@
+1.0.0 2025-03-06
+  - created initial version
+4 2023-01-12
+  - Added extra landmarks to the SNIRF file to improve compatability with AtlasViewer and Satori
+
+3 2023-01-02
+  - Fixed trial duration information
+
+2 2022-07-19
+  - Initial release.

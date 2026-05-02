@@ -1,0 +1,28 @@
+{
+  "participant_id": {
+    "LongName": "Participant Identifier",
+    "Description": "Unique BIDS identifier for the participant in this study."
+  },
+  "condition": {
+    "LongName": "Condition",
+    "Description": "A type of trial condition presented to the participant.",
+    "Levels": {
+      "incongruent": "Target arrow aligned in the opposite direction as the flanking arrows.",
+      "congruent": "Target arrow aligned in the same direction as the flanking arrows."
+    }
+  },
+  "accuracy": {
+    "LongName": "Accuracy",
+    "Description": "Whether the participant responded correctly or incorrectly.",
+    "Levels": {
+      "1": "Participant responded correctly.",
+      "0": "Participant responded incorrectly."
+    }
+  },
+  "reaction_time": {
+    "LongName": "Reaction Time",
+    "Description": "Time between cue presentation and the participant's response.",
+    "Units": "seconds"
+  }
+}
+

@@ -1,0 +1,22 @@
+{
+    "filename": {
+        "Description": "Name of the scan file"
+    },
+    "acq_time": {
+        "LongName": "Acquisition Time"
+        "Description": "Time that the scan was acquired, anonymized"
+    },
+    "operator": {
+        "Description": "Lab conducting the scan"
+    },
+    "randstr": {
+        "LongName": "Random String"
+    },
+    "MotionExclusion": {
+        "Description": "Whether or not this scan was excluded due to motion"
+    },
+    "MeanFD": {
+        "LongName": "Mean framewise displacement"
+        "Description": "Mean framewise displacement across runs (this is motion information that is generated during preprocessing)"
+    }
+}

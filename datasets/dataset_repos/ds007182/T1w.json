@@ -1,0 +1,21 @@
+{
+    "Description": "T1-weighted anatomical MRI",
+    "RepetitionTime": 0.01,
+    "EchoTime": 0.0046,
+    "PhaseEncodingDirection": "j-",
+    "ParallelAcquisitionTechnique": "SENSE",
+    "ParallelReductionFactorInPlane": 2,
+    "FlipAngle": 8,
+    "WaterFatShift": 2.835,
+    "PulseSequenceType": "TSE",
+    "SkullStripped": false,
+    "Manufacturer": "Philips",
+    "ManufacturersModelName": "Achieva dStream",
+    "MagneticFieldStrength": 3,
+    "InstitutionName": "University of Amsterdam",
+    "InstitutionAddress": "Nieuwe Achtergracht 129B, 1018 WS Amsterdam, The Netherlands",
+    "InstitutionalDepartmentName": "Department of Psychology",
+    "StationName": "MR01",
+    "DeviceSerialNumber": "000000",
+    "SoftwareVersions": "5.x"
+}

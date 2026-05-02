@@ -1,0 +1,27 @@
+Project Title: Network-specific metabolic and hemodynamic effects elicited by non-invasive brain stimulation
+
+This data depository contains DERIVATIVE at the group-level (n=16) files ONLY, and does not include individual subject-level data for subject confidentiality reasons. 
+
+Specifically included are:
+1. Spreadsheets relevant to TMS administration:
+(a) Elapsed times between TMS and onset of image acquisitions.
+(b) Motor thresholds by subject.
+(c) Target coordinates for SAL-TMS and DN-TMS by subject.
+
+2. NIFTI FDG-PET files in MNI152 common space (Post-TMS > baseline).
+
+3. NIFTI MRI files in MNI152 common space:
+(a) ROIs used in the main analysis (many derived by Yeo et al. J. of Neurophysiology 2011.
+(b) Group-level functional connectivity changes (Post-TMS > Pre-TMS)
+(c) Group-level functional connectivity changes (Post-TMS > baseline)
+
+4. Spreadsheets related to quantitative changes resulting from TMS in:
+(a) Whole-brain normalized standardized uptake 
+(b) Functional connectivity 
+
+5. Spreadsheet describing MRI quality control metrics.
+
+
+
+
+

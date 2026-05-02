@@ -1,0 +1,55 @@
+{
+  "onset": {
+    "LongName": "Trial onset time",
+    "Description": "Onset time of the first stimulus",
+    "Units": "s"
+  },
+  "duration": {
+    "LongName": "Trial duration",
+    "Description": "Duration of trial from beginning of first stimulus to end of fixation",
+    "Units": "s"
+  },
+  "trial_type": {
+    "LongName": "Trial Condition",
+    "Description": "Category of trial based on stimuli characteristics",
+    "Levels": {
+      "control": "line orientation judgement",
+      "O+P+": "Orthographically congruent, phonologically congruent",
+      "O-P+": "Orthographically incongruent, phonologically congruent",
+      "O-P-": "Orthographically incongruent, phonologically incongruent"
+    }
+  },
+  "accuracy": {
+    "LongName": "Trial accuarcy",
+    "Description": "Indicates if participant made correct or incorrect response",
+    "Levels": {
+      "0": "incorrect",
+      "1": "correct"
+    }
+  },
+  "response_time": {
+    "LongName": "Response Time",
+    "Description": "Subject response time measured from beginning of presentation of third stimulus",
+    "Units": "s"
+  },
+  "stimA": {
+    "LongName": "First stimulus word",
+    "Description": "First presented stimulus word"
+  },
+  "stimB": {
+    "LongName": "Second stimulus word",
+    "Description": "Second presented stimulus word"
+  },
+  "stimC": {
+    "LongName": "Third stimulus word",
+    "Description": "Third presented stimulus word"
+  },
+  "match_posit": {
+  	"LongName": "Match Position",
+	"Description": "Position of stimulus for matching trials",
+	"Levels": {
+		"1": "First and third stimulus match",
+		"2": "Second and third stimulus match"
+	}
+  }
+}

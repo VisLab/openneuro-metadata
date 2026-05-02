@@ -1,0 +1,9 @@
+{
+  "participants.tsv": "aa63049b99ec5d71f384b6145dc4eb699dbf7a17",
+  "README": "a2b364f285490302250e1792ee997e220d2a9278",
+  "CHANGES": "fa3771202b21c3993eca7784aa0c55a3323e2708",
+  "dataset_description.json": "7b39a96b697de4927f65a75a69c00a4f028493b2",
+  "sub-child01/func/sub-child01_task-episodic_events.tsv": "d03c35b1be255ee6496e64dde25d5c7708414ae8",
+  "sub-child01/func/sub-child01_task-autobio_events.tsv": "8456180d3777b72662ddc3e7bce1282c48c623a0",
+  "sub-child01/func/sub-child01_task-semantic_events.tsv": "ea1ae52334fae3c40557cbcbc5f3c58915c19e08"
+}

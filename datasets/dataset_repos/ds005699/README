@@ -1,0 +1,60 @@
+# Connectomix test dataset 2
+
+This dataset is designed to test features of Connectomix. For more information, please visit the GitHub repository:
+
+[https://github.com/ln2t/connectomix](https://github.com/ln2t/connectomix)
+
+The dataset contains data for 4 participants.
+
+## Rawdata
+
+- Anatomical: T1w image (defaced)
+- Functional: A standard 6 minutes resting-state scan
+- Groups: the participants are split in `control` and `patient` groups in the `participants.tsv` file. This split has been done artificially and serves only testing purposes.
+
+## Derivatives
+- fmriprep: preprocessed data using fMRIPrep
+- connectomix: results of the connectomix software (see below for details)
+
+## Commands
+The exact commands to run the analyzes depends on your installation of fMRIPrep.
+In what follows, we simply assume that `fmriprep` is the command for fMRIPrep.
+We show here the simplest version of the commands, assuming you adapt those depending on your setup (e.g. if you use Docker).
+
+We also assume that the data are at the following locations:
+```bash
+bids_dir='/data/ds005699'
+derivatives_dir='/data/ds005699/derivatives'
+```
+
+### Preprocessing (fMRIPrep)
+```bash
+fmriprep $bids_dir ${derivatives_dir}/fmriprep participant --fs-license-file /path/to/fs/license
+```
+
+### Analysis: connectomix
+*Note:* The following has been tested for connectomix version 1.0.1.
+
+First set-up path to connectomix script:
+```bash
+connectomix_cmd='/path/to/connectomix/connectomix/connectomix.py'
+```
+
+Second, set-up paths to config directory:
+```bash
+config_dir='/data/ds005625/code/connectomix/config'
+```
+
+#### Participant-level
+```bash
+$connectomix_cmd ${bids_dir} ${derivatives_dir}/connectomix participant --derivatives fmriprep="${derivatives_dir}/fmriprep" --config "${config_dir}/participant_level_config.yaml"
+```
+
+#### Group-level
+*Notes:*
+- this is an example of **Independent two-samples t-test**
+- Since the dataset contains only four subjects (two subjects per group), the number of possible permutations is very low. For this reason, the number of computed permutations is set to 4, and connectomix can then complete the group level-analysis. Of course, realistic cases should not only include much more participants, but also a much larger number of permutations (see connectomix documentation).
+
+```bash
+$connectomix_cmd ${bids_dir} ${derivatives_dir}/connectomix group --config "${config_dir}/group_level_config.yaml"
+```

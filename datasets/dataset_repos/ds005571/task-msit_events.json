@@ -1,0 +1,51 @@
+{
+  "onset": {
+    "Description": "onset of the stimuli",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "duration of the code",
+    "Units": "miliseconds"
+  },
+  "value": {
+    "Description": "Code for the stimulus type {11, 12}",
+    "Levels": {
+      "s__11": "Presentation of the congruent stimuli.",
+      "s__12": "Presentation of the incongruent stimuli."
+    }
+  },
+  "response": {
+    "Description": "Response or participant's selection {1, 2, 3}.",
+    "Levels": {
+      "s__1": "1 option",
+      "s__2": "2 option",
+      "s__3": "3 option"
+    }
+  },
+  "rt": {
+    "Description": "reaction time",
+    "Units": "Miliseconds"
+  },
+  "good": {
+    "Description": "Trials correctly presented on the screen {0, 1}.",
+    "Levels": {
+      "v_1": "Correctly presented ",
+      "v_0": "Non correctly presented "
+    }
+  },
+  "Acu": {
+    "Description": "Acuracy of the response",
+    "Levels": {
+      "v_1": "Correct response",
+      "v_0": "Incorrect response"
+    }
+  },
+  "estim": {
+    "Description": "array of number of each stimilus",
+    "Units": "array"
+  },
+  "trial": {
+    "Description": "number of the traila of each sequience",
+    "Units": "count"
+  }
+}

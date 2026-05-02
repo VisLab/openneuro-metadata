@@ -1,0 +1,16 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "second"
+  },
+  "trial_type": {
+    "Description": "Type of event (different from EEGLAB convention)",
+    "Levels": {
+      "S77": "Laser stimli"
+    }
+  }
+}

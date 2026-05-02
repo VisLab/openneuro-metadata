@@ -1,0 +1,3 @@
+This dataset contains raw 7T fMRI data from 20 subjects who completed a visual task viewing a radial checkerboard flickering at a rate of 12 Hz. The stimulus duration varied from 0.167 seconds to 16 seconds (see stimulus files). 
+
+These data were previously published: Lewis, L. D., Setsompop, K., Rosen, B. R., & Polimeni, J. R. (2018). Stimulus-dependent hemodynamic response timing across the human subcortical-cortical visual pathway identified through high spatiotemporal resolution 7T fMRI. NeuroImage, 181, 279-291. https://doi.org/10.1016/j.neuroimage.2018.06.056

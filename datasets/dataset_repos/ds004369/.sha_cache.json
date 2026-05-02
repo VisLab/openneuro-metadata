@@ -1,0 +1,9 @@
+{
+  "CHANGES": "2cca9ddf47ce40560a5d40e8469139667076b83b",
+  "README": "2ded54eb421fc327c43cb93970c36a6fec565fec",
+  "participants.json": "23dda3dbfff40739fd8a3185111728ee07c1653b",
+  "dataset_description.json": "f46478469cd1ac574902d4b7f49528508f9df774",
+  "participants.tsv": "4a422e427e1906c1964890817db506758d8e9e10",
+  "sub-001/eeg/sub-001_task-attendedSpeakerParadigm_events.json": "2ab238b80392256f836d8282157fe04a07ca1db3",
+  "sub-001/eeg/sub-001_task-attendedSpeakerParadigm_events.tsv": "98eb3a0a7f24e9d3e5ef3b54dd1b8c899185a527"
+}

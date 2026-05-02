@@ -1,0 +1,9 @@
+{
+  "T1w.json": "30cf729a621967fcca26d3fc67ef7649b72f93b1",
+  "dataset_description.json": "a917e84a6b2f13b61d760d3f7fec5a9c3414fd57",
+  "participants.tsv": "b739ebd127ddaa5e948ce44b611deec89f1f16c6",
+  "CHANGES": "13fcd379c2f81f39b818a30771a0aa564e70b82c",
+  "task-OP_bold.json": "5953ca6b03f0b9710013ecb14e81e971fd687e3a",
+  "README": "5381ec144070e32e2068b8d08616b5061c22c999",
+  "sub-01/func/sub-01_task-OP_events.tsv": "76785eea372aacf781c6c2eef51ccbfd26c6cacc"
+}

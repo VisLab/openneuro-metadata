@@ -1,0 +1,9 @@
+{
+  "CHANGES": "17692b6d8dcf809787bdb041a024c4d0ef1d5725",
+  "dataset_description.json": "ab31384daa68f19146f4e05700d015c6d6e8e704",
+  "task-Oddball_events.json": "5b86f9d5c104ddba1e12b872b0f9b84bfaa2e4f0",
+  "participants.json": "5573c4a26fc1b69e687bcd35b6691f8ae4aab8a1",
+  "README": "a50eae866220ba5a937a20f12365f220aaf13214",
+  "participants.tsv": "4c4eef0832eff4e96c1f20c84b1fc74ef908e946",
+  "sub-001/eeg/sub-001_task-Oddball_events.tsv": "5aaf50d550deab8faf830e0bb70077a3161f7d08"
+}

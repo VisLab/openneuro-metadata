@@ -1,0 +1,6 @@
+{
+    "PhaseEncodingDirection": "j",
+    "TotalReadoutTime": 0.02016,
+    "B0FieldIdentifier": "pepolar_fmap_bold",
+    "IntendedFor": "bids::sub-SUBJ/ses-SESS/func/sub-SUBJ_ses-SESS_task-rest_acq-geEPI_bold.nii.gz"
+}

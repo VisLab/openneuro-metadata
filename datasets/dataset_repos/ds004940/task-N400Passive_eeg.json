@@ -1,0 +1,15 @@
+{
+"TaskName": "N400Passive",
+"TaskDescription": "Participant watched a show of their choice without sound or subtitles while sentences with and without errors were played through headphones. Participants were instructed to watch their show and ignore the stimuli. No response was needed.",
+"InstitutionAddress": "University of Rochester Medical Center, 601 Elmwood Avenue, Box 603, KMRB G.9602, Rochester, NY 14642, USA",
+"InstitutionName": "University of Rochester",
+"InstitutionalDepartmentName": "The Frederick J. and Marion A. Schindler Cognitive Neurophysiology Laboratory, The Del Monte Institute for Neuroscience , Department of Neuroscience",
+"Manufacturer": "BioSemi",
+"ManufacturersModelName": "ActiveTwo",
+"SoftwareFilters": "n/a",
+"EEGChannelCount": 136,
+"EEGReference": "CMS/DRL",
+"PowerLineFrequency": 60,
+"RecordingType": "continuous",
+"SamplingFrequency": 512
+}

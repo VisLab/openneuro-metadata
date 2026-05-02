@@ -1,0 +1,12 @@
+{
+  "participants.json": "897c5c3362001e91905a332e8cf8f49607d1a478",
+  "CHANGES": "dd2cb55ea32221a75f2059775e6b70a3807d7fde",
+  "README": "59b4a2cba4c64e5c83c0ea2b98ebf534fce8935c",
+  "participants.tsv": "1ae2ca5042598f6192703cd9481b41562ac339d7",
+  "dataset_description.json": "306ed6bf7cab70790b197b72733847b7cb264fa8",
+  "task-odors_bold.json": "8899e77a72d07f28f00b2faae1c24d465dec81fa",
+  "computeAUCeachROI_ratings.m": "6c09191a704dd7313eada325db3fe2ee7c340900",
+  "task-odors_events.json": "17d5a485085800183888784c47520fb3873c475c",
+  "sub-01/func/sub-01_task-odors_run-02_events.tsv": "7668755cc562a6e4a888914eb5d2736cb838eca0",
+  "sub-01/func/sub-01_task-odors_run-01_events.tsv": "df8e0a62b54977ba9964fbcb8db3d71a3bfde250"
+}

@@ -1,0 +1,45 @@
+{
+
+	"InstitutionName": "Queen's University",
+	"InstitutionAddress": "Botterell Hall 234, Kingston, Ontario, CA, K7L3N6",
+	"InstitutionalDepartmentName": "Centre for Neuroscience Studies",
+	"Manufacturer": "SIEMENS",
+	"ManufacturersModelName": "TrioTim",
+	"DeviceSerialNumber": "35109",
+	"StationName": "MRC35109",
+	"MagneticFieldStrength": 3,
+	"SoftwareVersions": "syngo MR B19",
+	"ConversionSoftware":"dcm2niix",
+	"BodyPartExamined": "BRAIN",
+	"PatientPosition": "HFS",
+	"Modality": "MR",	
+	"ReceiveCoilActiveElements": "HEA;HEP",
+	"CoilCombinationMethod": "Sum of Squares",
+	
+	"PulseSequenceType": "Multiband gradient echo EPI (P>>A)",
+	"ScanningSequence": "EP",
+	"MRAcquisitionType": "2D",
+	"SequenceVariant": "SK, SS",
+	"ScanOptions": "PFP, FS",
+	"SequenceName": "epfid2d1_128",	
+	"MultibandAccelerationFactor":6,
+	"RepetitionTime":1.9,
+	"EchoTime":0.0368,
+	"EffectiveEchoSpacing":0.00088,
+	"SliceTiming": [0, 1.0175, 0.1275, 1.145, 0.255, 1.2725, 0.3825, 1.400, 0.510, 1.5275, 0.6375, 1.655, 0.765, 1.780, 0.890, 0, 1.0175, 0.1275, 1.145, 0.255, 1.2725, 0.3825, 1.400, 0.510, 1.5275, 0.6375, 1.655, 0.765, 1.780, 0.890, 0, 1.0175, 0.1275, 1.145, 0.255, 1.2725, 0.3825, 1.400, 0.510, 1.5275, 0.6375, 1.655, 0.765, 1.780, 0.890, 0, 1.0175, 0.1275, 1.145, 0.255, 1.2725, 0.3825, 1.400, 0.510, 1.5275, 0.6375, 1.655, 0.765, 1.780, 0.890, 0, 1.0175, 0.1275, 1.145, 0.255, 1.2725, 0.3825, 1.400, 0.510, 1.5275, 0.6375, 1.655, 0.765, 1.780, 0.890, 0, 1.0175, 0.1275, 1.145, 0.255, 1.2725, 0.3825, 1.400, 0.510, 1.5275, 0.6375, 1.655, 0.765, 1.780, 0.890],
+	"FlipAngle":75,
+ 	"PartialFourier": 0.75,
+	"SliceThickness": 1.5,
+	"SpacingBetweenSlices": 0,
+	"PercentPhaseFOV": 100,
+	"AcquisitionMatrixPE": 128,
+	"PixelBandwidth": 1776,
+	"PhaseEncodingDirection":"j-",
+	
+	"TaskName":"Rest",
+	"Instructions":"Eyes open",
+	"CogAtlasID": "https://www.cognitiveatlas.org/task/id/trm_4c8a834779883/"
+	
+}
+
+

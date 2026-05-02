@@ -1,0 +1,11 @@
+{
+  "task-nback_eeg.json": "871c05b81b5ec6269efd508e2ed830449df4636c",
+  "README": "742a1f43285748ffc4dca5635dc970008e90fb54",
+  "participants.tsv": "00544914c51c33453eb0a53baf0024382dcf82c5",
+  "dataset_description.json": "2854f4ba18084042a1823df1e6adbd456e7368e7",
+  "CHANGES": "644e8f0b0136380673dd43d2f9acefe598bacdb3",
+  "participants.json": "73910db3877f0b39daeda1b2eb498e7a3ff4134f",
+  "datacite.yml": "b64a3892bc7fab900591e206647aca72e3f912bc",
+  "task-nback_events.json": "7a6ecda5a046dc31801c130090d39bc3fe92f3d4",
+  "sub-001/eeg/sub-001_task-nback_events.tsv": "e247a9d71c1add2613d2f0fc1a4dfef9332fc90d"
+}

@@ -1,0 +1,20 @@
+{
+    "TaskName": "MusicvsSpeech",
+    "Manufacturer": "BrainProducts",
+    "PowerLineFrequency": 60,
+    "SamplingFrequency": 10000.0,
+    "SoftwareFilters": "n/a",
+    "RecordingType": "continuous",
+    "EEGReference": "ABR reference placed on FCz",
+    "EEGGround": "placed on Fpz",
+    "EEGPlacementScheme": "based on the extended 10/20 system",
+    "EEGChannelCount": 34,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0,
+    "TaskDescription": "For the first phase, subjects listened to 10 trials (each 60 seconds long) clicks. For the second phase, subjects listened to 40 trials (each 12 seconds long) each of six genres of music and six types of speech (480 trials in total), while seated in a sound-isolating booth on a chair in front of a monitor. Subjects were encouraged to rest or sleep and did not have to pay attention to the audio. Subjects were asked to stay awake and paying attention to the sounds.",
+    "ManufacturersModelName": "ActiCHamp. EP-PreAmp for ABR electrodes.",
+    "SoftwareVersions": "PyCorder V1.0.9"
+}

@@ -1,0 +1,32 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier."
+    },
+    "age": {
+        "Description": "Age of the participant at the time of testing.",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "Biological sex of the participant. All participants in this dataset are female.",
+        "Levels": {
+            "F": "Female"
+        }
+    },
+    "group": {
+        "Description": "Hormonal contraceptive user group.",
+        "Levels": {
+            "1": "Current HC user",
+            "2": "Past HC user (not currently using)",
+            "3": "Never-user"
+        }
+    },
+    "edu": {
+        "Description": "Highest level of education completed by the participant.",
+        "Levels": {
+            "1": "Primary school",
+            "2": "Upper secondary school, vocational",
+            "3": "Upper secondary school, academic",
+            "4": "University or university college"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "README": "4f7a2cb6f731172f07f3eb01c88e1a185c0f75dd",
+  "dataset_description.json": "c08bf74d339d18cc6970bdddb58e3b774bbce4da",
+  "participants.tsv": "24501c272bed16f72a87fb1bb352a0ebbb4ef8f7",
+  "CHANGES": "fdb48876e803fe1b3f95cb5d2d850109183d3399",
+  "participants.json": "5a6082b0faa3b636931a60b66f95b98814ffc770",
+  "sub-01/ses-SITUATION2A/ieeg/sub-01_ses-SITUATION2A_task-acute_events.tsv": "760f12bbccecef337deed7e31053f6d5af2cfc9c",
+  "sub-01/ses-SITUATION2A/ieeg/sub-01_ses-SITUATION2A_task-acute_events.json": "cfda18ff6f956a50c1a57e4a8ba4cf11e55bbcb2",
+  "sub-01/ses-SITUATION1A/ieeg/sub-01_ses-SITUATION1A_task-acute_events.json": "cfda18ff6f956a50c1a57e4a8ba4cf11e55bbcb2",
+  "sub-01/ses-SITUATION1A/ieeg/sub-01_ses-SITUATION1A_task-acute_events.tsv": "e7532fcc28cf7dc2665eb9641e97cc253b7a694f"
+}

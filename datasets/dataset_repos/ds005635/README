@@ -1,0 +1,7 @@
+This dataset contains raw in vivo T2 weighted and resting state fMRI images aquired from C58/J mice (a model of restricted, repetitive behavior) at 3-4 weeks postweaning following post-weaning exposure to either standard housing or environmental enrichment housing. Both female and male mice are included. MRI images were acquired using a Magnex Scientific 11.1 T scanner at the University of Florida's Advanced Magnetic Resonance Imaging and Spectroscopy (AMRIS) Facility. Additional study details are provided in the citation below. 
+
+Description: Effects of environmental enrichment on functional connectivity in C58 mice (juvenile cohort).
+
+Please cite the following references if you use these data: Farmer, A.L.; Febo, M.; Wilkes, B.J.; Lewis, M.H. Environmental Enrichment Attenuates Repetitive Behavior and Alters the Functional Connectivity of Pain and Sensory Pathways in C58 Mice. Cells 2024, 13.
+
+Any publications using this data should acknowledge NIH grant S10 RR025671, which supported MRI/S instrumentation, as well as the McKnight Brain Institute at the National High Magnetic Field Laboratory’s Advanced Magnetic Resonance Imaging and Spectroscopy (AMRIS) Facility, which is supported by National Science Foundation Cooperative Agreement DMR-1644779 and the State of Florida.

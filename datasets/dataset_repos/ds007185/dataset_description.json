@@ -1,0 +1,21 @@
+{
+    "Name": "Neural Responses to Curiosity in Young Children",
+    "BIDSVersion": "1.7.0",
+    "Authors": [
+        "Maayan S. Ziv",
+        "Monica E. Ellwood-Lowe",
+        "Morgan Botdorf",
+        "Monami Nishio",
+        "Elizabeth Bonawitz",
+        "Allyson P. Mackey"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "BIDS conversion script (cbica internal)"
+        }
+    ],
+    "License": "CC0",
+    "DatasetType": "raw",
+    "TaskName": "animal",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007185.v1.0.0"
+}

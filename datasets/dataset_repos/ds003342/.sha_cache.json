@@ -1,0 +1,21 @@
+{
+  "dataset_description.json": "92463c6d36a9e783aec2052483a062ba2f96e4e6",
+  "README": "9d22c2c359276d4c39571856e6caa088b6d2e8c8",
+  "CHANGES": "44ff38c2b77d61e85f8123522ea3a550559b0136",
+  "task-localiser_events.json": "7f385edc21b26f17584d95d5df364581eabf6243",
+  "dcm2bids.log": "b834196565c7aff5a787e305fa647054a21451ae",
+  "task-grasp_events.json": "0f13f79f80b0e02b20423f9c44bd434d4005af47",
+  "participants.tsv": "d8366aa6023b682e8fb55b2c0a395f95f7baa489",
+  "sub-CR09/ses-action/func/sub-CR09_ses-action_task-grasp_run-01_events.tsv": "f5b5307f352e48c183077a370aff321278871c95",
+  "sub-CR09/ses-action/func/sub-CR09_ses-action_task-grasp_run-04_events.tsv": "f104cb0aa9951b518b4b8cfa73db5086c44b3cb9",
+  "sub-CR09/ses-localiser/func/sub-CR09_ses-localiser_task-localiser_run-02_events.tsv": "b77bd40e2e688fae37624e24fc303104f2faa843",
+  "sub-CR09/ses-action/func/sub-CR09_ses-action_task-grasp_run-07_events.tsv": "2c247f288e35861285381ff6ef7c646a45b34157",
+  "sub-CR09/ses-localiser/func/sub-CR09_ses-localiser_task-localiser_run-01_events.tsv": "162c89728bfefde2971432e29d327f768c0a18b7",
+  "sub-CR09/ses-action/func/sub-CR09_ses-action_task-grasp_run-02_events.tsv": "92978bd65abc0e701f47c48936d0978969190b20",
+  "sub-CR09/ses-localiser/func/._sub-CR09_ses-localiser_task-localiser_run-01_events.tsv": "1ff4de452fb14d135597fef29c74f1951834b7b8",
+  "sub-CR09/ses-action/func/sub-CR09_ses-action_task-grasp_run-05_events.tsv": "92978bd65abc0e701f47c48936d0978969190b20",
+  "sub-CR09/ses-action/func/sub-CR09_ses-action_task-grasp_run-06_events.tsv": "2c247f288e35861285381ff6ef7c646a45b34157",
+  "sub-CR09/ses-action/func/sub-CR09_ses-action_task-grasp_run-03_events.tsv": "e69ff86a446a6335f49647f536abf8056d548a7d",
+  "sub-CR09/ses-localiser/func/sub-CR09_ses-localiser_task-localiser_run-03_events.tsv": "2ea7810b752bbd09ad59d8815948d5af066ebb49",
+  "sub-CR09/ses-localiser/func/sub-CR09_ses-localiser_task-localiser_run-04_events.tsv": "97e0635db737a9a2eedb0315090125e3c34d70fc"
+}

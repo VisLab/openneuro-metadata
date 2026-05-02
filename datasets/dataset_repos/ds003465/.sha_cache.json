@@ -1,0 +1,19 @@
+{
+  "task-Axcpt_events.json": "667cb9431d66fdf5da403f046d3e58bdd5d99719",
+  "task-Stroop_events.json": "ab2a1bae1e4424cb99f1db3319575e57a780b3db",
+  "task-Cuedts_events.json": "64b33b1cb625a2239fbbd9b988e76bbb0253bd21",
+  "participants.tsv": "2ea51493fdbf6ca2712a6b5af08a9e9242c3adb3",
+  "participants.json": "dce5eaf5baa9a09ba30080c69b6f01f4c926da68",
+  "dataset_description.json": "52fef44b766fb13d3b373b90096cc55f7bb8317c",
+  "CHANGES": "b9d2d4d3b2070b54f0932f97377845575cf2bb3a",
+  "task-Stern_events.json": "09a0dc9563b36f8011dd98b063ccfb34159de518",
+  "README": "e3ee4e2a5bba92ea6c9f5269df5de257c7861515",
+  "sub-f1027ao/ses-wave1bas/func/sub-f1027ao_ses-wave1bas_task-Axcpt_acq-mb4PA_run-2_events.tsv": "16f05f4b75ec55165af0d4dd07db3e7b299bb896",
+  "sub-f1027ao/ses-wave1bas/func/sub-f1027ao_ses-wave1bas_task-Axcpt_acq-mb4AP_run-1_events.tsv": "250cff3693c8e08a2e20191ccd7d364107dae1e0",
+  "sub-f1027ao/ses-wave1bas/func/sub-f1027ao_ses-wave1bas_task-Stern_acq-mb4PA_run-2_events.tsv": "b9e7d0ecae72ff70607f89bc57e6787992544949",
+  "sub-f1027ao/ses-wave1bas/func/sub-f1027ao_ses-wave1bas_task-Stern_acq-mb4AP_run-1_events.tsv": "865ce6afeea86cc33c2dc7a72f4ae3b041179671",
+  "sub-f1027ao/ses-wave1bas/func/sub-f1027ao_ses-wave1bas_task-Stroop_acq-mb4AP_run-1_events.tsv": "01613b53d1474526d4a3db5725a3b32b16790d40",
+  "sub-f1027ao/ses-wave1bas/func/sub-f1027ao_ses-wave1bas_task-Stroop_acq-mb4PA_run-2_events.tsv": "64c20b82acf08fb8d99ab2e6e5082ae0d5113ef3",
+  "sub-f1027ao/ses-wave1bas/func/sub-f1027ao_ses-wave1bas_task-Cuedts_acq-mb4AP_run-1_events.tsv": "b194500b982a312758e3f587ed9dca6e47ca10a9",
+  "sub-f1027ao/ses-wave1bas/func/sub-f1027ao_ses-wave1bas_task-Cuedts_acq-mb4PA_run-2_events.tsv": "d02a1a3536c12af305e4589cbf067ae856916922"
+}

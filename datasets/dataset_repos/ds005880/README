@@ -1,0 +1,19 @@
+## Dataset Overview
+This dataset contains functional and structural MRI data collected to investigate neural activity
+elicited by the dim7 chord in listeners with refined music listening skills. Data were acquired at Imaging Center for Integrated Body, Mind, and Culture Research at National Taiwan University using a 3T MR system (MAGNETOM Prisma, Siemens, Erlangen, Germany).
+
+## Data Structure
+The dataset follows the BIDS standard and includes the following:
+- Anatomical T1-weighted MRI scans.
+- Functional MRI scans.
+- Event files describing the task conditions for functional MRI.
+
+## Acquisition Details
+- Participants: 20 healthy adults aged between 20-30 years. All participants reported no
+history of neurological or psychiatric disorders, and 10 reported formal musical training of six
+years or more.
+- Imaging Modality: Structural MRI, fMRI.
+- Scan Parameters:
+  - Repetition Time (TR): 2.5 seconds
+  - Voxel Size: 2.46 x 2.46 x 2.5 mm³
+  - Slice Thickness: 2.5 mm

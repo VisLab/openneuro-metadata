@@ -1,0 +1,9 @@
+{
+  "CHANGES": "5400c84c6ec4f9b19fd9ac353d3cbb2536b936d2",
+  "task_motorimagery_eeg.json": "a5a30ca21a5ef8ab5175495e17b8115d67d53652",
+  "dataset_description.json": "92cc1915794fa2b6cc4cfce774f196a6f8c8186b",
+  "participants.json": "1507ba8554152c6b96fc07d7e9479fac1f5bba55",
+  "task_motorimagery_nirs.json": "83d767a720a67794283019bcf05e6ccf689f552b",
+  "participants.tsv": "c08b2399b3671fe3152f41b370d62de8e43d91a9",
+  "README": "4d81e73514962b72b08a56b8ebfeaeaccc3c12f4"
+}

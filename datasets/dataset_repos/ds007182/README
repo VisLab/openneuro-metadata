@@ -1,0 +1,91 @@
+The PRISMA dataset is organised according to the Brain Imaging Data Structure 
+(BIDS) specification version 1.10.1 and is publicly available at [REPOSITORY] 
+under accession number [DOI/ACCESSION].
+
+### Key naming conventions:
+
+- Participant labels: sub-001 to sub-067
+- Session labels: ses-01, ses-02, ses-03
+- Task labels: rest, news, realitytv
+- Run labels: run-01, run-02, run-03, ...
+- Direction labels (dwi/fmap): AP (anterior-posterior), PA (posterior-anterior)
+
+### File Formats
+
+All neuroimaging data are stored as compressed NIfTI files (.nii.gz) with 
+accompanying JSON sidecar files containing acquisition parameters. Physiological 
+recordings are stored as compressed tab-separated value files (.tsv.gz) following 
+BIDS specification for physiological recordings. Behavioural and phenotypic data 
+are provided as tab-separated value files (.tsv) with JSON metadata files.
+
+### Metadata Files
+
+- `dataset_description.json`: Dataset-level metadata including BIDS version, 
+  dataset name, authors, and acknowledgements
+- `participants.tsv`: Demographic information for all participants (age, sex, 
+  handedness, group assignment, education level, time between sessions)
+- `participants.json`: Data dictionary for participants.tsv
+- `README`: Detailed dataset description, experimental procedures, and data 
+  collection protocols
+- `CHANGES`: Version history and dataset updates
+- `*_scans.tsv`: Scan-specific metadata (acquisition time, quality notes)
+
+
+### Derivatives
+
+Preprocessed data are provided in `derivatives/` following BIDS Derivatives 
+specification:
+
+- `fmriprep/`: Functional MRI data preprocessed with fMRIPrep version X.X.X, 
+  including motion-corrected, spatially normalised, and surface-projected data
+- `qsiprep/`: Diffusion MRI data preprocessed with QSIPrep version X.X.X, 
+  including denoised, distortion-corrected, and eddy-current-corrected data
+- `qsirecon/`: Structural connectomes derived using mrtrix_singleshell_ss3t 
+  pipeline with anatomically constrained tractography
+- `physio/`: Processed physiological data including peak detection, heart rate 
+  variability, and respiratory volume per time calculations
+
+Each derivative directory contains a `dataset_description.json` file specifying 
+the generating software and version.
+
+### Defacing and Privacy
+
+All structural images have been defaced using MiDeFace 2, which is part of 
+FreeSurfer v7.4.1 Docker image. The de-facing mask was derived using the 
+T1-weighted images and applied to the T2-weighted images after corregistration 
+using the ‘mri_coreg’ function of FreeSurfer.  
+
+
+### Missing Data
+
+Not all participants have complete data across all modalities and sessions. 
+Data availability is documented in:
+- `participants.tsv`: Indicates which sessions each participant completed
+- `sub-<label>_sessions.tsv`: Session-specific completion status
+- Individual `*_scans.tsv` files: Scan-level quality notes and usability flags
+
+Known missing data patterns:
+- T1w images: 65/65 participants (100%)
+- T2w images: 62/65 participants (95.4%)
+- DWI: 61/65 participants (94.8%)
+- Functional scans: See Scientific Data publication for detailed breakdown
+- Physiological recordings: See Scientific Data publication for detailed breakdown
+
+### Data Access and Licensing
+
+The dataset is available on OpenNeuro under Creative Commons CC0. Users must cite this data 
+descriptor publication when using the dataset.
+
+DOI: [insert DOI once available]
+Repository: [insert repository URL]
+Accession number: [insert accession number]
+
+### Data Use Agreement
+
+All participants provided written informed consent for public data sharing. 
+Users are required to:
+1. Cite this data descriptor in any publications using the dataset
+2. Respect participant privacy by not attempting re-identification
+3. Follow repository-specific terms of use
+
+Technical Validation data and analysis code are available at [GitHub/OSF URL].

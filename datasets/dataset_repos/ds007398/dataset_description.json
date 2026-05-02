@@ -1,0 +1,17 @@
+{
+    "Name": "DESIGNER Preprocessed Diffusion Dataset (Early Reading)",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "DESIGNER",
+            "Version": "2.0",
+            "CodeURL": "https://github.com/NYU-DiffusionMRI/DESIGNER"
+        }
+    ],
+    "Authors": [
+        "Moramay Ramos-Flores"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007398.v1.0.2",
+    "License": "CC0"
+}

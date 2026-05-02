@@ -1,0 +1,7 @@
+The work of D.B. is supported by the Luxembourg National Research Fund (FNR); CORE – Junior Track [BETHAB; C18/BM/12552025].
+
+The experimental task code and stimuli are available on github: https://github.com/dbrevers/sports_betting_study/tree/task/(un)availability_task
+
+The unthresholded statistical maps are available on Neurovault.org: https://neurovault.org/collections/12480/
+
+Note. In the event .tsv file (see func/ folder): event 1 = available betting trials;  event 2 = non-available betting trials.

@@ -1,0 +1,343 @@
+onset	duration	trial_type	n_back_condition	trial_number	stimulus	response_type
+0.0	n/a	RESPONSE	n/a	n/a	n/a	n/a
+0.0199	1.0	ISI	n/a	n/a	n/a	n/a
+1.0199	0.5	DISTRACTOR	1	1	G	Correct Rejection
+1.52	1.0	ISI	n/a	n/a	n/a	n/a
+2.52	0.5	DISTRACTOR	1	2	C	Correct Rejection
+3.02	1.0	ISI	n/a	n/a	n/a	n/a
+4.02	0.5	DISTRACTOR	1	3	B	Correct Rejection
+4.52	1.0	ISI	n/a	n/a	n/a	n/a
+5.52	0.5	DISTRACTOR	1	4	D	Correct Rejection
+6.02	1.0	ISI	n/a	n/a	n/a	n/a
+7.02	0.5	DISTRACTOR	1	5	J	Correct Rejection
+7.52	1.0	ISI	n/a	n/a	n/a	n/a
+8.52	0.5	DISTRACTOR	1	6	C	Correct Rejection
+9.0201	1.0	ISI	n/a	n/a	n/a	n/a
+10.0201	0.5	DISTRACTOR	1	7	B	Correct Rejection
+10.5201	1.0	ISI	n/a	n/a	n/a	n/a
+11.5201	0.5	TARGET	1	8	B	Hit
+11.9011	n/a	RESPONSE	n/a	n/a	n/a	n/a
+12.0201	1.0	ISI	n/a	n/a	n/a	n/a
+13.0201	0.5	TARGET	1	9	B	Hit
+13.5201	1.0	ISI	n/a	n/a	n/a	n/a
+13.7086	n/a	RESPONSE	n/a	n/a	n/a	n/a
+14.5201	0.5	DISTRACTOR	1	10	C	Correct Rejection
+15.0201	1.0	ISI	n/a	n/a	n/a	n/a
+16.0201	0.5	DISTRACTOR	1	11	J	Correct Rejection
+16.5201	1.0	ISI	n/a	n/a	n/a	n/a
+17.5202	0.5	DISTRACTOR	1	12	E	Correct Rejection
+18.0202	1.0	ISI	n/a	n/a	n/a	n/a
+19.0202	0.5	TARGET	1	13	E	Hit
+19.3073	n/a	RESPONSE	n/a	n/a	n/a	n/a
+19.5202	1.0	ISI	n/a	n/a	n/a	n/a
+20.5202	0.5	DISTRACTOR	1	14	F	Correct Rejection
+21.0202	1.0	ISI	n/a	n/a	n/a	n/a
+22.0202	0.5	DISTRACTOR	1	15	I	Correct Rejection
+22.5202	1.0	ISI	n/a	n/a	n/a	n/a
+23.5202	0.5167	DISTRACTOR	1	16	F	Correct Rejection
+24.0369	1.0167	ISI	n/a	n/a	n/a	n/a
+25.0536	0.5167	TARGET	1	17	F	Hit
+25.4338	n/a	RESPONSE	n/a	n/a	n/a	n/a
+25.5703	1.0167	ISI	n/a	n/a	n/a	n/a
+26.5869	0.5167	DISTRACTOR	1	18	A	Correct Rejection
+27.1036	1.0167	ISI	n/a	n/a	n/a	n/a
+28.1203	0.5167	TARGET	1	19	A	Hit
+28.4251	n/a	RESPONSE	n/a	n/a	n/a	n/a
+28.637	1.0167	ISI	n/a	n/a	n/a	n/a
+29.6537	0.5167	TARGET	1	20	A	Hit
+30.1047	n/a	RESPONSE	n/a	n/a	n/a	n/a
+30.1703	1.0167	ISI	n/a	n/a	n/a	n/a
+31.187	0.5167	DISTRACTOR	1	21	J	Correct Rejection
+31.7037	1.0167	ISI	n/a	n/a	n/a	n/a
+32.7204	0.5167	DISTRACTOR	1	22	B	Correct Rejection
+33.237	1.0167	ISI	n/a	n/a	n/a	n/a
+34.2537	0.5167	DISTRACTOR	1	23	E	Correct Rejection
+34.7704	1.0167	ISI	n/a	n/a	n/a	n/a
+35.7871	0.5167	DISTRACTOR	1	24	J	Correct Rejection
+36.3037	1.0167	ISI	n/a	n/a	n/a	n/a
+37.3204	0.5167	DISTRACTOR	1	25	D	Correct Rejection
+37.8371	1.0167	ISI	n/a	n/a	n/a	n/a
+38.8538	0.5167	TARGET	1	26	D	Hit
+39.2065	n/a	RESPONSE	n/a	n/a	n/a	n/a
+39.3704	1.0167	ISI	n/a	n/a	n/a	n/a
+40.3871	0.5167	DISTRACTOR	1	27	G	Correct Rejection
+40.9038	1.0167	ISI	n/a	n/a	n/a	n/a
+41.9205	0.5167	DISTRACTOR	1	28	J	Correct Rejection
+42.4371	1.0167	ISI	n/a	n/a	n/a	n/a
+43.4538	0.5167	DISTRACTOR	1	29	E	Correct Rejection
+43.9705	1.0167	ISI	n/a	n/a	n/a	n/a
+44.9872	0.5167	DISTRACTOR	1	30	A	Correct Rejection
+45.5038	1.0167	ISI	n/a	n/a	n/a	n/a
+46.5205	0.5167	DISTRACTOR	1	31	D	Correct Rejection
+47.0372	1.0167	ISI	n/a	n/a	n/a	n/a
+48.0539	0.5167	DISTRACTOR	1	32	H	Correct Rejection
+48.5706	1.0167	ISI	n/a	n/a	n/a	n/a
+49.5872	0.5167	DISTRACTOR	1	33	I	Correct Rejection
+50.1039	1.0167	ISI	n/a	n/a	n/a	n/a
+51.1206	0.5167	DISTRACTOR	1	34	G	Correct Rejection
+51.6372	1.0167	ISI	n/a	n/a	n/a	n/a
+52.6539	0.5167	DISTRACTOR	1	35	D	Correct Rejection
+53.1706	1.0167	ISI	n/a	n/a	n/a	n/a
+54.1873	0.5167	DISTRACTOR	1	36	B	Correct Rejection
+54.704	1.0167	ISI	n/a	n/a	n/a	n/a
+55.7206	0.5167	DISTRACTOR	1	37	F	Correct Rejection
+56.2373	1.0167	ISI	n/a	n/a	n/a	n/a
+57.254	0.5167	DISTRACTOR	1	38	I	Correct Rejection
+57.7707	1.0167	ISI	n/a	n/a	n/a	n/a
+58.7873	0.5167	DISTRACTOR	1	39	D	Correct Rejection
+59.304	1.0167	ISI	n/a	n/a	n/a	n/a
+60.3207	0.5167	DISTRACTOR	1	40	I	Correct Rejection
+60.8374	1.0167	ISI	n/a	n/a	n/a	n/a
+61.854	0.5167	TARGET	1	41	I	Hit
+62.3707	1.0167	ISI	n/a	n/a	n/a	n/a
+62.3849	n/a	RESPONSE	n/a	n/a	n/a	n/a
+63.3874	0.5167	DISTRACTOR	1	42	C	Correct Rejection
+63.9041	1.0167	ISI	n/a	n/a	n/a	n/a
+64.9208	0.5167	DISTRACTOR	1	43	B	Correct Rejection
+65.4374	1.0167	ISI	n/a	n/a	n/a	n/a
+66.4541	0.5167	DISTRACTOR	1	44	A	Correct Rejection
+66.9708	1.0167	ISI	n/a	n/a	n/a	n/a
+67.9875	0.5167	TARGET	1	45	A	Hit
+68.5041	1.0167	ISI	n/a	n/a	n/a	n/a
+68.5114	n/a	RESPONSE	n/a	n/a	n/a	n/a
+69.5208	0.5167	DISTRACTOR	1	46	J	Correct Rejection
+70.0375	1.0167	ISI	n/a	n/a	n/a	n/a
+71.0542	0.5167	DISTRACTOR	1	47	G	Correct Rejection
+71.5708	1.0167	ISI	n/a	n/a	n/a	n/a
+72.5875	0.5167	TARGET	1	48	G	Hit
+73.0063	n/a	RESPONSE	n/a	n/a	n/a	n/a
+73.1042	1.0167	ISI	n/a	n/a	n/a	n/a
+74.1209	0.5167	DISTRACTOR	1	49	A	Correct Rejection
+74.6375	1.0167	ISI	n/a	n/a	n/a	n/a
+75.6542	0.5167	DISTRACTOR	1	50	G	Correct Rejection
+76.1709	1.1167	ISI	n/a	n/a	n/a	n/a
+79.2448	n/a	RESPONSE	n/a	n/a	n/a	n/a
+79.3043	1.0167	ISI	n/a	n/a	n/a	n/a
+80.321	0.5167	DISTRACTOR	2	1	J	Correct Rejection
+80.8376	1.0167	ISI	n/a	n/a	n/a	n/a
+81.8543	0.5167	DISTRACTOR	2	2	C	Correct Rejection
+82.371	1.0167	ISI	n/a	n/a	n/a	n/a
+83.3876	0.5167	DISTRACTOR	2	3	E	Correct Rejection
+83.9043	1.0167	ISI	n/a	n/a	n/a	n/a
+84.921	0.5167	DISTRACTOR	2	4	F	Correct Rejection
+85.4377	1.0167	ISI	n/a	n/a	n/a	n/a
+86.4544	0.5167	DISTRACTOR	2	5	J	Correct Rejection
+86.971	1.0167	ISI	n/a	n/a	n/a	n/a
+87.9877	0.5167	DISTRACTOR	2	6	G	Correct Rejection
+88.5044	1.0167	ISI	n/a	n/a	n/a	n/a
+89.5211	0.5167	DISTRACTOR	2	7	F	False Alarm
+90.0377	1.0167	ISI	n/a	n/a	n/a	n/a
+90.3461	n/a	RESPONSE	n/a	n/a	n/a	n/a
+91.0544	0.5167	DISTRACTOR	2	8	I	Correct Rejection
+91.5711	1.0167	ISI	n/a	n/a	n/a	n/a
+92.5878	0.5167	DISTRACTOR	2	9	E	Correct Rejection
+93.1044	1.0167	ISI	n/a	n/a	n/a	n/a
+94.1211	0.5167	DISTRACTOR	2	10	B	Correct Rejection
+94.6378	1.0167	ISI	n/a	n/a	n/a	n/a
+95.6545	0.5167	TARGET	2	11	E	Hit
+96.1711	1.0167	ISI	n/a	n/a	n/a	n/a
+96.3127	n/a	RESPONSE	n/a	n/a	n/a	n/a
+97.1878	0.5167	DISTRACTOR	2	12	A	Correct Rejection
+97.7045	1.0167	ISI	n/a	n/a	n/a	n/a
+98.7212	0.5167	DISTRACTOR	2	13	J	Correct Rejection
+99.2378	1.0167	ISI	n/a	n/a	n/a	n/a
+100.2545	0.5167	DISTRACTOR	2	14	E	Correct Rejection
+100.7712	1.0167	ISI	n/a	n/a	n/a	n/a
+101.7879	0.5167	DISTRACTOR	2	15	A	False Alarm
+102.3045	1.0167	ISI	n/a	n/a	n/a	n/a
+102.3112	n/a	RESPONSE	n/a	n/a	n/a	n/a
+103.3212	0.5167	TARGET	2	16	E	Hit
+103.8379	1.0167	ISI	n/a	n/a	n/a	n/a
+104.1828	n/a	RESPONSE	n/a	n/a	n/a	n/a
+104.8546	0.5167	DISTRACTOR	2	17	J	False Alarm
+105.3713	1.0167	ISI	n/a	n/a	n/a	n/a
+105.4945	n/a	RESPONSE	n/a	n/a	n/a	n/a
+106.3879	0.5167	DISTRACTOR	2	18	I	Correct Rejection
+106.9046	1.0167	ISI	n/a	n/a	n/a	n/a
+107.9213	0.5167	DISTRACTOR	2	19	F	Correct Rejection
+108.438	1.0167	ISI	n/a	n/a	n/a	n/a
+109.4546	0.5167	DISTRACTOR	2	20	C	Correct Rejection
+109.9713	1.0167	ISI	n/a	n/a	n/a	n/a
+110.988	0.5167	DISTRACTOR	2	21	I	False Alarm
+111.5047	1.0167	ISI	n/a	n/a	n/a	n/a
+111.573	n/a	RESPONSE	n/a	n/a	n/a	n/a
+112.5213	0.5167	DISTRACTOR	2	22	B	Correct Rejection
+113.038	1.0167	ISI	n/a	n/a	n/a	n/a
+114.0547	0.5167	DISTRACTOR	2	23	G	Correct Rejection
+114.5714	1.0167	ISI	n/a	n/a	n/a	n/a
+115.588	0.5167	DISTRACTOR	2	24	I	Correct Rejection
+116.1047	1.0167	ISI	n/a	n/a	n/a	n/a
+117.1214	0.5167	DISTRACTOR	2	25	A	Correct Rejection
+117.6381	1.0167	ISI	n/a	n/a	n/a	n/a
+118.6547	0.5167	DISTRACTOR	2	26	H	Correct Rejection
+119.1714	1.0167	ISI	n/a	n/a	n/a	n/a
+120.1881	0.5167	DISTRACTOR	2	27	G	Correct Rejection
+120.7048	1.0167	ISI	n/a	n/a	n/a	n/a
+121.7215	0.5167	DISTRACTOR	2	28	C	Correct Rejection
+122.2381	1.0167	ISI	n/a	n/a	n/a	n/a
+123.2548	0.5167	DISTRACTOR	2	29	D	Correct Rejection
+123.7715	1.0167	ISI	n/a	n/a	n/a	n/a
+124.7882	0.5167	TARGET	2	30	C	Hit
+125.1697	n/a	RESPONSE	n/a	n/a	n/a	n/a
+125.3048	1.0167	ISI	n/a	n/a	n/a	n/a
+126.3215	0.5167	DISTRACTOR	2	31	G	Correct Rejection
+126.8382	1.0167	ISI	n/a	n/a	n/a	n/a
+127.8549	0.5167	TARGET	2	32	C	Hit
+128.3715	1.0167	ISI	n/a	n/a	n/a	n/a
+128.7048	n/a	RESPONSE	n/a	n/a	n/a	n/a
+129.3882	0.5167	TARGET	2	33	G	Hit
+129.9049	1.0167	ISI	n/a	n/a	n/a	n/a
+130.1445	n/a	RESPONSE	n/a	n/a	n/a	n/a
+130.9216	0.5167	DISTRACTOR	2	34	E	Correct Rejection
+131.4382	1.0167	ISI	n/a	n/a	n/a	n/a
+132.4549	0.5167	TARGET	2	35	G	Hit
+132.8958	n/a	RESPONSE	n/a	n/a	n/a	n/a
+132.9716	1.0167	ISI	n/a	n/a	n/a	n/a
+133.9883	0.5167	DISTRACTOR	2	36	D	Correct Rejection
+134.5049	1.0167	ISI	n/a	n/a	n/a	n/a
+135.5216	0.5167	DISTRACTOR	2	37	H	Correct Rejection
+136.0383	1.0167	ISI	n/a	n/a	n/a	n/a
+137.055	0.5167	DISTRACTOR	2	38	H	Correct Rejection
+137.5717	1.0167	ISI	n/a	n/a	n/a	n/a
+138.5883	0.5167	DISTRACTOR	2	39	C	Correct Rejection
+139.105	1.0167	ISI	n/a	n/a	n/a	n/a
+140.1217	0.5167	TARGET	2	40	H	Hit
+140.606	n/a	RESPONSE	n/a	n/a	n/a	n/a
+140.6384	1.0167	ISI	n/a	n/a	n/a	n/a
+141.655	0.5167	DISTRACTOR	2	41	H	Correct Rejection
+142.1717	1.0167	ISI	n/a	n/a	n/a	n/a
+143.1884	0.5167	TARGET	2	42	H	Hit
+143.6612	n/a	RESPONSE	n/a	n/a	n/a	n/a
+143.7051	1.0167	ISI	n/a	n/a	n/a	n/a
+144.7217	0.5167	TARGET	2	43	H	Hit
+145.2384	1.0167	ISI	n/a	n/a	n/a	n/a
+145.4208	n/a	RESPONSE	n/a	n/a	n/a	n/a
+146.2551	0.5167	DISTRACTOR	2	44	D	Correct Rejection
+146.7718	1.0167	ISI	n/a	n/a	n/a	n/a
+147.7884	0.5167	TARGET	2	45	H	Hit
+148.3051	1.0167	ISI	n/a	n/a	n/a	n/a
+148.3481	n/a	RESPONSE	n/a	n/a	n/a	n/a
+149.3218	0.5167	DISTRACTOR	2	46	F	Correct Rejection
+149.8385	1.0167	ISI	n/a	n/a	n/a	n/a
+150.8551	0.5167	DISTRACTOR	2	47	C	Correct Rejection
+151.3718	1.0167	ISI	n/a	n/a	n/a	n/a
+152.3885	0.5167	DISTRACTOR	2	48	J	Correct Rejection
+152.9052	1.0167	ISI	n/a	n/a	n/a	n/a
+153.9218	0.5167	DISTRACTOR	2	49	B	Correct Rejection
+154.4385	1.0167	ISI	n/a	n/a	n/a	n/a
+155.4552	0.5167	DISTRACTOR	2	50	I	Correct Rejection
+155.9719	1.1	ISI	n/a	n/a	n/a	n/a
+163.9923	n/a	RESPONSE	n/a	n/a	n/a	n/a
+164.0553	1.0167	ISI	n/a	n/a	n/a	n/a
+165.072	0.5167	DISTRACTOR	3	1	J	Correct Rejection
+165.5887	1.0167	ISI	n/a	n/a	n/a	n/a
+166.6053	0.5167	DISTRACTOR	3	2	F	Correct Rejection
+167.122	1.0167	ISI	n/a	n/a	n/a	n/a
+168.1387	0.5167	DISTRACTOR	3	3	J	Correct Rejection
+168.6554	1.0167	ISI	n/a	n/a	n/a	n/a
+169.672	0.5167	DISTRACTOR	3	4	E	Correct Rejection
+170.1887	1.0167	ISI	n/a	n/a	n/a	n/a
+171.2054	0.5167	DISTRACTOR	3	5	E	Correct Rejection
+171.7221	1.0167	ISI	n/a	n/a	n/a	n/a
+172.7387	0.5167	DISTRACTOR	3	6	D	False Alarm
+173.1261	n/a	RESPONSE	n/a	n/a	n/a	n/a
+173.2554	1.0167	ISI	n/a	n/a	n/a	n/a
+174.2721	0.5167	DISTRACTOR	3	7	J	Correct Rejection
+174.7888	1.0167	ISI	n/a	n/a	n/a	n/a
+175.8054	0.5167	DISTRACTOR	3	8	F	False Alarm
+176.3221	1.0167	ISI	n/a	n/a	n/a	n/a
+176.6612	n/a	RESPONSE	n/a	n/a	n/a	n/a
+177.3388	0.5167	DISTRACTOR	3	9	H	Correct Rejection
+177.8555	1.0167	ISI	n/a	n/a	n/a	n/a
+178.8722	0.5167	DISTRACTOR	3	10	B	Correct Rejection
+179.3888	1.0167	ISI	n/a	n/a	n/a	n/a
+180.4055	0.5167	DISTRACTOR	3	11	B	Correct Rejection
+180.9222	1.0167	ISI	n/a	n/a	n/a	n/a
+181.9388	0.5167	DISTRACTOR	3	12	D	Correct Rejection
+182.4555	1.0167	ISI	n/a	n/a	n/a	n/a
+183.4722	0.5167	TARGET	3	13	B	Hit
+183.9889	1.0167	ISI	n/a	n/a	n/a	n/a
+184.3074	n/a	RESPONSE	n/a	n/a	n/a	n/a
+185.0056	0.5167	DISTRACTOR	3	14	G	Correct Rejection
+185.5222	1.0167	ISI	n/a	n/a	n/a	n/a
+186.5389	0.5167	DISTRACTOR	3	15	C	Correct Rejection
+187.0556	1.0167	ISI	n/a	n/a	n/a	n/a
+188.0723	0.5167	TARGET	3	16	B	Hit
+188.4664	n/a	RESPONSE	n/a	n/a	n/a	n/a
+188.5889	1.0167	ISI	n/a	n/a	n/a	n/a
+189.6056	0.5167	DISTRACTOR	3	17	D	Correct Rejection
+190.1223	1.0167	ISI	n/a	n/a	n/a	n/a
+191.139	0.5167	DISTRACTOR	3	18	D	Correct Rejection
+191.6556	1.0167	ISI	n/a	n/a	n/a	n/a
+192.6723	0.5167	TARGET	3	19	B	Miss
+193.189	1.0167	ISI	n/a	n/a	n/a	n/a
+194.2057	0.5167	DISTRACTOR	3	20	G	Correct Rejection
+194.7223	1.0167	ISI	n/a	n/a	n/a	n/a
+195.739	0.5167	TARGET	3	21	D	Hit
+196.1605	n/a	RESPONSE	n/a	n/a	n/a	n/a
+196.2557	1.0167	ISI	n/a	n/a	n/a	n/a
+197.2724	0.5167	DISTRACTOR	3	22	F	Correct Rejection
+197.7891	1.0167	ISI	n/a	n/a	n/a	n/a
+198.8057	0.5167	DISTRACTOR	3	23	F	Correct Rejection
+199.3224	1.0167	ISI	n/a	n/a	n/a	n/a
+200.3391	0.5167	DISTRACTOR	3	24	A	Correct Rejection
+200.8557	1.0167	ISI	n/a	n/a	n/a	n/a
+201.8724	0.5167	DISTRACTOR	3	25	D	Correct Rejection
+202.3891	1.0167	ISI	n/a	n/a	n/a	n/a
+203.4058	0.5167	TARGET	3	26	F	Hit
+203.9026	n/a	RESPONSE	n/a	n/a	n/a	n/a
+203.9225	1.0167	ISI	n/a	n/a	n/a	n/a
+204.9391	0.5167	DISTRACTOR	3	27	G	Correct Rejection
+205.4558	1.0167	ISI	n/a	n/a	n/a	n/a
+206.4725	0.5167	DISTRACTOR	3	28	F	Correct Rejection
+206.9892	1.0167	ISI	n/a	n/a	n/a	n/a
+208.0058	0.5167	DISTRACTOR	3	29	C	Correct Rejection
+208.5225	1.0167	ISI	n/a	n/a	n/a	n/a
+209.5392	0.5167	TARGET	3	30	G	Hit
+209.9012	n/a	RESPONSE	n/a	n/a	n/a	n/a
+210.0559	1.0167	ISI	n/a	n/a	n/a	n/a
+211.0725	0.5167	TARGET	3	31	F	Miss
+211.5892	1.0167	ISI	n/a	n/a	n/a	n/a
+212.6059	0.5167	DISTRACTOR	3	32	B	Correct Rejection
+213.1226	1.0167	ISI	n/a	n/a	n/a	n/a
+214.1392	0.5167	DISTRACTOR	3	33	E	Correct Rejection
+214.6559	1.0167	ISI	n/a	n/a	n/a	n/a
+215.6726	0.5167	TARGET	3	34	F	Hit
+215.9957	n/a	RESPONSE	n/a	n/a	n/a	n/a
+216.1893	1.0167	ISI	n/a	n/a	n/a	n/a
+217.2059	0.5167	DISTRACTOR	3	35	H	Correct Rejection
+217.7226	1.0167	ISI	n/a	n/a	n/a	n/a
+218.7393	0.5167	DISTRACTOR	3	36	B	Correct Rejection
+219.256	1.0167	ISI	n/a	n/a	n/a	n/a
+220.2726	0.5167	DISTRACTOR	3	37	C	Correct Rejection
+220.7893	1.0167	ISI	n/a	n/a	n/a	n/a
+221.806	0.5167	DISTRACTOR	3	38	E	Correct Rejection
+222.3227	1.0167	ISI	n/a	n/a	n/a	n/a
+223.3394	0.5167	DISTRACTOR	3	39	F	False Alarm
+223.856	1.0167	ISI	n/a	n/a	n/a	n/a
+223.8978	n/a	RESPONSE	n/a	n/a	n/a	n/a
+224.8727	0.5167	TARGET	3	40	C	Miss
+225.3894	1.0167	ISI	n/a	n/a	n/a	n/a
+226.4061	0.5167	DISTRACTOR	3	41	F	Correct Rejection
+226.9227	1.0167	ISI	n/a	n/a	n/a	n/a
+227.9394	0.5167	DISTRACTOR	3	42	E	Correct Rejection
+228.4561	1.0167	ISI	n/a	n/a	n/a	n/a
+229.4728	0.5167	DISTRACTOR	3	43	G	Correct Rejection
+229.9894	1.0167	ISI	n/a	n/a	n/a	n/a
+231.0061	0.5167	DISTRACTOR	3	44	G	Correct Rejection
+231.5228	1.0	ISI	n/a	n/a	n/a	n/a
+232.5228	0.5167	DISTRACTOR	3	45	G	False Alarm
+233.0395	1.0167	ISI	n/a	n/a	n/a	n/a
+233.7674	n/a	RESPONSE	n/a	n/a	n/a	n/a
+234.0561	0.5167	DISTRACTOR	3	46	E	Correct Rejection
+234.5728	1.0167	ISI	n/a	n/a	n/a	n/a
+235.5895	0.5167	TARGET	3	47	G	Hit
+236.1062	1.0167	ISI	n/a	n/a	n/a	n/a
+236.1189	n/a	RESPONSE	n/a	n/a	n/a	n/a
+237.1229	0.5167	DISTRACTOR	3	48	D	Correct Rejection
+237.6395	1.0167	ISI	n/a	n/a	n/a	n/a
+238.6562	0.5167	DISTRACTOR	3	49	A	Correct Rejection
+239.1729	1.0167	ISI	n/a	n/a	n/a	n/a
+240.1896	0.5167	DISTRACTOR	3	50	A	Correct Rejection
+240.7062	1.0334	ISI	n/a	n/a	n/a	n/a
+242.8852	n/a	RESPONSE	n/a	n/a	n/a	n/a

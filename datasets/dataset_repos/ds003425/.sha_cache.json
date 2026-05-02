@@ -1,0 +1,22 @@
+{
+  "README": "beb9350cc70c2e7836b5c0d2bf5cbf554c1348e2",
+  "dataset_description.json": "21c923769e5563a9b2e7e76e8375bd26ea473420",
+  "participants.tsv": "c780ab5c371e237565f76b3ebbcb933998362ef6",
+  "CHANGES": "8b7389ef09fba0239a1be102717d25b53a669435",
+  "participants.json": "693d8c28572f05241210719187ca036f055c9acd",
+  "sub-01/ses-01/func/sub-01_ses-01_task-training_run-01_events.tsv": "22c07ca27851c2f40586451f95cdc5fdcd019aa1",
+  "sub-01/ses-01/func/sub-01_ses-01_task-prelearning_run-01_events.tsv": "aa3bf3122516c7eced3c4d04c4523fe4ef997771",
+  "sub-01/ses-01/func/sub-01_ses-01_task-training_run-02_events.tsv": "8b9c7c283aa654dda368ec0159a3f9e6a0874062",
+  "sub-01/ses-01/func/sub-01_ses-01_task-training_run-04_events.tsv": "62b2df6900f4a72289f0cc609fd203379763b026",
+  "sub-01/ses-01/func/sub-01_ses-01_task-prelearning_run-02_events.tsv": "71cf3667c60f5a0d0eda7a2c5cf8d3a964bd6a3e",
+  "sub-01/ses-01/func/sub-01_ses-01_task-learning_run-01_events.tsv": "5999767cdfc4f3129b8f9710650397a54e03b706",
+  "sub-01/ses-01/func/sub-01_ses-01_task-training_run-03_events.tsv": "f6106fbea093ae833070bf1a9bf6eadffb292c40",
+  "sub-01/ses-01/func/sub-01_ses-01_task-learning_run-03_events.tsv": "2ef698418310bb8103d4a7225a82616e713d8fd4",
+  "sub-01/ses-01/func/sub-01_ses-01_task-training_run-05_events.tsv": "5e61f4278247691499e96a4dd4363e5a6c1f0aa3",
+  "sub-01/ses-01/func/sub-01_ses-01_task-learning_run-02_events.tsv": "1716a02a28b6c2c1993dc412ea84b5963ffd4770",
+  "sub-01/ses-02/func/sub-01_ses-02_task-regulate_run-01_events.tsv": "77122f0e8ae4ffd46544cc2249b18096efd1cceb",
+  "sub-01/ses-02/func/sub-01_ses-02_task-regulate_run-02_events.tsv": "fb4057d7e899b1506d72353d55a4ddfe92c9cea1",
+  "sub-01/ses-02/func/sub-01_ses-02_task-regulate_run-05_events.tsv": "87998b10aed6929def2af3d1e18c1c8d504260ba",
+  "sub-01/ses-02/func/sub-01_ses-02_task-regulate_run-03_events.tsv": "42c64e21e1d9649a709cd449cce68b58a61bda50",
+  "sub-01/ses-02/func/sub-01_ses-02_task-regulate_run-04_events.tsv": "5b360a31c6ea45acdd56624a179df0ab2d4c9382"
+}

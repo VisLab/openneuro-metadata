@@ -1,0 +1,12 @@
+{
+  "participants.json": "ced9afdd52e04f81ffdacf30d441ac6323c5646a",
+  "dataset_description.json": "3d1ece1e41b62810440b5583851fb62a74052da8",
+  "CHANGES": "990f95952073717aad07274fed92560b0b6cab3f",
+  "task-29ByANT_events.json": "779fd93916db0e29bb8d40c3e9cd35bd3cec5ecc",
+  "participants.tsv": "dcece132e9d93e82a3709dbf2108ec6954f8bd82",
+  "README": "4c438c2061987456aae0200c9f6bfd2d02a005da",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-29ByANT_events.tsv": "c2ede48d08e3d188b6082eeb3d5829c31004b219",
+  "sub-001/ses-3/eeg/sub-001_ses-3_task-29ByANT_events.tsv": "48a1138245f99a88cd8dbab370ec065dfe5c90c6",
+  "sub-001/ses-4/eeg/sub-001_ses-4_task-29ByANT_events.tsv": "72bf2a37f8aedd424443c79284127c9fdeee12fb",
+  "sub-001/ses-2/eeg/sub-001_ses-2_task-29ByANT_events.tsv": "3b61e91e5e94c4858a6601defc638d05cfff58b9"
+}

@@ -1,0 +1,17 @@
+{
+    "TRIAL_TYPE": {
+        "LongName": "Event category",
+        "Description": "Indicator of type of action that is expected",
+        "Levels": {
+			"n/a": "Not Applicable",
+            "three": "Numeric word three is displayed",
+            "four": "Numeric word four is displayed",
+            "six": "Numeric word six is displayed",
+            "ten": "Numeric word ten is displayed",
+            "child": "Social word child is displayed",
+            "daughter": "Social word daughter is displayed",
+            "father": "Social word father is displayed",
+            "wife": "Social word wife is displayed"			
+        }
+    }
+}

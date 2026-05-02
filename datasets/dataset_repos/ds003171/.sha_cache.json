@@ -1,0 +1,14 @@
+{
+  "dataset_description.json": "cd2984c42c77486e3f0e3f79765f05eabd668f64",
+  "CHANGES": "35b8bbfa6a5ec7e9850116b54cc65bcb601e99a7",
+  "README": "c40ce215ba8d9fffe96e10588fa65e7b793ce026",
+  "participants.tsv": "b31fd925ca4228218a4637e0a2526d0aeb3cd2a8",
+  "sub-02CB/func/sub-02CB_task-audioawake_run-01_events.tsv": "2025bd3e40e721cea8d35f544d0818223b9ac557",
+  "sub-02CB/func/sub-02CB_task-restdeep_run-01_events.tsv": "2025bd3e40e721cea8d35f544d0818223b9ac557",
+  "sub-02CB/func/sub-02CB_task-restrecovery_run-01_events.tsv": "2025bd3e40e721cea8d35f544d0818223b9ac557",
+  "sub-02CB/func/sub-02CB_task-audiorecovery_run-01_events.tsv": "2025bd3e40e721cea8d35f544d0818223b9ac557",
+  "sub-02CB/func/sub-02CB_task-restawake_run-01_events.tsv": "2025bd3e40e721cea8d35f544d0818223b9ac557",
+  "sub-02CB/func/sub-02CB_task-restlight_run-01_events.tsv": "2025bd3e40e721cea8d35f544d0818223b9ac557",
+  "sub-02CB/func/sub-02CB_task-audiolight_run-01_events.tsv": "2025bd3e40e721cea8d35f544d0818223b9ac557",
+  "sub-02CB/func/sub-02CB_task-audiodeep_run-01_events.tsv": "2025bd3e40e721cea8d35f544d0818223b9ac557"
+}

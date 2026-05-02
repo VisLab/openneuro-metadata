@@ -1,0 +1,23 @@
+{
+  "PowerLineFrequency": 50,
+  "ManufacturersModelName": "ActiveTwo",
+  "TaskName": "video",
+  "TaskDescription": "Participants viewed touch video stimuli while EEG data was recorded.",
+  "EEGReference": "CMS/DRL",
+  "EEGGround": "CMS electrode",
+  "EEGPlacementScheme": "10-20 system",
+  "CapManufacturer": "BioSemi",
+  "CapManufacturersModelName": "BioSemi 64-channel cap",
+  "Manufacturer": "BioSemi",
+  "SamplingFrequency": 2048,
+  "EEGChannelCount": 64,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "TriggerChannelCount": 1,
+  "RecordingType": "continuous",
+  "RecordingDuration": 3300,
+  "HardwareFilters": "n/a",
+  "SoftwareFilters": "n/a",
+  "MiscChannelCount": 0
+}

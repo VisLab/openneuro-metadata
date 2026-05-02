@@ -1,0 +1,9 @@
+{
+
+"condition": "Visual stimulus category. Note that we collapsed over subclasses of category, such as face-house and face-child, or bodies and limbs. Scrambles indicate ITI periods with phase scrambled backgrounds.",
+
+"onset": "time of stimulus onset in seconds",
+
+"duration": "duration used to model the event"
+
+}

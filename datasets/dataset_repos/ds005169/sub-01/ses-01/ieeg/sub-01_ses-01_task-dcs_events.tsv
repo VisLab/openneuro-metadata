@@ -1,0 +1,4 @@
+onset	duration	label	stim_contacts	stim_intensity	sym_elementary	sym_complex	sym_plus_hallucination	sym_minus_hallucination	sym_static	sym_dynamic	sym_continuous_hallucination	sym_intermittent_hallucination	sym_right_visual_hemifield	sym_upper_right_quadrant	sym_lower_right_quadrant	sym_left_visual_hemifield	sym_upper_left_quadrant	sym_lower_left_quadrant	sym_peripheric	sym_central	sym_whole_visual_field	sym_color	sym_non_color	sym_combined_visual_symptoms	sym_multimodal_hallucinations
+2.75	5	prestim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+8	0	B'03-B'04 0.75mA; Simple visual hallucinations	B'03-B'04	0.75	1	0	1	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	1	0	0
+13.25	5	poststim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a

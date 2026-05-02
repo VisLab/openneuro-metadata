@@ -1,0 +1,10 @@
+{
+    "Name": "EEG Pre/Post Intervention Dataset",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Mengsha Qi"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007558.v1.0.0",
+    "License": "CC0"
+}

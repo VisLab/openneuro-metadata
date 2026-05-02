@@ -1,0 +1,9 @@
+{
+	"Manufacturer": "Philips",
+	"MagneticFieldStrength": "3T",
+	"EchoTime": 0.00355,
+	"RepetitionTime": 0.011,
+	"PhaseEncodingLines": 240,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0"
+}

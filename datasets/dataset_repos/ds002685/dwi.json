@@ -1,0 +1,8 @@
+{
+    "EchoTime": 0.114,
+    "FlipAngle": 90,
+    "ParallelReductionFactorInPlane": 2,
+    "PhaseEncodingDirection": "j",
+    "TotalReadoutTime": 0.000415,
+    "EffectiveEchoSpacing": 0.000415
+}

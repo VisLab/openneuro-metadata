@@ -1,0 +1,41 @@
+onset	duration	sub_id	trial_type	vigtext	cond_id	vig_id	ITI_onset	ITI_duration	trialstart_zeroed
+10.06124	6	sub-07	liberty	You see a father requiring his son to take up the family restaurant business.	liberty12	71	16.063099	3.008395	2.06124
+19.094624	6	sub-07	social_norms	You see someone at the school gym lifting free weights in nice business clothes.	social_norms06	110	25.09569	4.501231	11.094624
+29.611224	6	sub-07	sanctity	You see a girl and her sister making out with each other just for practice.	sanctity10	99	35.61131	3.001092	21.611224
+38.627879	6	sub-07	loyalty	You see a former US General saying publicly he would never buy any American product.	loyalty03	77	44.627977	3.001088	30.627879
+47.644536	6	sub-07	fairness	You see a girl taking all the Halloween candy from a bowl, leaving none for others.	fairness11	55	53.644579	3.001264	39.644536
+56.661204	6	sub-07	sanctity	You see a man in a bar using his phone to watch people having sex with animals.	sanctity05	94	62.661322	9.001818	48.661204
+71.694652	6	sub-07	liberty	You see a manager coercing her employees into eating at her brother's diner.	liberty04	63	77.694745	3.001182	63.694652
+80.711183	6	sub-07	liberty	You see a public leader on TV trying to ban the wearing of hooded sweatshirts.	liberty10	69	86.711248	3.001233	72.711183
+89.727838	6	sub-07	social_norms	You see someone using an old rotary phone and refusing to go buy a new one.	social_norms01	105	95.727886	6.001443	81.727838
+101.744563	6	sub-07	care_emotional	You see a girl saying that another girl is too ugly to be a varsity cheerleader.	care_emotional07	21	107.744653	3.001068	93.744563
+110.761145	6	sub-07	authority	You see a group of women having a long and loud conversation during a church sermon.	authority12	11	116.761268	3.001278	102.761145
+119.777812	6	sub-07	care_emotional	You see a teenage boy chuckling at an amputee he passes by while on the subway.	care_emotional01	15	125.777857	4.501243	111.777812
+130.294466	6	sub-07	fairness	You see a politician using federal tax dollars to build an extension on his home.	fairness15	59	136.294573	6.001536	122.294466
+142.311183	6	sub-07	care_physical	You see a woman throwing a stapler at her colleague who is snoring during her talk.	care_physical09	38	148.311206	6.001349	134.311183
+154.327815	6	sub-07	sanctity	You see a story about a remote tribe eating the flesh of their deceased members.	sanctity11	100	160.327848	9.001826	146.327815
+169.361182	6	sub-07	authority	You see an intern disobeying an order to dress professionally and comb his hair.	authority04	3	175.361238	9.001776	161.361182
+184.377782	6	sub-07	loyalty	You see a man leaving his family business to go work for their main competitor.	loyalty06	80	190.377857	9.00172	176.377782
+199.411161	6	sub-07	fairness	You see a student getting an A on a group project when he didn't do his part.	fairness07	51	205.41125	6.001386	191.411161
+211.427757	6	sub-07	social_norms	You see someone reading the ending of a spy novel before reading the beginning.	social_norms13	117	217.427819	9.001839	203.427757
+226.444449	6	sub-07	care_emotional	You see a woman commenting out loud about how fat another woman looks in her jeans.	care_emotional03	17	232.444537	4.501193	218.444449
+236.961041	6	sub-07	authority	You see a boy spray-painting anarchy symbols on the side of the police station.	authority06	5	242.961146	6.001465	228.961041
+248.977749	6	sub-07	loyalty	You see the coach's wife sponsoring a bake sale for her husband's rival team.	loyalty13	87	254.977861	4.501374	240.977749
+259.494357	6	sub-07	social_norms	You see a man walking down a dark hallway while still wearing his sunglasses.	social_norms10	114	265.494432	3.001254	251.494357
+268.510992	6	sub-07	care_physical	You see a wife hitting her husband on the side of his head for coming home late.	care_physical15	44	274.51103	6.001348	260.510992
+280.527706	6	sub-07	care_physical	You see a woman swerving her car in order to intentionally run over a squirrel.	care_physical01	30	286.527842	4.501261	272.527706
+291.044327	6	sub-07	loyalty	You see a Hollywood star agreeing with a foreign dictator's denunciation of the US.	loyalty10	84	297.044445	4.501271	283.044327
+301.560984	6	sub-07	authority	You see a student stating that her professor is a fool during an afternoon class.	authority14	13	307.561064	6.001577	293.560984
+313.577675	6	sub-07	care_physical	You see a zoo trainer jabbing a dolphin to get it to entertain the customers.	care_physical04	33	319.577733	3.001114	305.577675
+322.594285	6	sub-07	loyalty	You see a former Secretary of State publicly giving up his citizenship to the US.	loyalty14	88	328.594357	3.001216	314.594285
+331.610935	6	sub-07	authority	You see a player publicly yelling at his soccer coach during a playoff game.	authority08	7	337.611014	4.501277	323.610935
+342.144254	6	sub-07	fairness	You see a girl asking for allowance even though her brother did her chores for her.	fairness10	54	348.144335	3.001087	334.144254
+351.16092	6	sub-07	liberty	You see a man telling his girlfriend that she must convert to his religion.	liberty05	64	357.160945	4.501274	343.16092
+361.67759	6	sub-07	sanctity	You see a teenager urinating in the wave pool at a crowded amusement park.	sanctity04	93	367.677655	3.001053	353.67759
+370.694232	6	sub-07	fairness	You see an employee lying about how many hours she worked during the week.	fairness08	52	376.694363	3.001159	362.694232
+379.727552	6	sub-07	care_physical	You see a woman spanking her child with a spatula for getting bad grades in school.	care_physical14	43	385.727631	6.001554	371.727552
+391.74427	6	sub-07	social_norms	You see a woman answering a phone call with the word goodbye instead of hello.	social_norms15	119	397.744313	9.001674	383.74427
+406.760958	6	sub-07	liberty	You see a man blocking his wife from leaving home or interacting with others.	liberty03	62	412.760999	4.501304	398.760958
+417.294192	6	sub-07	care_emotional	You see a girl telling her classmate that she looks like she has gained weight.	care_emotional14	28	423.294295	3.001065	409.294192
+426.31086	6	sub-07	sanctity	You see a family eating the carcass of their pet dog that had been run over.	sanctity02	91	432.310934	7.501658	418.31086
+439.827549	6	sub-07	care_emotional	You see a man laughing at a disabled co-worker while at an office softball game.	care_emotional15	29	445.827684	4.501344	431.827549

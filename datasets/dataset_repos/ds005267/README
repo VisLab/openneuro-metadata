@@ -1,0 +1,33 @@
+# README
+
+## Dataset Overview
+
+This BIDS dataset includes anatomical, fieldmap, and functional MRI data, along with all relevant information and scripts for preprocessing, MVPA (Multivoxel Pattern Analysis), and GLM (General Linear Model) analyses.
+
+### Data Contents
+
+- **Anatomical Data**: High-resolution T1-weighted images.
+- **Fieldmap Data**: Fieldmap, magnitude, and phase difference images for correcting distortions.
+- **Functional Data**: BOLD images acquired during task performance, with accompanying event files.
+
+### Analyses and Scripts
+
+- **Preprocessing**: Motion correction, slice timing correction, spatial normalization, and smoothing. Scripts are provided in Matlab/SPM.
+- **MVPA**: Scripts and methodological details for decoding patterns of brain activity.
+- **GLM**: Scripts and details for modeling brain activity in relation to experimental design.
+
+## Usage Instructions
+
+1. **Preprocessing**: Use scripts in `derivatives/preprocessing`.
+2. **MVPA Analysis**: Use scripts in `derivatives/MVPA`.
+3. **GLM Analysis**: Use scripts in `derivatives/GLM`.
+
+Ensure Matlab and SPM are installed to run the provided scripts.
+
+## Contact
+
+For questions or issues, please contact:
+
+- **Name**:  Anja Ischebeck
+- **Email**:  anja.ischebeck@uni-graz.at
+- **Institution**:  Institute of Psychology, University of Graz, Universitaetsplatz 2/DG, A-8010 Graz

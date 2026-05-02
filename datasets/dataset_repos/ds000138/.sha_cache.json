@@ -1,0 +1,12 @@
+{
+  "task-postheatstimulation_events.tsv": "c866ae1fba6dbe4b0c9f94252a0ef25dddceb603",
+  "CHANGES": "d00a90d53809d12183ddc952ef0966dfe9f1d3d9",
+  "task-postheatstimulation_bold.json": "65d7e75b1ad256e1bc785b5f054127f05f346ab2",
+  "dataset_description.json": "32c41795a9a633635e75050509a6b522aac0487d",
+  "task-preheatstimulation_events.tsv": "c866ae1fba6dbe4b0c9f94252a0ef25dddceb603",
+  "task-preheatstimulation_bold.json": "2b7818438251062005daffb904e865cb6de7627b",
+  "participants.tsv": "5664e7db7dbe0efcc93ea0093a02e63dce7f30a0",
+  "README": "7544c57ba8d01f6352f0a0906324ee440be05ceb",
+  "sub-01/func/sub-01_task-preheatstimulation_events.tsv": "1cd85a639d2f26cbce986402f7e0acc3fd42b195",
+  "sub-01/func/sub-01_task-postheatstimulation_events.tsv": "1cd85a639d2f26cbce986402f7e0acc3fd42b195"
+}

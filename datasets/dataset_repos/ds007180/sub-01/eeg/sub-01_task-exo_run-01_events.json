@@ -1,0 +1,1 @@
+{"onset":{"Description":"Event onset relative to the start of the recording","Units":"seconds"},"duration":{"Description":"Event duration","Units":"seconds"},"sample":{"Description":"Event sample index","Units":"samples"},"trial_type":{"LongName":"Event category","Description":"Label/category of the event (e.g., start, S81, S31, ...)"}}

@@ -1,0 +1,9 @@
+{
+  "CHANGES": "31af05c1eba53d83c99b32aa7932e517bb5ca258",
+  "participants.tsv": "56949ddde7b7039c74000a00712efbfdf31cc3e0",
+  "dataset_description.json": "9500ae7afc27458dcd81fbbfded1a7cc2a38b7f1",
+  "README": "8c3fec0b48bcd8daed9c06dc12ce80dc4e0f768f",
+  "sub-01/ses-int/eeg/sub-01_ses-int_events.tsv": "f2c6932f57872190f3ddcf7a6ecffe79e8fb2f34",
+  "sub-01/ses-before/eeg/sub-01_ses-before_events.tsv": "0c2c13950948398c2c1beb45dd1790d9e86eeea3",
+  "sub-01/ses-after/eeg/sub-01_ses-after_events.tsv": "20bac2b0875f27f6ca2cbce57491fa6222233cb5"
+}

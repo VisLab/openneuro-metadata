@@ -1,0 +1,48 @@
+Title: Widespread frontoparietal fMRI activity is greatly affected by changes in criterion placement, not discriminability, during recognition 
+memory and visual detection tests
+
+Background: The main goal of the fMRI experiment was to assess how target versus nontarget response contrasts are affected by changes in criterion placement and discriminability during recognition memory and visual detection tests. The design attempted to control for task structure and difficulty across conditions to isolate the effects of each manipulation.
+
+Design: The fMRI experiment included recognition memory and visual detection tests with manipulations intended to alter discriminability and criterion placement in a fully-crossed 2 (task domain: recognition memory vs. visual detection) x 2 (discriminability condition: low vs. moderate) x 2 (criterion condition: conservative vs. liberal) factorial design creating 8 test conditions
+
+Conditions:
+[1a] Recognition memory task: identify each image as old (previously studied: target) or new (novel image: nontarget)
+[1b] Visual detection task: identify if the image contains a person (target) or not (nontarget)
+[2a] Conservative criterion condition: correct response = +$0.05, miss = $0.00, false alarm = -$0.10
+[2b] Liberal criterion condition: correct response = +$0.05, miss = -$0.10 false alarm = $0.00
+[3a] Low discriminability condition: images studied once (recognition memory) or difficult to find person in image* (visual detection)
+[3b] Moderate discriminability condition: images studied six times (recognition memory) or somewhat easy to find person in image* (visual detection)
+*15 researchers rated the difficulty of finding a person in each image and a median split of the ratings determined discriminability classification
+
+Stimuli: The stimulus set consisted of two nearly identical versions of 1024 scene images that either contained a person (with human or 'wh') or had the person edited out (no human or 'nh')
+
+fMRI scan order:
+[01] task-study_run-1
+[02] task-test_run-1
+[03] task-test_run-2
+[04] task-test_run-3
+[05] task-test_run-4
+[06] task-study_run-2
+[07] task-test_run-5
+[08] task-test_run-6
+[09] task-test_run-7
+[10] task-test_run-8
+
+fMRI scan contents:
+[1] study: 896 images (128 shown once, 128 shown six times) presented consecutively and continuously for 720 ms (not intended for event-related analyses)
+[2] test: 8 mini-blocks of 16 trials (one for each condition). Randomized and variable jitter trials led to slightly different total volumes per scan
+
+Test trial structure: Participants could respond once the response option screen appeared
+[1] crosshair: 320 - 1760 ms (jittered)
+[2] stimulus presentation: 200 ms
+[3] noise mask: 200 ms
+[4] response option screen: 2160 ms
+
+Bad and missing data:
+[1] sub-09_task-test_run-6: MRI scanner initially crashed midway through scan. The block was re-run (which is the uploaded version) but test trials were repeated. We excluded this block from all analyses
+[2] sub-18_T1w: scan not acquired
+[3] sub-23_task-test_run-6: MRI scanner crashed midway through scan and was not re-run (partial scan was uploaded). We excluded this block from all analyses
+
+OSF: https://osf.io/nt4jk/
+NeuroVault: https://neurovault.org/collections/15078/
+Reference: https://doi.org/10.1016/j.neuroimage.2023.120307

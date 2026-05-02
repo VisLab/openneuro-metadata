@@ -1,0 +1,57 @@
+{
+    "onset": {
+        "Description": "Event time-stamp relative to onset of the MEG recording (first sample in MEG recording corresponds to t=0)",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Event duration. All events are treated as impulse events with zero duration.",
+        "Units": "s"
+    },
+    "channel": {
+        "Description": "MEG channel associated with the event",
+        "Levels": {
+            "UPPT001": "This channel contains events related to practice trial start triggers only",
+            "n/a": "Any events not directly recorded in the MEG file (e.g - all KeyDown events)"
+        }
+    },
+    "onset_sample_idx": {
+        "Description": "The MEG data sample index corresponding to the event timestamp. NaN values indicate that the event occurred either prior to initiation or following termination of the MEG recording."
+    },
+    "event_type": {
+        "Description": "The type of task event recorded",
+        "Levels": {
+            "KeyDown": "Button press event. The timestamp corresponds to the KeyDown time.",
+            "StartPractice": "The beginning of an individual practice trial (~10s duration).",
+            "StopPractice": "The end of an individual practice trial.",
+            "StartRest": "The beginning of an individual rest break (~10s duration).",
+            "StopRest": "The end of an individual rest break."
+        }
+    },
+    "target_sequence": {
+        "Description": "The 5-item sequence displayed on the screen during an individual trial that the participant is instructed to repeatedly type. XXXXX is always displayed during the rest break."
+    },
+    "keypress_id": {
+       "Description": "The number code of the button associated with the KeyDown event (i.e. - button-press)",
+       "Levels": {
+            "1": "Button pressed with the Little finger",
+            "2": "Button pressed with the Ring finger",
+            "3": "Button pressed with the Middle finger",
+            "4": "Button pressed with the Index finger",
+            "n/a": "Events not associated with button presses (e.g. - practice trial start/stop triggers)"
+        }
+    },
+    "finger_label": {
+        "Description": "The finger used to generate each KeyDown event",
+        "Levels": {
+            "Little": "Button pressed with the Little finger",
+            "Ring": "Button pressed with the Ring finger",
+            "Middle": "Button pressed with the Middle finger",
+            "Index": "Button pressed with the Index finger",
+            "n/a": "Events not associated with button presses (e.g. - practice trial start/stop triggers)"
+        }
+    },
+    "trial_number": {
+        "Description": "The trial number individual events are associated with"
+    }
+}
+

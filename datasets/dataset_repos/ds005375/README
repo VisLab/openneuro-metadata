@@ -1,0 +1,107 @@
+# README
+
+
+## Details related to access to the data
+
+- [ ] Data user agreement
+
+The data is publicly available for anyone who wants to use it.
+
+- [ ] Contact person
+
+For any question regarding this data, please contact: 
+- Dr. Clara Pretus, clara.pretus@uab.cat, 0000-0003-2172-1184
+- Dr. Luis Marcos-Vidal, lmarcos1@researchmar.net, 0000-0003-2135-1478
+
+- [ ] Practical information to access the data
+
+
+## Overview
+
+- [ ] Year(s) that the project ran
+
+Data acquisition for this project started in December 2023 and ended in March 2024
+
+
+- [ ] Brief overview of the tasks in the experiment
+
+Ths experiment consists on three different tasks (each of them conducted in a separate run):
+- Cyberball: A paradigm for inducing ostracism.
+- Personal RateME: A novel task for inducing personal discrimination.
+- Group RateME: The same task but for inducing group discrimination.
+
+- [ ] Description of the contents of the dataset
+
+An easy thing to add is the output of the bids-validator that describes what type of
+data and the number of subject one can expect to find in the dataset.
+
+- [ ] Independent variables
+
+The three tasks may be presented on inclusion or exclusion conditions.
+This allows us to compare both conditions within task.
+
+
+- [ ] Dependent variables
+
+The dependent variable is brain activity, although we also measured participant's mood after each inclusion/exclusion block.
+
+
+- [ ] Control variables
+
+The control variables are gender and age. Additionally, we obtained a set of intergroup attitudes measures that may be related to the effect of group discrimination. In the cyberball task participants had to press a button to toss the ball. We also have the timing of whenever they pressed the button to control for activity related to finger movement.
+
+
+## Methods
+
+### Subjects
+
+The sample is composed of 58 participants.
+
+- [ ] Information about the recruitment procedure
+- [ ] Subject inclusion criteria (if relevant)
+- [ ] Subject exclusion criteria (if relevant)
+
+### Apparatus
+
+Participants were lying in the scanner with VR goggles where they could see the game and buttons in each hand.
+
+### Initial setup
+
+All participants completed an initial survey on demographic information and group identification measures. Next, participants were asked to complete a pre-scan survey in preparation for the intra-scanner RateME tasks. In the pre-scan survey, participants were asked to rate other people's profiles based on their name, age, hobbies, music preferences, and preferred vacation plans (see Table 1). This information was collected as part of the cover story for the Personal RateME task. Then, they were asked to rate different aspects of various European countries and their inhabitants (see Table 1). This information was collected as part of the cover story for the Group RateME task. All ratings were answered using a 5-star scale. 
+
+Before the neuroimaging session, participants completed a short training session, where they became familiar with the RateME tasks in the inclusion condition. Next, participants were invited to the fMRI facilities where they completed the three experimental tasks described below (Cyberball, Personal RateME, and Group RateME). Each participant underwent both of the conditions (inclusion and exclusion) in each experimental task. 
+
+
+### Task organization
+
+
+- [ ] Was task order counter-balanced?
+
+The task order was randomized for each participant in a counter-balanced way.
+
+
+### Task details
+
+Group RateME.  In the Group RateME task, participants were invited to participate in a group setting with other players represented by a flag and a traditional name from the same country (e.g., Joost for Netherlands or Greta for Germany). Participants were represented by the Spanish flag, and the other avatars by flags of other European countries (see Figure 1). Participants visualized each of the questions they had answered in the pre-scan survey (see Table 1) followed by the other players’ ratings on their country (Spain) as compared to the other players’ countries (see Figure 1 and Table 1). In the exclusion condition, other European countries received positive ratings on all dimensions, while Spain received various degrees of negative ratings from all other players. In the inclusion condition, Spain received similarly positive ratings as all other countries. The duration of this game was around seven minutes.  
+
+Personal RateME. In the Personal RateME task, participants were invited to participate in a group setting with five other avatars (see Figure 1). Each avatar was represented by a name (including the participant's name), and a colored silhouette. Participants visualized each of the questions they had answered in the pre-scan survey (see Table 1) followed by the other players’ ratings on their profile compared to the other players’ profiles (see Figure 1 and Table 1). In the exclusion condition, participants received negative feedback on their profile, while the other avatars received various degrees of positive feedback. In the inclusion condition, participants received comparable levels of positive feedback as the other players. The mean duration of the game was seven minutes. 
+
+Cyberball. Cyberball is a ball-tossing game where participants play with another three avatars. The avatars had traditional Spanish names positioned next to a colored silhouette. Participants in the exclusion condition did not receive the ball and were thus ignored, while they received the ball about 1/3 of the time in the inclusion condition. We used a custom version of Cyberball specifically designed to be synchronized with the fMRI scanner. 
+
+Participants completed the three experimental tasks (Group RateME, Personal RateME, and Cyberball) in separate runs and were subjected to both exclusion and inclusion conditions in each task. Each run consisted of ten 30-second blocks, including five exclusion blocks and five inclusion blocks presented in a randomized order. Before the RateME blocks, participants were presented the question that was going to be rated for 2.5 seconds. Likewise, after each block, we assessed participants’ mood using a 5-point scale with different colored smiley faces which was presented for 4.5 seconds. This mood question was separated from the subsequent block by a 10-second interblock interval displaying a fixation cross (see Figure 1).  
+
+### Additional data acquired
+
+Data regarding the stimulus presentation onset, together with covariates and all supplementary data and quesitonnaires is publicly available at https://osf.io/pc4fs/.
+Additionally, the code used for analyzing this data can be found at https://github.com/SBL-Barcelona/RateME-fMRI.
+
+
+### Experimental location
+
+Data was acquired at BarcelonaBeta Brain Research Center in Barcelona, Spain.
+
+### Notes
+
+Any additional information or pointers to information that
+might be helpful to users of the dataset. Include qualitative information
+related to how the data acquisition went.

@@ -1,0 +1,15 @@
+{
+  "README": "1a68eea641f92dc659c98afd0b7e9928508b1931",
+  "participants.tsv": "27e86f34f66b86bebef1c210564118f08503a415",
+  "CHANGES": "9fa45612edb5e6b221eef475e8b7b042c08626e2",
+  "dataset_description.json": "640ca485bc0f046a355c4bb50169f3e8950341b3",
+  "sub-01/ses-02/func/sub-01_ses-02_task-Stroop_acq-cf2PA_run-02_events.tsv": "f9f10d350e560d6f20996a872e8df78963608fcf",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Stroop_acq-cf1PA_run-02_events.tsv": "11515af0a2e019811d2e8f35fa42d86b4441968e",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Stroop_acq-cf0AP_run-03_events.tsv": "6e0790493cd5afa100fccc0a6d925d3c1532a433",
+  "sub-01/ses-02/func/sub-01_ses-02_task-notStroop_acq-cf2PA_run-04_events.tsv": "81a6a92a9f4a8082cdd1a6008ea025394abde9e9",
+  "sub-01/ses-02/func/sub-01_ses-02_task-Stroop_acq-cf2AP_run-01_events.tsv": "fd74f3e078f19eaa9d2a4385742b1e98a1b262f3",
+  "sub-01/ses-02/func/sub-01_ses-02_task-Stroop_acq-cf0PA_run-06_events.tsv": "d923e570c1fb13a82873d0ac8d7d6494a5314812",
+  "sub-01/ses-02/func/sub-01_ses-02_task-notStroop_acq-cf2AP_run-03_events.tsv": "01f1a247b7b37f83b383abc0b24adb3130a8f3e5",
+  "sub-01/ses-02/func/sub-01_ses-02_task-notStroop_acq-cf0AP_run-05_events.tsv": "010110ee8b85f8be985106f231949ea15afe3b4b",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Stroop_acq-cf1AP_run-01_events.tsv": "57fac7982888736019fbf09ec11af2a3cfa39143"
+}

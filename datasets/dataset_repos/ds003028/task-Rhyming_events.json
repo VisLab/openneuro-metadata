@@ -1,0 +1,45 @@
+{
+  "onset": {
+    "LongName": "Trial onset time",
+    "Description": "Onset time of the first stimulus",
+    "Units": "s"
+  },
+  "duration": {
+    "LongName": "Trial duration",
+    "Description": "Duration of trial from beginning of first stimulus to end of fixation",
+    "Units": "s"
+  },
+  "trial_type": {
+    "LongName": "Trial Condition",
+    "Description": "Category of trial based on stimuli characteristics",
+    "Levels": {
+    	"1": "O+P+",
+    	"2": "O+P-",
+    	"3": "O-P+",
+    	"4": "O-P-",
+    	"5": "Control, blue box judgement",
+    	"6": "Perceptual"
+    }
+  },
+  "accuracy": {
+    "LongName": "Trial accuarcy",
+    "Description": "Indicates if participant made correct or incorrect response",
+    "levels": {
+      "0": "incorrect",
+      "1": "correct"
+    }
+  },
+  "response_time": {
+    "LongName": "Response Time",
+    "Description": "Subject response time measrured from beginning of presentation of second stimulus",
+    "Units": "s"
+  },
+  "prime_stim": {
+  	"LongName": "Prime stimulus",
+	"Description":"Presented prime word or filename"
+  },
+ "target_stim": {
+ 	"LongName": "Target stimulus",
+	 "Description": "Presented target word or filename"  
+  }
+}

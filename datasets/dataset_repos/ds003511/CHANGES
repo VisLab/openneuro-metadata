@@ -1,0 +1,8 @@
+1.1.1 2021-03-08
+  - Corrected sub-35 upload error.
+1.1.0 2021-03-07
+- Fixed several upload errors 
+- Added task event timing information, analysis code, and derivative files
+
+1.0.0 2021-02-09 
+- Initial MRI data upload

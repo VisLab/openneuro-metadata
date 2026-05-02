@@ -1,0 +1,10 @@
+{
+    "Name": "PhysioMotion_Artifact",
+    "BIDSVersion": "1.7.0",
+    "Authors": [
+        "Jiangwei Yu",
+        "Aonan He"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006386.v1.0.1",
+    "License": "CC0"
+}

@@ -1,0 +1,14 @@
+Combined PET MR longitudinal study
+
+Participants with PET (>=18yo at visit 1) have enter the scanner twice on the same day (collapsed within the same BIDS session):
+ * PET:raclopride + MR:functional (tw1 x 2, task x 6, rest x 2, mt x 4)
+ * PET:dtbz + MR:structural (t1w, dsi, r2prime, rest x 1)
+
+MR only participants (<18yo at visit 1) enter the scanner only once on a given day. Task x 6, rest x 2, mt, r2prime, and DWI are collected.
+
+At least 2 fieldmaps are collected, before task and before rest. One fieldmap is collected in PET:dtbz session before rest.
+
+In any session, there will be at most 2 T1w acquisitions. One slow and the other accelerated (G2). For PET participants, there could be up to T1w 4 runs.  At return visits, only G2 is collected for MR-only participants.
+
+
+BIDS populated with https://github.com/LabNeuroCogDevel/mMR_PETDA/tree/master/bids (/Volumes/Phillips/mMR_PETDA/scripts/bids/)

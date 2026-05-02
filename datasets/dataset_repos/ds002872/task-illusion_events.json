@@ -1,0 +1,17 @@
+{
+	"expected_response": {
+		"Description": "correct respense expected for this specific trial"
+			  },
+	"given_response": {
+		"Description": "reponse actually given by the subject" 
+			  },
+	"response_time": {
+		"Description" : "time between the onset of the trial and the response of the subject",
+		"Units" : "seconds"
+		         },
+	"response_time": {
+		"Description" : "time between the onset of the trial and the response of the subject",
+		"Units" : "seconds"
+		         }      
+}
+	

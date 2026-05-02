@@ -1,0 +1,22 @@
+This dataset includes data from thirty-one Polish-English bilinguals who completed a series of tasks:
+
+Reading task in L1 and L2, including:
+    - reading lists of single words
+    - reading lists of unrelated sentences
+    - reading short narratives
+Language localizer in L1 (Alice version, see Malik Moraleda, Ayyash et al., 2020)
+Multiple Demand localizer (based on visual working memory task, see Fedorenko et al., 2013)
+Theory of Mind localizer in L1 (adapted to Polish from Dodell-Feder et al., 2010)
+
+Each participant completed four runs of the reading task and two runs of each of the localizer tasks sessions, with the following exceptions:
+    - sub-WF29031 who only completed 1 run of the language localizer task. 
+
+Within the reading task, each run includes the following conditions in L1, L2, and baseline (false fonts):
+    - reading lists of words (1s per word, 30 words per block)
+    - reading lists of unrelated sentences (5s per sentence, 6 sentences per block)
+    - reading short, 6-sentence long narratives (30s per narrative, 1 narrative per block)
+
+The dataset includes anatomical (T1 weighted), functional, and fieldmap scans for each participant.
+
+In case of any questions please contact Agata Wolna (awolna@mit.edu).
+

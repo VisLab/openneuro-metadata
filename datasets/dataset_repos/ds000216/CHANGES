@@ -1,0 +1,10 @@
+Revision history for OpenfMRI dataset ds000216
+
+1.0.1 2017-10-09
+
+  - Updated filenames to comply with BIDS multi-echo filenaming
+  - Removed derivatives/mriqc/work
+
+1.0.0 2017-01-26
+   
+  - Initial Release

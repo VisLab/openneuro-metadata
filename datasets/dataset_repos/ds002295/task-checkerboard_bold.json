@@ -1,0 +1,5 @@
+{	
+	"TaskName":"Detect changes in checkerboard rotation direction",
+	"RepetitionTime":4.0,
+	"PhaseEncodingDirection":"i"
+}

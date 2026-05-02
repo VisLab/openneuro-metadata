@@ -1,0 +1,13 @@
+# README
+
+Ethics
+The study was conducted in accordance with the Helsinki Protocol, and was approved by the Ethics Committee of ShanghaiTech University (IRB#2021-002) and the Ethics Committee of Shanghai Ruijin Hospital, Shanghai Jiao Tong University School of Medicine (No. 2016-123). For all included participants, written informed consent was provided. 
+
+Summary
+18 healthy controls and 24 inter-ictal, temporal lobe epilepsy patients underwent simultaneous positron emission tomography (PET) and magnetic resonance imaging (MRI) scans. We used [18F]fluorodeoxyglucose-PET (FDG-PET) to detect cerebral glucose metabolism, and calibrated functional MRI to acquire relative oxygen consumption. With these data, we calculated relative OGI maps.
+
+PET-MRI Acqusition
+Scanning was performed on a hybrid PET-MRI Siemens Biograph mMR scanner (Siemens Healthineers, Erlangen, Germany) using a 12-channel phase-array head coil. All subjects fasted for at least 6 hours before receiving an injection of 183.6 ± 32.0 MBq 18F-FDG while resting in a quiet, dimly lit room. They went through a simultaneous PET-MRI scan 40 min later, including static 18F-FDG-PET, sagittal T1-weighted imaging(T1WI), axial Pulsed Arterial Spin Labeling (PASL), axial transverse relaxation time (T2) mapping, and axial observed transverse relaxation time (T2*) mapping. PASL images were converted to quantitative cerebral blood-flow maps with the built-in QUantitative Imaging of Perfusion using a Single Subtraction (QUIPSS) method.16, 17 For T1WI, we used Magnetization Prepared RApid Gradient Echo (MPRAGE) sequence, echo time (TE) = 2.44 ms, repetition time (TR) = 1900 ms, flip angle = 9º. For T2* mapping, we used Gradient Recalled Echo (GRE) sequence: TE = 2.46 / 4.92 / 7.38 / 9.84 ms, TR = 391 ms, flip angle = 25º. For T2 mapping, we used Spin Echo (SE) sequence: TE = 10.5 / 21.0 / 31.5 / 42.0 /52.5 / 63.0 ms, TR = 2000 ms, flip angle = 180º. For axial PASL: TE = 11 ms, TR = 2500 ms, flip angle = 90º.
+
+
+Will update soon when the paper is accepted.

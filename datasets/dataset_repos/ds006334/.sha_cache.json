@@ -1,0 +1,11 @@
+{
+  "CHANGES": "5689862fe4e0fa6e0d7f30fcb995756022ba8b94",
+  "participants.tsv": "d9ebd83a5bf3a9e0dfa3002061d7475839c7d515",
+  "README": "9219893aafb9fef0bcae57f727e747f0cfefeced",
+  "dataset_description.json": "21ab26cd4180a37d7cff5c4f122f74ac3f1171a6",
+  "sub-01/meg/sub-01_task-AVspeech_run-5_events.tsv": "b9a480d074715509ccfe3b4fdcaa3d8b50ffcb75",
+  "sub-01/meg/sub-01_task-AVspeech_run-2_events.tsv": "e4dc90c59fa0d3b196d99b1a317679bce7128094",
+  "sub-01/meg/sub-01_task-AVspeech_run-3_events.tsv": "964d5a5a719be5181de31039cde24a6d6f0e6ca6",
+  "sub-01/meg/sub-01_task-AVspeech_run-1_events.tsv": "5e8fb698f73e19265191254d1768d2b6710ff9b2",
+  "sub-01/meg/sub-01_task-AVspeech_run-4_events.tsv": "4bb5efa208944373a79f2e97b4b2d84edcc2106f"
+}

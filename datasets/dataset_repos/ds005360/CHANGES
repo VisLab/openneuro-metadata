@@ -1,0 +1,5 @@
+1.0.1 2025-04-09
+  - Fixed sub-20 ses-01 ses-02 duplicate files
+  - Fixed participants.tsv typo
+1.0.0 2024-07-19
+  - Initial release

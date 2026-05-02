@@ -1,0 +1,17 @@
+{
+  "CHANGES": "f025b50016263d4329499679c6ac004248ba2e49",
+  "README": "bc0aa6d8c9714e18304934ee05c67c919cf765cb",
+  "task-heatpainwithregulationandratings_bold.json": "9a132d3f4095cbe887a1ce31346ade156df9f8cd",
+  "dataset_description.json": "a1f9161b7be1c23f5f0254b40ccf415641956507",
+  "participants.tsv": "0093e98ef368d8b797707d5eff6b0878d83875d9",
+  "T1w.json": "90175853c426300c44596986704e730e77ea9ddd",
+  "sub-01/func/sub-01_task-heatpainwithregulationandratings_run-06_events.tsv": "2f599cc559ed8721ef7361ce7b47ff02ad53a306",
+  "sub-01/func/sub-01_task-heatpainwithregulationandratings_run-09_events.tsv": "448f8511b18c799c6d4829cc3042853ba079c7ef",
+  "sub-01/func/sub-01_task-heatpainwithregulationandratings_run-04_events.tsv": "fa0d54af252b4ccfa1856536b3882996d371cc85",
+  "sub-01/func/sub-01_task-heatpainwithregulationandratings_run-02_events.tsv": "dffcc363ca1b608a91c78a809ec95055cc166a74",
+  "sub-01/func/sub-01_task-heatpainwithregulationandratings_run-01_events.tsv": "306c9b4c27630f646983af4fedf16f7f8a7fff9e",
+  "sub-01/func/sub-01_task-heatpainwithregulationandratings_run-08_events.tsv": "c80786f73d4cf9862c00a2ccaef9d39f01da275f",
+  "sub-01/func/sub-01_task-heatpainwithregulationandratings_run-03_events.tsv": "52d38df2229b8f9a6f4ad8678c0bc357f0203559",
+  "sub-01/func/sub-01_task-heatpainwithregulationandratings_run-05_events.tsv": "29bd92b07f62eeb1e432bc9f223537d04dadee6a",
+  "sub-01/func/sub-01_task-heatpainwithregulationandratings_run-07_events.tsv": "82757e31ef5030e00d4f5357694463ed2997f615"
+}

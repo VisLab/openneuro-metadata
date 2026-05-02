@@ -1,0 +1,49 @@
+﻿EEG recordings during sham neurofeedback in virtual reality
+
+Description
+
+This dataset contains EEG recordings acquired during a sham neurofeedback experiment conducted in a virtual reality (VR) environment. The study aimed to investigate how feedback valence (positive, negative, or control) modulates alpha-band activity and during an attentional task. EEG signals were recorded using a 32-channel SynAmps RT amplifier (Compumedics NeuroScan Inc., Charlotte, NC, USA) and Ag/AgCl passive electrodes mounted on an elastic cap (Wuhan Greentek Pty. Ltd., China) following the extended 10–20 international system.
+
+Each participant completed four conditions:
+
+Positive feedback (S##_p.cnt) - sham feedback with a reinforcement valence.
+
+Negative feedback (S##_n.cnt) - sham feedback with a punishment valence.
+
+Control (S##_c.cnt) — participants observed the VR environment without any feedback.
+
+Resting-state (S##_resting.cnt) — participants alternated between eyes open and eyes closed conditions.
+
+Experimental design
+
+Feedback blocks: Each feedback condition consisted of four blocks of approximately 2 minutes each.
+
+Events:
+
+238 — marks the beginning of each 2-minute feedback block.
+
+222 — indicates an increase in brightness or volume of VR objects.
+
+190 — indicates a decrease in brightness or volume.
+
+126 — marks the beginning and end of eyes open/closed periods during the resting condition.
+
+Resting-state order: Eyes open first, followed by eyes closed.
+
+Data format
+
+Original EEG recordings were collected in .cnt format (NeuroScan).
+
+Data were converted to the Brain Imaging Data Structure (BIDS) format using the MNE-BIDS toolbox (Appelhoff et al., 2019).
+
+Each subject folder (e.g., sub-01/) contains EEG data files (.eeg), event markers, and corresponding JSON sidecar files with acquisition parameters.
+
+Data availability
+
+The BIDS-formatted dataset is publicly available on the OpenNeuro repository and linked through the OSF Wiki project.
+
+References
+
+Appelhoff, S., Sanderson, M., Brooks, T. L., van Vliet, M., Quentin, R., Holdgraf, C., … Gramfort, A. (2019). MNE-BIDS: Organizing electrophysiological data into the BIDS format and facilitating their analysis. Journal of Open Source Software, 4(44), 1896. https://doi.org/10.21105/joss.01896
+
+Pernet, C. R., Appelhoff, S., Gorgolewski, K. J., Flandin, G., Phillips, C., Delorme, A., & Oostenveld, R. (2019). EEG-BIDS, an extension to the brain imaging data structure for electroencephalography. Scientific Data, 6, 103.

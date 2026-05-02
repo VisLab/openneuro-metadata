@@ -1,0 +1,21 @@
+{
+  "TaskName": "visualworkingmemorytask",
+  "Manufacturer": "BioSemi",
+  "ManufacturersModelName": "ActiveTwo",
+  "PowerLineFrequency": 60,
+  "SamplingFrequency": 512.0,
+  "SoftwareFilters": "n/a",
+  "HardwareFilters": "Band-pass 0.16 to 100 Hz",
+  "EEGChannelCount": 64,
+  "EOGChannelCount": 3,
+  "EEGReference": "CMS (Common Mode Sense) and DRL (Driven Right Leg) passive electrodes",
+  "EEGGround": "DRL (Driven Right Leg) passive electrode providing common-mode noise rejection",
+  "CapManufacturer": "BioSemi",
+  "CapManufacturersModelName": "ActiveTwo Cap 64-channel",
+  "ElectrodeManufacturerAndModel": "BioSemi Active Electrodes",
+  "EEGElectrodeSystem": "10-20",
+  "Units": "uV",
+  "RecordingType": "continuous",
+  "RecordingDuration": 3600.0,
+  "SubjectArtefactDescription": "Participants were instructed to minimize head and eye movements"
+}

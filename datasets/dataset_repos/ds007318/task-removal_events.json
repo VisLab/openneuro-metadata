@@ -1,0 +1,30 @@
+{
+  "onset": {
+    "Description": "Onset of the event",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "Duration of the event",
+    "Units": "seconds"
+  },
+  "trial_type": {
+    "Description": "Type of the trial",
+    "Levels": {
+      "maint": "Maintenance condition",
+      "remov": "Removal condition",
+      "encod": "Encoding condition",
+      "rest": "Rest period"
+    }
+  },
+  "accuracy": {
+    "Description": "Accuracy of the response",
+    "Levels": {
+      "1": "correct response",
+      "0": "incorrect response"
+    }
+  },
+  "response_time": {
+    "Description": "Response time",
+    "Units": "seconds"
+  }
+}

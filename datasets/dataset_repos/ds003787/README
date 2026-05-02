@@ -1,0 +1,33 @@
+The <b>New York University (NYU) Retinotopy Dataset</b> is a part of <i>'Cross-dataset reproducability of human retinotopic maps'</i> by Marc Himmelberg, Jan Kurzawski, Noah Benson, Denis Pelli, Marisa Carrasco, and Jonathan Winawer.
+
+The full dataset consists of 44 subjects, including freesurfer processed anatomical data, raw and preprocessed (via fMRIprep) functional data on the fsnative and fsaverage surface, vistasoft pRF model output, V1, V2, V3, and hV4 ROIs, and bayesian inferred retinotopic maps and ROIs. 
+
+<b><u>Dataset organisation:</u></b><br><br>
+
+
+<b>NYU_Retinotopy_Dataset:</b> This folder contains subject folders holding the raw, unprocessed data for each subject (nifti files).
+
+<b>NYU_Retinotopy_Dataset/derivatives/bayesian_inference_maps:</b> This folder contains subject folders holding bayesian inferred angle, eccentricity, and pRF size maps, and inferred visual areas (see https://elifesciences.org/articles/40224) (.mgz files)
+
+<b>NYU_Retinotopy_Dataset/derivatives/fmriprep:</b> This folder contains subject folders and fmriprep output logs. Within each subjects session folder you can find functional data on the fsnative and fsaverage surface (.mgz files)
+
+<b>NYU_Retinotopy_Dataset/derivatives/freesurfer:</b> This folder contains subject folders with standard freesurfer output (freesurfer v6)
+
+<b>NYU_Retinotopy_Dataset/derivatives/freesurfer:</b> This folder contains MRIQC output logs for each subject
+
+<b>NYU_Retinotopy_Dataset/derivatives/prfanalyze-vista:</b> Here you can find subject folders that house the vistasoft pRF model output on the fsnative surface for each subject (.mgz)<br>
+
+<i>eccen.mgz</i> - eccentricity maps
+<i>sigma.mgz</i> - pRF size maps
+<i>angle.mgz</i> - polar angle maps
+<i>angle_adj.mgz</i> - polar angle maps adjusted so that left hemifield is 0 - negative 180, right hemisfield 0 - positive 180.
+<i>vexpl.mgz</i> - variance explained
+<i>x.mgz</i> - x coordinates maps
+<i>y.mgz</i> - y coordinates maps
+
+<i>sub-wlsubj000</i> contains the pRF solutions from the group-average time-series (n=44).
+<i>sub-wlsubj_average_parameter</i> contains the median pRF solutions across all individual subjects on the fsaverage surface (n=44).
+
+<b>NYU_Retinotopy_Dataset/derivatives/ROIs:</b> These folders contain V1, V2, V3, and hV4 ROIS drawn on the fsnative surface using Neuropythy. Labels of 1, 2, 3, and 4, correspond to V1, V2, V3, and hV4, respectively.
+
+<b>NYU_Retinotopy_Dataset/derivatives/stimulus_apertures:</b> This folder contains the pRF bar stimulus aperture for each scan for those who wish to reprocess any data - note that all the apertures are the same for each subject (standard pRF bar runs)

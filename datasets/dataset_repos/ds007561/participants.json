@@ -1,0 +1,31 @@
+{
+    "participant_id": {
+        "LongName": "Participant identification label",
+        "Description": "Assigned indentifiation number for a subject"
+    },
+    "sessions": {
+        "LongName": "Number of sessions",
+        "Description": "Number of sessions the participant underwent"
+    },
+    "age": {
+        "LongName": "Age of participant",
+        "Description": "Age of participant in years"
+    },
+    "gender": {
+        "LongName": "Gender of participant",
+        "Description": "Gender of participant at time of visit",
+        "Levels": {
+            "Male": "Male human",
+            "Female": "Female human"
+        }
+    },
+    "diagnosis": {
+        "LongName": "Diagnosis of participant",
+        "Description": "Cognitive diagnosis of participant at time of visit",
+        "Levels": {
+            "Control": "Normal cognition",
+            "MCI": "Mild Cognitive Impairment",
+            "AD": "Alzheimer's Dementia"
+        }
+    }
+}

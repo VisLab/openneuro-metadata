@@ -1,0 +1,2 @@
+Raw and preprocessed data (fMRI, T1w, fieldmap, behavior) from the PPRI study.
+This dataset includes 45 participants who were presented with cues, each allegedly consisting of ratings of 10 previous participants, with experimentally manipulated mean, variance (inverse precision) and skewness. Then they experienced thermal noxious stimuli or viewed flickering checkerboards, and rated the painfulness or visual contrast of each stimulus. Please refer to our preprint / paper for additional details, and cite them if you are using the dataset.

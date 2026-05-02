@@ -1,0 +1,2 @@
+Resting state fMRI data used in the manuscript "A comparison of resting state functional magnetic resonance imaging to invasive electrocortical stimulation for sensorimotor mapping in pediatric patients" (doi:10.1016/j.nicl.2019.101850)
+The MLP derivatives directory contains the output of the multi-layer perceptron (MLP) resting state network classifier as described by Hacker C, and colleauges, in the manuscript "Resting state network estimation in individual subjects" (doi:10.1016/j.neuroimage.2013.05.108)

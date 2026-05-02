@@ -1,0 +1,10 @@
+{
+  "trial_type": {
+    "HED": {
+      "wait": "Audio-clip, Loudspeaker, Instructional, Rest",
+      "relax": "Audio-clip, Loudspeaker, Instructional, (Rest, (Not-equal-to, Attend-to))",
+      "getready": "Audio-clip, Loudspeaker, Instructional, Switch-attention",
+      "concentrate": "Audio-clip, Loudspeaker, Instructional, Attend-to"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+onset	duration	trial_type	stim_file
+6	90	Intact A	cond1_run-01.mp4
+105	90	Scramble Fix C	cond1_run-01.mp4
+204	90	Scramble Rnd B V1	cond1_run-01.mp4
+303	90	Scramble Fix C	cond1_run-01.mp4
+402	90	Intact A	cond1_run-01.mp4
+501	90	Scramble Rnd B V2	cond1_run-01.mp4

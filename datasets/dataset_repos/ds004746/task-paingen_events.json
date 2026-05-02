@@ -1,0 +1,21 @@
+{
+  "int_rating": {
+    "LongName": "intensity rating",
+    "Description": "rating of stimulus intensity, self-rated by participant",
+    "Scale": "0-1"
+  },
+  "unp_rating": {
+    "LongName": "unpleasantness rating",
+    "Description": "rating of stimulus unpleasantness, self-rated by participant",
+    "Scale": "0-1"
+  },
+  "level": {
+    "LongName": "level of input",
+    "Description": "the intensity level of the input stimulus",
+    "Unit": "Celsius degrees for heat stimuli or kg/cm^2 for mechanical stimuli"
+  },
+  "perspective": {
+    "LongName": "perspective taken",
+    "Description": "the perspective taken on that trial (relevant to another task, will always be neutral for this task" 
+  }  
+}

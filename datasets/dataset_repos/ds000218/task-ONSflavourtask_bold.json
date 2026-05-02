@@ -1,0 +1,11 @@
+{
+    "RepetitionTime": 1.53172,
+    "TaskName": "ONS flavour task",
+    "Manufacturer": "Philips",
+    "ManufacturersModelName": " Intera",
+    "PulseSequenceType": "PRESTO",
+    "MagneticFieldStrength": 3,
+    "EchoTime": 0.03,
+    "FlipAngle": 7,
+    "Instructions": "participants administered ONS - Oral Nutritional Supplements drink"
+}

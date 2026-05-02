@@ -1,0 +1,20 @@
+{
+    "onset": {
+        "Description": "Onset of the event measured from the beginning of the acquisition of the first volume in the corresponding task imaging data file",
+        "Units": "seconds"
+    },
+	"duration": {
+        "Description": "Duration of the event measured from onset",
+        "Units": "seconds"
+    },
+	"trial_type": {
+        "Description": "Indicator of task block",
+        "Levels": {
+            "1": "rest condition",
+            "2": "end-of-rest (modeled and discarded)",
+			"3": "semantic task condition",
+			"4": "control task condition",
+			"5": "irrelvant condition (modeled and discarded)"
+        }
+    }
+}

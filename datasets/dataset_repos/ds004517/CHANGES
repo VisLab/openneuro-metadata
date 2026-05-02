@@ -1,0 +1,6 @@
+1.0.2 2025-04-03
+  - Fix BIDS warnings
+1.0.1 2024-12-14
+  - Add example Python script to read EEG data and Update README file
+1.0.0 2024-03-27
+  - Initial version of dataset

@@ -1,0 +1,26 @@
+{
+    "Acknowledgements": "We thank all research assistants who helped collect the data of the four projects.",
+    "Authors": [
+        "Frederic R. Hopp",
+        "Sungbin Youk",
+        "Ori Amir",
+        "Musa Malik",
+        "Kylie Woodman",
+        "Brittany Wheeler",
+        "Ari Khoudary",
+        "Kevin O’Neill",
+        "Felipe De Brigard",
+        "Walter Sinnott-Armstrong",
+        "René Weber"
+    ],
+    "BIDSVersion": "1.0.2",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007386.v1.0.1",
+    "Funding": [],
+    "HowToAcknowledge": "Hopp, F. R., Youk, S., Amir, O., Malik, M., Woodman, K., Wheeler, B., ... & Weber, R. (2026). The Moral Foundations MRI Collection: A Multi-Center, Multi-Country Functional MRI Collection for Evaluating Moral Judgment.",
+    "License": "CC0",
+    "Name": "MOFOMIC-NIMF3",
+    "ReferencesAndLinks": [
+        "https://github.com/Moral-Computing-Lab/mofomic_code",
+        "https://www.medianeuroscience.org/mofomic/"
+    ]
+}

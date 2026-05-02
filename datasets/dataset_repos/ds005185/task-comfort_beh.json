@@ -1,0 +1,65 @@
+{
+    "TaskName": "comfort",
+    "Instructions": "To fill out the questionaire as soon as waking up.",
+    "TaskDescription": "After each recording, the subjects had to answer 5 questions regarding their perceived comfort and quality of sleep.",
+    "sleepQuality": {
+        "longVersion": "How would you rate the quality of your sleep?",
+        "levels": [
+            "Very bad",
+            "Bad",
+            "Bearable",
+            "Good",
+            "Very Good"
+        ]
+    },
+    "relativeSleepQuality": {
+        "longVersion": "How would you rate the quality of your sleep relative to a regular night?",
+        "levels": [
+            "Very bad",
+            "Bad",
+            "Bearable",
+            "Good",
+            "Very Good"
+        ]
+    },
+    "overallComfort": {
+        "longVersion": "How would you rate the comfort of the ear plugs?",
+        "levels": [
+            "Very bad",
+            "Bad",
+            "Bearable",
+            "Good",
+            "Very Good"
+        ]
+    },
+    "earEEGInfluence": {
+        "longVersion": "To what extent did the ear plugs influence your sleep negatively?",
+        "levels": [
+            "A lot",
+            "A little",
+            "Not at all"
+        ]
+    },
+    "easeOfUse": {
+        "longVersion": "Were the earplugs easy or difficult to use?",
+        "levels": [
+            "Very bad",
+            "Bad",
+            "Bearable",
+            "Good",
+            "Very Good"
+        ]
+    },
+    "earPlugsOut_early": {
+        "longVersion": ["Did the subject take out ear plugs in the time between mounting and recording start?"],
+        "levels": [0,1]
+    },
+    "earPlugsOut_late": {
+        "longVersion": ["Did the subject take out ear plugs during the sleep recording?"],
+        "levels": [0,1,2]
+    },
+    "SoreEars_0_2": {
+        "longVersion": ["Did the subject have sore ears in the morning?"],
+        "levels": [0,1,2]
+    }
+}

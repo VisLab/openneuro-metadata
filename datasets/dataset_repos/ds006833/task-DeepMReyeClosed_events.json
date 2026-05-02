@@ -1,0 +1,42 @@
+{
+  "onset": {
+    "LongName": "Onset time",
+    "Description": "Time at which event occured, relative to start of scan, in sec"},
+
+  "duration": {
+    "LongName": "Duration",
+    "Description": "Duration of the event in sec"},
+
+  "run_number": {
+    "LongName": "Number of the run",
+    "Description": "Indicated the number of the run"},
+
+  "trial_number": {
+    "LongName": "Number of the trial",
+    "Description": "Indicated the number of the trial"},
+
+  "trial_type": {
+    "LongName": "Type of task",
+    "Description": "Indicated the type of task",
+    "Levels": {
+      "1": "intertrial interval",
+      "2": "eyes open task", 
+      "3": "eyes blink task",
+      "4": "no stimulus task", 
+      "5": "eyes closed task"}},
+
+
+  "fixation_position": {
+    "LongName": ":Position of the fixation point",
+    "Description": "Indicated the coordinates of the fixation point within 18 dva window",
+    "Levels": {
+      "1": "[-9.0, 9.0] - top left ",
+      "2": "[9.0, 9.0] - top right",
+      "3": "[0.0, 0.0] - center",
+      "4": "[-9.0, -9.0] - bottom left",
+      "5": "[9.0, -9.0] - bottom right"}}
+
+
+}
+
+

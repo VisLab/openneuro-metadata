@@ -1,0 +1,25 @@
+{
+
+"onset": "time of stimulus onset in seconds. Timing is relative to first volume of data. However, it should be noted that the first 2 volumes are prepended junk, and the timing has been artificially shifted by 3 seconds to accomodate.",
+
+"duration": "duration used to model the event. Note that in our analysis we set GLM duration to 0 for HRF modeling.",
+
+"condition": "condition type corresponding to AB+, B-, AC-, B+. One must look at the rew field to determine whether the target actually occurred",
+
+"rt": "reaction time in ms",
+
+"rew": "Equal to positive one if the target appeared on that trial",
+
+"PE": "feature model prediction error, after z-scoring",
+
+"PE_mb": "conjunctive minus feature prediction error, after z-scoring",
+
+"feedback_valence": "+1 if  subject respond, -1 if too slow or missed",
+
+"a_stim": "visual category of A",
+
+"b_stim": "visual category of B",
+
+"c_stim": "visual category of C"
+
+}

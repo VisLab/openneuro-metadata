@@ -1,0 +1,15 @@
+Title: Model-based fMRI reveals co-existing specific and generalized concept representations
+
+fMRI task with three types of runs: train, imtest, and finest
+
+Train (8 runs): observational training of 2 categories: febbles (category 1) and badoons (category 2) 
+
+Imtest (4 runs): immediate/interim test of category knowledge/generalization to new items
+
+Fintest (4 runs): final test of category knowledge/generalization to new items 
+
+Task order: train_run-1, train_run-2, imtest_run-1, train_run-3, train_run-4,
+imtest_run-2, train_run-5, train_run-6, imtest_run-3, train_run-7, train_run-8,
+imtest_run-4, fintest_run-1, fintest_run-2, fintest_run-3, fintest_run-4
+
+Information for generating trial-by-trial exemplar and prototype model regressors provided in event.tsv files for imtest and fintest runs.

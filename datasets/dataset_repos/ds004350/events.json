@@ -1,0 +1,67 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "second"
+  },
+  "sample": {
+    "Description": "Event onset",
+    "Units": "n\/a"
+  },
+  "value": {
+    "Description": "Event value (vary based on the task)"
+  },
+  "stimulus": {
+    "Description": "Stimulus type",
+    "Levels": {
+      "target": "target type for LG task",
+      "nontarget": "nontarget type for LG task"
+    }
+  },
+  "response_type": {
+    "Description": "Stimulus type",
+    "Levels": {
+      "correct": "correct response",
+      "incorrect": "correct response",
+      "hit": "correct response",
+      "miss": "incorrect response",
+      "late_hit": "late correct response from previous trial",
+      "false_alarm": "response not a hit or a late correct response"
+    }
+  },
+  "congruence": {
+    "Description": "Stimulus congruence for LG task",
+    "Levels": {
+      "congruent": "large and small letters are congruent",
+      "incongruent": "large and small letters are incongruent"
+    }
+  },
+  "response_time": {
+    "Description": "Latency of button press after stimulus",
+    "Units": "millisecond"
+  },
+  "response_out_of_range": {
+    "Description": "Reaction time flag for out of range responses",
+    "Levels": {
+      "no": "reaction time is in the correct time range",
+      "yes": "reaction time is out of range"
+    }
+  },
+  "largeletter": {
+    "Description": "Large letter for the LG task",
+    "Levels": {
+      "H": "large letter is a H",
+      "T": "large letter is a T"
+    }
+  },
+  "smallletter": {
+    "Description": "Small letter for the LG task",
+    "Levels": {
+      "H": "small letter is a H",
+      "T": "small letter is a T"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "CHANGES": "e97def347ea3f90e34b331630fe54ae1aec43d5e",
+  "dataset_description.json": "4477ee0987321f0b64ffae6f01b26632fa2d1d85",
+  "task-ERNPsychometrics_events.json": "25f3fe21581ad6405776749647c0a220bd6ea5d1",
+  "participants.tsv": "a2504b9ad2bb27ecd1f3af0c0ee2a96602567274",
+  "participants.json": "130373aaba93adabecad005b326e76c44481c1d1",
+  "README": "def5caf522d6aaba2909678068de45c3c1f31c1a",
+  "sub-001/eeg/sub-001_task-flanker_events.tsv": "1cfbd7d2b8989ae1f1aa073ec3eb4a00cca79575",
+  "sub-001/eeg/sub-001_task-stroop_events.tsv": "b8cc5ef12aeb35f5dae509dd14279bf0b93b47f2",
+  "sub-001/eeg/sub-001_task-gonogo_events.tsv": "f1e2f69f297bf4da75f25bb89ef36e2382f4e34b"
+}

@@ -1,0 +1,11 @@
+{
+  "onset": {
+    "Description": "Time in seconds when the game playing starts"
+  },
+  "duration": {
+    "Description": "Time in seconds for the duration of the game playing in that run"
+  },
+  "condition_type": {
+    "Description": "The experimental condition of that run, boredom indicates low difficulty, frustration dicates high difficulty, flow indicates balanced difficulty where the difficulty changes based on participants' game performance"
+  }
+}

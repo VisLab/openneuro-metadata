@@ -1,0 +1,8 @@
+2.0.0 2016-11-07
+
+  - Converted to BIDS Std. 
+  - Removed sub-6_ses-timepoint2_task-probabilisticclassification_run-01_bold.nii.gz, sub-6_ses-timepoint2_task-probabilisticclassification_run-02_bold.nii.gz as there are no events files for these runs. 
+
+1.0.0 2011-10-06
+
+  -  initial release

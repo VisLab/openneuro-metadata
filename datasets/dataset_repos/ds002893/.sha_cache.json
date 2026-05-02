@@ -1,0 +1,9 @@
+{
+  "README": "afdbd5d3673d0c513bce7dd37712b3a8673ae8cb",
+  "dataset_description.json": "aac33b3f66636a01d231880db38a9cb683768df0",
+  "CHANGES": "b6b27521d2a89892e59a8833f6dd11e14c514e77",
+  "participants.json": "fed8c097ff8d523e48697b2fd2f6b419b5680b48",
+  "participants.tsv": "d401cf5cde4f2fa16539156e7d94f9a17734d371",
+  "task-AuditoryVisualShift_events.json": "7c7f7ea1555485debfab53d8a0a9a46aa356c6a1",
+  "sub-001/eeg/sub-001_task-AuditoryVisualShift_run-01_events.tsv": "d97e380b42bab8b098dbe9f1ec902045f563573e"
+}

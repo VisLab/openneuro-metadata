@@ -1,0 +1,12 @@
+This data comprises the human Kernel Flow2 recordings described in: Chekin, Y., Decker, D., Dehghani, H., Dubois, J., Field, R. M., Gopalakrishnan, V., Koch, E. M., Lerner, G., Aghajan, Z. M., Miller, N., Olvera, I., Patel, M. J., Perdue, K. L., Schmidt, J., & Szczepanski, V. (2025). A compact time domain diffuse optical tomography system for cortical neuroimaging. Imaging Neuroscience. https://doi.org/10.1162/imag_a_00475
+
+There are two subjects, and three task types:
+sub-001
+    - a finger tapping task
+    - a breath hold task
+sub-002
+    - an auditory task 
+
+The data is provided as HbO and HbR concentrations, as can be downloaded from the "SNIRF: Hb Moments" pipeline on the Kernel Portal. The preprocessing steps applied to the data are described [here](https://docs.kernel.com/docs/data-export-pipelines).
+
+For any further questions about this data, please read the publication.

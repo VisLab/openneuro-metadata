@@ -1,0 +1,11 @@
+2.0.1 2026-01-23
+  - updated readme
+2.0.0 2026-01-23
+  - reference to now published article: doi: https://doi.org/10.1162/IMAG.a.1088
+  - re-uploaded T1w images of two participant (sub-531453 and sub-982595)
+  - removed incorrect slice timing data from fmap and dwi json files (sub-351677 and sub-275592)
+1.0.1 2024-10-09
+  - added participants.tsv
+  - Acknowledgements field filled
+1.0.0 2024-10-08
+  - First version - metadata incomplete, participant table missing.

@@ -1,0 +1,30 @@
+{
+    "onset": {
+        "Description": "Event onset time relative to run start",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Event duration",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Type of event",
+        "Levels": {
+            "rest_start": "Beginning of eyes-open resting state block (single row event)"
+        }
+    },
+    "stim_file": {
+        "Description": "Associated stimulus file name if any, else 'n/a'"
+    },
+    "response_type": {
+        "Description": "Response effector or button label if any, else 'n/a'"
+    },
+    "response_time": {
+        "Description": "Latency between stimulus and response when applicable",
+        "Units": "s"
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "n/a",
+        "SoftwareName": "n/a"
+    }
+}

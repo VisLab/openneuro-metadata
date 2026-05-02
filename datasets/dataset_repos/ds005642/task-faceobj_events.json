@@ -1,0 +1,14 @@
+{
+	"eventnumber":{"description":"event number in whole experiment"},
+	"sequencenumber":{"description":"sequence number (0-69)"},
+	"presentationnumber":{"description":"presentation number, where every two sequences contains all 300 stimuli"},
+	"stim":{"description":"stimulus number (1:100 are face stimuli, 101:200 are matched objects, 201:300 are illusory faces)"},
+	"istarget":{"description":"target present (1) or absent (0)"},
+	"stimname":{"description":"file name of the stimulus"},
+	"response":{"description":"response to presence of target"},
+	"rt":{"description":"reaction time"},
+	"correct":{"description":"whether the response matches a target appearing"},
+	"time_stimon":{"description":"time of stimulus onset relative to start of experiment"},
+	"time_stimoff":{"description":"time of stimulus offset relative to start of experiment"},
+	"stimdur":{"description":"duration of stimulus presentation in seconds"}
+}

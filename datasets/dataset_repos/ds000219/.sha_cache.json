@@ -1,0 +1,11 @@
+{
+  "CHANGES": "63174fda60e260964d14073acd5ed424d4b9fc57",
+  "task-RPflavourtask_bold.json": "e8b0da028815c11f004d4d7e5f873e80fb614b8a",
+  "participants.tsv": "01081d0b9f9eb7186d8670bb99ff4a082041c79a",
+  "dataset_description.json": "59b5845beed8a832d81c223322cc40e91a4af88b",
+  "README": "6cf1679af81c4d6e2de902f4ccc2ee8332910ab1",
+  "sub-01/func/sub-01_task-RPflavourtask_run-01_events.tsv": "bcb070905478875e38d16c4ef86d4df4724745ea",
+  "sub-01/func/sub-01_task-RPflavourtask_run-02_events.tsv": "dcc325e1f8cf8ca26b76256d90b8ac3f115ba82a",
+  "sub-01/func/sub-01_task-RPflavourtask_run-03_events.tsv": "fa87381759351672792b459d6ee83ab6c6e26b2c",
+  "sub-01/func/sub-01_task-RPflavourtask_run-04_events.tsv": "004a6675952bb1391e8fa2ff1f965c13a129f378"
+}

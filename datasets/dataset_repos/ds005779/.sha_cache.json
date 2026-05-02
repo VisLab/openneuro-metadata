@@ -1,0 +1,19 @@
+{
+  "CHANGES": "5067836a4b578f9a7cc9aa1bcfc91545460cf9fe",
+  "participants.tsv": "92a8d1f5b577413e67a0f57a1158e10bf104a961",
+  "dataset_description.json": "0bc813c03793d77a9c924f450cf1fb03f5e50aa6",
+  "README": "101719070c9b4d5e595dc378033727483a1f9b6a",
+  "sub-01/eeg/sub-01_task-resting_events.tsv": "44a046ba48d59f78f9b9a346314df9f00790b4ba",
+  "sub-01/eeg/sub-01_task-testingrandom110RMT_events.tsv": "e55259a648dfb1879dc0bc0e45bbef542ace409d",
+  "sub-01/eeg/sub-01_task-testinghigh110RMT_events.tsv": "80fcba1a547a629b075dc8a41b1a6c9d58e70d94",
+  "sub-01/eeg/sub-01_task-testinglow110RMT_events.tsv": "118645ae90043e0321b95c5410077d7b4c4ef040",
+  "sub-01/eeg/sub-01_task-testingrandom120RMT_events.tsv": "8ac1d9834ec3a105913dc5f5282202364a922b2a",
+  "sub-01/eeg/sub-01_task-trainingblock1_events.tsv": "1bf13ae88eddab79d07a56e91dbf8979e866a025",
+  "sub-01/eeg/sub-01_task-trainingblock2_events.tsv": "d21c73ce9f3782539a3e855d00e41411d6b5928b",
+  "sub-01/eeg/sub-01_task-testinghigh120RMT_events.tsv": "f678f1d30123fdc191993638b2b8728ddf929a42",
+  "sub-01/eeg/sub-01_task-trainingblock3_events.tsv": "75b98568d8cbd71e47767ecff75e5b33aca5f00d",
+  "sub-01/eeg/sub-01_task-testinglow120RMT_events.tsv": "3fe7e09e8db45c40ff6b0536c20683947c4a77fa",
+  "sub-01/eeg/sub-01_task-trainingblock5_events.tsv": "449884bdb10f2d306e2d8d93a780752aa8360439",
+  "sub-01/eeg/sub-01_task-trainingblock6_events.tsv": "28d3e4fe9d3737005ff60de564d919149898a078",
+  "sub-01/eeg/sub-01_task-trainingblock4_events.tsv": "2804baa8ff16c3bb2cb7cfbe8e507c6d0b824d4a"
+}

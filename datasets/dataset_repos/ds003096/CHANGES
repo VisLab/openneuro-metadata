@@ -1,0 +1,8 @@
+1.0.2 2020-09-21
+  - fixed bids issue
+1.0.1 2020-09-21
+  - fixed corrupt/incomplete anat file for sub 960108
+
+1.0.0	2020-08-27
+
+	- Initial snapshot

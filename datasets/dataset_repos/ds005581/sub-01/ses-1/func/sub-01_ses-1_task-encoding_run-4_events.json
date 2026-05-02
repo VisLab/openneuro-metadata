@@ -1,0 +1,27 @@
+{
+  "onset": {
+    "LongName": "Stimulus onset",
+    "Description": "Onset of Stimulus",
+    "Units": "sec"
+  },
+  "duration": {
+    "LongName": "Stimulus duration",
+    "Units": "sec"
+  },
+  "accuracy": {
+    "LongName": "Size judgment accuracy",
+    "Description": "Accuracy if judging whether current object is bigger or smaller than previous object",
+    "Levels": {
+      "1": "Correct",
+      "0": "Incorrect"
+    }
+  },
+  "response_time": {
+    "LongName": "Response time",
+    "Units": "sec"
+  },
+  "image": {
+    "LongName": "Stimulus identifier",
+    "Description": "image number corresponding to condition information. For more details, visit the OSF respository related to this project"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "Acknowledgements": "TODO: whom you want to acknowledge",
+    "Authors": [
+        "Ylka Kolken",
+        "Chengran Li",
+        "Vincent van de Ven",
+        "Peter De Weerd",
+        "Ryszard Auksztulewicz",
+        "Roberta Bianco",
+        "Maria Chait",
+        "Federico De Martino"
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007156.v1.0.0",
+    "Funding": [],
+    "HowToAcknowledge": "",
+    "License": "CC0",
+    "Name": "Neural correlates of implicit memory for reoccurring sound patterns",
+    "ReferencesAndLinks": []
+}

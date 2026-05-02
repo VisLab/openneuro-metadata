@@ -1,0 +1,16 @@
+﻿Dataset description
+===================
+
+This dataset allows to explore how spatial resolution influences activations elicited when appetizing food pictures are viewed. 
+Twenty subjects were imaged at 3 T with two different voxel volumes, 3.4 μl (highres) and 27 μl (lowres).
+
+For each voxel volume, the stimulation paradigm consisted of alternating 18 blocks presenting, in a randomized order, either ready-to-eat edible objects, or pictures of items that were clearly unrelated to food. 
+54 different pictures were selected for each of the food-related and nonfood-related blocks. The food images depicted savory and sweet meals commonly served at breakfast, lunch and dinner. 
+Images were presented to each of the subjects in randomized order.
+
+After the fMRI session, all the participants were asked to rate each picture showing food for motivational salience on a 7-point scale (0: extremely repulsive; 1: very repulsive; 2: quite repul-
+sive; 3: neutral; 4: quite appetizing; 5: very appetizing; 6: extremely appetizing). The mean ± SD of these post-scanning ratings was 4.5 ± 1.2, significantly higher than 4 (paired Student’s t-test:
+t (54) = 12.2, p < 0.001), thus indicating that our subjects rated the pictures showing food as significantly appetizing.
+
+The acquisition methodology is more deeply described in the following articles:
+Iranpour J, Morrot G, Claise B, Jean B, Bonny J-M (2015) Using High Spatial Resolution to Improve BOLD fMRI Detection at 3T. PLoS ONE 10(11): e0141358. doi:10.1371/journal.pone.0141358

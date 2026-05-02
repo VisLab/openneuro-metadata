@@ -1,0 +1,11 @@
+{
+  "participants.tsv": "dd887bdc604447079a5a2626aa4f0ace03bfe57f",
+  "participants.json": "f79d70e9c89d4ec7f84447363d08f518f0d6b34c",
+  "task-movie_events.tsv": "5fff5d05a246fbe4bc709206c1e22e896a2402a4",
+  "CHANGES": "672180900176147ab39635a5b057ca7b3fe1e4e8",
+  "dataset_description.json": "4f29a737cb2f92ce46b9a34c2d9380481663be46",
+  "README.md": "d88dbfd0b89ee6cfe14dd61ffe9f7207842971ff",
+  "sub-01/ses-01/nirs/sub-01_ses-01_task-movie_events.tsv": "c3481d42eaa34485af600da971a02f799f58788c",
+  "sub-01/ses-03/nirs/sub-01_ses-03_task-movie_events.tsv": "5e46185d18f5e5e5341c62858253499e8294e357",
+  "sub-01/ses-02/nirs/sub-01_ses-02_task-movie_events.tsv": "5e46185d18f5e5e5341c62858253499e8294e357"
+}

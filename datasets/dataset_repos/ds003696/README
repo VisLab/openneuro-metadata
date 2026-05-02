@@ -1,0 +1,49 @@
+
+****Action-related object pairs - fMRI dataset****
+
+***Original paper***
+
+Xu, Liu, Almeida and Heinke (2021) The contributions of the ventral and the dorsal visual streams to the automatic processing of action relations of familiar and unfamiliar object pairs. In review.
+
+This dataset contains all raw and processed behavioral and fMRI data (anonymized) as well as analysis code, digital study materials, and laboratory log for the aforementioned paper. 
+
+***Dataset content overview***
+
+the data were organized following the BIDS specifications.
+
+**the laboratory log**
+	
+The lab log containing the scannning dates for each individual is provided here
+
+	|--- ./lab_log.tsv
+
+**the raw data**
+
+The raw MRI and fMRI recordings and other associated files including event files, behavioral recordings are hosted here
+
+	|--- ./sub-xxx/
+		|--- ses-01/
+		|	|--- func/	# task-affordance_run-[1-4] & task-localizer_run-[1-3]	
+		|--- ses-02/
+			|--- func/	# task-affordance_run-[5-8]
+			|--- anat/	# t1w
+
+**the pre-processed MRI data**
+
+The preprocessed MRI and fMRI recordings and other associated files are hosted here following the same organization as the raw data.
+
+	|--- ./derivatives/preproc-DPABI/
+		|--- sub-xxx/	
+		|--- ...
+
+**the stimuli materials**
+	
+The stimuli for task-affordance can be found here
+
+	|--- ./stimuli/
+	
+**the analysis code**
+	
+The code for preprocessing and all analyses are provided here
+
+	|--- ./code/

@@ -1,0 +1,12 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	1.0000000000	n/a	n/a	n/a	n/a	StartTrigger
+599.9970000000	n/a	n/a	n/a	n/a	n/a	boundary
+600.0000000000	1.0000000000	n/a	n/a	n/a	n/a	StartTrigger
+1199.9970000000	n/a	n/a	n/a	n/a	n/a	boundary
+1200.0000000000	1.0000000000	n/a	n/a	n/a	n/a	StartTrigger
+1799.9970000000	n/a	n/a	n/a	n/a	n/a	boundary
+1800.0000000000	1.0000000000	n/a	n/a	n/a	n/a	StartTrigger
+2399.9970000000	n/a	n/a	n/a	n/a	n/a	boundary
+2400.0000000000	1.0000000000	n/a	n/a	n/a	n/a	StartTrigger
+2999.9970000000	n/a	n/a	n/a	n/a	n/a	boundary
+3000.0000000000	1.0000000000	n/a	n/a	n/a	n/a	StartTrigger

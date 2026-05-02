@@ -1,0 +1,9 @@
+{
+    "BIDSVersion": "1.0.0rc3",
+    "Name": "mriquality",
+    "Authors": [
+        "Omar Maxim"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002848.v1.0.1",
+    "License": "CC0"
+}

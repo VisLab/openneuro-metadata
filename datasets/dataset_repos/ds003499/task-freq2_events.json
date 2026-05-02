@@ -1,0 +1,36 @@
+{
+    "sub": {
+        "LongName": "Subject ID",
+        "Description": "Subject identification number"
+    },
+    "onset": {
+        "LongName": "Stimulus onset",
+        "Description": "Stimulus onset time"
+    },
+    "duration": {
+        "LongName": "Stimulus duration",
+        "Description": "Stimulus duration (in seconds)"
+    },
+    "trial_type": {
+        "LongName": "Trial type",
+        "Description": "The first number indicates the frequency condition (1 or 5) and the second number indicates the item repetition number (1 - 5)"
+
+    },
+
+    "response": {
+        "LongName": "Response",
+        "Description": "The button the participant pressed",
+        "Levels": {
+            "1": "The participant responded that the stimulus was 'novel'",
+            "2": "The participant responded that the stimulus was 'repeated'"
+        }
+    },
+    "response_time": {
+        "LongName": "Response Time",
+        "Description": "Response time (seconds)"
+    },
+    "stim": {
+        "LongName": "Stimulus",
+        "Description": "The stimulus that appeared on the screen"
+    }}
+

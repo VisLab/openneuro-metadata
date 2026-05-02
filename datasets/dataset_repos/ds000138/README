@@ -1,0 +1,97 @@
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+This dataset consists of spinal cord data.
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000138/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000138.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.
+
+Known Issues
+------------
+N/A
+
+Bids-validator Output
+---------------------
+
+	1: You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. (code: 13 - SLICE_TIMING_NOT_DEFINED)
+		/sub-01/func/sub-01_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-01/sub-01_task-postheatstimulation_bold.json, /sub-01/func/sub-01_task-postheatstimulation_bold.json
+		/sub-01/func/sub-01_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-01/sub-01_task-preheatstimulation_bold.json, /sub-01/func/sub-01_task-preheatstimulation_bold.json
+		/sub-02/func/sub-02_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-02/sub-02_task-postheatstimulation_bold.json, /sub-02/func/sub-02_task-postheatstimulation_bold.json
+		/sub-02/func/sub-02_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-02/sub-02_task-preheatstimulation_bold.json, /sub-02/func/sub-02_task-preheatstimulation_bold.json
+		/sub-03/func/sub-03_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-03/sub-03_task-postheatstimulation_bold.json, /sub-03/func/sub-03_task-postheatstimulation_bold.json
+		/sub-03/func/sub-03_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-03/sub-03_task-preheatstimulation_bold.json, /sub-03/func/sub-03_task-preheatstimulation_bold.json
+		/sub-04/func/sub-04_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-04/sub-04_task-postheatstimulation_bold.json, /sub-04/func/sub-04_task-postheatstimulation_bold.json
+		/sub-04/func/sub-04_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-04/sub-04_task-preheatstimulation_bold.json, /sub-04/func/sub-04_task-preheatstimulation_bold.json
+		/sub-05/func/sub-05_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-05/sub-05_task-postheatstimulation_bold.json, /sub-05/func/sub-05_task-postheatstimulation_bold.json
+		/sub-05/func/sub-05_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-05/sub-05_task-preheatstimulation_bold.json, /sub-05/func/sub-05_task-preheatstimulation_bold.json
+		/sub-06/func/sub-06_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-06/sub-06_task-postheatstimulation_bold.json, /sub-06/func/sub-06_task-postheatstimulation_bold.json
+		/sub-06/func/sub-06_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-06/sub-06_task-preheatstimulation_bold.json, /sub-06/func/sub-06_task-preheatstimulation_bold.json
+		/sub-07/func/sub-07_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-07/sub-07_task-postheatstimulation_bold.json, /sub-07/func/sub-07_task-postheatstimulation_bold.json
+		/sub-07/func/sub-07_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-07/sub-07_task-preheatstimulation_bold.json, /sub-07/func/sub-07_task-preheatstimulation_bold.json
+		/sub-08/func/sub-08_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-08/sub-08_task-postheatstimulation_bold.json, /sub-08/func/sub-08_task-postheatstimulation_bold.json
+		/sub-08/func/sub-08_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-08/sub-08_task-preheatstimulation_bold.json, /sub-08/func/sub-08_task-preheatstimulation_bold.json
+		/sub-09/func/sub-09_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-09/sub-09_task-postheatstimulation_bold.json, /sub-09/func/sub-09_task-postheatstimulation_bold.json
+		/sub-09/func/sub-09_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-09/sub-09_task-preheatstimulation_bold.json, /sub-09/func/sub-09_task-preheatstimulation_bold.json
+		/sub-10/func/sub-10_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-10/sub-10_task-postheatstimulation_bold.json, /sub-10/func/sub-10_task-postheatstimulation_bold.json
+		/sub-10/func/sub-10_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-10/sub-10_task-preheatstimulation_bold.json, /sub-10/func/sub-10_task-preheatstimulation_bold.json
+		/sub-11/func/sub-11_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-11/sub-11_task-postheatstimulation_bold.json, /sub-11/func/sub-11_task-postheatstimulation_bold.json
+		/sub-11/func/sub-11_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-11/sub-11_task-preheatstimulation_bold.json, /sub-11/func/sub-11_task-preheatstimulation_bold.json
+		/sub-12/func/sub-12_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-12/sub-12_task-postheatstimulation_bold.json, /sub-12/func/sub-12_task-postheatstimulation_bold.json
+		/sub-12/func/sub-12_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-12/sub-12_task-preheatstimulation_bold.json, /sub-12/func/sub-12_task-preheatstimulation_bold.json
+		/sub-13/func/sub-13_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-13/sub-13_task-postheatstimulation_bold.json, /sub-13/func/sub-13_task-postheatstimulation_bold.json
+		/sub-13/func/sub-13_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-13/sub-13_task-preheatstimulation_bold.json, /sub-13/func/sub-13_task-preheatstimulation_bold.json
+		/sub-14/func/sub-14_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-14/sub-14_task-postheatstimulation_bold.json, /sub-14/func/sub-14_task-postheatstimulation_bold.json
+		/sub-14/func/sub-14_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-14/sub-14_task-preheatstimulation_bold.json, /sub-14/func/sub-14_task-preheatstimulation_bold.json
+		/sub-15/func/sub-15_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-15/sub-15_task-postheatstimulation_bold.json, /sub-15/func/sub-15_task-postheatstimulation_bold.json
+		/sub-15/func/sub-15_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-15/sub-15_task-preheatstimulation_bold.json, /sub-15/func/sub-15_task-preheatstimulation_bold.json
+		/sub-16/func/sub-16_task-postheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-postheatstimulation_bold.json, /sub-16/sub-16_task-postheatstimulation_bold.json, /sub-16/func/sub-16_task-postheatstimulation_bold.json
+		/sub-16/func/sub-16_task-preheatstimulation_bold.nii.gz
+			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-preheatstimulation_bold.json, /sub-16/sub-16_task-preheatstimulation_bold.json, /sub-16/func/sub-16_task-preheatstimulation_bold.json
+
+	2: Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)
+		/sub-03/func/sub-03_task-preheatstimulation_bold.nii.gz
+			 The most common set of dimensions is: 288,288,10,64 (voxels), This file has the dimensions: 288,288,10,60 (voxels).
+
+        Summary:                Available Tasks:             Available Modalities: 
+        88 Files, 1.07GB        post heat stimulation        bold                  
+        16 - Subjects           pre heat stimulation                               
+        1 - Session                                                                
+

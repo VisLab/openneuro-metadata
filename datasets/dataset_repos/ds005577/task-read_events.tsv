@@ -1,0 +1,37 @@
+onset	duration	trial_type
+0	2	instructions
+2	18.4	lexical decision
+20.4	15	rest
+35.4	2	instructions
+37.4	18.4	line orientation
+55.8	15	rest
+70.8	2	instructions
+72.8	18.4	lexical decision
+91.2	15	rest
+106.2	2	instructions
+108.2	18.4	line orientation
+126.6	15	rest
+141.6	2	instructions
+143.6	18.4	lexical decision
+162	15	rest
+177	2	instructions
+179	18.4	line orientation
+197.4	15	rest
+212.4	2	instructions
+214.4	18.4	lexical decision
+232.8	15	rest
+247.8	2	instructions
+249.8	18.4	line orientation
+268.2	15	rest
+283.2	2	instructions
+285.2	18.4	lexical decision
+303.6	15	rest
+318.6	2	instructions
+320.6	18.4	line orientation
+339	15	rest
+354	2	instructions
+356	18.4	lexical decision
+374.4	15	rest
+389.4	2	instructions
+391.4	18.4	line orientation
+409.8	15	rest

@@ -1,0 +1,25 @@
+{
+    "Name": "ROI Dataset",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "derivative",
+    "Description": "ROI Dataset Associated with https://doi.org/10.1017/S0954579425100643",
+    "Authors": [
+        "Lindenmuth, Morgan",
+        "Chen, Ya-Yun",
+        "Lee, Tae-Ho",
+        "Lee, Jacob",
+        "Ollendick, Thomas",
+        "Casas, Brooks",
+        "Kim-Spoon, Jungmeen"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1017/S0954579425100643"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "Manual"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007584.v1.0.0",
+    "License": "CC0"
+}

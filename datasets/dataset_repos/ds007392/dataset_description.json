@@ -1,0 +1,18 @@
+{
+    "Name": "Telomere Lengthening Technologies: Current Landscape and Outlook _ unexakorea dataset",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "unexakorea"
+    ],
+    "License": "CC0",
+    "GeneratedBy": [
+        {
+            "Name": "Telomere Lengthening Technologies: Current Landscape and Outlook _ unexakorea dataset",
+            "Version": "v7",
+            "Description": "BIDS wrapper for hosting non-imaging source documents under sourcedata/ on OpenNeuro."
+        }
+    ],
+    "SourceDatasets": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007392.v3.0.2"
+}

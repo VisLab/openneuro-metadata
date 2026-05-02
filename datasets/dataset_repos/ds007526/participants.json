@@ -1,0 +1,52 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "subject_id": {
+        "Description": "Unique original subject identifier"
+    },
+    "group": {
+        "Description": "Group assignment of the participant",
+        "Levels": {
+            "HC": "Healthy Control",
+            "PD": "Parkinson's Disease"
+        }
+    },
+    "updrs_part_iii": {
+        "Description": "Motor Disorders Society Unified Parkinson's Disease Rating Scale, part III (motor examination)"
+    },
+    "updrs_total": {
+        "Description": "Motor Disorders Society Unified Parkinson's Disease Rating Scale, total score"
+    },
+    "moca": {
+        "Description": "Montreal Cognitive Assessment score, a measure of cognitive function"
+    },
+    "age": {
+        "Description": "Age of the participant at time of testing",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "Biological sex of the participant",
+        "Levels": {
+            "F": "female",
+            "M": "male"
+        }
+    },
+    "disease_duration": {
+        "Description": "Time passed since the participant was diagnosed with Parkinson's disease",
+        "Units": "months"
+    },
+    "ledd": {
+        "Description": "Levodopa Equivalent Daily Dose, a standardized measure of the total daily dose of anti-parkinsonian medications",
+        "Units": "mg"
+    },
+    "pigd_score": {
+        "Description": "Postural Instability and Gait Difficulty score, calculated from specific items in the MDS-UPDRS"
+    },
+    "td_score": {
+        "Description": "Tremor Dominant score, calculated from specific items in the MDS-UPDRS"
+    },
+    "ctt": {
+        "Description": "Color Trails Test time duration, a measure of executive function and processing speed."
+    }
+}

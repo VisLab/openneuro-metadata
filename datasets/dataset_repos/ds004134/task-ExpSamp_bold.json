@@ -1,0 +1,18 @@
+{
+	"TaskName": "ExpSamp",
+	"Modality": "MR",
+	"MagneticFieldStrength": 3,
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Magnetom Allegra",
+	"InstitutionName": "University of Liege",
+	"SliceThickness": 3,
+	"EchoTime": 0.03,
+	"RepetitionTime": 2.04,
+	"BaseResolution": 64,
+	
+	"PercentPhaseFOV": 100,
+	"PercentSampling": 100,
+	"PhaseEncodingSteps": 64,
+	"AcquisitionMatrixPE": 64,
+	"ReconMatrixPE": 64	
+}

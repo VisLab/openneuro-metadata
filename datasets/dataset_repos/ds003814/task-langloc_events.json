@@ -1,0 +1,25 @@
+{
+	"trial_type": {
+		"LongName": "Trial Type",
+		"Description": "Trial condition labels",
+		"Levels": {
+			"Sentence": "Visually presented sentences",
+			"NonwordList": "Visually presented lists of nonwords"
+		}
+	},
+	"trial_type_id": {
+		"LongName": "Trial Type ID",
+		"Description": "Trial condition IDs",
+		"Levels": {
+			"1": "Sentence",
+			"2": "NonwordList"
+		}
+	},
+	"StimulusPresentation": {
+		"OperatingSystem": "Mac OS 10.14.6",
+		"SoftwareName": "Psychtoolbox",
+		"SoftwareRRID": "SCR_002881",
+		"SoftwareVersion": "3.0.16",
+		"Code": "https://osf.io/5yjgh/"
+	}
+}

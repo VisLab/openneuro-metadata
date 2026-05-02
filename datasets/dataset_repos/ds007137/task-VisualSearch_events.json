@@ -1,0 +1,32 @@
+{
+  "onset": {
+    "Description": "Event onset time relative to the start of the EEG recording.",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event.",
+    "Units": "s"
+  },
+  "sample": {
+    "Description": "Sample at which event occurred"
+  },
+  "value": {
+    "Description": "Original numeric event code imported from the EEG acquisition system.",
+    "Levels": {
+      "boundary" : "boundary event",
+      "111": "Target Blue Left Top",
+      "112": "Target Blue Left Bottom",
+      "121": "Target Blue Right Top",
+      "122": "Target Blue Right Bottom",
+      "211": "Target Pink Left Top",
+      "212": "Target Pink Left Bottom",
+      "221" : "Target Pink Right Top",
+      "222" : "Target Pink Right Bottom",
+      "201" : "Response Correct",
+      "202" : "Response Incorrect",
+      "255" : "unknown",
+      "1" : "unknown",
+      "4" : "unknown"
+    }
+  }
+}

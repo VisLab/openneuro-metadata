@@ -1,0 +1,13 @@
+{
+	"RepetitionTime": 2,
+	"EchoTime": 0.027,
+	"FlipAngle": 77,
+	"PulseSequenceType": "EPI",
+	"Manufacturer": "GE",
+	"TaskDescription": "Passive viewing of emotional faces",
+	"TaskName": "emotional faces",
+	"CogAtlasID": "https://www.cognitiveatlas.org/task/id/trm_4c899211a965c/"
+
+}
+
+

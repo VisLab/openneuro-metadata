@@ -1,0 +1,8 @@
+1.0.0 2026-01-09
+  - 61 Participants
+0.1.0 (Initial OpenNeuro draft)
+ - Converted functional runs from run-A/B to BIDS run-01/run-02
+ - Converted run-1 etc. to run-01 format
+ - Added dataset_description.json, README, and CHANGES
+ - Applied anonymization and subject re-mapping
+ - Verified BIDS compliance at structure level

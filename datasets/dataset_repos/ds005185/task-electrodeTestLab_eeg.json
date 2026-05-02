@@ -1,0 +1,13 @@
+{
+    "TaskName": "electrodeTestLab",
+    "TaskDescription": "Subject watched a short video clip with various instructions (jaw clenching, eyes open/closed, eyes moving left & right), to be able to compare those results to the ASSR results.",
+    "MiscChannelCount": 12,
+    "EEGChannelCount": 8,
+    "EOGChannelCount": 2,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 3,
+    "SamplingFrequency": 500,
+    "PowerLineFrequency": 50,
+    "EEGReference": "common",
+    "SoftwareFilters": "n/a"
+}

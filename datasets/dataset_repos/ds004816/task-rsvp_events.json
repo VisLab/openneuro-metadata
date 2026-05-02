@@ -1,0 +1,19 @@
+{
+	"eventnumber":{"Description":"the presentation number"},
+	"sequencenumber":{"Description":"the sequence number"},
+	"condition":{"Description":"0 for report objects, and 1 for report letters"},
+	"streamnumber":{"Description":"unique stream number (streams were repeated once in each attention condition)"}, 
+	"stimnumber":{"Description":"presentation number within the stream"}, 
+	"objectstimnumber":{"Description":"reference to object"}, 
+	"letterstimnumber":{"Description":"reference to letter"}, 
+	"objecttarget":{"Description":"1 when the object was a 2-back"}, 
+	"lettertarget":{"Description":"1 when the letter was a 2-back"}, 
+	"is2back":{"Description":"1 when subject was supposed to respond (2-back in the right condition)"}, 
+	"objectstim":{"Description":"the image presented"}, 
+	"letterstim":{"Description":"the letter presented"}, 
+	"response":{"Description":"0 when no response, or a-b-c-d for one of the 4 response buttons"}, 
+	"rt":{"Description":"time of response, seconds (s) relative to experiment start"}, 
+	"correct":{"Description":"whether a response was in response to a 2-back"}, 
+	"time_stimon":{"Description":"stimulus onset time (s), relative to experiment start"}, 
+	"time_stimoff":{"Description":"stimulus offset time (s), relative to experiment start"}
+}

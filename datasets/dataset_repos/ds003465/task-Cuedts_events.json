@@ -1,0 +1,49 @@
+{
+  "onset": {
+	"Description": "Trial onset (CueSlide.OnsetTime in eprime output).",
+    "Units": "seconds"
+  },
+  "duration": {
+	"Description": "Trial duration.",
+    "Units": "seconds"
+  },
+  "trial_type": {
+        "Description": "Congruency status of Probe: whether the correct Probe response depends upon the Cue instructions. (Congruency in eprime output).",
+        "Levels": {
+            "Congruent": "Same response (button press) made to the Probe, irrespective of the Cue. Low cognitive control demands.",
+            "Incongruent": "Correct response to the Probe depends on the Cue. High cognitive control demands."
+        }
+  },
+  "trial_cue": {
+	"Description": "Cue (instructions) for each trial (TaskCue in eprime output).",
+    "Levels": {
+            "AttendLetter": "Respond with button 1 if the Probe letter is a vowel; button 2 if a consonant.",
+            "AttendNumber": "Respond with button 1 if the Probe number is even; button 2 if odd."
+        }
+  },
+  "trial_switch": {
+	"Description": "Whether the current trial's Cue is the same as that of the previous trial (repeat) or not (switch). (n_Switch in eprime output).",
+    "Levels": {
+            "switch": "Current trial Cue is different than that of the previous trial. (n_Switch=1)",
+            "repeat": "Current trial Cue is the same as that of the previous trial. (n_Switch=0)"
+        }
+  },
+  "response_time": {
+	"Description": "Time between appearance of Probe and button press (TargetSlide.RT in eprime output).",
+    "Units": "seconds"
+  },
+  "response_button": {
+	"Description": "Whether the button under the first or second finger of the right hand was pressed. (TargetSlide.RESP in eprime output).",
+    "Levels": {
+      "1": "button 1",
+      "2": "button 2"
+    }
+  },
+  "response_accuracy": {
+	"Description": "If the trial response was correct. (TargetSlide.ACC in eprime output).",
+    "Levels": {
+      "0": "incorrect",
+      "1": "correct"
+    }
+  }
+}

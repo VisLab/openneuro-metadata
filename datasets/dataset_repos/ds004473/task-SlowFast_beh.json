@@ -1,0 +1,55 @@
+{
+  "block": {
+    "Description": "Number of block shown with pause in between"
+  },
+  "correct": {
+    "Description": "Whether the subject was correct"
+  },
+  "fix_duration": {
+    "Description": "How long the fixation cross was displayed on that trial",
+    "Units": "seconds"
+  },
+  "fix_onset_time": {
+    "Description": "When, relative to the start of the trial, the fixation cross was intended to be shown",
+    "Units": "seconds"
+  },
+  "fixation_time": {
+    "Description": "When, relative to the start of the trial, the fixation cross was actually shown",
+    "Units": "seconds"
+  },
+  "isi_duration": {
+    "Description": "Intended amount of time between showing fixation cross and showing the target",
+    "Units": "seconds"
+  },
+  "go_time": {
+    "Description": "When, relative to the start of the trial, the target (< or >) was shown",
+    "Units": "seconds"
+  },
+  "left_or_right": {
+    "Description": "Whether a left or a right carrot (arrow) was shown"
+  },
+  "response_time": {
+    "Description": "Time of the response relative to the start of the trial",
+    "Units": "seconds"
+  },
+  "fast_or_slow": {
+    "Description": "Whether the subject was limited in their response time (slow) or not"
+  },
+  "trial_length": {
+    "Description": "The total length of the trial",
+    "Units": "seconds"
+  },
+  "trial_number": {
+    "Description": "Order that this stimulus was shown"
+  },
+  "RT": {
+    "Description": "Response time relative to the target onset",
+    "Units": "seconds"
+  },
+  "keypressed": {
+    "Description": "Which key was pressed (Psychtoolbox key code)"
+  },
+  "pd_parser_sample": {
+    "Description": "The sample index of the electrophysiology data found by `pd-parser` for when the trial cue was shown"
+  }
+}

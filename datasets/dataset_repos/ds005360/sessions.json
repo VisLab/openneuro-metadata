@@ -1,0 +1,32 @@
+{
+    "session_id": {
+        "Description": "Participant experimental session identifier"
+    },
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "est_cycle_phase": {
+        "Description": "Estimated cycle phase during experiment session",
+        "Levels": {
+            "L": "Mid-luteal",
+            "M": "Menses",
+            "O": "Ovulation"
+        }
+    },
+    "E2": {
+        "Description": "Serum 17beta-estradiol levels at session",
+        "Units": "pg/ml"
+    },
+    "P4": {
+        "Description": "Serum progesterone levels at session",
+        "Units": "ng/ml"
+    },
+    "LH": {
+        "Description": "Serum luteinizing hormone levels at session",
+        "Units": "mIU/ml"
+    },
+    "FSH": {
+        "Description": "Serum follicle-stimulating hormone levels at session",
+        "Units": "mIU/ml"
+    }
+}

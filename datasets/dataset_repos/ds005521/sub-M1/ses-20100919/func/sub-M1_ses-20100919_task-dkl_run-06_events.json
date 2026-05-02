@@ -1,0 +1,17 @@
+{
+  "onset": {
+    "Description": "The onset of the event.",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "The duration of the event.",
+    "Units": "seconds"
+  },
+  "color": {
+    "Description": "Color is the polar angle in an equiluminant plane of the Derrington-Krauskopf-Lennie (DKL) space. This number defines the hue."
+  },
+  "contrast": {
+    "Description": "Refers to percentage of the maximum power produced by the computer monitor used during the experiment along color axis. The absolute cone-contrast values for each of these are defined in the paper.",
+    "Units": "percent"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "CHANGES": "34847124b9835d832b6a7ccc5f20e796faac793f",
+  "task-MOM_recording-eyetracking_physio.json": "50b00f584178cea070ea6b3a27b247b16a5d6107",
+  "task-MOM_events.json": "3742b08918606e990c272b3921e04550b3191208",
+  "README.txt": "07e985f465bf73175484768be31a1eb61ceafa23",
+  "participants.tsv": "6037e69e10f2c3a09f89588b8d8e758087251493",
+  "participants.json": "528eae91437f2f9be83c7cd3b9bc4f98d256699d",
+  "dataset_description.json": "43a23fadb6c8902dc86c95430865a3bae8be0427",
+  "task-MOM_eeg.json": "aa346138b538f9f48a84876939f6d154e6a9eae9",
+  "sub-01/eeg/sub-01_task-MOM_run-02_events.tsv": "5e1727497141bedb01be18bf9ddda3e89e5336ac",
+  "sub-01/eeg/sub-01_task-MOM_run-03_events.tsv": "26694bcecbda96b8ebfc3b919d18960fe7194fe6",
+  "sub-01/eeg/sub-01_task-MOM_run-05_events.tsv": "e86fa4e56f4c9deff2117b73e0e274fd1260cfaf",
+  "sub-01/eeg/sub-01_task-MOM_run-04_events.tsv": "79d0f9accc6fe01f7c1fc1477900cded7641ecfa",
+  "sub-01/eeg/sub-01_task-MOM_run-06_events.tsv": "353d24712ca28571cfed40d3acd92a99bca0afc1",
+  "sub-01/eeg/sub-01_task-MOM_run-07_events.tsv": "e5299f8826f0969fd25e5644ed24f65d6157a6af",
+  "sub-01/eeg/sub-01_task-MOM_run-01_events.tsv": "26ede26d152f565acf46d6ac605a181f5061ac19"
+}

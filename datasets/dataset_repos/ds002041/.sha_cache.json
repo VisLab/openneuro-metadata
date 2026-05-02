@@ -1,0 +1,12 @@
+{
+  "README": "6e207e0cd13dc42c4efead5a7edbff75399ce4d6",
+  "task-rest_acq-fallypride_rec-acdyn_pet.json": "f2129e2f5e7a14f14b8dd82d65be6a891d376231",
+  "dataset_description.json": "48151a6e9910a5e538d9a9a59137a609a419fe19",
+  "CHANGES": "043b9ffc248ac741133493dbda917a9a13742046",
+  "task-TD_bold.json": "3642dafc097cebbaf7cc9794df8375615033dfce",
+  "task-TD_events.json": "e0e96805dbb3d6983105f0b05370c4f19a2ddc54",
+  "participants.json": "5fc55583b8053178992845dc2f100fbf65e21264",
+  "participants.tsv": "3fb684a3eb9d42cd49c459cff7e2703d67093f30",
+  "sub-2001/func/sub-2001_task-TD_run-01_events.tsv": "c5e74983ce55fce5e8067cd17ff1460f813bf436",
+  "sub-2001/func/sub-2001_task-TD_run-02_events.tsv": "4639357568e31360373e1e31627bab2753b4ad54"
+}

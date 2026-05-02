@@ -1,0 +1,60 @@
+{
+  "trial_type": {
+    "Description": "BrainVision event number and type (string)"
+  },
+  "value": {
+    "Description": "Event value (string)",
+    "Levels": {
+      "S1": "Condition 1 cue",
+      "S2": "Condition 2 cue",
+      "S3": "Condition 3 cue",
+      "S4": "Condition 4 cue",
+      "S11": "Condition 1 start of round",
+      "S12": "Condition 2 start of round",
+      "S13": "Condition 3 start of round",
+      "S14": "Condition 4 start of round",
+      "S21": "Condition 1 participant left button press",
+      "S22": "Condition 2 participant left button press",
+      "S23": "Condition 3 participant left button press",
+      "S24": "Condition 4 participant left button press",
+      "S31": "Condition 1 participant right button press",
+      "S32": "Condition 2 participant right button press",
+      "S33": "Condition 3 participant right button press",
+      "S34": "Condition 4 participant right button press",
+      "S41": "Condition 1 computer left button press",
+      "S42": "Condition 2 computer left button press",
+      "S43": "Condition 3 computer left button press",
+      "S44": "Condition 4 computer left button press",
+      "S51": "Condition 1 computer right button press",
+      "S52": "Condition 2 computer right button press",
+      "S53": "Condition 3 computer right button press",
+      "S54": "Condition 4 computer right button press",
+      "S61": "Condition 1 crash",
+      "S62": "Condition 2 crash",
+      "S63": "Condition 3 crash",
+      "S64": "Condition 4 crash",
+      "S71": "Condition 1 success",
+      "S72": "Condition 2 success",
+      "S73": "Condition 3 success",
+      "S74": "Condition 4 success",
+      "S81": "Condition 1 points screen",
+      "S82": "Condition 2 points screen",
+      "S83": "Condition 3 points screen",
+      "S84": "Condition 4 points screen"
+    }
+  },
+  "onset": {
+    "Description": "Event onset",
+    "Units": "milisecond"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "milisecond"
+  },
+  "channel": {
+    "Description": "Channel number",
+    "Levels": {
+      "x0": "All channels"
+    }
+  }
+}

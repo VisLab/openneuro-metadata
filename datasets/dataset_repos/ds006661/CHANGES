@@ -1,0 +1,6 @@
+1.0.2 2025-11-01
+  - Fixed sub-001_task-floc_run-01_bold.nii.gz
+1.0.1 2025-09-12
+  - Updated dataset_description.json
+1.0.0 2025-09-12
+  - Publish the initial dataset

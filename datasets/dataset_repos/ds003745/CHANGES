@@ -1,0 +1,15 @@
+2.1.1 2024-01-07
+  - add stimuli and code subfolders to dataset and update .bidsignore
+2.1.0 2024-01-03
+  - add data paper link and update title
+2.0.2 2023-07-24
+  - update authors/acknowledgments
+2.0.1 2023-07-05
+  - ignore sub-2* folders since they are only behavioral data
+2.0.0 2023-07-05
+  - Add other task data and derivatives
+0.0.1  Initial data acquired
+TODOs:
+	- verify and possibly extend information in participants.tsv (see for example http://datasets.datalad.org/?dir=/openfmri/ds000208)
+	- fill out dataset_description.json, README, sourcedata/README (if present)
+	- provide _events.tsv file for each _bold.nii.gz with onsets of events (see  '8.5 Task events'  of BIDS specification)

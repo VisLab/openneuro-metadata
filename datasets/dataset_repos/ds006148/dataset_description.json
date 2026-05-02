@@ -1,0 +1,61 @@
+{
+    "Name": "The Multimodal Dataset to Investigate Task-Evoked Negative BOLD Response and Neurodegeneration",
+    "GeneratedBy": [
+        {
+            "Name": "BIDScoin",
+            "Version": "4.5.1.dev0",
+            "Description:": "A flexible GUI application suite that converts source datasets to BIDS",
+            "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+        }
+    ],
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Bardiya Ghaderi Yazdi",
+        "Sindy Ozoria Blake",
+        "Peter Chernek",
+        "Jenseric Calimag",
+        "Xiuyuan Hugh Wang",
+        "Gloria C. Chiang",
+        "Tracy A. Butler",
+        "Silky Singh Pahlajani",
+        "Jacob Shteingart",
+        "Farnia Feiz",
+        "Hani Hojjati",
+        "Hengda He",
+        "Siddharth Nayak",
+        "Antonio Fernandez",
+        "Jonathan P Dyke",
+        "Saman Gholipour Picha",
+        "Qolamreza Razlighi"
+    ],
+    "Acknowledgements": "We wanted to acknowledge all the participants that selflesly participated in this project.",
+    "HowToAcknowledge": "Researchers should acknowledge this dataset, citing the dataset and the publication that will be added to the dataset in the future",
+    "Funding": [
+        "Research reported in this publication was supported by the National Institute on Aging - National Institutes of Health grants awarded to Ray Razlighi: R01AG057962, R01AG085972 and by the the National Center For Advancing Translational Sciences of the National Institutes of Health under Award Number UL1TR002384. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health"
+    ],
+    "EthicsApprovals": [
+        "All research participants were consented in compliance with Weill Cornell Medicine Institutional Review Board."
+    ],
+    "ReferencesAndLinks": [
+        "Hojjati SH, Chen K, Chiang GC, Kuceyeski A, Wang XH, Razlighi QR, et al. Utilizing structural MRI and unsupervised clustering to differentiate schizophrenia and Alzheimer's disease in late-onset psychosis. Behav Brain Res. 2025;480:115386.",
+        "Hojjati SH, Butler TA, de Leon M, Gupta A, Nayak S, Luchsinger JA, et al. Inter-network functional connectivity increases by beta-amyloid and may facilitate the early stage of tau accumulation. Neurobiol Aging. 2025;148:16-26.",
+        "He H, Razlighi QR, Gazes Y, Habeck C, Stern Y. Network-based amyloid-β pathology predicts subsequent cognitive decline in cognitively normal older adults. bioRxiv. 2024.",
+        "Nayak S, Hojjati SH, Ozoria S, Chernek P, Calimag J, Ghaderi B, et al. Differential Pattern of Tau Deposition is Associated with Each Cognitive Score in Cognitively Unimpaired Elders. Alzheimer's & Dementia. 2024;20(S1):e090023. ",
+        "Hojjati SH, Feiz F, Nayak S, Shteingart J, Ozoria S, Picha SG, et al. Hub brain regions for the remote spatial association between tau and Amyloid-β proteins. Alzheimer's & Dementia. 2023;19(S16):e076456.",
+        "Hojjati SH, Butler TA, de Leon MJ, Gupta AH, Nayak S, Luchsinger JA, et al. Remote associations between beta-amyloid and tau are mediated by between-network connectivity. Alzheimer's & Dementia. 2024;20(S2):e086460.",
+        "Hojjati SH, Butler TA, Luchsinger JA, Benitez R, de Leon M, Nayak S, et al. Increased between-network connectivity: A risk factor for tau elevation and disease progression. Neurosci Lett. 2024;840:137943.",
+        "Hojjati SH, Butler TA, Leon Md, Gupta A, Nayak S, Luchsinger JA, et al. Between-networks hyperconnectivity is induced by beta-amyloid and may facilitate tau spread. medRxiv. 2024:2024.01.03.24300709.",
+        "Hojjati SH, Chiang GC, Butler TA, de Leon M, Gupta A, Li Y, et al. Remote Associations Between Tau and Cortical Amyloid-β Are Stage-Dependent. J Alzheimers Dis. 2024;98(4):1467-82.",
+        "Nayak S, Hojjati SH, Feiz F, Ozoria S, Shteingart J, Picha SG, et al. Functional Connectivity of Entorhinal Cortex Predicts Tau in the Elderly. Alzheimer's & Dementia. 2023;19(S14):e077407.",
+        "Hani Hojjati S, Butler TA, Chiang GC, Habeck C, RoyChoudhury A, Feiz F, et al. Distinct and joint effects of low and high levels of Aβ and tau deposition on cortical thickness. Neuroimage Clin. 2023;38:103409.",
+        "Hojjati SH, Habeck C, Butler TA, RoyChoudhury AH, Luchsinger JA, Devanand DP, et al. Early accumulation of Aβ and Tau is associated with increase in cortical thickness. Alzheimer's & Dementia. 2022;18(S5):e063715.",
+        "Hojjati SH, Chiang GC, Butler TA, Yazdi BG, Ozoria S, Chernek P, et al. Tau Progression Index (TPI): An individualized, clinically applicable, multimodally-derived score to predict AD progression. medRxiv. 2025:2025.01.14.25320550.",
+        "Nayak S, Hojjati SH, Ozoria-Blake S, Feiz F, Shteingart J, Guerrero AF, et al. Interaction between task-evoked and spontaneous brain activities: Insights from two event-related fMRI studies. bioRxiv. 2023:2023.09.16.557985.",
+        "Picha SG, Hojjati SH, Nayak S, Ozoria S, Chernek P, Calimag J, et al. Negative BOLD Responses Surpass Positive Responses in Task Specificity, Reflecting Neural Reconfigurations Better Than Functional Connectivity. medRxiv. 2024.",
+        "Yazdi BG, Hojjati H, Foldi N, Razlighi Q. Differential Patterns of Tau Deposition in the Cognitively Unimpaired individuals is Linked to different cognitive declines (P1-3.011). Neurology. 2025;104(7_Supplement_1):5182.",
+        "https://github.com/Donders-Institute/bidscoin"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006148.v1.0.6"
+}

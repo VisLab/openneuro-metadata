@@ -1,0 +1,14 @@
+{
+  "participants.tsv": "478fa291226034b20712e4f4d05d1a276b4b364d",
+  "CHANGES": "7f2f27b6e0173611377aae63043890765cf3aec2",
+  "task-mag_bold.json": "c9dd487bdfe9701da641cac5c08d5d931b07de4e",
+  "task-mag_events.json": "08f595c422857d8ce946d9888280b2c352a4a97f",
+  "T1w_group.html": "a43694af9267ca6b95f6082bc51143e0469e1172",
+  "dataset_description.json": "7565fbe753fdaa310f114acc9ad448c991598702",
+  "bold_group.html": "c12d0372cb1fb295d6fff4741138cdd36d44ecf0",
+  "README": "0d698aeb6d36b0b5a14256a3052488f2b1b722e4",
+  "sub-01/func/sub-01_task-mag_run-04_events.tsv": "09f9f6b9991fd22a056ab29f34f60e78e5e90042",
+  "sub-01/func/sub-01_task-mag_run-01_events.tsv": "8effa1bf3c520dd823be4f8cd5c05bfa3c3d92ba",
+  "sub-01/func/sub-01_task-mag_run-03_events.tsv": "c3e174d821ea6d56c1795eb90a6b0edde8854040",
+  "sub-01/func/sub-01_task-mag_run-02_events.tsv": "3eb56a656535b60d209a698e35181779831beada"
+}

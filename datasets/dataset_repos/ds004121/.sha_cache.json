@@ -1,0 +1,12 @@
+{
+  "task-DriveWithTaskAudio_eeg.json": "c45fd8904ddfce3167559b894980765527c4d6bd",
+  "CHANGES": "905cf5f689cc906b962caf08c17a9287f71ae352",
+  "participants.json": "61666090fa285ac7fbd5d95510cfed3b21b7c520",
+  "README": "193e2fa9071092567a0b749f56bde48996170b88",
+  "participants.tsv": "6933ccb450b64476a7259edc728f016528276062",
+  "dataset_description.json": "903ff6ff905459ed8a5695288b8caf66f37e2d3c",
+  "task-DriveWithTaskAudio_events.json": "5e2bdb46e3fe47b18d3f58ba77b92bcfc091b263",
+  "sub-01/ses-01/eeg/sub-01_ses-01_task-DriveWithTaskAudio_run-2_events.tsv": "c2228cbb769b29de5a75bbed3d4c93f3eb6f0b28",
+  "sub-01/ses-01/eeg/sub-01_ses-01_task-DriveWithTaskAudio_run-3_events.tsv": "a3e6fc87b7e2df06767e7fa5d414c13446331ded",
+  "sub-01/ses-01/eeg/sub-01_ses-01_task-DriveWithTaskAudio_run-1_events.tsv": "a668a2fec96e8e617e2ce5f631b1e4378a8388f7"
+}

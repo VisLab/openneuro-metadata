@@ -1,0 +1,19 @@
+{
+    "trial_type": {
+        "LongName": "Gradual-onset continuous performance task with scene stimuli",
+        "Description": "This is a minimally preprocessed output file. The experiment was run by Matlab and Psychtoolbox.",
+        "Levels": {
+            "onset": "the onset of the first trial is recorded",
+            "duration": "trial duration (1.2 s); a trial consists of transition (0.5 s) and intact (0.7 s) stimulus presentations",
+            "trial_num": "360 trials in total",
+            "target_nontarget": "(1) indoor, (2) outdoor; whether the indoor or outdoor scenes corresponded to the target/nontarget category was counterbalanced across participants",
+            "image_id": "unique 360 scene images (no repeats of the same image)",
+            "transition_duration": "upon the onset of the trial, the stimulus from the previous trial gradually transitioned to the stimulus from the current trial in a linear pixel-by-pixel interpolation",
+            "resp_1st": "(1) indoor button press, (2) outdoor button press, (0) no button press recorded",
+            "resp_2nd": "(1 or 2) in case where two button presses are recorded in a trial",
+            "rt_1st": "the response time of the 1st button press",
+            "rt_2nd": "the response time of the 2nd button press",
+            "acc": "(1) hit and correct rejection, (0) false alarm and miss"
+        }
+    }
+}

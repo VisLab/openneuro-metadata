@@ -1,0 +1,28 @@
+{
+    "onset":{
+        "LongName":"Onset Time",
+        "Units":"seconds"
+    },
+    "duration":{
+        "LongName":"Duration of Stimulus",
+        "Units": "seconds"
+    },
+    "trial_type":{
+        "LongName":"Trial type",
+        "Description":"Movement type sequence (MS*) or Cue Type Sequences (CS*) ",
+        "Levels":{
+            "MS1":"index, middle, little, index",
+            "MS2":"ring, little, middle, little",
+            "MS3":"middle, index, ring, middle",
+            "MS4":"little, ring, index, ring",
+            "CS1":"A,B,D,A",
+            "CS2":"C,D,B,D",
+            "CS3":"B,A,C,B",
+            "CS4":"D,C,A,C"
+        }
+    },
+    "correct":{
+        "LongName":"Correct Response",
+        "Description":"Boolean, Correct (1) if all responses were correct, Incorrect (0) if any response was incorrect"
+    }
+}

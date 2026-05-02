@@ -1,0 +1,22 @@
+{
+  "README": "bc7e04ebb15b7fbe986b9d3ce629788807d491f6",
+  "dataset_description.json": "466d916f5f31168088c01869ca7ff375a94f44c1",
+  "CHANGES": "7102bafc4d9e885edafabacb5d0a1087fc904f9f",
+  "participants.tsv": "1f06459d5ad58117701a8e91721fc5ee7f07c90b",
+  "participants.json": "e26f23ddc369a5438e620f74fdf8cdadc2bdbd5b",
+  "task-AudioCueWalkingStudy_events.json": "240ac1693c31c7aedfcf7970e8389801585b73c0",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-06_events.tsv": "dbd0ba5d82f2f9f3934d758e218dcb58e26eb1ea",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-10_events.tsv": "2221c6993dfcf12d96c064e14d7185c1c02a3e6e",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-09_events.tsv": "3c63a0648959c4250e69892a422e7f181546dc0c",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-05_events.tsv": "703c4d1d83b6529267449a441c3be5511c828531",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-04_events.tsv": "d85eed9ebb2ae5a08477b9142a69203a93b646b2",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-02_events.tsv": "eaab5df78a339a39a2377fc5d43c0f7b88897831",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-03_events.tsv": "1c28759831b8205e70c0b3dc0661beb8cd89d8f8",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-01_events.tsv": "3a52d172eda09408e9795f61d17e409828dd63b3",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-07_events.tsv": "273f5e69ea2959c8bf6ea20bae2708a1108a2e3b",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-08_events.tsv": "28498ca1ad3ba64f43278bff2e85cf25c58dea66",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-13_events.tsv": "d8cbba588b57e96b81f1f34a167d86a5cead0fd0",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-14_events.tsv": "b9f69ef33e4debb127054f5fbf97bd512dd33c4e",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-12_events.tsv": "8e5f008be1ebd9bd0633ad8883715c26c71194a2",
+  "sub-001/eeg/sub-001_task-AudioCueWalkingStudy_run-11_events.tsv": "fa0ff9be2bb57bb5e5f6f90c0fb1e87dbe565585"
+}

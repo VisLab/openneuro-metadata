@@ -1,0 +1,8 @@
+{
+  "Description": "Functional MRI data acquired during the visual sequence mismatch detection (VISSEQ) task.",
+  "TaskDescription": "Participants learned sequences of five objects presented at different locations on a circular grid. Each sequence was defined by predictable spatial and semantic transitions between objects. Following a delay, participants viewed a test sequence and judged whether it matched the studied sequence (old/new). Test sequences were either intact or contained object swaps (semantic mismatch), location swaps (spatial mismatch), or both, at either near or far mismatch distances.",
+  "Instructions": "Participants were instructed to learn the sequence of items, paying attention to the objects and their location. After a brief delay, they were instructed to indicate whether the sequence was repeated (Old) or changed in any way (New), including a change to the object, location, or both.",
+  "SkullStripped": false,
+  "PhaseEncodingDirection": "j",
+  "TotalReadoutTime": 0.064675
+}

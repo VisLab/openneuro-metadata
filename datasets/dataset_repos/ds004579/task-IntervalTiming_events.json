@@ -1,0 +1,26 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "Duration of the event trigger.",
+    "Units": "second"
+  },
+  "sample": {
+    "Description": "EEG sample during which event onset occurs",
+    "Units": "ms"
+  },
+  "value": {
+    "Description": "The code (EEG Marker value) associated with an event",
+    "Levels": {
+      "shortintcue": "S1: short interval text cue",
+      "longintcue": "S2: long interval text cue",
+      "gocue": "S3: Solid box GO cue",
+      "responsekeypress": "S4: Response key press",
+      "responsekeyrelease": "S5: Response key release",
+      "distractor": "S6: Distractor vowel",
+      "feedback": "S7: Feedback"
+    }
+  }
+}

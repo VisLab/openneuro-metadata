@@ -1,0 +1,8 @@
+2.0.0 2024-09-19
+  - added nipystats derivatives and configuration files
+1.0.2 2024-09-18
+  - added fmriprep derivatives
+1.0.1 2024-09-10
+  - added README
+1.0.0 2024-09-10
+  - rawdata only

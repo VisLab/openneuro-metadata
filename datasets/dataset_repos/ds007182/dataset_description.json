@@ -1,0 +1,30 @@
+{
+    "Name": "PRIMAS: Precision Functional Imaging in Autism",
+    "BIDSVersion": "1.0.2",
+    "License": "CC0",
+    "Authors": [
+        "Joe Bathelt",
+        "Steven Scholte",
+        "Hilde Geurts"
+    ],
+    "Acknowledgements": "We thank all research assistants and students who helped collecting the data",
+    "HowToAcknowledge": "",
+    "Funding": [],
+    "ReferencesAndLinks": [
+        "to be added"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007182.v1.0.0",
+    "GeneratedBy": [
+        {
+            "Name": "Manual",
+            "Description": "Dataset curated manually from MRI scanner data"
+        }
+    ],
+    "SourceDatasets": [],
+    "InstitutionName": "University of Amsterdam",
+    "InstitutionalDepartmentName": "Department of Psychology",
+    "InstitutionAddress": "Nieuwe Achtergracht 129B, 1018 WS Amsterdam, The Netherlands",
+    "Manufacturer": "Philips",
+    "ManufacturersModelName": "Achieva dStream",
+    "MagneticFieldStrength": 3
+}

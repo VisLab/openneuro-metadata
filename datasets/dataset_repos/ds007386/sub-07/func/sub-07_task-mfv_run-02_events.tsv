@@ -1,0 +1,41 @@
+onset	duration	sub_id	trial_type	vigtext	cond_id	vig_id	ITI_onset	ITI_duration	trialstart_zeroed
+10.047583	6	sub-07	care_physical	You see a woman throwing her cat across the room for scratching the furniture.	care_physical02	31	16.04819	6.024057	2.047583
+22.080638	6	sub-07	loyalty	You see a coach celebrating with the opposing team's players who just won the game.	loyalty02	76	28.080679	3.001358	14.080638
+31.113912	6	sub-07	authority	You see a teenage girl coming home late and ignoring her parents' strict curfew.	authority05	4	37.11403	6.001402	23.113912
+43.130593	6	sub-07	sanctity	You see an employee at a morgue eating his pepperoni pizza off of a dead body.	sanctity09	98	49.130681	3.001058	35.130593
+52.163896	6	sub-07	liberty	You see a teacher ordering a student to get a normal haircut before coming to class.	liberty13	72	58.163982	3.001046	44.163896
+61.180556	6	sub-07	loyalty	You see a mayor saying that the neighboring town is a much better town.	loyalty04	78	67.180601	7.501694	53.180556
+74.697225	6	sub-07	liberty	You see a father requiring his son to become a commercial airline pilot like him.	liberty02	61	80.697254	3.001051	66.697225
+83.713866	6	sub-07	loyalty	You see the US Ambassador joking in Great Britain about the stupidity of Americans.	loyalty05	79	89.713897	3.001039	75.713866
+92.747196	6	sub-07	care_emotional	You see a man quickly canceling a blind date as soon as he sees the woman.	care_emotional04	18	98.747212	3.001055	84.747196
+101.780518	6	sub-07	fairness	You see a professor giving a bad grade to a student just because he dislikes him.	fairness14	58	107.780626	9.001727	93.780518
+116.797243	6	sub-07	liberty	You see a mother forcing her daughter to enroll as a pre-med student in college.	liberty11	70	122.797289	9.001947	108.797243
+131.81387	6	sub-07	care_emotional	You see a girl telling a boy that his older brother is much more attractive than him.	care_emotional13	27	137.813939	4.501301	123.81387
+142.330473	6	sub-07	care_physical	You see a girl throwing her hot coffee on a woman who is dating her ex-boyfriend.	care_physical10	39	148.330593	4.501443	134.330473
+152.847113	6	sub-07	social_norms	You see a man eating a bowl of cereal in the morning with water instead of milk.	social_norms07	111	158.847169	3.001116	144.847113
+161.86379	6	sub-07	loyalty	You see a US swimmer cheering as a Chinese foe beats his teammate to win the gold.	loyalty15	89	167.8638	3.001129	153.86379
+170.880442	6	sub-07	sanctity	You see a man searching through the trash to find women's discarded underwear.	sanctity12	101	176.880466	6.001409	162.880442
+182.897131	6	sub-07	social_norms	You see a woman using a fork to eat a bowl of vanilla ice cream and marshmallows.	social_norms08	112	188.897238	4.501231	174.897131
+193.413754	6	sub-07	fairness	You see a tenant bribing a landlord to be the first to get their apartment repainted.	fairness03	47	199.413932	3.001109	185.413754
+202.430419	6	sub-07	liberty	You see a mother telling her son that she is going to choose all of his friends.	liberty06	65	208.430443	3.001058	194.430419
+211.44707	6	sub-07	care_emotional	You see a woman clearly avoiding sitting next to an obese woman on the bus.	care_emotional12	26	217.447112	6.001486	203.44707
+223.480439	6	sub-07	authority	You see a staff member talking loudly and interrupting the mayor's speech to the public.	authority11	10	229.480472	4.501389	215.480439
+234.01372	6	sub-07	sanctity	You see a drunk elderly man offering to have oral sex with anyone in the bar.	sanctity03	92	240.013807	4.501225	226.01372
+244.53038	6	sub-07	authority	You see a boy turning up the TV as his father talks about his military service.	authority09	8	250.530457	7.501605	236.53038
+258.047056	6	sub-07	sanctity	You see two first cousins getting married to each other in an elaborate wedding.	sanctity13	102	264.047145	3.001059	250.047056
+267.063694	6	sub-07	social_norms	You see a man putting ketchup all over his chicken Caesar salad while at lunch.	social_norms09	113	273.063812	7.501683	259.063694
+280.597031	6	sub-07	care_emotional	You see a teenage girl openly staring at a disfigured woman as she walks past.	care_emotional08	22	286.597053	6.001352	272.597031
+292.63035	6	sub-07	fairness	You see a boy skipping to the front of the line because his friend is an employee.	fairness12	56	298.630462	7.50145	284.63035
+306.147003	6	sub-07	care_physical	You see someone leaving his dog outside in the rain after it dug in the trash.	care_physical03	32	312.147075	9.00182	298.147003
+321.163699	6	sub-07	social_norms	You see a woman continuing to wear a large sun hat inside her apartment complex.	social_norms05	109	327.16375	3.00116	313.163699
+330.18031	6	sub-07	fairness	You see a judge taking on a criminal case although he is friends with the defendant.	fairness06	50	336.180346	3.001065	322.18031
+339.19696	6	sub-07	liberty	You see a man forbidding his wife to wear clothing that he has not first approved.	liberty07	66	345.19705	6.001426	331.19696
+351.213621	6	sub-07	social_norms	You see a teenage girl wearing a long trench coat on a hot summer afternoon.	social_norms14	118	357.213705	6.00143	343.213621
+363.230312	6	sub-07	authority	You see a girl repeatedly interrupting her teacher as he explains a new concept.	authority03	2	369.230362	3.001063	355.230312
+372.246921	6	sub-07	care_physical	You see a girl shooting geese repeatedly with a pellet gun out in the woods.	care_physical06	35	378.246949	3.001031	364.246921
+381.263597	6	sub-07	care_emotional	You see a girl laughing at another student forgetting her lines at a school play.	care_emotional02	16	387.263708	4.501166	373.263597
+391.796927	6	sub-07	authority	You see an employee trying to undermine all of her boss' ideas in front of others.	authority07	6	397.79698	4.501323	383.796927
+402.313567	6	sub-07	loyalty	You see a class president saying on TV that her rival college is a better school.	loyalty09	83	408.313647	4.501194	394.313567
+412.830218	6	sub-07	care_physical	You see a man lashing his pony with a whip for breaking loose from its pen.	care_physical05	34	418.830301	6.001456	404.830218
+424.846897	6	sub-07	fairness	You see a student copying a classmate's answer sheet on a makeup final exam.	fairness01	45	430.846919	4.501178	416.846897
+435.363529	6	sub-07	sanctity	You see a college student drinking until she vomits on herself and falls asleep.	sanctity15	104	441.363613	3.001102	427.363529

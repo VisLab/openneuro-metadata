@@ -1,0 +1,12 @@
+{
+  "participants.tsv": "c2b38a88ce0bb18b24ede81eef5528d9942f1cd6",
+  "CHANGES": "969b201306dd63f5e6386bab7a6a7c1f5daf7076",
+  "README": "36f301f9f75e2a59e7101015fcdcbcf326916ce9",
+  "dataset_description.json": "9588ad90db6968d976e2c396b8edfdd3788e886f",
+  "sub-01/func/sub-01_task-SESS04_events.tsv": "134475e464a4acae61e371fa4f4f0d5cf477fa21",
+  "sub-01/func/sub-01_task-SESS03_events.tsv": "93079af9161c6ba79a16442b3902f5bacfdceec3",
+  "sub-01/func/sub-01_task-SESS02_events.tsv": "3e70bf369aacdd915086f0d15664ab983a243440",
+  "sub-01/func/sub-01_task-SESS01_events.tsv": "589b6f80bb82a7dfa42975bc7152227d5535405a",
+  "sub-01/func/sub-01_task-SESS06_events.tsv": "9c698787f7d58f6abf470bf52a04ee66676fc8be",
+  "sub-01/func/sub-01_task-SESS05_events.tsv": "2db9875582d698bd158a8f7b86edef21430045b6"
+}

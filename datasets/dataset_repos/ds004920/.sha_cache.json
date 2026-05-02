@@ -1,0 +1,19 @@
+{
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "CHANGES": "21698cb7baddccf02f3f06a621a89c8e10c5367e",
+  "task-socialdoors_bold.json": "4eaf1ada39dcc26217046b0967c4b5f0f50bac94",
+  "task-mid_bold.json": "f21c7dde8b79880216aceb6cb88b0d934e1af39f",
+  "task-sharedreward_bold.json": "a9df126a3a2f75e114b382bfe81af2dc246629f2",
+  "README": "a1f41ec2202b4b55c137aaecd2d505b048a43c14",
+  "task-doors_bold.json": "896775f45dc4d5dd6b77e46fc32d0e667a6c9031",
+  "dataset_description.json": "523253b83dc21d23eae328c8b2544108cff0d841",
+  "participants.tsv": "34cace451636e946d1ed9703bb82880c1a995f05",
+  "participants.json": "00b437c5a0c61aa776295d4204db0b9a5e6e97e6",
+  "task-ugdg_bold.json": "479f42e5e41dde59ce624a5d5c86ab6b43d3542d",
+  "sub-1001/func/sub-1001_task-socialdoors_run-1_events.tsv": "84f284bbd1bd48444f41c508eb1d4112aefc60fc",
+  "sub-1001/func/sub-1001_task-doors_run-1_events.tsv": "af5af2043c94e9306421117ab07283b15ef78dea",
+  "sub-1001/func/sub-1001_task-sharedreward_run-2_events.tsv": "5f9a234c096e54b459a6b95e38a3d329f3844cf7",
+  "sub-1001/func/sub-1001_task-mid_run-2_events.tsv": "362c7106b22d4bd2dbed53496628b6149e0d8678",
+  "sub-1001/func/sub-1001_task-sharedreward_run-1_events.tsv": "218d2cd16d096e37f8eb80416adebf32a6a65d9b",
+  "sub-1001/func/sub-1001_task-mid_run-1_events.tsv": "875b85234bf797644a312f74e6da285429b39a2e"
+}

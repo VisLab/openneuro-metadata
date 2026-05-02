@@ -1,0 +1,11 @@
+{
+    "trial_type": {
+        "LongName": "Event category",
+        "Description": "Manually annotated event categories (time points with agreement from at least 3 out of 5 annotaters); see Park et al. (2022) for more details on event regressors",
+        "Levels": {
+          "pos_affect": "Time points when the main character, Piper, appeared to be experiencing positive emotions (e.g., related to happiness, joy, excitement, etc.)",
+          "neg_affect": "Time points when Piper appeared to be experiencing negative emotions (e.g., related to fear, suspense/tension, sadness, etc.)",
+          "parent_child": "Time points when Piper and their mother were interacting"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "participants.json": "fa4a5d2881117094fd8dd3b4cc9f413b17c1a832",
+  "participants.tsv": "b9e6dc85b605c0af708523d81819d610c7c4217b",
+  "README": "aeda8d6c6beecd9d792aa599ef2baf0f5115dd18",
+  "task-MusicvsSpeech_events.json": "cea49f90917d003642301957186805874cbe0bd8",
+  "task-MusicvsSpeech_eeg.json": "3c8db8f115d17d976652fb4ce3ec73be78932aef",
+  "CHANGES": "fa90c83814a00cac2dcbe89e4442324ca2cb0951",
+  "dataset_description.json": "f9a877a61c48849bb81936c74781cef09bd15e06",
+  "sub-01/eeg/sub-01_task-MusicvsSpeech_events.tsv": "393731aa7434b4c31b6391f38344502e94af9a33"
+}

@@ -1,0 +1,8 @@
+onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
+531.16796875	0.25390625	artefact	n/a	all	all	531.421875	271958	272088	n/a	n/a	n/a	n/a	n/a	Please note, artefacts annotated in avg!
+555.62890625	0.173828125	artefact	n/a	all	all	555.802734375	284482	284571	n/a	n/a	n/a	n/a	n/a	Please note, artefacts annotated in avg!
+576.447265625	0.119140625	artefact	n/a	IHa8	IHa8	576.56640625	295141	295202	n/a	n/a	n/a	n/a	n/a	Please note, artefacts annotated in avg!
+323.5625	100.0390625	seizure	clin	C25,C26,C27,CH01,CH02,CH03,CH09	C03,C09,C10,C11,C12,C17,C18,C19,C20,C26,C27,C28,CH01,CH02,CH03,CH09,CH10,CH11,CH12,IHa1,IHa2,IHa3,IHv2,IHv3,IHv4,IHv5,IHv6,IHv7,IHv8	423.6015625	165664	216884	n/a	n/a	n/a	n/a	n/a	n/a
+3035.1015625	564.611328125	sleep-wake transition	unknown	all	all	3599.712890625	1553972	1843053	n/a	n/a	n/a	n/a	n/a	n/a
+0.21875	332.748046875	sleep	unknown	all	all	332.966796875	112	170479	n/a	n/a	n/a	n/a	n/a	n/a
+318.00390625	14.99609375	EI selection	unknown	all	all	333	162818	170496	n/a	n/a	n/a	n/a	n/a	n/a

@@ -1,0 +1,26 @@
+{
+  "onset": {
+    "Description": "Event onset time relative to the start of the EEG recording.",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event.",
+    "Units": "s"
+  },
+  "sample": {
+    "Description": "Sample at which event occurred"
+  },
+  "value": {
+    "Description": "Original numeric event code imported from the EEG acquisition system.",
+    "Levels": {
+      "boundary" : "boundary event",
+      "1": "Experiment Start",
+      "180": "First stream of common",
+      "80": "Common Tone",
+      "70": "Rare Tone",
+      "202": "Unknown",
+      "255": "Unknown",
+      "4" : "Unknown"
+    }
+  }
+}

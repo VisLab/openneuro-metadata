@@ -1,0 +1,25 @@
+onset	duration	sub_id	trial_type	vigtext	cond_id	vig_id
+8.459439199997178	7.867659000040021	sub-02	social_norms	You see a man eating a bowl of cereal in the morning with water instead of milk.	social_norms07	111
+17.779659600047125	7.905867600000192	sub-02	group	You see students spreading malicious rumors about a transfer student, making them feel unwelcome to the school.	group03	133
+27.13600849999716	7.906914899999947	sub-02	authority	You see a girl repeatedly interrupting her teacher as he explains a new concept.	authority03	2
+39.37225490004721	7.9088993999801	sub-02	loyalty	You see a teacher publicly saying she hopes another school wins the math contest.	loyalty07	81
+48.7319360000472	7.906537399979925	sub-02	social_norms	You see someone at the school gym lifting free weights in nice business clothes.	social_norms06	110
+60.97117369999728	7.905576600059931	sub-02	family	You see a daughter spreading false accusations about her mother's mental health to gain control of her inheritance.	family02	127
+70.33001920004722	7.903852599959919	sub-02	reciprocity	You see a volunteer promising to organize a fundraising event but fails to follow through.	reciprocity01	146
+82.5660351000272	7.905981899990138	sub-02	loyalty	You see a Hollywood star agreeing with a foreign dictator's denunciation of the US.	loyalty10	84
+91.9210910000172	7.909354400009988	sub-02	reciprocity	You see a client refusing to pay to the contractor after the work is completed.	reciprocity02	147
+104.16031500003714	7.906435099960163	sub-02	care_emotional	You see a man laughing at a disabled co-worker while at an office softball game.	care_emotional15	29
+114.94683860003715	7.91027340002006	sub-02	sanctity	You see a man having sex with a frozen chicken before cooking it for dinner.	sanctity01	90
+125.73742790001712	7.909039800000073	sub-02	fairness	You see a boy skipping to the front of the line because his friend is an employee.	fairness12	56
+137.97548100002723	7.909112999969921	sub-02	fairness	You see a woman lying about the number of vacation days she has taken at work.	fairness13	57
+147.33391890004714	7.908129199990071	sub-02	deference	You see a citizen refusing to follow public health guidelines from medical officials during a pandemic.	deference02	122
+158.1227011000071	7.908612600009974	sub-02	sanctity	You see a man in a bar using his phone to watch people having sex with animals.	sanctity05	94
+168.91365200001724	7.907289700000092	sub-02	authority	You see a group of women having a long and loud conversation during a church sermon.	authority12	11
+178.27062940003725	7.907762699989917	sub-02	care_emotional	You see a girl laughing when she realizes her friend's dad is the janitor.	care_emotional06	20
+189.0604310000172	7.906185800030016	sub-02	sanctity	You see two first cousins getting married to each other in an elaborate wedding.	sanctity13	102
+199.8510268000473	7.906024599969896	sub-02	authority	You see a man turn his back and walk away while his boss questions his work.	authority13	12
+212.09236730000725	7.902685900040069	sub-02	family	You see a brother betraying his sister’s trust by spreading rumors about her to friends and family.	family03	128
+224.3257659000172	7.907221000000163	sub-02	heroism	You see people standing still while a woman is being attacked by a man and is calling for help.	heroism02	137
+233.6820951000473	7.9086008999800015	sub-02	group	You see a neighbor refusing to help another neighbor, claiming that it is not their responsibility.	group02	132
+243.0392233999972	7.908133200020075	sub-02	deference	You see an employee ignoring an urgent email from their supervisor.	deference04	124
+255.27734970003712	7.908912199960014	sub-02	property	You see a teenager spray painting graffiti on the side of a neighbor’s house.	property03	143

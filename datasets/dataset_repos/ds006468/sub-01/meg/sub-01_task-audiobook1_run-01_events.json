@@ -1,0 +1,45 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event from the beginning of the first datapoint. Negative onsets account for events before the first stored data point.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": {
+            "LongName": "Event duration",
+            "Description": "Duration of the event in seconds from onset.",
+            "Units": "s",
+            "Levels": {
+                "1": "Triggers were sent every second throughout audiobook playback, starting with the onset of the audiobook.",
+                "0": "Instantaneous frequency chirp (~10 ms duration)"
+            }
+        }
+    },
+    "sample": {
+        "Description": "The event onset time in number of sampling points.First sample is 0."
+    },
+    "value": {
+        "Description": "The event code (also known as trigger code or event ID) associated with the event."
+    },
+    "trial_type": {
+        "Description": {
+            "LongName": "Event category",
+            "Description": "Continuous trigger during audiobook run, sent every second.",
+            "Levels": {
+                "audiobook": "Triggers were sent every second throughout playback, starting with the onset of the audiobook.",
+                "up-chirp": "Instantaneous frequency chirp (~10 ms duration)"
+            }
+        }
+    },
+    "stim_file": {
+        "Description": {
+            "LongName": "Stimulus filename",
+            "Description": "Relative path of the stimulus audio file. This audio file encompasses the entire experimental run and was utilized during the presentation. Triggers were sent every second throughout playback."
+        }
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "Windows 10",
+        "SoftwareName": "Matlab, SoundMexPro",
+        "rrid": "Matlab: n/a  / SoundMexPro: n/a / pypixxlib: n/a",
+        "SoftwareVersion": "Matlab: n/a / SoundMexPro n/a"
+    }
+}

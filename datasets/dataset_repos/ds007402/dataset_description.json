@@ -1,0 +1,64 @@
+{
+    "Authors": [
+        "Brooke L. Sevchik",
+        "Golia Shafiei",
+        "Kristin Murtha",
+        "Juliette B.H. Brook",
+        "Lia Brodrick",
+        "Kahini Mehta",
+        "Sage Rush",
+        "Matt Cieslak",
+        "Steven L. Meisler",
+        "Taylor Salo",
+        "S. Parker Singleton",
+        "Tien T. Tong",
+        "Mrugank Salunke",
+        "Dani S. Bassett",
+        "Monica E. Calkins",
+        "Mark A. Elliott",
+        "Raquel E. Gur",
+        "Ruben C. Gur",
+        "Tyler M. Moore",
+        "Kosha Ruparel",
+        "Russell T. Shinohara",
+        "M. Dylan Tisdal",
+        "Daniel H. Wolf",
+        "David R. Roalf",
+        "Theodore D. Satterthwaite"
+    ],
+    "BIDSVersion": "1.4.0",
+    "DatasetLinks": {
+        "atlas": "atlases",
+        "preprocessed": "doi:10.18112/openneuro.ds007088.v1.0.0",
+        "templateflow": "https://github.com/templateflow/templateflow",
+        "xcpd4s": "/AtlasPack",
+        "xcpdatlases": "/usr/local/miniconda/lib/python3.10/site-packages/xcp_d/data/atlases"
+    },
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/PennLINC/xcp_d/archive/0.10.7.tar.gz",
+            "Name": "xcp_d",
+            "Version": "0.10.7"
+        },
+        {
+            "CodeURL": "https://github.com/nipreps/fmriprep/archive/25.0.0.tar.gz",
+            "Name": "fMRIPrep",
+            "Version": "25.0.0"
+        }
+    ],
+    "HowToAcknowledge": "Please cite the PennLEAD paper (https://doi.org/10.1101/2025.11.10.687633) and the XCP-D paper (https://doi.org/10.1162/imag_a_00257), and include the generated citation boilerplate within the Methods section of the text.",
+    "License": "CC0",
+    "Name": "Penn LEAD: Penn Longitudinal Executive functioning in Adolescent Development - XCP-D Derivatives",
+    "SourceDatasets": [
+        {
+            "DOI": "10.18112/openneuro.ds007088.v1.0.0",
+            "URL": "https://doi.org/10.18112/openneuro.ds007088.v1.0.0"
+        },
+        {
+            "DOI": "10.18112/openneuro.ds007116.v1.0.0",
+            "URL": "https://doi.org/10.18112/openneuro.ds007116.v1.0.0"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007402.v1.0.0"
+}

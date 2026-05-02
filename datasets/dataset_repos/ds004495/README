@@ -1,0 +1,72 @@
+This dataset was obtained from the OpenNeuro project (https://www.openneuro.org). Accession #: ds004495
+
+Description: Episodic and Semantic Memory fMRI Dataset
+
+Authors: Roni Tibon, Andrea Greve, Gina Humphreys, Alexander J. Quent, Rik Henson 
+
+Please cite the following reference if you use these data:
+
+     XXX
+
+Additional information related to the project, including accepted version of Stage 1 protocol, is available on https://osf.io/dm47y/ 
+
+==================================================================================
+
+func/ 
+
+----- 
+
+Two session for each participants: 
+
+	ses-EP:  Episodic task
+
+	ses-SEM: Semantic task + Control task 
+
+
+For each task: 
+
+	Multiple runs (3 for EP and 2 for SEM/VIS)
+
+	4 echos  
+
+
+anat/
+
+-----
+
+Anatomical preprocessed data are located under /derivatives. These are defaced and normalised T1 images (for GDPR compliance).   
+
+
+
+behavdata/
+
+----------
+
+Behavioural data from the study phase (EP+SEM), test phase (all tasks), and debriefing phase (EP) 
+
+ 
+Known Issues
+
+------------
+
+Missing behavioural data (all from non-scanned parts of the study), due to computer upgrade prior to their extraction:
+
+
+	Subject           Missing file(s)
+
+	-------               ---------------
+
+	402                 SemStudy
+
+	405                 EpStudy; DebStudy
+
+	410                 SemStudy
+
+	420                 EpStudy
+
+	422                 EpStudy; SemStudy
+
+	424                 SemStudy
+
+	439                 EpStudy		
+

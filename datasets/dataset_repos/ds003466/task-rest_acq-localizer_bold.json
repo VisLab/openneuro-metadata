@@ -1,0 +1,70 @@
+{
+	"AcquisitionMatrixPE": 72,
+	"AcquisitionNumber": 1,
+	"BodyPartExamined": "BRAIN",
+	"CogAtlasID": "https://www.cognitiveatlas.org/task/id/trm_550b53d7dd674/",
+	"CoilString": "32Ch_Head",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20190410  GCC6.3.0",
+	"DeviceSerialNumber": "000301496MR3T6MR",
+	"EchoTime": 0.03,
+	"FlipAngle": 75,
+	"ImageType": [
+		"ORIGINAL",
+		"PRIMARY",
+		"EPI",
+		"NONE"
+	],
+	"InPlanePhaseEncodingDirectionDICOM": "COL",
+	"InstitutionName": "NIH_FMRIF",
+	"MRAcquisitionType": "2D",
+	"MagneticFieldStrength": 3,
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "DISCOVERY_MR750",
+	"Modality": "MR",
+	"PatientPosition": "HFS",
+	"PercentPhaseFOV": 100,
+	"PhaseEncodingDirection": "j",
+	"PhaseEncodingPolarityGE": "Flipped",
+	"PixelBandwidth": 6944.44,
+	"ProtocolName": "LocalizerEPI",
+	"ReconMatrixPE": 72,
+	"RepetitionTime": 2.5,
+	"ScanOptions": "SAT_GEMS_EPI_GEMS_ACC_GEMS_FS",
+	"ScanningSequence": "EP_RM",
+	"SequenceVariant": "NONE",
+	"SeriesDescription": "LocalizerEPI",
+	"SliceThickness": 3,
+	"SoftwareVersions": "27_LX_MR_Software_release:DV26.0_EB_1707.b",
+	"SpacingBetweenSlices": 3,
+	"StationName": "fmrif3tb",
+	"TaskName": "Rest Localizer EPI",
+	"dcmmeta_reorient_transform": [
+		[
+			0.0,
+			-1.0,
+			0.0,
+			71.0
+		],
+		[
+			1.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		[
+			0.0,
+			0.0,
+			-1.0,
+			41.0
+		],
+		[
+			0.0,
+			0.0,
+			0.0,
+			1.0
+		]
+	],
+	"dcmmeta_slice_dim": 2,
+	"dcmmeta_version": 0.6
+}

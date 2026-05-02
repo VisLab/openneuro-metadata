@@ -1,0 +1,211 @@
+{
+
+"participant_id": {
+  "Description": "Unique participant identifier"
+     },
+
+
+"session_id": {
+  "Description": "Session identifier"
+     },
+
+
+"CESD_01": { 
+  "Description": "Item 1",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_02": { 
+  "Description": "Item 2",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_03": { 
+  "Description": "Item 3",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_04": { 
+  "Description": "Item 4",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_05": { 
+  "Description": "Item 5",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_06": { 
+  "Description": "Item 6",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_07": { 
+  "Description": "Item 7",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_08": { 
+  "Description": "Item 8",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_09": { 
+  "Description": "Item 9",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_10": { 
+  "Description": "Item 10",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_11": { 
+  "Description": "Item 11",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_12": { 
+  "Description": "Item 12",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_13": { 
+  "Description": "Item 13",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_14": { 
+  "Description": "Item 14",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_15": { 
+  "Description": "Item 15",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_16": { 
+  "Description": "Item 16",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_17": { 
+  "Description": "Item 17",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_18": { 
+  "Description": "Item 18",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_19": { 
+  "Description": "Item 19",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+      },
+    
+    
+    
+
+"CESD_20": { 
+  "Description": "Item 20",
+  "Levels":{
+  "0":"Rarely or none of the time", "1":"Some or a little of the time", "2":"Occasionally or a moderate amount of time", "3":"Most or all of the time"
+      }
+}
+    
+    
+}

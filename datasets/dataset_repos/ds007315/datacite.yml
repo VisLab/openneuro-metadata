@@ -1,0 +1,72 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Maria Martzoukou
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Nefeli K. Dimitriou
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Binbin Xu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Malo Renaud-d’Ambra
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Anastasia Nousia
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Anne Beuter
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Grigorios Nasios
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+    creators:
+      - name: Maria Martzoukou
+        nameType: Personal
+      - name: Nefeli K. Dimitriou
+        nameType: Personal
+      - name: Binbin Xu
+        nameType: Personal
+      - name: Malo Renaud-d’Ambra
+        nameType: Personal
+      - name: Anastasia Nousia
+        nameType: Personal
+      - name: Anne Beuter
+        nameType: Personal
+      - name: Grigorios Nasios
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

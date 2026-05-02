@@ -1,0 +1,18 @@
+{
+  "README": "f00dda70e70f06610870e487c4ee3346c8d306db",
+  "task-baseline_bold.json": "dd39487697ca7622c66abcb7b2dbd4ab6217ce32",
+  "CHANGES": "1863a440b4c208f2b415353585966b5cfabb02b3",
+  "participants.tsv": "1e6d8fd072abd4788925deecbc6147c1e49230c2",
+  "T1w.json": "ad2001059b2804dd63769e662c08a93a64d7e5b3",
+  "task-posttest_bold.json": "696e14072d5a04d61ea1aa62581555415fb53a96",
+  "task-training_bold.json": "e0c228ad27d2bba73fd3a90d8dd6c8953aa390e5",
+  "dataset_description.json": "5e5a3a68653a458b652c37fa7560960c087fc443",
+  "sub-001/func/sub-001_task-baseline_run-01_events.tsv": "c547e21714a83552ac657dc68f5249235192c81d",
+  "sub-001/func/sub-001_task-posttest_run-02_events.tsv": "d1f43b4411f4e455d4fca1f43dd52cadd7951448",
+  "sub-001/func/sub-001_task-training_run-02_events.tsv": "cc6305651240b0f0d69172d33a630354a3c20cb7",
+  "sub-001/func/sub-001_task-training_run-01_events.tsv": "f8e11e0939a81307c6df5e8791198254734579cd",
+  "sub-001/func/sub-001_task-training_run-03_events.tsv": "5f299b48444ac8d27dd6e00f4153c90422407513",
+  "sub-001/func/sub-001_task-posttest_run-01_events.tsv": "7017acf5ddd974d3add87722e029045a6b762d8a",
+  "sub-001/func/sub-001_task-training_run-04_events.tsv": "7101e51b010d9349a84b5fe8ad2b5ed3cdd9893e",
+  "sub-001/func/sub-001_task-training_run-05_events.tsv": "4944cc43f154e14d026260c7e5c9b69a4fe484d0"
+}

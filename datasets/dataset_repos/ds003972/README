@@ -1,0 +1,5 @@
+In vivo 7T MRI dataset following sets of T1w anatomical scans and whole-body motor fMRI tasks. The data was collected at the UMC Utrecht, Netherlands, by Wouter Schellekens, Carlijn Bakker, Nick F. Ramsey, and Natalia Petridou.
+
+The whole-body motor task entails the movement of 18 different body parts, mentioned in the "task-bodymotor_bold.json", and correspondingly referred to in the "*_events.tsv" in the "func" folders. The onset and duration in the "*_events.tsv" files is presented in ms.
+
+In line with privacy policies of the UMC Utrecht, the participants are randomized and the age is rounded according to: 18<=age<=22 -> 20 and 23<=age -> 30

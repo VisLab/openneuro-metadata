@@ -1,0 +1,11 @@
+This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).
+Accession #: ds000157
+Description: Thirty female subjects performed a passive viewing task with blocks of food and nonfood images. More procedures can be found in the publication. 
+
+Note that several subjects have 375 functional scans rather than 370. These 5 extra volumes can be discarded.
+
+Please cite the following references if you use these data:
+
+Smeets PA, Kroese FM, Evers C, de Ridder DT.
+Behav Brain Res. 2013 Jul 1;248:41-5. doi: 10.1016/j.bbr.2013.03.041. Epub 2013 Apr 8.
+http://www.ncbi.nlm.nih.gov/pubmed/23578759

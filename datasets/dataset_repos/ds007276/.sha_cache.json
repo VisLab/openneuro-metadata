@@ -1,0 +1,16 @@
+{
+  "README": "035e81f188c3e96dd88917455aaa302b44cde870",
+  "datacite.yml": "d7075c6a6d35e73b4b0c40d6788f25721368df66",
+  "participants.tsv": "1cd71433840846cbf80878ea82d795b193a9f0a9",
+  "participants.json": "5b0e0670200be069c110893bd5a66a6f4a75ca6e",
+  "dataset_description.json": "f3cf981a3a200c4ec4f3ee0aac04c2c96e74ec2e",
+  "CHANGES": "02a634e3173e92a0440943223519c289c0dcea18",
+  "sub-01/ses-task/func/sub-01_ses-task_task-taskbattery_run-01_events.tsv": "0b2081c15162e6050096c2f4f47ae6b9cb7cea8f",
+  "sub-01/ses-task/func/sub-01_ses-task_task-taskbattery_run-02_events.tsv": "53b692a9ad56e7f26d7c549b572af51d36f94ecd",
+  "sub-01/ses-task/func/sub-01_ses-task_task-taskbattery_run-03_events.tsv": "79c3138cb6bf75ac0f93d2efdf5a19eccc98c5e4",
+  "sub-01/ses-task/func/sub-01_ses-task_task-taskbattery_run-06_events.tsv": "50eb101cd83ddc1c4e7a8bda15f6405d419c8643",
+  "sub-01/ses-task/func/sub-01_ses-task_task-taskbattery_run-04_events.tsv": "9c1033320ea745577827de629d91e9c98a6f56f8",
+  "sub-01/ses-task/func/sub-01_ses-task_task-taskbattery_run-08_events.tsv": "590a7a0e16ec4fd8fec1f39b0d6a0910fb61e41c",
+  "sub-01/ses-task/func/sub-01_ses-task_task-taskbattery_run-07_events.tsv": "a00ea839211025b77c558e221f79c85b5cc8186d",
+  "sub-01/ses-task/func/sub-01_ses-task_task-taskbattery_run-05_events.tsv": "b73d6a245bb4ca7ccfc1543d4a62e2de6116a3ff"
+}

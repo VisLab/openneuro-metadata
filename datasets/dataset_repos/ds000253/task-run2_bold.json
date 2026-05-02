@@ -1,0 +1,18 @@
+{
+    "ManufacturersModelName": "TrioTim",
+    "MagneticFieldStrength": 3,
+    "FlipAngle": 90,
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY",
+        "M",
+        "ND",
+        "NORM",
+        "MOS"
+    ],
+    "Manufacturer": "Siemens",
+    "RepetitionTime": 2.5,
+    "EchoTime": 0.03,
+    "PulseSequenceType": "Gradient Echo EPI",
+    "PhaseEncodingDirection": "j-"
+}

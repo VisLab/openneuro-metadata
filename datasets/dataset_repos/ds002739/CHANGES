@@ -1,0 +1,18 @@
+1.0.0 2020-05-05
+  - OpenNeuro reupload
+2.0.0	2019-01-08
+
+	- Major correction: All fMRI data files ("..._bold.nii.gz") have been replaced with their corresponding preprocessed versions, correcting for original upload mistake. Please note that all previous (i.e., unfiltered) versions of these data were temporally misaligned with the fMRI events files (due to the extra initial volumes in the timeseries, otherwise discarded during preprocessing). This issue is now resolved.
+
+1.0.2	2018-12-17
+
+	- Electrode information file added to the "additional_files" directory.
+
+1.0.1	2018-10-21
+
+	- Updated fMRI event files in sub-XX/func/ folders. First data row of each file was missing due to an error when converting to the BIDS-compatible format - this has now been fixed. Additionally, files now contain estimated head motion parameters which can be used as confound variables in the fMRI model.
+
+
+1.0.1	2018-10-21
+
+	- Updated fMRI event files in sub-XX/func/ folders. First data row of each file was missing due to an error when converting to the BIDS-compatible format - this has now been fixed. Additionally, files now contain estimated head motion parameters which can be used as confound variables in the fMRI model.

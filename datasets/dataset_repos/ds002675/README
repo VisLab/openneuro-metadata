@@ -1,0 +1,26 @@
+ 
+These are the functional and structural MRI data used for the following study:
+
+Coffey BJ, Threlkeld ZD, Bodien YB, Edlow BL. The language network reemerges during recovery from severe traumatic brain injury.
+medRxiv 2020.01.10.20017004; doi: https://doi.org/10.1101/2020.01.10.20017004 
+
+16 healthy control subjects participated in one session
+8 patients with severe traumatic brain injury participated in two sessions
+
+In the root directory, all structural T1 data were skull stripped using FSL's Brain Extraction Tool (bet) and reoriented using FSL fslutils fslreorient2std function. All functional BOLD data were reoriented using FSL fslutils fslreorient2std function.
+
+All acquisition parameters are as described in the above reference with the following exceptions:
+
+1. The dimensions for sub-c02_task-language_run-1_bold.nii.gz are 94 x 94 x 56 x 39
+2. The dimensions for sub-c02_task-language_run-2_bold.nii.gz are 94 x 94 x 56 x 39
+3. The dimensions for sub-p02_ses-acute_task-language_run-1_bold.nii.gz are 94 x 94 x 56 x 39
+4. The dimensions for sub-p02_ses-acute_task-language_run-2_bold.nii.gz are 94 x 94 x 56 x 39
+5. The dimensions for sub-c06_T1w.nii.gz are 176 x 229 x 200
+6. The dimensions for sub-c07_T1w.nii.gz are 176 x 208 x 147
+7. The dimensions for sub-c09_T1w.nii.gz are 176 x 241 x 197
+8. The dimensions for sub-p01_ses-acute_T1w.nii.gz are 192 x 256 x 256
+9. The dimensions for sub-p01_ses-followup_T1w.nii.gz are 256 x 256 x 176
+10. The dimensions for sub-p02_ses-acute_T1w.nii.gz are 192 x 256 x 256
+11. The dimensions for sub-p03_ses-acute_T1w.nii.gz are 192 x 256 x 25
+
+Funding: This work was supported by the NIH National Institute of Neurological Disorders and Stroke (K23NS094538, R21NS109627, RF1NS115268), NIH Director’s Office (DP2HD101400), James S. McDonnell Foundation, Rappaport Foundation, and Tiny Blue Dot Foundation.

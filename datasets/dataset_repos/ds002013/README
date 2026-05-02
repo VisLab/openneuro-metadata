@@ -1,0 +1,16 @@
+Visual Receptive Field Mapping Experiment
+=========================================
+
+This BIDS data set encompasses the data underlying the analyses reported in Heinzle et al. (2011) and Soch et al. (2019).
+
+Alongside with the files required by the BIDS format, this data set contains the following additional files:
+
+- /sub-X/data2BIDS_X.mat: SPM jobs used for converting raw data to the BIDS format;
+
+- /sub-X/preproc_X.mat: an SPM job for pre-processing the data according to Soch et al. (2019);
+
+- /sub-X/anat/sub-X_roi-Z.nii: region of interest (ROI) images for visual cortices in pre-processed EPI space;
+
+- /sub-X/func/sub-X_task-Y_events.mat: all experimental design information in SPM format ("names, onsets, durations");
+
+- /sub-X/func/sub-X_task-Y_events.xls: all experimental design information in Excel format (trials of interest vs. control fixation task).

@@ -1,0 +1,49 @@
+README for Luminance dataset
+
+Contact person for additional information: Jerome Sanes
+Jerome_Sanes@Brown.edu ORCID: 0000-0001-6320-7752
+
+or
+
+Michael Worden worden@Brown.edu ORCID: 0000-0002-7126-6178
+
+## OVERVIEW
+
+Project Name: LUMINANCE
+Data collected: 2018
+
+Studies with experimental animals have revealed a mood-regulating neural
+pathway linking intrinsically photosensitive retinal ganglion cells
+(ipRGCs) and the prefrontal cortex (PFC), involved in the
+pathophysiology of mood disorders. Since humans also have
+light-intensity-encoding ipRGCs, we investigated whether a similar
+pathway exists in humans.
+
+Dataset contains structural and functional MRI data and associated stimulus
+timing files
+
+## Methods
+### Subjects
+Subjects 20 healthy female and male participants from the local Providence, RI
+community (age 20-30 years old; 24.3 ± 3.7 years, mean ± s.d.).
+
+Participants underwent five runs of six minutes each during a single
+scan session. Each run consisted of twelve 30-second epochs of constant
+light intensity divided into three consecutive groups of four. Each
+group of four epochs contained all four light intensities [average
+light-intensity (irradiance) across the 400-700 nm human visible
+spectrum 10.2, 12.1, 13.1, and 13.8 log photons cm-2 s-1] in
+pseudorandom order. These light intensities corresponded to the
+following quantum catches of melanopsin: 11.5, 13.6, 14.6, and 15.2 log
+photons cm-2 s-1.
+
+Participants wore Teflon goggles that diffused the light. The light
+stimulus, as reported by the participants, did not contain any patterned
+visual information and covered the entire field of view. ). To ensure
+alertness during the scan session, participants performed an auditory
+task in which they discriminated between two presented tones (1 and 2
+kHz, 100 msec duration) and indicated the perceived tone by pressing the
+left button for the 1 kHz tone and the right button for the 2 kHz tone.
+We recorded the time of the button press and response accuracy, finding
+no difference in reaction time or accuracy across the different light
+intensities. 

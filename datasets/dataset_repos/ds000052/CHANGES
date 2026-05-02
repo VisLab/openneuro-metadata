@@ -1,0 +1,12 @@
+Unrevisioned 20110411
+
+    - Initial Release
+
+Update 20160128
+
+    - Remove orphaned symbolic links from feat output folders.
+
+2.0.0 20160511
+
+    - Repackaged in BIDS format
+

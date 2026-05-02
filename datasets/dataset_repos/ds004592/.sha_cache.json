@@ -1,0 +1,13 @@
+{
+  "CHANGES": "75af5bfbc19b03e336a7844f6f8ba92d46a056e7",
+  "participants.tsv": "8c8579d2c44f90fe00325770f87a348c3f153b16",
+  "dataset_description.json": "80a092fd857981844c4be0f145e0e3b1dec470b1",
+  "task-sitcomep1_events.tsv": "882d6f58001b657af1c75d38b460cb535accfe3e",
+  "README": "556de5451d4cb635915b50b4468ca837f0b1f26d",
+  "task-documentary_events.tsv": "a094cc2659a9b5ca6da35654eb1185e3eb62e79c",
+  "task-gradCPTface_events.json": "9a05d35b16c0ef1c5619a2cc8b7d32f84a9762ea",
+  "task-gradCPTscene_events.json": "2e08c2797eba1f0f386fe63d0716dc40818fe936",
+  "task-sitcomep2_events.tsv": "35a317577f012c52d0caac57ac2609f4e86fdae1",
+  "sub-001/ses-02/func/sub-001_ses-02_task-gradCPTface_events.tsv": "c4d8e4722a4b0458b605486cebf95204931dafcb",
+  "sub-001/ses-02/func/sub-001_ses-02_task-gradCPTscene_events.tsv": "4c2f40cbb304a118b15344472bad931d81858f3a"
+}

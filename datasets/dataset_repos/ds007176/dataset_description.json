@@ -1,0 +1,27 @@
+{
+    "Name": "Longitudinal EEG Test-Retest Reliability in Healthy Individuals",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Verónica Henao Isaza",
+        "Valeria Cadavid Castro",
+        "Luisa María Zapata Saldarriaga",
+        "Yorguin-Jose Mantilla-Ramos",
+        "Jazmín Ximena Suarez Revelo",
+        "Carlos Andrés Tobón Quintero",
+        "John Fredy Ochoa Gómez"
+    ],
+    "Acknowledgements": "We thank all participants and staff involved in data collection.",
+    "HowToAcknowledge": "Please cite: Henao Isaza V, et al. Longitudinal test-retest reliability of quantitative EEG in healthy individuals using an automated preprocessing approach.",
+    "Funding": [
+        "Comité para el Desarrollo de la Investigación - CODI, Universidad de Antioquia"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1016/j.bspc.2026.109484"
+    ],
+    "EthicsApprovals": [
+        "Approval by Universidad de Antioquia Ethics Committee"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007176.v1.0.2"
+}

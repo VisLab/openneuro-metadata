@@ -1,0 +1,24 @@
+{
+    " trial_type": {
+      "Rs7":{"Description": "1st resting state epoch Session 2, prior to memory reactivation"},
+      "Rs8":{"Description": "2nd resting state epoch Session 2"},
+      "Rs9":{"Description": "3rd resting state epoch Session 2"},
+      "Rs10":{"Description": "4th resting state epoch Session 2"},
+      "Re1":{"Description": "1st memory reactivation cue"},
+      "Re2":{"Description": "2nd memory reactivation cue"},
+      "Re3":{"Description": "3rd memory reactivation cue"},              	"Fx": {"Description": "fixation cross + bell presented before start of film clip, to make sure participants focus their attention on the screen"},
+        "Key":{"Description": "button press"}
+                },
+    "onset": {
+        "Description": "onset of the stimulus",
+        "Unit": "seconds"
+    },
+    " duration": {
+        "Description": "duration of the stimulus",
+        "Unit": "seconds"
+    },
+    " weight": {
+        "Description": "relative magnitude of stimulus. Usually set to 1"
+    }
+
+}

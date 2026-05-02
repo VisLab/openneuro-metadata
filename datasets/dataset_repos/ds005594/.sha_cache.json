@@ -1,0 +1,9 @@
+{
+  "CHANGES": "bbe6946ed46ec8384720acdef8ccc9a9a056feb4",
+  "participants.tsv": "2189ac69f8c202acc361768b05a920d69e69bf9e",
+  "participants.json": "17eb59aef3d18a330e5b4ea1219b46511fc35b15",
+  "README": "39875bf201575d6ed84085af0da127f20f867a55",
+  "dataset_description.json": "1373d0a0e676febaee5f3cb844d881cffbc07fbd",
+  "sub-01/eeg/sub-01_task-alphabeticdecision_events.json": "04fa8c01dfad957102bfead26aadab2115b6c526",
+  "sub-01/eeg/sub-01_task-alphabeticdecision_events.tsv": "e96641917af0acbe7d064ad46a935b5822cbbbfd"
+}

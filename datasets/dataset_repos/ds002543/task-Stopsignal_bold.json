@@ -1,0 +1,7 @@
+{
+	"RepetitionTime":2.0,
+	"TaskName": "Stopsignal",
+	"EpiFactor": 43,
+	"MultiBandFactor": 1,
+    "SliceOrder": "ascending"
+}

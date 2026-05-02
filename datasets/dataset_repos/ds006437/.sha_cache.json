@@ -1,0 +1,11 @@
+{
+  "task-hypnotherapy_events.json": "5be3e75c7db0882dedd4382a370c81a5646906f4",
+  "dataset_description.json": "60ae2cd751219b5515a215cc1b29e49b8f8b102e",
+  "README": "7847f4a5c7692b14e37fdf62ff9c2340fa60c039",
+  "participants.tsv": "a796fb0377b0b38dc990e7883484b896c9ba37ce",
+  "participants.json": "de869baf6b6f171ce9530b4627ad7bcb0a4a4208",
+  "CHANGES": "753d6fbb300cdcb7ce5ab7e25a052e2c6911f062",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-hypnotherapy_events.tsv": "613c7eecf9565226659bf09f4350377b43d71e17",
+  "sub-001/ses-8/eeg/sub-001_ses-8_task-hypnotherapy_events.tsv": "13c4bec9c2046b6562dc5a31c10d5ea499cb5b9a",
+  "sub-001/ses-4/eeg/sub-001_ses-4_task-hypnotherapy_events.tsv": "d6f5bc6d2ba9da6547c658ecad771657391201b4"
+}

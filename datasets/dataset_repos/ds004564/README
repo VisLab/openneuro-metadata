@@ -1,0 +1,42 @@
+# BIDS Resting State fMRI Dataset
+
+This dataset contains preprocessed resting state fMRI data collected from 2 subjects using a Siemens 3T MRI scanner. Each subject completed a single resting state scan lasting approximately 6 minutes.
+
+## Subjects
+
+- sub-17017
+- sub-19738
+
+## Scanning Parameters
+
+- TR = 2.0 s
+- TE = 30 ms
+- Flip angle = 90 degrees
+- 32-channel head coil
+- Resolution = 3mm isotropic
+
+## Preprocessing
+
+The fMRI data were preprocessed using FSL (version 6.0.4) and included motion correction, slice-timing correction, spatial smoothing with a 6mm FWHM Gaussian kernel, and high-pass filtering with a cutoff of 0.01 Hz.
+
+## Data Organization
+
+The dataset is organized according to the BIDS specification (version 1.6.0), with each subject's data contained within a separate directory. The directory structure is as follows:
+
+dataset/
+├── sub-17017/
+│ ├── anat/
+│ ├── func/
+│ ├── fmap/
+│ ├── dwi/
+│ └── ...
+├── sub-19738/
+│ ├── anat/
+│ ├── func/
+│ ├── fmap/
+│ ├── dwi/
+│ └── ...
+└── README
+
+
+Please see the BIDS specification for further details on the organization of the data.

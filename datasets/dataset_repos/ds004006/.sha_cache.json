@@ -1,0 +1,15 @@
+{
+  "participants.tsv": "92d607d984cf4107b2df4863e06d4bf2fc7cc34b",
+  "task-random_bold.json": "2aee95d92ca9ff92b12f19503bfcc4e651291df3",
+  "task-pair_bold.json": "a735bf392695e9d5e795feb799afec72614d0fd4",
+  "CHANGES": "82b680415d3f0785f70b415306d11eb1990833a3",
+  "dataset_description.json": "110a3b6ef7e275ffa0e50f9c4658ae2a4952c2ac",
+  "sub-01/func/sub-01_task-pair_run-01_events.tsv": "7cb9e13f3a6e196ba2ed4c4fbe7c66e9762e5331",
+  "sub-01/func/sub-01_task-pair_run-03_events.tsv": "53b18ba1a830952f352f1a5cf4365f6bba985dec",
+  "sub-01/func/sub-01_task-pair_run-04_events.tsv": "e23f084d27a4104041e2b4977e33e8186768633c",
+  "sub-01/func/sub-01_task-pair_run-02_events.tsv": "7bd79f96310389922e9e1ede4a842d5be2890435",
+  "sub-01/func/sub-01_task-pair_run-06_events.tsv": "fad2a9d1a60d9045c3636fde8e83267d97361d35",
+  "sub-01/func/sub-01_task-pair_run-05_events.tsv": "1f373cf0e8b9fa1342badda02a059823881bc08e",
+  "sub-01/func/sub-01_task-random_run-02_events.tsv": "b61aee151f36e659b4081704315b57b9bfa8207b",
+  "sub-01/func/sub-01_task-random_run-01_events.tsv": "8045b9067238ef1839d29596316687ba79632584"
+}

@@ -1,0 +1,44 @@
+{
+  "onset": {
+    "LongName": "Trial onset time",
+    "Description": "Onset time of the first stimulus",
+    "Units": "s"
+  },
+  "duration": {
+    "LongName": "Trial duration",
+    "Description": "Duration of trial from beginning of first stimulus to end of fixation",
+    "Units": "s"
+  },
+  "trial_type": {
+    "LongName": "Trial Condition",
+    "Description": "Category of trial based on stimuli characteristics",
+    "Levels": {
+    	"Etrue": "Easy problem with correct answer",
+    	"Efalse": "Easy problem with incorrect answer",
+    	"Htrue": "Hard problem with correct answer",
+    	"Hfalse": "Hard problem with incorrect answer",
+    	"control": "Blue box judgement"
+    }
+  },
+  "accuracy": {
+    "LongName": "Trial accuarcy",
+    "Description": "Indicates if participant made correct or incorrect response",
+    "levels": {
+      "0": "incorrect",
+      "1": "correct"
+    }
+  },
+  "response_time": {
+    "LongName": "Response Time",
+    "Description": "Subject response time measrured from beginning of presentation of second stimulus",
+    "Units": "s"
+  },
+  "prime_stim": {
+  	"LongName": "Prime stimulus",
+	"Description":"Presented multiplication problem"
+  },
+ "target_stim": {
+ 	"LongName": "Target stimulus",
+	 "Description": "Presented problem solution or filename"  
+  }
+}

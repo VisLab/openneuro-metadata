@@ -1,0 +1,22 @@
+Oliva Mapping Hand Function Imaging Neuroscience 2025
+
+
+Data includes:
+
+- Anatomical brain-extracted T1w image
+- Functional brain data for Finger Tapping and Force Matching tasks
+- Anatomical defaced T2w spinal cord image
+- Functional spinal cord data for Finger Tapping and Force Matching tasks
+
+	In derivatives/labels:	
+	- Anatomical T2w spinal cord image registered to PAM50 template
+	- Segmentation of spinal cord functional images (Finger Tapping and Force Matching tasks)
+
+	In derivatives/physio:
+	- Raw and processed physio files (cardiac pulse and respiration)
+
+
+Note: 
+
+- The following subjects completed the tasks in two separate days due to technical issues: sub-NSPilot006, sub-NSPilot014
+- Task regressors are shared in GitHub at the following link: https://github.com/NeuromuscularInsightLab/Oliva_Mapping_Hand_Functon_Imaging_Neuroscience_2025/tree/main/trialwise_analysis

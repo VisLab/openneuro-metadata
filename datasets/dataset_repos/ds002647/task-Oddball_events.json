@@ -1,0 +1,60 @@
+{
+    "TrialEvent": {
+        "Description": "The specific trial event that occurs at this onset timestamp",
+        "Levels": {
+          "TrialStart": "Marks the onset of the trial start",
+          "ToneStart": "Marks the onset of the 200-ms tone"
+        }
+    },
+
+		"ToneLabel": {
+        "Description": "The type of 200-ms tone clip played in this trial",
+        "Levels": {
+          "Standard": "500-Hz tone (participants should not respond)",
+          "Novel": "Natural novel tone (participants should not respond)",
+					"Oddball": "1000-Hz tone (participants should respond)"
+        }
+    },
+
+		"Trial": {
+        "Description": "Trial number (from 1-120)"
+    },
+
+    "CRESP": {
+      "Description": "The correct response for this trial",
+      "Levels": {
+				"0": "No button press",
+        "1": "Button press"
+      }
+    },
+
+		"RESP": {
+      "Description": "The participant's response to this trial",
+      "Levels": {
+				"0": "No button press",
+        "1": "Button press"
+      }
+    },
+
+		"ACC": {
+      "Description": "The participant's response accuracy for this trial (i.e., ACC = 1 if RESP == CRESP)",
+      "Levels": {
+				"0": "Incorrect",
+        "1": "correct"
+      }
+    },
+
+    "RT": {
+        "Description": "Response time to the tone (if button was pressed)"
+    },
+
+    "Code": {
+      "Description": "Trial response code (based on CRESP and RESP)",
+      "Levels": {
+				"Hit": "Correctly responded to Oddball tone (CRESP = 1, RESP = 1)",
+				"CorrectRejection": "Correctly ignored non-Oddball tone (CRESP = 0, RESP = 0)",
+				"Miss": "Incorrectly ignored Oddball tone (CRESP = 1, RESP = 0)",
+        "FalseAlarm": "Incorrectly responded to non-Oddball tone (CRESP = 0, RESP = 1)"
+      }
+    }
+}

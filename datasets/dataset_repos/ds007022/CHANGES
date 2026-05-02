@@ -1,0 +1,9 @@
+1.1.0 2026-04-14
+  - - added recommended sidecar files' fields
+  - - added .bidsignore and reference files for the analysis of the Play Music (playback) task
+  - - removed the link to github, since the files from there were migrated to openneuro
+  - - added links to external papers derived from the dataset
+1.0.1 2025-12-04
+  - - added how to acknowledge and an external link to GitHub 
+1.0.0 2025-12-04
+  - Initial upload of the dataset

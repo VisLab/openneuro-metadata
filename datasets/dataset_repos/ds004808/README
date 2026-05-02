@@ -1,0 +1,11 @@
+This dataset includes anatomical and functional images of 24 participants that have performed the local-global task.
+
+ Functional images  are: <br>
+- 4 runs partial-brain functional echo planar images (EPI) images centered on the brainstem <br>
+- 2 volumes with opposite phase encoding directions: anterior to posterior direction (AP) and the other direction (PA)
+
+Anatomical images are: <br>
+- 2 partial-brain Turbo Spin Echo (TSE) <br> 
+- 1 whole-brain structural T1 image with an MPRAGE sequence 
+
+Behavioural, physiological, and pupil data can be found on OSF at <a href="https://osf.io/td5kp/">https://osf.io/td5kp/</a> . 

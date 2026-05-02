@@ -1,0 +1,13 @@
+This dataset contains QSIRecon (version 1.0.1) derivatives for the PAFIN dataset (https://openneuro.org/datasets/ds006131), derived from QSIPrep outputs (https://openneuro.org/datasets/ds006182).
+
+The command used is:
+
+```
+qsirecon \
+    /data/qsiprep \
+    /data/qsirecon \
+    participant \
+    --output-resolution 1.7 \
+    --recon-spec /code/recon_spec.yml \
+    --report-output-level session  
+```

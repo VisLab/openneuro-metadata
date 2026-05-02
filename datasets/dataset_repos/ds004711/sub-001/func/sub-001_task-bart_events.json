@@ -1,0 +1,32 @@
+{"onset": {
+        "Description": "Onset (in seconds) of balloon display."}, 
+              "duration": {
+              "Description": "Reaction time (in seconds) from onset of the display of the balloon until a response (e.g., pump or cashout) was recorded."},
+              "balloon_number": {
+              "Description": "Balloon number (variable across participants)."},
+              "balloon_idx": {
+              "Description": "Index of single events or actions within a given balloon (e.g., subsequent pumps and a cashout action)."},
+              "response": {
+              "Description": "Response provided by the participant for a given display; pump = participant pressed 3 to administer a pump, or participant pressed 4 to stop pumping and cash out earnings accumulated over the current balloon."},
+              "pumps": {
+              "Description": "Number of pumps administered on a given balloon."},
+              "pumps_demean_all": {
+              "Description": "Demeaned number pumps administered on a given balloon, where the mean for an individual participant was calculated across all pumps (that is, all pumps on reward balloons and all pumps on control balloons)."},
+              "pumps_demean_type": {
+              "Description": "Demeaned number pumps administered on a given balloon, where the mean for an individual participant was calculated separately for different balloon types (i.e., a mean number of pumps for control balloons, a mean number of pumps for linear reward balloons, and a mean number of pumps for exponential reward balloons)."},
+              "balloon_type": {
+              "Description": "Balloon type, where control = control balloons, no reward; exponential = reward balloon with an exponential reward function; linear = reward balloon with a standard monotonically increasing payoff function."},
+              "balloon_outcome": { 
+              "Description": "The outcome for a particular balloon. For reward balloons, outcome could be either an explosion or a cash out. For control balloons, there was no direct outcome so here we label the outcome accordingly as control."},
+              "balloon_maxpumps": {
+              "Description" :"The number of maximum pumps for a given balloon, drawn from a uniform distribution between 1 and 16 (same for reward and control balloons)."},
+              "balloon_colour": {
+              "Description": "The associated balloon colour. Control balloons were consistently grey. As for the reward balloons, red and blue balloons were randomly assigned to participants to symbolize either linear or exponential reward functions"},
+              "balloon_payoff_cumulative": {
+              "Description": "Cumulative payoff associated with additional pumps within a balloon."},
+              "balloon_payoff_total": {
+              "Description": "Total payoff for a balloon that did not explode. Exploded balloons contributed 0 to total earnings."},
+              "onset_explosion": {
+              "Description": "Onset (in seconds) of an exploded balloon display in cases participants pumped above a balloon-specific threshold causing the balloon to burst."},
+              "duration_explosion": {
+              "Description": "Duration (in seconds) of the explosion display; this was consistently 2 seconds."}}

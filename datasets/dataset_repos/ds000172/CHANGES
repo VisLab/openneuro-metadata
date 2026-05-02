@@ -1,0 +1,9 @@
+1.0.1 2019-05-16
+  - Added link to corresponding publication
+1.0.0 2019-05-01
+  - Removed TotalReadoutTime from task-rest_bold.json (it incorrectly equaled zero)
+  - Separated magnitude1 (which contained two volume) into magnitude1 and magitude2 for each subject
+
+1.0.0	2019-04-30
+
+	- Initial snapshot

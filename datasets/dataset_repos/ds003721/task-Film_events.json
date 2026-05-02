@@ -1,0 +1,47 @@
+{
+    " trial_type": {
+        "Rs0": {"Description": " 1st resting state epoch. True baseline, before any film clips are presented"},
+        "Rs1": {"Description": " 2nd resting state epoch "},
+        "Rs2": {"Description": " 3rd resting state epoch "},
+        "Rs3": {"Description": " 4th resting state epoch "},
+        "Rs4": {"Description": " 5th resting state epoch "},
+        "Rs5": {"Description": " 6th resting state epoch "},
+        "Rs6": {"Description": " 7th resting state epoch "},
+        "En1":{"Description": "1st film clip. Either Shave or Leg"},
+        "En2":{"Description": "2nd film clip. Either Eye or Seatbelt"},
+        "En3":{"Description": "3rd film clip. Either Elephant or Shave"},
+        "En4":{"Description": "4th film clip. Either Speeding or Elephant"},
+        "En5":{"Description": "5th film clip. Either Leg or Speeding"},
+        "En6":{"Description": "6th film clip. Either Seatbelt or Eye"},
+        "Fx": {"Description": "fixation cross + bell presented before start of film clip, to make sure participants focus their attention on the screen"},
+        "Key":{"Description": "button press"},
+"A1A2":{"Description": "A1 - Shave"},
+"A5A6":{"Description": "A2 - Shave"},
+"A7A11":{"Description": "A3 - Shave"},
+"A9A10":{"Description": "A4 - Shave"},
+"B2B3":{"Description": "B1 - Elephant"},
+"B6B7B8":{"Description": "B2 - Elephant"},
+"C2":{"Description": "C1 - Eye"},
+"C4":{"Description": "C2 - Eye"},
+"D1D2":{"Description": "D1 - Leg"},
+"D3D4":{"Description": "D2 - Leg"},
+"E1":{"Description": "E1 - Speeding"},
+"E2E3E4E5E6":{"Description": "E2 - Speeding"},
+"E20":{"Description": "E3 - Speeding"},
+"F6":{"Description": "F1 - Seatbelt"},
+"F9F10":{"Description": "F2 - Seatbelt"},
+"F12":{"Description": "F3 - Seatbelt"}
+                },
+    "onset": {
+        "Description": "onset of the stimulus",
+        "Unit": "seconds"
+    },
+    " duration": {
+        "Description": "duration of the stimulus",
+        "Unit": "seconds"
+    },
+    " weight": {
+        "Description": "relative magnitude of stimulus. Usually set to 1"
+    }
+
+}

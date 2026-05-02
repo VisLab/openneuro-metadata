@@ -1,0 +1,9 @@
+{
+    "BIDSVersion": "1.0.2",
+    "Name": "SerumGreyMatterCorticalThickness",
+    "License": "CC0",
+    "Authors": [
+        "Rajendra Morey, M.D."
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002380.v1.0.1"
+}

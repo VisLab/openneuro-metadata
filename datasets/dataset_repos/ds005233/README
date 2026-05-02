@@ -1,0 +1,72 @@
+Written June 4, 2024
+by Stuart D. Washington, PhD
+
+***********************************
+*    Regarding Functional Scans   *
+***********************************
+Structural scans are in the folder "func" for each subject.
+
+Resting state scans are called "sub-N_ses-1_task-restingstate_run-1_bold" where "N" is the subject number.
+
+Noiseband scans are called "sub-2_ses-1_task-ultrasonicnoise_run-1_bold" where "N" is the subject number.
+
+We named the bats by a specific number when they were first introduced to the colony.  
+We simplified the naming of bats for readability in the text of Washington et al (2024) and its Supplemental Information.  
+In these folders, the bat's subject data are listed by their actual, original numbers rather than their numbers in the text. 
+However, it is easy to follow the change.
+
+Text_Animal# --> Actual_Animal# --> Subject#
+
+Bat1 --> Bat2  --> sub-2
+Bat2 --> Bat6  --> sub-6
+Bat3 --> Bat9  --> sub-9
+Bat4 --> Bat10 --> sub-10
+Bat5 --> Bat11 --> sub-11
+Bat6 --> Bat12 --> sub-12
+Bat7 --> Bat13 --> sub-13
+Bat8 --> Bat14 --> sub-14
+Bat9 --> Bat1  --> sub-1
+
+***********************************
+*    Regarding Structural Scans   *
+***********************************
+
+Structural scans are in the folder "anat" for each subject.
+
+Axial T2-weighted scans are "sub-N_ses-1_acq-axial_T2w" where "N" is the subject number.
+
+Coronal T2-weighted scans are "sub-N_ses-1_acq-coronal_T2w" where "N" is the subject number.
+
+"Axial" and "Coronal" are based on the "prone" position common in animal MRI studies, not the "supine" position common in human studies.
+Thus, in the images in the "Axial" subfolder contains typically "coronal" images, and the "Coronal" subfolder contains "axial" images.    
+
+We were able to get structural scans for 13 out of an original set of 15 bats.
+
+Bats were assigned names and numbers before experiments were carried out.  
+
+Technical difficulties prevented any successful scanning of "Bat_3 (sub-3)" or "Bat_8 (sub-8)".
+
+There were no reported analyses performed on structural data except for the creation of a study-based template.
+
+Thus the names of animals and numbers for structural scans are not as directly relevant to the results reported as are the functional scans.
+
+The list of animals by name and number for structural scans follows the pattern above.
+
+Animals that did not have functional scans but did have structural scans are labeled "NoF" (no functional) in the left column below.
+
+Text_Animal# --> Actual_Animal# --> Subject#
+
+Bat1 --> Bat2  --> sub-2
+(No Bat3 --> No sub_3)
+NoF  --> Bat4  --> sub-4
+NoF  --> Bat5  --> sub-5
+Bat2 --> Bat6  --> sub-6
+NoF  --> Bat7  --> sub-7
+(No Bat8 --> No sub_8)
+Bat3 --> Bat9  --> sub-9
+Bat4 --> Bat10 --> sub-10
+Bat5 --> Bat11 --> sub-11
+Bat6 --> Bat12 --> sub-12
+Bat7 --> Bat13 --> sub-13
+Bat8 --> Bat14 --> sub-14
+Bat9 --> Bat1  --> sub-1

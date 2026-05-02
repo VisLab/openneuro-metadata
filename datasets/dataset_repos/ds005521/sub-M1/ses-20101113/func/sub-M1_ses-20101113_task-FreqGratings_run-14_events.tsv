@@ -1,0 +1,26 @@
+onset	duration	colors	frequency
+0	16	Red Green	8.0
+16	16	Gray	n/a
+32	16	Red Green	0.2
+48	16	Gray	n/a
+64	16	Blue Yellow	0.2
+80	16	Gray	n/a
+96	16	Blue Yellow	8.0
+112	16	Gray	n/a
+128	16	Black White low	0.2
+144	16	Gray	n/a
+160	16	Black White low	8.0
+176	16	Gray	n/a
+192	16	Blue Yellow	4.0
+208	16	Gray	n/a
+224	16	Black White low	4.0
+240	16	Gray	n/a
+256	16	Red Green	4.0
+272	16	Gray	n/a
+288	16	Black White high	8.0
+304	16	Gray	n/a
+320	16	Black White high	4.0
+336	16	Gray	n/a
+352	16	Black White high	0.2
+368	16	Gray	n/a
+384	16	Gray	n/a

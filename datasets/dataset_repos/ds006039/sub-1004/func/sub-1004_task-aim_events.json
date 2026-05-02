@@ -1,0 +1,58 @@
+{
+  "onset": {
+    "LongName": "Event onset",
+    "Description": "Time from the beginning of the scan when the event starts, in seconds",
+    "Units": "seconds"
+  },
+  "duration": {
+    "LongName": "Event duration",
+    "Description": "Length of the event in seconds",
+    "Units": "seconds"
+  },
+  "block": {
+    "LongName": "Block number",
+    "Description": "Identifier for fMRI block number"
+  },
+  "trial": {
+    "LongName": "Trial number",
+    "Description": "Identifier for the trial number"
+  },
+  "phase": {
+    "LongName": "Phase of experiment",
+    "Description": "Experimental phase during which the trial occurred",
+    "Levels": {
+      "study": "Study phase",
+      "test": "Test phase"
+    }
+  },
+  "trialtype": {
+    "LongName": "Trial type",
+    "Description": "Pair type (during study phase) or Test type (during test phase)",
+    "Levels": {
+      "AB": "AB pair",
+      "BC": "BC pair",
+      "AC": "AC pair (only during test)"
+    }
+  },
+  "category": {
+    "LongName": "Stimulus category",
+    "Description": "Category of the linking (B) item in the pair presented on the trial",
+    "Levels": {
+      "Scene": "Scene block",
+      "Face": "Face block"
+    }
+  },
+  "pairnum": {
+    "LongName": "Pair number",
+    "Description": "Identifier for the stimulus pair in the trial. This can be used to match trials from the same triad (ABC)"
+  },
+  "accuracy": {
+    "LongName": "Response accuracy",
+    "Description": "Indicator of whether the participant's response was correct. In the test phase, this corresponds to the accuracy of the response on each trial. In the study phase, this column indicates the back-sorted accuracy of the study phase trial, based on the accuracy of the corresponding indirect test trial",
+    "Levels": {
+      "0": "Incorrect response",
+      "1": "Correct response",
+      "NA": "No response (In the test phase, an NA indicates that the participant did not respond on the given trial. In the study phase, an NA indicates that the corresponding indirect test trial did not receive a response."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+This dataset contains the raw fMRI data accompanying the paper "Overlapping but separate number representations in the intraparietal sulcus – probing format- and modality-independence in sighted Braille readers"  Please cite the above paper if you use this data.
+
+The dataset includes:
+
+1. T1-weighted images for each subject 
+2. functional whole-brain EPI data from 8 runs for each participant
+3. event files containing onsets, durations and trial types for all trials in the corresponding run.
+
+Twenty-five healthy individuals (all female; median age = 25, range = 22–32) participated in the experiment. All participants were right-handed and monolingual, with normal or corrected-to-normal vision. Participants were students or graduates with a minimum of 3 years of higher education (median years of higher education = 5; range = 3–12).
+
+In this experiment we used a rapid block design. The numerosities used were: 2,4,6 and 8 and were presented either as visual Arabic digits, visual sets of dots, or tactile Braille numbers.
+- Each run lasted 402 seconds and contained 6 stimulus sequences separated by fixation
+- Each sequence contained 12 blocks of stimuli
+- Each block contained 4–6 trials of the same kind
+- In each block, participants had to indicate whether the presented numerosity was higher or lower than 5 by pressing one of the two buttons on the response pad
+
+For a full description of the paradigm and the analysis we chose to perform, please see the paper.

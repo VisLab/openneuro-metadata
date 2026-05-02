@@ -1,0 +1,65 @@
+{
+  "onset": {
+    "Description": "Onset of the event in seconds relative to the start of the scan",
+    "Units": "s",
+    "LongName": "Event onset time"
+  },
+  "duration": {
+    "Description": "Duration of the event in seconds",
+    "Units": "s",
+    "LongName": "Event duration"
+  },
+  "trial_type": {
+    "Description": "Type of trial",
+    "Levels": {
+      "distractor": "Distractor stimulus presented to the participant.",
+      "frequent": "Frequent stimulus presented to the participant.",
+      "target": "Target stimulus presented to the participant."
+    },
+    "LongName": "Trial type"
+  },
+  "stimulus": {
+    "Description": "Presented stimulus",
+    "Levels": {
+      "O": "Frequent stimulus",
+      "X": "Target stimulus",
+      "A": "Distractor stimulus",
+      "B": "Distractor stimulus",
+      "C": "Distractor stimulus",
+      "D": "Distractor stimulus",
+      "E": "Distractor stimulus",
+      "F": "Distractor stimulus",
+      "G": "Distractor stimulus",
+      "H": "Distractor stimulus",
+      "I": "Distractor stimulus",
+      "J": "Distractor stimulus",
+      "K": "Distractor stimulus",
+      "L": "Distractor stimulus",
+      "M": "Distractor stimulus",
+      "N": "Distractor stimulus",
+      "P": "Distractor stimulus",
+      "R": "Distractor stimulus",
+      "S": "Distractor stimulus",
+      "T": "Distractor stimulus",
+      "U": "Distractor stimulus",
+      "V": "Distractor stimulus",
+      "W": "Distractor stimulus",
+      "Y": "Distractor stimulus",
+      "Z": "Distractor stimulus"
+    },
+    "LongName": "Stimulus"
+  },
+  "response_time": {
+    "Description": "Reaction time in seconds",
+    "Units": "s",
+    "LongName": "Response time"
+  },
+  "correct": {
+    "Description": "Evaluating whether the response was correct or incorrect",
+    "LongName": "Response correctness",
+    "Levels": {
+      "1": "Correct",
+      "0": "Incorrect"
+    }
+  }
+}

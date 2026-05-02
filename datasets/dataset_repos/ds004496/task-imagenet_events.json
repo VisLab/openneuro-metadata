@@ -1,0 +1,8 @@
+{
+  "response": {
+    "Description": "the participants response druing the experiment. 1 stands for animate and -1 stands for inanimate"
+  },
+  "response_time": {
+    "Description": "the participants response time druing the experiment"
+  }
+}

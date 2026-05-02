@@ -1,0 +1,20 @@
+{
+  "CHANGES": "a9c5fed6a54e9def6f1cb4eadc6e344be0403c7b",
+  "task-langloc_bold.json": "afdeb9dc40a9ca7b1e8e21525e057478099ef4d4",
+  "task-litlong_bold.json": "ba0cb9a54f2f77554fa368533a054182569592cc",
+  "task-litshort_bold.json": "e6327cbdfb89ead47baa31bfbe2bdb9178947721",
+  "README": "dfb74e15dfbf627aa76afc0f56bb044fc91d4a28",
+  "dataset_description.json": "adb04c28b5ccb9befbec876c9a67618abb525856",
+  "participants.tsv": "e91842d1d81d1fcd9778ad4084eee8d054b6e87c",
+  "task-tom_bold.json": "c0564c5ffba1a492c370f0d79da17fa88458c794",
+  "sub-SAXLIT201/func/sub-SAXLIT201_task-langloc_run-001_events.tsv": "ea1f793b4e090055784c740da842c7af80a7a6da",
+  "sub-SAXLIT201/func/sub-SAXLIT201_task-litlong_run-002_events.tsv": "576fb8a174e7cfeb44265ad694eb50e025196206",
+  "sub-SAXLIT201/func/sub-SAXLIT201_task-litlong_run-001_events.tsv": "7c26c6063c9401039cd940401e6926594e1283f3",
+  "sub-SAXLIT201/func/sub-SAXLIT201_task-langloc_run-002_events.tsv": "a8924885c847e7a95da58eefa3fc7a1592b1befe",
+  "sub-SAXLIT201/func/sub-SAXLIT201_task-tom_run-001_events.tsv": "05a393ff4441a4c3f99747f14443cb3aad732438",
+  "sub-SAXLIT201/func/sub-SAXLIT201_task-litshort_run-003_events.tsv": "173f9478623643986648b6d03dc6299ad642118f",
+  "sub-SAXLIT201/func/sub-SAXLIT201_task-tom_run-002_events.tsv": "5fa14529669498ad04f329da9663b40665b59650",
+  "sub-SAXLIT201/func/sub-SAXLIT201_task-litshort_run-002_events.tsv": "93f3469e717f56038b45fa912268ccc0a515dbdf",
+  "sub-SAXLIT201/func/sub-SAXLIT201_task-litshort_run-004_events.tsv": "e7b53cda3b3c08c7dad1a47baeeba2914273daf8",
+  "sub-SAXLIT201/func/sub-SAXLIT201_task-litshort_run-001_events.tsv": "fbd5ff0ca09c2f0aa6f3be9bc8292807f95fc48c"
+}

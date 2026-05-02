@@ -1,0 +1,13 @@
+{
+  "README": "6f475a8c3f14cfe255653be7307df806e42135dc",
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "participants.tsv": "26c2a53c2cf4fffc8150f63454d0a71f0e789065",
+  "CHANGES": "e0ab627c9168d0a456552b256188b3662ffa069b",
+  "task-rest_bold.json": "11981acd551a0d8ae40f39dd6007222c7890300d",
+  "dataset_description.json": "fbc96848894db391c41642efdfa4703d2cb8c256",
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "sub-CISC13877/func/sub-CISC13877_task-rest_dir-AP_run-01_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-CISC13877/func/sub-CISC13877_task-rest_dir-PA_run-01_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-CISC13877/func/sub-CISC13877_task-rest_dir-PA_run-02_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-CISC13877/func/sub-CISC13877_task-rest_dir-AP_run-02_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5"
+}

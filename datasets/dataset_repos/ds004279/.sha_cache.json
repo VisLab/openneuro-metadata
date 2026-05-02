@@ -1,0 +1,8 @@
+{
+  "participants.json": "de061dfc242fc7ad149db1314a3e3b37ce8322cd",
+  "CHANGES": "f6aec26ff91703cee4a79e37ff6ea05c08b8b27c",
+  "dataset_description.json": "69c03813ee047b606918c127d2aa51571ae1fdb1",
+  "participants.tsv": "9fa9ddccd03fa832c779b1ce4fddd2d06275db64",
+  "README": "c05d3efcc49fe85821d62772ffa43b8d3683e1e6",
+  "sub-002/ses-01/eeg/sub-002_ses-01_task-sentences_events.tsv": "0d8df44d3e88f41aaa1a4548263ea99153cb1b5e"
+}

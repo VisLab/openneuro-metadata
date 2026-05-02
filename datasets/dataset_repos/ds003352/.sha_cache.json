@@ -1,0 +1,16 @@
+{
+  "participants.tsv": "f4bb1f60280ec85f3f1931626b23b0db37abc9e3",
+  "CHANGES": "6007214c5ca3a2690ee3688ca0cd52e8ee31ad07",
+  "dataset_description.json": "7350b7963d8e8d324fa07e023e6f7a3d174657d7",
+  "README": "6dfb7ef006201fdacb1af0f7d145198a77cd7abb",
+  "participants.json": "54cfffe3c659952f68c8130e587985ad14d417e9",
+  "sub-1/ses-02/meg/sub-1_ses-02_task-ColorSpirals_run-04_events.tsv": "5c076028fb6db40088711f52dc0e9b1ea3f6c86c",
+  "sub-1/ses-01/meg/sub-1_ses-01_task-ColorSpirals_run-03_events.tsv": "539a922e12643afa1dbdc7aa0167c8a5cb6c476e",
+  "sub-1/ses-02/meg/sub-1_ses-02_task-ColorSpirals_run-00_events.tsv": "900c38967b489d1492e6297c276af9cbcb70d5a2",
+  "sub-1/ses-01/meg/sub-1_ses-01_task-ColorSpirals_run-01_events.tsv": "fad2132d9264d677643e29d1e854c7e038a938a1",
+  "sub-1/ses-01/meg/sub-1_ses-01_task-ColorSpirals_run-02_events.tsv": "593ad5584548e4b0e39d4a1fee11083577ee4d8c",
+  "sub-1/ses-02/meg/sub-1_ses-02_task-ColorSpirals_run-02_events.tsv": "dc76312334512ffb7725d64fea03bd92890f0441",
+  "sub-1/ses-02/meg/sub-1_ses-02_task-ColorSpirals_run-01_events.tsv": "ee20ef5044468a8ed1b8ce3da048dbea0bd08a16",
+  "sub-1/ses-02/meg/sub-1_ses-02_task-ColorSpirals_run-03_events.tsv": "cd9ac3e3e438e04a30ad7ae87fa1d76ea9cf3ad3",
+  "sub-1/ses-01/meg/sub-1_ses-01_task-ColorSpirals_run-00_events.tsv": "a985ad3d156bd8932a50a81d767e85221b9011db"
+}

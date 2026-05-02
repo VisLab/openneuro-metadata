@@ -1,0 +1,95 @@
+{
+    "onsetsample": {
+        "Description": "the onset time of the event in samples, relative to the start of the EEG (bdf) file"
+    },
+    "eventnumber": {
+        "Description": "event number relative to the task (pre-test, categorisation, post-test)"
+    },
+    "stimnumber": {
+        "Description": "ID number of the stimulus that was shown"
+    },
+    "stimname": {
+        "Description": "name of the stimulus that was shown"
+    },
+    "blocknumber": {
+        "Description": "block number"
+    },
+    "trialnumber": {
+        "Description": "trial number per block"
+    },
+    "istarget": {
+        "Description": "stimulus is not a target (0), is a traget (1), is padding (2), used in the pre- and post-test only"
+    },
+    "time_stimon": {
+        "Description": "time the stimulus is presented, resets for each part"
+    },
+    "time_stimoff": {
+        "Description": "time the stimulus is taken away, resets for each part"
+    },
+    "stimdur": {
+        "Description": "stimulus duration in seconds"
+    },
+    "stimfilename": {
+        "Description": "name of the stimulus that was shown"
+    },
+    "spatial_freq": {
+        "Description": "spatial frequency of the stimulus that was shown"
+    },
+    "pattern": {
+        "Description": "pattern of the stimulus that was shown"
+    },
+    "contrast": {
+        "Description": "contrast of the stimulus that was shown"
+    },
+    "shape": {
+        "Description": "shape of the stimulus that was shown"
+    },
+    "is_fast_stream": {
+        "Description": "is this a fast stream (pre- or post-test)(1) or the main categorisation task (0)"
+    },
+    "category": {
+        "Description": "stimulus category, as chosen by the pair"
+    },
+    "ppt_1_response": {
+        "Description": "category response of ppt 1 in the pair"
+    },
+    "ppt_1_keypressed": {
+        "Description": "response button used by ppt 1 in the pair"
+    },
+    "ppt_1_rt": {
+        "Description": "response time of ppt 1 in the pair"
+    },
+    "ppt_1_correct": {
+        "Description": "did ppt 1 in the pair give the correct response?"
+    },
+    "ppt_2_response": {
+        "Description": "category response of ppt 2 in the pair"
+    },
+    "ppt_2_keypressed": {
+        "Description": "response button used by ppt 2 in the pair"
+    },
+    "ppt_2_rt": {
+        "Description": "response time of ppt 2 in the pair"
+    },
+    "ppt_2_correct": {
+        "Description": "did ppt 2 in the pair give the correct response?"
+    },
+    "button1": {
+        "Description": "button mapping shown to the participants for button 1"
+    },
+    "button2": {
+        "Description": "button mapping shown to the participants for button 2"
+    },
+    "button3": {
+        "Description": "button mapping shown to the participants for button 3"
+    },
+    "button4": {
+        "Description": "button mapping shown to the participants for button 4"
+    },
+    "task_part_number": {
+        "Description": "part of the experiment: pre-test (1), main categorisation task (2), or post-test (3)"
+    },
+    "subjectnr": {
+        "Description": "pair ID number"
+    }
+}

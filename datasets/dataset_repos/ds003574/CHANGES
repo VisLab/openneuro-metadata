@@ -1,0 +1,9 @@
+1.0.2 2021-06-07
+  - Onsets are now expressed in secs and not in scans
+1.0.1 2021-06-02
+  - We changed the name of the subjects in the participant.tsv file and we removed the empty columns in the event.tsv files
+0.0.1  Initial data acquired
+TODOs:
+	- verify and possibly extend information in participants.tsv (see for example http://datasets.datalad.org/?dir=/openfmri/ds000208)
+	- fill out dataset_description.json, README, sourcedata/README (if present)
+	- provide _events.tsv file for each _bold.nii.gz with onsets of events (see  '8.5 Task events'  of BIDS specification)

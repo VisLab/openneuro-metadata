@@ -1,0 +1,17 @@
+{
+  "CHANGES": "737a94848f62861ac439dbf0ad55cb8660c94280",
+  "dataset_description.json": "b2329865f40d9df027862e48499aa95720cc8bc9",
+  "task-game_bold.json": "b5356da4d2099199dda8fd764fa49ec650fd99d0",
+  "task-game_run-2_events.json": "e738f6b46e9e3d0ab1d8492a5bd65b44c55d4c10",
+  "README": "7c5fac025e7aa4673ba0525bfa140f0ed24c0851",
+  "task-game_run-1_events.json": "615e1494c8d85455553e9ba2fc7f8a2bbdbacb2c",
+  "task-rest_bold.json": "3a70ff9c6fe70bdcc3fa13c7b492eb23312bc737",
+  "participants.tsv": "ae563a5ff76801c9240865f4630f46c84f715026",
+  "participants.json": "e44e9189c12f22e62afff946b6afbeffd4a9a800",
+  "sub-01/func/sub-01_task-game_run-1_events.tsv": "3624a07dc741fe847a75457aaef2f428d86e8492",
+  "sub-01/func/sub-01_task-game_run-2_events.tsv": "f6e269e6ae2a1e057552c97e872876ca97a1900d",
+  "sub-01/func/sub-01_task-game_run-2_events.json": "602489a3d983eec6010b110e9ddbd8302e9a4e14",
+  "sub-01/eeg/sub-01_task-rest_events.json": "f1466a9e964db56edfc1addc92442d2ba148a9d9",
+  "sub-01/func/sub-01_task-game_run-1_events.json": "dd022863c0f2d02e2385d45843b2c43a6cbf0e88",
+  "sub-01/eeg/sub-01_task-rest_events.tsv": "849ee1e4ae37023f9a10526c74c4c2a3312dadfa"
+}

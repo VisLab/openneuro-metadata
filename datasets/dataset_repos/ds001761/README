@@ -1,0 +1,27 @@
+# Reconstructing Faces from fMRI Patterns using Deep Generative Neural Networks
+Data folder related to the paper: ["Reconstructing Faces from fMRI Patterns using Deep Generative Neural Networks"](https://arxiv.org/abs/1810.03856) by VanRullen &amp; Reddy (2019)
+### General: 
+4 participants participated in 8 (f)MRI sessions. Each of these 8 sessions consisted of between 11 and 14 runs.
+
+The stimuli folder contains the stimuli that were used on each trial (see description of Events.tsv below). The stimuli folder also contains a file called ImageNames2Celeba.txt, which links each stimulus with the original files in the celeba imageset.
+
+The derivatives folder : see the corresponding README file within the derivatives folder.
+
+### The data folder for each participant is organized as follows:
+* sub/ses/anat: contains the T1 anatomical scans (defaced) for this session. Most anat folders contain one T1.nii.gz file. However, when a subject was taken out of the scanner and re-positioned during a session, a second T1 scan was performed. As a result the anat folder for this session will contain two T1.nii.gz files. Defacing was performed using Freesurfer's mri_deface (https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface).
+* sub/ses/func/: contains the *_bold.nii.gz and *-events.tsv files for each experimental run. 
+  * Task Names for BOLD runs
+      *  Face task: This consists of the main task during which subjects viewed unique face images on each trial.    
+      * Localizer tasks: In addition, a few localizer runs were performed which consisted of blocks of faces and objects. 
+  * Events.tsv contains stimulus information for each run.
+      * onset of each event
+      * duration of each event.
+      * For face tasks:
+         * trial_type : "fix" (fixation trial), "train_face" (a face from the training set), "test_face" (a face from the test set), "img" (an imagery trial).
+         * stimulus: path to the stimulus that was displayed. The stimuli used during the experiment are in the stimulus folder.
+         * one_back: a code of 1 indicates that this was a one-back trial.
+      * For localizer tasks:
+         * trial_type : "fix", "face" or "object" blocks
+
+
+

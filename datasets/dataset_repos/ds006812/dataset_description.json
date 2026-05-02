@@ -1,0 +1,23 @@
+{
+    "Name": "Constrained optimized water suppression for 1H MRS of Metabolites and Macromolecules in 3 brain regions at 3T using sLASER",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "HowToAcknowledge": "Please cite this dataset as: Igwe KC, Gajdošík M, Juchem C, Landheer K. Constrained optimized water suppression for 1H MR spectroscopy. Magn Reson Med. 2025;94(3):895-904. doi:10.1002/mrm.30550",
+    "License": "CC0",
+    "Funding": [
+        "None"
+    ],
+    "Authors": [
+        "Kay Igwe",
+        "Karl Landheer",
+        "Martin Gajdošík",
+        "Christoph Juchem"
+    ],
+    "EthicsApprovals": [
+        "Columbia University Institutional Review Board granted ethical approval for this study (protocol #0807009883)"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1002/mrm.30550"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006812.v1.0.1"
+}

@@ -1,0 +1,9 @@
+{
+  "participants.json": "917a5fb65a1dcabc3d0bd91f58bea5e3acc16675",
+  "participants.tsv": "eb80c19d5052d092f0b369a42c5eaa9568c9f26d",
+  "CHANGES": "384aa649ed8566ab6037071d763cc9a5aa506f47",
+  "README": "eaeec01c806b78489ad79c86e07e581b9a7094ac",
+  "dataset_description.json": "b1ff206b7472cac8f9c2904e3093a73f333e0e5f",
+  "sub-001/eeg/sub-001_task-AttendedSpeakerParadigmcEEGridAttention_events.json": "b7ff14596807275d5288cd940f3e415782173cc8",
+  "sub-001/eeg/sub-001_task-AttendedSpeakerParadigmcEEGridAttention_events.tsv": "b27e4287a63ee33ecba84262aee4e07c0adc9c29"
+}

@@ -1,0 +1,43 @@
+
+# pain-reliability-spinalcord
+
+This data set consists of two sessions of task-based spinal cord fMRI data from 40 healthy participants. 
+For each participant, we share 
+i) a T2-weighted anatomical image, 
+ii) fMRI acquisitions of multiple runs with 160 volumes each, and 
+iii) associated peripheral physiological data (behavioral ratings, pupil dilation, ECG and respiratory recordings) 
+    of multiple runs for each session and participant.
+    
+For a more detailed description, please see data set, or check out our manuscript:
+https://doi.org/10.1101/2023.12.22.572825 
+
+## Citing this dataset
+Should you make use of this data set in any publication, please cite the following manuscript:
+https://doi.org/10.1101/2023.12.22.572825 
+
+Dabbagh, A., Horn, U., Kaptan, M., Mildner, T., Mueller, R., Lepsien, J., Weiskopf, N., Brooks, J.C., Finsterbusch, J. and Eippert, F., (2023). Reliability of task-based fMRI in the dorsal horn of the human spinal cord. bioRxiv, pp.2023-12.
+
+## License 
+This data set is made available under the Creative Commons CC0 license. 
+For more information, see https://creativecommons.org/share-your-work/public-domain/cc0/
+
+## Data set 
+This data set is organized according to the Brain Imaging Data Structure (BIDS) specification. 
+For more information on BIDS, see https://bids-specification.readthedocs.io/en/stable/ .
+
+### Dataset Structure
+Each participant’s data are stored in a subdirectory for each of the two sessions (e.g., sub-01/ses-01).These subdirectories contain the raw NIfTI data (after DICOM to NIfTI conversion) for this particular participant, as well as the associated metadata. 
+This study was part of a larger methodological project aimed at investigating the relationship between spinal cord BOLD responses and employed echo times (see https://osf.io/a58h9).
+The experiment took place on two consecutive days, and we measured five runs in each MRI session (ses-01 and ses-02). One run consisted of 20 trials, with one trial lasting between 11 and 13 seconds (1s stimulations and jittered inter-trial interval of 10-12s) and the duration of one run being four minutes and 48 seconds.  We measured each run with a different echo time (TE; 7 runs: TE = 25ms, 30ms, 35ms, 40ms, 45ms, 50ms, 55ms) and a repetition time (TR) of 1800ms; two runs were additionally measured with the shortest possible TR, but these runs are not included in this dataset. For this reason you will find that one or two of the five runs in each session of a participant are not included in the folder.
+
+In each session, we measured one run with a TE of 40ms and a TR of 1800ms, which is the main focus of this study. This run carries the label "acq-te40ReliabilityRun". While the stimulus intensity (48°C, 1s) was kept identical in each run, the order of TE application and targeted skin patch were pseudo-randomized and counter-balanced between runs across participants, but kept identical across both days for the Reliability Run. 
+Targeted skin patch: The stimuli were applied on five different areas of the inner left forearm, where patch-1 was closest to the wrist and patch-5 closest to the elbow. The respective settings of each run can be found in the *_events.tsv file for each run.
+
+For the peripheral physiological data, raw (for respiratory traces, included in *_physio files) and processed heart beat -included in *_physio files, pupil dilation - included in *_eyetrack files and skin conductance traces - included in *_scr files, events in run-specific events file) peripheral physiological data can be found in each participant’s and session's subdirectory under the “derivatives” folder. For details about the preprocessing pipeline, as well as for the entire code to calculate the results reported in our manuscript, please check our github repository: 
+https://github.com/eippertlab/pain-reliability-spinalcord. 
+In depth explanations about the preprocessing and analysis procedures are explained in our [manuscript](https://doi.org/10.1101/2023.12.22.572825) 
+
+## Data Acquisition
+The MRI data were acquired on a Siemens PRISMA FIT 3 Tesla scanner (Siemens, Erlangen, Germany), equipped with a whole-body radio-frequency (RF) transmit coil. We used a 64-channel RF head-and-neck coil, of which head coil element 7 and neck coil element groups 1 and 2 were utilized (all receive-only). 
+
+Should you have any questions about this data set, please contact dabbagh@cbs.mpg.de or eippert@cbs.mpg.de.

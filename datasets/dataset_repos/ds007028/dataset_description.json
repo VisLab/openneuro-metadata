@@ -1,0 +1,11 @@
+{
+    "Name": "Auditory Cortex Macaque Monkey DISC Data",
+    "BIDSVersion": "1.1.1",
+    "License": "CC0",
+    "Authors": [
+        "Yoshinao Kajikawa",
+        "Charles Schroeder"
+    ],
+    "DatasetType": "raw",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007028.v1.0.0"
+}

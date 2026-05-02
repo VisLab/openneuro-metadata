@@ -1,0 +1,33 @@
+{
+    "Name": "Brain and spinal cord fMRI and qMRI - Single participant",
+    "BIDSVersion": "1.2.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Caroline Landelle",
+        "Nawal Kinany",
+        "Samuelle St-Onge",
+        "Ovidiu Lungu",
+        "Dimitri Van De Ville",
+        "Bratislav Misic",
+        "Véronique Marchand-Pauvert",
+        "Benjamin De Leener",
+        "Julien Doyon"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "",
+        "",
+        ""
+    ],
+    "EthicsApprovals": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        "",
+        "",
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007313.v1.0.0"
+}

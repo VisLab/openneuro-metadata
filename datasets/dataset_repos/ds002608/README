@@ -1,0 +1,8 @@
+OpenNeuro curator note: This dataset was previously accessible at ds001900. The dataset was reuploaded due to privacy considerations. 
+
+This dataset is referred to as "Study1" in the RPN-signature paper (see below) and was used for the model training and internal validation.
+
+Paper:
+T. Spisak et al, Pain-free resting-state functional brain connectivity predicts individual pain sensitivity, under review, 2019.
+
+Webpage: https://spisakt.github.io/RPN-signature

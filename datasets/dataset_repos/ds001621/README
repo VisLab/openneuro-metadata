@@ -1,0 +1,16 @@
+This dataset corresponds to the fMRI portion of Experiment 3 from Schapiro, A.C., Rogers, T.T., Cordova, N.I., Turk-Browne, N.B., & Botvinick, M.M. (2013). Neural representations of events arise from temporal community structure. *Nature Neuroscience*.
+
+20 participants viewed sequences of abstract stimuli generated from the graph shown in Figure 1a of the paper. For each participant, 15 stimuli were randomly assigned to the 15 nodes of the graph. Participants were exposed to 1,400 stimuli generated from a random walk on the graph before entering the scanner. In the scanner, participants continued to view sequences of stimuli alternating between blocks of 15 items that were generated from a random walk on the graph and blocks of 15 items that were generated from a Hamiltonian path through the graph (each node visited exactly once). The Hamiltonian paths were not randomly drawn in each block for each subject; one path was drawn for each subject, and the forward and backward versions of this path were chosen randomly for each block. 
+
+A rapid event-related design was used, with items presented for 1 s each with a jittered interstimulus interval (1, 3 or 5 s) such that the response to individual items could be modeled separately. There were five scanning runs lasting 616 s, with 160 items per run. 
+
+As a cover task, participants were asked to detect when the stimuli appeared rotated from their usual orientation. Participants pressed one key on the keyboard when they thought the stimulus was rotated and a second key otherwise, thus responding on every trial. Key assignment was counterbalanced across participants. Stimuli were rotated 90° from their initial orientation 12.5% of the time.
+
+Stimulus presentation and behavior files with data from inside scanner (func/sub-\*_task-commstruc_run-\*_events.tsv):
+
+*onset*: Onset time in seconds relative to beginning of run
+*duration*: Duration of stimulus (always 1 second)
+*item*: Identifier for the graph node of the presented stimulus. The three graph communities are labeled A, B, and C, with nodes from the same community labeled A1, A2, etc. Boundary nodes have 1’s and 5’s.
+*rotation*: Rotation from usual orientation (usually 0°, occasionally 90°)
+*accuracy*: Whether the participant correctly reported the item as rotated from its usual orientation or not (n/a if no response)
+*reaction_time*: Time between stimulus onset and response in seconds (n/a if no response)

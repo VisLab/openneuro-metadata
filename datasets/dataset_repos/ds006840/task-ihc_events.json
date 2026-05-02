@@ -1,0 +1,48 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "premove / execution / hit"
+  },
+  "hand": {
+    "Description": "hand used in run",
+    "Levels": {
+      "left": "left hand",
+      "right": "right hand"
+    }
+  },
+  "congruency": {
+    "Description": "ball-hand direction relation",
+    "Levels": {
+      "congruent": "same",
+      "incongruent": "opposite"
+    }
+  },
+  "direction": {
+    "Description": "target direction",
+    "Levels": {
+      "left": "leftward",
+      "right": "rightward"
+    }
+  },
+  "ball_color": {
+    "Description": "color cue",
+    "Levels": {
+      "red": "congruent",
+      "yellow": "incongruent"
+    }
+  },
+  "hit": {
+    "Description": "boundary contact",
+    "Levels": {
+      "0": "no",
+      "1": "yes"
+    }
+  }
+}

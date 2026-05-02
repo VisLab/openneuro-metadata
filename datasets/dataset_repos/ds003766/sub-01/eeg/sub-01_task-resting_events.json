@@ -1,0 +1,29 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event marker",
+        "Units": "second"
+    },
+    "duration": {
+        "Description": "Duration of the marker (do not mixed with duration of events). May not accurate in the .set file",
+        "Units": "second"
+    },
+    "trial_type": {
+        "Description": "Event related to the marker",
+        "Level": {
+            "IEND": "Recording start or end",
+            "0000-0319": "Start of each trial's fixation",
+            "0400": "Stimulus marker. Presentation start of animate image and the animate option appears on the left side",
+            "0500": "Response marker. Participant select left option when showing animate image and the animate option appears on the left side",
+            "0401": "Stimulus marker. Presentation start of animate image and the animate option appears on the right side",
+            "0402": "Stimulus marker. Presentation start of inanimate image and the animate option appears on the left side",
+            "0403": "Stimulus marker. Presentation start of inanimate image and the animate option appears on the right side",
+            "0501": "Response marker. Participant select right option when showing animate image and the animate option appears on the left side",
+            "0502": "Response marker. Participant select left option when showing animate image and the animate option appears on the right side",
+            "0503": "Response marker. Participant select right option when showing animate image and the animate option appears on the right side",
+            "0504": "Response marker. Participant select left option when showing inanimate image and the animate option appears on the left side",
+            "0505": "Response marker. Participant select right option when showing inanimate image and the animate option appears on the left side",
+            "0506": "Response marker. Participant select left option when showing inanimate image and the animate option appears on the right side",
+            "0507": "Response marker. Participant select right option when showing inanimate image and the animate option appears on the right side"
+        }
+    }
+}

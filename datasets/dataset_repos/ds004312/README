@@ -1,0 +1,19 @@
+Dataset description
+===================
+
+A common neural code for representing imagined and inferred tastes
+
+Authors: Jason A Avery, Madeline Carrington, and Alex Martin.
+
+Progress in Neurobiology (2023; in press). DOI: https://doi.org/10.1016/j.pneurobio.2023.102423.
+
+Inferences about the taste of foods are a key aspect of our everyday experience of food choice. Despite this, gustatory mental imagery is a relatively under-studied aspect of our mental lives. In the present study, we examined subjects during high-field fMRI as they actively imagined basic tastes and subsequently viewed pictures of foods dominant in those specific taste qualities. Imagined tastes elicited activity in the bilateral dorsal mid-insula, one of the primary cortical regions responsive to the experience of taste. In addition, within this region we reliably decoded imagined tastes according to their dominant quality - sweet, sour, or salty – thus indicating that, like actual taste, imagined taste activates distinct quality-specific neural patterns. Using a cross-task decoding analysis, we found that the neural patterns for imagined tastes and food pictures in the mid-insula were reliably similar and quality-specific, suggesting a common code for representing taste quality regardless of whether explicitly imagined or automatically inferred when viewing food. 
+
+Functional MRI data was acquired at ultra-high voxel resolution (1.2mm x 1.2mm x 1.2mm) at high magnetic field strength (7-Tesla). Echo-planar images (EPI) were acquired in 58 axial slices. 
+
+MRI Files included are: 
+A) Skull-stripped T1w anatomical scans from MP2RAGE acquisition (uni_den volume) resolution 0.7mm X 0.7mm X 0.7mm. 
+B) 8 task epi files from two tasks - (194vol, 245vol), acquired Anterior-to-Posterior
+C) 1 epi file (fmap) - 20vol, acquired Posterior-to-Anterior, for topup spatial distortion correction 
+
+

@@ -1,0 +1,31 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event from the beginning of the first datapoint. Negative onsets account for events before the first stored data point.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event in seconds from onset. Must be zero, positive, or 'n/a' if unavailable. A zero value indicates an impulse event.",
+        "Units": "s"
+    },
+    "sample": {
+        "Description": "The event onset time in number of sampling points. First sample is 0."
+    },
+    "value": {
+        "Description": "The event code (also known as trigger code or event ID) associated with the event."
+    },
+    "trial_type": {
+        "Description": "The type, category, or name of the event."
+    },
+    "stimulus": {
+        "Description": "Displayed text for the trial."
+    },
+    "is_word": {
+        "Description": "Indicates whether the stimulus is a real word or a non-word."
+    },
+    "response": {
+        "Description": "The participant's response."
+    },
+    "correct": {
+        "Description": "Indicates whether the participant's response was correct (correct accept of real word, correct reject of non-word)."
+    }
+}

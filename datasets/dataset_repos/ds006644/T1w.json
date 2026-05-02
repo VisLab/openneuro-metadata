@@ -1,0 +1,30 @@
+{
+    "Manufacturer": "Philips",
+    "ManufacturersModelName": "Achieva",
+    "MagneticFieldStrength": 3.0,
+    "ReceiveCoilName": "dStream Head 32ch coil",
+    "NumberReceiveCoilActiveElements": 32,
+    "CoilCombinationMethod": "Adaptive RF Shimming",
+
+    "InstitutionName": "University Hospital of Psychiatry Zurich",
+    "InstitutionAddress": "Psychiatrische Universit\u00e4tsklinik Z\u00fcrich \n Lenggstrasse 31 \n 8032 Z\u00fcrich \n Switzerland",
+    "InstitutionalDepartmentName": "Department of Adult Psychiatry and Psychotherapy",
+
+    "PulseSequenceType": "FFE-TFE (corrensponds to GRE in Siemens nomenclature)",
+    "ScanningSequence": "GR",
+    "SequenceVariant": "SK",
+    "ScanOptions": "CSENSE",
+    "MRAcquisitionType": "3D",
+
+    "EchoTime": 0.0038,
+    "RepetitionTime": 0.0082,
+    "InversionTime": 1.024,
+    "AcquisitionDuration": 272,
+    "SliceEncodingDirection": "i",
+    "PhaseEncodingDirection": "j", 
+    "FlipAngle": 8,
+    "NegativeContrast": false,
+    "DeidentificationMethod": [
+        "MiDeFace from Freesurfer v7.4.1"
+    ]
+}

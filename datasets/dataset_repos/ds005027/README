@@ -1,0 +1,62 @@
+# Michigan Longitudinal Study: Monetary Incentive Delay Task
+
+Structural: Low and High resolution.
+Functional: Monetary Incentive Delay task BOLD
+
+## Uploaded onto Openn-Neuro by
+
+Michael Demidenko in relation to the project on the [analytic impacts on test-retest reliability]( https://doi.org/10.1162/imag_a_00262)
+
+## Provenance
+Collected at the University of Michigan under the grant: R01AA012217. Original Owners and curators: Mary Heitzeg, PhD; Data Manager: Mary Soules. Data transferred from University of Michigan to Stanford University November 2022.
+
+Relevant info for data:
+
+- [NIHReporter Neuropsych Cohort](https://reporter.nih.gov/project-details/8896367)
+- [Pub 1](https://doi.org/10.1523/JNEUROSCI.1390-11.2012)
+- [Pub 2](https://doi.org/10.1111/j.1530-0277.2007.00605.x)
+
+## Access Restrictions
+Any questions regarding other data use should be made to Mary Soules and Mary Heitzeg, PhD.
+
+## Data notes
+Converted with mids2bids by Ryan Klaus and Mary Soules with support from Krisanne Litinas.
+For some subjects MID runs for a session are unavailable/corrupt, so alternative session combo was recommended.
+
+Command used for fMRIPrep v23.1.4:
+
+```html
+singularity run --cleanenv \
+        -B ${DATA_DIR}:/data:ro -B ${DATA_OUT}:/out 
+        ${SIMG_DIR}/fmriprep-23.1.4.simg 
+        /data /out participant 
+        --skip_bids_validation
+        --participant-label sub-${subj} 
+        --fs-license-file ${FS_LICENSE} 
+        --fd-spike-threshold .9 
+        --output-space MNI152NLin2009cAsym:res-2 
+        --project-goodvoxels 
+        --cifti-output 91k 
+        --work-dir ${SCRATCH}
+```
+
+Command used for MRIQC v23.1.0:
+
+```html
+singularity run --cleanenv
+        -B $OAK:$OAK 
+        -B $OAK/data/templateflow:/opt/templateflow  
+        -B ${L_SCRATCH}:/tmp ${GROUP_HOME}/singularity_images/mriqc_23.1.0rc0.simg 
+        ${BIDS_DIR} ${OUTPUT_DIR} participant 
+        --participant-label ${sub} 
+        --ants-nthreads 8 
+        --nprocs 12 
+        --mem_gb 30 
+        -vv --dsname MLS 
+        --verbose-reports 
+        -w /tmp/work -m bold T1w T2w
+```
+
+Command used for taskdescribe_v1.0:
+
+For each session and run, there is a derivatives folder summarizing the behavioral data in an JSON or PNG image. These were calculated based on the associated events.tsv files. The PNG files are meant to be used as a quick summary of the behavioral performance throughout the task/run/session

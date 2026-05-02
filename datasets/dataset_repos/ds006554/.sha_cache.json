@@ -1,0 +1,9 @@
+{
+  "CHANGES": "37cd9b0cb6e2dfba9ccc99aaf85988f2ba99cea5",
+  "dataset_description.json": "c99e9a256db61b9cc827787c2b5dec9ec4e3dd2c",
+  "README": "ab7e4d1e91d9c8e7e31763be934b89899679d695",
+  "participants.tsv": "faba92341cfb7973b5943bc70830478682bc2fd7",
+  "participants.json": "3948b17fce8e817e2d6c6c94bf91ac84245a185b",
+  "task-SocialObservation_events.json": "c6d5b0c621a6dd8de2c37d6e0b71808bbdd9218d",
+  "sub-1/eeg/sub-1_task-SocialObservation_events.tsv": "aad23cf005ce1bf41344b44db19bb8bb6bda4531"
+}

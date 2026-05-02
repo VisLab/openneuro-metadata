@@ -1,0 +1,15 @@
+{
+    "resp": {
+        "Description": "code of the first response gicen by the praticipant in a presented block",
+        "Levels": {
+            "0": "no response",
+            "1": "lower than 5",
+				  "2": "higher than 5"
+        }
+    },
+    "respTime": {
+        "Description": "response time relative to the begining of the functional run",
+        "units": "seconds"
+        
+    }
+}

@@ -1,0 +1,9 @@
+
+## Two sessions means two different sequences
+ses-01 = 2D EPI
+ses-02 = 3D SSFP
+
+## The stimtype in the task_events file
+LE = left eye stimulus
+RE = right eye stimulus
+

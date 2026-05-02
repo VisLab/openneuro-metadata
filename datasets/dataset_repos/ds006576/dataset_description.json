@@ -1,0 +1,19 @@
+{
+    "BIDSVersion": "1.6.0",
+    "Authors": [
+        "Elizabeth A. McDevitt",
+        "Ghootae Kim",
+        "Nicholas B. Turk-Browne",
+        "Kenneth A. Norman"
+    ],
+    "Name": "The role of REM sleep in neural differentiation of memories in the hippocampus",
+    "DatasetType": "raw",
+    "HowToAcknowledge": "Please cite: \nE.A. McDevitt, G. Kim, N.B. Turk-Browne, K.A. Norman (2026). The role of rapid eye movement sleep in neural differentiation of memories in the hippocampus. Journal of Cognitive Neuroscience, 10.1162/jocn.a.82",
+    "Funding": [
+        "NIMH R01-MH069456",
+        "NIMH K99-MH126154"
+    ],
+    "Acknowledgements": "Funding for the acquisition of the data was provided in part by the Regina and John Scully ’66 Center for the Neuroscience of Mind and Behavior.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006576.v1.0.4",
+    "License": "CC0"
+}

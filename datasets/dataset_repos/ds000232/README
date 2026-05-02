@@ -1,0 +1,144 @@
+This is a human fMRI dataset that investigates coding of individual faces in the
+visual cortex of healthy human volunteers. We also include behavioral data from
+a similarity judgment task, and computational models that can be used to fit
+both data modalities.
+
+See the associated reference (Carlin & Kriegeskorte, in press, PLOS CB) for
+details about the experimental protocol. In this README we focus on technical
+details that may be useful for re-analysing the data. 
+
+The behavioral and fMRI distance matrices as well as the computational modeling
+efforts have been shared previously at OSF (https://osf.io/5g9rv) and zenodo
+(https://doi.org/10.5281/zenodo.242666), so this may be an easier way to go if
+you don't want to re-run the entire fMRI preprocessing pipeline. 
+
+DICOM TO BIDS CONVERSION
+DCM files were converted to nifti using dcm2niix v1.0.20170130
+(https://github.com/rordenlab/dcm2niix), and dcm2bids
+(https://github.com/jooh/Dcm2Bids).  Anatomical images were de-faced using
+pydeface (https://github.com/poldracklab/pydeface).
+
+DATA ANALYSIS SETUP
+We analysed data using Matlab R2013A, SPM, FSL, and various custom software
+developed in Matlab. The following packages (and their associated
+dependencies) are necessary to get the included analysis code to run:
+
+* Automatic Analysis 5 (AA, https://github.com/rhodricusack/automaticanalysis)
+* pilab (https://github.com/jooh/pilab)
+* pilab_aa (https://github.com/jooh/pilab_aa)
+* facedistid_analysis (https://github.com/jooh/facedistid_analysis - an up to
+    date copy is available in the code folder)
+
+In general, the AA pipeline generates all fMRI results and figures (Figs 1-2,
+S3-S4 Figs in the manuscript). We then extracted fMRI distance matrices from
+cortical regions of interests for further computational modeling (remaining
+figures in the manuscript).
+
+KEY FILES
+facedist_aa_frombids.m                  The master function for running the AA
+                                            fMRI analysis pipeline
+facedist_aa_frombids_tasklist.xml       Specifies which AA modules to run - note
+                                            that the roiroot flag specifies an
+                                            absolute path that will need
+                                            updating for your file system 
+facedist_doit_facepairs                 The master function for running the
+                                            behavioral similarity judgment
+                                            analysis
+facedist_doit_modeling                  The master function for running the
+                                            computational model fits (you will
+                                            need to run through
+                                            facedist_aa_frombids and
+                                            facedist_doit_facepairs first to
+                                            generate intermediate results)
+derivatives/aa/aap_prov.png             Nice visualisation of fMRI result
+                                            provenance
+derivatives/rois                        ROI masks for fROI analysis (if you want
+                                            to re-define ROIs from the localiser
+                                            data you can do so using
+                                            https://github.com/jooh/roitools/blob/master/spm2roi.m)
+misc/data_perceptual_judgment_task.mat  data from behavioral similarity judgment
+                                            task
+misc/stimuli_mri.mat                    video stimuli used during MRI scanning
+misc/stimuli_perceptual_judgments.mat   video stimuli used during behavioral
+                                            task
+
+A NOTE ON REPRODUCIBILITY
+If you run the above pipeline you will obtain results that are very similar to
+those in the manuscript (which, again, are publicly available on OSF/Zenodo),
+but not identical. This is because of the following differences with regard to
+the analysis in the paper:
+
+* The paper analysis used SPM8, not 12
+* The paper analysis used SPM dicom conversion, not dcm2niix
+* The paper analysis included a super-extraneous conversion of the floating
+    point precision on the niftis during preprocessing, which did nothing but
+    blow up file size it turns out.
+* The paper analysis used a bastardised version of AA4, not 5, which probably
+    introduces lots of subtle differences in the preprocessing parameters (for
+    this AA version, see
+    https://github.com/jooh/automaticanalysis/tree/v4-master)
+* Lots of other dependencies (including pilab) continued to be developed and
+    improved.
+
+Note that in particular, the ROI masks were generated using the old analysis, so
+the results could definitely be improved by re-running ROI definition, if
+someone has a few days to spare... But again, discrepancies are very small and
+do not qualitatively change any conclusions made in the paper. Exact
+reproducibility in neuroimaging is hard.  If you want to inspect the AA analysis
+that is reported in the paper, please get in touch and we will see if there is a
+way to convince the MRC to let you have access to non-anonymous data.
+
+REFERENCE
+
+Carlin, J.D & Kriegeskorte, N. (in press). Adjudicating between face-coding models
+with individual-face fMRI responses. PLOS Computational Biology. See 
+BioRXiv for a preprint (2017, original version 2015): https://doi.org/10.1101/029603
+
+CONTACT
+
+Johan Carlin, MRC CBU, Cambridge, UK. johan.carlin@gmail.com
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure deindentification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/latest/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000232/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000232.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.
+
+Known Issues
+------------
+N/A
+
+Bids-validator Output
+---------------------
+       	1: Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)
+       		/sub-02/ses-01/anat/sub-02_ses-01_T1w.nii.gz
+       		/sub-02/ses-01/func/sub-02_ses-01_task-localizer_run-01_bold.nii.gz
+       		/sub-02/ses-01/func/sub-02_ses-01_task-localizer_run-02_bold.nii.gz
+       		/sub-02/ses-01/func/sub-02_ses-01_task-main_run-01_bold.nii.gz
+       		/sub-02/ses-01/func/sub-02_ses-01_task-main_run-02_bold.nii.gz
+       		/sub-10/ses-01/anat/sub-10_ses-01_T1w.nii.gz
+
+        Summary:                   Available Tasks:        Available Modalities:
+        1120 Files, 34.38GB        localizer               T1w
+        10 - Subjects              main                    bold
+        4 - Sessions
+

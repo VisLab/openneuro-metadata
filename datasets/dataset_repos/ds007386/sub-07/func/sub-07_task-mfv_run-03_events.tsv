@@ -1,0 +1,41 @@
+onset	duration	sub_id	trial_type	vigtext	cond_id	vig_id	ITI_onset	ITI_duration	trialstart_zeroed
+10.036666	6	sub-07	sanctity	You see a homosexual in a gay bar offering sex to anyone who buys him a drink.	sanctity08	97	16.037238	6.008723	2.036666
+22.069733	6	sub-07	liberty	You see a teenager at a cafeteria forcing a younger student to pay for her lunch.	liberty14	73	28.06983	3.00147	14.069733
+31.103027	6	sub-07	authority	You see a star player ignoring her coach's order to come to the bench during a game.	authority15	14	37.103053	6.001419	23.103027
+43.11969	6	sub-07	loyalty	You see a college president singing a rival school's fight song during a pep rally.	loyalty11	85	49.119792	3.001129	35.11969
+52.152978	6	sub-07	fairness	You see a soccer player pretending to be seriously fouled by an opposing player.	fairness04	48	58.153033	3.001132	44.152978
+61.169655	6	sub-07	liberty	You see a woman pressuring her daughter to become a famous evening news anchor.	liberty09	68	67.169715	7.501481	53.169655
+74.686331	6	sub-07	care_physical	You see a boy placing a thumbtack sticking up on the chair of another student.	care_physical11	40	80.686345	3.001166	66.686331
+83.702972	6	sub-07	authority	You see a teaching assistant talking back to the teacher in front of the classroom.	authority10	9	89.703045	3.001133	75.702972
+92.736288	6	sub-07	authority	You see a woman refusing to stand when the judge walks into the courtroom.	authority02	1	98.736355	3.001049	84.736288
+101.752942	6	sub-07	fairness	You see a woman lying about the number of vacation days she has taken at work.	fairness13	57	107.753016	9.001843	93.752942
+116.769657	6	sub-07	care_emotional	You see a man loudly telling his wife that the dinner she cooked tastes awful.	care_emotional10	24	122.769756	9.00192	108.769657
+131.802921	6	sub-07	loyalty	You see an American telling foreigners that the US is an evil force in the world.	loyalty12	86	137.803015	4.501362	123.802921
+142.319569	6	sub-07	loyalty	You see an employee joking with competitors about how bad his company did last year.	loyalty01	75	148.31962	4.501304	134.319569
+152.836226	6	sub-07	liberty	You see a man telling his fiancee that she has to switch to his political party.	liberty01	60	158.836335	3.001175	144.836226
+161.869551	6	sub-07	care_emotional	You see a man telling a woman that her painting looks like it was done by children.	care_emotional11	25	167.869596	3.001097	153.869551
+170.886184	6	sub-07	sanctity	You see a woman having intimate relations with a recently deceased loved one.	sanctity07	96	176.886235	6.001391	162.886184
+182.902877	6	sub-07	care_emotional	You see a boy making fun of his brother for getting dumped by his girlfriend.	care_emotional09	23	188.902923	4.501553	174.902877
+193.419513	6	sub-07	liberty	You see a mayor trying to ban people from hugging and kissing in public in his city.	liberty15	74	199.41953	3.00106	185.419513
+202.436254	6	sub-07	sanctity	You see a man having sex with a frozen chicken before cooking it for dinner.	sanctity01	90	208.436365	3.001126	194.436254
+211.452847	6	sub-07	care_emotional	You see a boy telling a woman that she looks just like her overweight bulldog.	care_emotional05	19	217.452872	6.001367	203.452847
+223.469492	6	sub-07	sanctity	You see a teenage male in a dorm bathroom secretly using a stranger's toothbrush.	sanctity06	95	229.46953	4.501195	215.469492
+234.002795	6	sub-07	loyalty	You see a head cheerleader booing her high school's team during a homecoming game.	loyalty08	82	240.002857	4.501457	226.002795
+244.536149	6	sub-07	care_physical	You see a teacher hitting a student's hand with a ruler for falling asleep in class.	care_physical13	42	250.536163	7.50161	236.536149
+258.052818	6	sub-07	social_norms	You see a man staying inside his home with the shades drawn on a rare sunny day.	social_norms02	106	264.052884	3.001035	250.052818
+267.069418	6	sub-07	fairness	You see a runner taking a shortcut on the course during the marathon in order to win.	fairness02	46	273.069448	7.501586	259.069418
+280.586107	6	sub-07	social_norms	You see someone driving around in a dirty car that has not been washed recently.	social_norms11	115	286.586214	6.001573	272.586107
+292.602743	6	sub-07	authority	You see a girl ignoring her fathers orders by taking the car after her curfew.	authority01	0	298.602765	7.501548	284.602743
+306.119442	6	sub-07	loyalty	You see a teacher publicly saying she hopes another school wins the math contest.	loyalty07	81	312.11947	9.001688	298.119442
+321.136097	6	sub-07	fairness	You see a woman getting hired only because her father is close friends with the boss.	fairness09	53	327.136115	3.001062	313.136097
+330.15272	6	sub-07	care_physical	You see a woman slapping another woman who she is arguing with in the parking lot.	care_physical12	41	336.152841	3.001043	322.15272
+339.169361	6	sub-07	care_emotional	You see a girl laughing when she realizes her friend's dad is the janitor.	care_emotional06	20	345.169439	6.001382	331.169361
+351.186026	6	sub-07	social_norms	You see a woman eating dessert before her main entree arrives on the table.	social_norms04	108	357.186069	6.001547	343.186026
+363.202712	6	sub-07	care_physical	You see a woman snatching away her dog's food for making a mess in the living room.	care_physical07	36	369.202741	3.001118	355.202712
+372.219335	6	sub-07	social_norms	You see a woman watching a game on television in black-and-white instead of color.	social_norms12	116	378.219349	3.001072	364.219335
+381.236005	6	sub-07	social_norms	You see a woman drinking her entire cup of coffee using a stirring spoon.	social_norms03	107	387.236076	4.501285	373.236005
+391.752654	6	sub-07	authority	You see a man turn his back and walk away while his boss questions his work.	authority13	12	397.752702	4.501285	383.752654
+402.269306	6	sub-07	care_physical	You see a boy setting a series of traps to kill stray cats in his neighborhood.	care_physical08	37	408.269398	4.501168	394.269306
+412.785971	6	sub-07	sanctity	You see a very drunk woman making out with multiple strangers on the city bus.	sanctity14	103	418.786021	6.00145	404.785971
+424.802649	6	sub-07	fairness	You see a referee intentionally making bad calls that help his favored team win.	fairness05	49	430.802724	4.501328	416.802649
+435.335944	6	sub-07	liberty	You see a boss pressuring employees to buy goods from her family's general store.	liberty08	67	441.336004	3.001076	427.335944

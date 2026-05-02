@@ -1,0 +1,16 @@
+{
+	"RepetitionTime": 0.0073,
+	"Manufacturer": "GE",
+	"ManufacturerModelName": "SIGNA HDx",
+	"MagneticFieldStrength": 3.0,
+	"SoftwareVersion": "14/LX/MR Software release.14.0.M5A.0828.b",
+	"ReceiveCoilName": "8-channel head",
+	"ScanningSequence": "Scanning Sequence",
+	"SequenceVariant": "SS/SP/SK",
+	"SeriesDescription": "Ax FSPGR 3D Asset",
+	"ScanOptions": "FAST.GEMS/EDR.GEMS/FILTERED.GEMS",
+	"MRAcquisitionType": "3D",
+	"InPlanePhaseEncodingDirection": "ROW",
+	"EchoTime": 0.003, 
+	"FlipAngle": 20.0
+}

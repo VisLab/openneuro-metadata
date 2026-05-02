@@ -1,0 +1,4 @@
+{
+	"TaskName": "pRF experiment",
+	"TaskDescription": "Stimuli consisted of slowly moving apertures filled with a dynamic colorful texture, and involved bars sweeping in multiple directions. Each run lasted 300 seconds (or 300 TRs, since the TRs were of length 1 second). We controlled stimulus presentation using the code at: https://github.com/gifale95/RNC/06_in_vivo_validation/01_experimental_paradigm/prf_experiment"
+}

@@ -1,0 +1,26 @@
+{
+  "onset": {
+    "LongName": "Event onset",
+    "Description": "Position (latency) of event marker in seconds relative to the start.",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "Duration of the event. In this dataset, most of the duration values are arbitrarily set to 1.",
+    "Units": "seconds"
+  },
+  "sample": {
+    "Description": "Position (latency) of event marker relative to the start, in data frames."
+  },
+  "value": {
+    "Description": "The event marker value (type).",
+    "Levels": {
+      "one": "place holder"
+    }
+  },
+  "event_code": {
+    "Description": "The original code used during data collection to indicate an event marker.",
+    "Levels": {
+      "one": "place holder"
+    }
+  }
+}

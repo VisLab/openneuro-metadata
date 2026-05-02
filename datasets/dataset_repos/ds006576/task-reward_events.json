@@ -1,0 +1,45 @@
+{
+    "trial_type": {
+        "Description": "Type of task event",
+        "Levels": {
+            "feedback": "Feedback is displayed based on the participant's response",
+            "scene": "A scene image is displayed and the participant predicts if it is associated with a reward or neutral outcome"
+        }
+    },
+    "reward_condition": {
+        "Description": "The correct outcome associated with this scene",
+        "Levels": {
+            "neutral": "This trial's scene is associated with a neutral outcome",
+            "reward": "This trial's scene is associated with a reward outcome"
+        }
+    },
+    "condition": {
+        "Description": "Original task condition",
+        "Levels": {
+            "nonviolation": "The scene displayed belongs to a nonviolation condition pairmate",
+            "violation": "The scene displayed belongs to a violation condition pairmate"
+        }
+    },
+    "pairmate": {
+        "Description": "A or B item within a pairmate",
+        "Levels": {
+            "A": "First item in a pairmate; only A scenes shown during reward task runs"
+        }
+    },
+    "response_accuracy": {
+        "Description": "A participant's response is scored for accuracy. If no response was made, the value is NaN",
+        "Levels": {
+            "0": "Incorrect response",
+            "1": "Correct response"
+        }
+    },
+    "response_time": {
+        "Description": "Reaction time. Time in seconds for participant to make a response since stimulus onset"
+    },
+    "repetition": {
+        "Description": "This trial is the nth time this image was shown within the reward prediction phase"
+    },
+    "pairID": {
+        "Description": "Pairmate number assigned to the A-B pairing for this participant"
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "participants.tsv": "9513eb93a072f3ede2d4f783c2bacc9b9e570b65",
+  "dataset_description.json": "b6d08e22f8167ffd38fcaeda12d3e1a51dad4ce6",
+  "CHANGES": "fd3371ca65e99cd3715dd399029ba799407f5e13",
+  "participants.json": "a40241b6e1b266416332fd28c6a31c4b53865a11",
+  "README": "e5d923ca72cb68a0b702ee28a6c4e0957674ba45",
+  "sub-01/eeg/sub-01_task-math_events.tsv": "ff0345a337dbfc09841159ed94d93e2f2c21c349",
+  "sub-01/eeg/sub-01_task-math_events.json": "02085172680431c6628c9f59bc229d722a9d64c2"
+}

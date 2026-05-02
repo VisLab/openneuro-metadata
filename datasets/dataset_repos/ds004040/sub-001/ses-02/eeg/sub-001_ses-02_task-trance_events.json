@@ -1,0 +1,17 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "second"
+  },
+  "trial_type": {
+    "Description": "Type of event",
+    "Levels": {
+      "rest_start": "trance period starts",
+      "rest_end": "trance period ends"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+onset	duration	trial_type	stim_file	response_logged	response	response_time
+20.00713817	478.1395735	Movie	Defeat.mp4			
+533.2214655	181.8484075	FreeResp				
+763.3702468	15.12463399	the_brother_FreeResp	DefeatCh.txt			
+721.0872672	15.12458002	the_mother_FreeResp	DefeatCh.txt			
+742.2292655	15.12459988	the_sister_FreeResp	DefeatCh.txt			
+793.5412074	11.77893775	Question1	Defeat.txt	1.0	B	3.710061979
+805.3203302	11.65848039	Question2	Defeat.txt	1.0	C	2.577958734
+816.9790391	11.89920341	Question3	Defeat.txt	1.0	C	4.844116634
+828.8783981	11.56641714	Question4	Defeat.txt	1.0	B	5.512687807
+855.5962174	10.03229925	the_brother_Rating	DefeatCh.txt	1.0	2	2.508182414
+865.6294943	10.01557221	the_mother_Rating	DefeatCh.txt	1.0	4	1.883351764
+875.6461604	10.01554175	the_sister_Rating	DefeatCh.txt	1.0	7	1.799951
+885.6628116	10.01568048	the_brother_ID	DefeatCh.txt	1.0	1	2.758163873
+895.6797605	10.01524609	the_mother_ID	DefeatCh.txt	1.0	2	4.366448593
+905.6961925	10.01544839	the_sister_ID	DefeatCh.txt	1.0	5	1.724829326
+950.9967673	10.02326429	happy_Rating	Defeat.txt	1.0	4	1.74153186
+971.0555632	10.03078321	surprised_Rating	Defeat.txt	1.0	5	2.499814262
+961.0222353	10.03092757	angry_Rating	Defeat.txt	1.0	5	3.141180249
+981.0875406	10.0239652	tense_Rating	Defeat.txt	1.0	4	4.233243499
+940.979	10.01584304	sad_Rating	Defeat.txt	1.0	4	4.474897529
+930.9457406	10.03240519	frustrated_Rating	Defeat.txt	1.0	5	3.958402254
+991.1138271	20.11416875	Arousal_Rating	Defeat.txt	1.0	4	3.416481039
+1011.229308	20.07348645	Valence_Rating	Defeat.txt	1.0	4	4.4830912
+1031.304018	10.01542952	Engagement_Rating	Defeat.txt	1.0	4	3.416495938

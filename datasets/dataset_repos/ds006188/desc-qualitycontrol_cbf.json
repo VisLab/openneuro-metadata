@@ -1,0 +1,112 @@
+{
+    "coreg_correlation": {
+        "Description": "The Pearson correlation coefficient calculated between the binary brain masks from the coregistered anatomical and ASL reference images. Values are bounded between -1 and 1, with higher values indicating better coregistration.",
+        "LongName": "Coregistration Pearson Correlation",
+        "Term URL": "https://en.wikipedia.org/wiki/Pearson_correlation_coefficient"
+    },
+    "coreg_dice": {
+        "Description": "The S\u00f8rensen-Dice coefficient calculated between the binary brain masks from the coregistered anatomical and ASL reference images. Values are bounded between 0 and 1, with higher values indicating better coregistration.",
+        "LongName": "Coregistration S\u00f8rensen-Dice Coefficient",
+        "Term URL": "https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient"
+    },
+    "coreg_jaccard": {
+        "Description": "The Jaccard index calculated between the binary brain masks from the coregistered anatomical and ASL reference images. Values are bounded between 0 and 1, with higher values indicating better coregistration.",
+        "LongName": "Coregistration Jaccard Index",
+        "Term URL": "https://en.wikipedia.org/wiki/Jaccard_index"
+    },
+    "coreg_overlap": {
+        "Description": "The Szymkiewicz-Simpson overlap coefficient calculated between the binary brain masks from the coregistered anatomical and ASL reference images. Higher values indicate better normalization.",
+        "LongName": "Coregistration Overlap Coefficient",
+        "Term URL": "https://en.wikipedia.org/wiki/Overlap_coefficient"
+    },
+    "mean_fd": {
+        "Description": "Average framewise displacement without any motion parameter filtering. This value includes high-motion outliers, but not dummy volumes. FD is calculated according to the Power definition.",
+        "LongName": "Mean Framewise Displacement",
+        "Term URL": "https://doi.org/10.1016/j.neuroimage.2011.10.018",
+        "Units": "mm"
+    },
+    "mean_gm_cbf": {
+        "Description": "Mean CBF value of gray matter.",
+        "LongName": "Mean Cerebral Blood Flow of Gray Matter",
+        "Units": "mL/100 g/min"
+    },
+    "mean_wm_cbf": {
+        "Description": "Mean CBF value of white matter.",
+        "LongName": "Mean Cerebral Blood Flow of White Matter",
+        "Units": "mL/100 g/min"
+    },
+    "norm_correlation": {
+        "Description": "The Pearson correlation coefficient calculated between the binary brain masks from the normalized ASL reference image and the associated template. Values are bounded between -1 and 1, with higher values indicating better coregistration.",
+        "LongName": "Normalization Pearson Correlation",
+        "Term URL": "https://en.wikipedia.org/wiki/Pearson_correlation_coefficient"
+    },
+    "norm_dice": {
+        "Description": "The S\u00f8rensen-Dice coefficient calculated between the binary brain masks from the normalized ASL reference image and the associated template. Values are bounded between 0 and 1, with higher values indicating better normalization.",
+        "LongName": "Normalization S\u00f8rensen-Dice Coefficient",
+        "Term URL": "https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient"
+    },
+    "norm_overlap": {
+        "Description": "The Szymkiewicz-Simpson overlap coefficient calculated between the binary brain masks from the normalized ASL reference image and the associated template. Higher values indicate better normalization.",
+        "LongName": "Normalization Overlap Coefficient",
+        "Term URL": "https://en.wikipedia.org/wiki/Overlap_coefficient"
+    },
+    "percentage_negative_cbf": {
+        "Description": "Percentage of negative CBF values, calculated on the mean CBF image.",
+        "LongName": "Percentage of Negative Cerebral Blood Flow Values",
+        "Units": "percent"
+    },
+    "percentage_negative_cbf_basil": {
+        "Description": "Percentage of negative CBF values, calculated on CBF image produced by BASIL.",
+        "LongName": "Percentage of Negative BASIL Cerebral Blood Flow Values",
+        "Units": "percent"
+    },
+    "percentage_negative_cbf_basil_gm": {
+        "Description": "Percentage of negative CBF values, calculated on partial volume-corrected CBF image produced by BASIL.",
+        "LongName": "Percentage of Negative BASIL Partial Volume Corrected Cerebral Blood Flow Values",
+        "Units": "percent"
+    },
+    "percentage_negative_cbf_score": {
+        "Description": "Percentage of negative CBF values, calculated on the SCORE-denoised CBF image.",
+        "LongName": "Percentage of Negative SCORE-Denoised Cerebral Blood Flow Values",
+        "Units": "percent"
+    },
+    "percentage_negative_cbf_scrub": {
+        "Description": "Percentage of negative CBF values, calculated on the SCRUB-denoised CBF image.",
+        "LongName": "Percentage of Negative SCRUB-Denoised Cerebral Blood Flow Values",
+        "Units": "percent"
+    },
+    "qei_cbf": {
+        "Description": "QEI calculated on mean CBF image.",
+        "LongName": "Cerebral Blood Flow Quality Evaluation Index",
+        "Term URL": "http://indexsmart.mirasmart.com/ISMRM2017/PDFfiles/0682.html"
+    },
+    "qei_cbf_basil": {
+        "Description": "QEI calculated on CBF image produced by BASIL.",
+        "LongName": "BASIL Cerebral Blood Flow Quality Evaluation Index",
+        "Term URL": "http://indexsmart.mirasmart.com/ISMRM2017/PDFfiles/0682.html"
+    },
+    "qei_cbf_basil_gm": {
+        "Description": "QEI calculated on partial volume-corrected CBF image produced by BASIL.",
+        "LongName": "BASIL Partial Volume Corrected Cerebral Blood Flow Quality Evaluation Index",
+        "Term URL": "http://indexsmart.mirasmart.com/ISMRM2017/PDFfiles/0682.html"
+    },
+    "qei_cbf_score": {
+        "Description": "QEI calculated on mean SCORE-denoised CBF image.",
+        "LongName": "SCORE-Denoised Cerebral Blood Flow Quality Evaluation Index",
+        "Term URL": "http://indexsmart.mirasmart.com/ISMRM2017/PDFfiles/0682.html"
+    },
+    "qei_cbf_scrub": {
+        "Description": "QEI calculated on mean SCRUB-denoised CBF image.",
+        "LongName": "SCRUB-Denoised Cerebral Blood Flow Quality Evaluation Index",
+        "Term URL": "http://indexsmart.mirasmart.com/ISMRM2017/PDFfiles/0682.html"
+    },
+    "ratio_gm_wm_cbf": {
+        "Description": "The ratio between the mean gray matter and mean white matter CBF values.",
+        "LongName": "Mean Gray Matter-White Matter Cerebral Blood Flow Ratio"
+    },
+    "rmsd": {
+        "Description": "Average relative root mean squared calculated from motion parameters, after removal of dummy volumes and high-motion outliers. Relative in this case means 'relative to the previous scan'.",
+        "LongName": "Mean Relative Root Mean Squared",
+        "Units": "arbitrary"
+    }
+}

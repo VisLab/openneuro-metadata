@@ -1,0 +1,15 @@
+Dataset description
+===================
+
+Avery, J. A., Liu, A. G., Ingeholm, J. E., Gotts, S. J., & Martin, A. (2021). Viewing images of foods evokes taste quality-specific activity in gustatory insular cortex. Proceedings of the National Academy of Sciences of the United States of America, 118(2), e2010932118. http://doi.org/10.1073/pnas.2010932118
+
+Previous studies have shown that the conceptual representation of food involves brain regions associated with taste perception. The specificity of this response, however, is unknown. Does viewing pictures of food produce a general, non-specific response in taste-sensitive regions of the brain? Or, is the response specific for how a particular food tastes? Building on recent findings that specific tastes can be decoded from taste-sensitive regions of insular cortex, we asked whether viewing pictures of foods associated with a specific taste (e.g., sweet, salty, sour) can also be decoded from these same regions and if so, are the patterns of neural activity elicited by the pictures and their associated tastes similar? Using ultra-high resolution functional magnetic resonance imaging at high magnetic field strength (7-Tesla), we were able to decode specific tastes delivered during scanning, as well as the specific taste category associated with food pictures within the dorsal mid-insula, a primary taste responsive region of brain. During scanning, male and female participants tasted sweet, salty, sour and tasteless liquids, delivered via a custom-built MRI-compatible tastant-delivery system. In another task, they viewed pictures of sweet, sour, salty and foods, as well as non-food objects. Functional MRI data was acquired at ultra-high voxel resolution (1.2mm x 1.2mm x 1.2mm) at high magnetic field strength (7-Tesla). Echo-planar images (EPI) were acquired in 58 axial slices. 
+
+MRI Files included are: 
+A) Skull-stripped T1w anatomical scans from MP2RAGE acquisition (uni_den volume) resolution 0.7mm X 0.7mm X 0.7mm. 
+B) 8 task epi files from two tasks - (194vol, 245vol), acquired Anterior-to-Posterior
+C) 1 epi file (fmap) - 20vol, acquired Posterior-to-Anterior, for topup spatial distortion correction 
+D) Analysis code in 'code' folder
+E) ROIs and group brain mask in 'derivatives' folder
+
+

@@ -1,0 +1,11 @@
+{
+    "BIDSVersion": "v1.1.2-dev",
+    "License": "CC0",
+    "Name": "Cerebellum Retinotopic Mapping",
+    "Authors": [
+        "Tomas Knapen",
+        "Wietske van der Zwaag",
+        "Daan van Es"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002574.v1.0.1"
+}

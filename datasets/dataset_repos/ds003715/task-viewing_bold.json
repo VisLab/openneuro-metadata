@@ -1,0 +1,14 @@
+{
+  "BodyPartExamined": "BRAIN",
+  "EchoTime": 0.035,
+  "FlipAngle": 90,
+  "InstitutionAddress": "Maynard_3_Hanover_NH_US_03755",
+  "InstitutionName": "Dartmouth_College_-_PBS",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Phillips",
+  "ManufacturersModelName": "Achieva Intera",
+  "Modality": "MR",
+  "RepetitionTime": 3.0,
+  "AcquisitionDuration": 576.0,
+  "TaskName": "viewing"
+}

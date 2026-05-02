@@ -1,0 +1,1 @@
+Session 1 - Baseline at 16M, Session 2 - Baseline at 10M, Session 3 - Baseline at 3M, Session 4 - Baseline at 6M. Session 1 and 2 consider cross-sectional cohorts. Session 3 and 4 are longitudinal, meaning some mice but not all mice were scanned at both timepoints.

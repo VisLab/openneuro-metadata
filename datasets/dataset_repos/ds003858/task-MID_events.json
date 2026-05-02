@@ -1,0 +1,54 @@
+{
+    "trial": {
+        "LongName": "Trial number",
+        "Description": "The trial number. Each run of the task includes 72 trials, 12 from each trial type."
+    },
+
+        "trial_type": {
+        "LongName": "Trial type",
+        "Description": "Indicator of the amount of money that could be won or lost during the trial",
+        "Levels": {
+            "+$5": "A trial starting with a high gain cue, i.e., circle with with a line positioned in the top half, indicates that if the button is pressed within the time that the target is on the screen, $5 can be gained.",
+            "+$1": "A trial starting with a low gain cue, i.e., circle with with a line positioned in the middle, indicates that if the button is pressed within the time that the target is on the screen, $1 can be gained.",
+            "+$0": "A control trial in the gain domain. A trial starting with a non-gain cue, i.e., circle with with a line positioned in the lower half, indicates that if the button is pressed within the time that the target is on the screen, $0 can be gained.",
+            "-$0": "A control trial in the loss domain. A trial starting with a non-loss cue, i.e., square with with a line positioned in the lower half, indicates that if the button is pressed within the time that the target is on the screen, the participant can avoid losing $0.",
+            "-$1": "A trial starting with a low loss cue, i.e., square with with a line positioned in the middle, indicates that if the button is pressed within the time that the target is on the screen, the participant can avoid losing $1.",
+            "-$5": "A trial starting with a high loss cue, i.e., square with with a line positioned in the lower half, indicates that if the button is pressed within the time that the target is on the screen, the participant can avoid losing $5."      
+         }
+    },
+
+    "target_s": {
+        "LongName": "Duration of target in seconds",
+        "Description": "The target appears on the screen for this amount of time. The participant should hit the button while the target is on the screen in order to have a successful trial. Note that the timing of the target is adaptive such that participants hit roughly 66% the trials in each trial type in each run."
+    },
+
+    "response_time": {
+        "LongName": "Response time in seconds",
+        "Description": "Time from the appearance of the target until participant's button press on the successful trials. On unsuccessful trials, the value is -1."
+    },
+
+    "hit": {
+        "LongName": "Target is hit or missed",
+        "Description": "This variable indicates the success of the trial, i.e., if the participant hit the button while it was on the screen.",
+        "Levels": {
+            "0": "Missed target, i.e., response time is longer than target duration. This leads to an undesirable trial outcome (not winning money or losing money).",
+            "1": "Hit target, i.e., response time is shorter than target duration. This leads to a desirable trial outcome (winning money or avoiding losing money)."
+        }
+    },
+
+    "total_gain": {
+        "LongName": "Total money gained",
+        "Description": "Cumulative total money gaines during this task run"
+    },
+
+    "iti": {
+        "LongName": "inter-trial interval",
+        "Description": "Variable inter-trial interval after the outcome presentation and the onset of the next trial",
+        "Levels": {
+            "2": "2 seconds",
+            "4": "4 seconds",
+            "6": "6 seconds"
+        }
+    }
+
+}

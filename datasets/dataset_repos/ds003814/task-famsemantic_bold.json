@@ -1,0 +1,6 @@
+{
+	"TaskName": "famsemantic",
+    "TaskFullName": "Familiarity Task 2: Semantic Judgement",
+    "Instructions": "In this task, you'll be asked to rate personality traits of familiar people, spatial properties of familiar scenes, and physical properties of common objects. Each rating should be made on a scale of 0 (not at all) to 4 (very much). Press the button with your right pointer finger to decrease the rating, and middle finger to increase the rating.",
+    "TaskDescription": "Prior to this task, participants were asked to choose six of the ten people and places that they're most familiar with. During the task, participants answer questions about familiar people and places, and generic objects. All questions are answered on a 0- to 4-point scale, where 0 means 'not at all' and 4 means 'very.' Questions are presented in blocks of 4 questions, 4.5s per question. Participants press the right pointer finger to move the cursor to the left, right middle finger to move the cursor to the right."
+}

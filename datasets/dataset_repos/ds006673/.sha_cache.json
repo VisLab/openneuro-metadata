@@ -1,0 +1,14 @@
+{
+  "participants.tsv": "2373467172f34a24e1ac5d35683a717afb3ccff6",
+  "CHANGES": "3458e80721df65f5b375127a699c19141d8a4530",
+  "participants.json": "0809b1e296c2ab18ae735f4e03faecebfe3c7758",
+  "dataset_description.json": "394c735f2891e6dedf11f324e37f8731a073f428",
+  "sub-568/nirs/sub-568_task-BS_run-02_events.json": "ecaf5fc7f4b9474f51d15f92a6fb6e2f7a782434",
+  "sub-568/nirs/sub-568_task-BS_run-03_events.json": "ecaf5fc7f4b9474f51d15f92a6fb6e2f7a782434",
+  "sub-568/nirs/sub-568_task-BS_run-01_events.tsv": "c68346595c5a9ca53121347ff976cc0ab9fc469b",
+  "sub-568/nirs/sub-568_task-BS_run-01_events.json": "ecaf5fc7f4b9474f51d15f92a6fb6e2f7a782434",
+  "sub-568/nirs/sub-568_task-RS_run-01_events.json": "ecaf5fc7f4b9474f51d15f92a6fb6e2f7a782434",
+  "sub-568/nirs/sub-568_task-BS_run-02_events.tsv": "ed03158379e919f299eefa7781f02a4bf23f256a",
+  "sub-568/nirs/sub-568_task-RS_run-01_events.tsv": "caa8f13876bcd298e11111a3f7072be5b9b46e6a",
+  "sub-568/nirs/sub-568_task-BS_run-03_events.tsv": "2da9b281e9706ec21e5e2f756ed4ff77684b0aec"
+}

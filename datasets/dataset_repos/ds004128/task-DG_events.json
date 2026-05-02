@@ -1,0 +1,24 @@
+{
+	"event_type": {
+		"Description": "Indicator of event type",
+		"Levels": {
+			"Fixation": "Presentation of fixation cross at the beginning of each trial",
+			"Recipient": "Presentation of the recipient social group",
+			"Payoff": "Presentation of the payoffs. Note the right option was always 10-10",
+			"Choice": "Button press, left or right",
+			"Timeout": "When neither button was pressed within the time limit"
+		}
+	},
+	"recipient": {
+		"Description": "The recipient social group information"
+	},
+	"selfpay": {
+		"Description": "Payoff for the self in the left option"
+	},
+	"recipientpay": {
+		"Description": "Payoff for the recipient in the left option"
+	},
+	"button": {
+		"Description": "Pressed button, L (left) or R (right). NA if no choice was made"
+	}
+}

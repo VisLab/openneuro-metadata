@@ -1,0 +1,24 @@
+{
+    "Name": "Multipred project",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Marc Sabio-Albert",
+        "David Richter",
+        "Lluís Fuentemilla",
+        "Alexis Pérez-Bellido"
+    ],
+    "Funding": [
+        "Grant XYZ from Institution ABC"
+    ],
+    "EthicsApprovals": [
+        "Ethics Committee of XX, Approval #XXXX"
+    ],
+    "HowToAcknowledge": "Please cite: Sabio-Albert et al. (20XX), XXXX",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        "https://doi.org/XXXXXX",
+        "https://neurostars.org/tags/bids"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006506.v1.0.0"
+}

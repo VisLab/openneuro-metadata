@@ -1,0 +1,29 @@
+# CLIMATE BRAIN - Questionnaires, Tasks and the Neuroimaging Dataset
+
+The CLIMATE BRAIN dataset, is a collection of questionnaire, behavioural, and neuroimaging data related to climate change, acquired from 160 healthy individuals. 
+
+In particular, it includes data from:
+* questionnaire measures, including Inventory of Climate Emotions (ICE)
+* the Reading and Rating Emotional Stories (RRES) neuroimaging task
+* the Carbon Emission Task (CET) neuroimaging task.
+
+The `participants.tsv` file contains the demographic and questionnaire data of each participant. The accompanying `participants.json` sidecar file provides the metadata necessary to understand its content.
+
+Additionally, the repository includes subject-wise `*_events.tsv` files, containing behavioural data for each task, along with corresponding `*_events.json` sidecar files that provide metadata necessary to understand their content.
+
+The neuroimaging data includes both raw and preprocessed images. Anatomical images have been defaced to protect the anonymity of study participants.
+
+The derivatives directory contains the MRIQC and fMRIprep output.
+* In the case of MRIQC output, we share the summary file `group_bold.tsv`, which contains image quality metrics for all participants. 
+* In the case of fMRIprep output, we share subject-wise data organized in `sub-*` folders with preprocessed functional data, confound time series (allowing for motion and physiological noise correction), individual brain masks for each task and session, as well as accompanying `.json` sidecar files.
+
+These derivative files are named in the following convention:
+* All files related to the RRES task contain the `task-stories` label in the filename.
+* Additionally, files related to the respective sessions of the RRES task contain a run label: `run-01`, `run-02`, `run-03` in the filename.
+* All files related to the CET task contain the `task-cet` label in the filename.
+
+**Note:** Data from several participants have been flagged as poor quality based on MRIQC metrics, including temporal signal-to-noise ratio (tSNR) and framewise displacement (FD). Additionally, for one participant (`sub-1512a`), a run (`task-stories_run-03`) was identified where technical issues compromised the data acquisition. As a result, **we recommend excluding the following participants** from the analyses:
+* RRES task: `sub-2112b`, `sub-2911e`, `sub-0712b`, `sub-0712c`, `sub-1512d`, `sub-1512a`
+* CET task: `sub-2112b`, `sub-2911e`, `sub-0712b`, `sub-0712c`, `sub-1312d`, `sub-3011a`.
+
+However, we are making the data from these participants available for other researchers who may wish to apply different exclusion criteria.

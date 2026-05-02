@@ -1,0 +1,8 @@
+1.0.3 2026-04-04
+  - Added folder `.\derivatives` containing resources and code for validation of orientation in 3D imaging and recordings
+1.0.2 2025-04-15
+  - Remove the duplicated original README.md. Just use a README file using markdown format
+1.0.1 2025-04-15
+  - add a description to the README
+1.0.0 2025-04-15
+  - uploaded on openneuro

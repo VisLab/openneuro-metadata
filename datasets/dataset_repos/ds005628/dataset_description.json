@@ -1,0 +1,25 @@
+{
+    "Authors": [
+        "Juan Pablo Rosado-Aíza",
+        "Fernando José Domínguez-Morales",
+        "Tania Yareni Pech-Canul",
+        "Paola Guadalupe Vázquez-Rodríguez",
+        "Gustavo Navas-Reascos",
+        "Luz María Alonso-Valerdi",
+        "David I. Ibarra Zarate"
+    ],
+    "Name": "Dataset of Visual and Audiovisual Stimuli in Virtual Reality from the Edzna Archaeological Site",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "bids-matlab-tools",
+            "Version": "9.1"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005628.v1.0.0"
+}

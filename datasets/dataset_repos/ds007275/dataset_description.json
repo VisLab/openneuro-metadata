@@ -1,0 +1,22 @@
+{
+    "Name": "Semantic Mnemonic Similarity Task (sMST) - fMRI dataset",
+    "BIDSVersion": "1.0.2",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Alex Ilyés",
+        "Borbála Brosig",
+        "György Mező",
+        "Attila Keresztes"
+    ],
+    "Acknowledgements": "The authors are grateful to Krisztina Cseh, Donát Keszthelyi for their assistance in participant recruitment and data collection. The authors are also grateful to Márton Munding and Bálint Forgács from the Brain and Language Lab at Eötvös Loránd University, who helped refining the stimuli set and collecting additional psycholinguistic covariates. Finally, we thank Zsuzsanna Nemecz for her assistance in fMRI analysis.",
+    "Funding": [
+        "Doctoral Projects 2022, 2023 (Eötvös Loránd University) to A. I.",
+        "Development and Innovation Office - NKFIH FK128648 to A. K.",
+        "Bolyi János Scholarship of the Hungarian Academy of Sciences to A. K."
+    ],
+    "EthicsApprovals": [
+        "The National Institute of Pharmacy and Nutrition (OGYÉI) - OGYÉI/22780/2019"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007275.v1.0.0"
+}

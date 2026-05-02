@@ -1,0 +1,69 @@
+{
+
+    "onset": {
+
+    "LongName": "Event onset",
+
+    "Description": "Event onset in millisecond",
+
+    "Units": "millisecond"
+
+  },
+
+    "duration": {
+
+    "LongName": "Event duration",
+
+    "Description": "Event duration"
+
+  },
+
+    "type": {
+
+    "LongName": "Event marker",
+
+    "Description": "Marker value associated with the event",
+
+    "Levels": {
+
+	   "23": "Stimulus: moral scenario, accidental harm followed by a congruent target",
+
+	   "3": "target: accidental congruent, congruent target following the accidental harm scenario",
+
+	   "13": "Correct response to the accidental congruent target",
+
+	   "24": "Stimulus: moral scenario, accidental harm followed by an incongruent target",
+
+	   "4": "target: accidental incongruent, incongruent target following the accidental harm scenario",
+
+	   "14": "Correct response to the accidental incongruent target",
+
+	   "25": "Stimulus: moral scenario, intentional harm followed by a congruent target",
+
+	   "5": "target: intentional congruent, congruent target following the intentional harm scenario",
+
+	   "15": "Correct response to the intentional congruent target",
+
+	   "26": "Stimulus: moral scenario, intentional harm followed by an incongruent target",
+
+	   "6": "target: intentional incongruent, incongruent target following the intentional harm scenario",
+
+	   "16": "Correct response to the intentional incongruent target",
+
+	   "999": "Bad stimulus code, discard trial",
+
+	   "2": "Incorrect response to the target"
+
+	}
+},
+
+
+  "sample": {
+
+    "LongName": "Sample",
+
+    "Description": "Event onset according to the eeg sampling scheme"
+
+  }
+
+}

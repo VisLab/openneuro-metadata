@@ -1,0 +1,1 @@
+The bids file format requires us to specify scan type in the file name, but the specification isn't entirely accurate here. In particular, the /func/ directories contain EPI files that have both bold and vaso scan types. See the paper for more details.

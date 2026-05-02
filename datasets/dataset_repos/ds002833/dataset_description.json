@@ -1,0 +1,14 @@
+{
+    "BIDSVersion": "2.1",
+    "Name": "DataSet2",
+    "Authors": [
+        " Ahmad Mheich",
+        "Olivier Dufor",
+        "Sahar Yassine",
+        "Aya Kabbara",
+        "Fabrice Wendling",
+        "Mahmoud Hassan"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002833.v1.0.0",
+    "License": "CC0"
+}

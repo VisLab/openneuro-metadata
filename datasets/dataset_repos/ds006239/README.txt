@@ -1,0 +1,3 @@
+# Known Issues
+
+In all the events TSV files, trials with no response are coded as 'n/a'. For analysis purposes, no-response trials are suggested to be treated as incorrect '0' as failure to perform the task. Note: In the data-sharing paper (Wang et al., 2025), summary accuracy statistics excluded no-response trials; however, for any inferential analyses, users are advised to treat no-response trials as incorrect.

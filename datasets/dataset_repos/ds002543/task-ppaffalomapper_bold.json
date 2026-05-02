@@ -1,0 +1,7 @@
+{
+	"RepetitionTime":1.5,
+	"EpiFactor": 33,
+	"TaskName": "ppaffalomapper",
+	"MultiBandFactor": 1,
+    "SliceOrder": "ascending"
+}

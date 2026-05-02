@@ -1,0 +1,144 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier"
+  },
+  "age": {
+    "Description": "What is your age?",
+    "Units": "years"
+  },
+  "sex": {
+    "Description": "What is your sex assigned at birth?",
+    "Levels": {
+      "F": "Female",
+      "M": "Male",
+      "I": "Intersex"
+    }
+  },
+  "education_years": {
+    "Description": "Years of education completed (free-text response)"
+  },
+  "education_level": {
+    "Description": "Highest level of education completed (NOT including your current program)",
+    "Levels": {
+      "1": "High school",
+      "2": "Diploma or certificate",
+      "3": "Bachelor's degree",
+      "4": "After degree",
+      "5": "Master's degree",
+      "6": "Doctoral degree",
+      "7": "Other"
+    }
+  },
+  "mental_disorder": {
+    "Description": "Have you ever been diagnosed with a mental disorder?",
+    "Levels": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "mental_disorder_specify": {
+    "Description": "If yes, please specify (free-text response)"
+  },
+  "emotional_problems": {
+    "Description": "During the past 4 weeks, have you had any problems with your work, study or daily life due to any emotional problems, such as feeling sad, anxious, or depressed?",
+    "Levels": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "emotional_problems_specify": {
+    "Description": "Column removed to protect participant confidentiality. Original free-text responses contained personal details that could potentially identify participants."
+  },
+  "math_stress": {
+    "Description": "Do you experience feelings of stress when faced with math-related situations?",
+    "Levels": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "math_stress_specify": {
+    "Description": "If yes, please specify (free-text response)"
+  },
+  "health_overall": {
+    "Description": "Compared to a perfect state of health, I believe my overall health to be:",
+    "Levels": {
+      "1": "Very good",
+      "2": "Good",
+      "3": "Fair",
+      "4": "Poor",
+      "5": "Very poor"
+    }
+  },
+  "health_overall_vs_peers": {
+    "Description": "Compared to other people my age, I believe my overall health to be:",
+    "Levels": {
+      "1": "Very good",
+      "2": "Good",
+      "3": "Fair",
+      "4": "Poor",
+      "5": "Very poor"
+    }
+  },
+  "eyesight_vs_peers": {
+    "Description": "Compared to other people my age, I believe my eyesight to be:",
+    "Levels": {
+      "1": "Very good",
+      "2": "Good",
+      "3": "Fair",
+      "4": "Poor",
+      "5": "Very poor"
+    }
+  },
+  "hearing_vs_peers": {
+    "Description": "Compared to other people my age, I believe my hearing to be:",
+    "Levels": {
+      "1": "Very good",
+      "2": "Good",
+      "3": "Fair",
+      "4": "Poor",
+      "5": "Very poor"
+    }
+  },
+  "mental_health_overall": {
+    "Description": "Compared to a perfect state of health, I believe my overall mental health to be:",
+    "Levels": {
+      "1": "Very good",
+      "2": "Good",
+      "3": "Fair",
+      "4": "Poor",
+      "5": "Very poor"
+    }
+  },
+  "task_difficulty_memory": {
+    "Description": "How difficult was the memory task for you?",
+    "Levels": {
+      "1": "Not at all",
+      "2": "Some",
+      "3": "Very"
+    }
+  },
+  "task_difficulty_arithmetic": {
+    "Description": "How difficult were the arithmetic equations for you?",
+    "Levels": {
+      "1": "Not at all",
+      "2": "Some",
+      "3": "Very"
+    }
+  },
+  "task_anxiety_memory": {
+    "Description": "How anxious were you while doing the memory task?",
+    "Levels": {
+      "1": "Not at all",
+      "2": "Some",
+      "3": "Very"
+    }
+  },
+  "task_anxiety_arithmetic": {
+    "Description": "How anxious were you while solving the arithmetic equations?",
+    "Levels": {
+      "1": "Not at all",
+      "2": "Some",
+      "3": "Very"
+    }
+  }
+}

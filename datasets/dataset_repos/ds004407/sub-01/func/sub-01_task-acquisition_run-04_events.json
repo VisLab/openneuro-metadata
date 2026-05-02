@@ -1,0 +1,95 @@
+{
+  "onset": {
+    "LongName": "Onset time",
+    "Description": "When the CS was presented or imagery began"
+    },
+
+    "duration": {
+      "LongName": "Duration",
+      "Description": "Total duration of visual stimulus or imagery epoch of a trial"
+      },
+
+      "trial_type": {
+        "LongName": "Event Condition",
+        "Description": "Describes which CS and whether it was viewed or imagined",
+        "Levels": {
+          "CS-": "Viewing CS-",
+          "CS+1i": "Imagining CS+ 1",
+          "CS+2i": "Imagining CS+ 2",
+          "CS-i": "Imagining CS-",
+          "CS+1": "Viewing CS+ 1",
+          "CS+2": "Viewing CS+ 2"
+          }
+        },
+
+        "cs-type": {
+          "LongName": "Type of CS, CS+ or CS-",
+          "Description": "Describes whether the CS was CS+ or CS-, irrespective of other factors",
+          "Levels": {
+            "CS-": "CS-",
+            "CS+": "CS+"
+            }
+          },
+
+          "cs-number": {
+            "LongName": "CS Event label",
+            "Description": "Describes which CS+ later undergoes imagery extinction, number 2 denotes CS+2 which undergoes imagery extinction",
+            "Levels": {
+              "1": "1st CS+ or CS- condition",
+              "2": "2nd CS+ condition"
+              }
+            },
+
+            "shock": {
+              "LongName": "Shock Trial",
+              "Description": "Describes whether shock was present on the trial",
+              "Levels": {
+                "shock": "Shock was delivered",
+                "noshock": "Shock was not delivered"
+                }
+              },
+
+              "percept": {
+                "LongName": "Stimulus Type",
+                "Description": "Describes whether the stimulus was viewed or imagined on a given trial",
+                "Levels": {
+                  "view": "CS was presented Visually",
+                  "imagine": "CS was imagined"
+                  }
+                },
+
+  "letter": {
+    "LongName": "Letter",
+    "Description": "The viewed and imagined letter stimuli used in the experiment",
+    "Levels": {
+      "H": "Always used as CS-",
+      "J": "Always one of two CS+",
+      "F": "Always one of two CS+"
+      }
+    },
+
+    "trial-code": {
+      "LongName": "Abstract Condition Label",
+      "Description": "Describes the specific trial type",
+      "Levels": {
+        "1": "view CS+ 1 with shock",
+        "2": "view CS+ 2 with shock",
+        "3": "view CS+ 1 with no shock",
+        "4": "view CS+ 2 with no shock",
+        "5": "view CS- 1 with no shock",
+        "6": "imagine CS+ 1 with no shock",
+        "7": "imagine CS+ 2 with no shock",
+        "8": "imagine CS- 1 with no shock"
+        }
+      },
+      "TrialOn": {
+        "LongName": "Trial Onset time",
+        "Description": "Onset time of the first fixation of the trial began"
+        },
+
+        "ItiOn": {
+          "LongName": "Onset time of inter-trial interval",
+          "Description": "When the inter-trial interval began, which is the offset of view/imagining the CS"
+          }
+
+}

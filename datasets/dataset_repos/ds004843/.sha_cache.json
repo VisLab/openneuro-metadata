@@ -1,0 +1,12 @@
+{
+  "participants.tsv": "238ac4d126f17bed757e46292bf30aa2cd126039",
+  "README": "98a0cdfd0778ad69a764744c068c92d7d4f2dd3f",
+  "CHANGES": "cda568f8be9e28fd1a1a648ff3bb3f32a3dc6f06",
+  "dataset_description.json": "63710d9ea9ce5aff790d04344329f94289537ee9",
+  "task-VisualSituationalAwareness_events.json": "c5a56c7d48bdbd4a60cbb90627c1d4e5bb21cf8e",
+  "sub-001/eeg/sub-001_task-VisualSituationalAwareness_run-6_events.tsv": "de3574392e1fcbbd30d75d3cfaa4ba7cdb05c105",
+  "sub-001/eeg/sub-001_task-VisualSituationalAwareness_run-3_events.tsv": "61cbe87235b69bf2cce80518cac1935b9e223cbd",
+  "sub-001/eeg/sub-001_task-VisualSituationalAwareness_run-4_events.tsv": "5fdfdaa2d680db40aca05ac393313c5a153803df",
+  "sub-001/eeg/sub-001_task-VisualSituationalAwareness_run-5_events.tsv": "456d48f12af236c0bd1cc604f4fed303bc994ef5",
+  "sub-001/eeg/sub-001_task-VisualSituationalAwareness_run-2_events.tsv": "1e15b7640c82dc59abbd7d9630f8a333c4ac3a82"
+}

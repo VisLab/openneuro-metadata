@@ -1,0 +1,13 @@
+This dataset consists of electroencephalogram (EEG) signals collected by the 64 channel EEG device SynAmps2.
+
+###Participants and Conversations
+This experiment included 54 participants. 2 participants gave up the experiment midway due to physical reasons, and 6 participants had poor signal collection results during the first collection and underwent a second collection. All participants met the experimental requirements
+
+###Task
+This experiment requires participants to watch the image for 6 seconds according to the requirements, and then imagine the image they see for 6 seconds. The total dataset contains 340 images
+
+###Dataset version
+The provided dataset consists of the original dataset
+
+###contact
+If you have any questions, please contact:yingxmbio@foxmail.com

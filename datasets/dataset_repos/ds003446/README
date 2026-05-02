@@ -1,0 +1,9 @@
+Please see www.newbi4fmri.com for details.
+
+This data was obtained with a "Siemens MAGNETOM 7 Tesla MRI" whereas the other datasets in newbi4fmri2020 were obtained with a "Siemens MAGNETOM Prisma Fit whole-body 3 Tesla MRI".
+
+Note that the included anatomical was obtained with the 3T MRI. We do have a high-resolution anatomical from the 7T, but encountered issues defacing it so it is not included here.
+
+Includes 1 run each of a block paradigm at iso1mm, iso2mm, and iso3mm from 1 subject (3 separate runs). Blocks are of faces or hands.
+
+Subject numbers are mapped across the newbi4fmri datasets uploaded in December 2020. For example, sub-01 in the localizer is also sub-01 in the main experiment. For this reason, some datasets do not contain continuous subject numbers.

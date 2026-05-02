@@ -1,0 +1,23 @@
+{
+	"Title": "T1 Anatomical Image",
+	"Description": "This is a high-resolution anatomical scan of the brain",
+	"SeriesDescription": "t1_mprage_short_32channel",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND", "NORM"],
+	"Modality": "MR",
+	"RepetitionTime": 2.3,
+	"PhaseEncodingDirection": "j-",
+	"EchoTime": 0.00226,
+	"InversionTime": 1.06,
+	"SliceThickness": 1,
+	"FlipAngle": 9,
+	"Manufacturer": "SIEMENS",
+	"SoftwareVersion": "syngo MR D13D",
+	"MRAcquisitionType": "3D",
+	"InstitutionName": "USC",
+	"InstitutionAddress": "McClintock 3520A,Los Angeles //SVC0e0594213b1104//,CA,US,90089",
+	"DeviceSerialNumber": "67025",
+	"ScanningSequence": "GR\\IR",
+	"SequenceVariant": "SK\\SP\\MP",
+	"ScanOptions": "IR\\WE",
+	"SequenceName": "*tfl3d1_16ns"
+}

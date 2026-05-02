@@ -1,0 +1,14 @@
+2.0.0	2018-04-09
+
+	- Renamed dataset name to same as OpenfMRI
+
+Revision history for OpenfMRI dataset ds000218
+
+1.0.1 2017-02-01
+
+        - Corrected dataset_description.json to be BIDS compatible
+        - Added mriqc
+
+1.0.0 2017-02-01
+
+	- Initial release

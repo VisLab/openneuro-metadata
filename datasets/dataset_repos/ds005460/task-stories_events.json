@@ -1,0 +1,23 @@
+{
+    "trial_type": {
+        "Description": "Trial type",
+        "Levels": {
+            "ANG": "Presentation of a target anger story",
+            "HOP": "Presentation of a target hope story",
+            "NEU": "Presentation of a target neutral story",
+            "CON": "Presentation of a control neutral story",
+            "Q": "Presentation of rating scales"
+        }
+    },
+    "trial_code": {
+        "Description": "Trial code (unique identifier)"
+    },
+    "valence": {
+        "Description": "Valence rating associated with a trial",
+        "Units": "Points on a scale, where: 0 - Negative emotions, 5 - No emotions, 10 - Positive emotions"
+    },
+    "arousal": {
+        "Description": "Arousal rating associated with a trial",
+        "Units": "Points on a scale, where: 0 - Low arousal, 10 - High arousal"
+    }
+}

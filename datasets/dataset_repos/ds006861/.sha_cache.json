@@ -1,0 +1,10 @@
+{
+  "dataset_description.json": "d5b46834915c78f4b80979181aad67552548b3ff",
+  "participants.json": "16c18ebbefcdd669a33207068a2c870e4ce42533",
+  "task-EmotionProcessingandRegulationtask_events.json": "c9c5b83610e215a7622b470dba9344ef56c9e798",
+  "README.md": "4159e150dbd91733eb5497f47c143114161b784b",
+  "participants.tsv": "ea8b51c8a511676a91c078f5dfc34c419552ef42",
+  "CHANGES": "c6e9a80056bcce80363ba10dc4d963a6fc7e3f49",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-EmotionProcessingandRegulationtask_events.tsv": "407c58e15bd137774e32831c48dc003fc904f19d",
+  "sub-001/ses-2/eeg/sub-001_ses-2_task-EmotionProcessingandRegulationtask_events.tsv": "4ae406ed67816c4846a8ce124bad152ec8f1560f"
+}

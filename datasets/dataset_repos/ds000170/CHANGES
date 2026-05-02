@@ -1,0 +1,9 @@
+1.0.0 2016-02-25:
+    Initial Publishing
+
+1.0.1 2016-04-15:
+    Added events files for the BOLD runs previouly omitted.
+    These contain the onset times, durations, and block names
+    for the fMRI tasks. There is one for each corresponding
+    *_bold.nii.gz file in each subject's func/ directory.
+

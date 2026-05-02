@@ -1,0 +1,18 @@
+{
+    "Name": "No effect of rhythmic visual stimulation on experimental pain perception\n",
+    "BIDSVersion": "1.9.0",
+    "Authors": [
+        "Roy, N.",
+        "Coll, MP",
+        "Coll LAB"
+    ],
+    "EthicsApprovals": [
+        "CIUSSS-CN 2024-2922"
+    ],
+    "License": "CC0",
+    "Funding": [
+        "Quebec Pain Research Network (QPRN)",
+        "Fonds de recherche du Québec (FRQ)"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006897.v1.0.0"
+}

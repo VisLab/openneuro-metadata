@@ -1,0 +1,50 @@
+This directory includes the data of 18 particpants who watched Sherlock movie and listened to the audio recording of Merlin movie.
+It also includes the data of 18 particpants who watched Merlin movie and listened to the audio recording of Sherlock movie.
+In addition there is the data of one particpants who watching both of these movies and recalling each of them in the scanner (two seperate days for the two movies). 
+The audio recording of these sessions was used as stimuli that the lsiteners listened to in the scanner. Deskulled anatomical scan images are included for each subject.
+
+The data needs to be cropped from the beginning and the end to be aligned and matches the onset of the stimuli.
+
+
+Cropping info (in seconds, NOT including HRF delay):
+
+viewers:
+Merlin Movie: start 25.5  end 1528  (matching stimulus file: Merlin.mp4)
+Sherlock Movie: start 25.5  end 1441 (matching stimulus file: Sherlock.m4v)
+
+Note: the crop at the beginning includes an eye tracking set up and scanner delay. 
+The cropped data will include all the movie data, including the cartoon intro. 
+Depending on the research questions the movie can be time stamped and cropped further if needed)
+
+-------------------------------------
+
+listeners:
+Merlin Audio: start 3  end 915  (matching stimulus file: Merlin_Recall_For_Listener.wav)
+Sherlock Audio: start 3  end 1080  (matching stimulus file:  Sherlock_Recall_For_Listener.wav)
+
+Note: the crop at the beginning includes scanner delay. 
+The cropped data will include all the audio data, including the intro music. 
+Depending on the research questions the audio recording can be time stamped and cropped further if needed)
+
+------------------------------------
+
+speaker:
+Merlin Movie: start 25.5  end 1528  (matching stimulus file: Merlin.mp4)
+Sherlock Movie: start 25.5  end 1441  (matching stimulus file: Sherlock.m4v)
+
+Note: the crop at the beginning includes an eye-tracking set up and scanner delay. 
+The cropped data will include all the movie data, including the cartoon intro. 
+Depending on the research questions the movie can be time stamped and cropped further if needed)
+
+Merlin Recall: start 3 end 906  (matching stimulus file: freerecall_merlin.wav)
+Sherlock Recall: start 3 end 1062  (matching stimulus file: freerecall_sherlock.wav)
+
+Note: the crop at the beginning includes scanner delay. 
+The audio file should be used to do accurate time stamping to find the start time of the speech. This is not included in the crop info provided above.
+
+In general, time stamping should be done separately depending on the research question and is not included in crop info.
+
+
+For more info about the methods please refer to https://academic.oup.com/cercor/article/doi/10.1093/cercor/bhx202/4080827/How-We-Transmit-Memories-to-Other-Brains
+
+

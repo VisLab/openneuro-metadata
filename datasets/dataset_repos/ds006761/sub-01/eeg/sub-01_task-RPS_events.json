@@ -1,0 +1,46 @@
+{
+    "onset": {
+        "Description": "the onset time of the event in seconds, relative to the start of the EEG (bdf) file"
+    },
+    "duration": {
+        "Description": "the duration of the event in seconds"
+    },
+    "onset_sample": {
+        "Description": "the onset time of the event in samples, relative to the start of the EEG (bdf) file"
+    },
+    "trial_num": {
+        "Description": "trial number"
+    },
+    "player1_resp": {
+        "Description": "the response of player 1",
+        "Levels": {
+          "0": "no response",
+          "1": "rock",
+          "2": "paper",
+          "3": "scissors"
+        }
+    },
+    "player1_rt": {
+        "Description": "the response time of player 1 in seconds (no responses will show 100s)"
+    },
+    "player2_resp": {
+        "Description": "the response of player 2",
+        "Levels": {
+          "0": "no response",
+          "1": "rock",
+          "2": "paper",
+          "3": "scissors"
+        }
+    },
+    "player2_rt": {
+        "Description": "the response time of player 2 in seconds (no responses will show 100)"
+    },
+    "outcome": {
+        "Description": "the outcome of the game",
+        "Levels": {
+          "1": "draw",
+          "2": "player 1 wins",
+          "3": "player 2 wins"
+        }
+    }
+}

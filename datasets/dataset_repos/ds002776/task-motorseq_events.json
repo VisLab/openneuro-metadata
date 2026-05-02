@@ -1,0 +1,43 @@
+{
+	"onset": {
+		"Description": "trial onset"
+	},
+	"duration": {
+		"Description": "trial duration"
+	},
+	"is_error": {
+		"Description":"execution error in the performed sequence",
+		"Levels": {
+			"0":"no error",
+			"1":"error"
+		}
+	},
+	"points": {
+		"Description":"points given",
+		"Levels": {
+			"0": "no points (error)",
+			"3": "correct performence"
+		}
+	},
+	"movement_time": {
+		"Description":"time to execute the sequence",
+		"Units": "Seconds"
+	},
+	"sequence_num": {
+		"Description":"sequence identity (1-12)"
+	},
+	"sequence_type": {
+		"Description":"sequence type",
+		"Levels": {
+			"1": "trained",
+			"2": "untrained"
+		}
+	},
+	"repetition": {
+		"Description":"repetition of executed sequence",
+		"Levels": {
+			"1": "1st execution",
+			"2": "2nd execution"
+		}
+	}
+}

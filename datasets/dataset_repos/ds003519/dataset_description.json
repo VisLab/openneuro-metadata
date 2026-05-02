@@ -1,0 +1,14 @@
+{
+    "Name": "EEG: Visual Working Memory + Cabergoline Challenge",
+    "ReferencesAndLinks": [
+        "PMID: 29569219"
+    ],
+    "Authors": [
+        "James F Cavanagh",
+        "Michael J Frank",
+        "James Broadway"
+    ],
+    "License": "CC0",
+    "BIDSVersion": "1.1.1",
+    "DatasetDOI": "10.18112/openneuro.ds003519.v1.1.0"
+}

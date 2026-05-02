@@ -1,0 +1,13 @@
+{
+    "TaskName": "MOM",
+    "Manufacturer": "Compumedics",
+    "PowerLineFrequency": 50,
+    "SamplingFrequency": 1000.0,
+    "SoftwareFilters": "n/a",
+    "RecordingType": "continuous",
+    "EEGReference": "M1",
+    "EEGGround": "AFz",
+    "EEGPlacementScheme": "10-10 International System",
+    "EEGChannelCount": 64,
+    "InstitutionName": "School of Psychology Sciences, Macquarie University"
+}

@@ -1,0 +1,24 @@
+{
+    "Name": "AMRI 16-N-0031 sleep1",
+    "BIDSVersion": "1.4.1",
+    "HEDVersion": "",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Picchioni, Dante",
+        "Duyn, Jeff H",
+        "de Zwart, Jacco A"
+    ],
+    "Acknowledgements": "n/a",
+    "HowToAcklowledge": "n/a",
+    "Funding": [
+        "NINDS/NIH intramural"
+    ],
+    "EthicsApprovals": [
+        "NIH protocol 16-N-0031"
+    ],
+    "ReferenceAndLinks": [
+        "https://doi.org/10.1016/j.jneumeth.2018.09.019"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005127.v2.0.0"
+}

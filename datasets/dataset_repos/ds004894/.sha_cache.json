@@ -1,0 +1,10 @@
+{
+  "CHANGES": "2c2d9b1e910f6b7d3c105f564b833052a6c970a7",
+  "participants.json": "82213a62b0800e7bad7eea5a56d898178bffcf1d",
+  "participants.tsv": "2cddcbb3bb1747d025b061e819100249d63c9c25",
+  "events.json": "7d8d77b354b7c9c89cf90acd938203946e9b8d6c",
+  "dataset_description.json": "3240661d7dee2df6fb95f1e6e5d1d335ad3afb2d",
+  "README": "89a20d0ee59daf950547acd4fa797921b7d9ee62",
+  "sub-01/func/sub-01_task-music_run-02_events.tsv": "9f6236a4b50ce7e8cd7e21b231552124f9953a9f",
+  "sub-01/func/sub-01_task-music_run-01_events.tsv": "d7c057b58bfcc22aa19c4d366111545db1370f47"
+}

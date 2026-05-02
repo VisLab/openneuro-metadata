@@ -1,0 +1,12 @@
+{
+  "README": "bb47aedc8098e0f092f60a069d1773ba70d301a8",
+  "dataset_description.json": "62c5ffda5b4a4f553e7c04045d04cdf62329f0bb",
+  "participants.json": "939fc62c79a765975ce04bf950f35f62c436f083",
+  "participants.tsv": "bb65b3976736ea43f84aa1740d2a0407a02edf96",
+  "CHANGES": "223afd4913b4e4fd13e8f69968f42fe411f256fa",
+  "sub-001/ses-1/func/sub-001_ses-1_task-foodcue_run-01_events.tsv": "061a40ac38ad9d56f30bc4ae30787e3babc16e54",
+  "sub-001/ses-1/func/sub-001_ses-1_task-foodcue_run-05_events.tsv": "b247d2163fc85d7731333c5d016915a9a9e5d819",
+  "sub-001/ses-1/func/sub-001_ses-1_task-foodcue_run-04_events.tsv": "dd30e85c1ec087d25e11dc849b0cb194af0bc6be",
+  "sub-001/ses-1/func/sub-001_ses-1_task-foodcue_run-02_events.tsv": "4df6a6b4d968014d6886233b5240d96b5bac933b",
+  "sub-001/ses-1/func/sub-001_ses-1_task-foodcue_run-03_events.tsv": "fa77e7eadccee78fef64ff98a70f120a093f46b8"
+}

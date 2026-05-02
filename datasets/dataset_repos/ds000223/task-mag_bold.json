@@ -1,0 +1,9 @@
+{
+
+    "RepetitionTime": 2.0,
+    "TaskName": "mag",
+    "TaskDescription": "Subjects made a series of binary intertemporal choices between a smaller amount of money, r1, available at time t1 and a larger amount, r2, available at t2 (t1<t2).",
+    "CogAtlasID": "http://cognitiveatlas.org/task/id/tsk_4a57abb949e98",
+    "EchoTime": 0.03
+
+}

@@ -1,0 +1,154 @@
+# Single-echo/multi-echo comparison pilot
+
+This dataset contains ABCD-protocol single-echo BOLD scans, along with complex-valued, multi-echo BOLD scans for comparison.
+The multi-echo BOLD protocol uses the CMRR MB-EPI sequence, and comes from collaborators at UMinn.
+These scans include five echoes with both magnitude and phase reconstruction.
+
+The primary goal of this dataset was to evaluate the usability of the multi-echo fMRI protocol in a larger study,
+via direct comparison to the ABCD fMRI protocol, as well as via test-retest reliability analyses.
+However, these data may be useful to others
+(e.g., for testing complex-valued models, applying phase regression to multi-echo data, testing multi-echo denoising methods).
+
+
+## Dataset contents
+
+This dataset includes 8 participants, each with between 1 and 3 sessions.
+MR data were acquired using a 3-Tesla Siemens Prisma MRI scanner.
+
+The imaging data were converted to NIfTI-1 format with dcm2niix v1.0.20220505, using heudiconv 0.13.1.
+
+In each session, the following scans were acquired:
+
+
+### Structural data
+
+A T1-weighted anatomical scan
+(256 slices;
+repetition time, TR=1900 ms;
+echo time, TE=2.93 ms;
+flip angle, FA=9 degrees;
+field of view, FOV=176x262.144 mm,
+matrix size=176x256;
+voxel size=1x0.977x0.977 mm).
+
+
+### Functional data
+
+One run of Penn fractal n-back task five-echo fMRI data
+(72 slices;
+repetition time, TR=1761 ms;
+echo times, TE=14.2, 38.93, 63.66, 88.39, 113.12 ms;
+flip angle, FA=68 degrees;
+field of view, FOV=220x220 mm,
+matrix size=110x110;
+voxel size=2x2x2 mm;
+multiband acceleration factor=6).
+Both magnitude and phase data were reconstructed for this run.
+The run was 7:03 minutes in length, including the three no-radiofrequency-excitation volumes at the end.
+After the `_noRF` volumes were split into separate files, each run was 6:58 minutes long.
+
+Two runs of open-eye resting-state five-echo fMRI data
+(72 slices;
+repetition time, TR=1761 ms;
+echo times, TE=14.2, 38.93, 63.66, 88.39, 113.12 ms;
+flip angle, FA=68 degrees;
+field of view, FOV=220x220 mm,
+matrix size=110x110;
+voxel size=2x2x2 mm;
+multiband acceleration factor=6).
+Both magnitude and phase data were reconstructed for these runs.
+Each run was 5:59 minutes in length, including the three no-radiofrequency-excitation volumes at the end.
+After the `_noRF` volumes were split into separate files, each run was 5:54 minutes long.
+
+Two runs of open-eye resting-state single-echo fMRI data acquired according to the ABCD protocol
+(60 slices;
+repetition time, TR=800 ms;
+echo time, TE=30 ms;
+flip angle, FA=52 degrees;
+field of view, FOV=216x216 mm,
+matrix size=90x90;
+voxel size=2.4x2.4x2.4 mm;
+multiband acceleration factor=6).
+Only magnitude data were reconstructed for these runs.
+Each run was 6:00 minutes in length.
+
+
+### Field maps
+
+Two sets of field maps were acquired for the multi-echo fMRI scans.
+
+One set was a multiband, multi-echo gradient echo PEpolar-type field map (`acq-MEGE`),
+acquired with the same parameters as the multi-echo fMRI scans (except without magnitude+phase reconstruction).
+For each acquisition, we have created a copy of the single-band reference image from the first echo as the primary field map.
+
+The other set was a multi-echo spin-echo PEpolar-type field map (`acq-MESE`).
+We have also created a copy of the first echo for each direction as a standard field map.
+
+The single-echo copies of both the `acq-MEGE` and the `acq-MESE` field maps have `B0FieldIdentifier` fields and `IntendedFor` fields,
+though we used the `acq-MESE` field maps for the `B0FieldSource` fields of the multi-echo fMRI scans.
+Therefore, tools which leverage the `B0*` fields, such as fMRIPrep, should use the single-echo `acq-MESE` scans for distortion correction.
+
+Single-echo PEpolar-type EPI field maps (`acq-SESE`) with parameters matching the single-echo fMRI data
+were also acquired for distortion correction.
+
+
+## Dataset idiosyncrasies
+
+
+### Multi-echo field maps
+
+There are two sets of PEpolar-style field maps for the multi-echo BOLD scans: one gradient echo and one spin echo.
+Each field map set contains five echoes, like the BOLD scans.
+However, because distortion shouldn't vary across echoes (at least not at 3T),
+there is no need for multi-echo PEpolar-style field maps,
+and tools like fMRIPrep can't use them.
+As such, we have made a copy of the spin echo field map's first echo without the echo entity for BIDS compliance,
+as well as a copy of the gradient echo field map's first echo's single-band reference image.
+
+
+### No radio frequency excitation scans
+
+The multi-echo BOLD scans included three no-radio-frequency noise scans acquired at the end of the scan,
+which have been split off into files with the `_noRF` suffix.
+These noise scans can be used to suppress thermal noise with NORDIC denoising.
+BOLD runs that were stopped early or failed to fully reconstruct may be missing these noise scans.
+
+
+### Penn Fractal N-Back events files
+
+The events files for the fractal n-back task were added in version 1.1.0 of the dataset.
+It looks like the task software only logged the last response in each trial's response window,
+so there are some trials with very long response times from responses that occurred
+during the next block's instruction screen.
+
+
+### sub-08 ses-noHC
+
+Subject 08's ses-noHC was accidentally acquired without the head coil plugged in.
+We included the session in the dataset in case anyone might find it useful,
+but do not recommend using the data for analyses.
+
+
+### sub-04 ses-2 and ses-3
+
+Subject 04 had to stop session 2 early, so a separate session was acquired to finish acquiring the remaining scans.
+
+
+### Excluded data
+
+Physio (PPG + chest belt) data were acquired for a subset of the scans, but, due to equipment issues,
+the data were unusable and have been excluded from the dataset.
+
+There was also an MEGRE field map sequence in the protocol, provided by Dr. Andrew Van,
+but there were reconstruction errors at the scanner, so these field maps were not usable.
+We've chosen to exclude the remaining files from the dataset.
+
+In some cases, we noticed reconstruction errors on final volumes in the multi-echo BOLD runs.
+When that happened, we dropped any trailing volumes, so that all files from a given run are the same length.
+For some runs, this involved entirely removing the noRF scans.
+
+
+## Notes about acquisition
+
+The multi-echo BOLD scans were acquired on a 3T Siemens Prisma scanner running VE11C.
+The same protocol has exhibited consistent reconstruction errors on XA30.

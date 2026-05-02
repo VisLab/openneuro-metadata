@@ -1,0 +1,21 @@
+Study design:
+
+24 17-year old early sequential bilinguals underwent intensive language training in a third language, and were scanned at two time-points 3 months apart. Subjects performed semantic comprehension (reading and speech) and verbal production tasks in the MRI scanner in their native and new languages.
+
+----------------------------------
+
+Publications using this dataset:
+
+[1] Gurunandan, K., Arnaez-Telleria, J., Carreiras, M., & Paz-Alonso, P.M. (2020). Converging evidence for differential specialization and plasticity of language systems. Journal of Neuroscience, 40(50), 9715-9724. Doi:10.1523/JNEUROSCI.0851-20.2020
+- Data: comprehension and production tasks from this dataset + comprehension and production tasks from a cross-sectional dataset (https://openneuro.org/datasets/ds003538/versions/1.0.0).
+- Summary: In this work, we put together cross-sectional and longitudinal studies in a comprehensive examination of the flexibility of lateralisation, i.e. is hemispheric lateralisation of language processing fixed in early childhood or can it change with later language learning?
+
+----------------------------------
+
+The derivatives folder contains the laterality index data for Experiment-2 results presented in Gurunandan et al. (2020).
+
+----------------------------------
+
+If you have any questions, please contact:
+- Kshipra Gurunandan k.gurunandan@bcbl.eu
+- Pedro M. Paz-Alonso p.pazalonso@bcbl.eu

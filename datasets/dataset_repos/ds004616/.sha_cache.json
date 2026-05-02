@@ -1,0 +1,8 @@
+{
+  "CHANGES": "472264d76c0e56e9f39c6321e9ea8caa02c5c8c2",
+  "participants.tsv": "316be9758dda5e9bd3b69a73af360bf6609d6156",
+  "dataset_description.json": "e4f5b8f06ff326f6d6c91a88b087f32b38793bad",
+  "README.md": "f30dcee7a3e3ca6ddebf20ea7e87785d1b89f46e",
+  "sub-01/ses-01/func/sub-01_ses-01_task-handgrasp_events.tsv": "cc11a2488740e936e7fbea9ee5903f49a81727ec",
+  "sub-01/ses-02/func/sub-01_ses-02_task-handgrasp_events.tsv": "383631519f919f26f3397141e2d0b2dab517f581"
+}

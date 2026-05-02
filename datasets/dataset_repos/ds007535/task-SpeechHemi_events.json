@@ -1,0 +1,13 @@
+{
+  "onset": {
+    "Description": "Onset of the event in seconds relative to the start",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event in seconds",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "Sound stimulus, participant response, or verbal feedback"
+    }
+}

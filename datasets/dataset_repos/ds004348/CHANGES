@@ -1,0 +1,12 @@
+1.0.5 2024-09-23
+  - Fixed issues with source data edf files.
+1.0.4 2024-05-14
+  - Made note in README regarding ERB1 and ELB1 electrodes
+1.0.3 2023-10-16
+  - openNeuro requires a new version
+1.0.2 2023-09-09
+  - Solved issues with the sleep recordings for subjects 2 and 3.
+1.0.1 2022-12-01
+  - Rearranged code files
+1.0.0 2022-11-29
+  - first upload

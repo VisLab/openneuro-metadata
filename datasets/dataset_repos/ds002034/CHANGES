@@ -1,0 +1,12 @@
+1.0.3 2022-04-08
+  - Fixed eeglab bug that erased data when trying to normalize channel amplitudes.
+1.0.2 2022-03-21
+  - Validator stuck in upload. Skipped.
+1.0.1 2019-08-23
+  - Full experimental data
+0.1	2018-12-06
+	- Initial snapshot
+0.2	2019-03-05
+	- Moved preproc to derivatives
+	- EEG now follows BEP006
+	- Added json description for events

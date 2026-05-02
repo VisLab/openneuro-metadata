@@ -1,0 +1,64 @@
+Neurocognitive aging data release with behavioral, structural, and multi-echo functional MRI measures (https://doi.org/10.1038/s41597-022-01231-7)
+
+Data included as part of: Age differences in the functional architecture of the human brain (https://doi.org/10.1093/cercor/bhac056)
+
+Two 10-minute multi-echo resting-state runs were collected from 301 healthy adults (181 younger, 120 older adults) across 2 sites. Acquisition parameters are summarized below. A subset of 246 participants also have T2-FLAIR images. Pulse and respiration data are available for 233 participants. Full detail can be found in the data descriptor and empirical paper linked above. Accompanying behavioral data can be found on OSF: https://osf.io/yhzxe/ (doi: 10.17605/OSF.IO/YHZXE).
+
+**NOTE** Some participants were included as part of another openneuro dataset (DuPre et al, 2018; OpenNeuro Accession Number: ds000210), as noted by 'openneuro' in the participants file.
+
+
+Site 1
+T1w:
+TR = 2530ms
+TE = 3.4ms
+Flip angle = 7 degrees
+Voxel size = 1mm isotropic
+Time = 5m25s
+176 slices
+
+FLAIR:
+TR = 12000ms
+TE = 95ms
+TI = 2712ms
+Flip angle = 160 degrees
+Voxel size = 1x1x3mm
+Time = 2m36s
+42 slices (11 participants have 46, 1 has 43; see participants.tsv)
+
+Rest:
+TR = 3000ms
+TE = 13.7ms, 30ms, 47ms
+Flip angle = 83 degrees
+Voxel size = 3mm isotropic
+Time = 10m06s
+Sessions = 2
+204 volumes/session (1 participant has 206; see participants.tsv)
+
+
+
+Site 2
+T1w:
+TR = 1900 ms
+TE = 2.52 ms
+Flip angle = 9 degrees
+Voxel size = 1mm isotropic
+Time = 4m26s
+192 slices
+
+FLAIR:
+TR = 12000ms
+TE = 95ms
+TI = 2759.4ms
+Flip angle = 160 degrees
+Voxel size = .8x.8x3mm
+Time = 3m38s
+44 slices
+
+Rest:
+TR = 3000ms
+TE = 14ms, 29.96ms, 45.92ms
+Flip angle = 83 degrees
+Voxel size = 3.4mm x 3.4mm x 3mm
+Time = 10m06s
+Sessions = 2
+200 volumes/session

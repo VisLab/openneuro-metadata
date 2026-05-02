@@ -1,0 +1,9 @@
+This dataset contains fMRI data from: 
+
+Collin SHP, Kempner R, Srivatsan S, Norman KA. Neural codes track prior events in a narrative and predict subsequent memory for details. 2024. Biorxiv. https://www.biorxiv.org/content/10.1101/2024.02.13.580092v2 
+
+Stimuli are available here: https://osf.io/u3cfr/
+
+The last wedding-stimulus seen by sub-102 is missing a few TRs worth of data at the end due to a technical error
+
+Sub-109 is missing a T1w image in this session due to a technical error, T1w scan that is in the folder was acquired on another day.

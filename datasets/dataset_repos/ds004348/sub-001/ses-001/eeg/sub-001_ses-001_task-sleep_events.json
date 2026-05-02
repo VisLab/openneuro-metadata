@@ -1,0 +1,20 @@
+{
+    "onset": {
+        "Description": "Time of event, in seconds since beginning of recording"
+    },
+    "duration": {
+        "Description": "Duration of event (always just 0)"
+    },
+    "trial_type": {
+        "LongName": "Event type",
+        "Levels": {
+            "Beginning of Recording": "Time subject turned on amplifier",
+            "Lights Off": "Time(from start) that subject turn the lights off",
+            "Artifact": "Manual marking by sleep scorer",
+            "Arousal": "Cortical arousal",
+            "Obs": "Manual marking by sleep scorer",
+            "Lights On": "Time(from start) that subject got up",
+            "End of Study": "End of measurement"
+        }
+    }
+}

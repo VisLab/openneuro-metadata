@@ -1,0 +1,9 @@
+1.1.0 2026-03-13
+  - Add MRS data
+  - Add and update a lot more physio data
+  - Correct multi-part DWI data
+  - Add resting-state fMRI data
+1.0.1 2025-03-17
+  - Added SliceTiming to task-rest JSON sidecar files.
+1.0.0 2025-02-21
+  - Initial upload

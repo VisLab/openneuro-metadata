@@ -1,0 +1,17 @@
+{
+    "id": "HEAD",
+    "Name": "Pre-adolescents Exposure to Manganese",
+    "BIDSVersion": "1.0.0-rc2",
+    "Authors": [
+        "Emilia Iannilli"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4713423/"
+    ],
+    "DatasetDOI": ""
+}

@@ -1,0 +1,10 @@
+{
+  "CHANGES": "04edef8c94fd1f6f296be0e90e61448297fe20a8",
+  "participants.tsv": "69f551e43d2f5df52860e50a7dde2407657eeafa",
+  "dataset_description.json": "7a48402fb3d8d9ac8343f93add9dd24dcfa7724b",
+  "task-Rotation_events.json": "7945d21c87a56c21b73a7aa6ee8c4a2252fe56ba",
+  "participants.json": "9c937c4f35ba4946cee194e48850d5b5a4212a39",
+  "README": "58c0fe971342617f17bc126d352995548962035b",
+  "sub-01/ses-body/eeg/sub-01_ses-body_task-Rotation_events.tsv": "f0d4a4b49ef07fb96067865a51fc10124f0e2113",
+  "sub-01/ses-joy/eeg/sub-01_ses-joy_task-Rotation_events.tsv": "2ffff88c04844c18af5a788d882ed4c5b5597859"
+}

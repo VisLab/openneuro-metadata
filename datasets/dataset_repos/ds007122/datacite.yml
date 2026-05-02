@@ -1,0 +1,54 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Haekkinen, Suvi
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Beckett, Alexander
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Walker, Erica
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Huber, Renzo
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Feinberg, David
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+    creators:
+      - name: Haekkinen, Suvi
+        nameType: Personal
+      - name: Beckett, Alexander
+        nameType: Personal
+      - name: Walker, Erica
+        nameType: Personal
+      - name: Huber, Renzo
+        nameType: Personal
+      - name: Feinberg, David
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

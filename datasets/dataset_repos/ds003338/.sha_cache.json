@@ -1,0 +1,15 @@
+{
+  "participants.tsv": "2629a311d9fe6e096c93a5e7eef24ed1df43cc92",
+  "task-view_bold.json": "7d99bd7e696332881e7771aa9dd8870eb19c4638",
+  "dataset_description.json": "43f5964226a8b256f8e42e5f1a3bc025af96d0aa",
+  "CHANGES": "a6558b8a6c2bb046852fe068b554eb8faa393fa9",
+  "README": "08fe68a915501b0e4a1ebe5b484bdcdb6c773c3f",
+  "task-None_bold.json": "8798fbb597b9b9b2d3fedb410b5b5c448cccf496",
+  "task-recall_bold.json": "f96f08d72ef909512a922dd4abb8088d6db8fc84",
+  "sub-03/ses-01/func/sub-03_ses-01_task-view_run-01_events.tsv": "96d38476a9e5040dd730ff4e8c07807d94972124",
+  "sub-03/ses-01/func/sub-03_ses-01_task-recall_run-02_events.tsv": "0d58f122afb3d6398de92231c6321f902aedaad5",
+  "sub-03/ses-01/func/sub-03_ses-01_task-recall_run-03_events.tsv": "ec8245d90c52623a5f34f30d0649b559281d2cb2",
+  "sub-03/ses-01/func/sub-03_ses-01_task-view_run-02_events.tsv": "9a5be5ff37d40c5f36cb4eed0918576d36e87e9c",
+  "sub-03/ses-01/func/sub-03_ses-01_task-view_run-03_events.tsv": "ce00c2bb065be4281793a613e6c98e7c745d5f93",
+  "sub-03/ses-01/func/sub-03_ses-01_task-recall_run-01_events.tsv": "1637c7ee3a7a435d1b457a31bde1875923d424e1"
+}

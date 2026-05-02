@@ -1,0 +1,10 @@
+{
+  "CHANGES": "77ef8f395ecf9dc6a1cf55351d8fa53fe47ef69c",
+  "README": "9d30c2e5114568cec24db1d2708a1292a1af99c3",
+  "task-fix_eeg.json": "6b118fbbbb828748e49b33a566ec8d35f18bb58c",
+  "participants.tsv": "1fa48a1b7145ec3372d7f28074eee814cee02f08",
+  "participants.json": "3e12cf3cd7b88f06c56522b2f2ba4d670c85097f",
+  "task-fix_events.json": "7df63406ae2af0cb31755b8d8de6e35c0ba8ded8",
+  "dataset_description.json": "45f1109873f5936d0b469c793040e64a25a8bc4e",
+  "sub-001/eeg/sub-001_task-fix_events.tsv": "841b3ea17686ba863d0b5de0f56f41fa3bc28017"
+}

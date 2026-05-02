@@ -1,0 +1,17 @@
+{
+    "Name": "Language Task Battery",
+    "BIDSVersion": "1.4.1",
+    "License": "CC0",
+    "Authors": [
+        "Bassel Arafat",
+        "Caroline Nettekoven",
+        "Jörn Diedrichsen"
+    ],
+    "Funding": [
+        "This work was supported by a Discovery Grant from the Natural Sciences and Engineering Research Council of Canada (NSERC, RGPIN-2016-04890), and a project grant from the Canadian Institutes of Health Research (CIHR, PJT-191815), both to J.D. Additional funding came from the Canada First Research Excellence Fund (BrainsCAN) to Western University and the Raynor Cerebellum Project."
+    ],
+    "EthicsApprovals": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007276.v1.2.0",
+    "ReferencesAndLinks": [],
+    "HowToAcknowledge": "Please cite the following reference if you use these data:\nArafat, B., Nettekoven, C., Xiang, J. D., & Diedrichsen, J. (2026). Multi-Task Batteries for Precision Functional Mapping. bioRxiv, 2026-03."
+}

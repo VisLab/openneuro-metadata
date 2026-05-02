@@ -1,0 +1,8 @@
+{
+    "TaskName": "Overlap (Monetary Encoding Incentive) Task",
+    "Description": "participants must memorize a background scene and ignore a transparent foreground object. Trials begin with a money cue telling participants whether they can potentially lose money contingent on their memory for scenes. Half the trials are motivated by threat, in which participants are told they will lose 50 cents if they forget the scene on later on. On the other half of trials, participants must memorize the scene but there is no risk of losing money. The trials conclude with three scrambled image that are used for modeling an active baseline in the analyses",
+    "RepetitionTime": 2.0,
+    "EchoTime": 0.25,
+    "FlipAngle": 90,
+    "InstitutionName": "University of Southern California"
+}

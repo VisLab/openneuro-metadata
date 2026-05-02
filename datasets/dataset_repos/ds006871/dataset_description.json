@@ -1,0 +1,35 @@
+{
+    "Name": "Assessing molecular, cellular and transcriptomic bases of laminar perfusion and cytoarchitecture coupling in the human cortex",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Fanhua Guo",
+        "Chenyang Zhao",
+        "Ravi R. Bhatt",
+        "Zixuan Liu",
+        "Andy Jeesu Kim",
+        "Zidong Yang",
+        "Siyi Xu",
+        "Kay Jann",
+        "Mara Mather",
+        "Neda Jahanshad",
+        "Danny JJ Wang"
+    ],
+    "HowToAcknowledge": "Please cite the corresponding paper or contact the authors for details.",
+    "Funding": [
+        "US National Institute of Health grant UF1-NS100614",
+        "US National Institute of Health grant S10-OD025312",
+        "US National Institute of Health grant R01-NS114382",
+        "US National Institute of Health grant R01-EB032169",
+        "US National Institute of Health grant RF1AG084072",
+        "US National Institute of Health grant R01-EB028297",
+        "US National Institute of Health grant R01-NS134712",
+        "US National Institute of Health grant R01-NS121040"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/...",
+        "..."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006871.v1.0.0"
+}

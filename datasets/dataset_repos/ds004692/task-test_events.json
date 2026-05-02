@@ -1,0 +1,124 @@
+{
+    "duration": {
+        "Description": "Time from stimulus onset until response"
+    },
+    "block": {
+        "LongName": "Test mini-block number",
+        "Description": "Each test scan consisted of 8 mini-blocks of 16 trials"
+    },
+    "trial": {
+        "LongName": "Test trial number",
+        "Description": "Test block trial number out of 128 trials"
+    },
+    "task": {
+        "LongName": "Task condition",
+        "Description": "The type of task being conducted",
+        "Levels": {
+            "mem": "Recognition memory task",
+            "per": "Visual detection task"
+        }
+    },
+    "crit": {
+        "LongName": "Criterion condition",
+        "Description": "The criterion manipulation",
+        "Levels": {
+            "con": "Conservative criterion condition",
+            "lib": "Liberal criterion condition"
+        }
+    },
+    "disc": {
+        "LongName": "Discriminability condition",
+        "Description": "The relative discriminability level of the task",
+        "Levels": {
+            "low": "Low discriminability condition",
+            "mod": "Moderate discriminability condition"
+        }
+    },
+    "mem_disc": {
+        "LongName": "Discriminability condition wrt the recognition memory task",
+        "Description": "The relative discriminability level wrt the recognition memory regardless of task type",
+        "Levels": {
+            "low": "Low discriminability condition where studied images appeared once during the study phase",
+            "mod": "Moderate discriminability condition where studied images appeared six times during the study phase"
+        }
+    },
+    "per_disc": {
+        "LongName": "Discriminability condition wrt the visual detection task",
+        "Description": "The relative discriminability level wrt the visual detection regardless of task type",
+        "Levels": {
+            "low": "Low discriminability condition where it was relatively difficult to find a person in the person-present images",
+            "mod": "Moderate discriminability condition where it was relatively easy to find a person in the person-present images"
+        }
+    },
+    "trial_type": {
+        "LongName": "The type of trial",
+        "Description": "The target status of each test image during a trial or miscellaneous event types",
+        "Levels": {
+            "feedback": "Feedback screen informing participants of the amount of money earned on a particular test mini-block",
+            "instructions": "Instructions screen informing partcipants of the task conditions for the upcoming test mini-block",
+            "nt": "Nontarget test trial",
+            "tg": "Target test trial"
+        }
+    },
+    "mem_type": {
+        "LongName": "The type of trial wrt the recognition memory task",
+        "Description": "The target status of each test image wrt the recognition memory task regardless of task type",
+        "Levels": {
+            "nt": "Nontarget item that did not appear during the study phase",
+            "tg": "Target item that appeared during the study phase"
+        }
+    },
+    "per_type": {
+        "LongName": "The type of trial wrt the visual detection task",
+        "Description": "The target status of each test image wrt the visual detection task regardless of task type",
+        "Levels": {
+            "nt": "Nontarget item that did not include a person in the image",
+            "tg": "Target item that included a person in the image"
+        }
+    },
+    "left_option": {
+        "LongName": "Left hand response option",
+        "Description": "The response option that corresponds to a left hand button press",
+        "Levels": {
+            "nt": "Left hand button press corresponds to a nontarget response",
+            "tg": "Left hand button press corresponds to a target response"
+        }
+    },
+    "resp_hand": {
+        "LongName": "Response hand",
+        "Description": "The hand used to make a response",
+        "Levels": {
+            "left": "Response made with left hand",
+            "right": "Response made with right hand",
+            "n/a": "no response"
+        }
+    },
+    "response": {
+        "LongName": "Participant response",
+        "Description": "The response reported by the participant",
+        "Levels": {
+            "nt": "Nontarget response",
+            "tg": "Target response",
+            "n/a": "no response"
+        }
+    },
+    "accuracy": {
+        "LongName": "Response accuracy",
+        "Description": "The accuracy of a response",
+        "Levels": {
+            "cr": "correct rejection",
+            "fa": "false alarm",
+            "ht": "hit",
+            "ms": "miss",
+            "n/a": "no response"
+        }
+    },
+    "pay": {
+        "LongName": "Bonus payment",
+        "Description": "Money earned or lost on each trial in dollars"
+    },
+    "pay_tot": {
+        "LongName": "Bonus payment running total",
+        "Description": "Running total of bonus payment in dollars within a test block"
+    }
+}

@@ -1,0 +1,13 @@
+{ "TaskName": "rest", 
+"RepetitionTime": 2,
+"Slices": 34,
+"Orientation": "Transversal",
+"SliceThickness": 4,
+"TR": 2,
+"EchoTime": 0.03,
+"CoilElements": "HC1-7", 
+"PhaseEncodingDirection": "j", 
+"TotalReadoutTime": 2,
+"TotalReadoutTimeFSL": 1.975,
+"EffectiveEchoSpacing": 0.00125, 
+"FlipAngle": 90}

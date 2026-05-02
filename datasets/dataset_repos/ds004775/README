@@ -1,0 +1,24 @@
+Description: 
+This dataset contains data on a free-viewing task of soap opera clips. 
+Each participant viewed 15 clips, each lasting 180 seconds, presented in fully randomized order across three runs. There were three clips per condition across five conditions: (1) perception of main character’s behaviors as moral and perception of story outcomes for the main character as positive; (2) immoral behavior and negative outcome; (3) moral behavior & negative outcome; (4) immoral behavior and positive outcome; (5) neutral behavior (perception of behavior as neither moral nor immoral) and neutral outcome (perception of story outcome as neither negative nor positive). Between clips, a 30-second blue screen with a centered cross acted as a non-active baseline.
+
+- Condition labels:
+	- Moral - Reward: 1A, 1B, 1C 
+        - Immoral - Punish: 2A, 2B, 2C 
+        - Moral - Punish: 3A, 3B, 3C
+        - Immoral - Reward: 4A, 4B, 4C
+        - Neutral: 5A, 5B, 5C
+        - Blue screen: baseline
+  
+
+Participants:
+Participants include regular consumers (FANS) and participants who do not regularly watch the show (NON-FANS).
+
+Data collection:
+All data was collected in 2005 at the Michigan State University (MSU). 
+
+Papers containing analyses from this data:
+- Weber et al. (in prep). Vicarious Punishment of Moral Violations in Naturalistic Drama Narratives 
+Predicts Cortical Synchronization.
+
+For questions, please email PI Rene Weber (renew@ucsb.edu) or visit https://medianeuroscience.org

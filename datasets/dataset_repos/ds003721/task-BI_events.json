@@ -1,0 +1,18 @@
+{
+    " trial_type": {
+      "BIT":{"Description": "Baseline Intrusion Task, 6 min resting state scan"},
+        "Key":{"Description": "button press"}
+                },
+    "onset": {
+        "Description": "onset of the stimulus",
+        "Unit": "seconds"
+    },
+    " duration": {
+        "Description": "duration of the stimulus",
+        "Unit": "seconds"
+    },
+    " weight": {
+        "Description": "relative magnitude of stimulus. Usually set to 1"
+    }
+
+}

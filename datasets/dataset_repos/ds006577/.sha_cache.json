@@ -1,0 +1,15 @@
+{
+  "dataset_description.json": "3190fff67ebd81db860eb64f69c135717907ed39",
+  "README": "ea2936ae402fc6019479981a14c102ab310997ab",
+  "sessions.json": "c93feda4636fa7fb9625106b332d92d093cf04f0",
+  "CHANGES": "cb645916ad04ae54b706aa87e423a8e07e3602cf",
+  "task-TAU2_events.json": "058b157cc2eb5da4e8c0bbf0281c003e0796eb86",
+  "task-TAU2_bold.json": "e851caa1f0af435d986361969af0e9af2189f251",
+  "participants.json": "664c11d053b8c08954e02b559b9a05c11313d85c",
+  "sessions.tsv": "0993ec169a7683e667b3c0abdc7faf4b37a508bd",
+  "participants.tsv": "5006bfd005870fc0f89158791d416b2421253031",
+  "sub-22686/ses-post/func/sub-22686_ses-post_task-TAU2_run-1_events.tsv": "94422a1d56c71fee95c7290643f1eeb383f00842",
+  "sub-22686/ses-pre/func/sub-22686_ses-pre_task-TAU2_run-1_events.tsv": "7a5d05e9ca291bf114df7a65edcae3e245bb59be",
+  "sub-22686/ses-pre/func/sub-22686_ses-pre_task-TAU2_run-2_events.tsv": "fb7857625e404e93dc8b1df779c109ddf1ce831a",
+  "sub-22686/ses-post/func/sub-22686_ses-post_task-TAU2_run-2_events.tsv": "5e692ad47017e7911faa4ae119eb73e073231f75"
+}

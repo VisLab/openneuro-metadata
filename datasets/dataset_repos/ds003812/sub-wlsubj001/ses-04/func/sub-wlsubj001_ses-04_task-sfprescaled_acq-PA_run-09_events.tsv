@@ -1,0 +1,465 @@
+onset	duration	trial_type	stim_file	stim_file_index	note
+16.005	0.3	5	task-sfprescaled_stimuli.npy	47	n/a
+16.506	0.3	5	task-sfprescaled_stimuli.npy	42	n/a
+17.006	0.3	5	task-sfprescaled_stimuli.npy	41	n/a
+17.505	0.3	5	task-sfprescaled_stimuli.npy	44	n/a
+18.005	0.3	5	task-sfprescaled_stimuli.npy	43	n/a
+18.505	0.3	5	task-sfprescaled_stimuli.npy	40	n/a
+19.006	0.3	5	task-sfprescaled_stimuli.npy	46	n/a
+19.505	0.3	5	task-sfprescaled_stimuli.npy	45	n/a
+20.005	0.3	27	task-sfprescaled_stimuli.npy	218	n/a
+20.505	0.3	27	task-sfprescaled_stimuli.npy	216	n/a
+21.005	0.3	27	task-sfprescaled_stimuli.npy	220	n/a
+21.505	0.3	27	task-sfprescaled_stimuli.npy	222	n/a
+22.005	0.3	27	task-sfprescaled_stimuli.npy	217	n/a
+22.505	0.3	27	task-sfprescaled_stimuli.npy	223	n/a
+23.005	0.3	27	task-sfprescaled_stimuli.npy	219	n/a
+23.505	0.3	27	task-sfprescaled_stimuli.npy	221	n/a
+24.005	0.3	39	task-sfprescaled_stimuli.npy	313	n/a
+24.505	0.3	39	task-sfprescaled_stimuli.npy	318	n/a
+25.005	0.3	39	task-sfprescaled_stimuli.npy	315	n/a
+25.505	0.3	39	task-sfprescaled_stimuli.npy	312	n/a
+26.005	0.3	39	task-sfprescaled_stimuli.npy	316	n/a
+26.505	0.3	39	task-sfprescaled_stimuli.npy	317	n/a
+27.005	0.3	39	task-sfprescaled_stimuli.npy	319	n/a
+27.505	0.3	39	task-sfprescaled_stimuli.npy	314	n/a
+28.005	0.3	34	task-sfprescaled_stimuli.npy	274	n/a
+28.505	0.3	34	task-sfprescaled_stimuli.npy	277	n/a
+29.004	0.3	34	task-sfprescaled_stimuli.npy	276	n/a
+29.505	0.3	34	task-sfprescaled_stimuli.npy	273	n/a
+30.005	0.3	34	task-sfprescaled_stimuli.npy	278	n/a
+30.505	0.3	34	task-sfprescaled_stimuli.npy	275	n/a
+31.006	0.3	34	task-sfprescaled_stimuli.npy	272	n/a
+31.505	0.3	34	task-sfprescaled_stimuli.npy	279	n/a
+32.005	0.3	48	task-sfprescaled_stimuli.npy	400	blank trial
+32.505	0.3	48	task-sfprescaled_stimuli.npy	401	blank trial
+33.004	0.3	48	task-sfprescaled_stimuli.npy	404	blank trial
+33.505	0.3	48	task-sfprescaled_stimuli.npy	403	blank trial
+34.004	0.3	48	task-sfprescaled_stimuli.npy	405	blank trial
+34.505	0.3	48	task-sfprescaled_stimuli.npy	407	blank trial
+35.005	0.3	48	task-sfprescaled_stimuli.npy	402	blank trial
+35.505	0.3	48	task-sfprescaled_stimuli.npy	406	blank trial
+36.005	0.3	9	task-sfprescaled_stimuli.npy	79	n/a
+36.505	0.3	9	task-sfprescaled_stimuli.npy	74	n/a
+37.005	0.3	9	task-sfprescaled_stimuli.npy	75	n/a
+37.505	0.3	9	task-sfprescaled_stimuli.npy	73	n/a
+38.005	0.3	9	task-sfprescaled_stimuli.npy	78	n/a
+38.505	0.3	9	task-sfprescaled_stimuli.npy	76	n/a
+39.005	0.3	9	task-sfprescaled_stimuli.npy	72	n/a
+39.505	0.3	9	task-sfprescaled_stimuli.npy	77	n/a
+40.004	0.3	38	task-sfprescaled_stimuli.npy	305	n/a
+40.505	0.3	38	task-sfprescaled_stimuli.npy	304	n/a
+41.005	0.3	38	task-sfprescaled_stimuli.npy	308	n/a
+41.505	0.3	38	task-sfprescaled_stimuli.npy	311	n/a
+42.005	0.3	38	task-sfprescaled_stimuli.npy	309	n/a
+42.505	0.3	38	task-sfprescaled_stimuli.npy	306	n/a
+43.005	0.3	38	task-sfprescaled_stimuli.npy	310	n/a
+43.503	0.3	38	task-sfprescaled_stimuli.npy	307	n/a
+44.005	0.3	31	task-sfprescaled_stimuli.npy	250	n/a
+44.503	0.3	31	task-sfprescaled_stimuli.npy	253	n/a
+45.005	0.3	31	task-sfprescaled_stimuli.npy	249	n/a
+45.503	0.3	31	task-sfprescaled_stimuli.npy	254	n/a
+46.004	0.3	31	task-sfprescaled_stimuli.npy	251	n/a
+46.502	0.3	31	task-sfprescaled_stimuli.npy	255	n/a
+47.005	0.3	31	task-sfprescaled_stimuli.npy	252	n/a
+47.503	0.3	31	task-sfprescaled_stimuli.npy	248	n/a
+48.004	0.3	37	task-sfprescaled_stimuli.npy	297	n/a
+48.503	0.3	37	task-sfprescaled_stimuli.npy	298	n/a
+49.004	0.3	37	task-sfprescaled_stimuli.npy	299	n/a
+49.504	0.3	37	task-sfprescaled_stimuli.npy	301	n/a
+50.004	0.3	37	task-sfprescaled_stimuli.npy	300	n/a
+50.504	0.3	37	task-sfprescaled_stimuli.npy	296	n/a
+51.004	0.3	37	task-sfprescaled_stimuli.npy	303	n/a
+51.504	0.3	37	task-sfprescaled_stimuli.npy	302	n/a
+52.004	0.3	25	task-sfprescaled_stimuli.npy	206	n/a
+52.505	0.3	25	task-sfprescaled_stimuli.npy	207	n/a
+53.005	0.3	25	task-sfprescaled_stimuli.npy	201	n/a
+53.505	0.3	25	task-sfprescaled_stimuli.npy	200	n/a
+54.005	0.3	25	task-sfprescaled_stimuli.npy	204	n/a
+54.505	0.3	25	task-sfprescaled_stimuli.npy	203	n/a
+55.005	0.3	25	task-sfprescaled_stimuli.npy	202	n/a
+55.505	0.3	25	task-sfprescaled_stimuli.npy	205	n/a
+56.004	0.3	48	task-sfprescaled_stimuli.npy	444	blank trial
+56.505	0.3	48	task-sfprescaled_stimuli.npy	441	blank trial
+57.004	0.3	48	task-sfprescaled_stimuli.npy	446	blank trial
+57.505	0.3	48	task-sfprescaled_stimuli.npy	440	blank trial
+58.004	0.3	48	task-sfprescaled_stimuli.npy	443	blank trial
+58.505	0.3	48	task-sfprescaled_stimuli.npy	445	blank trial
+59.004	0.3	48	task-sfprescaled_stimuli.npy	447	blank trial
+59.505	0.3	48	task-sfprescaled_stimuli.npy	442	blank trial
+60.005	0.3	33	task-sfprescaled_stimuli.npy	264	n/a
+60.505	0.3	33	task-sfprescaled_stimuli.npy	269	n/a
+61.004	0.3	33	task-sfprescaled_stimuli.npy	266	n/a
+61.505	0.3	33	task-sfprescaled_stimuli.npy	270	n/a
+62.005	0.3	33	task-sfprescaled_stimuli.npy	268	n/a
+62.505	0.3	33	task-sfprescaled_stimuli.npy	265	n/a
+63.005	0.3	33	task-sfprescaled_stimuli.npy	267	n/a
+63.505	0.3	33	task-sfprescaled_stimuli.npy	271	n/a
+64.005	0.3	2	task-sfprescaled_stimuli.npy	22	n/a
+64.505	0.3	2	task-sfprescaled_stimuli.npy	16	n/a
+65.004	0.3	2	task-sfprescaled_stimuli.npy	21	n/a
+65.505	0.3	2	task-sfprescaled_stimuli.npy	19	n/a
+66.005	0.3	2	task-sfprescaled_stimuli.npy	18	n/a
+66.505	0.3	2	task-sfprescaled_stimuli.npy	20	n/a
+67.005	0.3	2	task-sfprescaled_stimuli.npy	17	n/a
+67.505	0.3	2	task-sfprescaled_stimuli.npy	23	n/a
+68.005	0.3	7	task-sfprescaled_stimuli.npy	61	n/a
+68.505	0.3	7	task-sfprescaled_stimuli.npy	58	n/a
+69.005	0.3	7	task-sfprescaled_stimuli.npy	63	n/a
+69.505	0.3	7	task-sfprescaled_stimuli.npy	56	n/a
+70.005	0.3	7	task-sfprescaled_stimuli.npy	57	n/a
+70.504	0.3	7	task-sfprescaled_stimuli.npy	60	n/a
+71.005	0.3	7	task-sfprescaled_stimuli.npy	62	n/a
+71.505	0.3	7	task-sfprescaled_stimuli.npy	59	n/a
+72.005	0.3	32	task-sfprescaled_stimuli.npy	261	n/a
+72.504	0.3	32	task-sfprescaled_stimuli.npy	258	n/a
+73.005	0.3	32	task-sfprescaled_stimuli.npy	260	n/a
+73.504	0.3	32	task-sfprescaled_stimuli.npy	256	n/a
+74.005	0.3	32	task-sfprescaled_stimuli.npy	257	n/a
+74.504	0.3	32	task-sfprescaled_stimuli.npy	259	n/a
+75.004	0.3	32	task-sfprescaled_stimuli.npy	263	n/a
+75.505	0.3	32	task-sfprescaled_stimuli.npy	262	n/a
+76.004	0.3	48	task-sfprescaled_stimuli.npy	398	blank trial
+76.505	0.3	48	task-sfprescaled_stimuli.npy	399	blank trial
+77.004	0.3	48	task-sfprescaled_stimuli.npy	396	blank trial
+77.505	0.3	48	task-sfprescaled_stimuli.npy	397	blank trial
+78.004	0.3	48	task-sfprescaled_stimuli.npy	394	blank trial
+78.505	0.3	48	task-sfprescaled_stimuli.npy	393	blank trial
+79.004	0.3	48	task-sfprescaled_stimuli.npy	392	blank trial
+79.505	0.3	48	task-sfprescaled_stimuli.npy	395	blank trial
+80.005	0.3	15	task-sfprescaled_stimuli.npy	127	n/a
+80.504	0.3	15	task-sfprescaled_stimuli.npy	123	n/a
+81.004	0.3	15	task-sfprescaled_stimuli.npy	120	n/a
+81.504	0.3	15	task-sfprescaled_stimuli.npy	125	n/a
+82.005	0.3	15	task-sfprescaled_stimuli.npy	121	n/a
+82.504	0.3	15	task-sfprescaled_stimuli.npy	126	n/a
+83.005	0.3	15	task-sfprescaled_stimuli.npy	122	n/a
+83.504	0.3	15	task-sfprescaled_stimuli.npy	124	n/a
+84.005	0.3	47	task-sfprescaled_stimuli.npy	376	n/a
+84.504	0.3	47	task-sfprescaled_stimuli.npy	378	n/a
+85.005	0.3	47	task-sfprescaled_stimuli.npy	377	n/a
+85.504	0.3	47	task-sfprescaled_stimuli.npy	380	n/a
+86.004	0.3	47	task-sfprescaled_stimuli.npy	381	n/a
+86.504	0.3	47	task-sfprescaled_stimuli.npy	383	n/a
+87.005	0.3	47	task-sfprescaled_stimuli.npy	382	n/a
+87.504	0.3	47	task-sfprescaled_stimuli.npy	379	n/a
+88.004	0.3	48	task-sfprescaled_stimuli.npy	410	blank trial
+88.504	0.3	48	task-sfprescaled_stimuli.npy	412	blank trial
+89.004	0.3	48	task-sfprescaled_stimuli.npy	408	blank trial
+89.504	0.3	48	task-sfprescaled_stimuli.npy	411	blank trial
+90.004	0.3	48	task-sfprescaled_stimuli.npy	415	blank trial
+90.504	0.3	48	task-sfprescaled_stimuli.npy	413	blank trial
+91.005	0.3	48	task-sfprescaled_stimuli.npy	414	blank trial
+91.504	0.3	48	task-sfprescaled_stimuli.npy	409	blank trial
+92.005	0.3	26	task-sfprescaled_stimuli.npy	215	n/a
+92.504	0.3	26	task-sfprescaled_stimuli.npy	209	n/a
+93.005	0.3	26	task-sfprescaled_stimuli.npy	210	n/a
+93.503	0.3	26	task-sfprescaled_stimuli.npy	212	n/a
+94.005	0.3	26	task-sfprescaled_stimuli.npy	211	n/a
+94.502	0.3	26	task-sfprescaled_stimuli.npy	214	n/a
+95.005	0.3	26	task-sfprescaled_stimuli.npy	213	n/a
+95.503	0.3	26	task-sfprescaled_stimuli.npy	208	n/a
+96.005	0.3	41	task-sfprescaled_stimuli.npy	335	n/a
+96.503	0.3	41	task-sfprescaled_stimuli.npy	333	n/a
+97.005	0.3	41	task-sfprescaled_stimuli.npy	332	n/a
+97.503	0.3	41	task-sfprescaled_stimuli.npy	329	n/a
+98.004	0.3	41	task-sfprescaled_stimuli.npy	331	n/a
+98.504	0.3	41	task-sfprescaled_stimuli.npy	330	n/a
+99.004	0.3	41	task-sfprescaled_stimuli.npy	334	n/a
+99.504	0.3	41	task-sfprescaled_stimuli.npy	328	n/a
+100.004	0.3	35	task-sfprescaled_stimuli.npy	286	n/a
+100.504	0.3	35	task-sfprescaled_stimuli.npy	282	n/a
+101.004	0.3	35	task-sfprescaled_stimuli.npy	285	n/a
+101.504	0.3	35	task-sfprescaled_stimuli.npy	287	n/a
+102.004	0.3	35	task-sfprescaled_stimuli.npy	280	n/a
+102.504	0.3	35	task-sfprescaled_stimuli.npy	283	n/a
+103.004	0.3	35	task-sfprescaled_stimuli.npy	281	n/a
+103.504	0.3	35	task-sfprescaled_stimuli.npy	284	n/a
+104.005	0.3	48	task-sfprescaled_stimuli.npy	420	blank trial
+104.504	0.3	48	task-sfprescaled_stimuli.npy	418	blank trial
+105.005	0.3	48	task-sfprescaled_stimuli.npy	417	blank trial
+105.504	0.3	48	task-sfprescaled_stimuli.npy	423	blank trial
+106.004	0.3	48	task-sfprescaled_stimuli.npy	419	blank trial
+106.504	0.3	48	task-sfprescaled_stimuli.npy	422	blank trial
+107.004	0.3	48	task-sfprescaled_stimuli.npy	416	blank trial
+107.504	0.3	48	task-sfprescaled_stimuli.npy	421	blank trial
+108.005	0.3	18	task-sfprescaled_stimuli.npy	146	n/a
+108.504	0.3	18	task-sfprescaled_stimuli.npy	147	n/a
+109.005	0.3	18	task-sfprescaled_stimuli.npy	151	n/a
+109.504	0.3	18	task-sfprescaled_stimuli.npy	145	n/a
+110.005	0.3	18	task-sfprescaled_stimuli.npy	144	n/a
+110.504	0.3	18	task-sfprescaled_stimuli.npy	148	n/a
+111.005	0.3	18	task-sfprescaled_stimuli.npy	149	n/a
+111.504	0.3	18	task-sfprescaled_stimuli.npy	150	n/a
+112.005	0.3	48	task-sfprescaled_stimuli.npy	459	blank trial
+112.504	0.3	48	task-sfprescaled_stimuli.npy	457	blank trial
+113.004	0.3	48	task-sfprescaled_stimuli.npy	456	blank trial
+113.504	0.3	48	task-sfprescaled_stimuli.npy	463	blank trial
+114.004	0.3	48	task-sfprescaled_stimuli.npy	461	blank trial
+114.504	0.3	48	task-sfprescaled_stimuli.npy	460	blank trial
+115.004	0.3	48	task-sfprescaled_stimuli.npy	462	blank trial
+115.504	0.3	48	task-sfprescaled_stimuli.npy	458	blank trial
+116.005	0.3	44	task-sfprescaled_stimuli.npy	358	n/a
+116.504	0.3	44	task-sfprescaled_stimuli.npy	353	n/a
+117.005	0.3	44	task-sfprescaled_stimuli.npy	357	n/a
+117.504	0.3	44	task-sfprescaled_stimuli.npy	354	n/a
+118.004	0.3	44	task-sfprescaled_stimuli.npy	359	n/a
+118.504	0.3	44	task-sfprescaled_stimuli.npy	355	n/a
+119.004	0.3	44	task-sfprescaled_stimuli.npy	352	n/a
+119.504	0.3	44	task-sfprescaled_stimuli.npy	356	n/a
+120.005	0.3	17	task-sfprescaled_stimuli.npy	139	n/a
+120.504	0.3	17	task-sfprescaled_stimuli.npy	137	n/a
+121.005	0.3	17	task-sfprescaled_stimuli.npy	142	n/a
+121.504	0.3	17	task-sfprescaled_stimuli.npy	140	n/a
+122.005	0.3	17	task-sfprescaled_stimuli.npy	143	n/a
+122.504	0.3	17	task-sfprescaled_stimuli.npy	138	n/a
+123.004	0.3	17	task-sfprescaled_stimuli.npy	136	n/a
+123.504	0.3	17	task-sfprescaled_stimuli.npy	141	n/a
+124.005	0.3	36	task-sfprescaled_stimuli.npy	289	n/a
+124.504	0.3	36	task-sfprescaled_stimuli.npy	295	n/a
+125.005	0.3	36	task-sfprescaled_stimuli.npy	291	n/a
+125.504	0.3	36	task-sfprescaled_stimuli.npy	288	n/a
+126.003	0.3	36	task-sfprescaled_stimuli.npy	292	n/a
+126.504	0.3	36	task-sfprescaled_stimuli.npy	294	n/a
+127.004	0.3	36	task-sfprescaled_stimuli.npy	293	n/a
+127.504	0.3	36	task-sfprescaled_stimuli.npy	290	n/a
+128.004	0.3	48	task-sfprescaled_stimuli.npy	437	blank trial
+128.504	0.3	48	task-sfprescaled_stimuli.npy	432	blank trial
+129.004	0.3	48	task-sfprescaled_stimuli.npy	438	blank trial
+129.504	0.3	48	task-sfprescaled_stimuli.npy	434	blank trial
+130.004	0.3	48	task-sfprescaled_stimuli.npy	433	blank trial
+130.504	0.3	48	task-sfprescaled_stimuli.npy	439	blank trial
+131.004	0.3	48	task-sfprescaled_stimuli.npy	436	blank trial
+131.504	0.3	48	task-sfprescaled_stimuli.npy	435	blank trial
+132.004	0.3	0	task-sfprescaled_stimuli.npy	1	n/a
+132.504	0.3	0	task-sfprescaled_stimuli.npy	7	n/a
+133.004	0.3	0	task-sfprescaled_stimuli.npy	2	n/a
+133.504	0.3	0	task-sfprescaled_stimuli.npy	6	n/a
+134.005	0.3	0	task-sfprescaled_stimuli.npy	4	n/a
+134.504	0.3	0	task-sfprescaled_stimuli.npy	3	n/a
+135.004	0.3	0	task-sfprescaled_stimuli.npy	0	n/a
+135.504	0.3	0	task-sfprescaled_stimuli.npy	5	n/a
+136.004	0.3	6	task-sfprescaled_stimuli.npy	53	n/a
+136.504	0.3	6	task-sfprescaled_stimuli.npy	54	n/a
+137.005	0.3	6	task-sfprescaled_stimuli.npy	50	n/a
+137.504	0.3	6	task-sfprescaled_stimuli.npy	51	n/a
+138.005	0.3	6	task-sfprescaled_stimuli.npy	49	n/a
+138.504	0.3	6	task-sfprescaled_stimuli.npy	55	n/a
+139.005	0.3	6	task-sfprescaled_stimuli.npy	48	n/a
+139.504	0.3	6	task-sfprescaled_stimuli.npy	52	n/a
+140.004	0.3	4	task-sfprescaled_stimuli.npy	36	n/a
+140.504	0.3	4	task-sfprescaled_stimuli.npy	33	n/a
+141.003	0.3	4	task-sfprescaled_stimuli.npy	34	n/a
+141.504	0.3	4	task-sfprescaled_stimuli.npy	39	n/a
+142.005	0.3	4	task-sfprescaled_stimuli.npy	37	n/a
+142.502	0.3	4	task-sfprescaled_stimuli.npy	32	n/a
+143.003	0.3	4	task-sfprescaled_stimuli.npy	38	n/a
+143.503	0.3	4	task-sfprescaled_stimuli.npy	35	n/a
+144.002	0.3	48	task-sfprescaled_stimuli.npy	448	blank trial
+144.502	0.3	48	task-sfprescaled_stimuli.npy	450	blank trial
+145.003	0.3	48	task-sfprescaled_stimuli.npy	454	blank trial
+145.502	0.3	48	task-sfprescaled_stimuli.npy	452	blank trial
+146.003	0.3	48	task-sfprescaled_stimuli.npy	455	blank trial
+146.502	0.3	48	task-sfprescaled_stimuli.npy	453	blank trial
+147.002	0.3	48	task-sfprescaled_stimuli.npy	449	blank trial
+147.503	0.3	48	task-sfprescaled_stimuli.npy	451	blank trial
+148.003	0.3	16	task-sfprescaled_stimuli.npy	134	n/a
+148.503	0.3	16	task-sfprescaled_stimuli.npy	132	n/a
+149.004	0.3	16	task-sfprescaled_stimuli.npy	131	n/a
+149.504	0.3	16	task-sfprescaled_stimuli.npy	129	n/a
+150.003	0.3	16	task-sfprescaled_stimuli.npy	130	n/a
+150.504	0.3	16	task-sfprescaled_stimuli.npy	135	n/a
+151.004	0.3	16	task-sfprescaled_stimuli.npy	133	n/a
+151.504	0.3	16	task-sfprescaled_stimuli.npy	128	n/a
+152.003	0.3	3	task-sfprescaled_stimuli.npy	25	n/a
+152.504	0.3	3	task-sfprescaled_stimuli.npy	30	n/a
+153.003	0.3	3	task-sfprescaled_stimuli.npy	24	n/a
+153.504	0.3	3	task-sfprescaled_stimuli.npy	27	n/a
+154.003	0.3	3	task-sfprescaled_stimuli.npy	28	n/a
+154.504	0.3	3	task-sfprescaled_stimuli.npy	31	n/a
+155.003	0.3	3	task-sfprescaled_stimuli.npy	29	n/a
+155.504	0.3	3	task-sfprescaled_stimuli.npy	26	n/a
+156.003	0.3	22	task-sfprescaled_stimuli.npy	182	n/a
+156.504	0.3	22	task-sfprescaled_stimuli.npy	183	n/a
+157.003	0.3	22	task-sfprescaled_stimuli.npy	180	n/a
+157.504	0.3	22	task-sfprescaled_stimuli.npy	178	n/a
+158.003	0.3	22	task-sfprescaled_stimuli.npy	177	n/a
+158.504	0.3	22	task-sfprescaled_stimuli.npy	181	n/a
+159.003	0.3	22	task-sfprescaled_stimuli.npy	176	n/a
+159.504	0.3	22	task-sfprescaled_stimuli.npy	179	n/a
+160.003	0.3	42	task-sfprescaled_stimuli.npy	340	n/a
+160.504	0.3	42	task-sfprescaled_stimuli.npy	341	n/a
+161.003	0.3	42	task-sfprescaled_stimuli.npy	336	n/a
+161.504	0.3	42	task-sfprescaled_stimuli.npy	337	n/a
+162.003	0.3	42	task-sfprescaled_stimuli.npy	342	n/a
+162.504	0.3	42	task-sfprescaled_stimuli.npy	338	n/a
+163.003	0.3	42	task-sfprescaled_stimuli.npy	339	n/a
+163.504	0.3	42	task-sfprescaled_stimuli.npy	343	n/a
+164.003	0.3	1	task-sfprescaled_stimuli.npy	14	n/a
+164.504	0.3	1	task-sfprescaled_stimuli.npy	9	n/a
+165.003	0.3	1	task-sfprescaled_stimuli.npy	13	n/a
+165.504	0.3	1	task-sfprescaled_stimuli.npy	8	n/a
+166.003	0.3	1	task-sfprescaled_stimuli.npy	12	n/a
+166.504	0.3	1	task-sfprescaled_stimuli.npy	11	n/a
+167.003	0.3	1	task-sfprescaled_stimuli.npy	10	n/a
+167.504	0.3	1	task-sfprescaled_stimuli.npy	15	n/a
+168.003	0.3	20	task-sfprescaled_stimuli.npy	163	n/a
+168.504	0.3	20	task-sfprescaled_stimuli.npy	164	n/a
+169.003	0.3	20	task-sfprescaled_stimuli.npy	162	n/a
+169.504	0.3	20	task-sfprescaled_stimuli.npy	160	n/a
+170.003	0.3	20	task-sfprescaled_stimuli.npy	167	n/a
+170.504	0.3	20	task-sfprescaled_stimuli.npy	166	n/a
+171.003	0.3	20	task-sfprescaled_stimuli.npy	165	n/a
+171.504	0.3	20	task-sfprescaled_stimuli.npy	161	n/a
+172.003	0.3	21	task-sfprescaled_stimuli.npy	175	n/a
+172.504	0.3	21	task-sfprescaled_stimuli.npy	168	n/a
+173.003	0.3	21	task-sfprescaled_stimuli.npy	172	n/a
+173.504	0.3	21	task-sfprescaled_stimuli.npy	171	n/a
+174.003	0.3	21	task-sfprescaled_stimuli.npy	169	n/a
+174.504	0.3	21	task-sfprescaled_stimuli.npy	170	n/a
+175.003	0.3	21	task-sfprescaled_stimuli.npy	174	n/a
+175.504	0.3	21	task-sfprescaled_stimuli.npy	173	n/a
+176.003	0.3	45	task-sfprescaled_stimuli.npy	360	n/a
+176.504	0.3	45	task-sfprescaled_stimuli.npy	367	n/a
+177.004	0.3	45	task-sfprescaled_stimuli.npy	363	n/a
+177.504	0.3	45	task-sfprescaled_stimuli.npy	366	n/a
+178.003	0.3	45	task-sfprescaled_stimuli.npy	365	n/a
+178.504	0.3	45	task-sfprescaled_stimuli.npy	362	n/a
+179.003	0.3	45	task-sfprescaled_stimuli.npy	364	n/a
+179.504	0.3	45	task-sfprescaled_stimuli.npy	361	n/a
+180.004	0.3	11	task-sfprescaled_stimuli.npy	90	n/a
+180.504	0.3	11	task-sfprescaled_stimuli.npy	91	n/a
+181.003	0.3	11	task-sfprescaled_stimuli.npy	94	n/a
+181.504	0.3	11	task-sfprescaled_stimuli.npy	93	n/a
+182.003	0.3	11	task-sfprescaled_stimuli.npy	95	n/a
+182.504	0.3	11	task-sfprescaled_stimuli.npy	88	n/a
+183.003	0.3	11	task-sfprescaled_stimuli.npy	89	n/a
+183.504	0.3	11	task-sfprescaled_stimuli.npy	92	n/a
+184.004	0.3	14	task-sfprescaled_stimuli.npy	117	n/a
+184.504	0.3	14	task-sfprescaled_stimuli.npy	112	n/a
+185.003	0.3	14	task-sfprescaled_stimuli.npy	118	n/a
+185.504	0.3	14	task-sfprescaled_stimuli.npy	114	n/a
+186.003	0.3	14	task-sfprescaled_stimuli.npy	116	n/a
+186.504	0.3	14	task-sfprescaled_stimuli.npy	115	n/a
+187.004	0.3	14	task-sfprescaled_stimuli.npy	119	n/a
+187.504	0.3	14	task-sfprescaled_stimuli.npy	113	n/a
+188.003	0.3	30	task-sfprescaled_stimuli.npy	245	n/a
+188.504	0.3	30	task-sfprescaled_stimuli.npy	243	n/a
+189.003	0.3	30	task-sfprescaled_stimuli.npy	244	n/a
+189.504	0.3	30	task-sfprescaled_stimuli.npy	247	n/a
+190.003	0.3	30	task-sfprescaled_stimuli.npy	246	n/a
+190.504	0.3	30	task-sfprescaled_stimuli.npy	242	n/a
+191.003	0.3	30	task-sfprescaled_stimuli.npy	240	n/a
+191.504	0.3	30	task-sfprescaled_stimuli.npy	241	n/a
+192.004	0.3	43	task-sfprescaled_stimuli.npy	349	n/a
+192.503	0.3	43	task-sfprescaled_stimuli.npy	346	n/a
+193.003	0.3	43	task-sfprescaled_stimuli.npy	345	n/a
+193.503	0.3	43	task-sfprescaled_stimuli.npy	347	n/a
+194.003	0.3	43	task-sfprescaled_stimuli.npy	351	n/a
+194.503	0.3	43	task-sfprescaled_stimuli.npy	348	n/a
+195.003	0.3	43	task-sfprescaled_stimuli.npy	344	n/a
+195.503	0.3	43	task-sfprescaled_stimuli.npy	350	n/a
+196.003	0.3	24	task-sfprescaled_stimuli.npy	192	n/a
+196.503	0.3	24	task-sfprescaled_stimuli.npy	194	n/a
+197.003	0.3	24	task-sfprescaled_stimuli.npy	196	n/a
+197.504	0.3	24	task-sfprescaled_stimuli.npy	197	n/a
+198.003	0.3	24	task-sfprescaled_stimuli.npy	193	n/a
+198.503	0.3	24	task-sfprescaled_stimuli.npy	199	n/a
+199.003	0.3	24	task-sfprescaled_stimuli.npy	198	n/a
+199.504	0.3	24	task-sfprescaled_stimuli.npy	195	n/a
+200.003	0.3	29	task-sfprescaled_stimuli.npy	238	n/a
+200.503	0.3	29	task-sfprescaled_stimuli.npy	237	n/a
+201.003	0.3	29	task-sfprescaled_stimuli.npy	236	n/a
+201.503	0.3	29	task-sfprescaled_stimuli.npy	232	n/a
+202.004	0.3	29	task-sfprescaled_stimuli.npy	234	n/a
+202.504	0.3	29	task-sfprescaled_stimuli.npy	239	n/a
+203.003	0.3	29	task-sfprescaled_stimuli.npy	233	n/a
+203.503	0.3	29	task-sfprescaled_stimuli.npy	235	n/a
+204.003	0.3	46	task-sfprescaled_stimuli.npy	369	n/a
+204.503	0.3	46	task-sfprescaled_stimuli.npy	368	n/a
+205.004	0.3	46	task-sfprescaled_stimuli.npy	373	n/a
+205.503	0.3	46	task-sfprescaled_stimuli.npy	371	n/a
+206.004	0.3	46	task-sfprescaled_stimuli.npy	375	n/a
+206.503	0.3	46	task-sfprescaled_stimuli.npy	370	n/a
+207.003	0.3	46	task-sfprescaled_stimuli.npy	372	n/a
+207.503	0.3	46	task-sfprescaled_stimuli.npy	374	n/a
+208.003	0.3	13	task-sfprescaled_stimuli.npy	105	n/a
+208.503	0.3	13	task-sfprescaled_stimuli.npy	108	n/a
+209.003	0.3	13	task-sfprescaled_stimuli.npy	106	n/a
+209.503	0.3	13	task-sfprescaled_stimuli.npy	110	n/a
+210.003	0.3	13	task-sfprescaled_stimuli.npy	109	n/a
+210.503	0.3	13	task-sfprescaled_stimuli.npy	107	n/a
+211.003	0.3	13	task-sfprescaled_stimuli.npy	111	n/a
+211.503	0.3	13	task-sfprescaled_stimuli.npy	104	n/a
+212.004	0.3	28	task-sfprescaled_stimuli.npy	227	n/a
+212.503	0.3	28	task-sfprescaled_stimuli.npy	229	n/a
+213.004	0.3	28	task-sfprescaled_stimuli.npy	231	n/a
+213.503	0.3	28	task-sfprescaled_stimuli.npy	230	n/a
+214.004	0.3	28	task-sfprescaled_stimuli.npy	224	n/a
+214.503	0.3	28	task-sfprescaled_stimuli.npy	225	n/a
+215.004	0.3	28	task-sfprescaled_stimuli.npy	226	n/a
+215.503	0.3	28	task-sfprescaled_stimuli.npy	228	n/a
+216.003	0.3	10	task-sfprescaled_stimuli.npy	80	n/a
+216.503	0.3	10	task-sfprescaled_stimuli.npy	82	n/a
+217.003	0.3	10	task-sfprescaled_stimuli.npy	84	n/a
+217.503	0.3	10	task-sfprescaled_stimuli.npy	81	n/a
+218.003	0.3	10	task-sfprescaled_stimuli.npy	83	n/a
+218.503	0.3	10	task-sfprescaled_stimuli.npy	87	n/a
+219.003	0.3	10	task-sfprescaled_stimuli.npy	86	n/a
+219.503	0.3	10	task-sfprescaled_stimuli.npy	85	n/a
+220.003	0.3	23	task-sfprescaled_stimuli.npy	187	n/a
+220.503	0.3	23	task-sfprescaled_stimuli.npy	189	n/a
+221.003	0.3	23	task-sfprescaled_stimuli.npy	184	n/a
+221.503	0.3	23	task-sfprescaled_stimuli.npy	190	n/a
+222.004	0.3	23	task-sfprescaled_stimuli.npy	188	n/a
+222.503	0.3	23	task-sfprescaled_stimuli.npy	186	n/a
+223.003	0.3	23	task-sfprescaled_stimuli.npy	185	n/a
+223.503	0.3	23	task-sfprescaled_stimuli.npy	191	n/a
+224.003	0.3	12	task-sfprescaled_stimuli.npy	99	n/a
+224.503	0.3	12	task-sfprescaled_stimuli.npy	101	n/a
+225.003	0.3	12	task-sfprescaled_stimuli.npy	96	n/a
+225.503	0.3	12	task-sfprescaled_stimuli.npy	103	n/a
+226.003	0.3	12	task-sfprescaled_stimuli.npy	100	n/a
+226.503	0.3	12	task-sfprescaled_stimuli.npy	98	n/a
+227.003	0.3	12	task-sfprescaled_stimuli.npy	97	n/a
+227.503	0.3	12	task-sfprescaled_stimuli.npy	102	n/a
+228.004	0.3	19	task-sfprescaled_stimuli.npy	158	n/a
+228.503	0.3	19	task-sfprescaled_stimuli.npy	152	n/a
+229.004	0.3	19	task-sfprescaled_stimuli.npy	155	n/a
+229.503	0.3	19	task-sfprescaled_stimuli.npy	154	n/a
+230.004	0.3	19	task-sfprescaled_stimuli.npy	156	n/a
+230.503	0.3	19	task-sfprescaled_stimuli.npy	159	n/a
+231.003	0.3	19	task-sfprescaled_stimuli.npy	157	n/a
+231.503	0.3	19	task-sfprescaled_stimuli.npy	153	n/a
+232.003	0.3	48	task-sfprescaled_stimuli.npy	384	blank trial
+232.503	0.3	48	task-sfprescaled_stimuli.npy	387	blank trial
+233.003	0.3	48	task-sfprescaled_stimuli.npy	388	blank trial
+233.503	0.3	48	task-sfprescaled_stimuli.npy	385	blank trial
+234.003	0.3	48	task-sfprescaled_stimuli.npy	386	blank trial
+234.503	0.3	48	task-sfprescaled_stimuli.npy	390	blank trial
+235.003	0.3	48	task-sfprescaled_stimuli.npy	389	blank trial
+235.503	0.3	48	task-sfprescaled_stimuli.npy	391	blank trial
+236.004	0.3	8	task-sfprescaled_stimuli.npy	67	n/a
+236.503	0.3	8	task-sfprescaled_stimuli.npy	64	n/a
+237.003	0.3	8	task-sfprescaled_stimuli.npy	66	n/a
+237.503	0.3	8	task-sfprescaled_stimuli.npy	68	n/a
+238.003	0.3	8	task-sfprescaled_stimuli.npy	65	n/a
+238.503	0.3	8	task-sfprescaled_stimuli.npy	71	n/a
+239.003	0.3	8	task-sfprescaled_stimuli.npy	70	n/a
+239.503	0.3	8	task-sfprescaled_stimuli.npy	69	n/a
+240.003	0.3	40	task-sfprescaled_stimuli.npy	323	n/a
+240.503	0.3	40	task-sfprescaled_stimuli.npy	322	n/a
+241.003	0.3	40	task-sfprescaled_stimuli.npy	327	n/a
+241.503	0.3	40	task-sfprescaled_stimuli.npy	320	n/a
+242.003	0.3	40	task-sfprescaled_stimuli.npy	326	n/a
+242.503	0.3	40	task-sfprescaled_stimuli.npy	325	n/a
+243.003	0.3	40	task-sfprescaled_stimuli.npy	324	n/a
+243.503	0.3	40	task-sfprescaled_stimuli.npy	321	n/a
+244.003	0.3	48	task-sfprescaled_stimuli.npy	431	blank trial
+244.502	0.3	48	task-sfprescaled_stimuli.npy	425	blank trial
+245.003	0.3	48	task-sfprescaled_stimuli.npy	429	blank trial
+245.503	0.3	48	task-sfprescaled_stimuli.npy	427	blank trial
+246.003	0.3	48	task-sfprescaled_stimuli.npy	426	blank trial
+246.503	0.3	48	task-sfprescaled_stimuli.npy	424	blank trial
+247.003	0.3	48	task-sfprescaled_stimuli.npy	430	blank trial
+247.503	0.3	48	task-sfprescaled_stimuli.npy	428	blank trial

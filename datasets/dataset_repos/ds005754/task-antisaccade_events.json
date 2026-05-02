@@ -1,0 +1,62 @@
+{
+  "onset":{
+    "Description":"Trial start time.",
+    "Units":"seconds"
+  },
+  "duration":{
+    "Description":"Duration of the trial.",
+    "Units": "seconds"
+  },
+  "startTime": {
+    "Description": "Eye-tracker timestamp of event onset"
+  },
+  "stopTime": {
+    "Description": "Eye-tracker timestamp of event offset"
+  },
+  "trial_type": {
+    "LongName": "Visual cue category",
+    "Description": "Indicator of gaze direction (saccade) that is expected",
+    "Levels": {
+      "VGS": "Visually guided saccade (prosaccade)",
+      "ANTI": "Visually guided antisaccade"
+    }
+  },
+  "eventIdentifier": {
+    "LongName": "Eyetracker event identifier",
+    "Description": "Visual stimuli",
+    "Levels": {
+      "ShowFixation": "Colored fixation cross",
+      "BlankScreen": "Blank screen",
+      "ELCue": "Saccade cue (yellow flash)"
+    }
+  },
+  "trial_number": {
+    "Description": "Task trial identifier"
+  },
+  "block_number": {
+    "Description": "Task block identifier"
+  },
+  "is_practice": {
+    "Description": "Practice trial yes/no",
+    "Levels": {
+      "True": "practice trial",
+      "False": "task trial"
+    }
+  },
+  "fixation_color": {
+    "Description": "Color of fixation cross",
+    "Levels": {
+      "lime": "lime green fixation for prosaccade",
+      "red": "red fixation for antisaccade"
+    }
+  },
+  "cue_side": {
+    "Description": "Saccade cue position on the screen in horizontal (x-axis) pixels"
+  },
+  "aoi_correct": {
+    "Description": "Correct saccade target AOI in pixels [x_start, x_stop, y_start, y_stop]"
+  },
+  "aoi_incorrect": {
+    "Description": "Incorrect saccade AOI in pixels [x_start, x_stop, y_start, y_stop]"
+  }
+}

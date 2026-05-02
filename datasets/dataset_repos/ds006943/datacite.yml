@@ -1,0 +1,54 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: David Haydock
+        givenName: ''
+        familyName: ''
+        order: 0
+        nameType: Personal
+        nameIdentifiers: &ref_0 []
+        contributorType: Researcher
+      - name: Robert Leech
+        givenName: ''
+        familyName: ''
+        order: 0
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0000-0002-5801-6318
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+      - name: Frederic Dick
+        givenName: ''
+        familyName: ''
+        order: 0
+        nameType: Personal
+        nameIdentifiers: &ref_2
+          - nameIdentifier: https://orcid.org/0000-0002-2933-3912
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+    creators:
+      - name: David Haydock
+        givenName: ''
+        familyName: ''
+        order: 0
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: Robert Leech
+        givenName: ''
+        familyName: ''
+        order: 0
+        nameType: Personal
+        nameIdentifiers: *ref_1
+      - name: Frederic Dick
+        givenName: ''
+        familyName: ''
+        order: 0
+        nameType: Personal
+        nameIdentifiers: *ref_2
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

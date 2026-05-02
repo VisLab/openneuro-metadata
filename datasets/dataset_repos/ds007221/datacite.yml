@@ -1,0 +1,31 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Xinwei Sun
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0009-0005-0344-5472
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 1
+      - name: Yupei Cao
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+    creators:
+      - name: Xinwei Sun
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: Yupei Cao
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

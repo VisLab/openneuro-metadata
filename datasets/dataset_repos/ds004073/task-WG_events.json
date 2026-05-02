@@ -1,0 +1,20 @@
+{
+    "onset": {
+        "LongName": "",
+        "Description": "Onset of the word generation letter or REPORT stimulus. There is one letter per block. Participants silently generate words, then when REPORT is presented they overtly report the words.",
+        "Units": "seconds"
+    },
+    "duration": {
+        "LongName": "",
+        "Description": "Duration of the word generation or report phase",
+        "Units": "seconds"
+    },
+    "type": {
+        "LongName": "",
+        "Description": "Trial type",
+        "Levels": {
+            "gen": "covert word generation",
+            "report": "overt word reporting"
+        }
+    }
+}

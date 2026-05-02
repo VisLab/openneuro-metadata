@@ -1,0 +1,482 @@
+Data acquisition methods have been described in detail in Dalenberg et al. (2017, Plos One)
+
+————————————————————————————————
+IMPORTANT NOTES
+————————————————————————————————
+Due to technical difficulties with the PRESTO sequence several volumes were missing or broken.
+To fix the timing of the data, missing volumes need to be filled and broken volumes need replacement. 
+
+Missing/borken volumes:
+
+Participant_id	run	volumes_missing	volumes_broken
+sub-02	r1	[1 2 3 4 5 6 7 8 9 10 11]	[561]
+sub-08	r2	[1 2 3 4 5 6 7 8 9 10]	[561]
+sub-08	r3	[1 2 3 4 5 6 7 8 9 10 11]	[559]
+sub-10	r2	[1 2 3 4 5 6 7 8 9 10] 
+sub-18	r2	[1 2 3 4 5 6 7 8 9 10]	[559]
+
+Further missing data due to difficulties with the gustometer:
+sub-03
+sub-06
+sub-16
+
+_______________________________
+##  Stimulus information  ##
+_______________________________
+
+Flavour_Products	Description
+fc_cap	Oral Nutritional Supplement Product brand: Forticare, flavour Cappucino
+fc_ole	Oral Nutritional Supplement Product brand: Forticare, flavour Orange Lemon
+fc_peg	Oral Nutritional Supplement Product brand: Forticare, flavour Peach Ginger
+fm_apr	Oral Nutritional Supplement Product brand: Fortimel, flavour Apricot
+fm_neu	Oral Nutritional Supplement Product brand: Fortimel, flavour Neutral
+fm_van	Oral Nutritional Supplement Product brand: Fortimel, flavour Vanilla
+
+##Product compositions##
+Fortimel:
+Milk protein concentrate, water, maltodextrin, vegetable oils, sucrose, acidity regulator (citric acid), emulsifier (soy lecithin), cocoa, flavoring (vanilla/apricot), tri-potassium citrate, choline chloride, calcium hydroxide, sodium L-ascorbate, potassium hydroxide, trisodium citrate, DL-α-tocopherol, ferrous lactate, nicotinamide, retinyl acetate, copper gluconate, manganese sulfate, zinc sulfate, sodium selenite, chromium chloride, D-calcium pantothenate, D-biotin, cholecalciferol, pyridoxine hydrochloride, pteroylmonoglutamic acid, thiamine hydrochloride, sodium fluoride, sodium molybdate, riboflavin, potassium iodide, phytomenadione.
+
+Forticare:
+Demineralised water, glucose syrup, sodium molybdate, milk protein isolate, sodium fluoride, trehalose, sucrose, vegetable oils, dietary fibres (oligofructose, inulin, cellulose, resistant starch), fish oil, whey protein concentrate (from milk), tri potassium citrate, flavour, sodium chloride, tri sodium citrate, colour (E150d), flavour, magnesium hydrogen phosphate, choline chloride, carotenoids (contains soy) (b-carotene, lutein, lycopene), sodium L-ascorbate, magnesium carbonate, potassium hydroxide, taurine, DL-a-tocopheryl acetate, L-carnitine, ferrous lactate, zinc sulphate, nicotinamide, retinyl aceteate, sodium selenite, manganese sulphate, copper gluconate, pyridoxine hydrochloride, calcium D-pantothenate, pteroylmonoglutamic acid, D-biotin, chromium chloride, cholecalciferol, cyanocobalamin, thiamin hydrochloride, sodium molybdate, sodium fluoride, riboflavin, potassium iodide, phytomenadione.
+
+##General procedure per trial##
+Period	Description
+warning_star	Warning for upcomming flavour stimulus using a star on the screen (2s)
+taste_and_swallow	Instruction to first taste (3.5s) and then swallow (4s) the 2ml flavour stimulus
+judge	Passivily judge the stimulus (22.5s) while watching a fixation cross.
+rate	Actively rate the stimulus on a 7 point liking scale (self paced)
+rinse	Rinsing procedure to rinse the palate using 2ml of a 5% artificial saliva solution (29s)
+
+##Stimulus labels##
+All stimulus screens (except "warning_star" and "rinse") are coded as a combination of the general procedure and Flavour product as follows:
+
+taste_and_swallow_fm_neu
+judge_fm_neu
+rate_fm_neu
+
+taste_and_swallow_fc_ole
+judge_fc_ole
+rate_fc_ole
+
+taste_and_swallow_fm_van
+judge_fm_van
+rate_fm_van
+
+taste_and_swallow_fc_peg
+judge_fc_peg
+rate_fc_peg
+
+taste_and_swallow_fc_cap
+judge_fc_cap
+rate_fc_cap
+
+taste_and_swallow_fm_apr
+judge_fm_apr
+rate_fm_apr 
+
+————————————————————————————————
+SCANNER & PRESTO SEQUENCE DETAILS
+————————————————————————————————
+
+3T Philips Intera MRI Scanner
+32 channel head coil 
+Variable number of TRs per run (depending on answering times)
+
+————————————————————————————————
+SCANNER PRESTO EXAM CARD
+————————————————————————————————
+Coil selection 1 =		"SENSE-Head-32P";
+     element selection =	"selection 1";
+Coil selection 2 =		"SENSE-Head-32AH";
+     element selection =	"selection 1";
+Dual coil =			"yes";
+CLEAR =				"yes";
+    body tuned =		"no";
+FOV          FH (mm) =		230;
+             AP (mm) =		230;
+             RL (mm) =		153;
+Voxel size   FH (mm) =		3;
+             AP (mm) =		3;
+             RL (mm) =		3;
+Recon voxel size (mm) =		2.875;
+Fold-over suppression =		"no";
+Slice oversampling =		"default";
+Reconstruction matrix =		80;
+SENSE =				"yes";
+    P reduction (AP) =		1.89999998;
+    P os factor =		1;
+    S reduction (RL) =		1.89999998;
+Overcontiguous slices =		"no";
+Stacks =			1;
+    slices =			51;
+    slice orientation =		"sagittal";
+    fold-over direction =	"AP";
+    fat shift direction =	"P";
+Stack Offc. AP (P=+mm) =	-8.07165337;
+            RL (L=+mm) =	-2.93776155;
+            FH (H=+mm) =	21.0553951;
+      Ang.  AP (deg) =		0.122744754;
+            RL (deg) =		1.3835777;
+            FH (deg) =		-0.273202777;
+Chunks =			1;
+Large table movement =		"no";
+PlanAlign =			"no";
+REST slabs =			0;
+Interactive positioning =	"no";
+Patient position =		"head first";
+        orientation =		"supine";
+Scan type =			"Imaging";
+Scan mode =			"3D";
+    technique =			"FFE";
+Contrast enhancement =		"T1";
+Acquisition mode =		"cartesian";
+Fast Imaging mode =		"EPI";
+    3D non-selective =		"no";
+    shot mode =			"multishot";
+EPI factor =			17;
+Echoes =			1;
+    partial echo =		"no";
+    shifted echo =		"yes";
+        TE>TR shift =		1;
+        M add factor =		-4;
+        P add factor =		-4;
+        S add factor =		-4;
+TE =				"user defined";
+    (ms) =			10;
+Flip angle (deg) =		7;
+TR =				"user defined";
+    (ms) =			20;
+Halfscan =			"no";
+Water-fat shift =		"minimum";
+Shim =				"auto";
+Fat suppression =		"no";
+Water suppression =		"no";
+MTC =				"no";
+Research prepulse =		"no";
+Diffusion mode =		"no";
+SAR mode =			"high";
+B1 mode =			"default";
+PNS mode =			"low";
+Gradient mode =			"default";
+SofTone mode =			"no";
+Cardiac synchronization =	"no";
+Respiratory compensation =	"no";
+Navigator respiratory comp =	"no";
+Flow compensation =		"no";
+fMRI echo stabilisation =	"no";
+NSA =				1;
+Angio / Contrast enh. =		"no";
+Quantitative flow =		"no";
+Manual start =			"yes";
+Dynamic study =			"individual";
+    dyn scans =			700;
+    dyn scan times =		"shortest";
+    FOV time mode =		"default";
+    dummy scans =		2;
+    immediate subtraction =	"no";
+    fast next scan =		"no";
+    synch. ext. device =	"yes";
+        start at dyn. =		1;
+        interval (dyn) =	1;
+    dyn stabilization =		"yes";
+    prospect. motion corr. =	"no";
+Keyhole =			"no";
+Arterial Spin labeling =	"no";
+Preparation phases =		"full";
+Interactive F0 =		"no";
+B0 field map =			"no";
+B1 field map =			"no";
+MIP/MPR =			"no";
+Images =			" M", (3) " no";
+Autoview image =		" M";
+Calculated images =		(4) " no";
+Reference tissue =		"Grey matter";
+Preset window contrast =	"soft";
+Reconstruction mode =		"real time";
+    reuse memory =		"no";
+Save raw data =			"no";
+Hardcopy protocol =		"no";
+Ringing filtering =		"default";
+Geometry correction =		"default";
+Elliptical k-space shutter =	"default";
+IF_info_seperator =		1634755923;
+Total scan duration =		"17:56.5";
+Rel. signal level (%) =		100;
+Act. TR/TE (shifted) (ms) =	"20 / 30";
+Dyn. scan time =		"00:01.5";
+Time to k0 =			"0.750";
+ACQ matrix M x P =		"76 x 58";
+ACQ voxel MPS (mm) =		"3.03 / 3.92 / 3.00";
+REC voxel MPS (mm) =		"2.88 / 2.88 / 3.00";
+Scan percentage (%) =		77.272728;
+Act. WFS (pix) / BW (Hz) =	"4.999 / 86.9";
+BW in EPI freq. dir. (Hz) =	"2654.6";
+Min. WFS (pix) / Max. BW (Hz) =	"4.976 / 87.3";
+Min. TR/TE (ms) =		"19 / 7.4";
+ES-FFE: added M area =		-15.5215797;
+ES-FFE: added P area =		-15.5215797;
+ES-FFE: added S area =		-15.5215797;
+SAR / head =			"<  2 %";
+Whole body / level =		"0.0 W/kg / normal";
+B1 rms =			"0.33 uT";
+PNS / level =			"46 % / normal";
+Sound Pressure Level (dB) =	14.8522921;
+
+————————————————————————————————
+PUBLICATIONS
+————————————————————————————————
+Dalenberg, J.R., Weitkamp, L., Renken, R.J., Nanetti, L., ter Horst G.J., (2017). Flavor pleasantness processing in the ventral emotion network. Plos One _____, doi: ______
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure deindentification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000218/ See the comments section at the bottom of the dataset page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000218
+accession number.
+3) Send an email to submissions@openfmri.org. Please include the ds000218 accession number in
+your email.
+
+Known Issues
+------------
+N/A
+
+Bids-validator Output
+---------------------
+
+
+u should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-01/sub-01_task-ONSflavourtask_bold.json, /sub-01/func/sub-01_task-ONSflavourtask_run-01_bold.json
+       		/sub-01/func/sub-01_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-01/sub-01_task-ONSflavourtask_bold.json, /sub-01/func/sub-01_task-ONSflavourtask_run-02_bold.json
+       		/sub-01/func/sub-01_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-01/sub-01_task-ONSflavourtask_bold.json, /sub-01/func/sub-01_task-ONSflavourtask_run-03_bold.json
+       		/sub-02/func/sub-02_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-02/sub-02_task-ONSflavourtask_bold.json, /sub-02/func/sub-02_task-ONSflavourtask_run-01_bold.json
+       		/sub-02/func/sub-02_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-02/sub-02_task-ONSflavourtask_bold.json, /sub-02/func/sub-02_task-ONSflavourtask_run-02_bold.json
+       		/sub-02/func/sub-02_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-02/sub-02_task-ONSflavourtask_bold.json, /sub-02/func/sub-02_task-ONSflavourtask_run-03_bold.json
+       		/sub-04/func/sub-04_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-04/sub-04_task-ONSflavourtask_bold.json, /sub-04/func/sub-04_task-ONSflavourtask_run-01_bold.json
+       		/sub-04/func/sub-04_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-04/sub-04_task-ONSflavourtask_bold.json, /sub-04/func/sub-04_task-ONSflavourtask_run-02_bold.json
+       		/sub-04/func/sub-04_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-04/sub-04_task-ONSflavourtask_bold.json, /sub-04/func/sub-04_task-ONSflavourtask_run-03_bold.json
+       		/sub-05/func/sub-05_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-05/sub-05_task-ONSflavourtask_bold.json, /sub-05/func/sub-05_task-ONSflavourtask_run-01_bold.json
+       		/sub-05/func/sub-05_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-05/sub-05_task-ONSflavourtask_bold.json, /sub-05/func/sub-05_task-ONSflavourtask_run-02_bold.json
+       		/sub-05/func/sub-05_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-05/sub-05_task-ONSflavourtask_bold.json, /sub-05/func/sub-05_task-ONSflavourtask_run-03_bold.json
+       		/sub-07/func/sub-07_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-07/sub-07_task-ONSflavourtask_bold.json, /sub-07/func/sub-07_task-ONSflavourtask_run-01_bold.json
+       		/sub-07/func/sub-07_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-07/sub-07_task-ONSflavourtask_bold.json, /sub-07/func/sub-07_task-ONSflavourtask_run-02_bold.json
+       		/sub-07/func/sub-07_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-07/sub-07_task-ONSflavourtask_bold.json, /sub-07/func/sub-07_task-ONSflavourtask_run-03_bold.json
+       		/sub-08/func/sub-08_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-08/sub-08_task-ONSflavourtask_bold.json, /sub-08/func/sub-08_task-ONSflavourtask_run-01_bold.json
+       		/sub-08/func/sub-08_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-08/sub-08_task-ONSflavourtask_bold.json, /sub-08/func/sub-08_task-ONSflavourtask_run-02_bold.json
+       		/sub-08/func/sub-08_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-08/sub-08_task-ONSflavourtask_bold.json, /sub-08/func/sub-08_task-ONSflavourtask_run-03_bold.json
+       		/sub-09/func/sub-09_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-09/sub-09_task-ONSflavourtask_bold.json, /sub-09/func/sub-09_task-ONSflavourtask_run-01_bold.json
+       		/sub-09/func/sub-09_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-09/sub-09_task-ONSflavourtask_bold.json, /sub-09/func/sub-09_task-ONSflavourtask_run-02_bold.json
+       		/sub-09/func/sub-09_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-09/sub-09_task-ONSflavourtask_bold.json, /sub-09/func/sub-09_task-ONSflavourtask_run-03_bold.json
+       		/sub-10/func/sub-10_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-10/sub-10_task-ONSflavourtask_bold.json, /sub-10/func/sub-10_task-ONSflavourtask_run-01_bold.json
+       		/sub-10/func/sub-10_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-10/sub-10_task-ONSflavourtask_bold.json, /sub-10/func/sub-10_task-ONSflavourtask_run-02_bold.json
+       		/sub-10/func/sub-10_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-10/sub-10_task-ONSflavourtask_bold.json, /sub-10/func/sub-10_task-ONSflavourtask_run-03_bold.json
+       		/sub-11/func/sub-11_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-11/sub-11_task-ONSflavourtask_bold.json, /sub-11/func/sub-11_task-ONSflavourtask_run-01_bold.json
+       		/sub-11/func/sub-11_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-11/sub-11_task-ONSflavourtask_bold.json, /sub-11/func/sub-11_task-ONSflavourtask_run-02_bold.json
+       		/sub-11/func/sub-11_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-11/sub-11_task-ONSflavourtask_bold.json, /sub-11/func/sub-11_task-ONSflavourtask_run-03_bold.json
+       		/sub-12/func/sub-12_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-12/sub-12_task-ONSflavourtask_bold.json, /sub-12/func/sub-12_task-ONSflavourtask_run-01_bold.json
+       		/sub-12/func/sub-12_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-12/sub-12_task-ONSflavourtask_bold.json, /sub-12/func/sub-12_task-ONSflavourtask_run-02_bold.json
+       		/sub-12/func/sub-12_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-12/sub-12_task-ONSflavourtask_bold.json, /sub-12/func/sub-12_task-ONSflavourtask_run-03_bold.json
+       		/sub-13/func/sub-13_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-13/sub-13_task-ONSflavourtask_bold.json, /sub-13/func/sub-13_task-ONSflavourtask_run-01_bold.json
+       		/sub-13/func/sub-13_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-13/sub-13_task-ONSflavourtask_bold.json, /sub-13/func/sub-13_task-ONSflavourtask_run-02_bold.json
+       		/sub-13/func/sub-13_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-13/sub-13_task-ONSflavourtask_bold.json, /sub-13/func/sub-13_task-ONSflavourtask_run-03_bold.json
+       		/sub-14/func/sub-14_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-14/sub-14_task-ONSflavourtask_bold.json, /sub-14/func/sub-14_task-ONSflavourtask_run-01_bold.json
+       		/sub-14/func/sub-14_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-14/sub-14_task-ONSflavourtask_bold.json, /sub-14/func/sub-14_task-ONSflavourtask_run-02_bold.json
+       		/sub-14/func/sub-14_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-14/sub-14_task-ONSflavourtask_bold.json, /sub-14/func/sub-14_task-ONSflavourtask_run-03_bold.json
+       		/sub-15/func/sub-15_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-15/sub-15_task-ONSflavourtask_bold.json, /sub-15/func/sub-15_task-ONSflavourtask_run-01_bold.json
+       		/sub-15/func/sub-15_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-15/sub-15_task-ONSflavourtask_bold.json, /sub-15/func/sub-15_task-ONSflavourtask_run-02_bold.json
+       		/sub-15/func/sub-15_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-15/sub-15_task-ONSflavourtask_bold.json, /sub-15/func/sub-15_task-ONSflavourtask_run-03_bold.json
+       		/sub-17/func/sub-17_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-17/sub-17_task-ONSflavourtask_bold.json, /sub-17/func/sub-17_task-ONSflavourtask_run-01_bold.json
+       		/sub-17/func/sub-17_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-17/sub-17_task-ONSflavourtask_bold.json, /sub-17/func/sub-17_task-ONSflavourtask_run-02_bold.json
+       		/sub-17/func/sub-17_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-17/sub-17_task-ONSflavourtask_bold.json, /sub-17/func/sub-17_task-ONSflavourtask_run-03_bold.json
+       		/sub-18/func/sub-18_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-18/sub-18_task-ONSflavourtask_bold.json, /sub-18/func/sub-18_task-ONSflavourtask_run-01_bold.json
+       		/sub-18/func/sub-18_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-18/sub-18_task-ONSflavourtask_bold.json, /sub-18/func/sub-18_task-ONSflavourtask_run-02_bold.json
+       		/sub-18/func/sub-18_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-18/sub-18_task-ONSflavourtask_bold.json, /sub-18/func/sub-18_task-ONSflavourtask_run-03_bold.json
+       		/sub-19/func/sub-19_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-19/sub-19_task-ONSflavourtask_bold.json, /sub-19/func/sub-19_task-ONSflavourtask_run-01_bold.json
+       		/sub-19/func/sub-19_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-19/sub-19_task-ONSflavourtask_bold.json, /sub-19/func/sub-19_task-ONSflavourtask_run-02_bold.json
+       		/sub-19/func/sub-19_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-19/sub-19_task-ONSflavourtask_bold.json, /sub-19/func/sub-19_task-ONSflavourtask_run-03_bold.json
+       		/sub-20/func/sub-20_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-20/sub-20_task-ONSflavourtask_bold.json, /sub-20/func/sub-20_task-ONSflavourtask_run-01_bold.json
+       		/sub-20/func/sub-20_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-20/sub-20_task-ONSflavourtask_bold.json, /sub-20/func/sub-20_task-ONSflavourtask_run-02_bold.json
+       		/sub-20/func/sub-20_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-20/sub-20_task-ONSflavourtask_bold.json, /sub-20/func/sub-20_task-ONSflavourtask_run-03_bold.json
+       		/sub-21/func/sub-21_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-21/sub-21_task-ONSflavourtask_bold.json, /sub-21/func/sub-21_task-ONSflavourtask_run-01_bold.json
+       		/sub-21/func/sub-21_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-21/sub-21_task-ONSflavourtask_bold.json, /sub-21/func/sub-21_task-ONSflavourtask_run-02_bold.json
+       		/sub-21/func/sub-21_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-21/sub-21_task-ONSflavourtask_bold.json, /sub-21/func/sub-21_task-ONSflavourtask_run-03_bold.json
+       		/sub-22/func/sub-22_task-ONSflavourtask_run-01_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-22/sub-22_task-ONSflavourtask_bold.json, /sub-22/func/sub-22_task-ONSflavourtask_run-01_bold.json
+       		/sub-22/func/sub-22_task-ONSflavourtask_run-02_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-22/sub-22_task-ONSflavourtask_bold.json, /sub-22/func/sub-22_task-ONSflavourtask_run-02_bold.json
+       		/sub-22/func/sub-22_task-ONSflavourtask_run-03_bold.nii.gz
+       			You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-22/sub-22_task-ONSflavourtask_bold.json, /sub-22/func/sub-22_task-ONSflavourtask_run-03_bold.json
+
+       	2: Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)
+       		/sub-01/func/sub-01_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,583 (voxels).
+       		/sub-01/func/sub-01_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,561 (voxels).
+       		/sub-01/func/sub-01_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,560 (voxels).
+       		/sub-02/func/sub-02_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,550 (voxels).
+       		/sub-02/func/sub-02_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,560 (voxels).
+       		/sub-02/func/sub-02_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,551 (voxels).
+       		/sub-04/func/sub-04_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,562 (voxels).
+       		/sub-04/func/sub-04_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,558 (voxels).
+       		/sub-05/func/sub-05_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,569 (voxels).
+       		/sub-05/func/sub-05_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,559 (voxels).
+       		/sub-05/func/sub-05_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,564 (voxels).
+       		/sub-07/func/sub-07_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,567 (voxels).
+       		/sub-07/func/sub-07_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,559 (voxels).
+       		/sub-07/func/sub-07_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,561 (voxels).
+       		/sub-08/func/sub-08_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,580 (voxels).
+       		/sub-08/func/sub-08_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,551 (voxels).
+       		/sub-08/func/sub-08_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,548 (voxels).
+       		/sub-09/func/sub-09_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,592 (voxels).
+       		/sub-09/func/sub-09_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,554 (voxels).
+       		/sub-09/func/sub-09_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,559 (voxels).
+       		/sub-10/func/sub-10_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,564 (voxels).
+       		/sub-10/func/sub-10_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,562 (voxels).
+       		/sub-10/func/sub-10_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,587 (voxels).
+       		/sub-11/func/sub-11_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,561 (voxels).
+       		/sub-11/func/sub-11_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,558 (voxels).
+       		/sub-11/func/sub-11_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,559 (voxels).
+       		/sub-12/func/sub-12_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,557 (voxels).
+       		/sub-12/func/sub-12_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,554 (voxels).
+       		/sub-12/func/sub-12_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,552 (voxels).
+       		/sub-13/func/sub-13_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,561 (voxels).
+       		/sub-13/func/sub-13_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,552 (voxels).
+       		/sub-13/func/sub-13_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,552 (voxels).
+       		/sub-14/func/sub-14_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,567 (voxels).
+       		/sub-14/func/sub-14_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,561 (voxels).
+       		/sub-15/func/sub-15_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,558 (voxels).
+       		/sub-15/func/sub-15_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,557 (voxels).
+       		/sub-17/func/sub-17_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,579 (voxels).
+       		/sub-17/func/sub-17_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,562 (voxels).
+       		/sub-17/func/sub-17_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,557 (voxels).
+       		/sub-18/func/sub-18_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,549 (voxels).
+       		/sub-18/func/sub-18_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,557 (voxels).
+       		/sub-19/func/sub-19_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,572 (voxels).
+       		/sub-19/func/sub-19_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,573 (voxels).
+       		/sub-19/func/sub-19_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,556 (voxels).
+       		/sub-20/func/sub-20_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,576 (voxels).
+       		/sub-20/func/sub-20_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,567 (voxels).
+       		/sub-20/func/sub-20_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,570 (voxels).
+       		/sub-21/func/sub-21_task-ONSflavourtask_run-01_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,557 (voxels).
+       		/sub-21/func/sub-21_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,556 (voxels).
+       		/sub-21/func/sub-21_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,554 (voxels).
+       		/sub-22/func/sub-22_task-ONSflavourtask_run-02_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,554 (voxels).
+       		/sub-22/func/sub-22_task-ONSflavourtask_run-03_bold.nii.gz
+       			 The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,554 (voxels).
+
+        Summary:                    Available Tasks:        Available Modalities:
+        13111 Files, 97.27GB        ONS flavour task        T1w
+        19 - Subjects                                       bold
+        1 - Session

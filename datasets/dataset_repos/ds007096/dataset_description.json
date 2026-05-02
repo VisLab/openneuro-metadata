@@ -1,0 +1,21 @@
+{
+    "ReferencesAndLinks": [
+        "Kappenman, E. S.,Farrens, J. L., Zhang, W., Stewart, A. X., & Luck, S. J. (2021). ERP CORE: An open resource for human event-related potential research. NeuroImage, 225, 117465. https://doi.org/10.1016/j.neuroimage.2020.117465"
+    ],
+    "Authors": [
+        "Couperus, J.W.",
+        "Bukach, C.M.",
+        "Reed,C.L."
+    ],
+    "Name": "PURSUE N170 Face Perception",
+    "License": "CC0",
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "EEG-BIDS",
+            "Version": "10.4"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007096.v1.0.0"
+}

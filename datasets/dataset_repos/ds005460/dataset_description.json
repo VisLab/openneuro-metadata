@@ -1,0 +1,23 @@
+{
+    "Name": "CLIMATE BRAIN - Questionnaires, Tasks and the Neuroimaging Dataset",
+    "BIDSVersion": "1.8.0",
+    "License": "CC0",
+    "Authors": [
+        "Dominika Zaremba",
+        "Bartosz Kossowski",
+        "Marek Wypych",
+        "Katarzyna Jednoróg",
+        "Jarosław M. Michałowski",
+        "Christian A. Klöckner",
+        "Małgorzata Wierzba",
+        "Artur Marchewka"
+    ],
+    "HowToAcknowledge": "Zaremba, D., Kossowski, B., Wypych, M., Jednoróg, K., Michałowski, J. M., Klöckner, C. A., Wierzba, M., & Marchewka, A. (2024) CLIMATE BRAIN - Questionnaires, Tasks and the Neuroimaging Dataset. OpenNeuro. [Dataset] doi: [TBA]",
+    "Funding": [
+        "The research conducted in this project is financed by Norwegian Financial Mechanism for 2014-2020 Grant No. 2019/34/H/HS6/00677."
+    ],
+    "EthicsApprovals": [
+        "This study was approved by the Ethical Review Board of the SWPS University in Poland (approval no. 2023-167)."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005460.v2.0.0"
+}

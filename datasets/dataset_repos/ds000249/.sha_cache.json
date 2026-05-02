@@ -1,0 +1,14 @@
+{
+  "README": "6686f1b36fbcb91e5d258e5f737da5024e8ee7d6",
+  "CHANGES": "dfc8fbcdadea9d2b50a3be1da563258751cec637",
+  "participants.tsv": "c41a8831ebc94c402c77592b7245efad36d337bf",
+  "dataset_description.json": "c05253109a7c5a63746644d4ab774b903920c459",
+  "task-genInstrAv_events.json": "888f597c6ca285e8cd3eeeaffe709b71c513b7d0",
+  "task-genInstrAv_bold.json": "23fc99e78988828600be0874c785c214022becbb",
+  "phasediff.json": "cbf55cf4079e32dc7e216cb30bc73717fe57612f",
+  "sub-01/func/sub-01_task-genInstrAv_run-01_events.tsv": "54b63742a7622be3d0942084901a982f003669e4",
+  "sub-01/func/sub-01_task-genInstrAv_run-04_events.tsv": "f2ff95d7d7823ccfa2616411656cf3d8ab39c7f6",
+  "sub-01/func/sub-01_task-genInstrAv_run-05_events.tsv": "8e7fe40101c68aa340fdb5c292cadc801cb7e57b",
+  "sub-01/func/sub-01_task-genInstrAv_run-02_events.tsv": "a350acc6d1d76583a3803a629df56375a454f613",
+  "sub-01/func/sub-01_task-genInstrAv_run-03_events.tsv": "1839be5e221b9fe8ac89b7e06318b23f9689f370"
+}

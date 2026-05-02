@@ -1,0 +1,12 @@
+{
+  "task-epi_bold.json": "58b73f6e86f5a39bcfb863535e65afe19ecc8d4e",
+  "CHANGES": "e0272e17a9f98472bf55d2958e15cbf098fb6e51",
+  "task-rest_sbref.json": "ef437a653d9f12a26978cb6d9beb720dadf0cb80",
+  "dataset_description.json": "31bbb565ab26e6d385daac08a10342b51cc4e290",
+  "task-reward_sbref.json": "f9f4fb36c62465d55af180935122a2fb3280e9fe",
+  "task-reward_events.json": "b1730039d379366f006fa163ed161e0c39821c81",
+  "fieldmap.json": "ab4035eba886c9b84b3adfc224b5540c9b943f1a",
+  "task-rest_bold.json": "ef437a653d9f12a26978cb6d9beb720dadf0cb80",
+  "task-reward_bold.json": "f9f4fb36c62465d55af180935122a2fb3280e9fe",
+  "README": "259563adc500311da16ac682991b1cffa37fcfbb"
+}

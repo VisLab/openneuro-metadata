@@ -1,0 +1,23 @@
+{
+    "Name": "Neuma",
+    "License": "CC0",
+    "Authors": [
+        "Kostas Georgiadis",
+        "Fotis P. Kalaganis",
+        "Kyriakos Riskos",
+        "Eleytheria Matta",
+        "Vangelis P. Oikonomou",
+        "Yfantidou Ioanna",
+        "Dimitris Chantziaras",
+        "Kyriakos Pantouvakis",
+        "Spiros Nikolopoulos",
+        "Nikos A. Laskaris",
+        "Ioannis Kompatsiaris"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004588.v1.2.0"
+}

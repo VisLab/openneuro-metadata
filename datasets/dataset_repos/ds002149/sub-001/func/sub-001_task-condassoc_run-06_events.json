@@ -1,0 +1,8 @@
+{
+    "onset": "Onset of Kaleidoscopic image",
+    "duration": "Duration of trial from stimulus onset to end of ITI",
+    "trial_type": "Type of Trial, with A being Fixed Left, B being Conditional, and C being Fixed Right",
+    "response_time": "Amount of time it took subject to give left or right response in seconds (s)",
+    "feedback_onset": "Time Feedback appeared on screen",
+    "correct/incorrect": "Whether subject got response correct or incorrect (1 = Correct, 0 = Incorrect)"
+}

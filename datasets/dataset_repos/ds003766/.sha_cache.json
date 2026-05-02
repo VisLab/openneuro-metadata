@@ -1,0 +1,15 @@
+{
+  "README": "b0d09494bf7b05db63ac8f29df73d3da128e7a41",
+  "participants.tsv": "c76e3dbf87226031edc523839ebace5ad1ae5b9c",
+  "CHANGES": "2a5fc2dc3e6e0f94f0c800a72ce4570a67e37cdd",
+  "dataset_description.json": "0055b0f6bd21dc1a48db6de9002e5e99e68ea224",
+  "participants.json": "54cfffe3c659952f68c8130e587985ad14d417e9",
+  "sub-01/eeg/sub-01_task-wordchoice_events.json": "07d79b36ca7c0a27ef58e1fc3f35ed40c864738b",
+  "sub-01/eeg/sub-01_task-imagechoice_events.json": "07d79b36ca7c0a27ef58e1fc3f35ed40c864738b",
+  "sub-01/eeg/sub-01_task-foodchoice_events.json": "07d79b36ca7c0a27ef58e1fc3f35ed40c864738b",
+  "sub-01/eeg/sub-01_task-resting_events.tsv": "394b009ab4eb189f87882098dc956e0ac416bc9f",
+  "sub-01/eeg/sub-01_task-foodchoice_events.tsv": "bc7dadff41602e8678a909dc4eda8267f4a3759d",
+  "sub-01/eeg/sub-01_task-resting_events.json": "07d79b36ca7c0a27ef58e1fc3f35ed40c864738b",
+  "sub-01/eeg/sub-01_task-imagechoice_events.tsv": "436aba4c317e9f77e6ddb2679632c76a6e29eaec",
+  "sub-01/eeg/sub-01_task-wordchoice_events.tsv": "a9be5656635c5f13e5d7c3a61f0acb43ac72c6fd"
+}

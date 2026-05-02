@@ -1,0 +1,36 @@
+{"event_type":
+         {"LongName": "This is the type of the events",
+          "Description": "This is the type of the events",
+          "Levels": {"VisualMessage": "The instructions displayed on screen to the participant",
+                     "Stimulus": "The sound sequence",
+                     "ButtonPress": "When the participant pressed a button for deviant detection"}},
+    "Presented_sequence": {
+        "Description": "The sequence of sounds that was presented auditorily to the participant. 0 and 1 stand for the two sounds.",
+        "LongName": "Presented sequence"},
+    "Position_Violation": {
+        "Description": "The position of the deviant in the sequence",
+        "LongName": "Position of the violation in the sequence",
+        "Levels": {"0": "No deviant", "other": "position of deviant"}},
+    "Condition": {
+        "Description": "This is the name of the sequence presented",
+        "LongName": "Sequence short name"},
+    "semirun": {
+        "Description": "Number of the part of the run dedicated to a given sequence",
+        "LongName": "Run subpart corresponding to a particular sequence. Called mini-session in the manuscript."},
+    "block": {
+        "Description": "",
+        "LongName": "",
+        "Levels": {"1-2":"habituation","3-5":"Test"}},
+    "trialnum": {
+        "Description": "Number of the presented sequence in a given semirun",
+        "LongName": "Number of the presented sequence in a given semirun"},
+    "response_button": {
+        "Description": "Which button was used for responding",
+        "LongName": "response_button",
+        "Levels":{"0":"Left button","1":"Right button"}},
+    "RT": {
+        "Description": "Reaction time in ms if its a Hit",
+        "LongName": "Reaction time"},
+    "deviant_onset_time_ttl": {
+        "Description": "TTL onset of the deviant sound in a sequence",
+        "LongName": "deviant_onset_time_ttl"}}

@@ -1,0 +1,18 @@
+{
+  "README": "94317781d1575b9e9efbf67010e12c31fb625508",
+  "T1w.json": "7cfeebac269cf47d9b62265fda2b65077fc027ed",
+  "CHANGES": "96f22b4b6ade7dbaea0d0e6c8cf0c702c8873e9d",
+  "task-emomatching_acq-seq_bold.json": "18b440c90b522f0b061d5895cd73f5a6d0900e42",
+  "task-emomatching_acq-seq_events.json": "1e92b53d7a41eb8355c35f927aaf1a040ad97e60",
+  "dataset_description.json": "0957be8795476fc3c6d3e2dc0d6bc1893754e1af",
+  "task-restingstate_acq-seq_bold.json": "18b440c90b522f0b061d5895cd73f5a6d0900e42",
+  "dwi.json": "e5f381bd328c9420b8f6b6c0c4ff64b5f27de4cd",
+  "participants.tsv": "a733927d425f05582d05a528c0b1b7b8514e2825",
+  "participants.json": "00aac7097be22dc8d9c0a48623de4b24a2fccbe7",
+  "task-stopsignal_acq-seq_events.json": "f091503e90ef5b58b9fda935ad9a7e95a7bc02c8",
+  "task-workingmemory_acq-seq_bold.json": "18b440c90b522f0b061d5895cd73f5a6d0900e42",
+  "task-stopsignal_acq-seq_bold.json": "18b440c90b522f0b061d5895cd73f5a6d0900e42",
+  "task-workingmemory_acq-seq_events.json": "145f05944f4d086a7556d64de166090256db1149",
+  "sub-0001/func/sub-0001_task-stopsignal_acq-seq_events.tsv": "2373ce625f0b207d91da0f9ca9f8de30e54c780c",
+  "sub-0001/func/sub-0001_task-workingmemory_acq-seq_events.tsv": "bac502d62cd4c338bdaff1048766c5ce8073bb19"
+}

@@ -1,0 +1,15 @@
+{
+  "CHANGES": "b81db5a8d7872ae02cfb7d7f4ecc97e8808480d4",
+  "README": "a247e0c9ae37bd814f4d87d9ca78e5cedf5511d5",
+  "dataset_description.json": "081a2803cde8fdcea10ccec74dd75a05ab22e300",
+  "participants.tsv": "1f28f4b6eece276fcc6b1aa8845415fa73526d50",
+  "participants.json": "3abf579653394321263cb6f7f9092f18bdb0ade7",
+  "sub-01/ses-01/func/sub-01_ses-01_task-color_run-01_events.json": "bd4037b6444721c5f599de11cc18f7886ea22abc",
+  "sub-01/ses-04/func/sub-01_ses-04_task-color_run-04_events.json": "bd4037b6444721c5f599de11cc18f7886ea22abc",
+  "sub-01/ses-02/func/sub-01_ses-02_task-color_run-02_events.tsv": "2c0cf9a3acac3e7d66f0d66871606780bd2cd78d",
+  "sub-01/ses-01/func/sub-01_ses-01_task-color_run-01_events.tsv": "bb1503294f00253d0e106f1045697606315184d0",
+  "sub-01/ses-03/func/sub-01_ses-03_task-color_run-03_events.tsv": "64e46225527804e69619004fb35a138e6811512a",
+  "sub-01/ses-04/func/sub-01_ses-04_task-color_run-04_events.tsv": "3a112fdcd460adddbc7d9734487c21892eeec2a5",
+  "sub-01/ses-02/func/sub-01_ses-02_task-color_run-02_events.json": "bd4037b6444721c5f599de11cc18f7886ea22abc",
+  "sub-01/ses-03/func/sub-01_ses-03_task-color_run-03_events.json": "bd4037b6444721c5f599de11cc18f7886ea22abc"
+}

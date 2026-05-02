@@ -1,0 +1,13 @@
+{
+  "README": "2f972413402820f28983f12d131bbd93ee0da1b6",
+  "participants.tsv": "e189b00d283bfcedebf9026926bdfae704c811c8",
+  "task-MerlinFreerecall_bold.json": "02a40c0b60a0bf70198556c3ec90005f027fccc5",
+  "dataset_description.json": "82e48c3076b44ad84f2cc26f2de73238a4622294",
+  "task-MerlinMovie_bold.json": "3a8f849582e2f49cf9ea3fcb0722ceabc2a490ef",
+  "task-SherlockAudio_bold.json": "b7124c1f061e33595a245ae8f97d9eff78045d6e",
+  "task-SherlockMovie_bold.json": "d594c7d09c9e806f568329fa392299613dd37e08",
+  "task-SherlockFreerecall_bold.json": "2d864c1762ddc82af8af4f573db7c5b38a6245d4",
+  "task-MerlinAudio_bold.json": "b798a809ad940c98e4e25a65fe60db14a9107174",
+  "sub-01/func/sub-01_task-SherlockMovie_events.tsv": "76de1fd49c6c8221a4fb7dfa8ee1d2ce0da3ec5c",
+  "sub-01/func/sub-01_task-MerlinAudio_events.tsv": "20074d436efbb5e7da2bc65de39ec1925ffd60d1"
+}

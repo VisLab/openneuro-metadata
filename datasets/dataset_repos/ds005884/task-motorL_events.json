@@ -1,0 +1,17 @@
+{
+  "StimulusPresentation": {
+    "OperatingSystem": "Windows",
+    "PresentationSoftware": "E-Prime",
+    "PresentationSoftwareVersion": "2.0",
+    "StimulusOnsetSync": "Trigger pulse from scanner via parallel port",
+    "ExternalDevices": "6.5 cm diameter dynamometer"
+  },
+  "onset": {
+    "Description": "Start time of the event (seconds)",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event (seconds)",
+    "Units": "s"
+  }
+}

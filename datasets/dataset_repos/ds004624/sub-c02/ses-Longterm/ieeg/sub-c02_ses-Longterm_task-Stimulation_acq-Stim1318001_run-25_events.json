@@ -1,0 +1,9 @@
+{
+    "onset": "Time of the event onset in seconds.",
+    "duration": "Duration of the event in seconds.",
+    "stim_frequency": "Frequency of the stimulation in Hz.",
+    "stim_amplitude": "Amplitude of the stimulation in mA.",
+    "pulse_width": "Width of the stimulation pulse in microseconds.",
+    "stim_anodes": "List of anode channels used for stimulation.",
+    "stim_cathodes": "List of cathode channels used for stimulation."
+}

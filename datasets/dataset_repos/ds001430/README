@@ -1,0 +1,19 @@
+ Behavioral data
+	 Column information:
+		Onset
+		Duration
+		Block
+		Trial: Trial (within a block)
+		Task: task (1:artist, 2:function; task info. of the learning phase for the item repetition and source memory test phases)
+		Stim cat: Stimulus category (1:natural, 2:manmade)
+		Repetition: Repetition (1: repeated, 2: once)
+		Reaction_time: Reaction time (in sec)
+		Response
+		Accuracy: Accuracy (1: correct, 0: incorrect in the source test phase; NaN for the other phases)
+		Confidence_lvl: Confidence level (1: highly unsure, 4: highly sure in the source test phase; n/a for the other phases)
+		RT_confidence: RT of confidence report (n/a for the non-test phases)
+		
+ Stimulus presentation time
+	Phase 1 (encoding phase): 1s
+	Phase 2 (item repetition phase): 1s
+	Phase 3 (source memory test phase): 6s

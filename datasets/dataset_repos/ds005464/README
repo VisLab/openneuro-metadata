@@ -1,0 +1,14 @@
+This dataset includes raw fMRI scans of 29 participants (all data were de-identified). Data from each participant include 2 anatomical scans (T1, T2; skull-stripped), 2 pairs of fieldmaps, and 5 functional scans (2 encoding runs and 3 rest runs). The details of the functional scans are described below:
+
+- task-rest_run-01: This is a pre-encoding resting state scan, during which participants were asked to keep their eyes closed while remaining awake
+
+- task-learning_run-01: Participants studied 36 different word-image pairs. Half the pairs were presented 3 times (strong memory condition), while the other half only once (weak memory condition). This learning block includes a total of 72 trials, with trials from strong and weak memory conditions presented in an interleaved manner. 
+
+- task-rest_run-02: This is a post-encoding (following learning run 1) resting state scan.
+
+- task-learning_run-02: Participants studied another 36 different word-image pairs. The structure of this learning block is the same as the first run. 
+
+- task-rest_run-03: This is a post-encoding (following learning run 2) resting state scan.
+
+
+For more information about the dataset and about the tasks or the experimental design, please see our paper (https://doi.org/10.1073/pnas.2405929121). We have also shared processed/cleaned data files and an analysis script that can be used to recreate all plots and analyses reported in the paper, available at: https://osf.io/vwdu3.

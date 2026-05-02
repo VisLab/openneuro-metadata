@@ -1,0 +1,23 @@
+{
+  "CHANGES": "9d8ab963b271dab4edc4cd4981348217e80cd2e6",
+  "dataset_description.json": "f2c540e85466d7d4a4554b06e77312124e0c4331",
+  "participants.json": "30b196d0ef42c476b5036ebc0ff08961d9bd3fe3",
+  "README.md": "ed6b67d3868f77ea725b0d79a12cbac69e795ccc",
+  "participants.tsv": "41ff3cf97a45bfa9f7eb0ae9769c4302af52f1f4",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-EyesClosed_acq-post_events.tsv": "eafb904cdf2496ff4a597557397286aeef68f841",
+  "sub-001/ses-2/eeg/sub-001_ses-2_task-EyesClosed_acq-post_events.tsv": "eafb904cdf2496ff4a597557397286aeef68f841",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-EyesClosed_acq-pre_events.tsv": "eafb904cdf2496ff4a597557397286aeef68f841",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-EyesOpen_acq-post_events.json": "78c4aab042a7ed213a6a00edf08bdb008f512422",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-EyesClosed_acq-pre_events.json": "78c4aab042a7ed213a6a00edf08bdb008f512422",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-EyesOpen_acq-post_events.tsv": "eafb904cdf2496ff4a597557397286aeef68f841",
+  "sub-001/ses-2/eeg/sub-001_ses-2_task-EyesClosed_acq-post_events.json": "78c4aab042a7ed213a6a00edf08bdb008f512422",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-EyesOpen_acq-pre_events.json": "78c4aab042a7ed213a6a00edf08bdb008f512422",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-EyesOpen_acq-pre_events.tsv": "eafb904cdf2496ff4a597557397286aeef68f841",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-EyesClosed_acq-post_events.json": "78c4aab042a7ed213a6a00edf08bdb008f512422",
+  "sub-001/ses-2/eeg/sub-001_ses-2_task-EyesOpen_acq-post_events.tsv": "eafb904cdf2496ff4a597557397286aeef68f841",
+  "sub-001/ses-2/eeg/sub-001_ses-2_task-EyesOpen_acq-pre_events.json": "78c4aab042a7ed213a6a00edf08bdb008f512422",
+  "sub-001/ses-2/eeg/sub-001_ses-2_task-EyesClosed_acq-pre_events.json": "78c4aab042a7ed213a6a00edf08bdb008f512422",
+  "sub-001/ses-2/eeg/sub-001_ses-2_task-EyesClosed_acq-pre_events.tsv": "eafb904cdf2496ff4a597557397286aeef68f841",
+  "sub-001/ses-2/eeg/sub-001_ses-2_task-EyesOpen_acq-pre_events.tsv": "eafb904cdf2496ff4a597557397286aeef68f841",
+  "sub-001/ses-2/eeg/sub-001_ses-2_task-EyesOpen_acq-post_events.json": "78c4aab042a7ed213a6a00edf08bdb008f512422"
+}

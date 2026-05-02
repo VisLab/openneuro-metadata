@@ -1,0 +1,22 @@
+{
+    "Acknowledgements": "TODO: whom you want to acknowledge",
+    "Authors": [
+        "TODO:",
+        "First1 Last1",
+        "First2 Last2",
+        "..."
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007486.v1.0.0",
+    "Funding": [],
+    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+    "License": "CC0",
+    "Name": "Social Reward Processing, Response Inhibition, and Cue Reactivity in Problem Gamblers",
+    "ReferencesAndLinks": [
+        "TODO",
+        "List of papers or websites"
+    ],
+    "EthicsApprovals": [
+        "Temple University IRB #24452"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "RSfMRI_Function",
+    "BIDSVersion": "1.1.1",
+    "DatasetType": "raw",
+    "Authors": [
+        "Valerio, D.",
+        "Peres, A.",
+        "Almeida, J."
+    ],
+    "DatasetVersion": "1.0.0",
+    "Funding": [
+        "European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme Starting Grant 802553 “ContentMAP“;",
+        "European Research Executive Agency Widening programme under the European 5 Union’s Horizon Europe Grant 101087584 “CogBooster”",
+        "Foundation for Science and Technology of Portugal Doctoral grant SFRH/BD/137737/2018"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006594.v1.0.0"
+}

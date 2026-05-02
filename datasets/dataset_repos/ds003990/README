@@ -1,0 +1,32 @@
+### Overview
+In vivo 7T MRI dataset (N=6) including:
+
+- fMRI BOLD timeseries during a fingertip vibrotactile stimulation task (1.5 mm isotropic, reduced transverse FOV centered on primary somatosensory cortex) 
+- inplane T2*-weighted anatomical scan (0.25 mm inplane resolution) 
+- whole-head T1-weigthed anatomical scan (1mm isotropic, acquired at 3T).
+    
+The data were collected at the University of Nottingham's Sir Peter Mansfield Imaging Center by Julien Besle, Rosa Maria Sanchez-Panchuelo, Denis Schluppeck and Susan Francis.
+
+### fMRI task details
+Vibrotactile somatosensory stimuli were delivered to the fingertips of each participant’s left hand by five piezo-electric devices (Dancer Design, St. Helens, United Kingdom; http://www.dancerdesign.co.uk), according to three different experimental designs (in different runs):
+
+- phase-encoding (PE)
+- slow event-related (ER) (4-12 sec ISI)
+- fast ER (2 sec ISI)
+
+fMRI data were acquired in two sessions. In session 1, only the PE and slow ER designs were used. In session 2, all three designs were used (except for two participants, see notes below).
+In addition, attention to the stimuli in ER runs was manipulated in the following way:
+
+- in session 1, participants performed either a tactile or a visual discrimination task in different ER runs
+- in session 2, participants performed a tactile discrimination task on stimulations to either the index finger (D2) or the ring finger (D4). The attentional task changed every 30 seconds within each run.
+- in both sessions, participants performed a visual discrimination task during PE runs.
+Timings of the stimulations and attentional tasks (in secs) can be found in the TSV files named "sub-0*_ses-0*_task-ER*_run-0*_events.tsv" in the "func" folders.
+
+Full details of the stimulation sequences and acquisition parameters can be found in the following manuscript:
+https://doi.org/10.1101/2022.01.06.471906
+
+### Some notes:
+- subj 02 does not have PE data in session 2
+- subj 05 does not have slow ER data in session 2
+- subj 05 only had 4 fingertips stimulated in session 2 (due to a malfunction of the piezo-electric device attached to their little finger)
+- subj 06 performed the visual instead of the tactile discrimination task in the slow ER runs of session 2

@@ -1,0 +1,22 @@
+{
+	"Title": "T1 FSE Image",
+	"Description": "High-resolution neuromelanin-weighted image with limited FOV of brainstem slices. Used to identify LC.",
+	"SeriesDescription": "T1-FSE-JC1b",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND", "NORM"],
+	"Modality": "MR",
+	"RepetitionTime": 0.75,
+	"PhaseEncodingDirection": "j-",
+	"EffectiveEchoSpacing": 0.0017408,
+	"EchoTime": 0.012,
+	"SliceThickness": 2.5,
+	"FlipAngle": 120,
+	"Manufacturer": "SIEMENS",
+	"SoftwareVersion": "syngo MR D13D",
+	"MRAcquisitionType": "2D",
+	"InstitutionName": "USC",
+	"InstitutionAddress": "McClintock 3520A,Los Angeles //SVC0e0594213b1104//,CA,US,90089",
+	"DeviceSerialNumber": "67025",
+	"ScanningSequence": "SE",
+	"SequenceVariant": "SK\\SP\\OSP",
+	"SequenceName": "*tse2d1rs3"
+}

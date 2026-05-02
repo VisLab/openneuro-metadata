@@ -1,0 +1,44 @@
+{
+  "onset": {
+    "Description": "Onset of the event in seconds relative to the start of the scan",
+    "Units": "s",
+    "LongName": "Event onset"
+  },
+  "duration": {
+    "Description": "Duration of the event in seconds",
+    "Units": "s",
+    "LongName": "Event duration"
+  },
+  "trial_type": {
+    "Description": "Type of trial",
+    "Levels": {
+      "active block": "Performing a visual-motor task.",
+      "rest block": "Fixation on a cross presented on a dark background.",
+      "stimulus display": "Display of a flickering checkerboard stimulus.", 
+      "button pressed": "Response by pressing the button."
+    },
+    "LongName": "Trial type"
+  },
+  "stim_type": {
+    "Description": "Number on the presented flickering checkerboard within the active blocks",
+    "Levels": {
+      "1": "Flickering checkerboard with number 1.",
+      "2": "Flickering checkerboard with number 2.",
+      "3": "Flickering checkerboard with number 3.",
+      "4": "Flickering checkerboard with number 4.",
+      "n/a": "No stimulus presented."
+    },
+    "LongName": "Stimulus type"
+  },
+   "button_press": {
+    "Description": "Indicates which button was pressed during the stimulus presentation",
+    "Levels": {
+      "g": "Pressed the button for the right index finger.",
+      "f": "Pressed the button for the right middle finger.",
+      "v": "Pressed the button for the right ring finger.",
+      "b": "Pressed the button for the right little finger.",
+      "n/a": "No button was pressed."
+    },
+    "LongName": "Button press"
+  }
+}

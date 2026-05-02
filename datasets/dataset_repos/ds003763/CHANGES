@@ -1,0 +1,12 @@
+1.0.5 2022-03-23
+  - Typo error corrected
+1.0.4 2022-03-23
+  - Data from 33 subjects was added to the dataset. Data from sub-09300 were removed due to the discovered artifacts.
+1.0.3 2021-10-16
+  - dash was replaced with hypnen, since dash is displayed incorrectly
+1.0.2 2021-10-15
+  - Additional demographic data included
+1.0.1 2021-09-16
+  - Presentation script was added
+1.0.0 2021-08-12
+  - First version

@@ -1,0 +1,11 @@
+{
+  "README": "fe32beed7d22f0a67a86a2045d4a95655f5c293b",
+  "CHANGES": "c27903b1824915cd24da6ecb82d6738df3b13d82",
+  "task-142ByBiosemi_events.json": "b967c65a2534f8577ab8fe9bd21e35ff6d59702d",
+  "participants.json": "8d88993212894702528620dce42f859e88d260af",
+  "participants.tsv": "3fd40121f8122e0e809455410039850e00204d18",
+  "dataset_description.json": "51137afce6e0ce89077f11e25818424c3b1b74d0",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-142ByBiosemi_events.tsv": "de010dd1fce35c697c0edf805f88b81382c103a9",
+  "sub-001/ses-2/eeg/sub-001_ses-2_task-142ByBiosemi_events.tsv": "dd1df60c6c29464bd46897f899c985a02b47c01d",
+  "sub-001/ses-3/eeg/sub-001_ses-3_task-142ByBiosemi_events.tsv": "c5a91cd334eb818a02bfaa37dbe1026979eaca66"
+}

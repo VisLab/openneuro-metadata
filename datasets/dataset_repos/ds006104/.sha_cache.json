@@ -1,0 +1,9 @@
+{
+  "participants.json": "3e4ac5c846bda377a680124ea1c79f41196f663b",
+  "CHANGES": "09ed8afdbffbd1b6c2d1a1c5625ae427ba67ca35",
+  "dataset_description.json": "b45272fb0a706792c0a30c8c25a760d9fb63e100",
+  "participants.tsv": "b5f625a7a7ae2b1a9ceea4b5aeb2bfc2ce12be19",
+  "README": "c541e86a5872c4c8f04472445545e8c068b27259",
+  "sub-P01/ses-01/eeg/sub-P01_ses-01_task-phonemes_events.json": "32193ef8c399c00a36a92394b38833c1b3fab88c",
+  "sub-P01/ses-01/eeg/sub-P01_ses-01_task-phonemes_events.tsv": "fd780e7b77440f47ac611bb5e57bc23b3b5c9b9d"
+}

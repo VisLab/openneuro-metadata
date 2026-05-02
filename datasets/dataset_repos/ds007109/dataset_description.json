@@ -1,0 +1,24 @@
+{
+    "Authors": [
+        "Mahdi Enan",
+        "Ryszard Auksztulewicz",
+        "Agustin Lage-Castellanos",
+        "Joost Haarsma",
+        "Essa Yacoub",
+        "Caspar M. Schwiedrzik",
+        "Lucia Melloni",
+        "Federico De Martino"
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007109.v1.0.1",
+    "Funding": [
+        "GRANT European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 101001270)",
+        "GRANT  National Institute of Health (grants RF1MH116978)"
+    ],
+    "License": "CC0",
+    "Name": "Associative Learning fMRI 7T Dataset",
+    "ReferencesAndLinks": [
+        "TODO",
+        "List of papers or websites"
+    ]
+}

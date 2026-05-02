@@ -1,0 +1,7 @@
+This dataset contains fMRI data for the paper "Neural encoding of socially adjusted value during competitive and hazardous foraging" by Brian Silston, Toby Wise, Song Qi, Xin Sui, Peter Dayan & Dean Mobbs.
+
+Raw data is not provided (this will be added at a later date), but minimally preprocessed data from fmriprep are included in the `derivatives` folder. Structural files are included in the top level `sub-*` directory mainly for the purposes of passing BIDS validation.
+
+Results of the RSA and univariate analyses are also provided. First level maps used for the RSA analysis are included in `derivatives/first_level`, while outputs from the RSA analyses themselves are available in `derivatives/rsa_revised`. All outputs from the univariate analyses are provided in `derivatives/univariate`.
+
+Code to reproduce these analysis, along with behavioural data, is available on GitHub at https://github.com/mobbslab/foraging_paper. 

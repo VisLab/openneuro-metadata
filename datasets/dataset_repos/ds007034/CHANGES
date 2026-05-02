@@ -1,0 +1,6 @@
+1.0.1 2025-12-17
+  - renamed acq-M/acq-P to part-mag/part-phase
+  - added `"Units": "arbitrary"` to the phase data sidecars
+  - split acquisition data files into _bold and _noRF
+1.0.0 2025-12-06
+  - Added Experiment Data

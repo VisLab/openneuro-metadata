@@ -1,0 +1,23 @@
+{
+    "Description": "Physiological recordings acquired during fMRI scanning",
+    "SamplingFrequency": 496,
+    "StartTime": 0,
+    "Columns": [
+        "cardiac",
+        "respiratory",
+        "trigger"
+    ],
+    "Manufacturer": "Philips",
+    "cardiac": {
+        "Description": "Continuous pulse oximetry recording",
+        "Units": "arbitrary"
+    },
+    "respiratory": {
+        "Description": "Continuous respiratory belt recording",
+        "Units": "arbitrary"
+    },
+    "trigger": {
+        "Description": "Scanner trigger/pulse marks for synchronization with fMRI acquisition",
+        "Units": "arbitrary"
+    }
+}

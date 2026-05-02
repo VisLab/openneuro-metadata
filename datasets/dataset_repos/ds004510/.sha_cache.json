@@ -1,0 +1,14 @@
+{
+  "participants.tsv": "ad932494c51401890a16ee849ed7e7a435885442",
+  "CHANGES": "9f0301f0d88aa63bb36beca32dc60936f05e0cd2",
+  "task-ImaginedSpeech_events.tsv": "dab9bf27b076a0dee49d30ec454f55c17901b8f6",
+  "task-ImaginedSpeech_bold.json": "45eeb6e7ca52c42035c840c92f2c86c6c0d9b32e",
+  "task-AttendMaleSpeaker_bold.json": "1c4d3e8fd974b4accba758a0db6537899f537d13",
+  "task-partlycloudy_bold.json": "0d06ecc2ca59425ab629fc1f65a67de74eb9a2cd",
+  "dataset_description.json": "968f0e7ac6d9abb3b63c132e2d1ed8988ff49ee3",
+  "README": "15759241bc96457d3692e39fd60e584651bd42d6",
+  "task-laluna_bold.json": "3081ca7e9ec9775ec020c1ea69df0b24b697a7e0",
+  "task-AttendFemaleSpeaker_bold.json": "2b693bf189093479b9e4c3420334b687b32569b8",
+  "task-presto_bold.json": "d7bb1a781b82cabbf7d1785db6e2ec7adea0b4b5",
+  "task-sintel_bold.json": "47ee6a88b34b947834b1604df248f55051a6e5c1"
+}

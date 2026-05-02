@@ -1,0 +1,10 @@
+The Connectinn dataset relates to the study of non bothersome tinnitus at the Grenoble Institute for Neurosciences, France. All images were acquired at the IRMAGE facility using a 3T Philips Achieva MRI machine. They include a T1w scan, a resting-state BOLD fMRI scan, and a diffusion weighted imaging scan. Demographic variables include age, hearing-loss, tinnitus handicap inventory scores and duration since tinnitus onset.   
+
+
+This dataset contains both raw and preprocessed data (and other "derivatives"), available on Openneuro. To date, only the raw data is available; we are in the process of uploading the derivatives.
+
+The contents of this dataset are described in detail in the preprint: Specific connectivity with Operculum 3 (OP3) brain region in acoustic trauma tinnitus: a seed-based resting state fMRI study
+Agnès Job, Anne Kavounoudias, Chloé Jaroszynski, Assia Jaillard, Chantal Delon-Martin
+bioRxiv 676429; doi: https://doi.org/10.1101/676429  . 
+
+

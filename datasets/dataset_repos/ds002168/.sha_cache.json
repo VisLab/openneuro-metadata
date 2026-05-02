@@ -1,0 +1,14 @@
+{
+  "dataset_description.json": "66b0450eb46798b8f88fbe6f8d0e1a79f72fd1b9",
+  "CHANGES": "145f7a085c910cb3938ea3c6ef737057818f88d8",
+  "README": "29bc3cac0de01729488561cf4563a92eb0f9f960",
+  "task-mst_bold.json": "2b23c058a3914ec966c2a31fcc9a59e8033000c6",
+  "participants.tsv": "a93ca630a30252c3b52d9aebcc730fdfd25a911a",
+  "phasediff.json": "4607002f7ee4b8c7d9a7948fd2bb0e5526e770d9",
+  "sub-1425/func/sub-1425_task-mst_run-1_events.tsv": "a70597de0ef7e8dd6b7b86e1c544fcd7125f6a54",
+  "sub-1425/func/sub-1425_task-mst_run-6_events.tsv": "83b64069726fc221a8b91ad29d711a8394e71b25",
+  "sub-1425/func/sub-1425_task-mst_run-2_events.tsv": "0402987dfa096e76025c1561b9a6de942eb6de70",
+  "sub-1425/func/sub-1425_task-mst_run-5_events.tsv": "5463b702771220fd2084c26f56202c89688dae3f",
+  "sub-1425/func/sub-1425_task-mst_run-4_events.tsv": "1c20f1c8f8d3141a88573d807e0cc5e8875a869d",
+  "sub-1425/func/sub-1425_task-mst_run-3_events.tsv": "adc6f11f34038be4105e92fdc300e007f1e06df7"
+}

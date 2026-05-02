@@ -1,0 +1,7 @@
+This dataset contains all fMRI data from:
+YN.Zhu, L.Zhang, YM.Zeng, C.Chen, G.Fernández, S.Qin  "Emotional learning retroactively promotes memory integration through rapid neural reactivation and reorganization."
+
+Please see participants.tsv for demographics and exclusions.
+Please see events.tsv for infomation of each trial.
+
+Note: sub-02 is missing rest2 data, which was not scanned due to hardware malfunction.

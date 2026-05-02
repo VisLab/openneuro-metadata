@@ -1,0 +1,17 @@
+{
+    "Name": "Resting state and task based functional connectivity reveal distinct mPFC and hippocampal network alterations in major depressive disorder.",
+    "BIDSVersion": "1.2.1",
+    "License": "CC0",
+    "Authors": [
+        "Ekaete Ekpo, Lysianne Beynel, Bruce Luber, Zhi-De Deng, Timothy J. Strauman, and Sarah H. Lisanby"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "We thank Dr. Allison Nugent for collaborating with us. We thank Drs. Eudora Jones, William Re-genold, and Tyler Torrico for their clinical evaluations and support. We thank the members of the NIH Noninvasive Neuromodulation Unit for their hard work with running participant visits and presenting fMRI stimuli. We thank the NIH Nuclear Magnetic Resonance Team. We thank the research volunteers who participated in our study",
+    "Funding": [
+        "Ekpo, E., Beynel, L., Luber, B., Deng, Z-D., and Lisanby, S.H. are supported by the NIMH Intramural Research Program (ZIAMH002955). The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006731.v1.0.0"
+}

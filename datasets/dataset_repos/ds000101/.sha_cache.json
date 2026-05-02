@@ -1,0 +1,10 @@
+{
+  "T1w.json": "308561b51e6fd1f1581043e65dd453b908060e63",
+  "participants.tsv": "a8205835bcf09058999481ac2ee84cc2c00a1c20",
+  "README": "53bfc1ab14f3cc34aa2d690e8440cf9ac5df6715",
+  "CHANGES": "d69b7855b0c75ad948a92dac92417cc7462323e3",
+  "dataset_description.json": "480ef6d965e3b8f8511730443403e3e975a5db7e",
+  "task-simon_bold.json": "35f906f8ebe04ff7a36921f70fe191f4e7d7482b",
+  "sub-01/func/sub-01_task-simon_run-1_events.tsv": "9806ec5c3b1f516125b807ecedd8398e6a06d62d",
+  "sub-01/func/sub-01_task-simon_run-2_events.tsv": "6bb55b48aee6e90b6c42b8e7ae8c982ed3485cf0"
+}

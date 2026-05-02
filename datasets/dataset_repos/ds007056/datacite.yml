@@ -1,0 +1,40 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Jane Couperus
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0001-8969-0439
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 1
+      - name: Bukach, C.M.
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Reed, C.L.
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+    creators:
+      - name: Jane Couperus
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: Bukach, C.M.
+        nameType: Personal
+      - name: Reed, C.L.
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

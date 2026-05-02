@@ -1,0 +1,26 @@
+# DESCRIPTION
+
+## Experiment
+
+Subjects (N = 32) performed a visuomotor rotation task in two sessions on two consecutive days. The task required subjects to aim to intercept a target using an MRI compatible force sensor. On each trial, a target appeared in one of 8 locations on a circular ring around a start location at the center of the screen. The subject then used the force sensor to move the cursor to hit the target. After a baseline block (120 trials), the correspondence between the force sensor and the cursor was rotation by 45 deg., so that the subject had to learn to aim counter to the rotation in order to hit the target (learning block; 320 trials). Finally, the rotation was removed during a washout block of 120 trials.
+
+On each day, the scan sequence was as follows:
+
+- Resting state scan (6 min; 180 imaging volumes)
+- A baseline block (120 trials) and learning block (320) were performed during a single contiguous scan (a total of 896 imaging volumes)
+- Resting state scan (6 min; 180 imaging volumes)
+- Washout block (120 trials)
+- Resting state scan (6 min; 180 imaging volumes)
+
+## Behavioral data
+
+On each trial, we recorded the response time (sec.; the time from the appearance of the target to the initiation of the movement) and the angle error between the location of the target and the final cursor position on the circular ring (deg.). The variables are included in the *_events.tsv files.
+
+## MRI acquisition
+
+Subjects were scanned using a 3T Siemens TIM MAGNETOM Trial MRI scanner located at the Centre for Neuroscience Studies at Queens University (Kingston, Ontario, Canada). 
+
+- T1w-weighted ADNI MPRAGE (TR = 1760 ms, TE = 2.98 ms, FOV = 192 x 240 x 256 mm, flip angle = 9 deg., 1mm isotropic voxels).
+- Functional volumes were collected using a 32-channel head coil and T2*-weighted single-shot gradient-echo echo-planar imaging (TR = 2000 ms, slice thickness = 4, in-plane resolution = 3 x 3 mm, TE = 30 ms, FOV = 240 x 240 mm, flip angle = 90 deg.)
+
+Pydeface was used on all anatomical images to ensure de-identification of subjects.

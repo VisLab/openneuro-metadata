@@ -1,0 +1,22 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Hanane Ramzaoui
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0001-7663-7663
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 1
+    creators:
+      - name: Hanane Ramzaoui
+        nameType: Personal
+        nameIdentifiers: *ref_0
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

@@ -1,0 +1,8 @@
+This dataset includes data from two fMRI tasks: a Political Moralization task in which participants were asked which protest cause they support more, and a clip viewing task in which participants viewed a series of short ISIS propaganda video clips.
+
+Data from the clip viewing task are described in this manuscript (currently under review): https://osf.io/preprints/psyarxiv/2hvfe
+Analysis code is posted at: https://osf.io/w5qpx/
+
+Documentation for the political moralization task (including event.tsv files) will be posted once the paper on that work has been submitted for publication.
+
+Funding was acquired by Jean Decety and Robert Pape via a Department of Defense Minerva grant. Earlier work was done by Keith Yoder. Analysis of the Political Moralization task is led by Qiongwen (Jovie) Cao, with help from Michael Cohen. Analysis of the ISIS propaganda task is led by Michael Cohen with help from Yuan Chang Leong.

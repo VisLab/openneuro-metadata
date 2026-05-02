@@ -1,0 +1,61 @@
+{
+    "Manufacturer": "Philips",
+    "ManufacturersModelName": "Achieva",
+    "MagneticFieldStrength": 3.0,
+    "ReceiveCoilName": "dStream Head 32ch coil",
+    "NumberReceiveCoilActiveElements": 32,
+    "CoilCombinationMethod": "adaptive", 
+
+    "InstitutionName": "Psychiatric University Hospital Zurich (PUK)",
+    "InstitutionAddress": "Psychiatrische Universit\u00e4tsklinik Z\u00fcrich \n Lenggstrasse 31 \n 8032 Z\u00fcrich \n Switzerland",
+    "InstitutionalDepartmentName": "Department of Adult Psychiatry and Psychotherapy",
+
+    "PulseSequenceType": "FFE-EPI (corrensponds to GRE-EPI in Siemens nomenclature)",
+    "ScanningSequence": "EP",
+    "SequenceVariant": "SS",
+    "MRAcquisitionType": "2D",
+
+    "TaskName": "rest",
+    "TaskDescription": "Canonical resting-state.",
+    "Instructions": "Please keep your eyes closed and lie quietly without falling asleep. This measurement will take around 8 minutes.",
+
+    "VolumeTiming": [
+      0.0, 1.8, 3.6, 5.4, 7.2, 9.0, 10.8, 12.6, 14.4, 16.2,
+      18.0, 19.8, 21.6, 23.4, 25.2, 27.0, 28.8, 30.6, 32.4, 34.2,
+      36.0, 37.8, 39.6, 41.4, 43.2, 45.0, 46.8, 48.6, 50.4, 52.2,
+      54.0, 55.8, 57.6, 59.4, 61.2, 63.0, 64.8, 66.6, 68.4, 70.2,
+      72.0, 73.8, 75.6, 77.4, 79.2, 81.0, 82.8, 84.6, 86.4, 88.2,
+      90.0, 91.8, 93.6, 95.4, 97.2, 99.0, 100.8, 102.6, 104.4, 106.2,
+      108.0, 109.8, 111.6, 113.4, 115.2, 117.0, 118.8, 120.6, 122.4, 124.2,
+      126.0, 127.8, 129.6, 131.4, 133.2, 135.0, 136.8, 138.6, 140.4, 142.2,
+      144.0, 145.8, 147.6, 149.4, 151.2, 153.0, 154.8, 156.6, 158.4, 160.2,
+      162.0, 163.8, 165.6, 167.4, 169.2, 171.0, 172.8, 174.6, 176.4, 178.2,
+      180.0, 181.8, 183.6, 185.4, 187.2, 189.0, 190.8, 192.6, 194.4, 196.2,
+      198.0, 199.8, 201.6, 203.4, 205.2, 207.0, 208.8, 210.6, 212.4, 214.2,
+      216.0, 217.8, 219.6, 221.4, 223.2, 225.0, 226.8, 228.6, 230.4, 232.2,
+      234.0, 235.8, 237.6, 239.4, 241.2, 243.0, 244.8, 246.6, 248.4, 250.2,
+      252.0, 253.8, 255.6, 257.4, 259.2, 261.0, 262.8, 264.6, 266.4, 268.2,
+      270.0, 271.8, 273.6, 275.4, 277.2, 279.0, 280.8, 282.6, 284.4, 286.2,
+      288.0, 289.8, 291.6, 293.4, 295.2, 297.0, 298.8, 300.6, 302.4, 304.2,
+      306.0, 307.8, 309.6, 311.4, 313.2, 315.0, 316.8, 318.6, 320.4, 322.2,
+      324.0, 325.8, 327.6, 329.4, 331.2, 333.0, 334.8, 336.6, 338.4, 340.2,
+      342.0, 343.8, 345.6, 347.4, 349.2, 351.0, 352.8, 354.6, 356.4, 358.2,
+      360.0, 361.8, 363.6, 365.4, 367.2, 369.0, 370.8, 372.6, 374.4, 376.2,
+      378.0, 379.8, 381.6, 383.4, 385.2, 387.0, 388.8, 390.6, 392.4, 394.2,
+      396.0, 397.8, 399.6, 401.4, 403.2, 405.0, 406.8, 408.6, 410.4, 412.2,
+      414.0, 415.8, 417.6, 419.4, 421.2, 423.0, 424.8, 426.6, 428.4, 430.2
+    ],
+    "EchoTime": 0.035,
+    "InversionTime": 0.892,
+    "NumberOfVolumesDiscardedByScanner": 0,
+    "NumberOfVolumesDiscardedByUser": 0,
+    "FrameAcquisitionDuration": 432,
+    "SliceTiming": [
+      0.0, 0.067, 0.133, 0.2, 0.267, 0.333, 0.4, 0.467, 0.533, 0.6, 0.667, 0.733, 0.8, 0.867, 0.933, 1.0, 1.067, 1.133, 1.2, 1.267, 1.333, 1.4, 1.467, 1.533, 1.6, 1.667, 1.733,
+      0.033, 0.1, 0.167, 0.233, 0.3, 0.367, 0.433, 0.5, 0.567, 0.633, 0.7, 0.767, 0.833, 0.9, 0.967, 1.033, 1.1, 1.167, 1.233, 1.3, 1.367, 1.433, 1.5, 1.567, 1.633, 1.7, 1.767
+    ],
+    "SliceEncodingDirection": "k",
+    "PhaseEncodingDirection": "j",
+    "FlipAngle": 70,
+    "NegativeContrast": false
+}

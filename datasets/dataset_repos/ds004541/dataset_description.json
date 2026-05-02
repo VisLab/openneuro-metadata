@@ -1,0 +1,16 @@
+{
+    "Name": "Multimodal EEG-fNIRS data from patients undergoing general anesthesia",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Catalina Saini Ferrón",
+        "Gabriela Vargas González",
+        "Carlos Valle Araya"
+    ],
+    "Acknowledgements": "We thank Natalia Calderon and Victor Contreras for their help in the data collection. We also thank the patients and their families for their participation in this study.",
+    "Funding": [
+        "Departamento de anestesiología UC"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004541.v1.0.0",
+    "License": "CC0"
+}

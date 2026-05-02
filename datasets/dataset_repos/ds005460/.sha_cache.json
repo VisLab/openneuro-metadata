@@ -1,0 +1,13 @@
+{
+  "task-cet_events.json": "c959127da179d58756875d9bfeeac622f71aa97b",
+  "README": "25a3995699fed8d854627183cd588bab22245f2f",
+  "participants.json": "50134db17e568614f73a6febe7ea5a75adff70d9",
+  "CHANGES": "c0c40d8261fb28ddf15e9b1cad9a16aa65ef40c3",
+  "dataset_description.json": "11f5c67fb89b19bfd694a1874ad2f0c198f25dd1",
+  "task-stories_events.json": "263025248d3436e41a442fcaf263578425b40f83",
+  "participants.tsv": "11406efff4b8bbfa32a4e0b940e4c3abd2f972e4",
+  "sub-2711a/func/sub-2711a_task-cet_events.tsv": "08449d890d0878487fd811357e195eebcedb623e",
+  "sub-2711a/func/sub-2711a_task-stories_run-01_events.tsv": "d485a39c0b1a36d9aff41fbd837f814a19cff901",
+  "sub-2711a/func/sub-2711a_task-stories_run-02_events.tsv": "d4a09e2fb7291a0a99a96234450094d670736186",
+  "sub-2711a/func/sub-2711a_task-stories_run-03_events.tsv": "8e795266d01ea94c0feb20b555665f18d952df2a"
+}

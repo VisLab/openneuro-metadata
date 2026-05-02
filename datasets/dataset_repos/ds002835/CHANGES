@@ -1,0 +1,6 @@
+1.0.1 2021-08-19
+  - Updated the participants.tsv file so that participants id are now written in sub-number format, as requested by the new BIDS formatting
+
+1.0.0	2020-05-21
+
+	- Initial snapshot

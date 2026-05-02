@@ -1,0 +1,6 @@
+{
+	"TaskName": "dyloc",
+    "TaskFullName": "Dynamic Localizer",
+    "Instructions": "In this task, you'll watch videos of people, objects, and places. Try to stay alert and pay attention to the videos.",
+    "TaskDescription": "This dynamic visual category localizer is a version of the experiment used by Pitcher et al. (Differential selectivity for dynamic versus static information in face-selective cortical regions, NeuroImage 2011). Participants view videos of moving faces, objects, and scenes. Face videos comprised children's faces on a black background, and included various head and face movements. Object videos were children's toys on a black background. Scene videos were taken from a moving car. Videos were each 3s long and presented in 18s-long blocks. As a baseline condition, a random uniform color was presented at full screen, with colors changing every 3s."
+}

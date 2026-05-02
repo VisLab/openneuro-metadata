@@ -1,0 +1,9 @@
+An fMRI dataset in response to "The Grand Budapest Hotel", a socially-rich, naturalistic movie by Matteo Visconti di Oleggio Castello, Vassiki Chauhan, Guo Jiahui, & M. Ida Gobbini
+
+
+Twenty-five subjects watched the second half of the movie "The Grand Budapest Hotel" by Wes Anderson.
+
+For more information, see the paper at https://www.nature.com/articles/s41597-020-00735-4
+Presentation code and analysis code for data quality assessment are available at https://github.com/mvdoc/budapest-fmri-data
+
+If you use this dataset, please cite the corresponding paper: Visconti di Oleggio Castello, M., Chauhan, V., Jiahui, G., & Gobbini, M. I. An fMRI dataset in response to “The Grand Budapest Hotel”, a socially-rich, naturalistic movie. Sci Data 7, 383 (2020). https://doi.org/10.1038/s41597-020-00735-4

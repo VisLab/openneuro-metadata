@@ -1,0 +1,12 @@
+{
+	"correct": {
+		"Description": "Whether or not the response was correct.",
+		"Levels": {
+			"y": "correct response",
+			"n": "incorrect reponse"
+		}
+	},
+	"response_time": {
+		"Description": "time between onset of trial and subject's response. '0' indicates a missed response."
+	}
+}

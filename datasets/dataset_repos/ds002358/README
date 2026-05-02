@@ -1,0 +1,14 @@
+# Columnar Finger Representation
+
+This dataset consists refers to the layer-fMRI study published in NeuroImgae: https://doi.org/10.1101/457002
+
+The datatype is rather unconventional compared to standard fMRI datasets.
+It is a VASO study, where the functional data are used as structiural data.
+TRs and resulution is variable across time and contrasts within one run. 
+
+Thus, the data are not easly compatible with BIDS. 
+Therefore, see the 'actualfiles' folder for the files. 
+Please ignore the folder sub-emptyPlaceholder.
+
+
+

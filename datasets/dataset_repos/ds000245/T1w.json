@@ -1,0 +1,11 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Verio",
+	"SoftwareVersions": "syngo_MR_B17",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 8,
+	"EchoTime": 0.00248,
+	"RepetitionTime": 2.5,
+	"InversionTime": 0.9,
+	"PhaseEncodingDirection": "i-"
+}

@@ -1,0 +1,81 @@
+onset	duration	event_id	event_type
+0	0	8	Video_Computation
+2.4	0	8	Video_Computation
+8.7	0	1	Rotated_Audio
+11.4	0	3	Right_Audio_Click
+15	0	10	Audio Sentences
+18	0	5	Right_Video_Click
+20.7	0	10	Audio Sentences
+23.7	0	4	Left_Audio_Click
+26.7	0	6	Left_Video_Click
+29.7	0	10	Audio Sentences
+33	0	2	False_Font_Video
+35.4	0	7	Audio_Computation
+39	0	9	Video_Sentences
+41.7	0	9	Video_Sentences
+44.7	0	7	Audio_Computation
+48	0	7	Audio_Computation
+56.4	0	9	Video_Sentences
+59.7	0	1	Rotated_Audio
+62.4	0	4	Left_Audio_Click
+69	0	5	Right_Video_Click
+71.4	0	6	Left_Video_Click
+75	0	9	Video_Sentences
+83.4	0	7	Audio_Computation
+87	0	3	Right_Audio_Click
+89.7	0	10	Audio Sentences
+96	0	2	False_Font_Video
+108	0	7	Audio_Computation
+116.7	0	6	Left_Video_Click
+119.4	0	10	Audio Sentences
+122.7	0	2	False_Font_Video
+125.4	0	8	Video_Computation
+131.4	0	9	Video_Sentences
+135	0	7	Audio_Computation
+137.7	0	7	Audio_Computation
+140.4	0	2	False_Font_Video
+143.4	0	3	Right_Audio_Click
+146.7	0	10	Audio Sentences
+149.4	0	1	Rotated_Audio
+153	0	8	Video_Computation
+156	0	2	False_Font_Video
+159	0	9	Video_Sentences
+162	0	3	Right_Audio_Click
+164.4	0	8	Video_Computation
+167.7	0	9	Video_Sentences
+170.4	0	4	Left_Audio_Click
+173.7	0	7	Audio_Computation
+176.7	0	1	Rotated_Audio
+188.4	0	1	Rotated_Audio
+191.7	0	7	Audio_Computation
+195	0	9	Video_Sentences
+198	0	8	Video_Computation
+201	0	8	Video_Computation
+203.7	0	2	False_Font_Video
+207	0	2	False_Font_Video
+210	0	2	False_Font_Video
+212.7	0	6	Left_Video_Click
+215.7	0	6	Left_Video_Click
+218.7	0	1	Rotated_Audio
+221.4	0	8	Video_Computation
+224.7	0	1	Rotated_Audio
+227.7	0	5	Right_Video_Click
+230.7	0	3	Right_Audio_Click
+234	0	8	Video_Computation
+236.7	0	10	Audio Sentences
+246	0	9	Video_Sentences
+248.4	0	1	Rotated_Audio
+251.7	0	7	Audio_Computation
+254.7	0	4	Left_Audio_Click
+257.4	0	4	Left_Audio_Click
+260.4	0	8	Video_Computation
+264	0	2	False_Font_Video
+266.7	0	1	Rotated_Audio
+269.7	0	1	Rotated_Audio
+275.4	0	5	Right_Video_Click
+278.4	0	2	False_Font_Video
+284.4	0	10	Audio Sentences
+288	0	9	Video_Sentences
+291	0	5	Right_Video_Click
+293.4	0	10	Audio Sentences
+296.7	0	10	Audio Sentences

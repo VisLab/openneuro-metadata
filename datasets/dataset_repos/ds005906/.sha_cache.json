@@ -1,0 +1,11 @@
+{
+  "T1w.json": "87901963dd09afcd395b254fda8e368598af5e5b",
+  "dataset_description.json": "5b1b886a9fddc0c0d2925e728fc6bf65eacc7493",
+  "README": "1dc366ead61bd92f7dca53025397c0c318ad5a87",
+  "task-restOFF_run-02_bold.json": "1d3639d148f2c96ddac100fe86b1e1d70327d248",
+  "task-restOFF_run-01_bold.json": "014ed069adbb746c5f8fbc58259c13ab12a9d0fe",
+  "CHANGES": "04f71afc982c9268505dc6e21ad167f12161c3d2",
+  "task-restON_run-02_bold.json": "0b18a781a7c308690f617d9f50bc2f9ab4f9066e",
+  "task-restON_run-01_bold.json": "7bcaf7668a5af2368d64cace837c744ca0510e8b",
+  "datacite.yml": "5c2e7cb7c46e84a4bd1fe64611934edc916283a3"
+}

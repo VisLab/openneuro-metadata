@@ -1,0 +1,65 @@
+participant_id	age	group	sex	race	ethnicity
+sub-101	20	young	F	White	Not Hispanic/Latino
+sub-102	22	young	F	White	Not Hispanic/Latino
+sub-103	26	young	M	White	Not Hispanic/Latino
+sub-104	21	young	F	White	Not Hispanic/Latino
+sub-105	22	young	M	White	Not Hispanic/Latino
+sub-106	23	young	M	White	Not Hispanic/Latino
+sub-107	22	young	F	White	Not Hispanic/Latino
+sub-108	21	young	F	White	Not Hispanic/Latino
+sub-110	20	young	M	Native Hawaiian or Pacific Islander	Not Hispanic/Latino
+sub-111	20	young	F	White	Hispanic/Latino
+sub-112	22	young	M	White	Not Hispanic/Latino
+sub-113	23	young	F	White	Not Hispanic/Latino
+sub-115	22	young	F	White	Not Hispanic/Latino
+sub-116	21	young	F	White	Not Hispanic/Latino
+sub-117	19	young	F	Unknown	Unknown
+sub-118	20	young	M	Unknown	Unknown
+sub-119	20	young	F	Unknown	Unknown
+sub-125	21	young	M	White	Not Hispanic/Latino
+sub-126	19	young	M	Unknown	Unknown
+sub-127	19	young	F	Unknown	Unknown
+sub-301	18	young	F	White	Hispanic/Latino
+sub-302	20	young	F	Unknown	Hispanic/Latino
+sub-304	19	young	F	Asian	Not Hispanic/Latino
+sub-305	21	young	F	White	Not Hispanic/Latino
+sub-306	27	young	F	White	Not Hispanic/Latino
+sub-307	19	young	F	White	Hispanic/Latino
+sub-308	19	young	M	Asian	Not Hispanic/Latino
+sub-309	21	young	F	White	Not Hispanic/Latino
+sub-310	18	young	M	White	Not Hispanic/Latino
+sub-311	22	young	M	White	Not Hispanic/Latino
+sub-312	18	young	F	Asian	Not Hispanic/Latino
+sub-314	19	young	M	Asian	Not Hispanic/Latino
+sub-315	18	young	F	Asian	Not Hispanic/Latino
+sub-316	19	young	F	Asian	Not Hispanic/Latino
+sub-317	18	young	F	More than one race	Not Hispanic/Latino
+sub-318	18	young	F	White	Not Hispanic/Latino
+sub-1101	72	older	F	White	Not Hispanic/Latino
+sub-1104	79	older	F	White	Hispanic/Latino
+sub-1105	62	older	M	White	Not Hispanic/Latino
+sub-1107	72	older	F	White	Not Hispanic/Latino
+sub-1108	76	older	F	White	Not Hispanic/Latino
+sub-1109	71	older	M	White	Not Hispanic/Latino
+sub-1110	69	older	M	White	Not Hispanic/Latino
+sub-1111	64	older	F	White	Not Hispanic/Latino
+sub-1112	66	older	M	White	Not Hispanic/Latino
+sub-1113	62	older	F	White	Not Hispanic/Latino
+sub-1114	66	older	F	White	Not Hispanic/Latino
+sub-1116	67	older	M	Black or African American	Not Hispanic/Latino
+sub-1118	66	older	M	More than one race	Hispanic/Latino
+sub-1123	68	older	M	White	Not Hispanic/Latino
+sub-1125	69	older	M	White	Not Hispanic/Latino
+sub-1127	79	older	M	White	Not Hispanic/Latino
+sub-1417	81	older	F	White	Hispanic/Latino
+sub-1418	64	older	F	White	Not Hispanic/Latino
+sub-1421	67	older	M	White	Not Hispanic/Latino
+sub-1422	66	older	F	White	Not Hispanic/Latino
+sub-1423	65	older	F	Black or African American	Not Hispanic/Latino
+sub-1426	70	older	F	White	Not Hispanic/Latino
+sub-1427	76	older	F	White	Not Hispanic/Latino
+sub-1432	67	older	M	Unknown	Unknown
+sub-1438	67	older	M	White	Not Hispanic/Latino
+sub-1439	71	older	M	White	Not Hispanic/Latino
+sub-1443	86	older	F	White	Not Hispanic/Latino
+sub-1444	74	older	F	Unknown	Not Hispanic/Latino

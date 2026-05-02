@@ -1,0 +1,7 @@
+This dataset is associated with the manuscript entitled "Are the ventral anterior temporal lobes crucial for processing conceptual knowledge during spoken word production? fMRI evidence from auditory naming" authored by Angelique Volfart, Katie McMahon, Catherine Liegeois-Chauvel, Vitoria Piai and Greig de Zubicaray. 
+
+It includes raw BOLD fMRI data (~400 3D volumes converted to one 4D .nii file per task and run), associated events, field maps and structural T1 images of 25 healthy participants (subjects 004, 019 and 023 were excluded from analysis due to technical issues or incidental findings). 
+
+It also includes the processed structural MRI (forward transform from native to MNI space), processed fMRI data of each participant (~400 3D volumes converted to one 4D .nii file per task and run after normalization, smoothing and global signal removal), the first-level analysis SPM batch files and SPM.mat result files for each participant as derivatives of their functional data, and the second-level analysis (full factorial group analysis) SPM batch file and SPM.mat result file (see "derivatives" folder at the root of the dataset). 
+
+The task performed by participants during functional runs involves naming to auditory definitions or to environmental sounds, and to reverse definitions or white noise stimuli. 

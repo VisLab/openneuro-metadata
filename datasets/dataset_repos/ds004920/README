@@ -1,0 +1,20 @@
+# Summary
+This dataset is a pilot study supported by the National Institutes of Health. The full dataset is described in a submission to Data in Brief.
+
+# Abstract
+Trait reward sensitivity, risk for developing substance use, and mood disorders have each been linked with altered striatal responses to reward. Moreover, striatal response to reward is sensitive to social context, such as the presence of a peer, and drugs are often sought out and consumed in social contexts or as a result of social experiences. Thus, mood disorder symptoms, striatal responses to social context and social reward may play a role in substance use.  To investigate this possibility, this dataset was collected as part of a NIDA grant titled "Aberrant Reward Sensitivity: Mechanisms Underlying Substance Use." The overarching goal was to characterize the associations between neural responses to social and nonsocial rewards, trait reward sensitivity, substance use, and mood disorder symptoms. After obtaining questionnaire data quantifying reward sensitivity, substance use, and other psychosocial characteristics, young adults (N=59; mean age: 20.89 years ±1.75 years) completed four fMRI tasks testing different features of social and reward processing. These included: 1) a strategic reward-based decision-making task with Ultimatum and Dictator Game conditions; 2) a task where participants shared rewards or losses with peers, strangers, or non-human partners; 3) a task in which participants received well-matched social and monetary rewards and punishment; and 4) a monetary incentive delay (MID) task in which participants tried to obtain or avoid rewards and losses of different magnitude. This dataset includes sociodemographic questionnaire data, anatomical, task-based fMRI, and corresponding behavioural task-based data. We outline several opportunities for extension and reuse, including exploration of individual differences, cross-task comparisons, and representational similarity analyses. 
+
+# Expanded Task Names
+1. *doors and socialdoors*: a task in which participants received well-matched social and monetary rewards and punishment;
+1. *ugdg*: a strategic reward-based decision-making task with Ultimatum and Dictator Game conditions
+1. *mid*: a monetary incentive delay (MID) task in which participants tried to obtain or avoid rewards and losses of different magnitude
+1. *sharedreward*: a task where participants shared rewards or losses with peers, strangers, or non-human partners
+
+
+# Additional Usage Notes
+
+The sourcedata directory contains the subdirectory 'redcap'. This subdirectory contains .txt files that includes all collected behavioral data, including data for participants who do not have fMRI data. 
+
+We note that 6 out of 59 participants are missing the childhood trauma questionnaire short form, questionnaire of unpredictability in childhood, and the social experience questionnaire. These questionnaires were to be completed during a followup survey, but were not completed by these participants. 
+
+Code related to this dataset can be found on GitHub (https://github.com/DVS-Lab/ISTART-DataInBrief). This includes sourcedata for the scanner tasks and file generation scripts. 

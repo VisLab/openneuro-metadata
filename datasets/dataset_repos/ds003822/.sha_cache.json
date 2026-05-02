@@ -1,0 +1,9 @@
+{
+  "participants.json": "4b4a115c3b3d6927b56ea9a7d7e41b06ec44da30",
+  "dataset_description.json": "aee10345bba2dbffe48c1b3f155b730099c3aa6a",
+  "CHANGES": "188b5d6be98efe0d77fe9b5616d03bf867efa2c5",
+  "README": "085d6ea920c4fe0fcd45264f1f866ef4b43a57b4",
+  "participants.tsv": "cf15289926b13f6c268dba19f5c8007c84d03456",
+  "sub-001/eeg/sub-001_task-ProbabilisticSelection_events.json": "c6523a06649947c5b96a6e3438d6a0cb5b4bde37",
+  "sub-001/eeg/sub-001_task-ProbabilisticSelection_events.tsv": "a2d1125ae972351f260d058f435daf8c1f4334df"
+}

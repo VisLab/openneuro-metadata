@@ -1,0 +1,13 @@
+Subjects and MRI protocol
+-------------------------------------
+
+Fourteen patients with de-novo parkinsonian syndrome and 14 age- and gender- matched healthy controls, 
+were examined on the same 1.5 T MRI scanner (Magnetom Avanto, software version Syngo MR B17, Siemens, Erlangen, Germany) 
+by acquiring: 
+-	axial 3D T1-weighted images usign an MPRAGE sequence [repetition time (TR) = 1900 ms, echo time (TE) = 3.44 ms, inversion time = 1100 ms, flip angle = 15°, slice thickness=0.86 mm, field of view (FOV)=220 mm×220 mm, matrix size=256×256, number of excitations (NEX)=2;
+-	resting state fMRI images using a T2*-weighted echo-planar imaging (EPI) sequence (TR=2130 ms, TE=40 ms, flip angle=90°, slice thickness=5 mm; FOV=256 mm×256 mm, matrix size 64×64; number of slices=32; interleaved slice acquisition) exploiting the blood-oxygen-level-dependent (BOLD) effect. Two hundred and thirty volumes were acquired. The slices were oriented along and parallel to the bi-commissural plane and covered the entire brain. Physiological signals (pulse oximetry and respiratory signals) were recorded simultaneously with the rsfMRI examination through a built-in Siemens physiological measurement unit. Patients were instrumented with a peripheral pulse sensor on the left hand index finger and a respiratory cushion in contact with the upper abdomen attached to the patient via a respiratory belt. Pulse and respiratory signals were sampled at 50 Hz. 	
+
+Defacing
+------------
+
+Pydeface was used on all anatomical images to ensure de-identification of subjects.

@@ -1,0 +1,11 @@
+2.0.1 2025-03-10
+  - Minor changes to README, added data_dictionary.
+2.0.0 2024-10-22
+  - Added Phase B, doubling cohort size
+1.0.2 2023-11-27
+  - Update README and data_description.json to point to Imaging Neuroscience publication
+1.0.1 2023-09-14
+  - 1.0.1
+  - Added participants.tsv
+1.0.0 2023-09-08
+  - First upload

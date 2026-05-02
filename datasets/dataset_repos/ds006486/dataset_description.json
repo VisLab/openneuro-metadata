@@ -1,0 +1,12 @@
+{
+    "Name": "Decoding_Sounds",
+    "BIDSVersion": "1.2.2",
+    "Authors": [
+        "Giusi Pollicina",
+        "Petra Vetter"
+    ],
+    "HowToAcknowledge": "",
+    "Funding": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006486.v1.0.0",
+    "License": "CC0"
+}

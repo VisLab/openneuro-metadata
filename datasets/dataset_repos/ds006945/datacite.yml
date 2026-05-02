@@ -1,0 +1,35 @@
+creators:
+  - name: "Sarkar, Shantanu"
+    affiliation: "University of Houston"
+    orcid: "https://orcid.org/0000-0002-5125-6925"
+  - name: "Nathan, Kevin"
+    affiliation: "University of Houston"
+    orcid: "https://orcid.org/0000-0002-1234-5678"
+  - name: "Contreras-Vidal, Jose L."
+    affiliation: "University of Houston"
+    orcid: "https://orcid.org/0000-0002-6499-1208"
+
+title: "Dataset: T1-Weighted Structural MRI and fMRI of Participants Viewing Self-Avatar Exoskeleton Walking (11 SWS Cycles)”
+
+description: "This dataset contains multimodal neuroimaging recordings from five healthy adult participants performing kinesthetic motor imagery (KI) of walking versus standing while viewing a first-person exoskeleton video stimulus consisting of 11 stop–walk–stop cycles. The dataset includes structural MRI, task-based fMRI, and EEG recordings and is organized according to the BIDS 1.8.0 specification. MRI sessions were conducted after participants completed nine longitudinal sessions of EEG-controlled exoskeleton walking and standing experiments (data shared as https://doi.org/10.18112/openneuro.ds006940). The dataset is released under a CC0 license and is intended to support research in motor imagery, gait neurophysiology, brain–machine interface–driven rehabilitation, and multimodal neuroimaging."
+
+keywords:
+  - Structural MRI
+  - fMRI
+  - Motor Imagery
+  - Exoskeleton
+  - Gait
+  - Neuroimaging
+  - BIDS
+  - EEG
+
+license: "CC0"
+
+funding:
+  - funder: "UH–Methodist Graduate Fellowship for Translational Research"
+  - funder: "NSF IUCRC BRAIN Center"
+    award: "2137255"
+
+references:
+  - "Dataset link: https://openneuro.org/datasets/ds006945"
+  - "Acknowledgement: We acknowledge the invaluable collaboration and visionary support of the late Prof. Robert Grossman."

@@ -1,0 +1,11 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "TrioTim",
+	"MagneticFieldStrength": 3,
+	"SliceThickness": 1,
+	"EchoTime": 0.00351,
+	"RepetitionTime": 1.81,
+	"InversionTime": 1.1,
+	"FlipAngle": 9
+}
+

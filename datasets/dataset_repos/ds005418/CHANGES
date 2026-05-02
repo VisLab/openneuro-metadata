@@ -1,0 +1,12 @@
+3.2.0 2024-08-21
+  - added missing files in fmriprep derivatives
+3.1.0 2024-08-20
+  - Added description of derivatives
+3.0.0 2024-08-19
+  - added CVRmap derivatives for CO2 CVR, resting-state CVR using vessel signal and global signal
+2.0.0 2024-08-19
+  - added fmriprep derivatives
+1.0.1 2024-08-19
+  - changed ds description
+1.0.0 2024-08-19
+  - First version, rawdata only

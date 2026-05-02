@@ -1,0 +1,237 @@
+onset	duration	task	block	trial	target	response	correct	response_time	stimulus
+0.0897	1.5602	rest	A	n/a	n/a	n/a	n/a	n/a	rest instructions
+1.6499	179.8696	rest	A	n/a	n/a	n/a	n/a	n/a	fixation
+181.5195	9.9914	memory	A	n/a	0	0	1	n/a	memory task instructions
+193.5442	0.3665	memory	A	0	0	0	1	n/a	pentagon
+196.519	0.3917	memory	A	1	n/a	n/a	1	n/a	rhomboid
+199.519	0.3916	memory	A	2	L	L	1	0.557	pentagon
+202.519	0.3915	memory	A	3	n/a	n/a	1	n/a	triangle
+205.5188	0.3916	memory	A	4	n/a	n/a	1	n/a	rhomboid
+208.5187	0.3916	memory	A	5	L	L	1	0.3961	triangle
+211.5185	0.3917	memory	A	6	n/a	n/a	1	n/a	circle
+214.5184	0.3918	memory	A	7	n/a	n/a	1	n/a	pentagon
+217.5184	0.3917	memory	A	8	L	L	1	0.328	circle
+220.5183	0.3917	memory	A	9	L	L	1	0.3921	pentagon
+223.5183	0.3916	memory	A	10	n/a	n/a	1	n/a	rhomboid
+226.5181	0.3917	memory	A	11	n/a	n/a	1	n/a	circle
+229.518	0.3917	memory	A	12	n/a	n/a	1	n/a	circle
+232.518	0.3917	memory	A	13	n/a	L	0	0.524	rhomboid
+235.5179	0.3917	memory	A	14	n/a	n/a	1	n/a	rhomboid
+238.5177	0.3917	memory	A	15	n/a	n/a	1	n/a	circle
+241.5177	0.3917	memory	A	16	L	L	1	0.5241	rhomboid
+244.5175	0.3918	memory	A	17	n/a	n/a	1	n/a	pentagon
+247.5175	0.3918	memory	A	18	n/a	n/a	1	n/a	circle
+250.5174	0.3916	memory	A	19	n/a	n/a	1	n/a	circle
+253.5174	0.3916	memory	A	20	n/a	L	0	0.511	rhomboid
+256.5172	0.3916	memory	A	21	n/a	n/a	1	n/a	triangle
+259.5172	0.3917	memory	A	22	n/a	n/a	1	n/a	square
+262.5171	0.3916	memory	A	23	L	L	1	0.5079	triangle
+265.5169	0.3917	memory	A	24	L	L	1	0.456	square
+268.5169	0.3916	memory	A	25	n/a	n/a	1	n/a	circle
+271.5168	0.3917	memory	A	26	L	L	1	0.479	square
+274.5167	0.3917	memory	A	27	n/a	n/a	1	n/a	rhomboid
+277.5166	0.3917	memory	A	28	n/a	n/a	1	n/a	pentagon
+280.5165	0.3917	memory	A	29	n/a	n/a	1	n/a	circle
+283.5165	0.3915	memory	A	30	n/a	n/a	1	n/a	rhomboid
+286.5164	0.3917	memory	A	31	L	L	1	0.434	circle
+289.5162	0.3917	memory	A	32	n/a	n/a	1	n/a	square
+292.5161	0.3917	memory	A	33	n/a	n/a	1	n/a	pentagon
+295.5161	0.3917	memory	A	34	n/a	n/a	1	n/a	rhomboid
+298.516	0.3916	memory	A	35	n/a	n/a	1	n/a	square
+301.5159	0.3917	memory	A	36	L	L	1	0.575	rhomboid
+304.5159	0.3916	memory	A	37	n/a	L	0	0.8029	pentagon
+307.5157	0.3916	memory	A	38	n/a	n/a	1	n/a	circle
+310.5156	0.3917	memory	A	39	L	L	1	0.465	pentagon
+313.5156	0.3916	memory	A	40	n/a	n/a	1	n/a	triangle
+316.5155	0.3916	memory	A	41	n/a	n/a	1	n/a	triangle
+319.5154	0.3916	memory	A	42	n/a	n/a	1	n/a	rhomboid
+322.5152	0.3918	memory	A	43	n/a	n/a	1	n/a	pentagon
+325.5151	0.3918	memory	A	44	n/a	n/a	1	n/a	circle
+328.5151	0.3917	memory	A	45	n/a	n/a	1	n/a	rhomboid
+331.515	0.3917	memory	A	46	L	L	1	0.6309	circle
+334.5149	0.3916	memory	A	47	n/a	n/a	1	n/a	triangle
+337.5149	0.3915	memory	A	48	n/a	n/a	1	n/a	rhomboid
+340.5147	0.3917	memory	A	49	L	L	1	0.3921	triangle
+343.5147	0.3916	memory	A	50	n/a	n/a	1	n/a	triangle
+346.5145	0.3917	memory	A	51	n/a	n/a	1	n/a	circle
+349.5145	0.3917	memory	A	52	n/a	n/a	1	n/a	rhomboid
+352.5143	0.3917	memory	A	53	n/a	n/a	1	n/a	rhomboid
+355.5143	0.3916	memory	A	54	n/a	L	0	0.5439	triangle
+358.5141	0.3918	memory	A	55	n/a	n/a	1	n/a	pentagon
+361.5141	0.3917	memory	A	56	L	L	1	0.5659	triangle
+364.514	0.3917	memory	A	57	n/a	n/a	1	n/a	triangle
+367.514	0.3916	memory	A	58	n/a	n/a	1	n/a	square
+370.5138	0.3917	memory	A	59	L	L	1	0.561	triangle
+373.5305	9.983	attention	A	n/a	n/a	n/a	n/a	n/a	attention task instructions
+385.5467	179.9776	attention	A	n/a	n/a	n/a	n/a	n/a	../multimedia/FishTank_3min_1.1X.mov
+398.0846	0.2	attention	A	1	R	R	1	1.2284	crosshair on fish
+407.7077	0.2	attention	A	2	L	n/a	0	n/a	crosshair on fish
+415.8933	0.2	attention	A	3	L	n/a	0	n/a	crosshair on fish
+426.0754	0.2	attention	A	4	L	L	1	0.9869	crosshair on fish
+437.4553	0.2	attention	A	5	R	n/a	0	n/a	crosshair on fish
+442.6462	0.2	attention	A	6	R	R	1	0.8656	crosshair on fish
+448.6357	0.2	attention	A	7	L	L	1	1.3175	crosshair on fish
+461.0139	0.2	attention	A	8	R	R	1	0.9724	crosshair on fish
+469.3991	0.2	attention	A	9	R	R	1	0.5869	crosshair on fish
+482.5759	0.2	attention	A	10	R	R	1	0.8098	crosshair on fish
+498.9471	0.2	attention	A	11	L	n/a	0	n/a	crosshair on fish
+516.1169	0.2	attention	A	12	L	L	1	1.151	crosshair on fish
+525.3007	0.2	attention	A	13	L	n/a	0	n/a	crosshair on fish
+532.4881	0.2	attention	A	14	L	L	1	1.0959	crosshair on fish
+539.0765	0.2	attention	A	15	R	R	1	1.0657	crosshair on fish
+552.2533	0.2	attention	A	16	L	L	1	0.9718	crosshair on fish
+565.5327	9.9751	math	A	n/a	n/a	n/a	n/a	n/a	math task instructions
+577.5577	3.9498	math	A	0	R	R	1	2.3296	(9 - 3) - 2 = | 12,4
+582.5243	3.9832	math	A	1	R	R	1	1.345	(6 + 1) + 1 = | 4,8
+587.524	3.9832	math	A	2	L	R	0	4.415	(7 - 5) - 4 = | -2,-7
+592.5238	3.9834	math	A	3	R	R	1	1.8489	(6 + 6) + 3 = | 7,15
+597.5237	3.9832	math	A	4	L	L	1	2.025	(3 + 5) - 5 = | 3,1
+602.5235	3.9833	math	A	5	L	L	1	2.8957	(7 - 5) + 3 = | 5,12
+607.5234	3.9833	math	A	6	L	L	1	1.6879	(10 - 8) + 10 = | 12,3
+612.5233	3.9832	math	A	7	L	L	1	3.8932	(8 + 6) + 6 = | 20,27
+617.5231	3.9833	math	A	8	L	L	1	3.5487	(10 - 3) + 2 = | 9,3
+622.523	3.9832	math	A	9	R	n/a	0	n/a	(2 - 9) - 1 = | -12,-8
+627.5228	3.9833	math	A	10	L	L	1	2.138	(3 + 5) - 7 = | 1,-2
+632.5227	3.9832	math	A	11	L	L	1	1.576	(5 + 2) - 1 = | 6,1
+637.5225	3.9833	math	A	12	L	L	1	2.0181	(6 + 7) - 6 = | 7,4
+642.5224	3.9832	math	A	13	R	R	1	1.3364	(5 - 5) + 9 = | 16,9
+647.5222	3.9832	math	A	14	R	R	1	3.6709	(6 - 5) - 5 = | 1,-4
+652.5221	3.9833	math	A	15	L	L	1	4.171	(5 - 8) - 2 = | -5,-15
+657.5219	3.9833	math	A	16	R	R	1	3.884	(8 - 6) + 4 = | 16,6
+662.5218	3.9832	math	A	17	R	R	1	3.8713	(1 - 7) + 3 = | -1,-3
+667.5217	3.9832	math	A	18	R	R	1	2.595	(5 + 2) + 4 = | 1,11
+672.5298	3.975	math	A	19	L	R	0	4.1567	(7 - 3) + 8 = | 12,8
+677.5213	3.9832	math	A	20	R	R	1	3.5432	(3 + 10) - 4 = | 13,9
+682.5212	3.9832	math	A	21	L	R	0	2.9907	(2 + 4) - 6 = | 0,-4
+687.521	3.9832	math	A	22	L	L	1	2.6848	(9 + 2) - 1 = | 10,12
+692.521	3.9831	math	A	23	L	L	1	2.6968	(7 + 8) - 10 = | 5,0
+697.5208	3.9832	math	A	24	L	L	1	1.4917	(2 + 7) + 10 = | 19,27
+702.5206	3.9832	math	A	25	L	L	1	2.7218	(5 - 3) - 3 = | -1,9
+707.5205	3.9832	math	A	26	R	R	1	1.8839	(5 + 10) + 1 = | 25,16
+712.5203	3.9832	math	A	27	L	L	1	1.9351	(5 - 1) - 1 = | 3,8
+717.5202	3.9831	math	A	28	L	L	1	2.6967	(4 - 9) - 10 = | -15,-22
+722.52	3.9915	math	A	29	L	L	1	1.644	(8 + 8) - 5 = | 11,3
+727.5198	3.9916	math	A	30	L	L	1	1.8159	(7 - 6) - 1 = | 0,-6
+732.5197	3.9915	math	A	31	R	R	1	4.2189	(1 - 9) - 7 = | -5,-15
+737.5196	3.9915	math	A	32	R	R	1	2.975	(4 - 1) + 9 = | 10,12
+742.5194	3.9916	math	A	33	R	R	1	2.209	(4 + 6) + 4 = | 12,14
+747.5192	3.9916	math	A	34	R	R	1	3.6909	(2 - 7) - 3 = | -14,-8
+752.5191	3.9922	math	A	35	L	L	1	2.8368	(8 + 2) - 8 = | 2,-3
+757.5106	9.9997	memory	B	n/a	0	0	1	n/a	memory task instructions
+769.5436	0.3667	memory	B	0	0	0	1	n/a	square
+772.5185	0.3917	memory	B	1	n/a	n/a	1	n/a	triangle
+775.5183	0.3918	memory	B	2	n/a	n/a	1	n/a	pentagon
+778.5183	0.3917	memory	B	3	n/a	n/a	1	n/a	rhomboid
+781.5183	0.3916	memory	B	4	n/a	n/a	1	n/a	square
+784.5181	0.3917	memory	B	5	L	L	1	0.3921	rhomboid
+787.518	0.3917	memory	B	6	n/a	n/a	1	n/a	circle
+790.518	0.3916	memory	B	7	n/a	n/a	1	n/a	square
+793.5178	0.3917	memory	B	8	L	L	1	0.2631	circle
+796.5177	0.3918	memory	B	9	L	L	1	0.2921	square
+799.5177	0.3916	memory	B	10	n/a	n/a	1	n/a	square
+802.5176	0.3916	memory	B	11	n/a	n/a	1	n/a	triangle
+805.5175	0.3917	memory	B	12	L	L	1	0.2609	square
+808.5175	0.3915	memory	B	13	n/a	n/a	1	n/a	pentagon
+811.5173	0.3917	memory	B	14	n/a	n/a	1	n/a	rhomboid
+814.5172	0.3917	memory	B	15	n/a	n/a	1	n/a	triangle
+817.5172	0.3916	memory	B	16	n/a	n/a	1	n/a	pentagon
+820.5171	0.3917	memory	B	17	n/a	n/a	1	n/a	square
+823.5169	0.3918	memory	B	18	n/a	n/a	1	n/a	circle
+826.517	0.3915	memory	B	19	L	L	1	0.2809	square
+829.5168	0.3917	memory	B	20	n/a	n/a	1	n/a	pentagon
+832.5168	0.3915	memory	B	21	n/a	n/a	1	n/a	circle
+835.5166	0.3916	memory	B	22	n/a	n/a	1	n/a	rhomboid
+838.5165	0.3917	memory	B	23	n/a	n/a	1	n/a	rhomboid
+841.5164	0.3917	memory	B	24	n/a	n/a	1	n/a	triangle
+844.5164	0.3917	memory	B	25	L	L	1	0.3449	rhomboid
+847.5163	0.3916	memory	B	26	n/a	n/a	1	n/a	square
+850.5169	0.3909	memory	B	27	n/a	n/a	1	n/a	circle
+853.5161	0.3917	memory	B	28	n/a	n/a	1	n/a	rhomboid
+856.516	0.3917	memory	B	29	n/a	n/a	1	n/a	triangle
+859.516	0.3916	memory	B	30	L	L	1	0.5109	rhomboid
+862.5158	0.3917	memory	B	31	n/a	n/a	1	n/a	pentagon
+865.5157	0.3917	memory	B	32	n/a	n/a	1	n/a	triangle
+868.5156	0.3917	memory	B	33	n/a	n/a	1	n/a	square
+871.5156	0.3916	memory	B	34	n/a	n/a	1	n/a	rhomboid
+874.5154	0.3917	memory	B	35	L	L	1	0.6188	square
+877.5153	0.3917	memory	B	36	n/a	n/a	1	n/a	circle
+880.5154	0.3915	memory	B	37	n/a	n/a	1	n/a	rhomboid
+883.5151	0.3917	memory	B	38	n/a	n/a	1	n/a	pentagon
+886.5152	0.3915	memory	B	39	n/a	n/a	1	n/a	square
+889.5151	0.3915	memory	B	40	L	L	1	0.3697	pentagon
+892.515	0.3916	memory	B	41	n/a	n/a	1	n/a	pentagon
+895.5149	0.3917	memory	B	42	n/a	n/a	1	n/a	rhomboid
+898.5147	0.3917	memory	B	43	n/a	n/a	1	n/a	triangle
+901.5146	0.3917	memory	B	44	n/a	L	0	0.725	pentagon
+904.5146	0.3916	memory	B	45	L	L	1	0.4508	triangle
+907.5144	0.3917	memory	B	46	n/a	n/a	1	n/a	triangle
+910.5144	0.3916	memory	B	47	n/a	n/a	1	n/a	rhomboid
+913.5143	0.3917	memory	B	48	n/a	L	0	0.714	rhomboid
+916.5142	0.3917	memory	B	49	n/a	n/a	1	n/a	square
+919.5142	0.3916	memory	B	50	n/a	n/a	1	n/a	pentagon
+922.5141	0.3916	memory	B	51	n/a	n/a	1	n/a	circle
+925.514	0.3916	memory	B	52	L	L	1	0.3808	pentagon
+928.5138	0.3917	memory	B	53	n/a	n/a	1	n/a	rhomboid
+931.5137	0.3918	memory	B	54	L	L	1	0.362	pentagon
+934.5137	0.3917	memory	B	55	n/a	n/a	1	n/a	pentagon
+937.5136	0.3917	memory	B	56	n/a	n/a	1	n/a	circle
+940.5135	0.3917	memory	B	57	n/a	n/a	1	n/a	triangle
+943.5134	0.3917	memory	B	58	n/a	n/a	1	n/a	pentagon
+946.5133	0.3916	memory	B	59	n/a	n/a	1	n/a	pentagon
+949.5132	12.033	rest	B	n/a	n/a	n/a	n/a	n/a	rest instructions
+961.5462	179.9697	rest	B	n/a	n/a	n/a	n/a	n/a	fixation
+1141.5159	9.9914	math	B	n/a	n/a	n/a	n/a	n/a	math task instructions
+1153.5572	3.9499	math	B	0	R	R	1	2.8774	(2 - 3) + 10 = | 0,9
+1158.5237	3.9833	math	B	1	R	R	1	3.6339	(5 - 10) + 6 = | 11,1
+1163.5235	3.9832	math	B	2	R	R	1	3.03	(8 + 6) + 2 = | 19,16
+1168.5234	3.9832	math	B	3	R	R	1	2.6258	(2 + 4) - 7 = | 0,-1
+1173.5232	3.9834	math	B	4	L	R	0	4.1888	(5 - 8) - 8 = | -11,-9
+1178.5231	3.9832	math	B	5	L	L	1	4.447	(7 + 5) - 4 = | 8,13
+1183.523	3.9831	math	B	6	L	L	1	3.0099	(5 - 3) - 10 = | -8,-6
+1188.5229	3.9832	math	B	7	L	R	0	2.9618	(9 + 5) + 5 = | 19,29
+1193.5226	3.9832	math	B	8	R	R	1	3.3119	(5 + 6) + 5 = | 6,16
+1198.5226	3.9832	math	B	9	L	L	1	2.5857	(6 - 3) - 5 = | -2,-8
+1203.5224	3.9833	math	B	10	R	L	0	4.1816	(6 - 8) + 1 = | -7,-1
+1208.5305	3.975	math	B	11	L	L	1	2.4295	(5 - 4) + 10 = | 11,6
+1213.5221	3.9832	math	B	12	R	R	1	3.0856	(5 - 7) - 4 = | -15,-6
+1218.522	3.9832	math	B	13	R	R	1	1.822	(1 + 8) - 1 = | 9,8
+1223.5218	3.9832	math	B	14	R	R	1	2.2558	(10 - 1) + 7 = | 19,16
+1228.522	3.9828	math	B	15	R	R	1	2.9493	(5 - 10) + 2 = | -12,-3
+1233.5215	3.9832	math	B	16	L	L	1	2.4039	(4 - 1) + 8 = | 11,2
+1238.5213	3.9832	math	B	17	L	L	1	3.4839	(2 - 6) + 2 = | -2,-9
+1243.5212	3.9832	math	B	18	L	L	1	3.7617	(9 + 2) - 2 = | 9,16
+1248.5211	3.9831	math	B	19	L	L	1	3.4216	(4 - 6) - 8 = | -10,-18
+1253.5209	3.9832	math	B	20	R	R	1	3.4577	(4 - 10) - 8 = | -24,-14
+1258.5208	3.9831	math	B	21	R	R	1	3.0084	(4 + 7) - 9 = | 9,2
+1263.5206	3.9916	math	B	22	R	R	1	1.4396	(9 - 9) - 10 = | -16,-10
+1268.5204	3.9832	math	B	23	L	L	1	1.7479	(10 - 9) + 4 = | 5,10
+1273.5204	3.9831	math	B	24	L	L	1	2.5007	(1 + 10) - 7 = | 4,2
+1278.5201	3.9916	math	B	25	R	R	1	1.5209	(2 - 2) - 10 = | -9,-10
+1283.52	3.9916	math	B	26	R	n/a	0	n/a	(6 - 1) + 7 = | 2,12
+1288.5198	3.9916	math	B	27	L	L	1	1.4549	(2 + 10) - 1 = | 11,10
+1293.5198	3.9915	math	B	28	R	R	1	2.2507	(5 + 9) + 9 = | 33,23
+1298.5195	3.9917	math	B	29	R	R	1	2.484	(1 + 5) - 10 = | 5,-4
+1303.5194	3.9915	math	B	30	L	L	1	3.2787	(10 - 9) - 5 = | -4,-1
+1308.5193	3.9915	math	B	31	R	R	1	1.6809	(1 + 2) + 7 = | 5,10
+1313.5192	3.9915	math	B	32	R	R	1	1.8906	(6 + 5) - 6 = | 4,5
+1318.519	3.9915	math	B	33	R	R	1	1.1809	(2 + 3) + 9 = | 22,14
+1323.5188	3.9916	math	B	34	L	R	0	1.8651	(6 - 5) + 4 = | 5,7
+1328.5187	3.9915	math	B	35	R	R	1	3.2468	(7 - 1) + 8 = | 23,14
+1333.5269	9.983	attention	B	n/a	n/a	n/a	n/a	n/a	attention task instructions
+1345.5432	179.9777	attention	B	n/a	n/a	n/a	n/a	n/a	../multimedia/FishTank_3min_1.2X.mov
+1358.0811	0.2	attention	B	1	R	R	1	0.8202	crosshair on fish
+1367.7042	0.2	attention	B	2	L	L	1	0.8386	crosshair on fish
+1375.8898	0.2	attention	B	3	L	L	1	0.7693	crosshair on fish
+1386.0719	0.2	attention	B	4	L	L	1	0.9119	crosshair on fish
+1397.4518	0.2	attention	B	5	R	R	1	0.8567	crosshair on fish
+1402.6427	0.2	attention	B	6	R	R	1	0.8146	crosshair on fish
+1408.6322	0.2	attention	B	7	L	L	1	1.1092	crosshair on fish
+1421.0104	0.2	attention	B	8	R	R	1	0.6556	crosshair on fish
+1429.3956	0.2	attention	B	9	R	R	1	0.6693	crosshair on fish
+1442.5724	0.2	attention	B	10	R	R	1	0.693	crosshair on fish
+1458.9436	0.2	attention	B	11	L	L	1	0.913	crosshair on fish
+1476.1134	0.2	attention	B	12	L	L	1	0.9512	crosshair on fish
+1485.2972	0.2	attention	B	13	L	L	1	1.1253	crosshair on fish
+1492.4846	0.2	attention	B	14	L	L	1	0.8544	crosshair on fish
+1499.073	0.2	attention	B	15	R	R	1	1.0659	crosshair on fish
+1512.2498	0.2	attention	B	16	L	L	1	1.222	crosshair on fish

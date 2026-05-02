@@ -1,0 +1,73 @@
+{
+  "AcquisitionMatrixPE": 64,
+  "AcquisitionNumber": 1,
+  "BaseResolution": 64,
+  "BodyPartExamined": "BRAIN",
+  "CogAtlasID": "https://www.cognitiveatlas.org/concept/id/trm_4a3fd79d0aab0/",
+  "ConsistencyInfo": "N4_VE11E_LATEST_20181129",
+  "ConversionSoftware": "dcm2niix",
+  "DerivedVendorReportedEchoSpacing": 0.000540003,
+  "DeviceSerialNumber": "166182",
+  "DwellTime": 3.4e-06,
+  "EchoTime": 0.032,
+  "FlipAngle": 40,
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "M",
+    "ND",
+    "NORM",
+    "MOSAIC"
+  ],
+  "InPlanePhaseEncodingDirectionDICOM": "COL",
+  "InstitutionalDepartmentName": "MRI",
+  "MRAcquisitionType": "2D",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Prisma",
+  "Modality": "MR",
+  "MultibandAccelerationFactor": 4,
+  "PartialFourier": 1,
+  "PatientPosition": "HFS",
+  "PercentPhaseFOV": 100,
+  "PhaseEncodingDirection": "j-",
+  "PhaseResolution": 1,
+  "PixelBandwidth": 2300,
+  "ReconMatrixPE": 64,
+  "RepetitionTime": 0.61,
+  "ScanOptions": "FS",
+  "ScanningSequence": "EP",
+  "SequenceVariant": "SK",
+  "SliceThickness": 3,
+  "SpacingBetweenSlices": 3.3,
+  "StationName": "AWP166182",
+  "TaskName": "FOUNDCOG_pictures",
+  "dcmmeta_reorient_transform": [
+    [
+      0.0,
+      -1.0,
+      0.0,
+      63.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "dcmmeta_slice_dim": 2,
+  "dcmmeta_version": 0.6
+}

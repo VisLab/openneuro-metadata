@@ -1,0 +1,85 @@
+{
+	"TrialEvent": {
+		"Description": "The period within the trial where either the money cue or the image stimuli is presented",
+		"Levels": {
+			"MONEYCUE": "The trial event where the money cue is presented",
+			"IMAGE": "The trial event where the image is presented"
+		}
+	},   
+
+	"BlockNumber": {
+		"Description": "The fMRI run from the overlap task; there are 4 in total. Participants must memorize a background scene and ignore a transparent foreground object. Trials begin with a money cue telling participants whether they can potentially lose money contingent on their memory for scenes. Half the trials are motivated by threat, in which participants are told they will lose 50 cents if they forget the scene on later on. On the other half of trials, participants must memorize the scene but there is no risk of losing money. The trials conclude with three scrambled image that are used for modeling an active baseline in the analyses"
+	},
+	
+	"TrialNumber": {
+		"Description": "Trial number within the block; there are 24 in each block."
+	},
+
+	"Condition": {
+		"Description": "The arousal condition in the task, based on the valence of the money cue at beginning of trial",
+		"Levels": {
+			"AROUSING": "Threatening money cue", 
+			"NEUTRAL": "Neutral money cue"
+		}
+
+	},
+
+	"SceneCategory": {
+		"Description": "Verbal labels for the recognition memory outcome of the target scene",
+		"Levels": {
+			"REMSCENE": "Remembered Scene", 
+			"FORGOTSCENE": "Forgot Scene"
+		}
+
+	},
+
+	"ObjectCategory": {
+		"Description": "Verbal labels for the recognition memory outcome of the object distracter",
+		"Levels": {
+			"REMOBJECT": "Remembered Object", 
+			"FORGOTOBJECT": "Forgot Object"
+		}
+
+	},
+
+	"SceneRem": {
+		"Description": "Accuracy for the scene"
+	},
+
+	"ObjectRem": {
+		"Description": "Accuracy for object"
+	},
+
+	"MemCategory": {
+		"Description": "The codependent scene/object memory outcomes, i.e., whether participants remembered/forgot the scene while ALSO remembering/forgetting the corresponding object on a trial-by-trial basis. The scene memory outcome is always listed first and the object memory outcome is always listed second in the code name. R = Remembered, F = Forgot",
+		"Levels": {
+			"RF": "Remembered Scene, Forgot Object; this is the main expected outcome under threat (competition favoring high priority scenes)", 
+			"RR": "Remembered both",
+			"FR": "Forgot Scene and Remembered Object",
+			"FF": "Forgot Both"
+		}
+
+	},
+
+	"Target": {
+		"Description": "The scene image stimulus participants must encode"
+
+	},
+
+	"Distracter": {
+		"Description": "The object image stimulus participants must ignore"
+
+	},
+
+	"PreEvent_PupilMax": {
+		"Description": "The average pupil diameter during the baseline period - 500ms window - prior to the onset of the trial event (MoneyCue or Image); these are arbitrary units"
+	},
+
+	"Event_PupilDilation": {
+		"Description": "The average pupil dilation to each trial event (MoneyCue or Image) in arbitrary units. Note that these values need to be mean-centered prior to fMRI imaging analyses"
+	},
+
+	"MemoryStrength": {
+		"Description": "***Fill in here***"
+	}
+}

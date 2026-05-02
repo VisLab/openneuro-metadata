@@ -1,0 +1,6 @@
+2.0.0 2024-12-08
+  - Added fmripost-aroma and connectomix derivatives, added more details in README to reproduce results, and added all config files
+1.1.0 2024-12-04
+  - Added fMRIPrep derivatives
+1.0.0 2024-11-07
+  - First version, rawdata only

@@ -1,0 +1,28 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "second"
+  },
+  "trial_type": {
+    "Description": "Type of event",
+    "Levels": {
+      "wait": "The instruction is to wait until the experiment starts",
+      "relax": "The instruction is to relax",
+      "getready": "The instruction is to get ready as the trial is about to start",
+      "concentrate": "The instruction is to concentrate on the target"
+    }
+  },
+  "response_time": {
+    "Description": "Response time column not use for this data"
+  },
+  "value": {
+    "Description": "Original trial value"
+  },
+  "second_after_ready": {
+    "Description": "Number of second after the instruction to get ready"
+  }
+}

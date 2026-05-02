@@ -1,0 +1,26 @@
+2.0.7 2026-04-01
+  - Updated title, paper reference, added subject-averaged quantitative maps; added data description on which maps to use
+2.0.6 2025-02-24
+  - final fixes 
+2.0.5 2025-02-20
+  - upload replication data
+2.0.4 2025-02-18
+  - upload missing data
+2.0.3 2024-10-04
+  - changed the license
+2.0.2 2024-07-04
+  - add events.tsv files to func data
+2.0.1 2024-02-23
+  - updated preprocessed functional data in derivatives
+2.0.0 2024-01-29
+  - add derivatives
+1.0.4 2023-12-18
+  - all subjects: upload raw data
+1.0.3 2023-12-12
+  - add p019 raw (wrong subj naming in some files)
+1.0.2 2023-12-12
+  - add p020
+1.0.1 2023-12-12
+  - test-add_p019
+1.0.0 2023-12-08
+  - first test-upload

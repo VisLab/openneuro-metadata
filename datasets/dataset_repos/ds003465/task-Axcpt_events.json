@@ -1,0 +1,39 @@
+{
+  "onset": {
+	"Description": "Trial onset (CueSlide.OnsetTime in eprime output).",
+    "Units": "seconds"
+  },
+  "duration": {
+	"Description": "Trial duration.",
+    "Units": "seconds"
+  },
+  "trial_type": {
+        "Description": "Trial type. (TrialType in eprime output).",
+        "Levels": {
+            "AX": "Cue A Probe X. Target trial; correct response is button 2.",
+            "BX": "non-A Cue, Probe X. Correct response is button 1. High cognitive control demands.",
+			"AY": "Cue A, non-X Probe. Correct response is button 1.",
+			"BY": "non-A Cue, non-X Probe. Correct response is button 1. Low cognitive control demands.",
+			"Ang": "Cue A, number Probe. No-go trial.",
+			"Bng": "non-A Cue, number Probe. No-go trial."
+        }
+  },
+  "response_time": {
+	"Description": "Time between appearance of Probe and button press (ProbeSlide.RT in eprime output).",
+    "Units": "seconds"
+  },
+  "response_button": {
+	"Description": "Whether the button under the first or second finger of the right hand was pressed. (ProbeSlide.RESP in eprime output).",
+    "Levels": {
+      "1": "button 1",
+      "2": "button 2"
+    }
+  },
+  "response_accuracy": {
+	"Description": "If the trial response was correct. Note that no response (response_button n/a) is correct for no-go trials (Ang and Bng).  (ProbeSlide.ACC in eprime output).",
+    "Levels": {
+      "0": "incorrect",
+      "1": "correct"
+    }
+  }
+}

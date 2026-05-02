@@ -1,0 +1,41 @@
+onset	duration	sub_id	pres_order	trial_type	stim_file	vigtext	cond_id	vig_id
+0.0	7.92	sub-01	1	authority	vignettes/auth09.JPG	You see a boy turning up the TV as his father talks about his military service.	authority09	8
+10.08	7.92	sub-01	2	authority	vignettes/auth05.JPG	You see a teenage girl coming home late and ignoring her parents strict curfew.	authority05	4
+19.44	7.92	sub-01	3	care_physical	vignettes/carephys14.JPG	You see a woman spanking her child with a spatula for getting bad grades in school.	care_physical14	43
+33.84	7.92	sub-01	4	care_emotional	vignettes/careemo06.JPG	You see a girl laughing when she realizes her friend's dad is the janitor.	care_emotional06	20
+46.080000000000005	7.92	sub-01	5	social_norms	vignettes/socnorm12.JPG	You see a woman watching a game on television in black-and-white instead of color.	social_norms12	116
+55.440000000000005	7.92	sub-01	6	liberty	vignettes/lib06.JPG	You see a mother telling her son that she is going to choose all of his friends.	liberty06	65
+65.52	7.92	sub-01	7	care_physical	vignettes/carephys10.JPG	You see a girl throwing her hot coffee on a woman who is dating her ex-boyfriend.	care_physical10	39
+79.92	7.92	sub-01	8	fairness	vignettes/fair01.JPG	You see a student copying a classmate's answer sheet on a makeup final exam.	fairness01	45
+93.6	7.92	sub-01	9	fairness	vignettes/fair08.JPG	You see an employee lying about how many hours she worked during the week.	fairness08	52
+108.0	7.92	sub-01	10	loyalty	vignettes/loy11.JPG	You see a college president singing a rival school's fight song during a pep rally.	loyalty11	85
+122.4	7.92	sub-01	11	loyalty	vignettes/loy06.JPG	You see a man leaving his family business to go work for their main competitor.	loyalty06	80
+131.76000000000002	7.92	sub-01	12	fairness	vignettes/fair15.JPG	You see a politician using federal tax dollars to build an extension on his home.	fairness15	59
+146.16	7.92	sub-01	13	liberty	vignettes/lib15.JPG	You see a mayor trying to ban people from hugging and kissing in public in his city.	liberty15	74
+155.52	7.92	sub-01	14	care_physical	vignettes/carephys03.JPG	You see someone leaving his dog outside in the rain after it dug in the trash.	care_physical03	32
+167.76000000000002	7.92	sub-01	15	authority	vignettes/auth08.JPG	You see a player publicly yelling at his soccer coach during a playoff game.	authority08	7
+180.0	7.92	sub-01	16	care_emotional	vignettes/careemo10.JPG	You see a man loudly telling his wife that the dinner she cooked tastes awful.	care_emotional10	24
+193.68	7.92	sub-01	17	care_emotional	vignettes/careemo07.JPG	You see a girl saying that another girl is too ugly to be a varsity cheerleader.	care_emotional07	21
+205.92	7.92	sub-01	18	social_norms	vignettes/socnorm06.JPG	You see someone at the school gym lifting free weights in nice business clothes.	social_norms06	110
+218.16	7.92	sub-01	19	care_physical	vignettes/carephys09.JPG	You see a woman throwing a stapler at her colleague who is snoring during her talk.	care_physical09	38
+229.68	7.92	sub-01	20	social_norms	vignettes/socnorm10.JPG	You see a man walking down a dark hallway while still wearing his sunglasses.	social_norms10	114
+241.92	7.92	sub-01	21	social_norms	vignettes/socnorm07.JPG	You see a man eating a bowl cereal in the morning with water instead of milk.	social_norms07	111
+256.32	7.92	sub-01	22	sanctity	vignettes/pur08.JPG	You see a homosexual in a gay bar offering sex to anyone who buys him a drink.	sanctity08	97
+267.84000000000003	7.92	sub-01	23	care_emotional	vignettes/careemo04.JPG	You see a man quickly canceling a blind date as soon as he sees the woman.	care_emotional04	18
+280.08	7.92	sub-01	24	loyalty	vignettes/loy10.JPG	You see a Hollywood star agreeing with a foreign dictator's denunciation of the US.	loyalty10	84
+294.48	7.92	sub-01	25	sanctity	vignettes/pur02.JPG	You see a family eating the carcass of their pet dog that had been run over.	sanctity02	91
+303.84000000000003	7.92	sub-01	26	authority	vignettes/auth04.JPG	You see an intern disobeying an order to dress professionally and comb his hair.	authority04	3
+313.92	7.92	sub-01	27	sanctity	vignettes/pur09.JPG	You see an employee at a morgue eating his pepperoni pizza off of a dead body.	sanctity09	98
+324.0	7.92	sub-01	28	fairness	vignettes/fair11.JPG	You see a girl taking all the Halloween candy from a bowl, leaving none for others.	fairness11	55
+337.68	7.92	sub-01	29	sanctity	vignettes/pur01.JPG	You see a man having sex with a frozen chicken before cooking it for dinner.	sanctity01	90
+352.08	7.92	sub-01	30	social_norms	vignettes/socnorm05.JPG	You see a woman continuing to wear a large sun hat inside her apartment complex.	social_norms05	109
+364.32	7.92	sub-01	31	sanctity	vignettes/pur12.JPG	You see a man searching through the trash to find women's discarded underwear.	sanctity12	101
+375.84	7.92	sub-01	32	liberty	vignettes/lib05.JPG	You see a man telling his girlfriend that she must convert to his religion.	liberty05	64
+385.92	7.92	sub-01	33	liberty	vignettes/lib04.JPG	You see a manager coercing her employees into eating at her brother's diner.	liberty04	63
+396.0	7.92	sub-01	34	liberty	vignettes/lib10.JPG	You see a public leader on TV trying to ban the wearing of hooded sweatshirts.	liberty10	69
+407.52	7.92	sub-01	35	authority	vignettes/auth01.JPG	You see a girl ignoring her fathers orders by taking the car after her curfew.	authority01	0
+419.76	7.92	sub-01	36	loyalty	vignettes/loy02.JPG	You see a coach celebrating with the opposing team's players who just won the game.	loyalty02	76
+429.84	7.92	sub-01	37	fairness	vignettes/fair09.JPG	You see a woman getting hired only because her father is close friends with the boss.	fairness09	53
+439.2	7.92	sub-01	38	loyalty	vignettes/loy05.JPG	You see the US Ambassador joking in Great Britain about the stupidity of Americans.	loyalty05	79
+453.6	7.92	sub-01	39	care_physical	vignettes/carephys06.JPG	You see a girl shooting geese repeatedly with a pellet gun out in the woods.	care_physical06	35
+465.84	7.92	sub-01	40	care_emotional	vignettes/careemo01.JPG	You see a teenage boy chuckling at an amputee he passes by while on the subway.	care_emotional01	15

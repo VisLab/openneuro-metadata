@@ -1,0 +1,19 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event.",
+        "Units": "second"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset) in seconds.",
+        "Units": "second"
+    },
+    "trial_type": {
+        "Description": "Primary categorisation of each trial to identify them as instances of the experimental conditions.",
+        "Levels": {
+            "congruent": "threat-congruent trials, in which the arrow probe is presented in the previously vacated location of the angry face",
+            "incongruent": "threat-incongruent trials, in which the arrow probe is presented in the previously vacated location of the neutral face",
+            "neutral": "neutral trials, in which both faces presented in the pair were neutral to serve as a non-threat condition",
+            "error": "incorrect response on previous condition"
+        }
+    }
+}

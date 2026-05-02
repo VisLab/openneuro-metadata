@@ -1,0 +1,18 @@
+{
+    "Name": "Driving with Autonomous Aids",
+    "License": "CC0",
+    "Authors": [
+        "Jason Metcalfe",
+        "Amar Marathe",
+        "Tony Johnson",
+        "Stephen Gordon",
+        "Jon Touryan",
+        "Kevin King"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004657.v1.0.3"
+}

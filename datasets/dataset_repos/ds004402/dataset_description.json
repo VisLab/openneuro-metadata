@@ -1,0 +1,21 @@
+{
+    "BIDSVersion": "1.8.0",
+    "Name": "Functional MRI of the Behaving Mouse with High-resolution Behavioral Monitoring",
+    "Authors": [
+        "Eyal Bergmann",
+        "Daniela Lichtman",
+        "Admir Resulaj",
+        "Guy Yona",
+        "Ornit Nahman",
+        "Dmitry Rinberg",
+        "Itamar Kahn"
+    ],
+    "License": "CC0",
+    "GeneratedBy": [
+        {
+            "Name": "Custom MATLAB BIDS converter",
+            "Version": "1.0"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004402.v1.0.0"
+}

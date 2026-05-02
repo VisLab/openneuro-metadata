@@ -1,0 +1,13 @@
+{
+  "all_idps.csv": "44b57e3bf93495264a128f77fc53c389a6fb5ebb",
+  "dataset_description.json": "529632df6ca08568419fec70931b8feac85301d3",
+  "radiographers.csv": "9ea5fc14b90a89409ebe2db838d98ab920b7567f",
+  "README": "5db15cd3e343d981206a394ec15e35a96a50dd11",
+  "CHANGES": "8654b1ff6a1f17d6a2d85aa6d0b75dd92a42f74f",
+  "participants.json": "5356b7e6f3f29a0ef015bbb283662bf64e63580a",
+  "data_dictionary.pdf": "82cdb54ee717e89c268b43558107f9990229c710",
+  "participants.tsv": "35b7ff14049433f78d951174707290e7d4f90010",
+  "scan_delays.csv": "e0545f5e51a12de3690147ed79143119a8831428",
+  "protocol_accelerations.csv": "b3477735a2ff5caf47d250c42cea20ca0a1f909c",
+  "software_versions.csv": "e3999576a24089c18ab296abdc766776db3cbf98"
+}

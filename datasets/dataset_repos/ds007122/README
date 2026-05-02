@@ -1,0 +1,11 @@
+This dataset contains high-resolution layer-fMRI data (VASO and BOLD) acquired on the NexGen 7T scanner during an autobiographical memory retrieval task.
+
+Experimental Design: In autobiographical memory (AM) blocks, participants pressed a button after deciding on a memory. In mental arithmetic (MA) blocks, participants pressed a button after solving a simple mathematical problem and then iteratively added 3 to the result. 
+
+Sequence Details: VASO fMRI. The functional runs are interleaved nulled and not-nulled volumes. These have been split into separate files (cbv, bold).
+
+Scanner: NexGen 7T at UC Berkeley
+
+Preprocessing Notes: MP2RAGE have been had their noisy backgrounds and bias fields removed (https://github.com/srikash/MPRAGEise) and anonymized (https://github.com/poldracklab/pydeface). Functional files have two noise volumes at the end, suited for NORDIC denoising.
+
+For full details, please see: Häkkinen, S., Beckett, A., Walker, E., Huber, R., & Feinberg, D. A. (2025). Functional imaging of hippocampal layers using VASO and BOLD on the Next Generation (NexGen) 7T Scanner. bioRxiv. doi: 10.1101/2025.08.29.673151

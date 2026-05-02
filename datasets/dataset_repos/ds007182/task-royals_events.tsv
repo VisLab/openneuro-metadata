@@ -1,0 +1,3 @@
+onset	duration	trial_type	stim_file
+0	601	onset_movie	royals.mp4
+601	1	offset_movie	royals.mp4

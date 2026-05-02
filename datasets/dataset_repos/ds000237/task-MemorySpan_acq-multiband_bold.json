@@ -1,0 +1,10 @@
+{
+  "RepetitionTime": 1.0,
+  "EchoTime": 0.03,
+  "FlipAngle": 60,
+  "SliceTiming": [0.0, 0.0],
+  "MultibandAccellerationFactor": 3,
+  "PhaseEncodingDirection": "j",
+  "TaskDescription": "sdfsd",
+  "TaskName": "MemorySpan"
+}

@@ -1,0 +1,19 @@
+{
+  "CHANGES": "00137d386764ceadfa9b704e40bbf220e98307b9",
+  "dataset_description.json": "98f27508bcc28f4affa0f70c8d8b20eab7f83f7b",
+  "task-localizer_bold.json": "04f14cb7a0aeb85b5f54f8e2a1b2152257f4827d",
+  "README": "86843f451391a5db3712fb44584a8294c2f338a9",
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "task-main_bold.json": "1344ff9d40ddb3b150f76ead6e5dadd5af37ec72",
+  "participants.tsv": "45cc2031fb223aff9761f9d63b581b6646ebe769",
+  "sub-01/func/sub-01_task-main_run-004_events.tsv": "7a23003e25643b3c1e907cb8970d11c341f79c7e",
+  "sub-01/func/sub-01_task-main_run-002_events.tsv": "16f13d729d80fd581548a5ecd84533a2e43537b8",
+  "sub-01/func/sub-01_task-main_run-006_events.tsv": "a7997464e29b05a9f0535cdf9ad74ffc89c6d67d",
+  "sub-01/func/sub-01_task-main_run-007_events.tsv": "1aa1e8d5e526dfce440ef391e85eb737b09c86fd",
+  "sub-01/func/sub-01_task-main_run-003_events.tsv": "f173c06ea42f75649e46aafbc6d5c53880547fd6",
+  "sub-01/func/sub-01_task-main_run-001_events.tsv": "421995e14005de05d8785a1cee39f54350a2c1b6",
+  "sub-01/func/sub-01_task-localizer_run-001_events.tsv": "33790bc498c62c19cd8fc036625bde51c9fd6282",
+  "sub-01/func/sub-01_task-main_run-005_events.tsv": "9e71bc34d58fbffdaf0e96eb1b86c68e47f2ec8a",
+  "sub-01/func/sub-01_task-main_run-008_events.tsv": "3aef53de472347f2df279d3e31c0fa1f81f48d01"
+}

@@ -1,0 +1,35 @@
+{
+  "onset": {
+    "Description": "Event onset time relative to the start of the EEG recording.",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event.",
+    "Units": "s"
+  },
+  "sample": {
+    "Description": "Sample at which event occurred"
+  },
+  "value": {
+    "Description": "Original numeric event code imported from the EEG acquisition system.",
+    "Levels": {
+      "boundary" : "boundary event",
+      "11": "Target Compatible Left",
+      "12": "Target Compatible Right",
+      "21": "Target Incompatible Left",
+      "22": "Target Incompatible Right",
+      "111": "Response Left Compatible Target Left",
+      "112": "Response Left Compatible Target Right",
+      "121" : "Response Left Incompatible Target Left",
+      "122" : "Response Left Incompatible Target Right",
+      "211": "Response Right Compatible Target Left",
+      "212": "Response Right Compatible Target Right",
+      "221" : "Response Right Incompatible Target Left",
+      "222" : "Response Right Incompatible Target Right",
+      "1" : "unknown",
+      "2" : "unknown",
+      "255" : "unknown",
+      "202" : "unknown"
+    }
+  }
+}

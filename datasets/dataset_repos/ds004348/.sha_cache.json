@@ -1,0 +1,11 @@
+{
+  "participants.tsv": "2bf5e774de85425eea855fecc33ca885cbbac36f",
+  "README": "647460f8f9e63b83f6b5dca741dfb0a807447f2e",
+  "participants.json": "7c5c98caba105ef1852fcaecd0736557585b20a4",
+  "CHANGES": "632116081842efd069581481c51e5c326d73c1fd",
+  "dataset_description.json": "aab3adeaf5f4337726dabf20baa4bf771b162743",
+  "sub-001/ses-001/eeg/sub-001_ses-001_task-sleep_acq-scoring_events.json": "f794082b1e4bcfa566026e7f9be9bd595b2eaf86",
+  "sub-001/ses-001/eeg/sub-001_ses-001_task-sleep_events.json": "8460450ac5c9027e9e598638d9638a38ac7e1a71",
+  "sub-001/ses-001/eeg/sub-001_ses-001_task-sleep_acq-scoring_events.tsv": "d41602be913d5d3e6ecb3184f61c820e36b1e828",
+  "sub-001/ses-001/eeg/sub-001_ses-001_task-sleep_events.tsv": "242caacb2cf24ac4eb968357f52573579b7ba43a"
+}

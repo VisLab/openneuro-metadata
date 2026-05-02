@@ -1,0 +1,22 @@
+{
+	"eventnumber": {"description": "the presentation number"},
+	"condition": {"description": "1, 2 or 3"},
+	"conditionlabel": {"description": "labels for condition"},
+	"istarget": {"description": "C,L,R represent central, left or right target, 0 means no target"},
+	"presentationnumber": {"description": "presentation number within the stream"},
+	"sequencenumber": {"description": "the sequence number (0-11)"},
+	"stimC": {"description": "stimulus number of central image (-1 is no image)"},
+	"stimL": {"description": "stimulus number of left image (-1 is no image)"},
+	"stimR": {"description": "stimulus number of right image (-1 is no image)"},
+	"streamnumber": {"description": "unique stream number (0-47)"},
+	"stimnameL": {"description": "name of stimulus on left (or no image)"},
+	"stimnameR": {"description": "name of stimulus on right (or no image)"},
+	"stimnameC": {"description": "name of stimulus central (or no image)"},
+	"response": {"description": "0 when no response, or 1 for response"},
+	"rt": {"description": "time of response, but this isn't accurate"},
+	"correct": {"description": "correct response to a target (1) or not (0)"},
+	"time_stimon": {"description": "stimulus onset time (s), relative to experiment start"},
+	"time_stimoff": {"description": "stimulus offset time (s), relative to experiment start"},
+	"stimdur": {"description": "duration of stimulus in seconds"},
+	"sample": {"description": "onset of stimulus in samples"}
+}

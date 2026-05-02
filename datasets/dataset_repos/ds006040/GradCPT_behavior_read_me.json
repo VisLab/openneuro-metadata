@@ -1,0 +1,47 @@
+{
+  "subjectNum": {
+    "description": "Col.1 : Subject number"
+  },
+  "age": {
+    "description": "Col.2 : Age"
+  },
+  "gender": {
+    "description": "Col.3 : 9 represents Female, 16 represents Male"
+  },
+  "PressedTask": {
+    "description": "Col.4 : 6 means pressing the key for a city image, 16 means pressing the key for a mountain image"
+  },
+  "BlockType": {
+    "description": "Col.5 : Block Type 3 means a response rate of 75% and a gradual onset(10) of the images"
+  },
+  "BlockRepeatNum": {
+    "description": "Col.6 : Block repeated number"
+  },
+  "ResponseRate": {
+    "description": "Col.7 : response rate"
+  },
+  "Onset": {
+    "description": "Col.8 : 10 means a gradual onset"
+  },
+  "Block": {
+    "description": "Col.9 : 1 is defalut"
+  },
+  "Trial": {
+    "description": "Col.10 : trial"
+  },
+  "ImgType": {
+    "description": "Col.11 : 6 is city, 16 is mountain"
+  },
+  "ImgNum": {
+    "description": "Col.12 : Number of the stimuli images"
+  },
+  "RT": {
+    "description": "Col.13 : Response Time"
+  },
+  "PressedC": {
+    "description": "Col.14 : If no key was pressed for a city image, it is recorded as -1. If a key was pressed, it is recorded as 49 (where 49 represents the 1 button)."
+  },
+  "FrameC": {
+    "description": "Colr.15 : The total number of frames used for image transitions is 16.The frame at which the participant pressed the button is recorded. If the button was not pressed, the value is 16. If the button was pressed, the value ranges between 1 and 16."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "condition" : {
+    "Description" : "Type of tactile Braille task performed by the participant. Both conditions involve tactile reading of Braille; they differ in the decision rule applied.",
+    "Levels" : {
+      "LEXICAL_DECISION" : "Participant decides whether the Braille character string presented on the line is a real word or a pseudoword.",
+      "6_DOT_DETECTION" : "Participant decides whether the presented Braille character string contains at least one full six-dot Braille cell."
+    }
+  },
+  "trial_type" : {
+    "Description" : "Category of the trial presented to the participant.",
+    "Levels" : {
+      "CUE" : "Instruction screen informing the participant about the upcoming task.",
+      "FIXCROSS" : "Fixation cross display on the screen; no stimuli were presented and the participant remained passive.",
+      "PSEUDOWORD" : "A Braille character string corresponding to a pseudoword was presented.",
+      "WORD" : "A Braille character string corresponding to a real word was presented.",
+      "NO_6-DOT" : "The presented Braille character string did not contain a full six-dot cell.",
+      "6-DOT" : "The presented Braille character string contained at least one full six-dot cell.",
+      "RESPONSE" : "Event marking the participant’s response indicating their lexical decision or detection of a full six-dot cell."
+    }
+  },
+  "braille_stimulus" : {
+    "Description" : "Sequence of Braille characters presented to the participant, encoded in six-dot Braille notation. The symbol '#' denotes a Braille cell with all six dots raised (full cell)."
+  },
+  "response_val" : {
+    "Description" : "Type of response given by the participant in the current task condition.",
+    "Levels" : {
+      "YES" : "In the LEXICAL_DECISION task, indicates that the participant judged the character string as a real word; in the 6_DOT_DETECTION task, indicates that the participant judged that the string contained at least one full six-dot cell.",
+      "NO" : "In the LEXICAL_DECISION task, indicates that the participant judged the character string as a pseudoword; in the 6_DOT_DETECTION task, indicates that the participant judged that the string did not contain a full six-dot cell."
+    }
+  },
+  "response_type" : {
+    "Description" : "Outcome of the participant’s response in relation to the presented stimulus.",
+    "Levels" : {
+      "HIT" : "Correct detection of a target: in LEXICAL_DECISION, a real word was correctly identified as a word; in 6_DOT_DETECTION, a string containing a full six-dot cell was correctly judged as containing one.",
+      "CORRECT_REJECTION" : "Participant correctly indicated the absence of a target: in LEXICAL_DECISION, a pseudoword was correctly identified as not a word; in 6_DOT_DETECTION, a string without a full six-dot cell was correctly judged as not containing one.",
+      "FALSE_ALARM" : "Participant indicated the presence of a target when none was present: in LEXICAL_DECISION, a pseudoword was incorrectly classified as a word; in 6_DOT_DETECTION, a string without a full six-dot cell was incorrectly judged as containing one.",
+      "MISS" : "Participant failed to respond correctly when a target was present (e.g., a real word or a string containing a full six-dot cell)."
+    }
+  },
+  "TaskDescription" : "Participants performed a tactile lexical decision task. The stimuli were presented using an MRI-compatible Braille display. In the experimental condition (lexical decision, LDT), participants were asked whether the presented letter sequence constituted a valid Polish word or a pseudoword—a sequence resembling a real word but nonexistent in Polish. In the control condition (six-dot detection, DD6), participants judged whether a sequence of randomly presented consonants contained exactly two nonlinguistic symbols - the full six-dot Braille characters (⠿). Stimuli were balanced such that half contained exactly two nonlinguistic symbols, and half contained none. Participants responded at the end of each trial using their left hand via a response pad, indicating the presence or absence of the nonlinguistic symbols.\nDuring the task, each condition was presented in 8 blocks. Each block contained 5 stimuli presented for 5 seconds. The block was preceded by a fixation cross displayed for a pseudo-random duration of 6 to 8 seconds, followed by a 2-second visual cue indicating the upcoming task. After each stimulus presentation, participants had a 2-second response window, followed by an inter-stimulus interval lasting between 1 and 2 seconds.",
+  "Instructions" : "The instructions were delivered in Polish; the text below is a translation. You will perform two tasks related to reading the Braille alphabet. To perform them, we will use a device attached to your right leg. Your task will be to move the index finger of your right hand across the device, just as we practiced before — each time only once, from left to right. If you see this cue [presentation of the cue screen ✓|X], in a moment a task will begin in which you will have to decide whether a word or a pseudoword appeared on the device. Each time you think that a word appeared, press the left button on the response pad. Each time you think that a pseudoword appeared, press the right button on the response pad. After the stimulus presentation ends, you can still respond, but please try to give your response as quickly as possible. You will repeat this sequence (appearance of a word or pseudoword, your response, and a short break) several times, until you see another instruction. If you see this cue [presentation of the cue screen ⣿|-], in a moment a task will begin in which you will have to decide whether the sequence of letters presented on the device contains two full Braille cells or not. Each time you think that two full Braille cells appeared, press the left button on the response pad. Each time you think that there are no full Braille cells, press the right button on the response pad. It is important that, as much as possible, you try not to make any movements in the scanner.",
+  "StimulusPresentation" : {
+    "OperatingSystem" : "Windows 10 Pro 22H2",
+    "ScreenOrigin" : [
+      "center",
+      "center"
+    ],
+    "ScreenRefreshRate" : 120,
+    "ScreenResolution" : [
+      1920,
+      1080
+    ],
+    "ScreenSize" : [
+      0.698,
+      0.392
+    ],
+    "SoftwareName" : "Presentation",
+    "SoftwareRRID" : "RRID:SCR_002521",
+    "SoftwareVersion" : "v 23.1 build 09.29.22"
+  }
+}

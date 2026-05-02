@@ -104,6 +104,12 @@ celerybeat.pid
 # Environments
 .env
 .venv
+
+# Local citation data (PDFs and converted Markdown) — not committed
+datasets/citations/
+
+# pytest cache directories
+pytest-cache-*/
 env/
 venv/
 ENV/

@@ -1,0 +1,22 @@
+{
+    "trial_type": {
+        "LongName": "Event category",
+        "Description": "Indicator of the type of auditory stimulus",
+        "Levels": {
+            "Condition_1": "Predictable High",
+            "Condition_2": "Predictable Low",
+            "Condition_3": "Mispredicted Low",
+            "Condition_4": "Mispredicted High",
+            "Condition_5": "Unpredictable High",
+            "Condition_6": "Unpredictable Low"
+        }
+    },
+    "button": {
+        "LongName": "Button Pressed",
+        "Description": "Inidicator of what button the subject responded with",
+        "Levels": {
+            "n/a": "no response made"
+            
+        }
+    }
+}

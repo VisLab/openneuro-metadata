@@ -1,0 +1,13 @@
+{
+  "CHANGES": "21c2901308030a96a340e71538cad17548cf6780",
+  "participants.json": "94daefd9f92cdc9424c4f1d6f1898dc280ec9ced",
+  "README": "0060811ab99415f48da21e47bc5b827bc4128837",
+  "participants.tsv": "60a69fad3d64f690f907de52db292a4fb68bea3d",
+  "task-wmgng_bold.json": "bf26e0671527cdb30f4cda2dbd19fef8ecc035d6",
+  "task-gng_bold.json": "80f4f673f2068ca20658a8819a094d9377e88806",
+  "dataset_description.json": "78abc25d3da35ae410b65722623d1837a15b59fd",
+  "sub-0108/ses-1/func/sub-0108_ses-1_task-gng_run-1_events.tsv": "138b3f2d807e0cfc8be342b410b1769846273d94",
+  "sub-0108/ses-1/func/sub-0108_ses-1_task-wmgng_run-2_events.tsv": "8cec167894c9fad7b3167b2ba3b49ae3c553cc8a",
+  "sub-0108/ses-1/func/sub-0108_ses-1_task-wmgng_run-1_events.tsv": "f2051c0406b0d01d3864e31c77423d70cf6ce413",
+  "sub-0108/ses-1/func/sub-0108_ses-1_task-gng_run-2_events.tsv": "cb62eba5f6c223e1068e2779298e8eea9dc27e8e"
+}

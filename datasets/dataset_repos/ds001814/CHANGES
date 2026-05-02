@@ -1,0 +1,9 @@
+1.0.7 2020-07-16
+  - OpenNeuro maintenance 
+1.0.6 2019-07-23
+  - Corrected slice timing, not SMS3 sequential, actually GRAPPA interleaved
+  - Corrected slice timing, not SMS3 sequential, actually GRAPPA interleaved
+1.0.5 2019-07-22
+  - fixed typo in bold json
+1.0.4 2019-07-22
+  - fixed slicetiming

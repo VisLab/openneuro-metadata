@@ -1,0 +1,21 @@
+{
+    "Name": "Different Doors",
+    "Authors": [
+        "Abigail Oloriz",
+        "Cameron D. Hassall"
+    ],
+    "License": "CC0",
+    "DatasetType": "raw",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007647.v1.0.0",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "EEG-BIDS",
+            "Version": "10.3"
+        }
+    ]
+}

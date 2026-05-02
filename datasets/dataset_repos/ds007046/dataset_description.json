@@ -1,0 +1,31 @@
+{
+    "Name": "Vision for action",
+    "GeneratedBy": [
+        {
+            "Name": "BIDScoin",
+            "Version": "4.0.0",
+            "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+        }
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Clemens G. Bartnik",
+        "Steven Scholte",
+        "Iris I.A. Groen"
+    ],
+    "Acknowledgements": "This work was supported by a Veni grant (VI.Veni.194030) from the Netherlands Organisation for Scientific Research to Iris I.A. Groen. We thank Steven Bommera and Nikolina Vukšića who helped collecting the data for the project.",
+    "HowToAcknowledge": "OPTIONAL. Instructions how researchers using this dataset should acknowledge the original authors. This field can also be used to define a publication that should be cited in publications that use the dataset",
+    "Funding": [
+        "VI.Veni.194030"
+    ],
+    "EthicsApprovals": [
+        "2020-EXT-12888"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1073/pnas.2414005122",
+        "https://osf.io/v3rcq/overview"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007046.v1.0.0"
+}

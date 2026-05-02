@@ -1,0 +1,63 @@
+{
+  "onset": {
+    "LongName": "Onset time",
+    "Description": "Onset of a block of images"
+    },
+
+    "duration": {
+      "LongName": "Duration",
+      "Description": "Total duration of visual stimulus or imagery epoch of a trial"
+      },
+
+      "trial_type": {
+        "LongName": "Event Block Condition",
+        "Description": "Describes whether the block of trials involves negative or neutral images",
+        "Levels": {
+          "1": "Negative Images Block",
+          "2": "Neutral Images Block"
+          }
+        },
+
+    "Image1": {
+      "LongName": "First Image",
+      "Description": "This is the first image presented in the block. The image duration is 2.5s. There is no inter stimulus interval. "
+    },
+
+    "Image2": {
+        "LongName": "Second Image",
+        "Description": "This is the second image presented in the block. The image duration is 2.5s. There is no inter stimulus interval. "
+        },
+
+        "Image3": {
+          "LongName": "Third Image",
+          "Description": "This is the third image presented in the block. The image duration is 2.5s. There is no inter stimulus interval. "
+        },
+
+        "Image4": {
+            "LongName": "Fourth Image",
+            "Description": "This is the Fourth image presented in the block. The image duration is 2.5s. There is no inter stimulus interval. "
+            },
+
+            "ImageOn1": {
+              "LongName": "First Image Onset",
+              "Description": "This is the onset time for the first image presented in the block. The image duration is 2.5s. There is no inter stimulus interval. "
+            },
+
+            "ImageOn2": {
+                "LongName": "Second Image Onset",
+                "Description": "This is the onset time for the second image presented in the block. The image duration is 2.5s. There is no inter stimulus interval. "
+                },
+
+                "ImageOn3": {
+                  "LongName": "Third Image Onset",
+                  "Description": "This is the onset time for the third image presented in the block. The image duration is 2.5s. There is no inter stimulus interval. "
+                },
+
+                "ImageOn4": {
+                    "LongName": "Fourth Image Onset",
+                    "Description": "This is the onset time for the Fourth image presented in the block. The image duration is 2.5s. There is no inter stimulus interval. "
+                    }
+
+
+
+}

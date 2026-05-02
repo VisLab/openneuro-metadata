@@ -1,0 +1,6 @@
+1.0.1 2026-03-11
+  - Restructure derivatives folder to include only outputs consistent with foundcog_preproc/ for all participants
+  - Upload betas for missing participants
+  - README Updates to include vcov threshold used for betas
+1.0.0 2025-11-03
+  - Initial upload

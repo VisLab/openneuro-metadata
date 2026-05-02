@@ -1,0 +1,10 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "TrioTim",
+	"ProcedureStepDescription": "MRRC_Research_SiteProtocols",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 7,
+	"EchoTime": 0.00277,
+	"RepetitionTime": 2.53,
+        "PulseSequenceType" : "T1-weighted 3D FLASH sequence"
+}

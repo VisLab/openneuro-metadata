@@ -1,0 +1,27 @@
+{
+    "Name": "NODEAP fMRI dataset",
+    "BIDSVersion": "1.9.0",
+    "License": "CC0",
+    "Authors": [
+        "Qingfang Liu",
+        "Daria Porter",
+        "Hadeel Damra",
+        "Yao Zhao",
+        "Joel L. Voss",
+        "Geoffrey Schoenbaum",
+        "Thorsten Kahnt"
+    ],
+    "Acknowledgements": "We thank all study participants and lab members for their contributions. This work was supported by National Institute on Deafness and Other Communication Disorders grant R01DC015426 (to T.K.) and the Intramural Research Program at the National Institute on Drug Abuse (ZIA DA000642 to T.K. and DA000587 to G.S.). This research was supported in part by the Intramural Research Program of the National Institutes of Health (NIH). The contributions of the NIH authors are considered Works of the United States Government. The findings and conclusions presented in this dataset are those of the authors and do not necessarily reflect the views of the NIH or the U.S. Department of Health and Human Services.",
+    "HowToAcknowledge": "Please cite our paper: Liu et al., 'Distinct contributions of anterior and posterior orbitofrontal cortex to outcome-guided behavior', *Current Biology* (in press). Add DOI when available.",
+    "Funding": [
+        "NIH NIDCD R01DC015426 (to T.K.)",
+        "NIH NIDA ZIA DA000642 (to T.K.)",
+        "NIH NIDA DA000587 (to G.S.)",
+        "Intramural Research Program of the NIH"
+    ],
+    "ReferencesAndLinks": [
+        "https://openneuro.org",
+        "https://bids.neuroimaging.io/"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006693.v1.2.0"
+}

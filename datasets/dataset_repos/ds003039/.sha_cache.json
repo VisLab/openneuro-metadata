@@ -1,0 +1,9 @@
+{
+  "README": "a980737d63807f03fc0824e5bd1d528fa94cb486",
+  "participants.json": "5e986cc60eb1b115ef2901e769362c7a66c86771",
+  "participants.tsv": "47c71f937d3c0b8909ddfcc5f800ddf56fd4ea7c",
+  "dataset_description.json": "65ad843fda4cccb8eff76917d0f36b039f7a5cf4",
+  "CHANGES": "de419feab12629a0166b088f7926fab1ded89fd4",
+  "sub-001/eeg/sub-001_task-neurCorrYoung_events.json": "7bf519c6aca7100ac55aa27169cc241cd60c3907",
+  "sub-001/eeg/sub-001_task-neurCorrYoung_events.tsv": "e32d63bf87459c3905a1dc195365ea728f1d1801"
+}

@@ -1,0 +1,29 @@
+{
+   "onset": {
+    "Description": "The starting time when the video stimulus begins to play during the scan."
+   },
+   "duration": {
+   "Description": "Duration of the stimulus."
+   },
+   "stim_file": {
+    "Description": "Label of the stimulus, where 0 represents aircraft A, 1 represents aircraft B, and n/a indicates no stimulus."
+   },
+   "stim_lable": {
+      "Description": "Filename of the stimulus image."
+     },
+     "levelOfOcclusion": {
+      "Description": "Stimulus type, where 0.1, 0.75, and 0.9 represent the image occlusion levels of 10%, 75%, and 90% respectively; n/a indicates no stimulus."
+     },
+    "stim_started": {
+    "Description": "The starting time when the video stimulus begins to play during the scan."
+   },
+   "stim_stopped": {
+   "Description": "The time when the video stimulus stops playing during the scan."
+   },
+   "key_time": {
+      "Description": "Time of key press."
+      },
+    "key_fix": {
+      "Description": " 1 indicates that the button was pressed when seeing picture."
+     }
+  }

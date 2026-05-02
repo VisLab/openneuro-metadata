@@ -1,0 +1,83 @@
+{
+  "onset": {
+    "Description": "Time from the beginning of the run when the event started, in seconds.",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "Duration of the event, in seconds.",
+    "Units": "seconds"
+  },
+  "F1": {
+    "Description": "Stimulus feature 1 value.",
+    "Units": "arbitrary units"
+  },
+  "F2": {
+    "Description": "Stimulus feature 2 value.",
+    "Units": "arbitrary units"
+  },
+  "F3": {
+    "Description": "Stimulus feature 3 value.",
+    "Units": "arbitrary units"
+  },
+  "F4": {
+    "Description": "Stimulus feature 4 value.",
+    "Units": "arbitrary units"
+  },
+  "F5": {
+    "Description": "Stimulus feature 5 value.",
+    "Units": "arbitrary units"
+  },
+  "F6": {
+    "Description": "Stimulus feature 6 value.",
+    "Units": "arbitrary units"
+  },
+  "F7": {
+    "Description": "Stimulus feature 7 value.",
+    "Units": "arbitrary units"
+  },
+  "F8": {
+    "Description": "Stimulus feature 8 value.",
+    "Units": "arbitrary units"
+  },
+  "F9": {
+    "Description": "Stimulus feature 9 value.",
+    "Units": "arbitrary units"
+  },
+  "F10": {
+    "Description": "Stimulus feature 10 value.",
+    "Units": "arbitrary units"
+  },
+  "cat": {
+    "Description": "Category label of the stimulus",
+    "Levels": {
+      "1": "Category 1",
+      "2": "Category 2"
+    }
+  },
+  "isold": {
+    "Description": "Whether the stimulus was in the training set (1 = old, 0 = new).",
+    "Levels": {
+      "0": "New stimulus",
+      "1": "Training stimulus"
+    }
+  },
+  "dist": {
+    "Description": "Distance from the category 1 prototype in feature space.",
+    "Units": "n features"
+  },
+  "rt": {
+    "Description": "Reaction time of the participant’s response, in seconds.",
+    "Units": "seconds"
+  },
+  "resp": {
+    "Description": "Button pressed by the participant.",
+    "Units": "n/a"
+  },
+  "correct": {
+    "Description": "Whether the response was correct (1 = correct, 0 = incorrect).",
+    "Levels": {
+      "0": "Incorrect response",
+      "1": "Correct response"
+    }
+  }
+}

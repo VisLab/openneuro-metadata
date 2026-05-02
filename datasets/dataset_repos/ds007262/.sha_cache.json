@@ -1,0 +1,11 @@
+{
+  "participants.tsv": "f5d13e1c9dfb4973ef429c9d10e01cf34f765e4a",
+  "CHANGES": "4807aa09faf7950dbecf8a21340771cd3f8c506f",
+  "task-arithmetic_eeg.json": "0ee55e0e92bf104adf49f4f4617d18a84a08f1f1",
+  "participants.json": "73910db3877f0b39daeda1b2eb498e7a3ff4134f",
+  "task-arithmetic_events.json": "63cda2c101a40f02a3a2e2e17d22b3633a99f8a9",
+  "dataset_description.json": "b34e2745274044ae7ad571192dc136df9a72c517",
+  "README.md": "13f1be71d00832274ae0b7166d9f442e02bb33dd",
+  "datacite.yml": "9968d49fa638a8b9a4f43aebd357f1ebcee439d7",
+  "sub-001/eeg/sub-001_task-arithmetic_events.tsv": "b1edd4227f3e2b6c32c5326060ccc418dfd35ab3"
+}

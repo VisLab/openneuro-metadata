@@ -1,0 +1,20 @@
+{
+    "Name": "Validation of Sleep Staging with Forehead EEG Patch",
+    "Authors": [
+        "Julie Onton",
+        "Sarah Mednick"
+    ],
+    "ReferencesAndLinks": [
+        "Onton, J. A., Simon, K. C., Morehouse, A. B., Shuster, A. E., Zhang, J., Peña, A. A., & Mednick, S. C. (2024). Validation of spectral sleep scoring with polysomnography using forehead EEG device. Frontiers in Sleep, 3, Article 1349537. https://doi.org/10.3389/frsle.2024.1349537"
+    ],
+    "License": "CC0",
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "EEG-BIDS",
+            "Version": "10.3"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006695.v1.0.2"
+}

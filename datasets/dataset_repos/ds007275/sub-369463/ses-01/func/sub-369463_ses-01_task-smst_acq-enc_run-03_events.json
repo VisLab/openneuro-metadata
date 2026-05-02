@@ -1,0 +1,23 @@
+{
+  "trial_type": "Type of trial: CLOSE, DISTANT, FILLER, REPEAT",
+  "stim_list": "Stimulus file identifier (concatenation of listno and list_version)",
+  "itemno": "Item number from the grand stimuli list",
+  "noun": "Noun of the stimulus",
+  "adjective": "Adjective of the stimulus",
+  "order": "Presentation order (FILLER coded as 1)",
+  "response": "Participant response",
+  "correctness": "Subsequent correctness of response",
+  "noun_freq": "Frequency of noun (Hungarian National Corpus)",
+  "noun_char": "Number of characters in noun",
+  "noun_syll": "Number of syllables in noun",
+  "noun_phon": "Number of phonemes in noun",
+  "adj_freq": "Frequency of adjective (Hungarian National Corpus)",
+  "adj_char": "Number of characters in adjective",
+  "adj_syll": "Number of syllables in adjective",
+  "adj_phon": "Number of phonemes in adjective",
+  "arousal": "Arousal rating of the word combination",
+  "concreteness": "Concreteness rating of the word combination",
+  "imageability": "Imageability rating of the word combination",
+  "meaningfulness": "Meaningfulness rating of the word combination",
+  "cosine": "Cosine similarity to the first presentation"
+}

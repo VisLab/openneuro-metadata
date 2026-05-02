@@ -1,0 +1,22 @@
+{
+    "onset": {
+        "Description": "onset of timing"
+    },
+    "duration": {
+        "Description": "duration of trial"
+    },
+    "trial_type": {
+        "Description": "type of trial",
+        "Levels": {
+            "fixation_cross" : "Rest condition",
+            "instruction" : "Instruction to read",
+            "watch_static_bars" : "Watch a static bar", 
+            "control_moving_bars" : "Control condition with moving bars",
+            "watch_moving_bars" : "Watch a moving bar",
+            "rating" : "Rating of self-perceived effort"  
+        }
+    },
+    "rating": {
+        "Description": "Value of self-perceived effort"
+    }
+}

@@ -1,0 +1,8 @@
+1.1.0 2022-05-21
+  - added minimally processed data for participants with task data (n = 7; derivatives directory)
+1.0.2 2022-05-12
+  - added event files
+1.0.1 2022-05-02
+  - added non-task imaging data for 8th participant
+1.0.0 2022-04-18
+  - Initial release

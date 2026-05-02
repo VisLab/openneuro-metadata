@@ -1,0 +1,8 @@
+1.1.1 2026-01-21
+  - Added pain ratings and other related variables collected at some sessions to the 'phenotype' folder
+  - Added acquisition time to the *_sessions.tsv and *_scans.tsv files
+  - Note: v1.1.0 and v1.0.0 are identical due to a mistake in updating the dataset, v.1.1.1 has the actual intended changes
+1.1.0 2026-01-19
+  - - Added acquisitions time, pain ratings and other related variables where applicable to _sessions.tsv and _scans.tsv files
+1.0.0 2025-11-25
+  - Initial version

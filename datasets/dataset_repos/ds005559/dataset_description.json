@@ -1,0 +1,24 @@
+{
+    "Name": "Item and spatial pattern separation",
+    "BIDSVersion": "1.4.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Zsuzsanna Nemecz",
+        "Attila Keresztes"
+    ],
+    "Acknowledgements": "We thank Eszter Somogyi, Virág Anna Varga, Hunor Kis, and Bodócs Dóra for their assistance in data collection, and István Homolya for his work in creating the MRI sequences. ",
+    "HowToAcknowledge": "Please cite this paper: \nZsuzsanna Nemecz, István Homolya, Alex Ilyés, Hunor Kis, György Mező, Virág Anna Varga, Markus Werkle-Bergner, Attila Keresztes; fMRI signals of pattern separation in the neocortex and hippocampus to non-meaningful objects and their spatial location. Imaging Neuroscience 2026; 4 IMAG.a.1088. doi: https://doi.org/10.1162/IMAG.a.1088",
+    "Funding": [
+        "Hungarian National Research, Development and Innovation Office (FK128648)",
+        "HUN-REN (grant 0708-21 515 AT)"
+    ],
+    "EthicsApprovals": [
+        " Ethical Committee of the Medical Research Council, Hungary (ethics approval number: OGYÉI/28291-2/2020)"
+    ],
+    "ReferencesAndLinks": [
+        "https://www.attilakeresztes.com/",
+        "OSF: https://osf.io/5azjk/?view_only=93849d7075374aad8dfce5b6c69e4e8a"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005559.v2.0.1"
+}

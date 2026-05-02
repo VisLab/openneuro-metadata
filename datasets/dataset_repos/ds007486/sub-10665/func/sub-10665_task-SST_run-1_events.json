@@ -1,0 +1,34 @@
+{
+  "onset": {
+    "LongName": "Event onset",
+    "Description": "Onset time of the event in seconds relative to the start of the recording",
+    "Units": "s"
+  },
+  "duration": {
+    "LongName": "Event duration",
+    "Description": "Duration of the event",
+    "Units": "s"
+  },
+  "trial_type": {
+    "LongName": "Trial and outcome type",
+    "Description": "Type of trial and outcome in the Stop Signal Task",
+    "Levels": {
+      "go_correct": "Go trial with correct response",
+      "go_incorrect": "Go trial with incorrect response",
+      "go_miss": "Go trial with no response",
+      "stop_success": "Stop trial with successful inhibition",
+      "stop_failure": "Stop trial with failed inhibition",
+      "fixation": "Fixation period"
+    }
+  },
+  "response_time": {
+    "LongName": "Response time",
+    "Description": "Reaction time in seconds (n/a for missed trials and fixations)",
+    "Units": "s"
+  },
+  "ssd": {
+    "LongName": "Stop signal delay",
+    "Description": "Delay between go stimulus and stop signal in milliseconds (n/a for go trials)",
+    "Units": "ms"
+  }
+}

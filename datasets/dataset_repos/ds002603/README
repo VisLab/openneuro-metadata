@@ -1,0 +1,17 @@
+This 3T fMRI dataset was collected in order to evaluate different multiband sequences at the Spinoza Centre for Neuroimaging (location REC, Amsterdam, The Netherlands).
+
+## Contents
+Each subject contains data from one session, in which a single working memory task was performed with different EPI sequences, indicated by the `acq` identifier:
+* SeqMm3Tr2000: sequential (non-multiband) EPI, spatial resolution 3 mm. isotropic, TR of 2000 ms.;
+* Mb4Mm2Tr1600: ultiband factor 4 EPI, spatial resolution 2 mm. isotropic, TR of 1600 ms.;
+* Mb4Mm27Tr700: multiband factor 4 EPI, spatial resolution 2.7 mm. isotropic, TR of 700 ms.;
+* Mb4Mm3Tr550: multiband factor 4 EPI, spatia resolution 3 mm. isotropic, TR of 550 ms.
+
+Each subject contains two T1-weighted anatomical scans (one with axial slices, one saggital), one T2-weighted anatomical scans, a phase-difference fieldmap, four BOLD fMRI runs (corresponding to the four acquisition types listed above), and corresponding reverse-polarity ("topup") scans (to potentially compare B0-fieldmap based and topup-based unwarping). Additionally, physiology (*_physio.tsv.gz) is included for each corresponding BOLD fMRI run (converted from the Philips "SCANPHYSLOG" file using the "scanphyslog2bids" package; https://github.com/lukassnoek/scanphyslog2bids).
+
+## Anonymity
+In accordance with regulations from the University of Amsterdam, several precautions for participant anonymity were taken.
+1. The informed consents signed by all participants contained a statement that their data could be shared with third parties;
+2. No mapping from personal data (name, address, etc.) and subject identifier (e.g., sub-01) exists (and, in fact, never existed in the first place);
+2. All structural data (T1-weighted scans) were defaced (using `pydeface`; https://github.com/poldracklab/pydeface);
+3. Subject identifiers (sub-xx) were randomly shuffled

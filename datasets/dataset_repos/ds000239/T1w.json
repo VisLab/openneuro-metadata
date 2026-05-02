@@ -1,0 +1,14 @@
+{
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "MR750",
+	"ScanningSequence": "accelerated sagittal 3D IR-SPGR",
+	"SeriesDescription": "T1_.8x.8x.8_224Slices",
+	"BodyPartExamined": "HEAD",
+	"ProtocolName": "ADNI",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND", "NORM"],
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 11,
+	"EchoTime": 0.003,
+	"RepetitionTime": 0.0073,
+	"InversionTime": 0.4
+}

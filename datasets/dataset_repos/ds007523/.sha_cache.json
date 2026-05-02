@@ -1,0 +1,19 @@
+{
+  "CHANGES": "13dac4d9c6a4f452615fa78b36c41b9cddf11b63",
+  "dataset_description.json": "2e498f2a4514fbf1f0be621ebe315b94ddc0cf34",
+  "task-listen_events.json": "dbad7ec4a4303a8261848a1590fefde18b3a240f",
+  "participants.json": "c802b68778cf21a1fe791c4fa64e92f41d377e19",
+  "datacite.yml": "8e64fd23629c7e01a51ab3088b086da969bba201",
+  "participants.tsv": "b1ad9d1d008e9f0a16e957dc7475837b7bffbf1b",
+  "README": "b91be065084be8fa572256378bbf44eea480a0a1",
+  "LICENSE": "609ebe2f3b08cd5f1cbeeeaa0758984ffc5da7b1",
+  "sub-01/ses-01/meg/sub-01_ses-01_task-listen_run-01_events.tsv": "ed71e544f5c36bb757af2c73908765130f38943d",
+  "sub-01/ses-01/meg/sub-01_ses-01_task-listen_run-06_events.tsv": "100cc49e10037e044b8f717f5e3309ce728c3753",
+  "sub-01/ses-01/meg/sub-01_ses-01_task-listen_run-08_events.tsv": "a56975e003d35864a2dae7b0a38ddf648f9ad3ef",
+  "sub-01/ses-01/meg/sub-01_ses-01_task-listen_run-07_events.tsv": "756706ef2113e328924af4a67d90b079c5bbaea5",
+  "sub-01/ses-01/meg/sub-01_ses-01_task-listen_run-04_events.tsv": "a357001d5f9105c339777a53fd05d0ca5b2b3a25",
+  "sub-01/ses-01/meg/sub-01_ses-01_task-listen_run-03_events.tsv": "ee7b1c9f712931137bc3ee9a45027495e95cf2cf",
+  "sub-01/ses-01/meg/sub-01_ses-01_task-listen_run-05_events.tsv": "a7b092cef09b337c3bcf2e77c063343f00e42669",
+  "sub-01/ses-01/meg/sub-01_ses-01_task-listen_run-02_events.tsv": "18bb1a3173d6cdf7930ff5c1cab197d0223d8f18",
+  "sub-01/ses-01/meg/sub-01_ses-01_task-listen_run-09_events.tsv": "bc27c52cac5e1938fe7ab022b604c3c91ff04b89"
+}

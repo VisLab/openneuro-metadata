@@ -1,0 +1,32 @@
+{
+    "sub": {
+        "LongName": "Subject ID",
+        "Description": "Subject identification number"
+    },
+
+    "onset": {
+        "LongName": "Stimulus onset",
+        "Description": "Stimulus onset time (in seconds)"
+    },
+    "duration": {
+        "LongName": "Stimulus duration",
+        "Description": "Stimulus duration (in seconds)"
+    },
+    "trial_type": {
+        "LongName": "Trial type",
+        "Description": "Frequency condition: the number of times the participant previously viewed the stimulus"
+
+    },
+    "stim": {
+        "LongName": "Stimulus",
+        "Description": "The stimulus that appeared on the screen"
+    },
+    "response": {
+        "LongName": "Response",
+        "Description": "The button the participant pressed, which corresponds to how many times they believed they previously viewed the stimulus (1 - 7)"
+    },
+    "response_time": {
+        "LongName": "Response Time",
+        "Description": "Response time (seconds)"
+    }}
+

@@ -1,0 +1,31 @@
+### Related Files
+Behavioral data, related code, and stimuli used can be found at OSF: https://osf.io/hrfv7/.
+
+### Exclusion list
+Participants 1-5: pilot participants ID.
+
+Participant 14: excluded for squeezing emergency ball while in the scanner.
+
+Participant 30: excluded because the participant stopped the scan after round 7.
+
+Participant 34: excluded because the participant stopped the scan after Round 2.
+
+Participant 13 20 23 24 27: excluded because not meeting pre-determined behavioral threshold.
+
+### fMRI data notes
+sub-MONSTERA01 to sub-MONSTERA05 are pilot subjects with modifications in study design. Therefore they are removed from the online dataset.
+
+2022/03/06: sub-MONSTERA03 round03 accidentically started directly right after task2. Removed the extra EPI scans with only 2 time frames.
+rm sub-MONSTERA03/func/sub-MONSTERA03_task-03_run-14_bold.*
+rm sub-MONSTERA03/func/sub-MONSTERA03_task-03_run-13_sbref.*
+
+2022/04/22: sub-MONSTERA07 has two T2s because the first T2 (sub-MONSTERA07_run-06_T2w) is really blurry. An extra T2 (sub-MONSTERA07_run-29_T2w) was collected at the end of the scan.
+
+2022/09/14: sub-MONSTERA18 has two EPI02 because the first EPI02 was started accidentially. It was ended after 13 timpoints. No sitmulus was shown to the subjects. DCMs are copied from lcni folder and Series 11 and 12 was deleted manually.
+
+2022/10/22: sub-MONSTERA26 has two EPI01 because the subject squeezed the emergency squeeze ball for feeling uncomfortable at the very beginning of Round 1 (15 frames). Series_7_EPI_01_SBRef and Series_8_EPI_01 was deleted manually. 
+
+2022/11/29: sub-MONSTERA29's round2 was removed because it paused in the middle of the scan.
+
+2023/05/02: sub-MONSTERA50 has two T2s because The first T2 was a bit blurry, although the hippocampal segmentation was still visible. An extra T2 was colected at the end of the scan. 
+

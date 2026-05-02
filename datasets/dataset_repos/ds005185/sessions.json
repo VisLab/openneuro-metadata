@@ -1,0 +1,8 @@
+{
+    "sessionNumber": {
+        "description": "Number of recording"
+    },
+    "sessionStartTime": {
+        "description": "Time of recording start, in days since jan-1 year 0"
+    }
+}

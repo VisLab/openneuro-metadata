@@ -1,0 +1,71 @@
+## Sample
+
+We used a cross-sectional group of 16 volunteers from both sexes (8
+female, 8 male) with an average age of 25 years, recruited at UNAM
+campus Juriquilla from October 2019 to June 2020. Participants were
+briefly interviewed to exclude those previously diagnosed with
+neurological or psychiatric conditions. With the exception of one male
+subject, all of them reported having right-handed phenotype. Prior to
+the study, subjects formally consented to participating after being
+informed of its aims, risks and procedures — in accordance with the
+1964 Declaration of Helsinki.
+
+## Image acquisition
+
+Images were obtained from a 3-Tesla General Electric Discovery MR750
+scanner at the MR Unit at UNAM's Institute of Neurobiology, during a
+single session per participant. The protocol included 5 echo-planar
+imaging (EPI) blood-oxygen level-dependent (BOLD) sequences for fMRI,
+185 volumes each. A T1-weighted scan of head anatomy was also
+acquired, in addition to a 10-minutes long _resting state_ fMRI before
+the task. Sequence parameters are described in the table.
+Echos were registered using a head-mounted 32-channel coil.
+
+| Parameter | EPI BOLD | T1w FSPGR | T2w FSE |
+|----------------|--------------:|-----------------:|------------:|
+| Slice orientation  | Axial | Axial or sagital | Axial |
+| Slices             | 35 | 176 | 35 |
+| Field of view      | 64×64     | 256×256 | 512x512 |
+| Voxel size         | (4 mm)^3 | (1 mm)^3 | (.5x.5x.4 mm^3) |
+| Flip angle         | pi / 2      | 3*pi / 45 | 7*pi / 9 |
+| TR (ms)            | 2000  | 8.18 | 6255 |
+| TE (ms)            | 30    | 3.19 | 101.4 |
+| TInv (ms)          |         | 450 | |
+
+## Stimuli and task
+
+Each of the 5 fMRI sequences was temporally coupled to a psychological
+block-based task implemented in PsychoPy 3.0.1. All 5
+tasks were identical, save for the pseudo-random order in which their
+30 s blocks were administered. A total of 6 block classes were used:
+happy faces, sad faces, angry faces, neutral faces, pseudo (scrambled)
+faces and low-stimulation (dim).
+
+Pseudo-faces and dim blocks were introduced so as to buttress and
+diagnose the analysis pipeline, by way of more trivial contrasts (like
+pseudo-faces vs low-stimulation and faces vs pseudo-faces).
+
+Each block in turn comprises 10 randomly-presented images belonging to
+that class, each one shown for about 3 seconds and without possibility
+of reinstantiation during the same block. Each block occurs twice per
+sequence, yielding a total of 12 of them (360 s = 6 min). After their
+presentation, participants had to wait for 10 seconds before
+concluding the sequence, in order to capture the hemodynamic response
+(HR) elicited by the last stimuli. A selection of 10 grayscale
+photographs per category of frontal human faces (male and female)
+served as stimuli. These were chosen from the classical "Pictures of
+Facial Affect" database (Ekman, 1976). As for the low-stimulation
+(a.k.a. "dim") blocks, a small but visible fixation cross was made
+fluctuate from quadrant to quadrant at random every 3 seconds.
+
+Additionally, behavioral responses were recorded throughout the task
+in order to measure performance and thus evaluate the suitability of
+physiological data for further analysis. Participants were instructed
+at the beginning of every sequence to indicate whether faces belonged
+to a man or a woman as soon as they were perceived. The response was
+submitted with the press of a button — one at each hand. Analogously,
+for scrambled and dim blocks (when no faces should have been
+perceived), the instruction was to simply report image change,
+alternating between buttons.
+
+Task files and responses available [here](https://github.com/isacdaavid/emotional-faces-psychopy-task).

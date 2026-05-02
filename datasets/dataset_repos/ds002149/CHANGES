@@ -1,0 +1,10 @@
+1.0.5 2019-10-27
+  - FIX: Fixed typo that caused two tasks to appear in dataset description
+1.0.4 2019-09-11
+  - Updated Citation
+1.0.3 2019-08-25
+  - FIX: Fixed embarrassing typo
+1.0.2 2019-08-25
+  - New Version to fix Openneuro Error
+1.0.1 2019-08-25
+  - Cleaned up Readme and added citation

@@ -1,0 +1,50 @@
+README for OpenfMRI dataset ds000164
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+- In the events files, all the events have a duration of 1 seconds. This was the actual 
+length of the events. However, in their models, the authors used a duration equal to one TR 
+length (1.5s).
+
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure 
+deindentification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+
+Quality Control
+---------------
+We are having difficulties running MRIQC and have not included the results in this 
+revision. These should be present in the next revision.
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds******/ See the comments 
+section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with 
+the tags openfmri and dsXXXXXX
+accession number.
+3) Send an email to submissions@openfmri.org. Please 
+include the dsXXXXXX accession number in
+your email.
+
+
+Known Issues
+------------
+The header information for the functional files conflicts with the information provided in the manuscript (.e.g., the voxel size is 3.2 mm × 3.2 mm × 4 mm in the manuscript but 3.5 mm isotropic in the header). The acquired voxel size was 3.5mm isotropic.
+
+Bids-validator Output
+---------------------
+
+This dataset appears to be BIDS compatible.
+        Summary:                Available Tasks:        Available Modalities:
+        89 Files, 1.57GB        Stroop Task             T1w
+        28 - Subjects                                   bold
+        1 - Session
+

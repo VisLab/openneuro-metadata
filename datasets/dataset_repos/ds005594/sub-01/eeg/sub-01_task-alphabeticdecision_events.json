@@ -1,0 +1,54 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event from the beginning of the first datapoint. Negative onsets account for events before the first stored data point.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event in seconds from onset. Must be zero, positive, or 'n/a' if unavailable. A zero value indicates an impulse event. ",
+        "Units": "s"
+    },
+    "sample": {
+        "Description": "The event onset time in number of sampling points.First sample is 0."
+    },
+    "value": {
+        "Description": "The event code (also known as trigger code or event ID) associated with the event. (Generated via MNE-BIDS via annotations; not the original trigger values.)"
+    },
+    "trial_type": {
+        "Description": "The type, category, or name of the event.",
+        "levels": {
+            "target": "false-font target character",
+            "nontarget": "real-font non-target character",
+            "BAD_break": "break periods",
+            "keypress": "recorded responses (space bar)",
+            "BAD_keypress": "periods around keypresses"
+        }
+    },
+    "stimulus": {
+        "Description": "Character presented to the participant (or the false-font equivalent if a false-font target)."
+    },
+    "target": {
+        "Description": "If the event is a stimulus, this column records whether the stimulus is a target or not. If not a stimulus, will have value n/a.",
+        "levels": {
+            "0": "non-target stimulus",
+            "1": "target stimulus"
+        }
+    },
+    "blank_jitter_frames": {
+        "Description": "The number of frames for the random interval of the jittered blank period.",
+        "Units": "count"
+    },
+    "accuracy": {
+        "Description": "If a trial, and the participant responded, whether the response was correct. If not a stimulus, or the participant did not respond, will have value of n/a.",
+        "levels": {
+            "0": "incorrect",
+            "1": "correct"
+        }
+    },
+    "response_time": {
+        "Description": "If a trial, and the participant responded, the response time (from stimulus presentation to keypress). If not a stimulus, or the participant did not respond, will have value of n/a. These values were recorded via Psychopy, whereas keypress events in other rows were recorded via less precise triggers.",
+        "Units": "s"
+    },
+    "block": {
+        "Description": "If a trial, the block number to which the trial belongs. If not a block, will have value n/a."
+    }
+}

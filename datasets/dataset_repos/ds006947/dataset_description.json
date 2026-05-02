@@ -1,0 +1,44 @@
+{
+    "Name": "Dense complex-valued partial brain BOLD of passive audiovisual movie presentations",
+    "BIDSVersion": "1.10.0",
+    "License": "CC0",
+    "Authors": [
+        "J. Michael Tyszka",
+        "Zachary Diamandis",
+        "Umit Keles",
+        "Yue Xu",
+        "Na Yeon Kim",
+        "Wenying Zhu",
+        "Qianying Wu",
+        "David A. Kahn",
+        "Ralph Adolphs"
+    ],
+    "Acknowledgments": "This project was funded in part by a grant from the T&C Chen Center for Social and Decision Neuroscience at Caltech",
+    "HowToAcknowledge": "Pending",
+    "Funding": [
+        "T&C Chen Center for Social and Decision Neuroscience Award, 2020"
+    ],
+    "EthicsApprovals": [
+        "Caltech Institutional Review Board (IRB) approval for human subjects research (Protocol IR21-1176)"
+    ],
+    "ReferencesAndLinks": [
+        "https://openneuro.org/datasets/ds006947/"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006947.v1.0.1",
+    "DatasetType": "raw",
+    "GeneratedBy": [
+        {
+            "Name": "slabpreproc",
+            "Version": "2024.12.4"
+        },
+        {
+            "Name": "FreeSurfer",
+            "Description": "7.2.0"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "https://openneuro.org/datasets/ds006578"
+        }
+    ]
+}

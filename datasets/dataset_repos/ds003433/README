@@ -1,0 +1,5 @@
+Please see www.newbi4fmri.com for details.
+
+Each subject has two localizer runs except for sub-16, which has only one.
+
+Subject numbers are mapped across the newbi4fmri datasets uploaded in December 2020. For example, sub-01 in the localizer is also sub-01 in the main experiment. For this reason, some datasets do not contain continuous subject numbers.

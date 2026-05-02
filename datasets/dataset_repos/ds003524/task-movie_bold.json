@@ -1,0 +1,35 @@
+{
+  "BodyPartExamined": "BRAIN",
+  "CogAtlasID": "http://www.cognitiveatlas.org/task/id/tsk_jbg1oF4D9OTkO/",
+  "ConversionSoftware": "dcm2niix",
+  "EchoTime": 0.030,
+  "FlipAngle": 75,
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "FMRI",
+    "NONE",
+    "ND",
+    "NORM",
+    "MOSAIC"
+],
+  "InstitutionAddress": "Maynard_3_Hanover_NH_US_03755",
+  "InstitutionName": "Dartmouth_College_-_PBS",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Philips",
+  "ManufacturersModelName": "Achieva",
+  "Modality": "MR",
+  "ParallelReductionFactorInPlane": 2,
+  "ParallelAcquisitionTechnique": "SENSE",
+  "PhaseEncodingDirection": "j-",
+  "ReceiveCoilName": "SENSE_32",
+  "ReconMatrixPE": 80,
+  "RepetitionTime": 2,
+  "ScanningSequence": "EP",
+  "TaskName": "movie",
+  "dcmmeta_shape": [
+  80,
+  80,
+  40
+  ]}
+

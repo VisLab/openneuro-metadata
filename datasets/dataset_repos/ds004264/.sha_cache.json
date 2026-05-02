@@ -1,0 +1,9 @@
+{
+  "CHANGES": "ad8de6b70ee9c023e89f61abcacbb38d0e8b0367",
+  "dataset_description.json": "34493c2ae9388e4611a3a252dce0ffa5fa4438c5",
+  "participants.json": "2f15a3982c53b9854fa560aaa4910cd3fd9a7fb7",
+  "participants.tsv": "4ae61eacc0397e6535477731014949aa58c55978",
+  "README": "64ac8632432b842b8d31ce62dda81d64b84b4613",
+  "sub-01/eeg/sub-01_task-steertheship_events.json": "3d4c0bc3729ea1a325eff67b37198dc4a4a88522",
+  "sub-01/eeg/sub-01_task-steertheship_events.tsv": "e96038d096b68c1f696e727337dd017cd7ba21bc"
+}

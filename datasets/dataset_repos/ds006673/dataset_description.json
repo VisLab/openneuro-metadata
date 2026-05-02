@@ -1,0 +1,29 @@
+{
+    "Name": "ball_squeeze_Carlton_2025",
+    "BIDSVersion": "1.8.0",
+    "License": "CC0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Laura B. Carlton",
+        "Miray Altinkaynak",
+        "Shannon Kelley",
+        "Bernhard Zimmerman",
+        "Sreekanth Kura",
+        "Eike Middell",
+        "Alexander von Luhmann",
+        "Meryem A. Yucel",
+        "David A. Boas"
+    ],
+    "Acknowledgements": "Enter acknowledgements here (e.g., funding sources, institutions).",
+    "HowToAcknowledge": "Provide details on how to cite or acknowledge this dataset.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006673.v1.0.2",
+    "Funding": [
+        "Enter funding details here, if applicable."
+    ],
+    "EthicsApprovals": [
+        "Boston University IRB 4502"
+    ],
+    "ReferencesAndLinks": [
+        "Enter references or related links here, if applicable."
+    ]
+}

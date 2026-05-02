@@ -1,0 +1,30 @@
+{
+    "trial_type": {
+        "LongName": "Trial type",
+        "Description": "Indicates whether a trial showed a THINGS image (exp), a repeated test image (test), or a catch image (catch)"
+    },
+    "file_path": {
+        "LongName": "File path",
+        "Description": "Gives path to image file in the THINGS database (e.g. /dog/dog_12s.jpg)"
+    },
+    "things_category_nr": {
+        "LongName": "THINGS category number",
+        "Description": "Index of category in the THINGS database (1-1854)"
+    },
+    "things_exemplar_nr": {
+        "LongName": "THINGS exemplar number",
+        "Description": "Index for the exemplar of a given category in the THINGS database (1-12)"
+    },
+    "test_image_nr": {
+        "LongName": "Test image number",
+        "Description": "index of test image (1-100). Is <NULL> for non-test images"
+    },
+    "category_nr": {
+        "LongName": "Category number",
+        "Description": "Running index of all unique object categories shown in the fMRI experiment (1-721 where nmber 721 is a always a catch trial)"
+    },
+    "exemplar_nr": {
+        "LongName": "Exemplar number",
+        "Description": "Exemplar number of a given category shown in MRI (refers to category_nr)."
+    }
+}

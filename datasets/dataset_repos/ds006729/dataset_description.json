@@ -1,0 +1,20 @@
+{
+    "Name": "R01_Neuromuscular_Signature_Pilot",
+    "BIDSVersion": "1.0.2",
+    "Authors": [
+        "V. Oliva",
+        "S. Bédard",
+        "K.A. Weber II"
+    ],
+    "Funding": [
+        "National Institute of  Neurological Disorders and Stroke (grant numbers K23NS104211, L30NS108301, R01NS128478, and K24NS126781)"
+    ],
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1162/IMAG.a.159"
+    ],
+    "EthicsApprovals": [
+        "Stanford University’s Institutional Review Board"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006729.v1.0.0"
+}

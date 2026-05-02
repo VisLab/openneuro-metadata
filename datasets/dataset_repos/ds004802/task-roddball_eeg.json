@@ -1,0 +1,18 @@
+{
+    "TaskName": "RovingOddball",
+    "TaskDescription": "Roving oddball task with face stimuli with either happy, angry, or neutral facial expression. To keep participants engaged, 10% of trials contained a red fixation cross. Participants were instructed to press the space bar when they noticed the red cross.",
+    "SamplingFrequency": 1000,
+    "ManufacturersModelName": "Biosemi",
+    "CapManufacturersModelName": "Biosemi",
+    "EEGReference": "Cz",
+    "PowerLineFrequency": 50,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": {
+        "Lowpass": {
+            "Hz": "n/a"
+        },
+        "Highpass": {
+            "Hz": "n/a"
+        }
+    }
+}

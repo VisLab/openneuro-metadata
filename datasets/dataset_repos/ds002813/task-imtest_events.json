@@ -1,0 +1,33 @@
+{
+    "trial_type": {
+        "LongName": "Trial type",
+        "Description": "Which category item belongs to, 1=category 1, 2 = category 2"
+    },
+    "response": {
+        "LongName": "Participant response",
+        "Description": "1=category 1, 2 = category 2, nan = no response"
+    },
+    "correct": {
+        "LongName": "Correctness of participant response",
+        "Description": "1=correct, 0 = incorrect or no response"
+    },
+    "prot1distance": {
+        "LongName": "Distance from category 1 prototype",
+        "Description": "Number of features differing from category 1 prototype",
+        "Units": "Number of features (0-8)"
+    },
+    "trainitem": {
+        "LongName": "Training items",
+        "Description": "1 = is an old training item, 0 = is a new generalization item"
+    },
+    "exemplar": {
+        "LongName": "Exemplar model prediction",
+        "Description": "Summed similarity generated from exemplar model",
+        "Units": "Summed similarity across categories 1 & 2"
+    },
+    "prototype": {
+        "LongName": "Prototype model prediction",
+        "Description": "Summed similarity generated from prototype model",
+        "Units": "Summed similarity across categories 1 & 2"
+    }
+}

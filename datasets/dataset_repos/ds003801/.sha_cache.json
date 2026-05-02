@@ -1,0 +1,9 @@
+{
+  "participants.tsv": "d8c3a81e4f0c4490bd094b2995dd1bddac168e31",
+  "CHANGES": "27b27737ae385c7c4dc4a10c011e51fe7286e48b",
+  "participants.json": "5e986cc60eb1b115ef2901e769362c7a66c86771",
+  "dataset_description.json": "1fb6dcad35d8223c9d5e1d8937a44a884b970f36",
+  "README": "e7a32c003e99514c657f754e03cb4e4625f16185",
+  "sub-001/eeg/sub-001_task-NeuralTrackingToGo_events.json": "3078215817f361fe374bec385167a5098d1a3553",
+  "sub-001/eeg/sub-001_task-NeuralTrackingToGo_events.tsv": "535d7ae63334ec608ee0dc2de56db60cd47d362e"
+}

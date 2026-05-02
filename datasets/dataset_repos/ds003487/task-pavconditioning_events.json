@@ -1,0 +1,11 @@
+{
+    "trial": {"Description" : "Counting number of trial"},
+    "condition": {"Description" : "Which condition: CS+, CS-, Baseline or None"},
+    "liking_ratings": {"Description" : "Liking rating for the trial"},
+    "reaction_times": {"Description" : "Reaction time to detect target in ms"},
+    "accuracy": {"Description" : "Right response = 1, Wrong response = 0"},
+    "rounds":{"Description" : "Which roud of presentation"}
+   
+   }
+
+				

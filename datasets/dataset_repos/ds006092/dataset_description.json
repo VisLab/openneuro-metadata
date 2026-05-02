@@ -1,0 +1,22 @@
+{
+    "Name": "CogRief Study",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Andrea Redondo-Armenteros",
+        "Manuel Fernández-Alcántara",
+        "Francisco Cruz-Quintana",
+        "Rodrigo Fernández-López",
+        "José Luis Martín-Rodríguez",
+        "Mary-Frances O’Connor",
+        "María Nieves Pérez-Marfil"
+    ],
+    "Funding": [
+        "Ministerio de Ciencia, Innovación y Universidades (MICIU/AEI/10.13039/501100011033) under Grant PID2020-119063RB-I00"
+    ],
+    "EthicsApprovals": [
+        "Human Research Ethics Committee of the University of Granada (2328/CEIH/2021)"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006092.v1.0.0",
+    "License": "CC0"
+}

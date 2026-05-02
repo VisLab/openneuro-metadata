@@ -1,0 +1,9 @@
+{
+  "participants.tsv": "f6f4c61e3b1faec0418d1fc8e3ed7403a5c4ea53",
+  "CHANGES": "081c50228a2d9c9374e044b0493a8f227206bdc1",
+  "dataset_description.json": "c546d0baf1bf1b1c37bbfe9f80537bd04b085991",
+  "sub-01/meg/sub-01_task-MEM_run-04_events.tsv": "cba5118d1dcb063f4181a5e9e09fdbd9e86c5796",
+  "sub-01/meg/sub-01_task-MEM_run-03_events.tsv": "8d3180bd9d12db4a1793c90afc26e57509034d35",
+  "sub-01/meg/sub-01_task-MEM_run-01_events.tsv": "f785dd357eb4aac3321e0c63b2a04e8db7109c58",
+  "sub-01/meg/sub-01_task-MEM_run-02_events.tsv": "c92837f84bb34c7da860bf1730df1eb64909f540"
+}

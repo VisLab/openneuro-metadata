@@ -1,0 +1,25 @@
+{
+  "onset": {
+    "LongName": "Event onset",
+    "Description": "Time from the beginning of the scan when the event starts, in seconds",
+    "Units": "seconds"
+  },
+  "duration": {
+    "LongName": "Event duration",
+    "Description": "Length of the event in seconds",
+    "Units": "seconds"
+  },
+  "trial": {
+    "LongName": "Trial number",
+    "Description": "Identifier for the trial number"
+  },
+  "category": {
+    "LongName": "Stimulus category",
+    "Description": "Category of the stimulus presented in the trial",
+    "Levels": {
+      "Scene": "Scene trial",
+      "Face": "Face trial",
+      "Object": "Object trial"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "Acknowledgements": "Thank you to all participants",
+    "Authors": [
+        "Taehyun Yoo",
+        "Hyeon-Ae Jeon"
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006628.v1.0.1",
+    "Funding": [],
+    "HowToAcknowledge": "Please cite the corresponding publication.",
+    "License": "CC0",
+    "Name": "Cross-Modal Hierarchical Control",
+    "ReferencesAndLinks": [],
+    "DatasetType": "raw",
+    "GeneratedBy": [
+        {
+            "Name": "HeuDiConv",
+            "Version": "1.1.1"
+        }
+    ]
+}

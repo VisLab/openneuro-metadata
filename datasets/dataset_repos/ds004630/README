@@ -1,0 +1,10 @@
+This dataset contains raw and derived fMRI data from the image viewing task of the study: "SpiDa-MRI, behavioral and (f)MRI data of adults with fear of spiders" (preprint doi: https://doi.org/10.1101/2024.02.07.578564).
+
+In this study, we aim to gain a better understanding of how spider-phobic individuals perceive spider-related stimuli. Brain imaging data were recorded from 49 participants while they viewed spider-related images. For each participant, one anatomical scan, one before and one after resting state scan and five passive viewing scans were collected. 
+
+The scripts for the experimental presentation, data cleaning and pre-processing, and analysis are available on Github: https://github.com/univiemops/spider20-fmri-data.
+
+The figures in the HTML files are included in SVG format, with file paths directing to each participant’s ‘figures’ folder (e.g., derivatives/sub-xx/figures). To view the figures, please download the HTML files and the corresponding SVG files to your local machine or click on the download button of SVG files under the derivatives/sub-xx/figures folder. Alternatively, we have also uploaded a PDF version of each HTML file. You can view these PDFs directly in your browser by clicking on the download button, which should display the file without needing to download it first. 
+
+To find the .nii and .tsv files for each subject, navigate to the derivatives folder, scroll past all the .pdf/.html files, and then navigate to the sub-xx folder for that subject (e.g. the sub-03 folder following the file sub-52.pdf). Within each subject folder you will see anat, figures and func subfolders. The func subfolder contains the desc-preproc_bold.nii.gz files, representing the preprocessed brain images, along with their corresponding brain_mask.nii.gz files. This folder also contains the desc-confounds_timeseries.tsv files, which contain the motion regressors, global signals, CSF and white matter signals, and other relevant parameters for each run.
+

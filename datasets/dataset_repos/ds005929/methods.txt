@@ -1,0 +1,82 @@
+METHODS
+We have designed a miniaturized optical fiber tip (Figure 1) which consists of a glass prism (Casmed, Connecticut), a mirrored surface and a prism-housing that holds the prism and connects it to the optical fiber. The small size and low profile of this design means that it can be coupled to the head using a clinical adhesive (Collodion, Mavidon, FL), which is commonly used to apply EEG electrodes to the scalp. The application process is as follows. A towel is placed around the subject’s shoulders in order to protect their clothing from the glue. The hair is parted using a cotton-tipped stick. A square of collodion-impregnated gauze (2–3 cm) is placed on the scalp as to cover the optode. The collodion is dried using compressed air.
+
+Fig. 1.
+Fig. 1
+
+Open in a new tab
+Diagram of prism-based fiber (left), collodion-fixed prism-based fiber with impregnated gauze on top (right)
+
+Motion Artifact Study
+To provide a quantified assessment of the efficacy of the collodion-fixed optical fibers, we performed a study which applied both collodion-fixed and standard optical fiber probes to healthy subjects. Five healthy adult subjects were recruited for this study (1 female, 4 male). The subjects were 23–52 years old (mean 35 ± 13). The study was approved by Massachusetts General Hospital and each subject gave informed written consent.
+
+Data were collected using a TechEn CW6 system operating at 690 and 830 nm (TechEn Inc. MA, USA). The standard Velcro-based NIRS probe contained 2 sources and 4 detectors and was located over the right motor region of each subject. The collodion-fixed fibers were attached over the left hemisphere of the subject so as to symmetrically match the standard probe (Fig. 2). Fig. 2 and 3 are obtained using Atlasviewer, part of the HOMER2 NIRS processing package (Huppert et al., 2009). The 3D positions of the sources and detectors are obtained using a 3D digitizer (Polhemus, VT). During recording, subjects were asked to perform seven different types of movement in order to induce motion artifacts mimicking normal motions as well as motions seen during seizure: reading aloud, nodding their head up and down, nodding sideways, twisting right, twisting left, shaking head rapidly from side to side and raising their eyebrows. The Psychophysics toolbox for Matlab (Brainard, 1997) was used to control the timing of the experiment. Each motion trial was performed for 3 seconds and trials were repeated 5 times for each motion type with a randomized inter-trial interval of between 5 and 10 seconds. This resulted in a 6 minute-long recording period. Following this, we acquired 12 minutes of resting state data, with the same probe arrangement.
+
+Fig. 2.
+Fig. 2
+
+Open in a new tab
+Optical probe for the motion artifact study. Symmetrical source detector localization on both hemispheres. The red and blue numbers indicate the position of sources and detectors respectively. The yellow lines indicate a source-detector pair, or channel.
+
+Fig. 3.
+Fig. 3
+
+Open in a new tab
+Probe arrangement in epilepsy patients for subject 1 (left, one side), subject 2 (right, symmetrical on both sides). The red and blue numbers indicate the position of sources and detectors respectively. The yellow lines indicate a source-detector pair, or channel.
+
+Epilepsy Study
+As part of an ongoing clinical study, we have begun to apply collodion-fixed optical fibers to epilepsy in-patients. The subjects were recruited from the in-patients of the Epilepsy Monitoring Unit of Massachusetts General Hospital (Table 1). The Massachusetts General Hospital Institutional Review Board approved the study and all subjects gave informed written consent which included the application of collodion. Our optical probes were fixed to the head at the same time as the clinical EEG electrodes so as to minimize the impact of our study to the standard clinical procedure.
+
+Table 1.
+Subject information
+
+Focus	Age	Gender	Recording time
+1	ultimately unclear, very likely right hemisphere in origin and probably right frontal	36	M	6 hrs
+2	left temporal lobe (left mesial temporal sclerosis)	59	F	18 hrs
+Open in a new tab
+The positioning of the optical probes was decided based on the medical history of patient, so as to maximize the likelihood that NIRS measurements would be sensitive to the epileptic focus (Fig. 3). The EEG electrodes are placed according to the clinically standard International 10–20 system (XLTEK a division of Natus, Ontario, Canada). The optical fibers used in this study were ~11 m in length, allowing the subjects to move comfortably about their room and use the restroom.
+
+Data Analysis
+Motion Artifact Study
+We have used four metrics to compare the quality of the signal from the collodion-fixed fiber probe and the Velcro-based probe. The first metric is the group average of signal to noise ratio of light intensity for each probe type. Signal to noise ratio is calculated as the ratio of the mean over the standard deviation of the raw signal i.e. unfiltered light intensity at each wavelength. We did not do any preprocessing prior to this. Our second measure is the percent signal change in light intensity during motion artifact. The percent signal change from baseline during motion artifact is obtained as the ratio of the raw signal averaged from 0 to 4 seconds after the purposefully induced motion artifact to the raw signal averaged from −4 to 0 seconds prior to motion artifact for each stimulus type separately (Eq. 1).
+
+%𝑆𝑖𝑔𝑛𝑎𝑙𝐶ℎ𝑎𝑛𝑔𝑒=100×[1−
+[𝑆𝑖𝑔𝑛𝑎𝑙]𝑀𝑜𝑡𝑖𝑜𝑛⁢𝐴𝑟𝑡𝑖𝑓𝑎𝑐𝑡⁡[0𝑡⁢𝑜4⁢sec]
+[𝑆𝑖𝑔𝑛𝑎𝑙]𝐵𝑎𝑠𝑒𝑙𝑖𝑛𝑔⁡[−4𝑡⁢𝑜0sec]
+ 
+]
+(Eq. 1)
+As a third metric we calculated the group average of the standard deviation of changes in oxyhemogolobin (HbO) and deoxyhemoglobin (HbR) concentrations calculated over the length of each data set as well as the changes in HbO and HbR during each motion artifact case. For this calculation, the raw NIRS signal was first converted into changes in optical density by taking the logarithm of the signal. The changes in HbO and HbR concentrations were then obtained using the Beer-Lambert law with a partial pathlength factor of 6 (Cope and Deply, 1998; Deply et al., 1988; Boas et al., 2004). To obtain the changes in HbO and HbR during each motion artifact type, we averaged from 0 to 4 seconds after the purposefully induced motion artifact.
+
+Our last metric was the cardiac signal to noise ratio during rest. A good fNIRS signal will clearly show fluctuations arising from systemic physiology. In particular, visualization of the cardiac pulse is an indication of good coupling of the optodes on the scalp. For this reason, a traditional measure of SNR defined as the ratio of the signal mean over its standard deviation can be misleading, as high fluctuations at the cardiac frequency will result in high standard deviation and be interpreted as a noisy signal. Inversely, high SNR could be artificially achieved if a high signal level without physiological fluctuations is detected because the light does not actually travel in the head. Therefore, in addition to the traditional SNR metric obtained during motion artifact runs, we calculated a cardiac signal to noise ratio during rest defined as the ratio of the power in the cardiac frequency band (0.8 to 1.67Hz) over the noise power in the high frequency range (5Hz to 20Hz), expressed on a logarithmic scale. The power spectral density of the resting state data is estimated using Welch’s method for the above calculation (Welch, 1967).
+
+Epilepsy Study
+The NIRS signals from each epilepsy patient were first converted to changes in optical density and then to changes in HbO and HbR concentrations using Beer’s Lambert law with a partial pathlength factor of 6 (Cope and Deply, 1998; Deply et al., 1988; Boas et al., 2004). We did not make any partial volume correction assuming the seizure results in a global response rather than local.
+
+By assuming a baseline total hemoglobin concentration of 60 μM (Torricelli et al., 2001), we calculated the relative changes in total hemoglobin concentration (rtHb) and used this to substitute for relative cerebral blood volume (rCBV), since they are equal under a constant hematocrit assumption (Siegel et al., 2003). We then used the Grubb relation (Grubb et al., 1974) to obtain the relative cerebral blood flow (rCBF) from rCBV. The cerebral metabolic rate of oxygen relative to baseline (rCMRO2) can then be calculated as the product of the relative oxygen extraction fraction (rOEF) and rCBF (Hoge et al., 2005). CMRO2,0, OEF0, CBF0, HbR0 and tHb0 are the baseline values for these variables.
+
+𝑟𝐶𝑀𝑅𝑂2=
+𝐶𝑀𝑅𝑂2
+𝐶𝑀𝑅𝑂2,0
+ 
+=
+𝑂𝐸𝐹
+𝑂𝐸𝐹0
+ 
+⁢
+𝐶𝐵𝐹
+𝐶𝐵𝐹0
+ 
+(Eq. 2)
+OEF is obtained using the following equation, assuming a baseline oxygen extraction fraction of 0.4 (Raichle et al., 2001).
+
+𝑂𝐸𝐹=𝑂𝐸𝐹0·
+[𝐻𝑏𝑅]
+[𝐻𝑏𝑅]0
+ 
+⁢
+[𝑡𝐻𝑏]0
+[𝑡𝐻𝑏]
+ 
+(Eq. 3)
+The EEG recordings were acquired at a sampling rate of 256 Hz. The data were bandpass filtered at 0.3–20 Hz using a fifth order Butterworth filtering. The EEG traces were transformed into a bipolar representation.

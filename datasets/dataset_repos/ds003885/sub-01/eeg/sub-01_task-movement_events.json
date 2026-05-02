@@ -1,0 +1,206 @@
+{
+    "stimulus_file":{
+      "LongName": "Stimulus file directory",
+      "Description": "Filepath of the stimulus being presented"
+    },
+
+    "eventnumber":{
+      "LongName": "Event number",
+      "Description": "individual image presentation with unique numerical identifier - one number per image"
+    },
+
+    "blockno":{
+      "LongName": "Block number",
+      "Description": "Out of 8 blocks total, where even numbers are response blocks and odd numbers are passive viewing. Response mapping changes every block"
+    },
+
+    "stim":{
+      "LongName": "Stimulus file name, with no path",
+      "Description": "File name of the stimulus being presented"
+    },
+
+    "trialno": {
+      "LongName": "Trial number",
+      "Description": "The number of the sequence in which the image is displayed. Numbering is continuous throughout experiment, so each trial has a unique number. For passive blocks, there are 80 stims per trial. For categorisation blocks, there are 40"
+    },
+
+    "is_faststream":{
+      "Description": "Is the trial part of the passive viewing blocks?",
+      "Levels":{
+        "1": "Yes, this trial is part of the passive viewing",
+        "2": "No, this trial is part of the categorisation task"
+      }
+    },
+
+
+    "stim_category":{
+      "LongName": "Stimulus category",
+      "Description": "Which superordinate category the stimulus belongs to",
+      "Levels": {
+        "animals": "first set of 5 animals (cat, dog, dolphin, eagle, horse)",
+        "animals2": "second set of 5 animals (bee, lemur, pigeon, tiger, whale) ",
+        "movArt": "moving artefacts (boat, bus, car, helicopter, train) ",
+        "movNat": "moving natural things (fire, hot spring, river, waterfall, waves) ",
+        "nonmovArt": "still artefacts (bench, clothes peg, headphones, lock, mug) ",
+        "nonmovNat": "still natural things (cliff, crystal, rock, sand, shell) ",
+        "plants": "first set of 5 plants (cactus, flower, grass, tree, vine)",
+        "plants2": "second set of 5 plants (clover, fern, lemon tree, moss, palm tree)"
+      }
+    },
+
+    "category_number":{
+      "LongName": "Numerically coded category",
+      "Description": "same as stim_category, but numerical",
+      "Levels":{
+        "0": "first set of 5 animals, (cat, dog, dolphin, eagle, horse)",
+        "1": "second set of 5 animals (bee, lemur, pigeon, tiger, whale) ",
+        "2": "moving artefacts (boat, bus, car, helicopter, train)",
+        "3": "moving natural things (fire, hot spring, river, waterfall, waves)",
+        "4": "still artefacts (bench, clothes peg, headphones, lock, mug) ",
+        "5": "still natural things (cliff, crystal, rock, sand, shell)",
+        "6": "first set of 5 plants (cactus, flower, grass, tree, vine",
+        "7": "second set of 5 plants (clover, fern, lemon tree, moss, palm tree)"
+      }
+    },
+
+    "exemplar":{
+      "LongName": "Object level categorisation",
+      "Description": "Name of stimulus at object level"
+    },
+
+    "exemplar_number":{
+      "Description": "Object level categorisation, coded numerically. Corresponds with 'exemplar'"
+    },
+
+    "image_name": {
+      "Description": "Image level categorisation"
+    },
+
+    "image_number":{
+      "Description": "Image level categorisation, coded numerically"
+    },
+
+    "aliveness":{
+      "Description": "Whether the stimulus is alive or not",
+      "Levels":{
+        "not_alive": "stimulus is not alive (artefacts and natural kinds)",
+        "alive": "stimulus is alive (plants/animals)"
+      }
+    },
+
+    "aliveness_bin":{
+      "LongName": "Aliveness, binary coded",
+      "Description": "Binary coding of whether the stimulus is alive or not",
+      "Levels": {
+        "0": "stimulus is NOT alive",
+        "1": "stimulus is alive"
+      }
+    },
+
+    "movement":{
+      "Description": "Whether the stimulus can move or not",
+      "Levels":{
+        "still": "stimulus does not naturally move (plants, artefacts and natural kinds)",
+        "moves": "stimulus is able to move (animals, artefacts and natural kinds)"
+      }
+    },
+
+    "movement_bin":{
+      "LongName": "Movement, binary coded",
+      "Description": "Binary coding of whether the stimulus is able to move or not",
+      "Levels":{
+        "0": "stimulus does not naturally move (plants, artefacts and natural kinds)",
+        "1": "stimulus is able to move (animals, artefacts and natural kinds)"
+      }
+    },
+
+    "naturalness":{
+      "Description": "Whether the stimulus is natural or not",
+      "Levels":{
+        "artefact": "stimulus is man-made/ not naturally occuring",
+        "natural": "stimulus is natural"
+      }
+    },
+
+    "naturalness_bin":{
+      "LongName": "Naturalness, binary coded",
+      "Description": "Binary coding of whether the stimulus is natural or not",
+      "Levels":{
+        "0": "stimulus is man-made/ not naturally occuring",
+        "1": "stimulus is natural"
+      }
+    },
+
+    "response_hand_alive":{
+      "Description": "which key should be pressed to indicate that the stimulus is alive",
+      "Levels":{
+        "n": "no key, this is a passive viewing trial",
+        "f": "participants should press 'f' (right of button box) to indicate a stimulus that is alive",
+        "a": "participants should press 'a' (left of button box) to indicate a stimulus that is alive"
+      }
+    },
+
+    "istarget": {
+      "Description": "for passive viewing, whether the stimulus has a red fixation cross, and is therefore a target to be responded to",
+      "Levels":{
+        "0": "stimulus is not a target",
+        "1": "stimulus is a target"
+      }
+    },
+
+    "response": {
+      "Description": "did the participant press a button during the presentation of this image?",
+      "Levels": {
+        "0": "Participant did not press a button to respond in passive viewing",
+        "NaN": "participant did not respond in categorisation task",
+        "alive": "participant chose the button for 'alive'",
+        "not_alive": "participant chose the button for 'not alive'"
+      }
+    },
+
+    "keypressed":{
+      "LongName": "Key pressed",
+      "Description": "What key was pressed?",
+      "Levels": {
+        "NaN": "No key was pressed",
+        "f": "participant pressed the rightmost button on the button box",
+        "a": "participant pressed the leftmost button on the button box"
+      }
+    },
+
+    "rt":{
+      "LongName": "Reaction time",
+      "Description": "Time after stimulus onset that a button was pressed",
+      "Units": "seconds"
+    },
+
+    "correct": {
+      "Description": "was this a correct response? For passive blocks, if a target occured in the past 4 images, it was counted as correct. For categorisation, if it aligned with the classification intended, it was counted as correct ",
+      "Levels":{
+        "0": "incorrect response",
+        "1": "correct response"
+      }
+    },
+
+    "time_stimon":{
+      "LongName": "Time of stimulus onset",
+      "Description": "Time since the experiment began that the stimulus was displayed on screen",
+      "Units": "seconds"
+    },
+
+    "time_stimoff":{
+      "LongName": "Time of stimulus offset",
+      "Description": "Time since the experiment began that the stimulus was removed from screen",
+      "Units": "seconds"
+    },
+
+    "stimdur":{
+      "LongName": "stimulus duration",
+      "Description": "how long the stimulus was displayed on the screen for",
+      "Units": "seconds"
+    }
+
+
+
+
+}

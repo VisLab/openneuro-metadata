@@ -1,0 +1,31 @@
+{
+    "onset":{
+        "LongName":"Onset Time",
+        "Units":"seconds"
+    },
+    "duration":{
+        "LongName":"Duration of Stimulus",
+        "Units":"seconds"
+    },
+    "stim": {
+        "LongName":"Displayed Stimulus"
+    },
+    "block_number": {
+        "Description":"Sequential position of the block within the run"
+    },
+    "block_condition":{
+        "LongName":"Trial type",
+        "Description":"Sequence type: sentence or pseudo",
+        "Levels": {
+            "sentence":"meaningful sentences with real words",
+            "pseudo":"pseudoword sequences"
+        }
+    },
+    "block_duration": { 
+	    "Description":"duration of the block",
+	    "Units":"seconds"
+    },
+    "sequential_position": {
+        "Description": "position of the stimulus in the current block"
+    }
+}

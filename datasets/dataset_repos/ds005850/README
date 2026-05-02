@@ -1,0 +1,8 @@
+This dataset consists of the raw and preprocessed  fMRI data from a total of 68 participants when they listening a 10 mins story in Chinese, a 10 mins story in Mongolian (MG) and in resting state, as reported in Liu, Lanfang, Jiang Jiahao, Hehui Li and Guosheng Ding (2024). Tripartite organization of brain state dynamics underlying spoken narrative comprehension. https://doi.org/10.7554/eLife.99997.1
+ 
+Each run in the raw data contains 312 (or 310) TRs. The first 12 (or 10) TRs correspond to a fixation period, which were set to allow the noise-canceling auditory equipment to learn the MRI scanner's noise pattern. They were discarded in the preprocessing.  For the left 300 TRs,  participants listened to a continuously-played 10-min story. 
+
+Participants' behavioral data and  the audio files of those stories along with their transcriptions  are available at: https://github.com/liulanfang11/Tripartite-brain-states/upload/main.
+
+
+

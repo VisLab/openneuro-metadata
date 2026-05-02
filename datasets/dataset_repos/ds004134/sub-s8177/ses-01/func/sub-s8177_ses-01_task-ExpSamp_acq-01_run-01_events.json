@@ -1,0 +1,16 @@
+{
+  "response_time": {
+    "LongName": "Response time",
+    "Description": "The time it took for the participant to respond to the probe"
+  },
+  "response": {
+    "LongName": "Response",
+    "Description": "The response of the participant to the probe",
+    "Levels": {
+      "Abs": "Absence (mind blanking or empty state)",
+      "SDep": "Stimulus-dependent thought (awareness of the immediate environment)",
+      "SInd": "Stimulus-independent thought (no awareness of the immediate environment)",
+      "Sens": "Perception (acknowledgment of a stimulus without internal thought)"
+    }
+  }
+}

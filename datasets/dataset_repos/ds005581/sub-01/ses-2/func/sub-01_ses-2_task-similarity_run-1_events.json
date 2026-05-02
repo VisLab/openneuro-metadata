@@ -1,0 +1,27 @@
+{
+  "onset": {
+    "LongName": "Stimulus onset",
+    "Description": "Onset of Stimulus",
+    "Units": "sec"
+  },
+  "duration": {
+    "LongName": "Stimulus duration",
+    "Units": "sec"
+  },
+  "accuracy": {
+    "LongName": "Cover task",
+    "Description": "Accuracy of identifying the presence of a hash tag on the current image",
+    "Levels": {
+      "1": "Correct",
+      "0": "Incorrect"
+    }
+  },
+  "response_time": {
+    "LongName": "Response time",
+    "Units": "sec"
+  },
+  "image": {
+    "LongName": "Stimulus identifier",
+    "Description": "image number corresponding to condition information. For more details, visit the OSF respository related to this project"
+  }
+}

@@ -1,0 +1,16 @@
+2.0.0	2018-04-09
+
+	- Renamed dataset name to same as OpenfMRI
+
+1.0.0	2018-04-09
+
+	- Initial publish
+
+Revision history for OpenfMRI dataset ds000217
+
+1.0.1 2017-03-03
+
+ - Re-defaced sub-Exp1s08/anat/sub-Exp1s08_T1w.nii.gz
+
+1.0.0 2020-09-24
+  - OpenNeuro maintenance

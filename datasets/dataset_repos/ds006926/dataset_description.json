@@ -1,0 +1,31 @@
+{
+    "Name": "Complex multi-echo fMRI dataset: New strategies in processing of multi-echo data",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Mikl Michal",
+        "Kovarova Anezka",
+        "Gajdos Martin",
+        "Marecek Radek",
+        "Schejbalova Marie",
+        "Slavicek Tomas",
+        "Ingrova Katerina"
+    ],
+    "License": "CC0",
+    "Acknowledgements": "The work was supported by Czech Science Foundation grant 23-06957S. We acknowledge the core facility MAFIL of CEITEC supported by the Czech-BioImaging large RI project (LM2023050).",
+    "HowToAcknowledge": "We acknowledge the core facility MAFIL of CEITEC supported by the Czech-BioImaging large RI project (LM2023050), for their support with obtaining scientific data presented in this paper.",
+    "Funding": [
+        "LM2023050"
+    ],
+    "ReferencesAndLinks": [
+        "https://mafil.ceitec.cz",
+        "https://doi.org/10.58071/2w0y-pj49"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006926.v1.0.0",
+    "GeneratedBy": [
+        {
+            "Name": "mafil_dicom2preBIDS",
+            "Version": "v1.19"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Name": "Empathic Pain Task",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "derivative",
+    "Authors": [
+        "Marla Dressel",
+        "Naomi Nero",
+        "Paige Freeburg",
+        "Melinda Somers",
+        "Ashley S. VanMeter",
+        "Shawn A. Rhoads",
+        "Abigail A. Marsh"
+    ],
+    "Acknowledgements": "",
+    "GeneratedBy": [
+        {
+            "Name": "fMRIPrep",
+            "Version": "23.0.0",
+            "CodeURL": "https://github.com/poldracklab/fmriprep"
+        }
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006243.v1.1.2",
+    "ReferencesAndLinks": [
+        "Dressel, M., Nero, N. M., Freeburg, P., Somers, M., VanMeter, A. S., Rhoads, S. A., & Marsh, A. (2025, November 13). Lonelier people feel less empathic despite intact neural empathy responses after meditation training. Retrieved from osf.io/preprints/psyarxiv/5jpf7_v1"
+    ],
+    "Funding": [
+        "We thank the Mind and Life Institute for funding this research."
+    ],
+    "EthicsApprovals": [
+        "Institutional Review Board (IRB) at Georgetown University"
+    ]
+}

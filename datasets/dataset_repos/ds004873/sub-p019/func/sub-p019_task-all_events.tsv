@@ -1,0 +1,13 @@
+onset	duration	trial_type
+0	30	rest
+30	30	mem
+60	30	calc
+120	30	mem
+150	30	rest
+180	30	calc
+210	30	mem
+270	30	rest
+300	30	calc
+360	30	calc
+390	30	rest
+450	30	mem

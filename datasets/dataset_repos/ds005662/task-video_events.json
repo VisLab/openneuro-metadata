@@ -1,0 +1,70 @@
+{
+  "onsetsample": {
+    "Description": "Sample number at which the event occurred.",
+    "Units": "samples"
+  },
+  "eventnumber": {
+    "Description": "Sequential number assigned to each event.",
+    "Units": "integer"
+  },
+  "subjectnr": {
+    "Description": "Subject number associated with the event.",
+    "Units": "integer"
+  },
+  "sequencenumber": {
+    "Description": "Sequence number of the event in the task.",
+    "Units": "integer"
+  },
+  "blocksequencenumber": {
+    "Description": "Sequence number of the block in which the event occurred.",
+    "Units": "integer"
+  },
+  "istarget": {
+    "Description": "Whether the event was a target stimulus.",
+    "Levels": {
+      "0": "Non-target",
+      "1": "Target"
+    }
+  },
+  "presentationnumber": {
+    "Description": "Order of the event presentation.",
+    "Units": "integer"
+  },
+  "stimnumber": {
+    "Description": "Identifier for the stimulus presented during the event.",
+    "Units": "integer"
+  },
+  "stim": {
+    "Description": "Relative file path to the stimulus presented."
+  },
+  "stimname": {
+    "Description": "Name of the stimulus presented."
+  },
+  "time_stimon": {
+    "Description": "Time when the stimulus turned on.",
+    "Units": "s"
+  },
+  "time_stimoff": {
+    "Description": "Time when the stimulus turned off.",
+    "Units": "s"
+  },
+  "stimdur": {
+    "Description": "Duration of the stimulus presentation.",
+    "Units": "s"
+  },
+  "cresp": {
+    "Description": "Correct response key code for the event (integer; e.g., 1–4). Use 'n/a' if not applicable."
+  },
+  "resp": {
+    "Description": "Participant response key code (integer; e.g., 1–4). Use 'n/a' if no response."
+  },
+  "rt": {
+    "Description": "Reaction time of the participant."
+  },
+  "correct": {
+    "Description": "Whether the participant's response was correct (1) or incorrect (0)."
+  },
+  "StimulusPresentation": {
+    "Description": "Software and hardware used to present stimuli (optional metadata object)."
+  }
+}

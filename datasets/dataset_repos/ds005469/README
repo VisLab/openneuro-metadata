@@ -1,0 +1,25 @@
+# Sense of agency in free and coerced moral decision-making among civilians and military personnel
+
+This dataset contain fMRI data acquired at the Université Libre de Bruxelles (Laboratoire de Neuroanatomie et Neuroimagerie Translationnelle), on a GE Signa PET/MR (3T).
+
+The study design aim at investigating the sense of agency in free and coerced moral decision. Two groups where included: civilians and military personnel.
+Subjects P1-P24 are civilians and P31-P49 are military.
+
+Questions about this dataset should be addressed at antonin.rovai@ulb.be.
+
+## Rawdata
+
+Each subject was scanned in four fMRI sessions:
+- Role: Agent, free choice condition (agfree)
+- Role: Agent, coerced condition (agcoer)
+- Role: Commander, free choice condition (cofree)
+- Role: Commander, coerced condition (cocoer)
+
+For each of these conditions, log files tracing all events related to the experiment are saved.
+
+An anatomical (T1w) image as well as a resting-stage condition (eyes open, with a fixation cross) was also recorded.
+
+## Derivatives
+
+- fMRIPrep: preprocessing, done with version 23.1.3 of fMRIPrep.
+- Nipystats: first- and second-level analyses, performed using [nipystats](https://github.com/ln2t/nipystats) (Nilearn-based fMRI data analysis software). Nipystats works with configuration files: they are located in `code/nipystats`.

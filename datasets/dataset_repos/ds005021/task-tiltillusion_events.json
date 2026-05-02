@@ -1,0 +1,34 @@
+{
+  "onset": {
+    "Description": "Time of target onset",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of target",
+    "Units": "s"
+  },
+  "titr": {
+    "Description": "Boolean indicating whether trial was in the titration period or in the main experiment",
+    "Levels": {
+		"1": "Trial from pre-experiment titration",
+		"0": "Trial from main experiment"
+	}
+  },
+  "surround": {
+    "Description": "Angle of surround grating relative to vertical (nan indicates grating-absent trials during titration)"
+  },
+  "centre": {
+    "Description": "Angle of centre grating relative to vertical"
+  },
+  "response": {
+    "Description": "Which button was pressed",
+    "Levels": {
+		"1": "Left button was pressed, corresponding to a counterclockwise rotated centre.",
+		"2": "Right button was pressed, corresponding to a clockwise rotated centre."
+	}
+  },
+  "rt": {
+    "Description": "Reaction time for button press",
+    "Units": "s"
+  }
+}

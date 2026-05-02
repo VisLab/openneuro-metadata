@@ -1,0 +1,21 @@
+{
+    "Name": "Cross-Environment Multi-Paradigm Motor Imagery EEG Dataset",
+    "BIDSVersion": "1.0.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Sun Xinwei",
+        "Wang Kun",
+        "Pan Lincong",
+        "Cao Yupei",
+        "Meng Lin"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "MNE-BIDS",
+            "Version": "0.17.0",
+            "CodeURL": "https://mne.tools/mne-bids/"
+        }
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007221.v1.0.1"
+}

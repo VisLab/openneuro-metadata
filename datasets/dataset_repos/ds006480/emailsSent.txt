@@ -1,0 +1,19 @@
+7/10/2025: andy.kim.j@gmail.com
+
+Hello Andy,
+We were interested in the above dataset that you recently uploaded.  I had a couple of questions about what the dataset was.  
+
+     Are there any publications or references to the underlying experiment that you could provide? A README if not?
+     Could you provide a list of what the codes in the value column mean as they were not identified in your task-oddball_events.json file (e.g. codes 101 - 109, DIN1)?
+    It appears that the onset and duration column values were probably given in ms rather than seconds as required by BIDS.  This will make analysis using BIDS tools problematic.
+
+
+We are in the process of curating some data for use in our projects and want to create a new events.json file for our use.  This file will also contain HED tags (www.hedtags.org) and more detailed text descriptions of the codes.  We would be happy to provide you with this file so you could update your dataset.
+
+Best,
+Kay
+
+Kay Robbins, Professor Emeritus
+Department of Computer Science
+University of Texas at San Antonio
+San Antonio, TX 78249

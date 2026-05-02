@@ -1,0 +1,19 @@
+{
+  "CHANGES": "a9031ce7d567b5317172229233cabfbb932d3d9d",
+  "dwi.json": "cacc1c5ca61ce2db680a363ceac9677fc32d8e38",
+  "task-balloonanalogrisktask_bold.json": "14d7aaa3342a6c1ea5b77fa02b23f6ca22b4ac7b",
+  "README": "a1692265d546a70241575e48c2c60815efadcda2",
+  "inplaneT2.json": "95be108b4d4bde77068bbea7ca2d2597c9ca5a6a",
+  "T1w.json": "1c7f81e2229935e69b5621494178f36344e063be",
+  "task-emotionalregulation_bold.json": "c8062532a9b28b33d776bd8d0f290e011fe429b3",
+  "task-discounting_bold.json": "447dde31c1a61ca87617543a34d0f0537299f521",
+  "participants.tsv": "1915bfb2ff379779a36c44f5622f33350468995a",
+  "dataset_description.json": "dcfcd4a54667779fe0270f0a9d541539792ed1a5",
+  "task-stopsignal_bold.json": "e6b3d029ede3dc538278700b41873007f166460a",
+  "sub-01/func/sub-01_task-emotionalregulation_run-02_events.tsv": "0d195c3d3085d0baa48428d6bb3a7fa9a54f364a",
+  "sub-01/func/sub-01_task-emotionalregulation_run-01_events.tsv": "3b068c28ceeef4ed51c7c0066da73edbc14a1b3c",
+  "sub-01/func/sub-01_task-discounting_events.tsv": "46791a7ed1b62026fd0e8c916294ebdd412e4ae5",
+  "sub-01/func/sub-01_task-stopsignal_run-02_events.tsv": "62f03ab0ca74a01fa4a1b05260e8bb8a8ad4acbb",
+  "sub-01/func/sub-01_task-balloonanalogrisktask_events.tsv": "72be96684f88555f3bd86c64708cbe97102685b0",
+  "sub-01/func/sub-01_task-stopsignal_run-01_events.tsv": "bba0087236ea4bd2af389bbf530fcfe62f6e1128"
+}

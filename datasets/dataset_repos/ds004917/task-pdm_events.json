@@ -1,0 +1,78 @@
+{
+  "onset": {
+    "Description": "onset of the stimuli",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "duration of the code",
+    "Units": "miliseconds"
+  },
+  "value": {
+    "Description": "Code for the stimulus type {9, 10, 20, 30, 31, 40}",
+    "Levels": {
+      "9": "Presentation of the payoff for both options.",
+      "10": "Presentation of the probability for both options.",
+      "20": "Beginning of the waiting time for the result.",
+      "31": "Feedback: Positive or Win.",
+      "30": "Feedback: Negative or No Win."
+    }
+  },
+  "response": {
+    "Description": "Response or participant's selection {0, 1}.",
+    "Levels": {
+      "1": "Left option",
+      "2": "Right option"
+    }
+  },
+  "rt": {
+    "Description": "reaction time",
+    "Units": "Miliseconds"
+  },
+  "good": {
+    "Description": "Trials correctly presented on the screen {0, 1}.",
+    "Levels": {
+      "1": "Correctly presented ",
+      "0": "Non correctly presented "
+    }
+  },
+  "a": {
+    "Description": "Ambiguity area as a proportion of the bar [0, 0.8].",
+    "Units": "Proportion"
+  },
+  "bias": {
+    "Description": "Bias in the actual division of the option behind the mask: 0 indicates the left extreme, 0.5 represents the middle of the mask, and 1 indicates the right extreme.",
+    "Units": "Proportion"
+  },
+  "p": {
+    "Description": "Actual probability [0, 1] of the left option, with the right option taking the value of (1 - p).",
+    "Units": "Proportion"
+  },
+  "pv": {
+    "Description": "Visible probability [0, 1] of the left option, that is, without taking into account the hidden area (a). [pv * (1 - a) + (1 - pv) * (1 - a) + a = 1] and [pv * (1 - a) + (bias) * a = p]. The right option takes the value of (1 - pv).",
+    "Units": "Proportion"
+  },
+  "ronda": {
+    "Description": "Round or trial number.",
+    "Units": "count"
+  },
+  "TMSips": {
+    "Description": "For EEG/TMS sessions, a dummy variable {0, 1} indicating TMS over the intraparietal sulcus.",
+    "Units": "dummy"
+  },
+  "TMSppc": {
+    "Description": "For EEG/TMS sessions, a dummy variable {0, 1} indicating TMS over the posterior parietal cortex.\"",
+    "Units": "dummy"
+  },
+  "TMSvertex": {
+    "Description": "For eeg/TMS sessions, a dummy variable {0, 1} indicating TMS over the vertex.",
+    "Units": "dummy"
+  },
+  "delta": {
+    "Description": "For EEG sessions, indicate the discrepancy between the time on the computer during stimuli presentation and the time recorded by the EEG recording computer",
+    "Units": "miliseconds"
+  },
+  "fixed": {
+    "Description": "For the EEG sessions, a dummy variable {0, 1} indicating that the stimuli code was lost in the EEG recording (.vmrk) but was recovered from the computer of the stimuli presentation.",
+    "Units": "dummy"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": {
+    "Description": "Event value (unlearnable)",
+    "Levels": {
+      "x1": "Fixation onset (unlearnable)",
+      "x2": "Stimulus onset (unlearnable)",
+      "x3": "Left button press (unlearnable)",
+      "x4": "Right button press (unlearnable)",
+      "x7": "Win feedback onset (unlearnable)",
+      "x8": "Loss Feedback onset (unlearnable)",
+      "x11": "Fixation onset (learnable)",
+      "x12": "Stimulus onset (learnable)",
+      "x13": "Left button press (learnable)",
+      "x14": "Right button press (learnable)",
+      "x17": "Win feedback onset (learnable)",
+      "x18": "Loss Feedback onset (learnable)"
+    }
+  },
+  "latency": {
+    "Description": "Event onset",
+    "Units": "samples"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "samples"
+  },
+  "stim_file": {
+    "Description": "Stimulus file"
+  }
+}

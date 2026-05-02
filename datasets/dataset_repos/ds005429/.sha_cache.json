@@ -1,0 +1,10 @@
+{
+  "dataset_description.json": "abc12a4f7b266d0985fcb055b6dc46b52df5b60a",
+  "README": "c3a298d9724237174ed8e28bd107e324f9e8d078",
+  "CHANGES": "3c58c8b6667ad712f744bda0d7405978052e0ce4",
+  "participants.tsv": "7cad9a523d0bd7fe242f4583ff1557196e4a9353",
+  "sub-01/ses-LGeffect/eeg/sub-01_ses-LGeffect_task-LocalGlobal_run-2_events.tsv": "7b99aed7658e7a24b326a3ac0178db6d1fd6ade4",
+  "sub-01/ses-P3b/eeg/sub-01_ses-P3b_task-LearningOddball_events.tsv": "ed390ead4d875c5451b7911c777927b7df45f60b",
+  "sub-01/ses-LGeffect/eeg/sub-01_ses-LGeffect_task-LocalGlobal_run-1_events.tsv": "aff5dbe0b212b2ee6fc18d8217a09707f5bb656c",
+  "sub-01/ses-MMN/eeg/sub-01_ses-MMN_task-Optimum1_events.tsv": "2ce2f39b40024a04d416f1c5240cfe5ce04f866c"
+}

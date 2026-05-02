@@ -1,0 +1,41 @@
+onset	duration	sub_id	pres_order	trial_type	stim_file	vigtext	cond_id	vig_id
+0.0	7.92	sub-01	1	fairness	vignettes/fair07.JPG	You see a student getting an A on a group project when he didn't do his part.	fairness07	51
+10.08	7.92	sub-01	2	sanctity	vignettes/pur13.JPG	You see two first cousins getting married to each other in an elaborate wedding.	sanctity13	102
+19.44	7.92	sub-01	3	authority	vignettes/auth07.JPG	You see an employee trying to undermine all of her bosss ideas in front of others.	authority07	6
+33.84	7.92	sub-01	4	care_emotional	vignettes/careemo08.JPG	You see a teenage girl openly staring at a disfigured woman as she walks past.	care_emotional08	22
+46.080000000000005	7.92	sub-01	5	care_emotional	vignettes/careemo03.JPG	You see a woman commenting out loud about how fat another woman looks in her jeans.	care_emotional03	17
+55.440000000000005	7.92	sub-01	6	sanctity	vignettes/pur05.JPG	You see a man in a bar using his phone to watch people having sex with animals.	sanctity05	94
+65.52	7.92	sub-01	7	sanctity	vignettes/pur06.JPG	You see a teenage male in a dorm bathroom secretly using a stranger's toothbrush.	sanctity06	95
+79.92	7.92	sub-01	8	care_physical	vignettes/carephys01.JPG	You see a woman swerving her car in order to intentionally run over a squirrel.	care_physical01	30
+93.6	7.92	sub-01	9	social_norms	vignettes/socnorm08.JPG	You see a woman using a fork to eat a bowl of vanilla ice cream and marshmallows.	social_norms08	112
+108.0	7.92	sub-01	10	loyalty	vignettes/loy01.JPG	You see an employee joking with competitors about how bad his company did last year.	loyalty01	75
+122.4	7.92	sub-01	11	fairness	vignettes/fair02.JPG	You see a runner taking a shortcut on the course during the marathon in order to win.	fairness02	46
+131.76000000000002	7.92	sub-01	12	social_norms	vignettes/socnorm15.JPG	You see a woman answering a phone call with the word goodbye instead of hello.	social_norms15	119
+146.16	7.92	sub-01	13	liberty	vignettes/lib03.JPG	You see a man blocking his wife from leaving home or interacting with others.	liberty03	62
+156.24	7.92	sub-01	14	sanctity	vignettes/pur15.JPG	You see a college student drinking until she vomits on herself and falls asleep.	sanctity15	104
+167.76000000000002	7.92	sub-01	15	authority	vignettes/auth03.JPG	You see a girl repeatedly interrupting her teacher as he explains a new concept.	authority03	2
+180.0	7.92	sub-01	16	care_emotional	vignettes/careemo11.JPG	You see a man telling a woman that her painting looks like it was done by children.	care_emotional11	25
+194.4	7.92	sub-01	17	liberty	vignettes/lib08.JPG	You see a boss pressuring employees to buy goods from her family's general store.	liberty08	67
+205.92	7.92	sub-01	18	care_physical	vignettes/carephys12.JPG	You see a woman slapping another woman who she is arguing with in the parking lot.	care_physical12	41
+218.16	7.92	sub-01	19	care_physical	vignettes/carephys04.JPG	You see a zoo trainer jabbing a dolphin to get it to entertain his customers.	care_physical04	33
+230.4	7.92	sub-01	20	liberty	vignettes/lib02.JPG	You see a father requiring his son to become a commercial airline pilot like him.	liberty02	61
+241.92	7.92	sub-01	21	loyalty	vignettes/loy04.JPG	You see a mayor saying that the neighboring town is a much better town.	loyalty04	78
+256.32	7.92	sub-01	22	authority	vignettes/auth10.JPG	You see a teaching assistant talking back to the teacher in front of the classroom.	authority10	9
+268.56	7.92	sub-01	23	loyalty	vignettes/loy07.JPG	You see a teacher publicly saying she hopes another school wins the math contest.	loyalty07	81
+280.08	7.92	sub-01	24	liberty	vignettes/lib01.JPG	You see a man telling his fiancee that she has to switch to his political party.	liberty01	60
+294.48	7.92	sub-01	25	liberty	vignettes/lib11.JPG	You see a mother forcing her daughter to enroll as a pre-med student in college.	liberty11	70
+304.56	7.92	sub-01	26	social_norms	vignettes/socnorm11.JPG	You see someone driving around in a dirty car that has not been washed recently.	social_norms11	115
+313.92	7.92	sub-01	27	fairness	vignettes/fair10.JPG	You see a girl asking for allowance even though her brother did her chores for her.	fairness10	54
+324.0	7.92	sub-01	28	fairness	vignettes/fair13.JPG	You see a woman lying about the number of vacation days she has taken at work.	fairness13	57
+338.40000000000003	7.92	sub-01	29	care_emotional	vignettes/careemo14.JPG	You see a girl telling her classmate that she looks like she has gained weight.	care_emotional14	28
+352.08	7.92	sub-01	30	care_emotional	vignettes/careemo05.JPG	You see a boy telling a woman that she looks just like her overweight bulldog.	care_emotional05	19
+364.32	7.92	sub-01	31	care_physical	vignettes/carephys05.JPG	You see a man lashing his pony with a whip for breaking loose from its pen.	care_physical05	34
+376.56	7.92	sub-01	32	authority	vignettes/auth15.JPG	You see a star player ignoring her coach's order to come to the bench during a game.	authority15	14
+385.92	7.92	sub-01	33	loyalty	vignettes/loy15.JPG	You see a US swimmer cheering as a Chinese foe beats his teammate to win the gold.	loyalty15	89
+396.0	7.92	sub-01	34	care_physical	vignettes/carephys08.JPG	You see a boy setting a series of traps to kill stray cats in his neighborhood.	care_physical08	37
+408.24	7.92	sub-01	35	fairness	vignettes/fair04.JPG	You see a soccer player pretending to be seriously fouled by an opposing player.	fairness04	48
+419.76	7.92	sub-01	36	social_norms	vignettes/socnorm02.JPG	You see a man staying inside his home with the shades drawn on a rare sunny day.	social_norms02	106
+429.84	7.92	sub-01	37	loyalty	vignettes/loy09.JPG	You see a class president saying on TV that her rival college is a better school.	loyalty09	83
+439.92	7.92	sub-01	38	social_norms	vignettes/socnorm13.JPG	You see someone reading the ending of a spy novel before reading the beginning.	social_norms13	117
+453.6	7.92	sub-01	39	sanctity	vignettes/pur14.JPG	You see a very drunk woman making out with multiple strangers on the city bus.	sanctity14	103
+465.84	7.92	sub-01	40	authority	vignettes/auth06.JPG	You see a boy spray-painting anarchy symbols on the side of the police station.	authority06	5

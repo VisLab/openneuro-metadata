@@ -1,0 +1,19 @@
+{
+    "Name": "Chimeric music reveals an interaction of pitch and time in electrophysiological signatures of music encoding",
+    "BIDSVersion": "1.2.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Tong Shan",
+        "Edmund C. Lalor",
+        "Ross K. Maddox"
+    ],
+    "Funding": [
+        "NSF CAREER grant 2142612",
+        "the Schmitt Program in Neuroscience"
+    ],
+    "EthicsApprovals": [
+        "approved by the University of Rochester Subjects Review Board (#66988)"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006735.v2.0.0"
+}

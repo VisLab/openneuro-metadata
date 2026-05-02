@@ -1,0 +1,57 @@
+onset	duration	Experiment - Satz_A2	Serial_no	Code	Stimulus	Condition	Onset_time	response	response_time	Accuracy	Bildh	Arousal	EmoVal	Gebr	Metaph	Buchstaben	Wšrter	Similarity	NebensŠtze	Relative	Passiv	Komposita	Personen	Angaben	Konjunktive	analytF	Satzstellung
+1,617	4	01OD	1	12	Immer wenn der Berg rufte, stand er sehr frŸh auf.	99	1617	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+6,657	4	01OD	2	22	Er achtete stets auf die Preise im Supermarkt.	99	6657	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+11,697	4	01OD	3	149	Seine zerbrechliche Seele konnte den Streit nicht lŠnger aushalten.	1	11697	keine	0	keine	4,12	3,1	1,1	5,47	4,63	59	9	5,842105	0	0	0	0	1	1	0	1	0
+17,736	4	01OD	4	219	Die kleine Familie wollte ihren Hausbau grŸndlich planen.	2	17736	keine	0	keine	3,06	3,55	1,2	4,89	1,32	50	8	5,833333	0	0	0	1	1	1	0	1	0
+24,771	4	01OD	5	212	Das Thema des Matheunterrichts ist schwierig.	2	24771	keine	0	keine	3	4,15	-0,3	4,05	1,95	40	6	5,315789	0	0	0	1	1	1	0	0	0
+30,816	4	01OD	6	107	Der Flugbegleiter heute war wirklich zum Anbei§en!	1	30816	keine	0	keine	5,35	5,35	-0,9	3,63	4,89	44	7	6,526316	0	0	0	1	1	2	0	0	0
+35,851	4	01OD	7	108	Der Gesang des Opernstars ist kšstlich.	1	35851	keine	0	keine	4,78	4,05	-0,4	4	4,74	34	6	5,5	0	0	0	1	1	1	0	0	0
+45,89	6	01OD	8	406	Bezog sich der letzte Satz auf Musik?	4	45890	Ja	3402	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+56,943	4	01OD	9	101	Ach, was fŸr ein leichtes Leben hatten wir wŠhrend der Schulferien!	1	56943	keine	0	keine	4,5	1,95	-0,1	4,89	2,79	57	11	5,736842	0	0	0	1	1	1	0	0	1
+62,978	4	01OD	10	247	Nur sehr intelligente Kinder machen bei diesem Wettbewerb mit.	2	62978	keine	0	keine	3,22	4,1	1,7	4,32	2,16	54	9	5,368421	0	0	0	1	1	2	0	0	0
+73,012	4	01OD	11	146	Nach dem MissverstŠndnis war Irma jetzt in einer haarigen Situation.	1	73012	keine	0	keine	3,5	4,7	-1,7	5,32	3,58	59	10	5,894737	0	0	0	1	1	2	0	0	0
+78,058	4	01OD	12	362	###### #### ### #### ######	3	78058	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+83,098	4	01OD	13	126	Diesen Sonntag duellieren sich die Kanzlerkandidaten im Fernsehen.	1	83098	keine	0	keine	5,22	4,65	-1,4	4,74	5,21	59	8	5,111111	0	0	0	1	1	2	0	0	0
+88,138	4	01OD	14	343	##### ########## ###### ### ######## ######## #####	3	88138	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+95,178	4	01OD	15	204	Das war eine unglaublich gleichgŸltige Reaktion von ihr.	2	95178	keine	0	keine	3,44	4	1,7	5,26	1,74	49	8	3,315789	0	0	0	1	1	2	0	0	0
+103,224	4	01OD	16	349	##### ############ ##### ###### ### ###### ##### ###### #########	3	103224	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+108,264	6	01OD	17	407	Hast du gerade einen Satz gelesen?	4	108264	Nein	1777	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+120,31	4	01OD	18	205	Das war heute eine gro§e EnttŠuschung fŸr meinen Vater.	2	120310	keine	0	keine	3,61	4,3	1,8	4,53	2,37	47	9	6,105263	0	0	0	0	1	1	0	0	0
+129,356	4	01OD	19	218	Die GesprŠche Ÿber seine Kindheit waren schlimm fŸr ihn.	2	129356	keine	0	keine	4,06	3,4	0,1	4,11	1,63	48	9	5,315789	0	0	0	0	1	1	0	0	0
+135,391	4	01OD	20	243	Meine Gro§eltern hatten ein wirklich schwieriges Leben.	2	135391	keine	0	keine	3,72	2,25	1,1	4,79	1,74	49	7	6,222222	0	0	0	1	1	1	0	0	0
+140,425	4	01OD	21	311	### #### ### ####### ######## ####### ####################	3	140425	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+146,465	4	01OD	22	134	Ihre romantische Hochzeitsfeier bewegte die Braut sehr.	1	146465	keine	0	keine	5,11	4,15	-0,8	3,68	5,42	49	7	4,421053	0	0	0	1	1	1	0	0	0
+151,5	4	01OD	23	319	### ###### ####### ###### ##### ####### ########### ######	3	151500	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+158,539	4	01OD	24	213	Der vorbestrafte Mann war diesmal unschuldig.	2	158539	keine	0	keine	2,78	5,25	1,8	4,79	2,47	40	6	6,052632	0	0	0	1	1	1	0	0	0
+166,585	4	01OD	25	254	WŸtend schaltete der LangschlŠfer den nervigen Wecker aus.	2	166585	keine	0	keine	5,89	3,9	1,3	5,68	1,63	51	8	5,263158	0	0	0	1	1	1	0	0	0
+171,625	4	01OD	26	103	Das GesprŠch beim Finanzamt verlief glŸcklicherweise reibungslos.	1	171625	keine	0	keine	3,39	4,25	-0,7	4,26	2,53	59	7	6,210526	0	0	0	1	1	2	0	0	0
+176,665	4	01OD	27	110	Der Schauspieler hatte ein zerfurchtes Gesicht voller Narben.	1	176665	keine	0	keine	6,53	3,65	0,7	5,16	3,26	54	8	5,947368	0	0	0	1	1	1	0	0	0
+185,705	4	01OD	28	350	######## ########## ##### ############ #### ## ######	3	185705	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+194,74	4	01OD	29	117	Die Firma hat sich einen finanziell gut aufgestellten Partner ausgesucht.	1	194740	keine	0	keine	2,94	4,25	0,8	4,58	2,79	64	10	5,789474	0	0	0	0	1	1	0	1	0
+205,775	4	01OD	30	211	Der Sieg des LŠufers erzeugte riesige Medienaufmerksamkeit.	2	205775	keine	0	keine	4,59	4,2	-0,5	4,63	1,89	53	7	6,111111	0	0	0	1	1	1	0	0	0
+211,816	4	01OD	31	334	#### ########### ############## ###### ### ##### ####	3	211816	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+216,85	4	01OD	32	244	Meine Tante hat ein gutes Herz, sie kocht ehrenamtlich fŸr Obdachlose.	2	216850	keine	0	keine	5,22	3,3	1	5,05	1,95	60	11	5,578947	1	0	0	1	2	1	0	0	0
+227,89	6	01OD	33	408	Ging es gerade ums Kochen?	4	227890	Ja	2520	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+235,937	4	01OD	34	339	#### ### ########### ######### ### ####### ### ######### #### ### #####	3	235937	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+240,972	4	01OD	35	326	###### ####### ######### #### ### ################# ## #########	3	240972	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+249,011	4	01OD	36	122	Die Unternehmerin stand immer unter Druck.	1	249011	keine	0	keine	3,33	3,35	-0,6	5,05	2,95	37	6	4,157895	0	0	0	0	1	1	0	0	0
+258,052	4	01OD	37	259	Stefanie war nervšs, aber die PrŠsentation war absolut perfekt.	2	258052	keine	0	keine	3,89	3	0,6	5,63	1,53	55	9	5,947368	1	0	0	0	1	1	0	0	0
+264,087	4	01OD	38	150	Vokabeln verankern sich durch regelmŠ§iges †ben im Gehirn.	1	264087	keine	0	keine	3,33	3,8	1,4	5,05	3,63	51	8	6,263158	0	0	0	0	1	1	0	0	0
+273,121	4	01OD	39	308	### ###### ### ########## ### ##########	3	273121	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+278,156	4	01OD	40	357	##### #### ############## ##### #### ######## #########	3	278156	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+289,196	4	01OD	41	230	Endlich war Ruhe zwischen den Streitenden.	2	289196	keine	0	keine	4	2,2	0,7	4,95	1,32	37	6	4,578947	0	0	0	1	1	1	0	0	0
+297,237	4	01OD	42	305	### ### ##### #### ###### ############ ### ###### #####	3	297237	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+304,277	4	01OD	43	347	### #### ######## ###### ###### ### ###### ########## ###	3	304277	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+310,323	4	01OD	44	301	### ### ### ### ######## ##### ###### ### ####### ### ###########	3	310323	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+316,357	4	01OD	45	148	Seine Hoffnungen auf Gesundheit hatte der Kranke lŠngst begraben.	1	316357	keine	0	keine	4,44	3,65	-0,2	4,95	3,89	57	9	6,736842	0	0	0	0	1	1	0	1	1
+324,392	4	01OD	46	160	Diana  wollte alles hinter sich lassen und reiste nach Japan.	1	324392	keine	0	keine	4,44	4,65	-1,9	4,37	4,11	51	11	4,368421	1	0	0	0	1	0	0	0	0
+333,432	4	01OD	47	157	Ingrids neue Kaffeemaschine bestach durch ihre einfache Bedienung.	1	333432	keine	0	keine	4,44	4,4	0,9	4,37	3,47	59	8	4,736842	0	0	0	1	1	0	0	0	0
+338,467	6	01OD	48	409	Ging es im letzten Satz um Eiscreme?	4	338467	Nein	2110	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+350,513	4	01OD	49	318	### ######### #### ##### ######## ##### ######### ### ###	3	350513	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+360,559	4	01OD	50	262	Dieser Mann ist echt hŸbsch.	2	360559	keine	0	keine	5	4	2	5,454545	1,181818	23	5	6,181818	0	0	1	0	2	1	0	0	0
+367,606	4	01OD	51	231	Es gibt gute Argumente fŸr Baumwolle statt Polyester.	2	367606	keine	0	keine	2,67	3,85	1,4	5,05	1,63	46	8	6	0	0	0	0	1	0	0	0	0
+374,651	6	01OD	52	410	Ging es eben um Kleidungsstoffe?	4	374651	Ja	1951	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+384,686	4	01OD	53	137	In Wien habe ich einen himmlischen Kaffee getrunken.	1	384686	keine	0	keine	5,83	5,35	-2,3	3,58	4,68	45	8	6,263158	0	0	0	0	1	1	0	0	0
+391,727	4	01OD	54	239	Laut und unangenehm schallten die Stimmen der VerkŠufer Ÿber den Markt.	2	391727	keine	0	keine	4,89	2,25	0,4	4,26	2,68	61	11	4,157895	0	0	0	0	1	2	0	0	1
+396,772	4	01OD	55	337	## #### #### ### ##### ########### ###### #########	3	396772	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+

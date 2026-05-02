@@ -1,0 +1,34 @@
+{
+  "trial_type" : {
+    "Description" : "Category of the trial presented to the participant.",
+    "Levels" : {
+      "FIXCROSS" : "Fixation cross display; no stimuli were presented and the participant remained passive.",
+      "CUE_LEFT" : "Instruction screen informing the participant to prepare for the tapping task with the left hand; the task starts after this cue.",
+      "LEFT" : "Event during which the participant performed the tapping task using the left hand according to the instructions.",
+      "CUE_RIGHT" : "Instruction screen informing the participant to prepare for the tapping task with the right hand; the task starts after this cue.",
+      "RIGHT" : "Event during which the participant performed the tapping task using the right hand according to the instructions.",
+      "FINISHED" : "Instruction screen informing the participant that the task has ended."
+    }
+  },
+  "TaskDescription" : "Participants performed a block-design finger-tapping task, alternating between rest and tapping conditions. Each tapping block was preceded by a short cue indicating hand condition (alternating left/right) [2s]. The starting hand was counterbalanced across participants. During tapping blocks, participants were instructed to tap the indicated hand’s fingers against the thumb in a sequential, looped order (finger order: index, middle, ring, little, ring, middle) for 12s. Participants were instructed to tap at a rate of approximately 60 bpm, but were not given a metronome or other pacing cue. During rest blocks (varying duration: 10 s, 12.5 s and 15 s, counterbalanced across participants), participants were instructed to remain still. No behavioral data were collected for this task.",
+  "Instructions" : "The instructions were delivered in Polish; the text below is a translation. During this task, you will sequentially touch your thumb to the fingers of your left and right hand, just as you practiced earlier. Keep your hands resting comfortably; do not lift them up. If a cue with the symbol of a left hand and an arrow pointing left (<=) appears, it means that you will soon begin performing the task with your left hand. When the arrow disappears, touch the thumb of your left hand to each finger of your left hand in sequence, slowly, about once per second, from the index finger to the little finger. Continue this movement until the symbol of two open hands appears, this is your time to rest. If a cue with the symbol of a right hand and an arrow pointing right (=>) appears, it means that you will soon begin performing the task with your right hand. When the arrow disappears, perform the task with your right hand until the symbol of two open hands appears. The left and right hand conditions will alternate for several minutes.",
+  "StimulusPresentation" : {
+    "OperatingSystem" : "Windows 10 Pro 22H2",
+    "ScreenOrigin" : [
+      "center",
+      "center"
+    ],
+    "ScreenRefreshRate" : 120,
+    "ScreenResolution" : [
+      1920,
+      1080
+    ],
+    "ScreenSize" : [
+      0.698,
+      0.392
+    ],
+    "SoftwareName" : "Presentation",
+    "SoftwareRRID" : "RRID:SCR_002521",
+    "SoftwareVersion" : "v 23.1 build 09.29.22"
+  }
+}

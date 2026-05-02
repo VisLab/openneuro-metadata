@@ -1,0 +1,17 @@
+{
+    "RepetitionTime": 1.570,
+    "EchoTime": 0.00304,
+    "InversionTime": 0.800,
+    "FlipAngle": 8.0,
+    "PixelSpacing": [
+        0.78125,
+        0.78125,
+        1.0
+    ],
+    "ScanningSequence": "MPRAGE",
+    "SequenceType": "Gradient Echo",
+    "Manufacturer": "Siemens",
+    "ManufacturerModelName": "Allegra",
+    "MagneticFieldStrength": 3.00
+}
+

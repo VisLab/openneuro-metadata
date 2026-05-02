@@ -1,0 +1,19 @@
+{
+  "dataset_description.json": "9d8f72b1341b20487145b76c1467513ead9cc67b",
+  "task-msit_events.json": "715afa1c6da92483c2782da767cb87c3d0f7a8c9",
+  "task-rest_eeg.json": "d58ad9916baa6b0e721fe95f476fff080a9be5a1",
+  "README": "c5f12e10a6f4cae0d02225b399c0a11344dadbbc",
+  "CHANGES": "8af9eebd68458d0f76f9e01bbd94fe1110da6f41",
+  "task-oddball_eeg.json": "de89fca747320a6db4c0a2589009f9833c3d66c8",
+  "task-msit_eeg.json": "26d93918aeebc5c8d8b7923bdf8df90849d4fc5c",
+  "participants.tsv": "688f72c7cbb22468e50eae2b8e1dcf4a794f7846",
+  "task-oddball_events.json": "56de7ba2510bcf118da99be5211bd51ea830280c",
+  "participants.json": "b37fae5804c8f64aac6222c1c6fc57b908683cb6",
+  "task-srt_eeg.json": "d63378201d9437374d5b23ff4600614e48a8a1e4",
+  "task-rest_events.json": "c6db96cff4f3ea5372cb4b1a1a655801002f2e47",
+  "task-srt_events.json": "7c9f7dbef2907678bdbc87d24d6aa722edd489a5",
+  "sub-01/eeg/sub-01_task-rest_events.tsv": "7020a57f8644009963b33fc543c6fea228eed5e7",
+  "sub-01/eeg/sub-01_task-srt_events.tsv": "640e30f576895a41681773227e4b3f38b94a3d07",
+  "sub-01/eeg/sub-01_task-msit_events.tsv": "dcd686583d4b04d5c624af721e1980a02cccfb8a",
+  "sub-01/eeg/sub-01_task-oddball_events.tsv": "dd720a915560aba07544b8d82098906f3fd7cf0a"
+}

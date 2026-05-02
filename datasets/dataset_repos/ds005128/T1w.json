@@ -1,0 +1,14 @@
+{
+	"Modality": "MR",
+	"MagneticFieldStrength": 3,
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Prisma",
+	"ScanningSequence": "GR_IR",
+	"SequenceVariant": "SK_SP_MP_OSP",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND", "NORM"],
+	"SliceThickness": 1,
+	"EchoTime": 0.00298,
+	"RepetitionTime": 2.53,
+	"InversionTime": 1.1,
+	"FlipAngle": 7
+}

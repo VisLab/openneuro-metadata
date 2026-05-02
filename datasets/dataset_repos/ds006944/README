@@ -1,0 +1,13 @@
+Oliva Mapping Hand Function Imaging Neuroscience 2025
+
+
+Data includes:
+
+- Anatomical brain-extracted T1w image
+- Functional brain data for Force Matching task
+- Anatomical defaced T2w spinal cord image
+- Functional spinal cord data for Force Matching task
+
+
+Note: 
+- Task regressors are shared in GitHub at the following link: https://github.com/NeuromuscularInsightLab/Oliva_Mapping_Hand_Functon_Imaging_Neuroscience_2025/tree/main/trialwise_analysis

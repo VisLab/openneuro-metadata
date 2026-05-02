@@ -1,0 +1,28 @@
+{
+	"TaskName": "recall",
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Prisma",
+	"EchoTrainLength": 72,
+	"InstitutionName": "Princeton_University",
+	"InstitutionAddress": "Stadium_1952_Princeton_NJ_US_08544",
+	"DeviceSerialNumber": "66018",
+	"SoftwareVersions": "syngo_MR_D13D",
+	"ProcedureStepDescription": "Hasson_ChrisB",
+	"ScanningSequence": "EP",
+	"SequenceVariant": "SK",
+	"SeriesDescription": "TR1500_Slice60_Res2iso",
+	"BodyPartExamined": "BRAIN",
+	"ProtocolName": "TR1500_Slice60_Res2iso",
+	"SequenceName": "epfSM2d1_96",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND", "MOSAIC"],
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 50,
+	"EchoTime": 0.039,
+	"RepetitionTime": 1.5,
+	"PhaseEncodingLines": 96,
+	"BandwidthPerPixelPhaseEncode": 11.201,
+	"EffectiveEchoSpacing": 0.000929976,
+	"TotalReadoutTime": 0.0660283,
+	"PhaseEncodingDirection": "j-"
+}
+

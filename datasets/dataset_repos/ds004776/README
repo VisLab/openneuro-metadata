@@ -1,0 +1,12 @@
+Infant FreeSurfer test subject (CNYBCH)
+=======================================
+
+This mprage dataset can be used to test FreeSurfer's infant pipeline.
+
+Note that the subject age is recorded in years.  This should be converted to months when running the infant pipeline.
+
+See:
+
+  - https://surfer.nmr.mgh.harvard.edu/fswiki/infantFS
+  - https://doi.org/10.3389/fnhum.2015.00021
+  - https://doi.org/10.1016/j.neuroimage.2020.116946

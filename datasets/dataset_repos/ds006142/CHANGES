@@ -1,0 +1,8 @@
+1.0.2 2025-09-03
+  - Re-uploaded data for participant 10, which was corrupted upon previous upload.
+  - Added dictionary for survey data.
+  - Fixed bug in loading script -- now we check if all triggers are present before trying to extract epochs (some participants don't have "recognised" trials.
+1.0.1 2025-05-29
+  - Added derivatives folder with survey details and participants' answers..
+1.0.0 2025-04-18
+  - Dataset uploaded

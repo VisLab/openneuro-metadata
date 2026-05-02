@@ -1,0 +1,22 @@
+Dataset description === This is a dataset to accompany the 2023 journal submission "Characterizing medial temporal lobe vulnerability to neurofibrillary tangle pathology in Alzheimer’s disease using a 3-D ex vivo MRI atlas and serial histology" by Ravikumar et al. This is a following up to the study presented in 
+Ravikumar, Sadhana, et al. Acta neuropathologica communications 9.1 (2021). 
+
+The dataset contains ex vivo MRI scans and medial temporal lobe (MTL) segmentations of 55 human temporal lobe specimens, a computational atlas constructed using a custom groupwise registration pipeline applied to all 55 specimens, a consensus labelling of the MTL subregions and subfields in the atlas based on cytoarchitectural boundaries defined in 17 specimens, and derived tau neurofibrillary tangle burden maps for 25 brain donors.
+
+BIDS Directory Structure
+
+Subject-level data --- Raw MRI images at 9.4T 
+
+    sub-{id}/anat
+
+Subject-level manual segmentations and MRI images in axis-aligned space:
+
+    derivatives/manual_segmentation/sub-{id}
+
+Subject-level MRI and manual segmentations warped to template space, and where applicable, the reconstructed histological data in template space:
+
+    derivatives/template /sub-{id}
+
+In template space - average MRI image and consensus MTL subregion segmentation, average NFT burden map and frequency maps computed across all 25 specimens, and average NFT burden maps computed separately for low and high Braak cases (Figure 2)
+
+    derivatives/template/template

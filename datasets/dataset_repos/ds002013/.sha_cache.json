@@ -1,0 +1,21 @@
+{
+  "participants.mat": "9fc602e041136767b460099105100928360e3adc",
+  "task-CircRun_bold.json": "85867ace2bd8c7a492bb5f93bb540562bedda7f5",
+  "dataset_description.json": "9e6a5b9128c98eb27843a76d9c74b09081666371",
+  "CHANGES": "d12c619c114a6786e38ce27261ded49a6e0d8b39",
+  "participants.json": "176c7de9710e40815a3002ab0896e396584d67f8",
+  "task-CircRun_events.json": "b188db89380a882d01e620dbc83a36928c4a1144",
+  "README": "1122e8c474150a03ca05a5a19283ad337b5eaa30",
+  "task-CircCon_bold.json": "78f5c9513596e726f0b19818934aaf47b2cb74d8",
+  "task-CircCon_events.json": "89f03ed86ba8a8224fb6fbde516f873fa5e7d813",
+  "participants.tsv": "c50219573dda563f1f7ddcc517f9e2f14d8ea07d",
+  "sub-AAA02/func/sub-AAA02_task-CircCon_events.tsv": "14aa9fa945cc8fc86c9c949164b0ef537460906c",
+  "sub-AAA02/func/sub-AAA02_task-CircRun_run-07_events.tsv": "163d12e8e26d3230482cfe914ab7d20e62bb9b29",
+  "sub-AAA02/func/sub-AAA02_task-CircRun_run-01_events.tsv": "8f79da5cb85b69900d70a2db7ba15482c4628680",
+  "sub-AAA02/func/sub-AAA02_task-CircRun_run-04_events.tsv": "d4069160a40df6af3f965a1e4fcc6e3b902b3e9f",
+  "sub-AAA02/func/sub-AAA02_task-CircRun_run-05_events.tsv": "77840496b5c790874e3cf7987f77fddc55570a3e",
+  "sub-AAA02/func/sub-AAA02_task-CircRun_run-06_events.tsv": "6122685d32a1c8e59a5bfcd954cb5a62763183c5",
+  "sub-AAA02/func/sub-AAA02_task-CircRun_run-02_events.tsv": "7440e6dde245b3471751088037d8bbdcc2c588a4",
+  "sub-AAA02/func/sub-AAA02_task-CircRun_run-08_events.tsv": "cd7fcec8537e4cee763a40656b84acba32b8b214",
+  "sub-AAA02/func/sub-AAA02_task-CircRun_run-03_events.tsv": "129c50ead122cc15087610357e2b7f4104cf0fc4"
+}

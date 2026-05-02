@@ -1,0 +1,37 @@
+{
+  "age": {
+    "Description": "Age of the participant",
+    "Units": "years"
+  },
+  "sex": {
+    "Description": "Sex of the participant as reported by the participant",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "Edinburgh Handedness Inventory": {
+    "Description": "Score of the handedness of the participant in activities of daily living",
+    "Units": "laterality quotient"
+  },
+  "Ishihara test": {
+    "Description": "Score of red-green color deficiencies of the participant",
+    "Units": "number of errors"
+  },
+  "ND-100 hue test": {
+    "Description": "Score of the discriminability for hue of the participant",
+    "Units": "total error score"
+  },
+  "STAI(State)": {
+    "Description": "State anxiety score (STAI Form Y-1)",
+    "Units": "score"
+  },
+  "STAI(Trait)": {
+    "Description": "Trait anxiety score (STAI Form Y-2)",
+    "Units": "score"
+  },
+  "BDI-2": {
+    "Description": "Beck Depression Inventory-II score",
+    "Units": "score"
+  }
+}

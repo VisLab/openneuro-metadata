@@ -1,0 +1,25 @@
+{
+  "Description": "Participant demographic information and fMRI analysis inclusion status for the spatial and semantic sequence memory fMRI dataset.",
+  "participant_id": {
+    "Description": "Unique identifier for each participant",
+    "LongName": "Participant ID"
+  },
+  "age": {
+    "Description": "Age of the participant at time of scanning",
+    "Units": "years"
+  },
+  "sex": {
+    "Description": "Phenotypical sex",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "group": {
+    "Description": "Group according to behavioral inclusion criteria",
+    "Levels": {
+      "included": "above chance performance across conditions",
+      "excluded": "below chance performance in a condition"
+    }
+  }
+}

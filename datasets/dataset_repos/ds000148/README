@@ -1,0 +1,24 @@
+Necka, E., Senderecka, M., Kucharzyk, B., Falkiewicz, M. (2015). "Who can afford self-control? The neural efficiency mechanism explains effective self-regulation of behavior".
+
+Subjects performed 3 sessions of figural 2-back task with lures on n-1 position. They were instructed to press a button when the target is present and withhold reaction when a lure was present. 
+
+Behavioral tests included trait self-control questionnaire AS36 (publication submitted), filled by both the participant and his/her two friends. The questionnaire consists of three subscales:
+switching, monitoring and inhibition. Additionally, IQ test scores (Raven's Progressive Matrices and TAO) are included in last two columns. All additional scores are included in demographics.txt in columns 5-15:
+
+1. dataset number
+2. subject
+3. sex
+4. age
+5. AS36, switching, self-rated
+6. AS36, switching, 1st friend rating
+7. AS36, switching, 2nd friend rating
+8. AS36, monitoring, self-rated
+9. AS36, monitoring, 1st friend rating
+10. AS36, monitoring, 2nd friend rating
+11. AS36, inhibition, self-rated
+12. AS36, inhibition, 1st friend rating
+13. AS36, inhibition, 2nd friend rating
+14. RPM
+15. TAO
+
+Note that the order of friends is arbitrary.  

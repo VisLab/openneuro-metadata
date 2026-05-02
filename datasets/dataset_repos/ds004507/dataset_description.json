@@ -1,0 +1,10 @@
+{
+    "Name": "Spinal Cord Head Positions",
+    "BIDSVersion": "1.2.0",
+    "Authors": [
+        "S. Bédard",
+        "J. Cohen-Adad"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004507.v1.1.1",
+    "License": "CC0"
+}

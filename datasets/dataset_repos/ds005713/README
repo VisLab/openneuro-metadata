@@ -1,0 +1,36 @@
+This dataset includes raw neuroimaging data from the neuroimaging of primary trigeminal neuralgia study, collected at the Federal Neurosurgical Center, Novosibirsk, Russia.
+Data were collected between 2022 and 2025. Participants were adults with diagnosed primary trigeminal neuralgia (according to The International Classification of Headache Disorders criteria), as well as healthy volunteers.
+
+This dataset includes high-resolution 3D_T1w_TFE, 3D_T2w, DTI with 64 diffusion directions and resting-state bold-fMRI data. Anatomical scans were defaced using pydeface software.
+
+MRI data were collected for 119 patients with PTN, organized in folders labeled sub-000, and 53 healthy volunteers in folders labeled sub-00. Furthermore, follow-up MRI data are available for 64 patients, stored in folders labeled sub-000fu. A second follow-up (via telephone interview) is available for 93 patients.
+
+Clinical, demographic and treatment-related information for each participant is provided in the participants.tsv file. A brief description of the columns is as follows:
+
+BIDS_ID: Participant identifier (e.g., sub-009 for patients, sub-01 for controls).
+
+age, sex, BMI, Racial/ethnic category: Basic demographic and anthropometric data.
+
+Clinical_finding: Primary diagnosis (e.g., TN, SUNA, SUNCT, or "normal" for controls).
+
+MRI_finding: Summary of key radiological findings (e.g., NVC, Fazekas grade, other anomalies).
+
+Sindou_grade: Neurovascular compression grade according to the Sindou classification (where applicable).
+
+Pain_side, Pain_type, Pain_severity, Disease_duration: Characteristics of the pain condition.
+
+Pharm_treatment: Pharmacological treatment details, including drug names and daily doses.
+
+Previous_surgeries, Previous_surgery_type: History of prior surgical interventions for TN.
+
+Surgery_type, Surgery_outcome, Postsurgery_pain_reduction, Surgical_complications: Details of the current surgical procedure (MVD, PI) and its immediate results.
+
+First follow-up, First follow-up time: Availability and timing (in days) of the first clinical follow-up (median time: 245 days).
+
+Second follow-up, Second follow-up pain NRS, Second follow-up time: Availability, pain score (0-10), and timing (in days) of the second follow-up (median time: 568 days).
+
+Comorbid medical conditions: List of reported comorbid health conditions.
+
+Additionally, the participants_psychology file contains data from psychological and neuropsychological testing for 84 patients and 47 healthy volunteers.
+
+The "mriqc_data" folder contains information on image quality metrics for T1w, T2w, DWI, and BOLD images calculated in a group analysis format for all patients. Raw data for each patient is available upon request to the dataset authors.

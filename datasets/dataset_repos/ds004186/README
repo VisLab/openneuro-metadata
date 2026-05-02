@@ -1,0 +1,2 @@
+HBN EO/EC datasets                   
+The Healthy Brain Network recorded 2952 children's eyes-open and eyes-closed EEG. Eyes-open lasted for 20 seconds, and eyes closed for 40 seconds. Because such files are difficult to process, they have been segmented here with five runs for eyes open and five runs for eyes closed. See notes in the code folder for included datasets.

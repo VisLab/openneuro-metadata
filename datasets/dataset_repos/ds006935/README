@@ -1,0 +1,8 @@
+# TRAMFIX Dataset
+
+This is the TRAMFIX (TRavelling Across Melbourne for FIXel-based analysis) dataset.
+The /derivatives directory contains preprocessed DWI data for 10 travelling heads subjects.
+
+This includes for each participant four sessions (corresponding to four different MRI scanners).
+
+

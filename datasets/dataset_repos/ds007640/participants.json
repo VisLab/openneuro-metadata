@@ -1,0 +1,14 @@
+{
+  "participant_id": {
+    "Description": "The unique identification number assigned to each participants"
+  },
+  "Age": {
+    "Description": "The age of the participant at the time of the experiment"
+  },
+  "Gender": {
+    "Description": "Biological sex of the participant"
+  },
+  "TEQ": {
+    "Description": "Total score from the Toronto Empathy Questionnaire(TEQ); utilized to screen for potential outliers with atypical affective responses"
+  }
+}

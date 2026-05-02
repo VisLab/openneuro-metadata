@@ -1,0 +1,14 @@
+{
+  "README": "b586ba99cddd930b2668cc7ad306cc7fc608ea67",
+  "task-IHG_bold.json": "1de090afa7bb43341eff3d1a99e6ee5c49ad14a4",
+  "CHANGES": "2b9d6558e2db3b9936b55005c4fc6cdb10140ad6",
+  "participants.tsv": "69e0f5015e924dccd974ba87c02a8d2e719a02b2",
+  "dataset_description.json": "a89e273df291803a9ee8171611f6116da2da3794",
+  "acq-FSE_T1w.json": "b3c7b358ec8f5d56e521e55fa9c17fe6c300589e",
+  "task-IHG_events.json": "a8da113083ba93732d010b0c8af7156484406056",
+  "task-IHG_events.tsv": "c167bb32d0628a44e35e49bbca71d8ffada9d9ba",
+  "T1w.json": "4d3abf60f79b53dad5309b1a7a1d9448deae0013",
+  "participants.json": "ad7d0d5fe1ed3e953fff70a03bb838f13db9e9eb",
+  "task-Oddball_events.json": "3c2f60aa18ab63b4e6c43922c3af1fb14bb44579",
+  "task-Oddball_bold.json": "a3ce2c2175f46e95178dac499f16168e2894b915"
+}

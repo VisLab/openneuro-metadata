@@ -1,0 +1,26 @@
+{
+    "Name": "Structural MRI, Resting-state fMRI, and PSG/EEG Dataset of Zoster-associated Neuralgia",
+    "BIDSVersion": "1.8.0",
+    "License": "CC0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Li Li",
+        "Qi Han",
+        "Haolei Bai",
+        "Xiaolong Zhang",
+        "Yong Liu",
+        "Chao He"
+    ],
+    "Author Contributions": [
+        "H.B. constructed and curated of the dataset. L.L. and Q.H. performed the measurements and collected the raw data. C.H., Y.L., and X.Z. were responsible for data quality control and overall data integrity."
+    ],
+    "SourceDatasets": [],
+    "HowToAcknowledge": "These data are associated with a manuscript currently under revision. Please cite the dataset DOI when using these data.",
+    "ReferencesAndLinks": [
+        "Code for data preprocessing and analysis: https://github.com/ellebai/zan-neuro"
+    ],
+    "EthicsApprovals": [
+        "Medical Ethics Committee of Second Affiliated Hospital of Army Medical University, PLA–approved protocol for human-subjects research involving neuroimaging and electrophysiological data (Approval No. 2021-045-01)."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007181.v1.0.1"
+}

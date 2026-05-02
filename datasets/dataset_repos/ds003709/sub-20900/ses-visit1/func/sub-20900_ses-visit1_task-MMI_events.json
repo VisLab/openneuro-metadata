@@ -1,0 +1,71 @@
+{
+  "onset": {
+    "Description": "Time the draw command on the monitor starts in seconds in reference to the scan start time of the block. Negative times indicate onsets before the first scanning block."
+  },
+  "onset_delay": {
+    "Description": "Difference between onset time and intended display time"
+  },
+  "onset_unadjusted": {
+    "Description": "True onset time in seconds without subtracting scanner start time"
+  },
+  "trial_number": {
+    "Description": "Sequential numbering of gambling trials accross all runs."
+  },
+  "block": {
+    "Description": "Block of task data, blocks correspond to functional runs."
+  },
+  "amount_change": {
+    "Description": "Change in winnings"
+  },
+  "certain_amount": {
+    "Description": "Value of the non-gamble choice"
+  },
+  "current_amount": {
+    "Description": "Current winnings"
+  },
+  "duration": {
+    "Description": "Time in seconds that this phase of the trial is presented"
+  },
+  "mood_target": {
+    "Description": "Targeted mood value of the block, higher value represents happier mood"
+  },
+  "multiplier": {
+    "Description": ""
+  },
+  "outcome": {
+    "Description": "Outcome of the trial - result of the gamble or certain"
+  },
+  "outcome1_amount": {
+    "Description": "Value of outcome 1"
+  },
+  "outcome2_amount": {
+    "Description": "Value of outcome 2"
+  },
+  "question_duration": {
+    "Description": "Duration of question in mood rating trials"
+  },
+  "rating": {
+    "Description": "Whether or not the participant was asked to rate their mood"
+  },
+  "response": {
+    "Description": "Value of the key response. 2 is gamble, 4 is certain outcome."
+  },
+  "rpe": {
+    "Description": "Model-based reward prediction error"
+  },
+  "rt": {
+    "Description": "Reaction time in seconds since onset time"
+  },
+  "rt_time": {
+    "Description": "Time of the response in seconds since the start of the scan"
+  },
+  "slider_response": {
+    "Description": "Value of slider response for mood ratings - higher value represents happier mood"
+  },
+  "trial_phase": {
+    "Description": "Which phase of the trial the event represents"
+  },
+  "trial_type": {
+    "Description": "Categorization of the trial on the basis of the cue type and the result"
+  }
+}

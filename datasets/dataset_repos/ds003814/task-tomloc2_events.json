@@ -1,0 +1,45 @@
+{
+	"trial_type": {
+		"LongName": "Trial Type",
+		"Description": "Trial condition labels",
+		"Levels": {
+			"Belief": "False belief stories",
+			"Photo": "False photograph stories"
+		}
+	},
+	"trial_type_id": {
+		"LongName": "Trial Type ID",
+		"Description": "Trial condition IDs",
+		"Levels": {
+			"1": "Belief",
+			"2": "Photo"
+		}
+	},
+	"question_type": {
+		"LongName": "Question type",
+		"Description": "Whether true/false question is about representation of reality",
+		"Levels": {
+			"1": "Representation",
+			"2": "Reality"
+		}
+	},
+	"stim_id": {
+		"LongName": "Stimulus ID",
+		"Description": "The ID of the specific story presented in this block."
+	},
+	"accuracy": {
+		"LongName": "Accuracy",
+		"Description": "Response accuracy",
+		"Levels": {
+			"0": "Inaccurate",
+			"1": "Accurate"
+		}
+	},
+	"StimulusPresentation": {
+		"OperatingSystem": "Mac OS 10.14.6",
+		"SoftwareName": "Psychtoolbox",
+		"SoftwareRRID": "SCR_002881",
+		"SoftwareVersion": "3.0.16",
+		"Code": "https://osf.io/5yjgh/"
+	}
+}

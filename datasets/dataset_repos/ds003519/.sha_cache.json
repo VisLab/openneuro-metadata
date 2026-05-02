@@ -1,0 +1,11 @@
+{
+  "CHANGES": "76be5710ef8cb5528ff3f8eec328b44344c25aa4",
+  "dataset_description.json": "6ca2812b9fa5fa0a6df2d49440ba13e2d84aa2df",
+  "participants.tsv": "041507768ec73fa83ced65d045036f6466d7b799",
+  "README": "21ee5a7ecda5d5cb5179185e3bd8c22e7319bfcb",
+  "participants.json": "1c84ab13595cdb20fddd835ba80d8e37405ce8c8",
+  "sub-001/ses-02/eeg/sub-001_ses-02_task-VisualWorkingMemory_events.json": "c6523a06649947c5b96a6e3438d6a0cb5b4bde37",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-VisualWorkingMemory_events.json": "c6523a06649947c5b96a6e3438d6a0cb5b4bde37",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-VisualWorkingMemory_events.tsv": "f34bb252f750843ba5e537eac119220d6c0116e0",
+  "sub-001/ses-02/eeg/sub-001_ses-02_task-VisualWorkingMemory_events.tsv": "793ecfb3fcc6c405969d2eeea3f48b1c14ac1f71"
+}

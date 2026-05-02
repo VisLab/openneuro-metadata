@@ -1,0 +1,6 @@
+{
+    "stimulus": {
+        "LongName": "Task stimulus",
+        "Description": "The stimulus used for the task."
+    }
+}

@@ -1,0 +1,4 @@
+{
+    "TaskName": "Univariate RNC controlling images experiment",
+    "TaskDescription": "While maintaining central fixation, participants were presented with the V1 vs. V4 univariate RNC controlling images. Each run lasted 436 seconds (or 436 TRs, since the TRs were of length 1 second), and consisted of 109 trials: 90 stimulus trials where univariate RNC controlling images were presented, 4 catch trials and 15 blank trials. The whole scan session consisted of 10 runs (900 stimulus trials in total). We controlled stimulus presentation using the code at: https://github.com/gifale95/RNC/06_in_vivo_validation/01_experimental_paradigm/univariate_rnc_experiment" 
+}

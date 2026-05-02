@@ -1,0 +1,9 @@
+{
+  "TaskName": "probe",
+  "TaskDescription": "Binary choices between pairs of snack-food items",
+  "RepetitionTime": 2,
+  "EchoTime": 0.03,
+  "FlipAngle": 90,
+  "Manufacturer": "SIEMENS",
+  "ManufacturersModelName": "Prisma"
+}

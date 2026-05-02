@@ -1,0 +1,23 @@
+{
+  "trial_type": "Stimulus type (BASELINE, CLOSE, DISTANT).",
+  "stim_list": "Run stimuli filename (StimuliTable-<EXPID>-Mapping-RunX.xlsx).",
+  "itemno": "Item index from the run stimuli table.",
+  "noun": "Noun of the stimulus (in Hungarian).",
+  "adjective": "Adjective of the stimulus (in Hungarian).",
+  "jitter": "Inter-trial interval value (seconds, 2-4-6-8-10).",
+  "response": "Recoded key response signalling the 1-4 Likert-rating of adjective + noun match.",
+  "counterbalance": "1 or 2; determines the response mapping to hands.",
+  "noun_freq": "Frequency of noun (Hungarian National Corpus).",
+  "noun_char": "Number of characters in noun.",
+  "noun_syll": "Number of syllables in noun.",
+  "noun_phon": "Number of phonemes in noun.",
+  "adj_freq": "Frequency of adjective (Hungarian National Corpus).",
+  "adj_char": "Number of characters in adjective.",
+  "adj_syll": "Number of syllables in adjective.",
+  "adj_phon": "Number of phonemes in adjective.",
+  "arousal": "Arousal rating of the noun–adjective combination.",
+  "concreteness": "Concreteness rating of the noun–adjective combination.",
+  "imageability": "Imageability rating of the noun–adjective combination.",
+  "meaningfulness": "Meaningfulness rating of the noun–adjective combination.",
+  "cosine": "Cosine similarity metric for the noun–adjective pair."
+}

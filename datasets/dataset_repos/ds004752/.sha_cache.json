@@ -1,0 +1,23 @@
+{
+  "CHANGES": "c0bdb038cd9b824f833e6b4a51f7471535f89f39",
+  "README": "a2b86e42ed028d5269d79b358c54273d7db7ac9a",
+  "participants.tsv": "a74d671890f5d1abe4615ebc73bea62e2f73834c",
+  "participants.json": "236892d0a0e7eec880f82361579d78abc990a6dd",
+  "dataset_description.json": "6cb2fd53b63576d375c6d75c31ebbc2d778a3366",
+  "sub-01/ses-01/ieeg/sub-01_ses-01_task-verbalWM_run-01_events.json": "b2ca4adfecf8a9bd4c03f0da4432147a52cccfa8",
+  "sub-01/ses-02/eeg/sub-01_ses-02_task-verbalWM_run-01_events.json": "b2ca4adfecf8a9bd4c03f0da4432147a52cccfa8",
+  "sub-01/ses-01/eeg/sub-01_ses-01_task-verbalWM_run-01_events.json": "b2ca4adfecf8a9bd4c03f0da4432147a52cccfa8",
+  "sub-01/ses-02/ieeg/sub-01_ses-02_task-verbalWM_run-01_events.json": "b2ca4adfecf8a9bd4c03f0da4432147a52cccfa8",
+  "sub-01/ses-02/ieeg/sub-01_ses-02_task-verbalWM_run-01_events.tsv": "f04a6238ebe7c867c92746672a7867b6c9c100fc",
+  "sub-01/ses-01/ieeg/sub-01_ses-01_task-verbalWM_run-01_events.tsv": "c7b2382e1e747bdc76d28e30ed22d481dd1458de",
+  "sub-01/ses-02/eeg/sub-01_ses-02_task-verbalWM_run-01_events.tsv": "6d0eb56c481d2e2292b5ab23e966f346410d0c3b",
+  "sub-01/ses-03/eeg/sub-01_ses-03_task-verbalWM_run-01_events.json": "b2ca4adfecf8a9bd4c03f0da4432147a52cccfa8",
+  "sub-01/ses-01/eeg/sub-01_ses-01_task-verbalWM_run-01_events.tsv": "f5ff57c954016366bebc18bd25914bdfeec28ce5",
+  "sub-01/ses-03/eeg/sub-01_ses-03_task-verbalWM_run-01_events.tsv": "8050a2cdddedba92baa2ed2c66cc7900a8393c32",
+  "sub-01/ses-03/ieeg/sub-01_ses-03_task-verbalWM_run-01_events.json": "b2ca4adfecf8a9bd4c03f0da4432147a52cccfa8",
+  "sub-01/ses-04/eeg/sub-01_ses-04_task-verbalWM_run-01_events.tsv": "1b40495ed6f206ed0be91b55f0855ee37d6acacc",
+  "sub-01/ses-04/eeg/sub-01_ses-04_task-verbalWM_run-01_events.json": "b2ca4adfecf8a9bd4c03f0da4432147a52cccfa8",
+  "sub-01/ses-03/ieeg/sub-01_ses-03_task-verbalWM_run-01_events.tsv": "b16b934184c5bd09c76d8256825f1013629a7530",
+  "sub-01/ses-04/ieeg/sub-01_ses-04_task-verbalWM_run-01_events.json": "b2ca4adfecf8a9bd4c03f0da4432147a52cccfa8",
+  "sub-01/ses-04/ieeg/sub-01_ses-04_task-verbalWM_run-01_events.tsv": "3e8799622b53b291a5a986c78b497bf16c66121a"
+}

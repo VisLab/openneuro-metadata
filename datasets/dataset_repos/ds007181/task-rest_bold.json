@@ -1,0 +1,15 @@
+{
+    "TaskName": "Rest",
+    "Instructions": "Participants were instructed to remain relaxed and awake with eyes closed during the scan.",
+    "RepetitionTime": 2.0,
+    "EchoTime": 0.021,
+    "FlipAngle": 90,
+    "SliceThickness": 1.5,
+    "VoxelSize": [
+        1.5,
+        1.5,
+        1.5
+    ],
+    "NumberOfSlices": 90,
+    "NumberOfVolumes": 240
+}

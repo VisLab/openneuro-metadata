@@ -1,0 +1,12 @@
+{
+  "CHANGES": "c4878722e18f8eb90cefd91c09f8c14fd31adfb2",
+  "README": "a07ba9c9d927467faa437033fe3bfd25bd46371f",
+  "dataset_description.json": "dbd4e84a7704fc9269ba4d7228b90a463b8e1265",
+  "task-visualimageryfalsememory_bold.json": "12a84dd7b7247c56dd0746ca39e02d1ec2c2aec5",
+  "participants.tsv": "5b08923945d24e91652f41138cfdfc2a6e8fe30a",
+  "T1w_group.html": "33c80e1245192ea60208b25e3c0da3c3c8d068d7",
+  "participants.json": "16b4d02761e8d0a03a5379c6a6fbe9e0372ca822",
+  "bold_group.html": "59d1c54fd941cfc529b4afe8029a52c93a02b1bb",
+  "sub-01/func/sub-01_task-visualimageryfalsememory_run-01_events.tsv": "3a46f5215ed5dbc18602d8df5692d36f57e5233f",
+  "sub-01/func/sub-01_task-visualimageryfalsememory_run-02_events.tsv": "8ab75fa07186c493d013d42a87156ddc3881c11c"
+}

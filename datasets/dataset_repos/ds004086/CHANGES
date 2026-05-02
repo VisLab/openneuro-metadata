@@ -1,0 +1,8 @@
+1.2.0 2022-05-31
+  - excluded sub-56 as they were missing fMRI runs
+1.1.0 2022-05-31
+  - correctly uploaded README and task description; added events files for missing subjects (sub-36 & sub-54)
+1.0.1 2022-05-31
+  - Fixed errors and warnings; added a task events description; added README; 
+1.0.0 2022-04-14
+  - initial commit

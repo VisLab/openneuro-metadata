@@ -1,0 +1,4 @@
+# 3AM reproducibility phantoms
+
+This dataset consists of a single scan of a set of four straight 3AM phantoms produced with identical (nominal) print parameters. The intention is to use this data to assess the consistency of dMRI model parameters across the different phantoms.
+

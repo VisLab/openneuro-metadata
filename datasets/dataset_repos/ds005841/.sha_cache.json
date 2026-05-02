@@ -1,0 +1,14 @@
+{
+  "README": "93bcdd6a054b1d51bfd3e017247f50cb53996e6b",
+  "dataset_description.json": "59e67b1b62ac9b92a5969e9dec26417f23e792fa",
+  "participants.json": "cbf6f9a30bc8c1be0fe268b102abac31b035d013",
+  "events.json": "d6b799c825eaaf9bf6512bb87e12e33daef664d9",
+  "CHANGES": "5574e52bf3300c519695bae5a18b7ea2598436e3",
+  "participants.tsv": "78c6ba8f26700a1ef877fd227d166c38cd79bb96",
+  "sub-001/eeg/sub-001_task-signalscreen_events.tsv": "d2e85a730e754f7439f5fc3813d4e10c78f21a4f",
+  "sub-001/eeg/sub-001_task-regfront_events.tsv": "c9e3ca9a3853ba5043689528d29b786cc4d7496a",
+  "sub-001/eeg/sub-001_task-regperp_events.tsv": "43f91f6c6fbd2f5cabe39de924e03f1de17c966a",
+  "sub-001/eeg/sub-001_task-lumperp_events.tsv": "225a5187fa33ad03bb75f37342e65f24bb524e58",
+  "sub-001/eeg/sub-001_task-signalvr_events.tsv": "d2e85a730e754f7439f5fc3813d4e10c78f21a4f",
+  "sub-001/eeg/sub-001_task-lumfront_events.tsv": "d2e85a730e754f7439f5fc3813d4e10c78f21a4f"
+}

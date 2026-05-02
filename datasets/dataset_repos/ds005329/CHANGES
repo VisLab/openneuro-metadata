@@ -1,0 +1,12 @@
+2.0.0 2025-08-13
+  - Added processed structural and fMRI data
+1.1.0 2025-07-25
+  - Added first-level SPM batch and SPM.mat files in each participant's func folder under "derivatives"
+  - Added group-level (full factorial) SPM batch and SPM.mat files under "derivates" at the root of the dataset
+  - Added transcripts of participants' verbal responses in events.tsv files associated to each BOLD file
+1.0.2 2024-07-25
+  - Updated manuscript title in readme and json description file
+1.0.1 2024-07-24
+  - Updated manuscript title in readme and json description file
+1.0.0 2024-07-11
+  - Initial snapshot

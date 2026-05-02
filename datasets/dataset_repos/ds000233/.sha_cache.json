@@ -1,0 +1,18 @@
+{
+  "task-tax_bold.json": "7cbde01f876d84d5919a882657565d8a47f5ff84",
+  "dataset_description.json": "5bf87891febe45d7d8a6e0e8b9b230115733b711",
+  "task-beh_bold.json": "a2a7c4e0b3fb559adab5aed1ebaba1e47f5fb965",
+  "CHANGES": "34ee9ea4dcfafd152a53521a406d8ae1bb0277aa",
+  "README": "30fc45dc402c14acb38e4035098dfd304510f6ae",
+  "participants.tsv": "d505e3f98c4d6c7cba6ab93c1c7b8165f096dd77",
+  "sub-rid000001/func/sub-rid000001_task-tax_run-3_events.tsv": "111159bc82b76c029ef601a8da9637058ed59b0a",
+  "sub-rid000001/func/sub-rid000001_task-beh_run-1_events.tsv": "09d879fc6d134df85e66cbbdbc63d78c67aed58d",
+  "sub-rid000001/func/sub-rid000001_task-beh_run-3_events.tsv": "202d8f3eb3586630ef258982094ec484332e92ff",
+  "sub-rid000001/func/sub-rid000001_task-tax_run-2_events.tsv": "2957d3dfb6cd080cb123a0ca81e1478ad4f41c5e",
+  "sub-rid000001/func/sub-rid000001_task-beh_run-4_events.tsv": "6a12ae2e3a36357e16df6c8b1ccbfd71de404f0e",
+  "sub-rid000001/func/sub-rid000001_task-tax_run-1_events.tsv": "4e11f9ed1bb121a7d0f7b0c684ea374bbb48185d",
+  "sub-rid000001/func/sub-rid000001_task-tax_run-4_events.tsv": "a5677e83bb5e92f6aaa27808a4683626fd6b28c3",
+  "sub-rid000001/func/sub-rid000001_task-tax_run-5_events.tsv": "91de11971e9f1e7b4e0259284427865315714484",
+  "sub-rid000001/func/sub-rid000001_task-beh_run-2_events.tsv": "014034cf3116e7804c6d1875f413cef8cffa0e15",
+  "sub-rid000001/func/sub-rid000001_task-beh_run-5_events.tsv": "4789f80dd9966deb560000a8351ff4857869abbe"
+}

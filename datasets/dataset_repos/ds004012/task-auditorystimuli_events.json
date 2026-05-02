@@ -1,0 +1,24 @@
+{
+"Task_type": {
+
+    "Experiment": "Stimuli",
+
+    "Description": "Continuous auditory stimuli",
+
+    "Levels": {
+
+      "Rest01": "first rest session without any stimulus",
+	  "Stim01": "Monochord",
+	  "Stim02": "Hare Krishna",
+	  "Stim03": "Arabic News",
+	  "Stim04": "Arabic Poem",
+	  "Stim05": "Murattal Asim Tadwir",
+	  "Stim06": "Murattal Susi",
+	  "Stim07": "Tarannum Asim Tahqiq",
+	  "Stim08": "Murattal Asim Hadr",
+      "Rest02": "second rest session without any stimulus"
+
+    }
+
+  }
+}

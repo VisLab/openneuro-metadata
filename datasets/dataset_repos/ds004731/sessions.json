@@ -1,0 +1,54 @@
+{
+    "age": {
+        "LongName": "Age of Participant on date of scan",
+        "Units": "years"
+    },
+    "weight": {
+        "LongName": "Weight of Participant on date of scan",
+        "Units": "kg"
+    },
+    "height": {
+        "LongName": "Height of Participant on date of scan",
+        "Units": "cm"
+    },
+    "acq_time": {
+        "LongName": "Date of PET scan"
+    },
+    "acquisition": {
+        "LongName": "Acquisition state during the PET imaging session",
+        "Levels": {
+            "Awake": "Awake",
+            "Propofol": "Anesthetized with propofol",
+            "Asleep": "Asleep",
+            "SleepDeprived": "Sleep-deprived awake",
+            "Dex": "Sedated with Dexmedetomidine"
+        }
+    },
+    "percent_time_awake": {
+        "LongName": "Weighted percent of total scan time awake",
+        "Units": "percent"
+    },
+    "percent_time_stage_1": {
+        "LongName": "Weighted percent of total scan time in Sleep Stage 1",
+        "Units": "percent"
+    },
+    "percent_time_stage_2": {
+        "LongName": "Weighted percent of total scan time in Sleep Stage 2",
+        "Units": "percent"
+    },
+    "percent_time_stage_3": {
+        "LongName": "Weighted percent of total scan time in Sleep Stage 3",
+        "Units": "percent"
+    },
+    "percent_time_rem:": {
+        "LongName": "Weighted percent of total scan time in REM",
+        "Units": "percent"
+    },
+    "trained_visual_field:": {
+        "LongName": "Trained Visual Field",
+        "Levels": {
+            "right": "Right visual field",
+            "left": "Left visual field"
+        }
+    }
+}

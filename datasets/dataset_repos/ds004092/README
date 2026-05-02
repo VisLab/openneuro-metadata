@@ -1,0 +1,42 @@
+This dataset contains functional and anatomical MRI raw data underlying the paper published in PLOS ONE in 2022
+"Imaging the influence of peripheral TRPV1-signaling on cerebral nociceptive processing applying fMRI-based graph theory in a resiniferatoxin rat model"
+Short Title: Influence of TRPV1-desensitization on central nociception
+
+Authors: Isabel Wank1¶, Lisa Kutsche1¶, Silke Kreitz1, Peter Reeh2, Andreas Hess1*
+
+1 Institute of Experimental and Clinical Pharmacology and Toxicology, Friedrich-Alexander University Erlangen-Nuremberg, Fahrstrasse 17, 91054 Erlangen, Germany
+
+2 Institute of Physiology and Pathophysiology, Friedrich-Alexander University Erlangen-Nuremberg, Universitätsstrasse 17, 91054 Erlangen, Germany
+
+* Corresponding author
+E-mail: andreas.hess@fau.de
+
+¶These authors contributed equally to this work.
+
+
+For information about study design and stimulation please refer to the paper.
+
+ABSTRACT
+
+Resiniferatoxin (RTX), an extract from the spurge plant Euphorbia resinifera, is a potent agonist of the transient receptor potential cation channel subfamily V member 1 (TRPV1), 
+mainly expressed on peripheral nociceptors - a prerequisite for nociceptive heat perception. Systemic overdosing of RTX can be used to desensitize specifically TRPV1-expressing 
+neurons, and was therefore utilized here to selectively characterize the influence of TRPV1-signaling on central nervous system (CNS) temperature processing.
+Resting state and CNS temperature processing of male rats were assessed via functional magnetic resonance imaging before and after RTX injection. General linear model-based and 
+graph-theoretical network analyses disentangled the underlying distinct CNS circuitries.
+At baseline, rats displayed an increase of nociception-related response amplitude and activated brain volume that correlated highly with increasing stimulation temperatures. 
+In contrast, RTX-treated rats showed a clear disruption of thermal nociception, reflected in a missing increase of CNS responses to temperatures above 48 °C. Graph-theoretical 
+analyses revealed two distinct brain subnetworks affected by RTX: one subcortical (brainstem, lateral and medial thalamus, hippocampus, basal ganglia and amygdala), and one 
+cortical (primary sensory, motor and association cortices). Resting state analysis revealed first, that peripheral desensitization of TRPV1-expressing neurons did not disrupt 
+the basic resting-state-network of the brain. Second, only at baseline, but not after RTX, noxious stimulation modulated the RS-network in regions associated with memory formation
+(e.g. hippocampus).
+Altogether, the combination of whole-brain functional
+ magnetic resonance imaging and RTX-mediated desensitization of TRPV1-signaling provided further detailed insight into 
+cerebral processing of noxious temperatures.
+
+
+
+
+
+This dataset has been converted using BrkRaw (vRTX_5.json)at 2022-03-30 23:19:07.666876.
+## How to cite?
+ - https://doi.org/10.5281/zenodo.3818615

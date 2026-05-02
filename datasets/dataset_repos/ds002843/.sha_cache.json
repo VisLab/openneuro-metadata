@@ -1,0 +1,23 @@
+{
+  "task-itc_bold.json": "649122c6096f5629e1f0cc6e15eee6e03730817e",
+  "dwi.json": "2af30cb3c3c3db2f957016d259f119c199ae7e4f",
+  "README": "f266bb8677bb3ca8c19c19170956dfe30a79ed9f",
+  "T2w.json": "6756ec70f879b1dd049f7556e4cb8cb6d963a188",
+  "CHANGES": "6cec67b04f7822cc7e158eba217daa973809babc",
+  "dataset_description.json": "794fa922e44be8ced86d67c7c95231f823dc4960",
+  "T1w.json": "c5cf9a38fc97bc922359666a1f13c49f5b7fa3e7",
+  "task-itc_events.json": "225f554a6b5252da6c980810fa6a223505389a32",
+  "participants.json": "a868c8033a81c84c18936d78dda1c2403bb91278",
+  "participants.tsv": "db9ea7096576df7d8739695d73d2f3e438bf98cb",
+  "task-risk_events.json": "436cb9d25c2b208bbd7868d18ce64029d55ca0d3",
+  "task-risk_bold.json": "aad4ee9456ed84e308b919b8d6ffb6a17a70d8af",
+  "task-rest_bold.json": "14ea3da42eb2df76c7de857092fecd6228487de1",
+  "sub-dmp0005/ses-scan1/func/sub-dmp0005_ses-scan1_task-itc_run-1_events.tsv": "f4f9e2572eed4367929800b86bda16df9d578874",
+  "sub-dmp0005/ses-scan1/func/sub-dmp0005_ses-scan1_task-itc_run-2_events.tsv": "e06f3b09510f5cfe03fc3847361793ac034b2e40",
+  "sub-dmp0005/ses-scan1/func/sub-dmp0005_ses-scan1_task-itc_run-4_events.tsv": "f8da594bbf3a88dfb1ae0ef8ba867226d228ce4d",
+  "sub-dmp0005/ses-scan1/func/sub-dmp0005_ses-scan1_task-risk_run-3_events.tsv": "6844800cbd117bb27cce75a84980b318da8bfeb4",
+  "sub-dmp0005/ses-scan1/func/sub-dmp0005_ses-scan1_task-itc_run-3_events.tsv": "0fd8079ee8d5a725ea1d5fb55b8cdfb37c277a5b",
+  "sub-dmp0005/ses-scan1/func/sub-dmp0005_ses-scan1_task-risk_run-1_events.tsv": "73324cbfb0eb5f693717b9b956225ce2a596e3a6",
+  "sub-dmp0005/ses-scan1/func/sub-dmp0005_ses-scan1_task-risk_run-4_events.tsv": "3d929b0aede8ff3c1dd5c69185f0af33d73a6bc7",
+  "sub-dmp0005/ses-scan1/func/sub-dmp0005_ses-scan1_task-risk_run-2_events.tsv": "9537f78b8265ebd7b82e229bd7e31f7b235be4dd"
+}

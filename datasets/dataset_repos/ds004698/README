@@ -1,0 +1,75 @@
+# Center for Human Neuroscience (CHN) Retinotopic Mapping Dataset
+
+The Center for Human Neuroscience (CHN) Retinotopic Mapping Dataset collected at the University of Washington is part of "Improving the reliability and accuracy of population receptive field measures using a 'log-bar' stimulus" by Kelly Chang, Ione Fine, and Geoffrey M. Boynton.
+
+The full dataset is comprised of the raw, preprocessed (with fMRIPrep), and pRF estimated data from 12 participants across 2 sessions.
+
+## Dataset Organization
+
+- `dataset`  
+   This directory contains the raw, unprocessed data for each participant. 
+
+- `dataset/derivatives/fmriprep`  
+   This directory contains the fMRIPrep processed data for each particpant. 
+
+- `dataset/derivatives/freesurfer`  
+   This directory contains the standard FreeSurfer processed data for each participant. 
+
+- `dataset/derivatives/prf-estimation`  
+   This directory contains the pRF estimation data and results for each participant.
+
+- `dataset/derivatives/prf-estimation/files`  
+   This directory contains miscellaneous files used for pRF estimation or visualizations.
+
+   - `angle_lut.json`: Custom polar angle lookup table for visualization with FreeSurfer's `freeview`.
+   - `eccen_lut.json`: Custom eccentricity lookup table for visualization with FreeSurfer's `freeview`.
+   - `participants_hrf_paramters.json`: Corresponding metadata for `participants_hrf_paramters.tsv`.
+   - `participants_hrf_paramters.tsv`: Estimated HRF parameters used during pRF estimation by participant and hemisphere. 
+
+- `dataset/derivatives/prf-estimation/stimuli`  
+   This directory contains the stimuli used in the experiment and stimulus apertures used in pRF estimation.
+
+   - `task-(fixed|log)bar_run-(1|2|3)`: Name of the stimulus condition and run number.
+   - `*_desc-full_stim.mat`: Stimulus images (uint8) at `full` resolution of 540 by 540 pixels and 6 Hz.
+   - `*_desc-down_aperture.mat`: Stimulus aperature (binary) where 1s indicated stimulus and 0s indicated the background at a downsampled (`down`) resolution of 108 by 108 pixels and 1 Hz.  
+
+- `dataset/derivatives/prf-estimation/sub-(n)/anat`  
+   This directory contains the participant's surface (inflated and sphere) and curvature files for visualization using FreeSurfer's `freeview`.
+
+- `dataset/derivatives/prf-estimation/sub-(n)/func`  
+   This directory contains the preprocessed and denoised functional data, sampled onto the participant's surface, used during pRF estimation. 
+
+- `dataset/derivatives/prf-estimation/sub-(n)/prfs`
+   This directory contains the estimated pRF parameter maps separated by which data was used during estimation. 
+
+   - `ses-(01|02|all)`: Sessions used during pRF estimation, either Session 1, Session 2, or both. 
+   - `task-(fixedbar|logbar|all)`: Stimuli type used during pRF estimation, either fixed-bar, log-bar, or both. 
+
+ Within the pRF estimate directories are the estimated pRF parameter maps for: 
+   - `*_angle.mgz`: Polar angle maps, degrees from (-180, 180). Negative values represent the left hemifield and positive values represent the right hemifield. 
+   - `*_eccen.mgz`: Eccentricity maps, visual degrees. 
+   - `*_sigma.mgz`: pRF size maps, visual degrees.
+   - `*_vexpl.mgz`: Proportion of variance explained maps.
+   - `*_x0.mgz`: x-coordinate maps, visual degrees, with origin (0,0) at screen center.
+   - `*_y0.mgz`: y-coordinate maps, visual degrees, with origin (0,0) at screen center. 
+
+- `dataset/derivatives/prf-estimation/sub-(n)/rois`  
+   This directory contains the roi (.label) files for each 
+   participant. 
+
+  - `*_VC.label`: Visual cortex (VC). A liberal ROI that covered visual cortex used for pRF estimation.
+  - `*_fovea.label`: Foveal confluence ROI.
+  - `*_V1.label`: V1 ROI files. 
+  - `*_V2.label`: V2 ROI files. 
+  - `*_V3.label`: V3 ROI files. 
+  - `*_V3ab.label`: V3a/b ROI files. 
+  - `*_hV4.label`: hV4 ROI files. 
+  - `*_LOC.label`: Lateral-Occipital Complex (LOC) ROI files. 
+  - `*_TOC.label`: Temporal-Occipital Complex (TOC) ROI files. 
+
+- `dataset/tutorials`  
+   This directory contains tutorial scripts in MATLAB and Python to generate log distorted images from a directory of input images.
+
+   - `create_distorted_images.[m,ipynb]`: Tutorial script that generates log-distorted images when given an image input directory.
+   - `fixed-bar`: Sample image input directory.
+   - `log-bar`: Sample image output directory.

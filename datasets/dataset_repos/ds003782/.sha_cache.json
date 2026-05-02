@@ -1,0 +1,9 @@
+{
+  "CHANGES": "d6eb689e93670ec2d27551004c8ef26fbbd71ce4",
+  "task-probabilitymixedgambles_bold.json": "8057bdf7f8748866f3b5eceef4392225e3d1ff3a",
+  "dataset_description.json": "1eaa472c0ca2d8d71a9d701ca3778ce3d814b747",
+  "task-effortmixedgambles_bold.json": "c199a8d8ebbb5bfcb6a4d76cea7a8ef795039c03",
+  "task-efforttraining_bold.json": "67dc871120d499af471f6b35295fe735f7497759",
+  "participants.tsv": "34592ab33b7e89b0904da17f8a36408811c9b9fd",
+  "sub-19/func/sub-19_task-efforttraining_events.tsv": "50a408c667f4d29fbb7bb75f4e055ad34370cc9f"
+}

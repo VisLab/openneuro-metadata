@@ -1,0 +1,23 @@
+This dataset contains the raw data associated with the paper *Shared neural codes for visual and semantic information about familiar faces in a common representational space* by Matteo Visconti di Oleggio Castello,
+James V. Haxby, and M. Ida Gobbini published in the Proceedings of the National Academy of Sciences.
+
+Fourteen subjects performed a 1-back repetition detection task on faces of personally familiar identities and visually familiar identities over two scanning sessions. Hyperalignment was used to functionally align their data based on a movie dataset, "The Grand Budapest Hotel".
+
+Sample code for the analyses is available at https://github.com/mvdoc/identity-decoding. Additional behavioral data is available at https://osf.io/ehygz/.
+
+For more information, see the corresponding paper at https://doi.org/10.1073/pnas.2110474118. 
+
+The Grand Budapest Hotel data is available at https://openneuro.org/datasets/ds003017/. See also the associated paper: Visconti di Oleggio Castello, M., Chauhan, V., Jiahui, G., & Gobbini, M. I. (2020). *An fMRI dataset in response to "The Grand Budapest Hotel", a socially-rich, naturalistic movie*. Scientific Data, 7(1), 1-9 https://doi.org/10.1038/s41597-020-00735-4
+
+If you use this dataset or the code, please cite the corresponding paper: 
+
+> Visconti di Oleggio Castello, M., Haxby, J.V., & Gobbini, M.I. Shared neural codes for visual and semantic information about familiar faces in a common representational space. Proceedings of the National Academy of Sciences (2021). https://doi.org/10.1073/pnas.2110474118
+
+### Notes
+
+T1 anatomicals were refaced using AFNI's `@afni_refacer_run` https://afni.nimh.nih.gov/pub/dist/doc/program_help/@afni_refacer_run.html
+
+
+### Contact information
+
+For questions on this dataset, please contact Matteo Visconti di Oleggio Castello (matteo.visconti@berkeley.edu).

@@ -1,0 +1,102 @@
+{
+    "onset": {
+        "LongName": "default bids onset column",
+        "Description": "default to avoid validation errors. Values n/a, use below."
+    },
+    "duration": {
+        "LongName": "default bids duration column",
+        "Description": "default to avoid validation errors. Values n/a, use below."
+    },
+    "TRIAL_TYPE": {
+        "LongName": "Trial type",
+        "Description": "Trial type indicates the value of the trial",
+        "Levels": {
+            "LgReward": "LgReward, pink circle w/ 'Win $5' text, indicates that if a response is received within the alloted probe window the participant will gain the $5 that is indicated on the screen.",
+            "SallReward": "SmallReward, pink circle w/ 'Win $0.20' text, indicates that if a response is received within the alloted probe window the participant will gain the $0.20 that is indicated on the screen.",
+            "Neutral": "A neutral condition. The neutral cue, a turquoise triangle on the screen with 'No Money at Stake' text, indicates that if a response is/isnt received within the alloted probe window the participant will not gain or lose any amount",
+            "LgPun": "LgPun, yellow circle w/ 'Don't Lose $5' text, indicates that if a response is received within the alloted probe window the participant will not lose the $5 that is indicated on the screen.",
+            "SmallPun": "SmallPun, yelolow circle w/ 'Don't Lose $0.20' text, indicates that if a response is received within the alloted probe window the participant will not lose the $0.20 that is indicated on the screen."
+            }
+    },
+
+    "CUE_ONSET": {
+        "LongName": "Trial type cue onset time",
+        "Description": "Cue onset is the beginning of the trial. It indicates the type of trial and when it started in seconds"
+    },
+
+    "CUE_DURATION": {
+        "LongName": "Trial type cue duration time",
+        "Description": "Cue duration is the length of time (in seconds) that the cue appears on the screen before proceeding to fixation cross. Constant at 2 seconds."
+    },
+    
+    "FIXATION_ONSET": {
+        "LongName": "Fixation Cross Onset Time",
+        "Description": "After cue onset/duration, a fixation cross appears on the screen. Fixation onset indicates in seconds when it starts."
+    },
+
+    "FIXATION_DURATION": {
+        "LongName": "Fixation Cross Duration",
+        "Description": "Fixation duration is the length of time (in seconds) that the Fixation cross appears on the screen before proceeding to probe. Fixation is jittered across trials (ITI: 1.5, 2, 2.5, 3, 3.5, 4 seconds)."
+    },
+    
+    "PROBE_ONSET": {
+        "LongName": "Probe Onset",
+        "Description": "After the fixation cross, the probe appears to which participants have to respond (in seconds)."
+    },
+
+    "PROBE_DURATION": {
+        "LongName": "Probe Duration",
+        "Description": "The probe duration is the window (in seconds) within which participants must respond during the trial. Similar to the ABCD study design, task performance is individualized. The target duration os based on the participant’s practice MRT prior to the MRI. During the MID scan, performance calculation: the average reaction time (RT) on correct trials + two standard deviations. The intended goal is to reach 60% accuracy rate over the course of the trial, so the task difficulty is adjusted every third incentivized trial based on the overall accuracy rate of the previous six trials. If the accuracy falls/increases above 60% the duration of the target is lengthened/shortened."
+    },
+    
+    "TRIAL_RESULT": {
+        "LongName": "Feedback Type",
+        "Description": "This variable indicates the outcome for the trial.",
+        "Levels": {
+            "No money at stake!": "This is during the neutral trial, so no money was gained or lost.",
+            "You earn $5!": "This is during the LgReward cue. This outcome indicates the participant responded on time and gained $5 during this trial.",
+            "You did not earn $5!": "This is during the LgReward cue. This outcome indicates the participant did not respond on time and so did not gain $5 during this trial.",
+            "You earn $0.20!": "This is during the SmallReward cue. This outcome indicates the participant responded on time and gained $0.20 during this trial.",
+            "You did not earn $0.20!": "This is during the SmallReward cue. This outcome indicates the participant did not respond on time and so did not gain $0.20 during this trial.",
+            "You keep $5!": "This is during the LgPun cue. This outcome indicates the participant responded on time and did not lose $5 during this trial.",
+            "You lose $5!": "This is during the LgPun cue. This outcome indicates the participant did not respond on time and so they lost $5 during this trial.",
+            "You keep $0.20!": "This is during the SmallPun cue. This outcome indicates the participant responded on time and did not lose $0.20 during this trial.",
+            "You lose $0.20!": "This is during the SmallPun cue. This outcome indicates the participant did not respond on time and so they lost $0.20 during this trial."
+        }
+    },
+    
+    "FEEDBACK_ONSET": {
+        "LongName": "Feedback Onset",
+        "Description": "After the probe, this is the onset time of the feedback (in seconds)."
+    },
+
+    "FEEDBACK_DURATION": {
+        "LongName": "Feedback Duration",
+        "Description": "This is the length of time (in seconds) that the feedback duration is on the screen."
+    },
+    
+    "PROBE_HIT": {
+        "LongName": "Probe Accuracy",
+        "Description": "This variable indicates whether participant accuracy in their response during the trial.",
+        "Levels": {
+            "0": "Indicates the participant missed the trial (i.e., too fast, too slow, or non-response)",
+            "1": "Indicates the participant accurately responded during the trial."
+            }
+    },
+    
+    "PROBE_MRT": {
+        "LongName": "Probe Response Time",
+        "Description": "This is the response time in milliseconds. Note, in the e-prime design, as in the early version of ABCD study, Probe RT is only collected for successful trials. Thus, missed trials (e.g., early/late/non-response) do not have an MRT in the file."
+    },
+    
+    "RESULT_REASON": {
+        "LongName": "Result Hit/Miss Reason",
+        "Description": "This indicates the reason for missing a trial",
+        "Levels": {
+            "Correct Response!": "All accurate responses within probe window",
+            "You pressed too soon!": "Inaccurate resposne when participant responded before probe window.",
+            "You pressed too slow!": "Inaccurate resposne when participant responded after probe window or didnt respond."
+            }
+    }
+    
+}

@@ -1,0 +1,38 @@
+OpenNeuro curator note: This dataset was previously accessible at ds002070. The dataset was reuploaded due to privacy considerations. 
+
+This is the functional and structural MRI data of  the following study:
+
+"Chatzichristos, C. and Morante, M. and Andreadis, A. and Kofidis, E. and Kopsinis, Y. and Theodoridis, S. Emojis influence autobiographical memory retrieval from reading words: An fMRI-based study, Plos One, 2020"
+
+Folders are organised in subject number (e.g. sub-01). Within each folder there are subfolders with the following:
+
+1) anat 
+
+	- Bravo T1-weighted structural scan
+          TR 6.8 ms, TE 2.6 ms, flip angle 10o, 1.2 mm3 
+          isotropic voxels, image size 512x512x280
+
+    - Flair T2-weighted structural scan
+	    TR 10 s, TE 118.608 ms, flip angle 160o, 3 mm3 
+	    isotropic voxels, 256 image size 512x512x36
+
+2) func 
+
+	- Functional images, 540 volumes
+         TR 2 s, TE 45 ms, 
+         image size 64 x 64 x 33, 4mm3 isotropic voxels
+
+
+
+In the sourcedata folder the RTs (Response Time) of each subject to the stimuli are presented. The files generated from the software Nordic Aktiva are included. 
+The response of each subject is annotated as "Response". "a" is following if he/she responded with the press of the left hand while "d" for the right hand.
+
+
+The timing for the Events are the same for every subject. The annotations in the event file are the following:
+
+HH	Happy word- Happy emoji events
+HS	Happy word- Sad emoji events
+SS	Sad word- Sad emoji events
+SH	Sad word- Happy emoji events
+PS	Pseudowords
+

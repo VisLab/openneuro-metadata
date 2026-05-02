@@ -1,0 +1,26 @@
+{
+	"q_onset": {
+		"Description": "Onset of question"
+	},
+	"q_duration": {
+		"Description": "Duration of question viewing phase"
+	},
+	"r_onset": {
+		"Description": "Onset of response phase"
+	},
+	"r_duration": {
+		"Description": "Duration of response phase. Participants had up to 10 seconds to input their response. The response phase was terminated either by participants actively pressing the submit button or at the end of 10 seconds"
+	},
+	"activesubmit": {
+		"Description": "Indicator of whether participant actively pressed the submit button to end the response phase"
+	},
+	"RT": {
+		"Description": "Response Time. Time duration from beginning of the response phase to the last action made by participant. If participant actively pressed the submit button, RT is the same as r_duration. If not, r_duration will be 10 seconds and RT will be the shorter than 10 seconds. n/a indicates that participant didn't do anything during response phase."
+	},
+	"Delay": {
+		"Description": "Delay until the $75 reward"
+	},
+	"Rating": {
+		"Description": "Participants' response of the immediate equivalent amount of the delayed $75"
+	}
+}

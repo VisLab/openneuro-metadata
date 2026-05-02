@@ -1,0 +1,14 @@
+1.0.0 2015-12-22
+
+ - Initial Release
+
+1.0.1 2015-01-05
+
+ - Updated RepetitionTime parameter in .json files
+   after clarification from submitter
+
+1.0.2 2015-01-27
+
+ - Fixed missing ',' in dataset_description.json file.
+
+

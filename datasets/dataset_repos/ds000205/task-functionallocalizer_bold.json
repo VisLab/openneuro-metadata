@@ -1,0 +1,10 @@
+{
+  "RepetitionTime": 2.2,
+  "TaskName": "Functional localizer",
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Magnetom Trio",
+  "MagneticFieldStrength": 3,
+  "PulseSequenceType": "single-shot echo-planar",
+  "EchoTime": 0.035,
+  "FlipAngle": 90
+}

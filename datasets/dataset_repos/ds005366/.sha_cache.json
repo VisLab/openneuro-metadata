@@ -1,0 +1,9 @@
+{
+  "CHANGES": "5068783f049846a5851487675bf8c32707e5db25",
+  "participants.json": "53cc0e1a7fa4f02b00fc7df237b3668d9d57601a",
+  "dataset_description.json": "9ab3b222bf0bc93fe0202ece246e983b30355982",
+  "participants.tsv": "2b42d7b6d00dbd69b59402f6f27a8bd8861d6fe6",
+  "subject_task_matrix.tsv": "b5063356d32dcad42d00d4790d81479e83576509",
+  "README": "02c1b9b5c351177a51474c8a406116365372c6a1",
+  "sub-001/ses-7T/func/sub-001_ses-7T_task-Motor2Class_run-1_events.tsv": "f840d7e0e57b6894b858bd88acb621bf77680e2e"
+}

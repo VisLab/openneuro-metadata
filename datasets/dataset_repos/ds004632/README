@@ -1,0 +1,31 @@
+This dataset contains MRI associated with the following publication:
+Dumot C, Po C, Capin L, Hubert V, Ong E, Chourrout M, Bolbos R, Amaz C, Auxenfans C, Canet-Soulas E, Rome C, Chauveau F, Wiart M. Neurofunctional and neuroimaging readouts for designing a preclinical stem-cell therapy trial in experimental stroke. Sci Rep. 2022;12(1):4700. doi:[10.1038/s41598-022-08713-z](https://doi.org/10.1038/s41598-022-08713-z)
+
+An interactive display of this dataset is available: https://fabien-chauveau.quarto.pub/dti-readouts-for-designing-a-preclinical-stem-cell-therapy-trial-in-experimental-stroke/
+
+Raw data:
+
+longitudinal DTI and T2w imaging for 11 male Sprague Dawley OFA rats (ILAR, Crl:OFA(SD); RRID:RGD_2312474)
+
+	Magnetic field: 7T
+	Anesthesia: isoflurane
+	Time points (in weeks, following surgery): W1 (day 4); W5 ; W9
+	Ethics statement: agreement number APAFIS#4688-2016032514131943 from local committee CELYNE-CNREEA (C2EA-42)
+
+Derivatives:
+
+DTI maps (FA, AD, MD, RD) obtained through the following analysis pipeline
+
+    Motion correction: FLIRT (FSL), rigid (6 DOF)
+    Individual maps: dtifit (FSL)
+    Manual segmentation of brain tissue from smooth_meanDWI-ssA0_A3_D35: 3Dslicer
+    Affine registration of the FA map from rat A3_D35 on each individual FA map at each time point: antsRegistrationSyNQuick.sh (ANTs)
+    Resulting transformation matrices applied to the brain mask from rat A3_D35 : antsApplyTransforms (ANTs)
+    Individual brain extraction from DTI maps: fslmaths -mas (FSL)
+    Affine registration of FA maps onto the one from rat A3_D35: antsRegistrationSyNQuick.sh (ANTs)
+    Resulting transformation matrices applied to the other parametric maps: antsApplyTransforms (ANTs)
+
+Full acquisition and analysis descriptions are avaialable in the Methods section of the publication.
+Individual measurements extracted from this dataset are available at the [figshare repository](https://figshare.com/s/15af2a099076389d2a5e).
+
+This dataset has been converted using [BrkRaw v0.3.5](https://doi.org/10.5281/zenodo.6803744) on 2023-03-23.

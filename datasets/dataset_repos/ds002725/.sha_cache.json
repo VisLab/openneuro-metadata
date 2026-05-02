@@ -1,0 +1,21 @@
+{
+  "README": "64758d3cd7f27dcc1a624c0503a590950713e1d2",
+  "participants.tsv": "1daef3034c8239b4bb7846d6eb8ebed66465dde9",
+  "CHANGES": "36123e48b7112e4da2f0d8a30a4deaf9de9f3b29",
+  "dataset_description.json": "75899527e308e1a92ed88d1b83f119a4cd6f40f2",
+  "sub-01/eeg/sub-01_task-classicalMusic_events.json": "60cab51d54328caeba26e4dacea6d6dc0ff8ec50",
+  "sub-01/eeg/sub-01_task-washout_events.tsv": "580672692fa28c7a537576303641e27f30361fde",
+  "sub-01/eeg/sub-01_task-genMusic01_events.json": "60cab51d54328caeba26e4dacea6d6dc0ff8ec50",
+  "sub-01/eeg/sub-01_task-washout_events.json": "60cab51d54328caeba26e4dacea6d6dc0ff8ec50",
+  "sub-01/eeg/sub-01_task-genMusic03_events.json": "60cab51d54328caeba26e4dacea6d6dc0ff8ec50",
+  "sub-01/eeg/sub-01_task-genMusic02_events.json": "60cab51d54328caeba26e4dacea6d6dc0ff8ec50",
+  "sub-01/eeg/sub-01_task-genMusic03_events.tsv": "721128d2a3bc9bfb71410993db0d929b18cf59bb",
+  "sub-01/eeg/sub-01_task-genMusic02_events.tsv": "0e2108cc59ddfb2cb8473945b07099d57bd9671b",
+  "sub-01/eeg/sub-01_task-genMusic01_events.tsv": "d5b86ad7966ae94b70e6b0d2c0817500176e97c7",
+  "sub-01/eeg/sub-01_task-classicalMusic_events.tsv": "f84a1613561964016ef58de4605327b696356e6d",
+  "sub-01/func/sub-01_task-washout_events.tsv": "580672692fa28c7a537576303641e27f30361fde",
+  "sub-01/func/sub-01_task-genMusic02_events.tsv": "0e2108cc59ddfb2cb8473945b07099d57bd9671b",
+  "sub-01/func/sub-01_task-genMusic01_events.tsv": "d5b86ad7966ae94b70e6b0d2c0817500176e97c7",
+  "sub-01/func/sub-01_task-genMusic03_events.tsv": "721128d2a3bc9bfb71410993db0d929b18cf59bb",
+  "sub-01/func/sub-01_task-classicalMusic_events.tsv": "f84a1613561964016ef58de4605327b696356e6d"
+}

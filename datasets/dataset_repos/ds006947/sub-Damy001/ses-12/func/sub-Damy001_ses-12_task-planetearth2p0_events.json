@@ -1,0 +1,72 @@
+{
+    "onset": {
+        "Description": "Video frame presentation time stamps in seconds."
+    },
+    "duration": {
+        "Description": "Event duration in seconds. 'n/a' for frame\u2010based events."
+    },
+    "mean_R": {
+        "Description": "Mean red channel value for this video frame (0-255)."
+    },
+    "mean_G": {
+        "Description": "Mean green channel value for this video frame (0-255)."
+    },
+    "mean_B": {
+        "Description": "Mean blue channel value for this video frame (0-255)."
+    },
+    "mean_H": {
+        "Description": "Mean hue (HSV) for this video frame (0-179)."
+    },
+    "mean_S": {
+        "Description": "Mean saturation (HSV) for this video frame (0-255)."
+    },
+    "mean_V": {
+        "Description": "Mean value/brightness (HSV) for this video frame (0-255)."
+    },
+    "mean_Lum": {
+        "Description": "Mean luminance (CIELAB L-channel) for this video frame (0-255)."
+    },
+    "delta_R": {
+        "Description": "Absolute change in mean red channel between this frame and the previous one (0-255)."
+    },
+    "delta_G": {
+        "Description": "Absolute change in mean green channel between this frame and the previous one (0-255)."
+    },
+    "delta_B": {
+        "Description": "Absolute change in mean blue channel between this frame and the previous one (0-255)."
+    },
+    "delta_H": {
+        "Description": "Absolute change in mean hue (HSV) between this frame and the previous one (0-179)."
+    },
+    "delta_S": {
+        "Description": "Absolute change in mean saturation (HSV) between this frame and the previous one (0-255)."
+    },
+    "delta_V": {
+        "Description": "Absolute change in mean value/brightness (HSV) between this frame and the previous one (0-255)."
+    },
+    "delta_Lum": {
+        "Description": "Absolute change in mean luminance (CIELAB L-channel) between this frame and the previous one (0-255)."
+    },
+    "n_faces": {
+        "Description": "Number of faces detected in the frame."
+    },
+    "face_area_total": {
+        "Description": "Total area of all detected faces as fraction of frame."
+    },
+    "face_area_avg": {
+        "Description": "Average area per detected face as fraction of frame."
+    },
+    "rms": {
+        "Description": "Root-mean-square amplitude of the audio segment aligned to this frame."
+    },
+    "zcr": {
+        "Description": "Zero-crossing rate of the audio segment aligned to this frame."
+    },
+    "envelope_db": {
+        "Description": "Envelope (peak) amplitude in dB."
+    },
+    "energy_db": {
+        "Description": "Spectral energy in dB."
+    },
+    "TaskName": "planetearth2p0"
+}

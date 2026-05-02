@@ -1,0 +1,14 @@
+{
+    "onset": {
+        "Description": "The raw stimulus onset. According to Khoudary et al. 2022 that there were 5TRs before the first vignette was shown which is why the onset of the first event is at ca. 10 secs"
+    },
+    "duration": {
+        "Description": "The duration the vignette was on screen."
+    },
+    "sub_id": {
+        "Description": "participant_id"
+    },
+    "trail_type": {
+        "Description": "The mft foundation/mac category of the vignette."
+    }
+}

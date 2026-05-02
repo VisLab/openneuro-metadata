@@ -1,0 +1,25 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "trial_type": {
+    "Description": "Primary categorization of each trial to identify them as instances of the experimental conditions (equivalent to the EEG.event.condlabel field in the data).",
+    "Levels": {
+      "competitive": "Competitive games with a human player",
+      "cooperative": "Cooperative hitting with a human player",
+      "moving_hit": "Ball machine; machine was oscillating; 1 bounce",
+      "moving_serve": "Ball machine; machine was oscillating; 2 bounces",
+      "stationary_hit": "Ball machine; machine was not oscillating; 1 bounce",
+      "stationary_serve": "Ball machine; machine was not oscillating; 2 bounces"
+    }
+  },
+  "value": {
+    "Description": "Type of event (equivalent to the EEG.event.type field in the data).",
+    "Levels": {
+      "M 1": "Sync event recorded with BrainVision system",
+      "Subject_hit": "The participant's paddle made contact with the ball",
+      "Subject_receive": "The ball machine fed OR the human opponent's paddle made contact with the ball"
+	}
+  }
+}

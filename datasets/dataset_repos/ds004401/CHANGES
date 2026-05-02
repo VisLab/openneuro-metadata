@@ -1,0 +1,21 @@
+1.0.0 2023-01-12
+  - Inital version
+1.0.1 2023-01-13
+  - Title Changed to "A PET Molecular Imaging Brain Atlas of Cyclooxygenase-1"
+  - README updated
+  - Cleanup of the `derivatives/freesurfer/mni152` directory
+1.1.0 2023-02-28
+  - Attempting to harmonize with draft of BIDS atlas spec
+  - See https://docs.google.com/document/d/1RxW4cARr3-EiBEcXjLpSIVidvnUSHE7yJCUY91i5TfM
+1.2.0 2023-07-17
+  - Harmonizing with latest consensus for BIDS atlas spec
+  - Adding atlases that have been partial volume corrected
+  - Adding atlases in an additional space, mni152, with 1) linear registration 2) non-linear registration via fnirt and 3) non-linear registration via vbm (from spm)
+1.3.0 2023-07-21
+  - `res` entity has been changed from `2` to `1p5` for `spmvbm` files
+  - `"Resolution"` has been broken up into `"Resolution"` and `"ResolutionUnits"` in all json files.
+  - `hemi` entity has been changed from `lh` or `rh` to `L` or `R` to conform with spec
+  - `"Hemishpere"` has been added to the json of all surface overlays
+  - `"Resolution"` has been replaced with `"Density"` in the json for surface overlay files
+  - `"SpatialReference"` for right hemisphere overlays has been corrected (was pointing to left hemi)
+  - `"SpatialReference"` has been removed from spmvbm json files have since there is no template flow file to reference

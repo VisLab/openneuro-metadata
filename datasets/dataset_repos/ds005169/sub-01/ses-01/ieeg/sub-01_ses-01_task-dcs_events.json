@@ -1,0 +1,80 @@
+{
+  "onset": {
+    "Description": "Onset (in seconds) of the event, measured from the beginning of the recording"
+  },
+  "duration": {
+    "Description": "Duration (in seconds) of the event, measured from the onset of the event."
+  },
+  "label": {
+    "Description": "Event label: prestim - marks the pre-stimulation interval for h2 analysis; poststim - marks the post-stimulation interval for h2 analysis; stimulation event is labeled with the bipolar pair of contacts on which electrical stimulation is applied, current intensity level and evoked clinical effect"
+  },
+  "stim_contacts": {
+    "Description": "Electrode contacts through which stimulation intensity has been applied"
+  },
+  "stim_intensity": {
+    "Description": "Electrical stimulation current intensity, in mA"
+  },
+  "sym_elementary": {
+    "Description": "Elementary hallucinations, consisting of unstructured flashes of light"
+  },
+  "sym_complex": {
+    "Description": "Visual phenomena composed of shapes or people"
+  },
+  "sym_plus_hallucination": {
+    "Description": "Positive visual phenomena described as the presence of light in different forms or colors overlaying the background vision"
+  },
+  "sym_minus_hallucination": {
+    "Description": "Negative elementary phenomena described as scotoma, quadrantanopia, hemianopia or amaurosis"
+  },
+  "sym_static": {
+    "Description": "Phenomena that had the same localization in the visual field throughout the event"
+  },
+  "sym_dynamic": {
+    "Description": "Phenomena having variable localization in the visual field throughout the event"
+  },
+  "sym_continuous_hallucination": {
+    "Description": "Continuous hallucinations"
+  },
+  "sym_intermittent_hallucination": {
+    "Description": "Intermittent hallucinations"
+  },
+  "sym_right_visual_hemifield": {
+    "Description": "Right visual hemifield"
+  },
+  "sym_upper_right_quadrant": {
+    "Description": "Upper-right quadrant"
+  },
+  "sym_lower_right_quadrant": {
+    "Description": "Lower-right quadrant"
+  },
+  "sym_left_visual_hemifield": {
+    "Description": "Left visual hemifield"
+  },
+  "sym_upper_left_quadrant": {
+    "Description": "Upper-left quadrant"
+  },
+  "sym_lower_left_quadrant": {
+    "Description": "Lower-left quadrant"
+  },
+  "sym_peripheric": {
+    "Description": "Peripheric visual field"
+  },
+  "sym_central": {
+    "Description": "Center visual field"
+  },
+  "sym_whole_visual_field": {
+    "Description": "Phenomena covering whole visual field"
+  },
+  "sym_color": {
+    "Description": "Color (black and white) hallucinations"
+  },
+  "sym_non_color": {
+    "Description": "Non-color (black and white) hallucinations"
+  },
+  "sym_combined_visual_symptoms": {
+    "Description": "Visual hallucinations described simultaneously with visual illusions"
+  },
+  "sym_multimodal_hallucinations": {
+    "Description": "Visual hallucinations combined with manifestations of other modalities"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "block_type": {
+        "LongName": "block type",
+        "Description": "Indicator of block type",
+        "Levels": {
+            "fluency": "participants is asked to think of as many words as possible starting with a letter displayed in the middle of the screen",
+            "baba": "participant is asked to silently repeat the meaningless string 'baba' schown on the screen",
+            "rest": "participant is asked to think of nothing in particular"
+        }
+    }
+}

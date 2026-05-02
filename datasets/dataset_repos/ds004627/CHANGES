@@ -1,0 +1,7 @@
+1.1.1 2026-03-17
+  - Added DWI for 17 participants: 22477, 22686, 23490, 23520, 23540, 23576, 23607, 23652, 23674, 23770, 23772, 23798, 23813, 23817, 23825, 23830, 23852
+  - Fixed bad sessions.tsv: sub-24065_sessions.tsv
+1.1.0 2023-07-25
+  - Added about 100 additional participants
+1.0.0 2023-07-07
+  - Initial upload

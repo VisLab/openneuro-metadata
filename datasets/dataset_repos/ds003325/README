@@ -1,0 +1,4 @@
+This dataset contains raw T1w MPRAGE images acquired from 7-month-old male TDP-43(Q331K/Q331K) knock-in mice and their wildtype littermates. The data is part of a study available as a preprint on bioRxiv: https://doi.org/10.1101/2020.05.24.107177. Details on the mouse model can be found here: https://www.nature.com/articles/s41593-018-0113-5
+
+
+This dataset has been converted using BrkRaw (v0.3.3) at 2020-10-14 11:59:34.925817 (https://doi.org/10.5281/zenodo.3818615).

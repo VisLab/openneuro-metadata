@@ -1,0 +1,49 @@
+{
+    "onset": {
+        "Description": "Onset of the audio event.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the audio event.",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Which audio type was heard by the subject in this trial."
+    },
+    "value": {
+        "Description": "The code associated with a trial type. NOTE: this is NOT the trigger\n    type in EEG annotations but these are separated by 2 triggers in EEG"
+    },
+    "sample": {
+        "Description": "The sample within the EEG data at which an event occurred."
+    },
+    "n_simultaneous_stimuli": {
+        "Description": "Number of simultaneously presented stimuli (e.g., 1 story or 1 click train)."
+    },
+    "snr": {
+        "Description": "Signal-to-Noise Ratio (SNR) of the trial."
+    },
+    "EEG_trigger_start": {
+        "Description": "The trigger values in the EEG annotations for the event onset."
+    },
+    "EEG_trigger_end": {
+        "Description": "The trigger values in the EEG annotations for 20 ms before event offset."
+    },
+    "file_clicks": {
+        "Description": "The file loaded to play the click audio in that trial. (called 'audio' in the hdf5 dictionary)."
+    },
+    "file_story1": {
+        "Description": "The file played of the story 'alice'. If nothing then no file was played for that story in that trial."
+    },
+    "file_story2": {
+        "Description": "The file played of the story 'peterpan'. If nothing then no file was played for that story in that trial."
+    },
+    "file_story3": {
+        "Description": "The file played of the story 'pinocchio'. If nothing then no file was played for that story in that trial."
+    },
+    "file_story4": {
+        "Description": "The file played of the story 'timemachine'. If nothing then no file was played for that story in that trial."
+    },
+    "file_story5": {
+        "Description": "The file played of the story 'wizardofoz'. If nothing then no file was played for that story in that trial."
+    }
+}

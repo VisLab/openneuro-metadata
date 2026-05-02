@@ -1,0 +1,31 @@
+### Comments added by Openfmri Curators ###
+===========================================
+
+Defacing
+--------
+Defacing was performed by the submitter.
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it 
+here: https://mriqc.readthedocs.io/en/latest/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000217/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000217
+accession number.
+3) Send an email to submissions@openfmri.org. Please include the ds000217 accession number in
+your email.
+
+Bids-validator Output
+---------------------
+
+
+        Summary:                    Available Tasks:        Available Modalities:
+        3095 Files, 102.19GB        localizer               T1w
+        41 - Subjects               route learning          inplaneT1
+        1 - Session                                         inplaneT2
+                                                            bold
+                                                            fieldmap

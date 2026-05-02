@@ -1,0 +1,43 @@
+# In silico discovery of representational relationships across visual cortex
+
+
+## 🔍 Overview
+
+Here we provide the stimuli and corresponding raw fMRI responses from the paper: *[In silico discovery of representational relationships across visual cortex][paper_link]* (Alessandro T. Gifford, Maya A. Jastrzębowska, Johannes J.D. Singer, Radoslaw M. Cichy).
+
+The stimuli consist of controlling images that align or disentangle either univariate or multivariate responses of areas V1, V2, V3 and V4 for human fMRI responses. We found these images by applying univariate/multivariate relational neural control (RNC) on *in-silico* (i.e., model generated) fMRI responses. We then validated the V1 vs. V4 controlling images effect on *in vivo* (i.e., experimentally collected) fMRI responses of six new, independent subjects. Here we provide the *in vivo* fMRI responses for this validation.
+
+Each subject underwent two fMRI data collection sessions. The first session consisted of three runs of population receptive field experiment (which we used to delineate areas V1 and V4 in each subject), and 10 runs where we presented the univariate RNC controlling images. The second session consisted of 12 runs where we presented the multivariate RNC controlling images. Anatomical scans and field maps were collected at the beginning of both sessions. 
+
+The *stimuli/*  folder contains the univariate and multivariante RNC controlling images, as well as the catch images, presented during data collection. Note that prior to data collection we normalized images luminance to the luminance of a uniform gray screen with an RGB value of [127 127 127] (i.e., *stimuli/background.png*) using [this code][normalize_luminance].
+
+The file *used_mri_sequences.pdf* contains technical details regarding the used MRI sequences.
+
+
+
+## 💻 Code
+
+The code we used for collecting, preprocessing and analyzing the fMRI data is available on [GitHub][github].
+
+If you wish to familiarize with RNC, you can use our [interactive Colab tutorials][colab].
+
+
+
+## 📧 Contact
+
+For any question regarding the project data, code, or RNC in general, you can get in touch with Ale (alessandro.gifford@gmail.com).
+
+
+
+## 📜 Citation
+
+If you use any of our data or code, please cite the paper:
+
+> * Gifford AT, Jastrzębowska M, Singer JJD, Cichy RM. 2025. In-silico discovery of representational relationships across visual cortex. _Nature Human Behavior_. DOI: [https://doi.org/10.1038/s41562-025-02252-z][paper_link]
+
+
+
+[paper_link]: https://doi.org/10.1038/s41562-025-02252-z
+[normalize_luminance]: https://github.com/gifale95/RNC/tree/main/06_in_vivo_validation/01_experimental_paradigm/normalize_images_luminance
+[github]: https://github.com/gifale95/RNC/tree/main/06_in_vivo_validation
+[colab]: https://drive.google.com/drive/folders/1ZTzbeZ1tNtBu2P6fgjbRY8-1KuY-0Kkr?usp=drive_link

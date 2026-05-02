@@ -1,0 +1,7 @@
+onset	duration	trial_type
+0	64	rest
+64	64	motorphotic task
+128	64	rest
+192	64	motorphotic task
+256	64	rest
+320	64	motorphotic task

@@ -1,0 +1,14 @@
+Monash REST PET
+===============
+
+This dataset contains concurrent rsfMRI and FDG PET acquisitions on
+Monash Biomedical Imaging (MBI)'s Siemens Biograph mMR 3T MR-PET scanner
+from 27 healthy controls.
+
+Relevant papers
+---------------
+
+* Jamadar, S.D., Ward, P.G.D., Carey, A., McIntyre, R., Parkes, L., Sasan, D., Fallon, J., Orchard, E., Li, S., Chen, Z., Egan, G.F., 2019a. Radiotracer Administration for High Temporal Resolution Positron Emission Tomography of the Human Brain: Application to FDG-fPET. JoVE 60259. https://doi.org/10.3791/60259
+* Jamadar, S.D., Ward, P.G.D., Li, S., Sforazzini, F., Baran, J., Chen, Z., Egan, G.F., 2019b. Simultaneous task-based BOLD-fMRI and [18-F] FDG functional PET for measurement of neuronal metabolism in the human visual cortex. NeuroImage 189, 258–266. https://doi.org/10.1016/j.neuroimage.2019.01.003",
+* Jamadar, S.D., Ward, P.G.D., Liang, E.X., Orchard, W.R., Chen, Z., Egan, G., 2020. Metabolic and haemodynamic resting-state connectivity of the human brain: a high-temporal resolution simultaneous BOLD-fMRI and FDG-fPET multimodality study (preprint). Neuroscience. https://doi.org/10.1101/2020.05.01.071662"
+

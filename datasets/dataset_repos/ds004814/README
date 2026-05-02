@@ -1,0 +1,5 @@
+In vivo 7T MRI dataset probing the auditory cortex collected at the Center for Magnetic Resonance Research (CMRR), University of Minnesota, USA, by Michelle Moerel and Essa Yacoub. 
+
+All participants have three sessions. In session 1, high-res anatomical MRI (T1w, PDw, and T2starw at 0.6 mm iso) was collected. In session 2 and 3, task functional MRI data (0.8 mm iso) was collected: using gradient echo EPI in session 2 (12 runs), and 3D GRASE in session 3 (16 runs). Note that session 1 is missing for participant 1.
+
+Participants listen to natural sounds (144 sounds) and performed a one-back detection task.

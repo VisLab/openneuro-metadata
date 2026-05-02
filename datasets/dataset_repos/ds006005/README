@@ -1,0 +1,12 @@
+Dataset associated with "The temporal specificity of BOLD fMRI is systematically related to anatomical and vascular features of the human brain"
+
+In the anat folder, three additional files beyond the T1w MPRAGE can be found:
+
+1. An inversion recovery T1 shuffled EPI, named with acq-epi and a suffix _inplaneT1.
+2. A point spread function (PSF) mapping scan, named with acq-psf and a suffix _T2starw.
+3. A larger field of view dataset used to aid registration, named with acq-epi and a suffix _T2starw.
+
+The larger field of view dataset was used in the work that resulted in our publication, but the T1 shuffled EPI and the PSF were not. They are added here though in the hope that they may be for other purposes useful.
+
+
+

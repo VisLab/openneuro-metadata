@@ -1,0 +1,9 @@
+{
+  "participants.tsv": "a7be0b0851f742672589b822be7f26f2e23cd480",
+  "participants.json": "e2b4c257679ed5db2d33908ffb5d46d66b7def02",
+  "dataset_description.json": "dcd6bb51a6129500b577ab29ee3e74921f4a23cd",
+  "CHANGES": "c1fba2f4bf6067fea1a50fdc43bb1aacecda0da6",
+  "README": "fed35a96a7a60ec5061d4f694f6c41b3c7a7a6b7",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-ThreeStimAuditoryOddball_events.json": "c6523a06649947c5b96a6e3438d6a0cb5b4bde37",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-ThreeStimAuditoryOddball_events.tsv": "fa23596454352880c92a41278ebd4b5589e40e3d"
+}

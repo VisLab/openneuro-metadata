@@ -1,0 +1,77 @@
+{
+    "trial": {
+        "LongName": "Study trial number",
+        "Description": "Image presentation number during study block"
+    },
+    "pres": {
+        "LongName": "Presentation number",
+        "Description": "Running count of stimulus presentations for a particular image"
+    },
+    "ts_blk": {
+        "LongName": "Test block number",
+        "Description": "The test block that the image was subsequently presented in"
+    },
+    "ts_trl": {
+        "LongName": "Test trial number",
+        "Description": "The test trial number within a test block that the image was subsequently presented in"
+    },
+    "task": {
+        "LongName": "Task condition",
+        "Description": "The type of task the image was subsequently tested on",
+        "Levels": {
+            "mem": "Recognition memory task",
+            "per": "Visual detection task"
+        }
+    },
+    "crit": {
+        "LongName": "Criterion condition",
+        "Description": "The criterion condition the image was subsequently tested on",
+        "Levels": {
+            "con": "Conservative criterion condition",
+            "lib": "Liberal criterion condition"
+        }
+    },
+    "disc": {
+        "LongName": "Discriminability condition",
+        "Description": "The discriminability condition the image was subsequently tested on",
+        "Levels": {
+            "low": "Low discriminability condition",
+            "mod": "Moderate discriminability condition"
+        }
+    },
+    "mem_disc": {
+        "LongName": "Discriminability condition wrt the recognition memory task",
+        "Description": "The relative discriminability level wrt the recognition memory regardless of task type",
+        "Levels": {
+            "low": "Low discriminability condition where studied images appeared once during the study phase",
+            "mod": "Moderate discriminability condition where studied images appeared six times during the study phase"
+        }
+    },
+    "per_disc": {
+        "LongName": "Discriminability condition wrt the visual detection task",
+        "Description": "The relative discriminability level wrt the visual detection regardless of task type",
+        "Levels": {
+            "low": "Low discriminability condition where it was relatively difficult to find a person in the person-present images",
+            "mod": "Moderate discriminability condition where it was relatively easy to find a person in the person-present images"
+        }
+    },
+    "per_type": {
+        "LongName": "The type of trial wrt the visual detection task",
+        "Description": "The target status of each test image wrt the visual detection task regardless of task type",
+        "Levels": {
+            "nt": "Nontarget item that did not include a person in the image",
+            "tg": "Target item that included a person in the image"
+        }
+    },
+    "accuracy": {
+        "LongName": "Subsequent response accuracy",
+        "Description": "The subsequent response accuracy for a stimulus",
+        "Levels": {
+            "cr": "correct rejection",
+            "fa": "false alarm",
+            "ht": "hit",
+            "ms": "miss",
+            "n/a": "no response"
+        }
+    }
+}

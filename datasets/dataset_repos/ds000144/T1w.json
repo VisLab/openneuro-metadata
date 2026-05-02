@@ -1,0 +1,7 @@
+{
+	"RepetitionTime": 0.008096,
+	"EchoTime": 0.00318,
+	"InversionTime": 0.45,
+	"PulseSequenceType": "3D-FSPGR with SENSE",
+	"Manufacturer": "GE"
+}

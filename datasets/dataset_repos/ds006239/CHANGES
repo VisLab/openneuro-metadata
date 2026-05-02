@@ -1,0 +1,8 @@
+1.0.4 2026-01-12
+  - - fixed format issues for events files (.tsv and .json) and phenotype; updated summary files in /derivatives; shared complete scripts and instructions in /code
+1.0.2 2025-06-16
+  - update participants.json; upload derivatives/acc_rt folder; edit references and links, and ethics approvals
+1.0.1 2025-06-13
+  - update stimuli_characteristics.tsv and .json; upload /derivatives and /code folder
+1.0.0 2025-05-14
+  - initial upload of major part

@@ -1,0 +1,120 @@
+Project description 
+===================
+
+In the current study we visual and audiovisual processing of single
+words in adult participants. Words were presented in quiet for auditory
+only, visual only, and audiovisual stimuli. Audiovisual words were also
+presented in background at signal-to-noise ratios (SNRs) of +5, 0, -5,
+and -10 dB.
+
+Supplemental materials (including stimuli, analysis scripts, extracted
+data, and figures) can be found at <https://osf.io/qxcu8/>.
+
+
+
+## Materials
+
+Seven lists of 50 words were created. The stimuli were recordings of a
+female actor’s head and shoulders speaking single words. The talker sat
+in front of a neutral background and spoke words along with the carrier
+phrase “Say the word _______” into the camera. The actor was instructed
+to allow her mouth to relax to a slightly open and neutral position
+before each target word was spoken. The edited versions of the
+recordings used in the experiment did not include a carrier phrase and
+were each 1.5 seconds long. Recordings were from a Canon Elura 85
+digital video camera connected via IEEE 1394 connection to a Dell
+Precision 670 for capture and digital storage. Digital capture and
+editing was done using  Adobe Premiere Elements. The original capture
+format for the video was uncompressed .avi. The final versions used in
+the study were compressed as high quality .wmv files. Audio was leveled
+to ensure that each word had the same RMS amplitude using Adobe
+Audition. Conditions that included background noise used RMS leveled
+six-talker babble that was mixed and included in the final version of
+the file. The 350 recordings used in the study were selected from a
+corpus of 970 recordings of high frequency words originally selected
+from the 40,481 words listed in the English Lexicon Project (Balota et
+al., 2007). The words that were selected for presentation in the
+lipreading (V-only) or audiovisual (AV) conditions in varying
+signal-to-noise ratios (SNR) were selected from the larger corpus based
+on V-only behavioral performance on each word from 149 participants
+(22-90 years old) who were tested using the entire corpus. The words
+selected ranged from 10%–93% correct in the lipreading-only behavioral
+tests. They were distributed among the six conditions that included
+visual information (AV in Quiet, AV +5 SNR, AV 0 SNR, AV -5 SNR, AV -10,
+and V-only) so they would be equivalent for lipreading difficulty. The
+words used in the A-only condition were selected from the remaining
+words.
+
+
+
+## Participants
+
+We collected data from 65 adults aged 18–34 years. Of these, we excluded
+fMRI data from 5 participants. The remaining 60 participants ranged in
+age from 18–34 years (M = 22.42, SD = 3.24). All were right-handed. Where
+available, pure-tone thresholds are given for the left and right ear
+(L_250 = threshold for left ear at 250 Hz in dB, and so on).
+
+
+## Procedure
+
+All participants completed a behavioral lip-reading assessment, an MRI
+safety screening, and were consented before being tested in the fMRI
+scanner. They were positioned in the scanner with insert earphones
+inserted and a viewing mirror placed above the eyes to see a two-sided
+projection screen located at the head-side of the scanner. Those that
+wore glasses were provided scanner-friendly lenses that fit their
+prescription. Participants were also given a response box that they held
+in a comfortable position on their torso during testing. Each of the
+sequences presented included trials with recordings of audio,
+visual-only, audiovisual speech stimuli, or printed text via an image
+projected on the screen that was visible to the participant through the
+viewing mirror. A camera positioned at the entrance to the scanner bore
+was used to monitor participant movement. A well-being check and short
+conversation occurred between each sequence and, if needed, they were
+reminded to stay alert and asked to try to reduce movement during the
+session. Seven sequences were presentenced during the session. Each one
+lasted approximately 5.5 minutes. The first six sequences contained 98
+trails each. The stimuli were presented in blocks of five experimental
+trials plus two null trials for each condition. The total result was 14
+blocks resulting in 70 experimental trials plus 28 null trials. All
+trials included 800 ms of quiet without a visual presentation before the
+stimuli began. During the null trials participants were presented with a
+fixation cross for 1.5 seconds instead of the audiovisual presentation.
+The A-only condition was still in .wmv format but did not include visual
+stimuli, instead a black screen was presented where video was presented
+the other experimental conditions. The blocks were quasi-randomized so
+that no two blocks from the same condition were presented after the
+other and two null trials never occurred after another. To keep
+attention high, half of the experimental trials required a response from
+the participant. For these trials a set of two dots appeared on the
+screen after the audiovisual/audio presentation. The right-side dot was
+green and the left-side dot was red. The participant was instructed to
+use the right-hand button on the response box to indicate “yes” they
+were confident that they were able to identify the previous word and the
+left-hand button if they felt they did not identify the previous word
+correctly. After the initial six runs, a final run of 60 trials was
+presented that included only orthographic words on the screen. The items
+were the same 50 words used for the behavioral V-only assessment. Each
+word stayed on the screen for 2.5 seconds. The words were followed by
+two green dots that appeared for 2.5 seconds. Participants were asked to
+say aloud the word that was presented during the period that the dots
+were on the screen. Ten null trials were randomly distributed throughout
+the sequence. Null trial lasted 2.5 seconds and included a fixation
+cross on the screen.
+
+
+
+
+## MRI data acquisition
+
+MRI images were acquired on a Siemens Prisma 3T scanner using a 32
+channel head coil. Structural images were acquired using a T1-weighted
+MPRAGE sequence (details) with a voxel size of 1 x 1 x 1 mm. Functional
+images were acquired using a multiband sequence (Feinberg et al., 2010)
+with an acceleration factor of 8. Each volume took 0.770 s to acquire.
+We used a sparse imaging paradigm (Edmister et al., 1999; Hall et al.,
+1999) with a repetition time of 3.07 s, leaving 2.3 s of silence on each
+trial. We presented words during this silent period, and on repeat
+blocks, instructed participants to speak during a silent period to
+minimize the influence of head motion on the data.

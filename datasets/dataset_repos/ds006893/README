@@ -1,0 +1,48 @@
+# The interplay of central insulin and menstrual cycle on functional brain networks and neural food cue reactivity in women
+
+
+## Aims:
+
+In this functional magnetic resonance imaging (fMRI) study, we examined the interaction of menstrual phases and central insulin on functional brain networks and neural food cue reactivity. Using a within-subject design, 15 females with natural menstrual cycles underwent fMRI measurements in the follicular and luteal phase of the menstrual cycle, before and after intranasal insulin administration.
+
+
+## Methods
+
+*fMRI:* 
+
+MRI measurements were conducted in a randomized, cross-over design on two separate days: one during the follicular phase and one during the luteal phase of the menstrual cycle. Resting-state fMRI scans were conducted at baseline and 30 min after intranasal insulin on each fMRI measurement day. The visual food cue task was performed in the scanner 40 min after intranasal insulin.
+
+Functional connectivity (FC) of brain networks was assessed using resting-state fMRI with group independent component analysis (ICA). BOLD signal was measured in response to visual food cues to evaluate neural food cue reactivity. 
+
+## General findings and importance:
+
+Intranasal insulin administration increased resting-state functional connectivity within networks that support decision-making processes (namely the default mode and salience network) in the follicular compared to the luteal phase of the menstrual cycle. In contrast, intranasal insulin decreased functional connectivity within the somatosensory network during the follicular phase relative to the luteal phase. In response to visual food cues, hippocampus and dorsal striatum activity was higher in the luteal compared to the follicular phase, particularly to sweet food. Estradiol and progesterone levels predicted these changes. 
+
+## Sample Size
+
+15 women completed the experiments in the MRI scanner in the follicular and luteal phase.  (In the uploaded sample, only thirteen out of the 15 have completed visual food task scans). 
+
+
+### Comments added by Openfmri Curators ###
+
+===========================================
+
+
+General Comments
+
+----------------
+
+
+Where to discuss the dataset
+
+----------------------------
+
+1) www.openfmri.org/dataset/ds006893/ See the comments section at the bottom of the dataset page.
+
+
+Known Issues
+
+------------
+
+MRI scans were assessed in the follicular and luteal phase in randomized order. This corresponds to either session V5, V6 or V7. There is no food cue task data for sub-4780, sub-4791, sub-4814.  
+

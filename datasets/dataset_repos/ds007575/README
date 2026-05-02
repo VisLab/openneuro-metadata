@@ -1,0 +1,15 @@
+This repository contains the raw (f)MRI data for the preprint:
+
+Languages of the brain: fMRI dissection of the amodal networks for language, mathematics, and social knowledge
+Antonio Moreno, Marie Amalric, Manon Pietrantoni, Séverine Becuwe, Bertrand Thirion, Christophe Pallier, Ghislaine Dehaene-Lambertz, Stanislas Dehaene
+
+bioRxiv 2025.12.19.695075; doi: 
+https://doi.org/10.64898/2025.12.19.695075
+
+This repository only contains data for the first adult group (sub-01 to sub-16) and for the adolescnent goup (sub-101 to sub-115).
+
+The additional adult data analyzed in the paper, is available as the 'MathLang' task from the Individual Brain Charting project. See https://individual-brain-charting.github.io/docs/tasks.html and https://openneuro.org/datasets/ds002685
+
+
+Anatomical (T1w) images were defaced using [pydeface](https://github.com/poldracklab/pydeface)
+

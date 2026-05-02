@@ -1,0 +1,28 @@
+{
+    "Name": "Tracking ongoing cognition in individuals using brief, whole-brain functional connectivity patterns",
+    "BIDSVersion": "1.11.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Gonzalez-Castillo, J.",
+        "Hoy, C.W.",
+        "Handwerker, D.A.",
+        "Robinson, M.E.",
+        "Buchanan, L.C.",
+        "Saad, Z.S.",
+        "Bandettini, P.A."
+    ],
+    "Curators": [
+        "Eric Earl",
+        "Catherine Walsh",
+        "Dustin Moraczewski"
+    ],
+    "Acknowledgements": "Thanks to the NIMH Data Science & Sharing Team for their help curating this dataset.",
+    "Funding": [
+        "This work was funded by the National Institute of Mental Health Intramural Research Program."
+    ],
+    "EthicsApprovals": [
+        "This study is part of NIH clinical protocol number NCT00001360 and protocol ID 93-M-0170."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007376.v1.0.0"
+}

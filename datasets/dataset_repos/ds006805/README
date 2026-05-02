@@ -1,0 +1,32 @@
+# Dataset Description
+
+This dataset contains the raw fMRI data accompanying the study 
+**"Adaptive recruitment of cortex-wide recurrence for visual object recognition"** (Link to preprint: https://www.biorxiv.org/content/10.1101/2025.10.17.682937v2).
+Please cite the above paper if you use this data.
+
+---
+
+## Dataset Overview
+- 30 participants, each with 2 sessions  
+- Each session: 8–10 task runs and 1 functional localizer run  
+- Subjects 1–3 do not have a second localizer  
+- `anat/`: T1-weighted anatomical scans  
+- `func/`: whole-brain EPI data with event files specifying onsets, durations, and trial types  
+
+---
+
+## Experimental Design
+The fMRI experiment used a final stimulus set of 242 images (121 “challenge” and 121 “control” images) derived from comparisons between human behavioral performance and AlexNet.  
+
+- **Main task:** Each image was presented for 500 ms followed by a 2500 ms blank. Participants responded to occasional fixation cross color changes (catch trials).  
+- **Functional localizer:** Block design with fixation, objects, scrambled objects, houses, and faces.  
+
+---
+
+## Derivatives
+The `derivatives/` folder contains outputs from GLM analyses:  
+- Subject-level beta estimates in each participant’s individual volume space  
+- Deformation fields for each participants that allow transforming the subject-level betas estimates to MNI space. 
+- Object-identity representational dissimilarity matrices (RDMs)
+- ROI-based decoding accuracy matrices for object identity
+- Searchlight decoding accuracy matrices for object identity

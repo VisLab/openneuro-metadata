@@ -1,0 +1,20 @@
+{
+    "Name": "Learning to read in different writing systems",
+    "License": "CC0",
+    "Authors": [
+        "J S H Taylor",
+        "Adam Jowett",
+        "Tibor Auer",
+        "Angelika Lingnau",
+        "Kathleen Rastle"
+    ],
+    "Funding": [
+        "Funding for this work was provided by the Economic and Social Research Council (ES/L002264/1)."
+    ],
+    "ReferencesAndLinks": [
+        "Please cite the following papers when using this data:",
+        "add link to manuscript"
+    ],
+    "BIDSVersion": "1.10.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006021.v1.0.0"
+}

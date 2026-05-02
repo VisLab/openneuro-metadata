@@ -1,0 +1,37 @@
+{
+    "Name": "NIMH Gamified Attention Bias Modification Training to Augment CBT for Youth Anxiety Disorders",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Meghan E. Byrne",
+        "Simone P. Haller",
+        "Julia O. Linke",
+        "Krystal M. Lewis",
+        "Erin Berman",
+        "Lauren M. Henry",
+        "David Pagliaccio",
+        "David Quezada",
+        "Marisa Meyer",
+        "Rany Abend",
+        "Katharina Kircanski",
+        "Wendy K. Silverman",
+        "Amit Lazarov",
+        "Yair Bar-Haim",
+        "Melissa A. Brotman",
+        "Daniel S. Pine"
+    ],
+    "Curators": [
+        "Ashley Ptinis",
+        "Eric Earl",
+        "Dustin Moraczewski"
+    ],
+    "Funding": [
+        "National Institute of Mental Health Intramural Research Program Project ZIAMH002781",
+        "National Institute of Mental Health Intramural Research Program NCT00018057 and NCT03283930"
+    ],
+    "EthicsApprovals": [
+        "Approval was obtained from the ethics committee of the National Institute of Mental Health (Protocol 01-M-0192)"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006577.v1.0.0"
+}

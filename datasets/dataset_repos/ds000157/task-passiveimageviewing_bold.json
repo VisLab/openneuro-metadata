@@ -1,0 +1,11 @@
+{
+	"RepetitionTime": 1.6,
+	"TaskName": "Passive viewing task with blocks of food and nonfood images",
+	"EchoTime": 0.023,
+	"Manufacturer": "Philips",
+        "ManufacturerModelName": "Achieva",
+        "MagneticFieldStrength": 3,
+	"FlipAngle": 72.50,
+	"TaskDescription": "During scanning, subjects alternately viewed 24s blocks of palatable food images (8 blocks) and non-food images (i.e., office utensils; 8 blocks), interspersed with 8–16 s rest blocks showing a crosshair (12 s on average). Halfway the task there was a 10 s break. In the image blocks, 8 images were presented for 2.5 s each with a 0.5 s inter-stimulus interval. All pictures were of equal size and displayed the (food) object on a white background. Food pictures were selected to arepresent foods that are both attractive and ‘forbidden’ (i.e., fattening), congruent with our definition of temptations [18]. Examples are shown in Supplementary Fig. S.1. A pilot test among 31 female students showed that on average the food pictures were rated as fatten- ing (M = 5.5, SD = 1.2), as assessed on a scale ranging from 1 (not at all fattening) to 7 (very fattening) and as rather attractive (M = 5.1, SD = .9), as assessed on a scale from 1(not at all attractive) to 7 (very attractive). Food pictures were significantly more attractive than office utensil pictures, which were rated as neutral (M = 3.4, SD = 1.2; P < .01). The tempting nature of the food pictures was confirmed by ratings of ran- dom subsamples of these pictures that were obtained from participants in the main study after the scan (M = 4.4, SD = .8; on a scale from 1 (not at all tempting) to 7 (very tempting)).Supplementary data associated with this article can be found, in the online version, at http://dx.doi.org/10.1016/j.bbr.2013.03.041.",
+	"CogAtlasID": "http://www.cognitiveatlas.org/term/id/trm_4c899211a965c"	
+}

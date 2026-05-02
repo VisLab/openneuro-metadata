@@ -1,0 +1,15 @@
+{
+	"Modality": "MR",
+	"MagneticFieldStrength": 3,
+	"ImagingFrequency": 123.259,
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "TrioTim",
+	"ScanningSequence": "GR_IR",
+	"SequenceVariant": "SP_MP",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND"],
+	"SliceThickness": 1,
+	"EchoTime": 0.00311,
+	"RepetitionTime": 1.63,
+	"InversionTime": 1.1,
+	"FlipAngle": 15
+}

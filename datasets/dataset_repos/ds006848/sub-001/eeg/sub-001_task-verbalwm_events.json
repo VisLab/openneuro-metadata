@@ -1,0 +1,41 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event from the beginning of the first datapoint. Negative onsets account for events before the first stored data point.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event in seconds from onset. Must be zero, positive, or 'n/a' if unavailable. A zero value indicates an impulse event. ",
+        "Units": "s"
+    },
+    "sample": {
+        "Description": "The event onset time in number of sampling points.First sample is 0."
+    },
+    "value": {
+        "Description": "The event code (also known as trigger code or event ID) associated with the event.",
+        "Levels": {
+            "99999": "Boundary",
+            "102": "Baseline_2s",
+            "10": "Encoding_DigitValue_0",
+            "1": "Encoding_DigitValue_1",
+            "2": "Encoding_DigitValue_2",
+            "3": "Encoding_DigitValue_3",
+            "4": "Encoding_DigitValue_4",
+            "5": "Encoding_DigitValue_5",
+            "6": "Encoding_DigitValue_6",
+            "7": "Encoding_DigitValue_7",
+            "8": "Encoding_DigitValue_8",
+            "9": "Encoding_DigitValue_9",
+            "11": "Encoding_Set_Simultaneous",
+            "28": "Retention_Simultaneous",
+            "40": "Retention_Fast",
+            "60": "Retention_FastDelay",
+            "100": "Retention_Slow",
+            "110": "Digits_Retrieval",
+            "120": "Rest",
+            "200": "Experiment_End"
+        }
+    },
+    "trial_type": {
+        "Description": "The type, category, or name of the event."
+    }
+}

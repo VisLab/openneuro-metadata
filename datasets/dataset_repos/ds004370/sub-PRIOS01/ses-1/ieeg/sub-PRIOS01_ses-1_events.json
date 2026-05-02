@@ -1,0 +1,62 @@
+{
+	"onset": {
+		"type": "object",
+		"description": "onset of event in seconds"
+	},
+	"duration": {
+		"type": "object",
+		"description": "duration of event in seconds"
+	},
+	"trial_type": {
+		"type": "object",
+		"description": "type of event (electrical stimulation\/artefact\/seizure\/burst suppression)"
+	},
+	"sub_type": {
+		"type": "object",
+		"description": "more description of event (electrical stimulation:SPESclin\/SPESprop, seizure:clinical\/subclinical)"
+	},
+	"electrodes_involved_onset": {
+		"type": "object",
+		"description": "electrodes involved in onset. For example: electrodes involved in seizure onset or in artefact."
+	},
+	"electrodes_involved_offset": {
+		"type": "object",
+		"description": "electrodes involved in offset. For example: electrodes involved in the end of a seizure or in an artefact."
+	},
+	"offset": {
+		"type": "object",
+		"description": "offset of event in seconds"
+	},
+	"sample_start": {
+		"type": "object",
+		"description": "onset of event in samples"
+	},
+	"sample_end": {
+		"type": "object",
+		"description": "offset of event in samples"
+	},
+	"electrical_stimulation_type": {
+		"type": "object",
+		"description": "type of electrical stimulation [mono-\/biphasic]"
+	},
+	"electrical_stimulation_site": {
+		"type": "object",
+		"description": "electrode names of stimulus pair"
+	},
+	"electrical_stimulation_current": {
+		"type": "object",
+		"description": "electrical stimulation current in Ampere"
+	},
+	"electrical_stimulation_frequency": {
+		"type": "object",
+		"description": "electrical stimulation frequency in Hertz"
+	},
+	"electrical_stimulation_pulsewidth": {
+		"type": "object",
+		"description": "electrical stimulation pulse width in s"
+	},
+	"notes": {
+		"type": "object",
+		"description": "notes about the specific event"
+	}
+}

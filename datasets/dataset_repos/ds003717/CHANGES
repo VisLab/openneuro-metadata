@@ -1,0 +1,6 @@
+1.1.0 2023-08-15
+  - Fixed event durations (prior versions are incorrect)
+1.0.1 2022-04-04
+  - Added hearing to participants.tsv file, updated publication and other metadata
+1.0.0 2021-07-15
+  - Initial upload

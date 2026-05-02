@@ -1,0 +1,11 @@
+{
+    "Description": "JSON file containing metadata for MRI scans",
+    "run_order": {
+        "Description": "Sequential order in which the scan was acquired within and across sessions",
+        "Units": "arbitrary"
+    },
+    "session": {
+        "Description": "Session number in which the scan was acquired",
+        "Units": "arbitrary"
+    }
+}

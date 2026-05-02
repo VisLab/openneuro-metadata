@@ -1,0 +1,82 @@
+{
+	"onset": {
+		"Description": "trial onset time ",
+		"Units": "Seconds"
+	},
+	"duration": {
+		"Description": "trial duration",
+		"Units": "Seconds"
+	},
+	"trial_num": {
+		"Description": "trial number"
+	},
+	"block_num": {
+		"Description": "block number"
+	},
+	"subj_num": {
+		"Description": "subject identity"
+	},
+	"prep_duration": {
+		"Description": "duration of preparation phase",
+		"Units": "Seconds"
+	},
+	"exe_duration": {
+		"Description": "duration of movement phase",
+		"Units": "Seconds"
+	},
+	"iti": {
+		"Description": "inter-trial interval duration",
+		"Units": "Seconds"
+	},
+	"is_error": {
+		"Description": "whether an error occurred",
+		"Levels": {
+			"0": "correct trial",
+			"1": "error trial"
+		}
+	},
+	"timing_error": {
+		"Description": "whether a timing error occurred",
+		"Levels": {
+			"0": "correct trial",
+			"1": "timing error trial"
+		}
+	},
+	"points": {
+		"Description": "points given for performance",
+		"Levels": {
+			"-1": "timing error",
+			"0" : "press error",
+			"1" : "correct no-go trial",
+			"3" : "correct go trial"
+		}
+	},
+	"movement_time": {
+		"Description": "time to complete the sequence",
+		"Units": "Seconds"
+	},
+	"reaction_time": {
+		"Description": "time until first press in the sequence",
+		"Units": "Seconds"
+	},
+	"sequence_num": {
+		"Description": "sequence identity (1-6)"
+	},
+	"sequence_type": {
+		"Description": "whether single- or multi-finger sequence",
+		"Levels": {
+			"1": "single finger",
+			"2": "multi finger"
+		}
+	},
+	"go_nogo": {
+		"Description": "whether go or no-go trial",
+		"Levels": {
+			"0": "no-go trial",
+			"1": "go trial"
+		}
+	},
+	"visual_cues": {
+		"Description": "visual cues on the screen"
+	}
+}

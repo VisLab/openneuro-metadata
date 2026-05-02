@@ -1,0 +1,44 @@
+Modeling Face Recognition in the Predictive Coding Framework: A Combined Computational Modeling and Functional Imaging Study by Zaragoza, Niehaus, et al. 2022 (under review)
+
+This is the repository ONLY containing the fMRI raw data and associated code scripts of both the level 1 and level 2 SPM-analyses of the connected publication. Note that this code was run on Windows 10 using MATLAB. For additional links see below:
+
+In-principle-accepted Stage 1 Pre-registration: https://doi.org/10.17605/OSF.IO/A8VU7 
+
+In-principle-accepted Stage 2 modeling scripts, behavioral data, and preprint: https://osf.io/tye24/
+
+
+This is the fMRI Dataset for the FRAPPS study (bids format).
+
+- study consists of two tasks: identity learning task ('FRAPPS') and face localizer task ('localizer')
+
+- defacing of anatomical images was performed with pydeface 2.0.0!!!
+
+- functional data is stored as 4D file including all scans (e.g. sub-01_task-frapps_bold.nii.gz) as well as without the 4 dummy scans (e.g. sub-01_task-frapps_bold-dummy-scans.nii). The version without dummy scans was used for all further analysis. 
+
+- Exclusion of participants: due to extensive motion (mriqc FD parameter > 0.3) two subjects (sub-16 and sub-26) were excluded. Additionally, we excluded sub-21 because of low performance in the FRAPPS task (< 60%). We also excluded sub-4, sub-18 and sub-28 from all fMRI analyses assessing the influence of the parametric modulators on brain activation. 
+ 
+- onsets and durations of both tasks are described in files called subID_spm_time.csv (for FRAPPS task) and subID-fp_no_Eyelink_onsets.mat (for the localizer task). The directory is subID/func/onsets_and_durations/. In this folder, there are also the multiple condition files for the first-level analysis with and without parametric modulations. They are called for example: sub-01_multi_cond_VIEW-INDxCONTEXT_pe_VI.mat
+
+- Computational model parameters for the parametric modulation can be found in folder subID/func/model_parameters/
+
+- Notes preprocessing FRAPPS: Slice timing, TA is not relevant and will not be used when slice timings are entered. TA was therefore set to 0, as reference slice TR/2 (1.53/2) was used as timing. 
+
+- Notes first level FRAPPS: slice time correction was performed, thus for the first level model the microtime resolution was changed to the number of slices divided by two because of multiband factor 2 (= 24), microtime onset needs to match the chosen reference slice so it was set to 12.
+
+- Notes mean beta calculation FRAPPS: sub-4, sub-18, and sub-28 have extremely high (values around -1000) beta values for the history VI pmod. This is most probably caused by only a very slightly changing history VI parameter. 
+
+- Localizer coordinates group level (conjunction) (this is just as a reference, of note for OFA, FFA, and pSTS we used the group coordinates derived from the study Thome et al. 2022, Neuroimage to locate the individual maxima)
+
+lOFA	-42	-84	-10	t = 1.82
+rOFA	48	-74	-6	t = 3.86
+
+lFFA	-42	-46	-18	t = 7.32
+rFFA	42	-46	-16	t = 6.80
+
+lpSTS	-58	-54	8	t = 5.55
+rpSTS	46	-54	14	t = 6.25
+
+lPPA	-22	-46	-8	t = 17.57
+rPPA	24	-46	-10	t = 16.95
+
+- individual coordinates in the localizer task were detected with an automatic algorithm starting at the group max and jumping to the nearest local max within the spmT_conjunction map thresholded at 0.001 unc. These coordinates were further refined (plausibility check) by visual inspection.

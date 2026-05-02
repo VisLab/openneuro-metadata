@@ -1,0 +1,25 @@
+Overview
+--------
+The dataset was created to develop new algorithms and define workflows for processing complex multi-echo functional magnetic 
+resonance imaging data. 
+
+Each subject’s dataset (83 subjects) includes structural scans, field maps, physiological signals, and six fMRI runs consisting of three tasks (a visual-motor task, an oddball task, and a resting-state task). Each of these three tasks was performed twice, using two different repetition times: one with TR = 1800 ms and another one with TR = 800 ms. The dataset contains four protocol variants, which differ only in the randomized order of fMRI task presentation to counterbalance potential order effects across participants (see participants.json for details). 
+
+
+Details about the tasks and measurement
+---------------------------------------
+Visual-motor task consists of alternating active and rest blocks. In the rest phase, participants relaxed and looked at a fixation cross on a dark screen. In the active phase, a flickering checkerboard pattern appeared on the screen with digits from 1 to 4 displayed in its center. Upon each digit presentation, participants pressed a button using the corresponding finger on their right hand (1 – index finger, 2 – middle finger, 3 – ring finger, 4 – little finger). The active and rest (baseline) phases alternated seven times. The duration of the active phase and rest phase was 21 seconds and 30 seconds, respectively. The total duration of the task was approximately 5 minutes. The timing of the visual-motor task is identical across all participants.  However, minor timing deviations may have occurred due to communication delays between the MRI scanner and the E-Prime. 
+
+Three types of stimuli are used in the oddball task. The first type consists of frequent stimuli (FREQUENT), which make up the majority of all presented items. These are always represented by the letter "O" and require no response from the participant. The second type includes rare target stimuli (TARGET) represented by the letter "X" and participants were instructed to press a button they were holding as quickly and accurately as possible. The third type consists of rare distractor stimuli (DISTRACTOR) represented by other letters of the alphabet. These were included to increase task complexity and no response was required for them. Each stimulus was presented for 500 milliseconds, with an inter-stimulus interval randomly varying between 1.5 and 4 seconds. The total duration of the task was approximately 10 minutes. The order of stimuli in each oddball task was randomized into one of five predefined versions.
+
+During rest measurements participants were lying, relaxing, and avoiding any movement. They kept their eyes closed. The total duration of the resting-state task was approximately 6 minutes.
+
+During all fMRI tasks physiological signals were simultaneously recorded including electrocardiography and respiratory activity. These recordings were acquired using the BrainAmp MR system and Brain Vision Recorder software. The physiological data are intended for use in post-processing to suppress physiological artifacts in the fMRI signal.
+
+The data were acquired on two 3T Siemens Magnetom Prisma scanners (Prisma scanners A and B) using a 64-channel head/neck coil. Both scanners are situated at the Multimodal and Functional Imaging Laboratory (http://mafil.ceitec.cz) at CEITEC Masaryk University. The acquisition on both scanners was identical except for a few details in TEs and pixel bandwidth (12/ 28,97/ 45,94 ms, 2365 Hz/px  vs. 17 /34,64 /52,28 ms, 2230 Hz/px)
+
+
+Funding and acknowledgement
+---------------------------
+The work was supported by Czech Science Foundation grant 23-06957S.
+We acknowledge the core facility MAFIL of CEITEC supported by the Czech-BioImaging large RI project (LM2023050).

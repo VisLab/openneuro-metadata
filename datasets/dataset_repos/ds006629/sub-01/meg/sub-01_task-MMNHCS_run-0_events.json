@@ -1,0 +1,31 @@
+{
+    "onset": {
+        "Description": "Time of the event onset, in seconds, with respect to the beginning of the recording."
+    },
+    "duration": {
+        "Description": "Duration of the event, in seconds."
+    },
+    "trial_type": {
+        "Description": "Type of the trial (e.g., stimulus category, condition label).",
+        "Levels": {
+            "Stand": "Stimulus is standard",
+            "Large dev": "Stimulus is a large deviant",
+            "Inter dev": "Stimulus is a intermediate deviant",
+            "Small dev": "Stimulus is a small deviant"
+        }
+    },
+    "sample": {
+        "Description": "Sample number in the raw data at which the event occurs.",
+        "Units": "samples"
+    },
+    "value": {
+        "Description": "Event trigger value as found in the stimulus channel."
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "Microsoft",
+        "SoftwareName": "Presentation software",
+        "SoftwareVersion": "11.0",
+        "PresentationDevice": "LCD screen, 60 Hz, viewed at 50 cm",
+        "AuditoryPresentation": "Stax SRM 700 and ear speakers SR003"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "onset": {
+      "Description": "Event onset",
+      "Units": "seconds"
+    },
+    "duration": {
+      "Description": "Event duration",
+      "Units": "seconds"
+    },
+
+    "value": {
+      "Description": "Type of event",
+      "Levels": {
+        "cross/white": "White fixation cross",
+        "button_press": "Space bar button press",
+        "feedback": "Feedback screen during training",
+        "white/happy/deviant/1": "White fixation cross, happy face, first presentation",
+        "white/happy/standard/2": "White fixation cross, happy face, second presentation",
+        "white/happy/standard/3": "White fixation cross, happy face, third presentation",
+        "white/happy/standard/4": "White fixation cross, happy face, fourth presentation",
+        "white/happy/standard/5": "White fixation cross, happy face, fifth presentation",
+        "white/happy/standard/6": "White fixation cross, happy face, sixth presentation",
+        "white/happy/standard/7": "White fixation cross, happy face, seventh presentation",
+        "white/happy/standard/8": "White fixation cross, happy face, eight presentation",
+        "white/angry/deviant/1": "White fixation cross, happy face, first presentation",
+        "white/angry/standard/2": "White fixation cross, happy face, first presentation",
+        "white/angry/standard/4": "White fixation cross, happy face, first presentation",
+        "white/angry/standard/3": "White fixation cross, happy face, first presentation",
+        "white/angry/standard/5": "White fixation cross, happy face, first presentation",
+        "white/angry/standard/6": "White fixation cross, angry face, sixth presentation",
+        "white/angry/standard/7": "White fixation cross, angry face, seventh presentation",
+        "white/angry/standard/8": "White fixation cross, angry face, eighth presentation",
+        "white/neutral/deviant/1": "White fixation cross, neutral face, first presentation",
+        "white/neutral/standard/2": "White fixation cross, neutral face, second presentation",
+        "white/neutral/standard/3": "White fixation cross, neutral face, third presentation",
+        "white/neutral/standard/4": "White fixation cross, neutral face, fourth presentation",
+        "white/neutral/standard/5": "White fixation cross, neutral face, fifth presentation",
+        "white/neutral/standard/6": "White fixation cross, neutral face, sixth presentation",
+        "white/neutral/standard/7": "White fixation cross, neutral face, seventh presentation",
+        "white/neutral/standard/8": "White fixation cross, neutral face, eighth presentation",
+        "red/angry/deviant/1": "Red fixation cross, angry face, first presentation",
+        "red/angry/standard/2": "Red fixation cross, angry face, second presentation",
+        "red/angry/standard/3": "Red fixation cross, happy face, first presentation",
+        "red/angry/standard/4": "Red fixation cross, angry face, fourth presentation",
+        "red/angry/standard/5": "Red fixation cross, angry face, fifth presentation",
+        "red/angry/standard/6": "Red fixation cross, happy face, sixth presentation",
+        "red/happy/deviant/1": "Red fixation cross, happy face, first presentation",
+        "red/happy/standard/2": "Red fixation cross, happy face, second presentation",
+        "red/happy/standard/3": "Red fixation cross, happy face, third presentation",
+        "red/happy/standard/5": "Red fixation cross, happy face, first presentation",
+        "red/happy/standard/6": "Red fixation cross, happy face, sixth presentation",
+        "red/neutral/standard/2": "Red fixation cross, neutral face, second presentation",
+        "red/neutral/standard/4": "Red fixation cross, neutral face, fourth presentation",
+        "red/neutral/standard/7": "Red fixation cross, neutral face, seventh presentation"
+      }
+    },
+
+    "stim_file": {
+      "Description": "Stimulus used"
+    }
+
+}

@@ -1,0 +1,8 @@
+{
+  "CHANGES": "f160de3088101d5e1ae917d0c292a7510f6c87a2",
+  "dataset_description.json": "4740b36e9d1f7f34b84ff2b39f38de49d740945a",
+  "participants.tsv": "652ae2ad2891992c122c97ae8fe7f30f4c3c6cf6",
+  "participants.json": "3eced5093b5715df4ae841c18e42673d517b9677",
+  "README": "320283b273ed782658b1c9f2615a8840a8be3a3c",
+  "sub-ecog01/ses-postimp/ieeg/sub-ecog01_ses-postimp_task-seizure_run-01_events.tsv": "32e4df47b9bc60f4d2d3566dfb6f754a94a19bfc"
+}

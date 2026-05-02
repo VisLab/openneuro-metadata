@@ -1,0 +1,44 @@
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure de-identification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+Quality Control
+---------------
+MRIQC was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/stable/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.
+
+BIDS-Validator output:
+----------------------
+
+1: Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)
+       		./sub-01/func/sub-01_task-localizer_bold.nii.gz
+       			 The most common set of dimensions is: 96,96,39,316 (voxels), This file has the dimensions: 96,96,39,260 (voxels).
+       		./sub-02/func/sub-02_task-localizer_bold.nii.gz
+       			 The most common set of dimensions is: 96,96,39,316 (voxels), This file has the dimensions: 96,96,39,388 (voxels).
+
+        Summary:                  Available Tasks:          Available Modalities:
+        327 Files, 10.44GB        Experimental Run 1        T1w
+        20 - Subjects             Experimental Run 2        bold
+        1 - Session               Experimental Run 3
+                                  Experimental Run 4
+                                  Localizer
+
+Known Issues
+------------
+
+

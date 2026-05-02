@@ -1,0 +1,21 @@
+{
+    "Name": "Dataset: T1-Weighted Structural MRI and fMRI of Participants Viewing Self-Avatar Exoskeleton Walking (11 SWS Cycles)",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Shantanu Sarkar",
+        "Kevin Nathan",
+        "Jose L. Contreras-Vidal"
+    ],
+    "Acknowledgements": "We acknowledge the invaluable collaboration and visionary support of the late Prof. Robert Grossman. This research would not have been possible without his contributions.",
+    "HowToAcknowledge": "Please cite the NeuroRex BMI dataset and reference the Data Descriptor when using these data.",
+    "Funding": [
+        "UH–Methodist Graduate Fellowship for Translational Research",
+        "NSF IUCRC BRAIN Center Award #2137255"
+    ],
+    "EthicsApprovals": [
+        "The Institutional Review Board of the University of Houston approved the experimental methods for this study (#12345: Human-Robot Interaction Project)."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006945.v1.2.1"
+}

@@ -1,0 +1,7 @@
+{
+	"Modality": "MR",
+	"MagneticFieldStrength": 3,
+	"Manufacturer": "Siemens",
+	"EchoTime1": 0.004,
+	"EchoTime2": 0.00646
+}

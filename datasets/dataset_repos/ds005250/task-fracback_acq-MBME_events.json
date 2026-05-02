@@ -1,0 +1,30 @@
+{
+    "classification": {
+        "Description": "The classification of the trial.",
+        "LongName": "Classification",
+        "Levels": {
+            "false negative": "A false negative (the participant should have responded but did not).",
+            "false positive": "A false positive (the participant responded when they should not have).",
+            "true negative": "A true negative (the participant did not respond and should not have).",
+            "true positive": "A true positive (the participant responded and should have)."
+        }
+    },
+    "stimulus": {
+        "Description": "The stimulus presented to the participant. This was used instead of 'stim_file' because the stimuli are not shareable within the dataset.",
+        "LongName": "Stimulus file"
+    },
+    "trial_number": {
+        "Description": "Trial number.",
+        "LongName": "Trial number"
+    },
+    "trial_type": {
+        "Description": "The type of trial.",
+        "LongName": "Trial type",
+        "Levels": {
+            "0back": "A zero-back trial.",
+            "2back": "A two-back trial.",
+            "fixation": "A fixation cross.",
+            "instruction": "Instruction screen for a given block (0back or 2back)."
+        }
+    }
+}

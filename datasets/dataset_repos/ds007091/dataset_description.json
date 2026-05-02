@@ -1,0 +1,60 @@
+{
+    "Authors": [
+        "Brooke L. Sevchik",
+        "Golia Shafiei",
+        "Kristin Murtha",
+        "Juliette B.H. Brook",
+        "Lia Brodrick",
+        "Kahini Mehta",
+        "Sage Rush",
+        "Matt Cieslak",
+        "Steven L. Meisler",
+        "Taylor Salo",
+        "S. Parker Singleton",
+        "Tien T. Tong",
+        "Mrugank Salunke",
+        "Dani S. Bassett",
+        "Monica E. Calkins",
+        "Mark A. Elliott",
+        "Raquel E. Gur",
+        "Ruben C. Gur",
+        "Tyler M. Moore",
+        "Kosha Ruparel",
+        "Russell T. Shinohara",
+        "M. Dylan Tisdal",
+        "Daniel H. Wolf",
+        "David R. Roalf",
+        "Theodore D. Satterthwaite"
+    ],
+    "BIDSVersion": "1.1.1",
+    "CodeURL": "https://github.com/pennlinc/qsirecon",
+    "DatasetLinks": {
+        "preprocessed": "https://openneuro.org/datasets/ds007090/versions/1.0.3",
+        "templateflow": "https://github.com/templateflow/templateflow"
+    },
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/PennLINC/qsirecon/archive/1.1.1.dev0+gaf43da9.d20250414.tar.gz",
+            "Name": "qsirecon",
+            "Version": "1.1.1.dev0+gaf43da9.d20250414"
+        },
+        {
+            "CodeURL": "https://github.com/PennLINC/qsiprep/archive/1.0.1.dev0+gee9aa2e.d20250115.tar.gz",
+            "Name": "qsiprep",
+            "Version": "1.0.1.dev0+gee9aa2e.d20250115"
+        }
+    ],
+    "HowToAcknowledge": "Please cite our preprint: https://doi.org/10.1101/2025.11.10.687633\n\nPlease cite the QSIPrep paper (https://www.nature.com/articles/s41592-021-01185-5#citeas), and include the generated citation boilerplate within the Methods section of the text.",
+    "License": "CC0",
+    "Name": "Penn LEAD: Penn Longitudinal Executive functioning in Adolescent Development - QSIRecon Derivatives",
+    "PipelineDescription": {
+        "CodeURL": "https://github.com/PennLINC/qsirecon/archive/1.1.1.dev0+gaf43da9.d20250414.tar.gz",
+        "Name": "qsirecon",
+        "Version": "1.1.1.dev0+gaf43da9.d20250414"
+    },
+    "SourceDatasetsURLs": [
+        "https://doi.org/10.18112/openneuro.ds007090.v1.0.3"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007091.v1.0.2"
+}

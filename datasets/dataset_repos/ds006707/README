@@ -1,0 +1,14 @@
+# Night Owls Scan Club (NOSC)
+
+Data repository for the Night Owls Scan Club (NOSC) Project under Temple University IRB #24452. Github repository for preprocessing and analysis code can be found at https://github.com/DVS-Lab/night-owls
+
+## Description, Supplemental Information, and Derivatives
+NOSC is an intensively sampled fMRI study of the reward response featuring multiband, multi-echo sequencing and mood induction experimental manipulations. It is described in detail in Mattoni et al., 2026 (DOI 10.1002/hbm.70512). Briefly, four participants each provided 9-12 sessions (44 total) of functional data at a roughly biweekly rate. Each session consisted of two runs of the MID task and two runs of the Shared Reward task, a social reward task. Participants completed a positive mood induction task in between runs and provided a mood rating before each run. Participants also provided PANAS ratings and alertness scores. Resting state was collected in odd numbered sessions and neuromelanin scans (not yet released) were collected in even numbered sessions. 
+
+Information on scanning sessions, behavioral data, and outputs of L1 and LSS models (described in Mattoni et al., 2026) are available on OSF at https://osf.io/df5t9/ (DOI 10.17605/OSF.IO/DF5T9). Task stimuli and raw behavioral outputs are available in the /stimuli folder at https://github.com/DVS-Lab/night-owls.
+
+Please note that BIDS validator warnings are in large part attributed to additional multi-echo filenaming structures (part-mag/part-phase), as well as JSON sidecar headers that are not available in the .dcm files output by our Siemens 3T Prisma Scanner. We would like to note that these warnings do not reflect data or file organization errors, nor do they prevent preprocessing or analyses. Please see this GitHub issue for more information on extraneous JSON headers: https://github.com/bids-standard/bids-specification/issues/2040
+
+## How to Acknowledge
+Please cite the Night Owls Scan Club primary manuscript (Mattoni et al., 2026) and OpenNeuro Dataset ds006707. 
+Mattoni, M., Wang, S., Olino, T.M., Smith, D.V. (2026). Precision Imaging for Intraindividual Investigation of the Reward Response. Human Brain Mapping. 10.1002/hbm.70512

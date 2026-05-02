@@ -1,0 +1,24 @@
+1.1.3 2025-02-17
+  - demo.tsv file updated to include all subjects. participants.tsv file added
+1.1.2 2025-01-30
+  - Added sub-directory fMRI_timeseries_clean_denoised_GSR_parcellated. These contain participant subfolders with hdf5 files of the HCP-preprocessed, denoised, GSR'd, and parcellated (434 Regions, see Chopra, Cocuzza et al. 2024) timeseries for fMRI runs
+1.1.1 2025-01-30
+  - Added sub-directory motion_FD which contains .csv files with framewise displacement (FD) traces for each fMRI run (rows = participants)
+1.1.0 2025-01-30
+  - Updated json sidecars so that keys are sorted alphabetically
+  - Added phenotype directory with all behavioral and clinical survey data as well as task fMRI performance data
+1.0.6 2024-09-04
+  - added info on the face stimuli for the Emotional Faces fmri task to the README. 
+1.0.5 2024-08-28
+  - added the pum01.csv file that was missing. Positive Urgency Measure (PUM) 
+1.0.4 2024-08-23
+  - participants.tsv added.
+  -  Block info for stroop tasks added to README.
+1.0.3 2024-06-21
+  - Add preprint link to README file
+1.0.2 2024-06-20
+  - Change to README file.
+1.0.1 2024-06-20
+  - Change to README file to add information about measures and data collection.
+1.0.0 2024-06-18
+  - First upload

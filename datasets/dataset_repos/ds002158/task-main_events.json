@@ -1,0 +1,29 @@
+{
+  "dots_difference": {
+    "LongName": "Differences in numbers of dots",
+    "Units": "Dots"
+  }, 
+  "stim_side": {
+    "LongName": "Side of the highest number of dots",
+    "Levels": {
+      "left": "Left has most dots",
+      "right": "Right has most dots"
+    }
+  }, 
+  "choice_accuracy": {
+    "LongName": "Whether the participants answer is correct",
+    "Levels": {
+      "cor": "Correct",
+      "err": "Erroneous"
+    }
+  }, 
+  "confidence": {
+    "LongName": "The confidence of the participant",
+    "Units": "%, 0 is sure error, 1 is sure correct"
+  }, 
+  "response_time2": {
+    "LongName": "Time to rate confidence",
+    "Description": "Note that since the scale moves automatically, these timings have little utility",
+    "Unit": "seconds"
+  }
+}

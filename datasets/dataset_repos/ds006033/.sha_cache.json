@@ -1,0 +1,11 @@
+{
+  "CHANGES": "f8b4c8d7c308a4ad870a0eaeed60fd483e8b7550",
+  "participants.tsv": "9f0221f575dc2ddc85b8db1bc15726e4a0fb238d",
+  "participants.json": "59bb685dc7163f5b716d66fbbca91e8b365bb358",
+  "dataset_description.json": "aa506958e3ca5d68783bd534016873affe2d87a9",
+  "README": "5f42348c24211e7c1c3bcfa54878f7f346625d02",
+  "sub-03/ses-01/eeg/sub-03_ses-01_task-innerspeech_events.tsv": "b826507a7b522837542cfb0d9f3c25c54f328af6",
+  "sub-03/ses-02/func/sub-03_ses-02_task-innerspeech_events.tsv": "39307809d776e2a43e9802f375fec61721d5a081",
+  "sub-03/ses-02/eeg/sub-03_ses-02_task-innerspeech_events.tsv": "be09e8b0b718d32b7356b6a1182f8c8acbc08e13",
+  "sub-03/ses-01/func/sub-03_ses-01_task-innerspeech_events.tsv": "df517afb6d3eb879d75da72a0808c5352fd4cfa6"
+}

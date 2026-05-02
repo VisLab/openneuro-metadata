@@ -1,0 +1,11 @@
+{
+  "CHANGES": "6a797344f8f59135532d604c319111cb4c4ca948",
+  "participants.json": "57513e36143096d7ff86cdf1290c9b4b2e5da396",
+  "dataset_description.json": "42fc5ea097191290c0e8dd56277966c7626238a5",
+  "README": "9d96651edb6af5e3f5af25d971823f557b6d739e",
+  "participants.tsv": "18e9938ea9b5cba6ef3fc7da89e5b9e3d0817092",
+  "task-execution_acq-Fs2_bold.json": "c37f86c7e1af2b70d2cd1b85f857bef150fb0949",
+  "task-imagery_acq-Fs2_bold.json": "ac57c5ca0b25b772dde2183892501e2ac6cae4ac",
+  "sub-108TUSW011001/ses-1/func/sub-108TUSW011001_ses-1_task-imagery_acq-Fs2_run-01_events.tsv": "0020e1755c94047c9fb52a6a2c39fb98e56d1ac9",
+  "sub-108TUSW011001/ses-1/func/sub-108TUSW011001_ses-1_task-execution_acq-Fs2_run-02_events.tsv": "91f54e70d914ba4094d13b43b5aa51132fcf2e4b"
+}

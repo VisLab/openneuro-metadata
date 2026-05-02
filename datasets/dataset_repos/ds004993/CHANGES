@@ -1,0 +1,12 @@
+1.1.2 2024-03-01
+  - Corrected old channel location
+1.1.1 2024-02-27
+  - Fixed json files
+1.1.0 2024-02-27
+  - Fixed EDF headers to be compliant with new version of MNE python
+1.0.2 2024-02-26
+  - Added trans.fif files for electrode plotting
+1.0.1 2024-02-26
+  - Added acknowledgements and funding info
+1.0.0 2024-02-26
+  - First version

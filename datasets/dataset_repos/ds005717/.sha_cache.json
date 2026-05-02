@@ -1,0 +1,19 @@
+{
+  "CHANGES": "3e78e44ac197a460518c30e44c54bee45ebdb506",
+  "task-float_bold.json": "cd90517bbfde70aa854c189216dcf679199ef729",
+  "task-lifted_bold.json": "c0fdb92ac6fadadfe67ea0603330e81fa9c7d7ab",
+  "task-laluna_bold.json": "747ca4dc8a97ee462c43112bc42289980643a74d",
+  "participants.tsv": "98508f4f2dab67dc49ce6400f089e0609a21dffe",
+  "task-piper_bold.json": "651ec300cfc3cdf18c1f5cfa869843154e64c506",
+  "README": "f920d6f3f2c7ccaff9f1eecbb6845846819e91dc",
+  "task-partlycloudy_bold.json": "966def8aca98f8d6c7d50eb4fc16547020ab9d1b",
+  "task-bao_bold.json": "48aacc6fdfc40c4ce4c0649535fb46ae29155ad2",
+  "dataset_description.json": "7d365e8fdb8c372868190fb8de53c32f579afd27",
+  "task-sintel_bold.json": "3521b77bb841c1006b563ba9321aa9fdd759464e",
+  "task-presto_bold.json": "e2d582b8b09b0401c4ce535921a76c0c5e878060",
+  "task-theblueumbrella_bold.json": "8cd1048d5c3e2047c30b9dbb5c84bdb51e1e7e4f",
+  "task-toystory2_bold.json": "920d9ae16d1c17385904fc6da437fe0f6b8aa9b9",
+  "task-walle_bold.json": "6eb763f2550a299c1d5f49f51d9a271315df8f7f",
+  "task-up_bold.json": "24c5899abebe77416830d7467b33bbd0a5bf8adc",
+  "task-wind_bold.json": "e484e154888102387fffa3d0d07801d08a9b08a7"
+}

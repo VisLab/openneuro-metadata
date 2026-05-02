@@ -1,0 +1,5 @@
+### Motor planning of finger movements
+
+This contains the raw 7 Tesla fMRI data and structural images, used in the the Ariani, Pruszynski, Diedrichsen (2021) biorxiv paper "Motor planning brings human primary somatosensory cortex into action-specific preparatory states" (https://www.biorxiv.org/content/10.1101/2020.12.17.423254v3).
+
+Participants (N=22) underwent one session of fMRI scanning (10 blocks, ~5-6 min each) in which they planned and executed 3 single-finger and 3 multi-finger sequences of finger movements inside the scanner (presentation order was randomized). Sequence identity (1-6) and sequence type (single = 1 / multi = 2) for each trial can be found in the accompanying events.tsv files. Additionally, we included a proportion (~40%) of no-go trials in which planning is not followed by execution.

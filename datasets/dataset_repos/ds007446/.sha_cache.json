@@ -1,0 +1,11 @@
+{
+  "participants.json": "3d3e6f53996f12cf5b9c6fbd86cb087987d90360",
+  "dataset_description.json": "fc7e666931b6e00627885fe0ac70d45fa465e0ae",
+  "CHANGES": "34c2d029236a41959ca806fd1a4307f3dff6e95e",
+  "README.md": "49728272b951844dfffdd2da5b7edcd21c16ea73",
+  "participants.tsv": "b5e4e3771d115d67b983c0eff9e7200880971d11",
+  "sub-A01/ses-01/func/sub-A01_ses-01_task-AliceLocalizer_run-02_events.tsv": "58fc095810abcb130efd5596e7ef3eb0bd60a6cf",
+  "sub-A01/ses-01/func/sub-A01_ses-01_task-AliceLocalizer_run-01_events.tsv": "1a337adee4ed4c532209ddbb022317c40e9f2806",
+  "sub-A01/ses-01/func/sub-A01_ses-01_task-MDLocalizer_run-01_events.tsv": "1d4bc0384e6fdd3273eb974ced5366a974fb6090",
+  "sub-A01/ses-01/func/sub-A01_ses-01_task-MDLocalizer_run-02_events.tsv": "a39d36b554afbd26f0718d1c3577bd864cda543e"
+}

@@ -1,0 +1,8 @@
+# Natural Dialogue fMRI Dataset
+fMRI data was recorded while participants had dialogue tasks involving chatting about specific topics, such as self-introduction and favorite classes. Each participant was scanned for about 27 runs over the course of three to four sessions. 
+
+### Derivatives
+1. proprocessed data: preprocessed fMRI data, features used for voxel-wise modeling, GPT embeddings, morpheme and syllable rates.
+2. fsROI: FreeSurfer regions of interest
+3. pycortex_db: Cortical maps used by Pycortex
+4. results: sample results for visualization by Pycortex

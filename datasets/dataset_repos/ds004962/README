@@ -1,0 +1,30 @@
+This dataset contains MRI associated with the following publication, currently submitted to Stroke.
+
+Title: Head down tilt 15° increases cerebral perfusion before recanalization in acute ischemic stroke due to large vessel occlusion. A pre-clinical MRI study
+Authors: Simone Beretta, Davide Carone, Tae-Hee Cho, Martina Viganò, Susanna Diamanti, Jacopo Mariani, Francesco Pedrazzini, Elisa Bianchi, Cristiano Pini, Radu Bolbos, Marlene Wiart, Carlo Ferrarese, Fabien Chauveau
+Preregistration: preclinicaltrials.eu, identifier PCTE0000198
+
+Raw data:
+
+	MRI for 28 adult male Wistar rats (ILAR code Crl:WI(Han); RRID:RGD_2308816)
+	Magnetic field: 7T
+	Anesthesia: isoflurane
+	Time points (in hours, following occlusion): H0 (during MCA occlusion); H24 (after reperfusion)
+	Ethics statement: agreement numbers APAFIS#15529-2018061512184831v2 and 32924-2021091015062327v4 from local committee CELYNE-CNREEA (C2EA-42, Lyon, France)
+
+Derivatives:
+
+	Time-to-Peak (TTP) maps calculated from DSC-PWI 
+	Matlab code used for TTP calculation
+	Excel files describing the experimental series and the main results
+
+Notes:
+
+	No specification is available for Dynamic-Susceptibility-Contrast Perfusion-Weighted-Imaging (DSC-PWI), so the corresponding files are labelled in .bidsignore 
+	R10 had no anatomical T2w on H0
+	H24 session could not be performed for 8 animals  (R03-R10-R26-R28-R29-R31-R33-R34)
+	R28 was not positioned properly during the first run of DSC-PWI, positioning was corrected for the second run
+
+This dataset has been converted using BrkRaw (v0.3.7) on 2024-01-23.
+## How to cite?
+ - https://doi.org/10.5281/zenodo.3818615

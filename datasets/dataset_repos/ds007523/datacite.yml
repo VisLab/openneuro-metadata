@@ -1,0 +1,45 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Corentin Bel
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Julie Bonnaire
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Jean-Rémi King
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Christophe Pallier
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+    creators:
+      - name: Corentin Bel
+        nameType: Personal
+      - name: Julie Bonnaire
+        nameType: Personal
+      - name: Jean-Rémi King
+        nameType: Personal
+      - name: Christophe Pallier
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

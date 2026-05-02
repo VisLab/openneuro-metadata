@@ -1,0 +1,35 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Lindsey Tepfer
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0003-3999-0067
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 1
+      - name: Mark Thornton
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0000-0001-5985-3030
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 2
+    creators:
+      - name: Lindsey Tepfer
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: Mark Thornton
+        nameType: Personal
+        nameIdentifiers: *ref_1
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

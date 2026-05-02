@@ -1,0 +1,24 @@
+{"onset": {
+        "Description": "Onset (in seconds) of display of smaller-sooner and larger-later options. Smaller-sooner and larger later options were presented simultaneously."}, 
+              "duration": {
+              "Description": "Reaction time (in seconds) from onset of the display until a response (choice) was recorded. If no response was recorded, the display was presented for 5 seconds."},
+              "trial": {
+              "Description": "Trial number (1 to 80)."},
+              "trial_id": {
+              "Description": "Unique identifier of a smaller-sooner versus larger-later option pair; option pairs were presented in random order across participants."},
+              "choice": {
+              "Description": "SS = smaller sooner option was selected; LL = larger-later option was selected."},
+              "choice_bin": {
+              "Description": "Binary indicator of the choice, 1 = smaller sooner, 2 = larger later."},
+              "magnitude_sooner": {
+              "Description": "Magnitude of the monetary outcome associated with the smaller-sooner option."},
+              "delay_sooner": {
+              "Description": "Delay (in weeks) of the monetary outcome associated with the smaller-sooner option."},
+              "magnitude_later": {
+              "Description": "Magnitude of the monetary outcome associated with the larger-later option."},
+              "delay_later": {
+              "Description": "Delay (in weeks) of the monetary outcome associated with the larger-later option."},
+              "onset_choice_fb": {
+              "Description": "Onset (in seconds) of the visual confirmation of the chosen option. If no choice was recorded, this value is given as NA."},
+              "duration_choice_fb": {
+              "Description": "Duration (in seconds) of the visual confirmation of the chosen option. If no choice was recorded, this value is given as NA."}}

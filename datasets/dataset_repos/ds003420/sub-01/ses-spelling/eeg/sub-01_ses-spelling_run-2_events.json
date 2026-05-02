@@ -1,0 +1,22 @@
+{
+  "onset": {
+    "Description": "Time of stimulus presentation"
+  },
+  "duration": {
+    "Description": "Time between two stimulis"
+  },
+  "response_time": {
+    "Description": "Time taken by the subject to give the answer"
+  },
+"stimuli": {
+    "Description": "The presented figure"
+  },
+"value": {
+    "Description": "Correct or wrong answer ",
+"Levels": {
+      "0": "Wrong",
+      "1": "Correct"
+    }
+  }
+  
+}

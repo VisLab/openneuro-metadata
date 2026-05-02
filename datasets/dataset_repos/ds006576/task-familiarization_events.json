@@ -1,0 +1,26 @@
+{
+    "trial_type": {
+        "Description": "Type of task event",
+        "Levels": {
+            "neutral": "A gray rectangle, representing a neutral outcome, is displayed",
+            "reward": "A dollar bill, representing a reward outcome, is displayed",
+            "scene": "A scene image is displayed"
+        }
+    },
+    "condition": {
+        "Description": "Original task condition",
+        "Levels": {
+            "nonviolation": "The scene displayed belongs to a nonviolation condition pairmate",
+            "violation": "The scene displayed belongs to a violation condition pairmate"
+        }
+    },
+    "pairmate": {
+        "Description": "A or B item within a pairmate",
+        "Levels": {
+            "A": "First item in a pairmate; only A scenes shown during familiarization task runs"
+        }
+    },
+    "pairID": {
+        "Description": "Pairmate number assigned to the A-B pairing for this participant"
+    }
+}

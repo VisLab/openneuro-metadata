@@ -1,0 +1,12 @@
+{
+    "block_type": {
+        "LongName": "block type",
+        "Description": "Indicator of block type",
+        "Levels": {
+            "instructions": " 'rhyme?' instructs the participant that it is the rhyme decision block and 'same?' instructs the participant that it is the picture match decision block",
+            "rhyme decision": "participant is asked to decide whether two pictures rhyme",
+            "picture match decision": "participant is asked to decide whether two pictures are the same",
+            "rest": "participant is asked to think of nothing in particular"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "task-music_bold.json": "90efabbc3186a4151b2f9554b9086cdff35d8ecc",
+  "dataset_description.json": "0f427b5fca38d08b5fffec8bf7965eeeb6936dac",
+  "task-nonmusic_bold.json": "785ee6cfd7f9ec5934fcbc9bbcae97fdd3aeb834",
+  "participants.tsv": "7560fdc1adcdcef4510515d43d9d8a74fdbf237e",
+  "README": "958b2fb9fb0ce32912412fe1a08241ae7d8c7445",
+  "CHANGES": "66b8fd3c75c111abf3c0984f2867061cd8c5fb34",
+  "T1w.json": "6b09aaa9e737fefaeed500dad56ed565b4265650",
+  "sub-control01/func/sub-control01_task-nonmusic_run-4_events.tsv": "2c81e3f37bc3c97fbc3040e17906841f4075dc9f",
+  "sub-control01/func/sub-control01_task-music_run-3_events.tsv": "a3bfdb09755b4abd45ab85367f4cfe7c62bec76b",
+  "sub-control01/func/sub-control01_task-nonmusic_run-5_events.tsv": "c0cc54744881c542c7d1dda06abc3483b01ac08a",
+  "sub-control01/func/sub-control01_task-music_run-2_events.tsv": "fcad42d7104a27a71d779f678153033f202d01a4",
+  "sub-control01/func/sub-control01_task-music_run-1_events.tsv": "a3bfdb09755b4abd45ab85367f4cfe7c62bec76b"
+}

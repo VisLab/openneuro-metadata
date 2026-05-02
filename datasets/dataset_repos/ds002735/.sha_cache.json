@@ -1,0 +1,9 @@
+{
+  "README": "88b1fbca15760793ecda0e40e3927addd0ee75a0",
+  "task-rest_acq-moldON_bold.json": "e367305ebdc344a3364df72cc2efee8847f0b4ba",
+  "CHANGES": "e46c2c874ef8ff4eb8d098feabed6c3fa20638e8",
+  "task-rest_acq-moldOFF_bold.json": "343cc284892c4bfaa59cde613fea589ae0508aad",
+  "dataset_description.json": "1cce0eba0c18252d3eb666f34a4847da697b75de",
+  "acq-moldOFF_T1w.json": "b10586a8502c233250ac8e85d359f1df5a8ae1a1",
+  "acq-moldON_T1w.json": "b10586a8502c233250ac8e85d359f1df5a8ae1a1"
+}

@@ -1,0 +1,10 @@
+# LangFC results (derivatives) from Shain & Fedorenko (2025)
+
+This repository contains derived parcellation data from the nearly 2,000 fMRI scanning sessions
+analyzed in Shain & Fedorenko (2025). We do not have participants' consent to release the source data
+because fMRI timecourses are identifiable (Finn et al., 2015).
+
+This dataset is large (over 3TB) and currently under construction due to the time and compute needed
+to upload so much data. Please check back in a few days.
+
+

@@ -1,0 +1,10 @@
+{
+  "task-resting_events.json": "b81308e5a2fe42795948cf86ded180fab65b2700",
+  "participants.json": "b608f17add54f0cd905be2d81bd1da3580e22098",
+  "CHANGES": "ae7a707c18d491f96290ce8a4fc955ecab0b7559",
+  "participants.tsv": "b7ffc22a3541e8f104959559226699551b28b2e0",
+  "dataset_description.json": "54fb3a5cb2c8eaaccc3364079abd28b545cc1992",
+  "README": "ab7e4d1e91d9c8e7e31763be934b89899679d695",
+  "sub-001/ses-2/eeg/sub-001_ses-2_task-resting_events.tsv": "951fd3e74e454d89e98f54d121b5118ea350e588",
+  "sub-001/ses-1/eeg/sub-001_ses-1_task-resting_events.tsv": "b569518e05ae05df6891e428648a72f67c85f4e2"
+}

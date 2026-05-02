@@ -1,0 +1,18 @@
+{
+	"event_type": {
+		"LongName": "Task condition",
+		"Description": "Type of stimulus and task to be performed by the subject",
+		"Levels": {
+			"Rotated_Audio": "Auditory : scrambled sentence. Passive listening task",
+			"False_Font_Video": "Visual : word in false font. Passive viewing tas",
+			"Right_Audio_Click": "Auditory instruction : 'press the right button'",
+			"Left_Audio_Click": "Auditory instruction : 'press the left button'",
+			"Right_Video_Click": "Visual (text) instruction : 'press the right button'",
+			"Left_Video_Click": "Visual(text) instruction : 'press the left button'",
+			"Audio_Computation": "Auditory instruction for mental computation : ex: 'compute 18-3'",
+			"Video_Computation": "Visual (text) instruction for mental computation : ex: 'compute 18-3'",
+			"Video_Sentences": "Visually presented sentences (RSVP). Passive reading",
+			"Audio Sentences": "Audirily presented sentences. Passive listening"
+		}
+	}
+}

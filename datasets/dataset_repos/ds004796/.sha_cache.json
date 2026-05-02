@@ -1,0 +1,21 @@
+{
+  "dataset_description.json": "bd6a2ac75d6ac2ac0a80d3e5b0b4ea232abcb335",
+  "task-msit_eeg.json": "17159abcb532e9d89f208f5521c9ebfe4591d8b2",
+  "task-rest_eeg.json": "9f5ea76cd8cb43bcdd4a726868bfbae89def5ba7",
+  "README": "7b7c59410c7d69b3a0548d815ac0400d6b0e7134",
+  "genetic_info.json": "6171c1c507d7552c1c5c772f77002504650fee1e",
+  "CHANGES": "d72542280e9f9befd8f99ecd2e7d339b08947825",
+  "task-msit_events.json": "5cfeac8c48ae023002aae7353bab5b7efa6125d9",
+  "task-rest_events.json": "04685c67cfa737499a57d898c41d530927f8ecd9",
+  "participants.json": "731dda834ae1a365d9ec490d698e395d5a50eb9c",
+  "participants.tsv": "7b272208de8570e93dbbcebcdb8ee4729e3b3c65",
+  "task-sternberg_eeg.json": "b9f44a0607ab2354f3a6686761d53b81a72aacb3",
+  "task-sternberg_events.json": "5e39bd82bb58c89643be63b147efadb97b61402b",
+  "sub-01/eeg/sub-01_task-rest_events.tsv": "4521becb922145d2e09c2e829c9d5dca566bb1ce",
+  "sub-01/func/sub-01_task-msit_dir-AP_events.tsv": "f6c2a549f2210c79638fee085b2ad58e5ff8e241",
+  "sub-01/func/sub-01_task-sternberg_dir-AP_events.tsv": "0376e9eda706320bec8723a4dfacf09e9acba4d0",
+  "sub-01/func/sub-01_task-sternberg_dir-PA_events.tsv": "b0ff8c3155e96a32017b48248ee2c0c44ff1ce34",
+  "sub-01/func/sub-01_task-msit_dir-PA_events.tsv": "f1161ec77b6f68aae1756a2d5d697782c4ccc1bb",
+  "sub-01/eeg/sub-01_task-msit_events.tsv": "5ff3eac4e231099102cd869c662b50df0ad1be62",
+  "sub-01/eeg/sub-01_task-sternberg_events.tsv": "11363703fe5e902fa5a3215d46430e36dc60f4ac"
+}

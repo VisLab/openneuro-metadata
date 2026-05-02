@@ -1,0 +1,11 @@
+1.0.4 2024-07-19
+  - Re-upload of EXC007 DWI due to data download issues
+1.0.3 2024-07-10
+  - Corrected orientation issues for the DWI volumes and ROIs
+1.0.2 2023-12-04
+  - updated orientations for sub-EXC007 and sub-EXC012 aan-dmn ROIs
+  - added yeo 7-network cortical rois for sub-EXC007 and sub-EXC012
+1.0.1 2023-07-13
+  - Updated funding, acknowledgments, and ethics approval statement.
+1.0.0 2023-07-13
+  - Data from two additional cases (EXC001 and EXC012) has been added

@@ -1,0 +1,108 @@
+{
+    "onset": {
+        "LongName": "",
+        "Description": "Onset of the sound/feedback",
+        "Units": "seconds"
+    },
+    "duration": {
+        "LongName": "",
+        "Description": "Duration of the sound/feedback",
+        "Units": "seconds"
+    },
+    "trial_type": {
+        "LongName": "",
+        "Description": "Sound or feedback",
+        "Levels": {
+            "sound": "sound",
+            "feedback": "feedback"
+        }
+    },
+    "structure": {
+        "LongName": "",
+        "Description": "The category structure",
+        "Levels": {
+            "ii": "information-integration",
+            "rb": "rule-based"
+        }
+    },
+    "category": {
+        "LongName": "",
+        "Description": "The category label",
+        "Levels": {
+            "1": "category 1",
+            "2": "category 2",
+            "3": "category 3",
+            "4": "category 4"
+        }
+    },
+    "item": {
+        "LongName": "",
+        "Description": "The sound ID (each sound has a unique ID)",
+        "Levels": {
+            "1": "sound 1",
+            "2": "sound 2",
+            "3": "sound 3",
+            "4": "sound 4",
+            "5": "sound 5",
+            "6": "sound 6",
+            "7": "sound 7",
+            "8": "sound 8",
+            "9": "sound 9",
+            "10": "sound 10",
+            "11": "sound 11",
+            "12": "sound 12",
+            "13": "sound 13",
+            "14": "sound 14",
+            "15": "sound 15",
+            "16": "sound 16",
+            "17": "sound 17",
+            "18": "sound 18",
+            "19": "sound 19",
+            "20": "sound 20",
+            "21": "sound 21",
+            "22": "sound 22",
+            "23": "sound 23",
+            "24": "sound 24",
+            "25": "sound 25",
+            "26": "sound 26",
+            "27": "sound 27",
+            "28": "sound 28",
+            "29": "sound 29",
+            "30": "sound 30",
+            "31": "sound 31",
+            "32": "sound 32",
+            "33": "sound 33",
+            "34": "sound 34",
+            "35": "sound 35",
+            "36": "sound 36",
+            "37": "sound 37",
+            "38": "sound 38",
+            "39": "sound 39",
+            "40": "sound 40"
+        }
+    },
+    "stim.RESP": {
+        "LongName": "",
+        "Description": "Subjects' categorization responses",
+        "Levels": {
+            "1": "category 1",
+            "2": "category 2",
+            "3": "category 3",
+            "4": "category 4",
+            "0": "no response"
+        }
+    },
+    "stim.ACC": {
+        "LongName": "",
+        "Description": "The correctness of each categorization response",
+        "Levels": {
+            "1": "correct",
+            "0": "incorrect"
+        }
+    },
+    "stim.RT": {
+        "LongName": "reaction time",
+        "Description": "The categorization response time in each trial",
+        "Units": "seconds"
+    }
+}

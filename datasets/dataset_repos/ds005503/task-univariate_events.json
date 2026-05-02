@@ -1,0 +1,42 @@
+{
+  "onset": {
+    "Description": "Onset of the event measured from the beginning of the acquisition of the first volume.",
+    "Units": "seconds"
+    },
+  "duration": {
+    "Description": "Duration of the event (measured from onset) in seconds.",
+    "Units": "seconds"
+  },
+  "trial_type": {
+    "Description": "Categorization of each trial as 'stimulus', 'catch' or 'blank'.",
+    "Levels": {
+      "stimulus": "The presented image belongs to one of the 150 univariate RNC controlling images.",
+      "catch": "The presented images depicts Buzz Lightyear, prompting the participant to press a button. The purpose of catch trials was to ensure participants paid attention to the stimuli.",
+      "blank": "Fixation dot on a gray screen with no image presented."
+    }
+  },
+  "stim_id": {
+    "LongName": "Stimulus ID",
+    "Description": "Index indicating the ID of the presented image.",
+    "Levels": {
+      "[1 150]": "If trial_type is 'stimulus', stim_id indicates the index, in the range [1 150], of the presented univariate RNC image. The first 25 images drive both V1 and V4 univariate responses, the images from 25 to 50 drive V1 univariate responses while suppressing V4 univariate responses, the images from 50 to 75 suppress V1 univariate responses while driving V4 univariate responses, the images from 75 to 100 suppress both V1 and V4 univariate responses, the images from 100 to 125 correspond to V1 baseline univariate response, the images from 125 to 150 correspond to V4 baseline univariate response.",
+      "151": "If trial_type is 'catch', stim_id is 251.",
+      "n/a": "If trial_type is 'blank', no stim_id is assigned."
+    }
+  },
+  "stim_file": {
+    "LongName": "Stimulus File",
+    "Description": "Represents the location of the stimulus image file presented at the given onset time."
+  },
+  "stim_nsd_id": {
+    "LongName": "Stimulus NSD ID",
+    "Description": "If trial_type is 'stimulus', stim_nsd_id indicates the Natural Scenes Dataset index of the presented image (zero-based, in the range [0 72,999])."
+  },
+  "button_press": {
+    "Description": "Value of participant's button press. Participants were instructed to press a button when a catch image was presented.",
+    "Levels": {
+      "0": "No button press.",
+      "1": "Button press."
+    }
+  }
+}

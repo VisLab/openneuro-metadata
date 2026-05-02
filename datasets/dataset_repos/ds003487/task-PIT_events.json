@@ -1,0 +1,12 @@
+{
+ "trial_phase": {"Description": "Wether it is ITI or trial phase"},
+ "trial": {"Description":"Counting number of trial"},
+ "condition": {"Description": "Which condition: CS+, CS-, Baseline or None"},
+ "n_grips":{ "Description": "Number of grips during the trial"},
+ "rewarded_response": {"Description": "The response that was rewarded on this trial"},
+ "phase":   { "Description": "phasis of the PIT task",
+    "Levels": {
+    "Reminder": "Same as instrumental phase (2 time windows rewarded)",
+    "Partial_Extinction": "Only one time window rewarded",
+    "PIT": "No time window rewarded AKA exctinction"}}
+}

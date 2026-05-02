@@ -1,0 +1,11 @@
+{
+  "CHANGES": "55d1b1a37086226d4e11e6b0243dddd59cc9dcf7",
+  "task-memory_bold.json": "68087736f6c8191e8184f70ff0206a6b39896907",
+  "participants.tsv": "c302205b13317d4140fccca4e7f79212b71edbb7",
+  "dataset_description.json": "432a7f2c52919568c3c89971cc882ffc52dd8394",
+  "README": "ae441a9c8bccca02cad53ad48f79fa610e522af0",
+  "sub-01/func/sub-01_task-memory_run-02_events.tsv": "b7df03d1fedfb0a6e9fc986f43069a2973acfa64",
+  "sub-01/func/sub-01_task-memory_run-03_events.tsv": "1f5cf08559e250f623aa32e059965adc20b93208",
+  "sub-01/func/sub-01_task-memory_run-04_events.tsv": "65e6183c0fbc0070a116a130b31065bf243cd576",
+  "sub-01/func/sub-01_task-memory_run-01_events.tsv": "45093af2e6911b2845b709ff48b5fc0796c4d740"
+}

@@ -1,0 +1,24 @@
+{
+    "Name": "Test-retest reliability of multi-metabolite edited MRS at 3T using PRESS and sLASER",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Jessica Archibald",
+        "Amy E. Bouchard",
+        "Ralph Noeske",
+        "Dikoma C. Shungu",
+        "Mark Mikkelsen"
+    ],
+    "HowToAcknowledge": "Please cite the associated paper when using this dataset: Archibald J,Bouchard AE, Noeske R, Shungu DC, Mikkelsen M. Test-retest reliability of multi-metabolite edited MRS at 3T using PRESS and sLASER. Magn Reson Med. 2025. doi:10.1002/mrm.70161",
+    "Funding": [
+        "National Institute of Biomedical Imaging and Bioengineering (NIBIB) grant K99EB028828"
+    ],
+    "EthicsApprovals": [
+        "The Weill Cornell Medicine Institutional Review Board granted ethical approval for this study (protocol #0807009883)"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1002/mrm.70161"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005371.v2.3.1"
+}

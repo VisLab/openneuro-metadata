@@ -1,0 +1,1 @@
+Session 1 - 18F-SynVesT-1 (SYN) PET scans at 17M; Session 2 - 18F-UCB-J (UCBJ) PET scans at 17M. All mice were scanned with both radiotracers, allowing intra-animal comparison.

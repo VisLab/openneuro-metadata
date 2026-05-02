@@ -1,0 +1,14 @@
+{
+  "task-phantom_events.json": "7192336d1561c39d0093b0a6b4e4efddfda87926",
+  "participants.json": "0ba01e8170a9dc9e54223e31a511241245ed82b2",
+  "CHANGES": "793b5259c2044b4747a6251ff44801ee0be1532a",
+  "participants.tsv": "8bdd69fcc4db0d1942c929bbeb4046c462fcf7d4",
+  "README": "f6d65c61a668df6aee26fcd52d043a8d0a468c60",
+  "dataset_description.json": "e666f758dc76bc7f1d7425fbe12e0cd64d9d979c",
+  "sub-001/eeg/sub-001_task-All_events.tsv": "31ee461389e1558099c1eccc8832e21996ebae17",
+  "sub-001/eeg/sub-001_task-Neck_events.tsv": "976a46bcc6ba5fd04bd953a4b4e86e6c746c6126",
+  "sub-001/eeg/sub-001_task-Eyes_events.tsv": "c825a3798d02aab3d10f0bcb76dceb915e772531",
+  "sub-001/eeg/sub-001_task-Walking_events.tsv": "ce194dd3035f588e63f4253cfab6b8a915466ed0",
+  "sub-001/eeg/sub-001_task-Facial_events.tsv": "c05af2715f6cfc1657147c1d5079ea81293de1b0",
+  "sub-001/eeg/sub-001_task-Brain_events.tsv": "21c71df4d0c612e229ebfd67c901af97c32382e8"
+}

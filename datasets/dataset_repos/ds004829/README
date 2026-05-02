@@ -1,0 +1,16 @@
+This dataset contains the raw fMRI BIDS dataset from the work "Concurrent responses and action effect representations across the somatomotor cortices during novel task preparation" by Ana F. Palenciano, Carlos González-García, Jan De Houwer, Baptist Lieefoghe and Marcel Brass.
+
+The dataset includes, per participant (N = 30): 
+
+- De-faced anatomical T1-weighted scan (/anat); 
+
+- T2* EPI images from 7 functional runs (/func), 4 of them corresponding to the main experimental paradigm and 3 additional localizer runs. TSV event files containing onset and durations of the main events of interest are  
+also included. 
+
+
+- Field mapping phase and magnitud images (/fmap).
+
+
+The processed individual and group-level fMRI and behavioral data and the scripts used for the analyses are available on OSF (https://osf.io/dq6v5/)
+
+For a full description of the experimental tasks and methodology employed in our work, please read the manuscript preprint: https://www.biorxiv.org/content/10.1101/2023.10.30.564708v1 

@@ -1,0 +1,16 @@
+{
+    "TaskName": "localizer",
+    "RepetitionTime": 1.5,
+    "EchoTime": 0.040,
+    "FlipAngle": 75,
+    "SliceTiming": [],
+    "PhaseEncodingDirection": "j-",
+    "MagneticFieldStrength": 3,
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "Magnetom Prisma_fit",
+    "InstitutionName": "University of Granada",
+    "InstitutionAddress": "Granada, Spain",
+    "ScanningSequence": "EPI",
+    "SequenceVariant": "GR",
+    "SliceEncodingDirection": "k"
+}

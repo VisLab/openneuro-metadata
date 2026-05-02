@@ -1,0 +1,13 @@
+{
+  "Onset": {
+    "Description": "Event Onset",
+    "Units": "ms"
+  },
+  "TriggerValue": {
+    "Description": "Event Triggers",
+    "Levels": {
+      "x1": "Regular",
+      "x3": "Random"
+    }
+  }
+}

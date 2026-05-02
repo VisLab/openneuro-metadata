@@ -1,0 +1,7 @@
+Resting state fMRI data acquired on a cohort of rats with intracerebroventricular injection of streptozotocin (STZ) for Alzheimer's disease-like pathology, and a cohort of controls (sham injection). 
+
+Aim: to investigate the changes in resting-state network organization within the brain during pathology progression, in a preclinical setting. Animals underwent scanning session at four time-points: 2, 6, 13 and 21 weeks (ses-1,2,3 and 4) after injection. 
+
+Some rats are missing data from the last timepoint.
+
+Slice timing in the functional data is in a interleaved ascending order.

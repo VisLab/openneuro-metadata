@@ -1,0 +1,15 @@
+{
+    "Name": "Numbers and Letters",
+    "BIDSVersion": "1.1.1",
+    "License": "CC0",
+    "Authors": [
+        "Sara Aurtenetxe",
+        "Nicola Molinaro",
+        "Doug Davidson",
+        "Manuel Carreiras"
+    ],
+    "ReferencesAndLinks": [
+        "https://www.ncbi.nlm.nih.gov/pubmed/XXXXXXXXX"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002712.v1.0.1"
+}

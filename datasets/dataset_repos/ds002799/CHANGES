@@ -1,0 +1,12 @@
+1.0.4 2021-09-10
+  - added _electrodes.tsv  and coordsystem.json to bidsignore to pass validation
+1.0.3 2020-08-25
+  - Updated with link to published paper. 
+1.0.2 2020-05-21
+  - Added link to pre-print
+1.0.1 2020-05-18
+  - ReadMe updated
+
+1.0.0	2020-05-15
+
+	- Initial snapshot

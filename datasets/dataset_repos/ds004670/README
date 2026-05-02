@@ -1,0 +1,25 @@
+# Visual Illusion Reconstruction
+
+## Original paper
+
+- Cheng, F. L., Horikawa, T., Majima, K., Tanaka, M., Abdelhack, M., Aoki, S. C., Hirano, J., & Kamitani, Y. (2023). Reconstructing visual illusory experiences from human brain activity. Science Advances, 9(46), eadj3906. https://doi.org/10.1126/sciadv.adj3906
+
+- Cheng, F., Horikawa, T., Majima, K., Tanaka, M., Abdelhack, M., Aoki, S. C., Hirano, J., & Kamitani, Y. (2023). Reconstructing visual illusory experiences from human brain activity. bioRxiv. <https://doi.org/10.1101/2023.06.15.545037>
+
+## Dataset
+
+This dataset includes fMRI data collected from human subjects while they viewed natural images (object, material, scene) and illusory images.  
+
+Deatails for 7 participants: all data for subjects S5, S6, S7, and partial data from subjects S1, S2, S3, S4 (fMRI brain activity in FMD, MSCOCO, and illusion sessions). ImageNetTraining data for S1, S2, S3, and S4 are available in the following OpenNeuro repository.
+
+- S1, S2, S3: sub-06, sub-07, and sub-04 in [Attentionally modulated subjective images reconstructed from brain activity](https://openneuro.org/datasets/ds003430/versions/1.2.0), respectively
+- S4: sub-01 in [Deep Image Reconstruction](https://openneuro.org/datasets/ds001506)
+
+## Code
+
+See <https://github.com/KamitaniLab/IllusionReconstruction>.
+
+## Contact
+
+- Email: <mailto:kamitanilab@gmail.com>
+- We also accept inqueries at [issues on GitHub/KamitaniLab/OpenData](https://github.com/KamitaniLab/OpenData/issues).

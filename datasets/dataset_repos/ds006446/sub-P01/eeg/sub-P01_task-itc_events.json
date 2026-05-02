@@ -1,0 +1,82 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event from the beginning of the first datapoint. Negative onsets account for events before the first stored data point.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event in seconds from onset. Must be zero, positive, or 'n/a' if unavailable. A zero value indicates an impulse event. ",
+        "Units": "s"
+    },
+    "sample": {
+        "Description": "The event onset time in number of sampling points.First sample is 0."
+    },
+    "value": {
+        "Description": "The event code (also known as trigger code or event ID) associated with the event."
+    },
+    "val": {
+        "Description": "Value of the delayed reward in CAD (value of immediate reward was always 40)"
+    },
+    "del": {
+        "Description": "Delay of the delayed reward in days"
+    },
+    "cue": {
+        "Description": "Cue displayed below delay"
+    },
+    "is_cued": {
+        "Description": "Indicates whether a cue was displayed for the current trial"
+    },
+    "rev_opts": {
+        "Description": "Indicates whether the order of options was reversed (un-reversed order = immediate on top, delayed on bottom; reversed order = delayed on top, immediate on bottom)"
+    },
+    "del_pres_displaytime": {
+        "Description": "Onset in seconds (according to stimulus computer clock) of the delay presentation"
+    },
+    "del_pres_triggertime": {
+        "Description": "Onset in seconds (according to stimulus computer clock) of the trigger for delay presentation"
+    },
+    "del_pres_triggercode": {
+        "Description": "Trigger code sent to indicate delay presentation"
+    },
+    "val_pres_displaytime": {
+        "Description": "Onset in seconds (according to stimulus computer clock) of the value presentation"
+    },
+    "val_pres_triggertime": {
+        "Description": "Onset in seconds (according to stimulus computer clock) of the trigger for value presentation"
+    },
+    "val_pres_triggercode": {
+        "Description": "Trigger code sent to indicate value presentation"
+    },
+    "choice_displaytime": {
+        "Description": "Onset in seconds (according to stimulus computer clock) of the choice screen"
+    },
+    "choice_triggertime": {
+        "Description": "Onset in seconds (according to stimulus computer clock) of the trigger for choice screen"
+    },
+    "choice_triggercode": {
+        "Description": "Trigger code sent to indicate choice screen"
+    },
+    "choice": {
+        "Description": "The option chosen"
+    },
+    "choice_time": {
+        "Description": "Time, in seconds (according to stimulus computer clock), at which a choice was made"
+    },
+    "viv_displaytime": {
+        "Description": "Onset in seconds (according to stimulus computer clock) of the vividness rating screen"
+    },
+    "viv_triggertime": {
+        "Description": "Onset in seconds (according to stimulus computer clock) of the trigger for vividness rating screen"
+    },
+    "viv_triggercode": {
+        "Description": "Trigger code sent to indicate vividness rating screen"
+    },
+    "viv": {
+        "Description": "Vividness rating, 1-4, if applicable"
+    },
+    "viv_time": {
+        "Description": "Time, in seconds (according to stimulus computer clock), of vividness rating"
+    },
+    "trial_idx": {
+        "Description": "Trial index, from 1-160"
+    }
+}

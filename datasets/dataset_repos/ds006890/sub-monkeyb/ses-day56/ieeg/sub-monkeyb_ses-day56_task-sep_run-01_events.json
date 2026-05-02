@@ -1,0 +1,38 @@
+{
+    "onset": {
+        "Description": "Pulse onset",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Pulse duration",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Type of event",
+        "Levels": {
+            "ssep_stim": "Somatosensory electrical pulse on"
+        }
+    },
+    "stim_side": {
+        "Description": "Side of stimulation",
+        "Levels": {
+            "Left": "Left wrist stimulation",
+            "Right": "Right wrist stimulation"
+        }
+    },
+    "amplitude_mA": {
+        "Description": "Stimulation current amplitude",
+        "Units": "mA"
+    },
+    "response_type": {
+        "Description": "Response effector/button if present, else 'n/a'"
+    },
+    "response_time": {
+        "Description": "Response latency if present",
+        "Units": "s"
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "n/a",
+        "SoftwareName": "n/a"
+    }
+}

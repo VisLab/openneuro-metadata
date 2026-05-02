@@ -1,0 +1,14 @@
+2.0.0 2025-02-22
+  - added RS048
+1.0.5 2024-10-09
+  - updated bidsignore
+1.0.4 2024-10-04
+  - - updated bidsignore
+1.0.3 2024-10-04
+  - added mlp outputs, updated patient demographics
+1.0.2 2024-03-04
+  - included bidsignore
+1.0.1 2024-03-04
+  - updated data description/README, added patient_demographics.csv
+1.0.0 2024-03-04
+  - first upload

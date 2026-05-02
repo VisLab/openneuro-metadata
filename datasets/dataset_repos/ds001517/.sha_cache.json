@@ -1,0 +1,14 @@
+{
+  "participants.tsv": "3d1d2cae2df73c04748fc278085e0c5dcbd61a4d",
+  "task-shape_bold.json": "04440c1048d544fbc78f4fa8c4c4cb0c7f133b6e",
+  "CHANGES": "cc174a0069d2cc802afb6248935c779a84506c2f",
+  "task-pred_bold.json": "ca0b1be00198fcf585e45210c18eb9e04dcd8d60",
+  "README": "988f22626510dfab290c9d811d95f8656e7db3ba",
+  "dataset_description.json": "c579092051407f4a2c1dc0d64c8d36d12036788f",
+  "sub-01/func/sub-01_task-shape_run-02_events.tsv": "68ad53c98e07b8f85671b671b5626fc60e75aaee",
+  "sub-01/func/sub-01_task-pred_run-02_events.tsv": "3413984f9f88d4f083f7d618c7d8518e9bc085b1",
+  "sub-01/func/sub-01_task-pred_run-04_events.tsv": "dc8f9c5dcaf4fbb0c861b7a2e3e61ac4a83b3e2f",
+  "sub-01/func/sub-01_task-shape_run-01_events.tsv": "8bd3bd6015cb1ffd2575a17189c50309c6d27afd",
+  "sub-01/func/sub-01_task-pred_run-01_events.tsv": "57143fc89960c263de9a6c1f36925927d5ff37ab",
+  "sub-01/func/sub-01_task-pred_run-03_events.tsv": "397f88b83e6817a525799ee0ffa5a5d917578c07"
+}

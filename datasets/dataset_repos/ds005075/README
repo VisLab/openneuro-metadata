@@ -1,0 +1,2 @@
+The physiological recordings were not synchronized with rs-fMRI acquisitions.
+The calculation should be done before running any denoising (e.g., using Tapas toolbox)

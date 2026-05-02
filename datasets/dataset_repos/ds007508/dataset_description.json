@@ -1,0 +1,12 @@
+{
+    "BIDSVersion": "1.0.0",
+    "License": "CC0",
+    "Name": "Numerosity and risk dataset",
+    "Authors": [
+        "Gilles de Hollander",
+        "Marcus Grueschow",
+        "Franciszek Hennel",
+        "Christian C. Ruff"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007508.v1.0.0"
+}

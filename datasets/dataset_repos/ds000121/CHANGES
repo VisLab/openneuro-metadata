@@ -1,0 +1,13 @@
+2.0.2 20171011
+ 
+    - Added duration columns to events.tsv files
+
+2.0.1 20160410
+    - Fixed duplicate field in top-level .json: PhaseEncodeDirection -> InPlanePhaseEncodingDirection
+
+2.0.0 20160401
+    - Repackaged in BIDS format.
+
+1.0.0 20151113
+    - Initial raw data upload
+

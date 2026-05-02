@@ -1,0 +1,14 @@
+{
+	"TaskName": "ChangeDetection",
+	"Condition Name": {
+		"Hash_Red Hash_Red": "Red pound sign",
+		"Digits Digits": "Digits trial",
+		"Letters Letters": "Letters trial",
+		"MirroredDigits MirroredDigits": "Mirrored digits trial",
+		"MirroredLetters MirroredLetters": "Mirrored letters trial",
+		"ScrambledDigits ScrambledDigits": "Scrambled digits trial",
+ 		"ScrambledLetters ScrambledLetters": "Scrambled letters trial"
+	}
+
+}
+	

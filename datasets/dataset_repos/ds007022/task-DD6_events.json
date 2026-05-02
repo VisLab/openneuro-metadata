@@ -1,0 +1,43 @@
+{
+  "trial_type" : {
+    "Description" : "Category of the trial presented to the participant.",
+    "Levels" : {
+      "CUE_6_DOT" : "Presentation of an instructional screen indicating that the upcoming task block will require detecting the appearance of full six-dot Braille cell.",
+      "CUE_REST" : "Presentation of an instructional screen indicating that the upcoming block is a resting period. Participants are instructed to remain passive and avoid unnecessary movements.",
+      "FIXCROSS" : "Fixation cross display; no stimuli were presented and the participant remained passive.",
+      "6_DOT_DETECTION" : "Presentation of tactile stimuli encoded in Braille for target detection.",
+      "RESPONSE" : "Event marking the participant’s response indicating whether a target Braille cell was detected."
+    }
+  },
+  "braille_stimulus" : {
+    "Description" : "Sequence of Braille characters presented to the participant, each encoded in six-dot Braille notation. The symbol '#' denotes a full six-dot Braille cell with all dots raised."
+  },
+  "targets" : {
+    "Description" : "Number of target stimuli (full six-dot Braille cells) presented within the trial.",
+    "Units" : "count"
+  },
+  "response_count" : {
+    "Description" : "Ordinal number of participant's responses in the trial and the number of targets expected in the trial, encoded as n_detected/n_target. Note that the n_detected can be greater than n_target if the participant incorrectly recognised a distractor as the target."
+  },
+  "TaskDescription" : "The Six-dot detection task investigated brain activity associated with implicit reading in the tactile modality. In the experimental condition, participants sequentially moved their right index finger from left to right across stimuli, pressing a response button with their left hand whenever encountering a six-dot Braille symbol (⠿) embedded within random letter sequences. Each trial could elicit 0, 1, or 2 responses. Participants were unaware that approximately half of the stimuli within each experimental block included brief, three-letter Braille words.\n\nEach experimental block consisted of 8 stimuli, presented for 5 seconds each, followed by an inter-stimulus interval lasting 1 second. Blocks were separated by 12-second rest periods. Before each block, a fixation cross appeared for a pseudo-random duration ranging from 6 to 8 seconds, followed by a visual cue (lasting 1 to 2 seconds) indicating the upcoming task.",
+  "Instructions" : "The instructions were delivered in Polish; the text below is a translation. We attached a device for presenting tactile stimuli to your right leg. Your task will be to move the index finger of your right hand across the device, just as we practiced before — each time only once, from left to right. If you see a screen with a rectangle [presentation of the cue screen], your task in a moment will be to move your finger across the device and search for rectangles on it. Each time you feel such a rectangle, please press the left button on the response pad. You will perform this task until you hear another instruction. If you see a screen with a horizontal line [presentation of the cue screen], you do not need to perform any task — no tactile stimulus will appear on the device during that time. It is important that from this moment on, as much as possible, you try not to make any additional movements in the scanner.",
+  "StimulusPresentation" : {
+    "OperatingSystem" : "Windows 10 Pro 22H2",
+    "ScreenOrigin" : [
+      "center",
+      "center"
+    ],
+    "ScreenRefreshRate" : 120,
+    "ScreenResolution" : [
+      1920,
+      1080
+    ],
+    "ScreenSize" : [
+      0.698,
+      0.392
+    ],
+    "SoftwareName" : "Presentation",
+    "SoftwareRRID" : "RRID:SCR_002521",
+    "SoftwareVersion" : "v 23.1 build 09.29.22"
+  }
+}

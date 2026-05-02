@@ -1,0 +1,15 @@
+{
+  "CHANGES": "ce39de3461d08e25e33bee109ffca09acc518df6",
+  "task-fribBids_bold.json": "1bbf0d3c632f66aa78719095edf0acdef47f6ae3",
+  "participants.tsv": "8a9c83f659245d242ad0f4da1fe376f805bf9e60",
+  "task-fLoc_bold.json": "5a47f4d20a7853a6ca9bd1418f49ffcfa6557b1b",
+  "dataset_description.json": "21d6512cf75a020630eb60811180f3d1d4e96e20",
+  "sub-0309/func/sub-0309_task-fLoc_run-01_events.tsv": "64e7e39da9f409ef292254adfd418fe8a8e96f6a",
+  "sub-0309/func/sub-0309_task-fribBids_run-02_events.tsv": "83a27b796765a9a5c26c62c8c9b1b255e8f4b86c",
+  "sub-0309/func/sub-0309_task-fribBids_run-03_events.tsv": "91a5a3be012da03dd533f6211ca78f58392dd027",
+  "sub-0309/func/sub-0309_task-fribBids_run-01_events.tsv": "bea0cefede68bcfd223f1de78ca8e576eae4094e",
+  "sub-0309/func/sub-0309_task-fLoc_run-04_events.tsv": "4f222a8a31a3eaf3362bc559f7516164b928e686",
+  "sub-0309/func/sub-0309_task-fLoc_run-03_events.tsv": "b42b8c56fd617f6050922857b624078d36df754d",
+  "sub-0309/func/sub-0309_task-fribBids_run-04_events.tsv": "42a7c6611eaf3bf1dec3ff4e6dfc5a68ee9168a0",
+  "sub-0309/func/sub-0309_task-fLoc_run-02_events.tsv": "18881b71a8a016ffbd16d0a32e3dee42f942be78"
+}

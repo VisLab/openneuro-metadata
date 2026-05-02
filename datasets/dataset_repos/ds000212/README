@@ -1,0 +1,195 @@
+Description: 
+This dataset contains data on two tasks:
+- dis: moral judgments on a 1-4 scale of moral-violation scenarios
+	- Scenario breakdown:
+		- Items 1-12: Physical harms (e.g., stabbing)
+		- Items 13-24: Psychological harms (e.g., insults)
+		- Items 25-36: Incest violations (e.g., sleeping with a sibling)
+		- Items 37-48: Pathogen violations (e.g., drinking human blood)
+		- Items 49-60: Neutral scenarios
+	- Condition labels:
+		- A_PHA: Accidental physical harms
+		- B_PSA: Accidental psychological harms
+		- C_IA: Accidental incest violations
+		- D_PA: Accidental pathogen violations
+		- E_NA: Accidental neutral scenarios
+		- F_PHI: Intentional physical harms
+		- G_PSI: Intentional psychological harms
+		- H_II: Intentional incest violations
+		- I_PI: Intentional pathogen violations
+		- J_NI: Intentional neutral scenarios
+- tom/tomloc/fb: Theory of Mind (ToM) localizer task, including false-belief and false-photo trials (Saxe & Kanwisher, 2003).
+
+Participants:
+Participants include neurotypical (NT) participants and participants with Autism Spectrum Disorder (ASD).
+
+Data collection:
+All data was collected in 2011 at the Massachusetts Institute of Technology.
+
+Papers containing analyses from this data:
+- Chakroff et al. (2016). When minds matter for moral judgment: intent information is neurally encoded for harmful but not impure acts. Social Cognitive & Affective Neuroscience. doi: 10.1093/scan/nsv131
+- Koster-Hale et al. (2013).  Decoding moral judgments from neural representations of intentions. Proceedings of the National Academy of Sciences. doi: 10.1073/pnas.1207992110
+- Wasserman et al. (in prep). Illuminating the conceptual structure of the space of moral violations with searchlight representational similarity analysis.
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+Note: As per submitter "tom, tomloc, and fb are all essentially the same task: a Theory of Mind localizer task. I retained the different names so that, if for some reason we ever had to go back to the experiment scripts, we would have a clear record of which particular script was used for each participant."
+
+Before 7/2017 contact Emily Wasserman (emily.wasserman@bc.edu).
+To contact submitter you can email to liane.young@bc.edu (after 7/2017). 
+
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure deindentification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. The code can be found
+at https://github.com/poldracklab/mriqc
+
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX
+accession number.
+3) Send an email to submissions@openfmri.org. Please include the dsXXXXXX accession number in
+your email.
+
+Known Issues
+------------
+
+BIDS validator throws following warnings.
+
+1) Not all subjects contain the same files. Each subject should contain the same number of files with the same naming unless some files are known to be missing. (code: 38 - INCONSISTENT_SUBJECTS). 
+  This is beacuse of same runs in all subjects but named differently as 'task-tom', 'task-tomloc', 'task-fb'. Even though they are same runs they are named diffenetlt for oragnizationl reason explained in above sections.  
+
+2)  Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)
+        /sub-03/func/sub-03_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-03/func/sub-03_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-03/func/sub-03_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-03/func/sub-03_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-04/func/sub-04_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-04/func/sub-04_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-04/func/sub-04_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-04/func/sub-04_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-05/func/sub-05_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-05/func/sub-05_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-05/func/sub-05_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-05/func/sub-05_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-06/func/sub-06_task-dis_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,166 (voxels), This file has the dimensions: 64,56,30,166 (voxels).
+        /sub-06/func/sub-06_task-dis_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,166 (voxels), This file has the dimensions: 64,56,30,166 (voxels).
+        /sub-06/func/sub-06_task-dis_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,166 (voxels), This file has the dimensions: 64,56,30,166 (voxels).
+        /sub-06/func/sub-06_task-dis_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,166 (voxels), This file has the dimensions: 64,56,30,166 (voxels).
+        /sub-06/func/sub-06_task-dis_run-05_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,166 (voxels), This file has the dimensions: 64,56,30,166 (voxels).
+        /sub-06/func/sub-06_task-dis_run-06_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,166 (voxels), This file has the dimensions: 64,56,30,166 (voxels).
+        /sub-06/func/sub-06_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,56,30,136 (voxels).
+        /sub-06/func/sub-06_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,56,30,136 (voxels).
+        /sub-06/func/sub-06_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,56,30,136 (voxels).
+        /sub-06/func/sub-06_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,56,30,136 (voxels).
+        /sub-07/func/sub-07_task-dis_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,166 (voxels), This file has the dimensions: 64,64,30,22 (voxels).
+        /sub-07/func/sub-07_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-07/func/sub-07_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-07/func/sub-07_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-07/func/sub-07_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-08/func/sub-08_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-08/func/sub-08_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-08/func/sub-08_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-08/func/sub-08_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-09/func/sub-09_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-09/func/sub-09_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-09/func/sub-09_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-09/func/sub-09_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-10/func/sub-10_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-10/func/sub-10_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-10/func/sub-10_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-10/func/sub-10_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-11/func/sub-11_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-11/func/sub-11_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-11/func/sub-11_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-11/func/sub-11_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-12/func/sub-12_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-12/func/sub-12_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-12/func/sub-12_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-12/func/sub-12_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-13/func/sub-13_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-13/func/sub-13_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-13/func/sub-13_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-13/func/sub-13_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-14/func/sub-14_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-14/func/sub-14_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-14/func/sub-14_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-14/func/sub-14_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-15/func/sub-15_task-fb_run-01_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-15/func/sub-15_task-fb_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-15/func/sub-15_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-15/func/sub-15_task-fb_run-04_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,136 (voxels).
+        /sub-17/func/sub-17_task-dis_run-02_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,166 (voxels), This file has the dimensions: 64,64,30,67 (voxels).
+        /sub-32/func/sub-32_task-fb_run-03_bold.nii.gz
+             The most common set of dimensions is: 64,64,30,110 (voxels), This file has the dimensions: 64,64,30,17 (voxels).
+

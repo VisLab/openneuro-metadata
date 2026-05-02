@@ -1,0 +1,65 @@
+OpenNeuro dataset for:
+
+Bainbridge, W. A., & Baker, C. I. (2022). Multidimensional memory topography in the medial parietal cortex identified from neuroimaging of thousands of daily memory videos. *Nature Communications, 13*, 6508.
+
+Please cite the above paper if you use these data.
+
+---
+
+Last updated: November 4, 2022
+
+
+This dataset includes neuroimaging and behavioral data for all 23 participants (with some engaging in 1 session, some in 2 sessions). Participants who came back for a 2nd session were scanned at least 6 months later and shown an entirely new set of videos.
+
+---
+
+Raw data contents
+
+---
+
+The dataset includes:
+
+1. **anat/** --> skull-stripped **T1 MPRAGE** anatomical scans for each participant.
+	
+2. **func/** 
+	
+a. Whole-brain EPI Data from a **standard block-design face/object/scene/scrambled localizer** ("FOSS"). This was not analyzed in the paper.
+		
+b. Whole-brain EPI Data from 10 runs of the **memory video task**. Across the 10 runs, participants saw ~300 of their own memory videos and ~300 memory videos from a pseudorandomly matched participant, and performed an imagery task (no button responses). More details in the paper.
+		
+3. **beh/** --> data from a **post-scan behavioral task** ("videofeatures"), where participants labeled all ~300 of their videos for a range of features.
+	
+---
+
+Preprocessed data contents
+
+---
+
+There is also a derivatives folder with data that is likely easier to work with. 
+
+In terms of fMRI data, we have data pre-processed using AFNI (BRIK & HEAD files). We have also provided .nii.gz versions of the files too. The files include:
+
+1. The functional data after preprocessing and after the GLM getting a beta estimate for each video that the participant saw (see paper for pre-processing steps-- includes slice-time correction and motion correction, but no template alignment or smoothing). So essentially, this is a **single brain map for each video** for each participant. You can then analyze this with the behavioral data in beh/ for each video.
+	
+2. **Skull-stripped anatomical data aligned to the functional data**. It was done in this way (rather than aligning the functional data to the anatomy) to avoid adding noise to the functional data from alignment as much as possible.
+
+In terms of behavioral data, we also include:
+
+1. A vector of **late-layer DNN features** for each of the videos. Specifically, these are the layer 20 outputs (4096-length vectors) from VGG-16 for the middle frame of each 1-second video (i.e., the frame at 0.5 seconds).
+	
+2. A measure of **optical flow** for each of the videos. These were calculated by taking the average magnitude of optical flow between the last and middle video frame, and the middle and first video frame. Optical flow was automatically estimated using the Lucas-Kanade Method.
+	
+3. A symmetrical matrix of **pairwise geodesic distances** (km) between each video for a participant. Note that there are many NaNs, for videos where we did not get location data.
+	
+---
+
+Data not included
+
+---
+	
+Some data currently excluded from the database:
+
+1. The raw memory videos and early-layer DNN-extracted features from these videos. These are excluded to maintain participant privacy.
+	
+2. Precise memory location information (longitude, latitude). These are also excluded to maintain participant privacy.
+	

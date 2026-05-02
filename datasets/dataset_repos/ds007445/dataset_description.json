@@ -1,0 +1,33 @@
+{
+    "Name": "Thalamocortical ictal iEEG dataset",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Saarang Panchavati",
+        "Atsuro Daida",
+        "Sotaro Kanai",
+        "Shingo Oana",
+        "Hiroya Ono",
+        "Masaki Izumi",
+        "Kikuko Kaneko",
+        "Aria Fallah",
+        "Joe X Qiao",
+        "Noriko Salamon",
+        "Raman Sankar",
+        "Corey Arnold",
+        "William Speier",
+        "Hiroki Nariai"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "MNE-BIDS",
+            "Version": "0.18.0",
+            "CodeURL": "https://mne.tools/mne-bids/"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007445.v1.0.4",
+    "License": "CC0",
+    "Funding": [
+        "NIH/NINDS K23NS128318"
+    ]
+}

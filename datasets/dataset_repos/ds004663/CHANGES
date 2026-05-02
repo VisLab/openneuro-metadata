@@ -1,0 +1,12 @@
+1.0.5 2025-03-20
+  - re-uploaded corrupted file for sub-26 and added missing file for sub-32
+1.0.4 2025-02-03
+  - add "derivatives" folder w/ fmriprepped files
+1.0.3 2024-10-15
+  - Re-upload corrupted files
+1.0.2 2023-08-18
+  - add sub-28 files
+1.0.1 2023-08-17
+  - Upload all participants (except sub-28)
+1.0.0 2023-08-14
+  - initial upload of dataset

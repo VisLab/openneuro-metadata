@@ -1,0 +1,48 @@
+# README: Optogenetic fMRI of STN DBS in PD Rats
+
+## Title
+Optogenetic functional magnetic resonance imaging reveals therapeutic feedforward circuits of the subthalamic nucleus deep brain stimulation in the hemi-parkinsonian rat
+
+## Running Title
+Optogenetic fMRI of STN DBS in PD rats
+
+## Authors and Affiliations
+1. Yuhui Li1,9
+2. Sung-Ho Lee5,6,7,9
+3. Chunxiu Yu1,8
+4. Li-Ming Hsu5,6,7
+5. Tzu-Wen W. Wang5,6
+6. Khoa Do1
+7. Hyeon-Joong Kim5,6,7
+8. Yen-Yu Ian Shih5,6,7*
+9. Warren M. Grill1,2,3,4*
+
+### Affiliations
+1. Department of Biomedical Engineering, Duke University, Durham, NC
+2. Department of Electrical and Computer Engineering, Duke University, Durham, NC
+3. Department of Neurobiology, Duke University, Durham, NC
+4. Department of Neurosurgery, Duke University School of Medicine, Durham, NC
+5. Center for Animal MRI, University of North Carolina, Chapel Hill, NC
+6. Biomedical Research Imaging Center, University of North Carolina, Chapel Hill, NC
+7. Department of Neurology, University of North Carolina, Chapel Hill, NC
+8. Current address: Department of Biomedical Engineering, Michigan Technology University, Houghton, MI
+9. Y. L. and S. L. made equal contributions.
+
+## Correspondence
+- Warren M. Grill, Department of Biomedical Engineering, Duke University. CIEMAS, Room 1139, 101 Science Drive, Durham, NC, 27708; Email: warren.grill.duke.edu
+- Yen-Yu Ian Shih, Department of Neurology, University of North Carolina at Chapel Hill, Marsico Hall SB212, 125 Mason Farm Road, Chapel Hill, NC, 27519 Email: shihy@unc.edu
+
+## Abstract Summary
+The dataset corresponds to research analyzing the effects of deep brain stimulation (DBS) in Parkinson’s disease (PD) through optogenetic fMRI in hemi-parkinsonian rats. It explores the underlying neural mechanisms and therapeutic potential of subthalamic nucleus (STN) DBS. The study provides insights into the neural targets and circuitry impacted by DBS, offering a nuanced understanding of its efficacy in managing motor symptoms in PD.
+
+## Dataset Description
+This dataset includes fMRI images, optogenetic stimulation parameters, and behavioral analysis results from hemi-parkinsonian rats subjected to subthalamic nucleus (STN) deep brain stimulation. It is organized according to the Brain Imaging Data Structure (BIDS) standard, facilitating easy use and interpretation.
+
+## Usage Notes
+Researchers intending to use this dataset should reference the associated publication for comprehensive methodology and findings. Please cite this work appropriately in any resulting publications and adhere to ethical guidelines for data usage.
+
+## License
+Public Domain
+
+## Acknowledgments
+We thank the contributing researchers and facilities that made this study possible. Special acknowledgment goes to the Department of Biomedical Engineering at Duke University, and Center for Animal MRI at the University of North Carolina, Chapel Hill

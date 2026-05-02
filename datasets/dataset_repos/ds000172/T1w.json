@@ -1,0 +1,12 @@
+{
+	"RepetitionTime": 1.90,
+	"InversionTime": 0.900,
+	"EchoTime": 0.00227,
+	"Manufacturer": "Siemens",
+	"ManufacturerModelName": "Trio",
+	"MagneticFieldStrength": 3,
+	"ReceiveCoilName": "12 channel head coil",
+	"ScanningSequence": "MPRAGE",
+	"MRAcquisitionType": "3D",
+	"FlipAngle": 9.0
+}

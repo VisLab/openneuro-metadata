@@ -1,0 +1,25 @@
+{
+    "onset": {
+        "description": "Time of event, in seconds since beginning of recording"
+    },
+    "duration": {
+        "description": "Duration of event (always just 0)"
+    },
+    "trial_type": {
+        "LongName": "Event type",
+        "levels": {
+            "Start_of_recording": "Time subject turned on amplifier",
+            "Sync": "Subject synchronized actigraph and amplifier by shaking both toghether",
+            "Electrodetest": "Subject performed instructions from youtube video",
+            "Went_to_Bed": "Time(from start) that subject went to bed",
+            "Lights_Out": "Time(from start) that subject turn the lights off",
+            "Got_up": "Time(from start) that subject got up"
+        }
+    },
+    "pressedTrigger": {
+        "description": "Whether the subject remembered to press the trigger button at the time of the event"
+    },
+    "writtenTime": {
+        "description": "The time as written in the diary"
+    }
+}

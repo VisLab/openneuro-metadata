@@ -1,0 +1,13 @@
+2.0.0 2021-08-17
+  - 1.  json files were added  for all nifti 2.  aslcontext files were added  for asl Nfti  3.   func folder was changed  to perf folder for asl files 
+1.0.0 2021-07-28
+  - Updated metadata formatting
+  - Rewrite changelog to reflect OpenNeuro versions
+00002	2018-04-09
+
+	- Renamed dataset name to same as OpenfMRI
+
+00001	2018-04-09
+
+	- Initial publish
+	- Transferred from OpenFMRI ds000240 version 1.0.0

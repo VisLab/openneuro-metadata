@@ -1,0 +1,17 @@
+{
+  "CHANGES": "e590cf57f1a05dfcc4c0c6e1252303ffbdcd8156",
+  "README": "3790fdae0bd4569e1040c74806998445ec01ac39",
+  "dataset_description.json": "78a60d83f2709936f812bce348def9294db0a8ef",
+  "participants.json": "ad12c16aebee4be63574b96add3aea271716cf94",
+  "participants.tsv": "8ea3db9009edbbcdb68678e268c73b78fda2bc67",
+  "sub-RESP0059/ses-SITUATION2A/ieeg/sub-RESP0059_ses-SITUATION2A_task-acute_events.tsv": "393ae55777820cd09b7278ab93d78c51820346d9",
+  "sub-RESP0059/ses-SITUATION4A/ieeg/sub-RESP0059_ses-SITUATION4A_events.json": "b19370320226c4489da2a64adbcf92e1f560d45a",
+  "sub-RESP0059/ses-SITUATION4A/ieeg/sub-RESP0059_ses-SITUATION4A_task-acute_events.tsv": "a8e70fb754f3b94713ca526173232b582f321251",
+  "sub-RESP0059/ses-SITUATION2A/ieeg/sub-RESP0059_ses-SITUATION2A_events.json": "b19370320226c4489da2a64adbcf92e1f560d45a",
+  "sub-RESP0059/ses-SITUATION3A/ieeg/sub-RESP0059_ses-SITUATION3A_task-acute_events.tsv": "79e2bbfd8298f37480990471f09f0cade7787a10",
+  "sub-RESP0059/ses-SITUATION1B/ieeg/sub-RESP0059_ses-SITUATION1B_task-acute_events.tsv": "75c6ad5bfd5739378f31531112a1e4b999707939",
+  "sub-RESP0059/ses-SITUATION3A/ieeg/sub-RESP0059_ses-SITUATION3A_events.json": "b19370320226c4489da2a64adbcf92e1f560d45a",
+  "sub-RESP0059/ses-SITUATION1A/ieeg/sub-RESP0059_ses-SITUATION1A_events.json": "b19370320226c4489da2a64adbcf92e1f560d45a",
+  "sub-RESP0059/ses-SITUATION1A/ieeg/sub-RESP0059_ses-SITUATION1A_task-acute_events.tsv": "f627f7a09b5304d27be2c6952c6db78ba197c900",
+  "sub-RESP0059/ses-SITUATION1B/ieeg/sub-RESP0059_ses-SITUATION1B_events.json": "b19370320226c4489da2a64adbcf92e1f560d45a"
+}

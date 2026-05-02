@@ -1,0 +1,15 @@
+{
+    "Name": "Social interaction dyads",
+    "BIDSVersion": "TODO (depends when this PR will be merged)",
+    "Authors": [
+        "Emalie McMahon",
+        "Michael F. Bonner",
+        "Leyla Isik"
+    ],
+    "PipelineDescription": {
+        "Name": "Social interaction dyads"
+    },
+    "HowToAcknowledge": "Please cite McMahon et al. (2023): https://doi.org/10.31234/osf.io/x3avb",
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004542.v1.0.0"
+}

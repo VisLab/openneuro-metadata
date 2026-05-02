@@ -1,0 +1,14 @@
+1.0.6 2024-04-23
+  - Converted response times from ms to s.
+1.0.5 2024-04-22
+  - Re-added collaborator acknowledgements and grant funding (was overwritten in previous release).
+1.0.4 2024-04-22
+  - More informative event duration values for trial types with well defined durations.
+1.0.3 2024-04-17
+  - Added collaborator acknowledgements and grant funding.
+1.0.2 2024-04-09
+  - Added brain regions to electrodes tsv files.
+1.0.1 2024-04-04
+  - Added worpools and "stim_file" fields.
+1.0.0 2024-04-03
+  - Initial release.  72 participants, 149 total experimental sessions.

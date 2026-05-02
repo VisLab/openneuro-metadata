@@ -1,0 +1,29 @@
+{
+    "Name": "LEARNING BRAIN - a longitudinal dataset on neural plasticity dynamics in Braille and music training",
+    "BIDSVersion": "1.10.0",
+    "License": "CC0",
+    "Authors": [
+        "Alicja Olszewska",
+        "Maciej Gaca",
+        "Dawid Droździel",
+        "Bartosz Kossowski",
+        "Aleksandra M. Herman",
+        "Artur Marchewka"
+    ],
+    "HowToCite": "TBA",
+    "Funding": [
+        "National Science Centre grant no 2018/30/E/HS6/00206"
+    ],
+    "EthicsApprovals": [
+        "Research Ethics Committee of the Institute of Applied Psychology, Jagiellonian University, KE/31_2020"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007022.v1.1.0",
+    "Acknowledgements": "We express our deep gratitude to Małgorzata Wierzba, PhD, for her help and advice in technical aspects of preparing and sharing the LEARNING BRAIN dataset.",
+    "HowToAcknowledge": "Olszewska A.M., Gaca M., Droździel D., Kossowski B., Herman A.M., Marchewka A. (2025) LEARNING BRAIN - a longitudinal dataset on neural plasticity dynamics in Braille and music training [Dataset] doi: <see above>",
+    "ReferencesAndLinks": [
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14402",
+        "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1297344/full",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/jnr.25312",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/jnr.70067"
+    ]
+}

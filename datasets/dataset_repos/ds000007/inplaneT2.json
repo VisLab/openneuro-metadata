@@ -1,0 +1,40 @@
+{
+   "Columns": 128, 
+   "EchoTime": 0.033, 
+   "EchoTrainLength": 1, 
+   "FlipAngle": 90.0, 
+   "ImageType": "ORIGINAL/PRIMARY/M/ND", 
+   "InplanePhaseEncodingDirection": "COL", 
+   "InversionTime": 0.0, 
+   "MRAcquisitionType": "2D", 
+   "Manufacturer": "SIEMENS", 
+   "ManufacturersModelName": "Allegra", 
+   "NumberOfAverages": 4.0, 
+   "NumberOfPhaseEncodingSteps": 132, 
+   "PercentPhaseFieldOfView": 100.0, 
+   "PhaseEncodingDirection": "j-", 
+   "PixelBandwidth": 1300.0, 
+   "PixelSpacing": [
+      1.5625, 
+      1.5625
+   ], 
+   "RepetitionTime": 5, 
+   "Rows": 128, 
+   "ScanOptions": [
+      "SAT1", 
+      "FS"
+   ], 
+   "ScanningSequence": [
+      "SE", 
+      "EP"
+   ], 
+   "SequenceName": "*epse2d1_33", 
+   "SequenceVariant": [
+      "SK", 
+      "OSP"
+   ], 
+   "SeriesDescription": "Matched Bandwidth Hi-Res", 
+   "SliceThickness": 4.0, 
+   "SpacingBetweenSlices": 4.0, 
+   "StudyID": "1"
+}

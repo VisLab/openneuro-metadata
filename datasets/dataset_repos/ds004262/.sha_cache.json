@@ -1,0 +1,9 @@
+{
+  "CHANGES": "27c580ae9c2e50f6e08e04d03d59797952bc2313",
+  "README": "761a3065a1baf142b1dc5d06e9a7ed6c0006488c",
+  "participants.tsv": "4ae61eacc0397e6535477731014949aa58c55978",
+  "dataset_description.json": "7fc16cb1909a58935c0f8575f2060b60ac17a32b",
+  "participants.json": "2f15a3982c53b9854fa560aaa4910cd3fd9a7fb7",
+  "sub-01/eeg/sub-01_task-gnomes_events.json": "3fd50f64f0f97893189e9ac30bdf1d50d6802b48",
+  "sub-01/eeg/sub-01_task-gnomes_events.tsv": "58aebeb5a325d4917402969937cb2425c44809fe"
+}

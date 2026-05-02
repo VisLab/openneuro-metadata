@@ -1,0 +1,69 @@
+# Connectomix test dataset 1
+This dataset is designed to test features of connectomix. For more information, please visit the GitHub repository:
+
+[https://github.com/ln2t/connectomix](https://github.com/ln2t/connectomix)
+
+Only one participant is included in this dataset.
+
+## Rawdata
+- Anatomical: T1w image (defaced)
+- Functional: A standard 6 minutes resting-state scan
+
+## Derivatives
+- fmriprep: preprocessed data using fMRIPrep
+- fmripost-aroma: outputs of fmripost-aroma, necessary if using AROMA denoising in connectomix
+- connectomix: results of the connectomix software (see below for details)
+
+## Commands
+The exact commands to run the analyzes depends on your installation of fMRIPrep and fmripost-aroma.
+In what follows, we simply assume that `fmriprep` and `fmripost-aroma` are the commands for these tools.
+We show here the simplest version of the commands, assuming you adapt those depending on your setup (e.g. if you use Docker).
+
+We also assume that the data are at the following locations:
+```bash
+bids_dir='/data/ds005625'
+derivatives_dir='/data/ds005625/derivatives'
+```
+
+### Preprocessing (fMRIPrep)
+```bash
+fmriprep $bids_dir ${derivatives_dir}/fmriprep participant --fs-license-file /path/to/fs/license
+```
+
+**Note:** if you plan to use AROMA-denoising in connectomix, we recommend running fMRIPrep with the `--output-spaces MNI152NLin6Asym:res-02` option enabled (see below):
+```bash
+fmriprep $bids_dir ${derivatives_dir}/fmriprep participant --fs-license-file /path/to/fs/license --output-spaces MNI152NLin6Asym:res-02
+```
+
+### Preprocessing (fmripost-aroma - optional)
+This step is required only for the AROMA-denoising strategy in connectomix. If data have been preprocessed using the `--output-spaces MNI152NLin6Asym:res-02` option, then we can use fmripost-aroma as follows:
+```bash
+fmripost-aroma $bids_dir ${derivatives_dir}/fmripost-aroma participant `--denoising-method nonaggr`.
+```
+
+### Analysis: connectomix
+*Note:* The following has been tested for connectomix version 1.0.1.
+
+First set-up path to connectomix script:
+```bash
+connectomix_cmd='/path/to/connectomix/connectomix/connectomix.py'
+```
+
+Second, set-up paths to config directory:
+```bash
+config_dir='/data/ds005625/code/connectomix/config'
+```
+
+Then run the analyzes as follows:
+```bash
+$connectomix_cmd ${bids_dir} ${derivatives_dir}/connectomix participant --derivatives fmriprep="${derivatives_dir}/fmriprep" --config "${config_dir}/method-schaeffer100_participant_level_config.yaml" && \
+$connectomix_cmd ${bids_dir} ${derivatives_dir}/connectomix participant --derivatives fmriprep="${derivatives_dir}/fmriprep" --config "${config_dir}/method-aal_participant_level_config.yaml" && \
+$connectomix_cmd ${bids_dir} ${derivatives_dir}/connectomix participant --derivatives fmriprep="${derivatives_dir}/fmriprep" --config "${config_dir}/method-harvardoxford_participant_level_config.yaml" && \
+$connectomix_cmd ${bids_dir} ${derivatives_dir}/connectomix participant --derivatives fmriprep="${derivatives_dir}/fmriprep" --config "${config_dir}/method-ICA_participant_level_config.yaml" && \
+$connectomix_cmd ${bids_dir} ${derivatives_dir}/connectomix participant --derivatives fmriprep="${derivatives_dir}/fmriprep" --config "${config_dir}/method-seeds_participant_level_config.yaml" && \
+$connectomix_cmd ${bids_dir} ${derivatives_dir}/connectomix participant --derivatives fmriprep="${derivatives_dir}/fmriprep" fmripost-aroma="${derivatives_dir}/fmripost-aroma" --config "${config_dir}/method-aroma_participant_level_config.yaml"  # Requires fmripost-aroma outputs
+```
+
+**Notes**:
+- the ICA-based analysis does not make much sense in this case as there is only only participant. The software runs without crashing and without warning in that case, so make sure you understand what you're doing.
+- the seed-based analysis uses seeds specified in `/code/ds005625/connectomix/seeds/brain_and_cerebellum_seeds.tsv`. The exact path to use is specified in the corresponding config file, namely `${config_dir}/method-seeds_participant_level_config.yaml`, and must be adapted to match your paths.

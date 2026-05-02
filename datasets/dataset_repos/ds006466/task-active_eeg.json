@@ -1,0 +1,18 @@
+{
+    "TaskName": "active",
+    "TaskDescription": "active oddball task",
+    "Instructions": "Press the bottom right button on the button box when you hear the target auditory tone. For all other tones press the bottom left button on the button box.",
+    "InstitutionAddress": "3715 McClintock Ave. Los Angeles, CA 90089",
+    "InstitutionName": "University of Southern California",
+    "InstitutionalDepartmentName": "School of Gerontology",
+    "PowerLineFrequency": 60,
+    "ManufacturersModelName": "EGI Magstim",
+    "EEGChannelCount": 65,
+    "EEGReference": "E65",
+    "RecordingType": "continuous",
+    "SamplingFrequency": 1000,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "SoftwareFilters": "n/a"
+}

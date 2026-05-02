@@ -1,0 +1,26 @@
+{
+    "Name": "Investigating Neuroepigenetic Alterations in Chronic Low Back Pain with PET/MR",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Chi-Hyeon Yoo",
+        "Hsiao-Ying (Monica) Wey"
+    ],
+    "Acknowledgements": "Data were collected at the Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, using the Siemens BrainPET and Biograph mMR PET/MR platform. We acknowledge the contributions of the Wey Lab and the Martinos PET Core in supporting radiochemistry, acquisition, and data management.",
+    "HowToAcknowledge": "Please cite the manuscript 'Investigating neuroepigenetic alterations in chronic low back pain with positron emission tomography' and acknowledge the Athinoula A. Martinos Center for Biomedical Imaging.",
+    "Funding": [
+        "This work was supported by the National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) of the National Institutes of Health under Cooperative Agreement UH3AR076741."
+    ],
+    "EthicsApprovals": [
+        "Mass General Brigham IRB-approved protocol for PET/MR studies in chronic low back pain"
+    ],
+    "License": "CC0",
+    "GeneratedBy": [
+        {
+            "Name": "dcm2niix",
+            "Version": "unknown",
+            "Description": "DICOM to NIfTI conversion for PET and MRI data"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007135.v1.1.0"
+}

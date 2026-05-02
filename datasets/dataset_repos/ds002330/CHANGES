@@ -1,0 +1,11 @@
+1.1.0 2020-01-14
+  - Added facet-level scores for ATTA and CAQ.
+  - Added many more fields to JSON files.
+  - Added JSON files for T1w and T2w anatomical scans.
+1.0.1    2020-01-14
+	- Added facet-level scores for ATTA and CAQ.
+	- Added many more fields to JSON files.
+	- Added JSON files for T1w and T2w anatomical scans.
+	
+1.0.0    2019-11-21
+	- Initial snapshot

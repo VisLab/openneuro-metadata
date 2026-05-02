@@ -1,0 +1,11 @@
+{
+  "CHANGES": "430ac0cdfd4b91fc922934ca21020f9ba18d116d",
+  "dir-AP_epi.json": "215bb66f4f02630ad03d649f5a08bc077fa6be7c",
+  "dir-PA_epi.json": "393916b1484cda99cf06e179a3a9192121203ac6",
+  "datacite.yml": "f28312ec3ff71910faf19333cae3f1d5153aafce",
+  "README": "f5df379ffa3c30082f798a7d51ad1755f8f90511",
+  "participants.tsv": "efefa5c627c0c2bd4bc0ed49233b287e7d4eaf18",
+  "dataset_description.json": "ff64c476d7a41ca25c168f59f7a6440994ed3c21",
+  "task-thinkaloud_bold.json": "7945852d8a9cdfd7bd2ebd6968cbbe2cff64792f",
+  "sub-001/func/sub-001_task-thinkaloud_events.tsv": "ddb39b0b8d74ef5e2f3e0889ea3dae81b2db3e46"
+}

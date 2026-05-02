@@ -1,0 +1,24 @@
+2.3.1 2025-12-08
+  - Forgot to add files in previous release - rectified!
+2.2.1 2025-11-04
+  - Add DOI for MRM article
+2.1.2 2025-10-12
+  - Updated code/stats/
+2.1.1 2025-09-04
+  - Add code/stats/
+1.0.0 2024-05-10
+  - Initial release
+
+2.0.0 2025-04-09
+  - Reanalysis using the LCModel fitting algorithm embedded in Osprey
+
+2.1.0 2025-07-27
+  - Updated OpenNeuro data repository (ds005371)
+
+2.2.0 2025-10-22
+  - Added .BASIS files for basis sets
+  - Added frequency offset and subtraction artifact data
+  - Updated stats code
+2.3.0 2025-12-08
+  - Added stats.Rmd and stats.html to code/stats/
+  - Minor change to stats.R

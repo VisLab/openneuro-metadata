@@ -1,0 +1,31 @@
+{
+  "TaskName": "smrbmi",
+  "TaskDescription": "Here will be filled with a study description",
+  "SamplingFrequency": 1000,
+  "Manufacturer": "Magstim EGI",
+  "ManufacturersModelName": "GES400",
+  "CapManufacturer": "Magstim EGI",
+  "CapManufacturersModelName": "Hydrocel Geodesic Sensor Net",
+  "EEGChannelCount": 128,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 2,
+  "EEGReference": "Cz",
+  "EEGGround": "placed on FCz",
+  "PowerLineFrequency": 50,
+  "EEGPlacementScheme": "10 percent system",
+  "RecordingType": "continuous",
+  "SoftwareVersions": "EGI netstation",
+  "SoftwareFilters": "n/a",
+  "HardwareFilters": {
+    "notch filter": {
+        "notch frequency (Hz)": 50
+    },
+    "Highpass cutoff frequency": {
+        "passband (Hz)": 0.1
+    },
+    "Lowpass cutoff frequency": {
+        "passband (Hz)": 100
+    }
+  }
+}

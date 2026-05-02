@@ -1,0 +1,19 @@
+{
+    "onset": {
+        "Description": "Onset of the first frame of each instruction presented on the screen.",
+        "Units": "ms"
+    },
+    "duration": {
+        "Description": "Duration of the instruction presented on the screen.",
+        "Units": "s"
+    },
+    "trial": {
+        "Description": "The current trial index in a block (session)."
+    },
+    "value": {
+        "Description": "The code (EEG Marker or Trigger value) associated with an event."
+    },
+    "instruction": {
+        "Description": "content of task participants executed"
+    }
+}

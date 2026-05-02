@@ -1,0 +1,22 @@
+# Sound Reconstruction
+
+## Original Paper
+
+Park, J.-Y., Tsukamoto, M., Tanaka, M., & Kamitani, Y. (2023). Sound reconstruction from human brain activity via a generative model with brain-like auditory features (arXiv:2306.11629). arXiv. http://arxiv.org/abs/2306.11629
+
+## Dataset
+
+This dataset contains fMRI scans acquired while participants listened to various sound stimuli, designed for training and testing sound reconstruction models.
+
+The following three types of data are included for five subjects:
+- SoundTraining
+- SoundTest
+- SoundAttention
+
+## Code
+
+See: [https://github.com/KamitaniLab/SoundReconstruction](https://github.com/KamitaniLab/SoundReconstruction).
+
+## Contact
+
+Email: kamitanilab@gmail.com

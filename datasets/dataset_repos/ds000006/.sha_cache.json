@@ -1,0 +1,20 @@
+{
+  "CHANGES": "50a24d3a6b923c20d197181e3060c821d006c85c",
+  "task-livingnonlivingdecisionwithplainormirrorreversedtext_bold.json": "1065b2d3d874b66db7fb0d9f6255e1707e35e03c",
+  "README": "8689bc2328f514e39cf060d95767da51cda7ea4c",
+  "task-livingnonlivingdecisionwithplainormirrorreversedtext_events.json": "424409f95ed482978b9ea567b1a2627b8f9d7a0c",
+  "dataset_description.json": "662655a172358c1c7d0e93b09c7a6d41dfae9c50",
+  "participants.tsv": "794ba5a83993ef9e6360aa9b06665d488d4f8d48",
+  "sub-01/ses-retest/func/sub-01_ses-retest_task-livingnonlivingdecisionwithplainormirrorreversedtext_run-06_events.tsv": "7420a77f8443f3fa6a404eca64a9cf2a247a71c1",
+  "sub-01/ses-retest/func/sub-01_ses-retest_task-livingnonlivingdecisionwithplainormirrorreversedtext_run-01_events.tsv": "524f44807eaf56167dc965cd15e1d129a0daff5e",
+  "sub-01/ses-test/func/sub-01_ses-test_task-livingnonlivingdecisionwithplainormirrorreversedtext_run-04_events.tsv": "cd71bfe57f6350eeab8192f6af96d4e0430dbb16",
+  "sub-01/ses-retest/func/sub-01_ses-retest_task-livingnonlivingdecisionwithplainormirrorreversedtext_run-02_events.tsv": "01842c19808956c1fdd9d306aa3dbd8f8cefa93e",
+  "sub-01/ses-retest/func/sub-01_ses-retest_task-livingnonlivingdecisionwithplainormirrorreversedtext_run-04_events.tsv": "51d0cf4b5c7914468588929a84ded6291b29424a",
+  "sub-01/ses-test/func/sub-01_ses-test_task-livingnonlivingdecisionwithplainormirrorreversedtext_run-03_events.tsv": "b34ab9940492e5ea4db9f1d8ed7394203497310e",
+  "sub-01/ses-retest/func/sub-01_ses-retest_task-livingnonlivingdecisionwithplainormirrorreversedtext_run-05_events.tsv": "666be1b24be2441f5014c3c28c657d7da4a2b9e9",
+  "sub-01/ses-test/func/sub-01_ses-test_task-livingnonlivingdecisionwithplainormirrorreversedtext_run-01_events.tsv": "204829e5b8705684e1ce83626fbfad2c0d9ccbcf",
+  "sub-01/ses-test/func/sub-01_ses-test_task-livingnonlivingdecisionwithplainormirrorreversedtext_run-02_events.tsv": "12675d48171a4585a1cf03d7ea1db21675aaa087",
+  "sub-01/ses-retest/func/sub-01_ses-retest_task-livingnonlivingdecisionwithplainormirrorreversedtext_run-03_events.tsv": "b55b775abeff6e8695756ffd2c6c74691db7d3bd",
+  "sub-01/ses-test/func/sub-01_ses-test_task-livingnonlivingdecisionwithplainormirrorreversedtext_run-05_events.tsv": "0277c139f81ed31bc5aa16facce4f95fc8a2280d",
+  "sub-01/ses-test/func/sub-01_ses-test_task-livingnonlivingdecisionwithplainormirrorreversedtext_run-06_events.tsv": "81783ac2c6cf233d2172ab80e7e64a94d33543ba"
+}

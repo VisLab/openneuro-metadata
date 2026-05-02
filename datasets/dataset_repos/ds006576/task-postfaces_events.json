@@ -1,0 +1,47 @@
+{
+    "trial_type": {
+        "Description": "Type of task event",
+        "Levels": {
+            "postlearning": "Postlearning snapshot: each X and Y face is shown once in a random order"
+        }
+    },
+    "condition": {
+        "Description": "Task condition",
+        "Levels": {
+            "violation": "All faces were shown during violation events in session 1"
+        }
+    },
+    "pairmate": {
+        "Description": "A or B item within a pairmate; faces are neither an A or B",
+        "Levels": {}
+    },
+    "category": {
+        "Description": "Main category of the stimulus",
+        "Levels": {
+            "face": "A face image is displayed"
+        }
+    },
+    "subcategory": {
+        "Description": "The subcategory of the event",
+        "Levels": {
+            "female": "A female face is displayed",
+            "male": "A male face is displayed"
+        }
+    },
+    "response_accuracy": {
+        "Description": "A participant's response is scored for accuracy. If no response was made, the value is NaN",
+        "Levels": {
+            "0": "Incorrect response",
+            "1": "Correct response"
+        }
+    },
+    "response_time": {
+        "Description": "Reaction time. Time in seconds for participant to make a response since stimulus onset"
+    },
+    "repetition": {
+        "Description": "This trial is the nth time this image was shown across both sessions 1 and 2"
+    },
+    "pairID": {
+        "Description": "Pairmate number of the violated A-B pairing"
+    }
+}

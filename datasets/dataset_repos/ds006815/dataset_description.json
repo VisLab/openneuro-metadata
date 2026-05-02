@@ -1,0 +1,23 @@
+{
+    "Name": "Deep Extensive Imaging of Person in Pain (DEIPP) dataset",
+    "BIDSVersion": "1.2.1",
+    "License": "CC0",
+    "Authors": [
+        "Jae-Joong Lee",
+        "Seongwoo Jo",
+        "Sungkun Cho",
+        "Choong-Wan Woo"
+    ],
+    "Acknowledgements": "We thank all patients for their participation in this study. We thank J. Lee and S. -G. Kim for help with participant recruitment. We thank E. -J. Jeong, J. Han, and Y. Park for help with conducting experiments.",
+    "HowToAcknowledge": "Please cite this paper: Jae-Joong Lee, Seongwoo Jo, Sungkun Cho, Choong-Wan Woo, Personalized Brain Decoding of Spontaneous Pain in Individuals With Chronic Pain, in revision.",
+    "Funding": [
+        "Institute for Basic Science (IBS-R015-D2)"
+    ],
+    "EthicsApprovals": [
+        "The institutional review board of Sungkyunkwan University (approval number 2021-08-013)."
+    ],
+    "ReferencesAndLinks": [
+        "Jae-Joong Lee, Seongwoo Jo, Sungkun Cho, Choong-Wan Woo, Personalized Brain Decoding of Spontaneous Pain in Individuals With Chronic Pain, in revision."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006815.v1.0.0"
+}

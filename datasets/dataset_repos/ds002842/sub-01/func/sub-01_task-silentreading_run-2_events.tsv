@@ -1,0 +1,57 @@
+onset	duration	Experiment - Satz_A2	Serial_no	Code	Stimulus	Condition	Onset_time	response	response_time	Accuracy	Bildh	Arousal	EmoVal	Gebr	Metaph	Buchstaben	Wšrter	Similarity	NebensŠtze	Relative	Passiv	Komposita	Personen	Angaben	Konjunktive	analytF	Satzstellung
+1,627	4	26GM	1	12	Immer wenn der Berg rief, stand er sehr frŸh auf.	99	1627	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+6,667	4	26GM	2	22	Er achtete stets auf die Preise im Supermarkt.	99	6667	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+11,707	4	26GM	3	149	Seine zerbrechliche Seele konnte den Streit nicht lŠnger aushalten.	1	11707	keine	0	keine	4,12	3,1	1,1	5,47	4,63	59	9	5,842105	0	0	0	0	1	1	0	1	0
+20,746	4	26GM	4	219	Die kleine Familie wollte ihren Hausbau grŸndlich planen.	2	20746	keine	0	keine	3,06	3,55	1,2	4,89	1,32	50	8	5,833333	0	0	0	1	1	1	0	1	0
+26,781	4	26GM	5	212	Das Thema des Matheunterrichts ist schwierig.	2	26781	keine	0	keine	3	4,15	-0,3	4,05	1,95	40	6	5,315789	0	0	0	1	1	1	0	0	0
+36,816	4	26GM	6	107	Der Flugbegleiter heute war wirklich zum Anbei§en!	1	36816	keine	0	keine	5,35	5,35	-0,9	3,63	4,89	44	7	6,526316	0	0	0	1	1	2	0	0	0
+44,862	4	26GM	7	108	Der Gesang des Opernstars ist kšstlich.	1	44862	keine	0	keine	4,78	4,05	-0,4	4	4,74	34	6	5,5	0	0	0	1	1	1	0	0	0
+50,903	6	26GM	8	406	Bezog sich der letzte Satz auf Musik?	4	50903	Ja	2937	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+63,927	4	26GM	9	101	Ach, was fŸr ein leichtes Leben hatten wir wŠhrend der Schulferien!	1	63927	keine	0	keine	4,5	1,95	-0,1	4,89	2,79	57	11	5,736842	0	0	0	1	1	1	0	0	1
+68,968	4	26GM	10	247	Nur sehr intelligente Kinder machen bei diesem Wettbewerb mit.	2	68968	keine	0	keine	3,22	4,1	1,7	4,32	2,16	54	9	5,368421	0	0	0	1	1	2	0	0	0
+76,008	4	26GM	11	146	Nach dem MissverstŠndnis war Irma jetzt in einer haarigen Situation.	1	76008	keine	0	keine	3,5	4,7	-1,7	5,32	3,58	59	10	5,894737	0	0	0	1	1	2	0	0	0
+81,053	4	26GM	12	362	###### #### ### #### ######	3	81053	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+86,093	4	26GM	13	126	Diesen Sonntag duellieren sich die Kanzlerkandidaten im Fernsehen.	1	86093	keine	0	keine	5,22	4,65	-1,4	4,74	5,21	59	8	5,111111	0	0	0	1	1	2	0	0	0
+96,133	4	26GM	14	343	##### ########## ###### ### ######## ######## #####	3	96133	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+104,179	4	26GM	15	204	Das war eine unglaublich gleichgŸltige Reaktion von ihr.	2	104179	keine	0	keine	3,44	4	1,7	5,26	1,74	49	8	3,315789	0	0	0	1	1	2	0	0	0
+110,22	4	26GM	16	349	##### ############ ##### ###### ### ###### ##### ###### #########	3	110220	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+115,254	6	26GM	17	407	Hast du gerade einen Satz gelesen?	4	115254	Ja	1713	incorrect	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+123,3	4	26GM	18	205	Das war heute eine gro§e EnttŠuschung fŸr meinen Vater.	2	123300	keine	0	keine	3,61	4,3	1,8	4,53	2,37	47	9	6,105263	0	0	0	0	1	1	0	0	0
+128,334	4	26GM	19	218	Die GesprŠche Ÿber seine Kindheit waren schlimm fŸr ihn.	2	128334	keine	0	keine	4,06	3,4	0,1	4,11	1,63	48	9	5,315789	0	0	0	0	1	1	0	0	0
+135,374	4	26GM	20	243	Meine Gro§eltern hatten ein wirklich schwieriges Leben.	2	135374	keine	0	keine	3,72	2,25	1,1	4,79	1,74	49	7	6,222222	0	0	0	1	1	1	0	0	0
+141,42	4	26GM	21	311	### #### ### ####### ######## ####### ####################	3	141420	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+147,454	4	26GM	22	134	Ihre romantische Hochzeitsfeier bewegte die Braut sehr.	1	147454	keine	0	keine	5,11	4,15	-0,8	3,68	5,42	49	7	4,421053	0	0	0	1	1	1	0	0	0
+155,489	4	26GM	23	319	### ###### ####### ###### ##### ####### ########### ######	3	155489	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+161,529	4	26GM	24	213	Der vorbestrafte Mann war diesmal unschuldig.	2	161529	keine	0	keine	2,78	5,25	1,8	4,79	2,47	40	6	6,052632	0	0	0	1	1	1	0	0	0
+171,564	4	26GM	25	254	WŸtend schaltete der LangschlŠfer den nervigen Wecker aus.	2	171564	keine	0	keine	5,89	3,9	1,3	5,68	1,63	51	8	5,263158	0	0	0	1	1	1	0	0	0
+178,61	4	26GM	26	103	Das GesprŠch beim Finanzamt verlief glŸcklicherweise reibungslos.	1	178610	keine	0	keine	3,39	4,25	-0,7	4,26	2,53	59	7	6,210526	0	0	0	1	1	2	0	0	0
+188,656	4	26GM	27	110	Der Schauspieler hatte ein zerfurchtes Gesicht voller Narben.	1	188656	keine	0	keine	6,53	3,65	0,7	5,16	3,26	54	8	5,947368	0	0	0	1	1	1	0	0	0
+195,702	4	26GM	28	350	######## ########## ##### ############ #### ## ######	3	195702	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+204,748	4	26GM	29	117	Die Firma hat sich einen finanziell gut aufgestellten Partner ausgesucht.	1	204748	keine	0	keine	2,94	4,25	0,8	4,58	2,79	64	10	5,789474	0	0	0	0	1	1	0	1	0
+209,783	4	26GM	30	211	Der Sieg des LŠufers erzeugte riesige Medienaufmerksamkeit.	2	209783	keine	0	keine	4,59	4,2	-0,5	4,63	1,89	53	7	6,111111	0	0	0	1	1	1	0	0	0
+217,823	4	26GM	31	334	#### ########### ############## ###### ### ##### ####	3	217823	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+223,863	4	26GM	32	244	Meine Tante hat ein gutes Herz, sie kocht freiwillig fŸr Obdachlose.	2	223863	keine	0	keine	5,22	3,3	1	5,05	1,95	58	11	5,578947	1	0	0	1	2	1	0	0	0
+230,897	6	26GM	33	408	Ging es gerade ums Kochen?	4	230897	Nein	2620	incorrect	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+237,949	4	26GM	34	339	#### ### ########### ######### ### ####### ### ######### #### ### #####	3	237949	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+247,989	4	26GM	35	326	###### ####### ######### #### ### ################# ## #########	3	247989	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+259,035	4	26GM	36	122	Die Unternehmerin stand immer unter Druck.	1	259035	keine	0	keine	3,33	3,35	-0,6	5,05	2,95	37	6	4,157895	0	0	0	0	1	1	0	0	0
+265,076	4	26GM	37	259	Stefanie war nervšs, aber die PrŠsentation war absolut perfekt.	2	265076	keine	0	keine	3,89	3	0,6	5,63	1,53	55	9	5,947368	1	0	0	0	1	1	0	0	0
+270,111	4	26GM	38	150	Vokabeln verankern sich durch regelmŠ§iges †ben im Gehirn.	1	270111	keine	0	keine	3,33	3,8	1,4	5,05	3,63	51	8	6,263158	0	0	0	0	1	1	0	0	0
+277,151	4	26GM	39	308	### ###### ### ########## ### ##########	3	277151	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+288,196	4	26GM	40	357	##### #### ############## ##### #### ######## #########	3	288196	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+296,237	4	26GM	41	230	Endlich war Ruhe zwischen den Streitenden.	2	296237	keine	0	keine	4	2,2	0,7	4,95	1,32	37	6	4,578947	0	0	0	1	1	1	0	0	0
+304,278	4	26GM	42	305	### ### ##### #### ###### ############ ### ###### #####	3	304278	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+309,318	4	26GM	43	347	### #### ######## ###### ###### ### ###### ########## ###	3	309318	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+318,358	4	26GM	44	301	### ### ### ### ######## ##### ###### ### ####### ### ###########	3	318358	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+328,393	4	26GM	45	148	Seine Hoffnungen auf Gesundheit hatte der Kranke lŠngst begraben.	1	328393	keine	0	keine	4,44	3,65	-0,2	4,95	3,89	57	9	6,736842	0	0	0	0	1	1	0	1	1
+333,44	4	26GM	46	160	Diana  wollte alles hinter sich lassen und reiste nach Japan.	1	333440	keine	0	keine	4,44	4,65	-1,9	4,37	4,11	51	11	4,368421	1	0	0	0	1	0	0	0	0
+342,479	4	26GM	47	157	Ingrids neue Kaffeemaschine bestach durch ihre einfache Bedienung.	1	342479	keine	0	keine	4,44	4,4	0,9	4,37	3,47	59	8	4,736842	0	0	0	1	1	0	0	0	0
+347,514	6	26GM	48	409	Ging es im letzten Satz um Eiscreme?	4	347514	Nein	3112	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+355,56	4	26GM	49	318	### ######### #### ##### ######## ##### ######### ### ###	3	355560	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+363,595	4	26GM	50	262	Dieser Mann ist echt hŸbsch.	2	363595	keine	0	keine	5	4	2	5,454545	1,181818	23	5	6,181818	0	0	1	0	2	1	0	0	0
+369,635	4	26GM	51	231	Es gibt gute Argumente fŸr Baumwolle statt Polyester.	2	369635	keine	0	keine	2,67	3,85	1,4	5,05	1,63	46	8	6	0	0	0	0	1	0	0	0	0
+376,67	6	26GM	52	410	Ging es eben um Kleidungsstoffe?	4	376670	Ja	2221	correct	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+388,705	4	26GM	53	137	In Wien habe ich einen himmlischen Kaffee getrunken.	1	388705	keine	0	keine	5,83	5,35	-2,3	3,58	4,68	45	8	6,263158	0	0	0	0	1	1	0	0	0
+393,751	4	26GM	54	239	Laut und unangenehm hallten die Stimmen der HŠndler auf dem Markt.	2	393751	keine	0	keine	4,89	2,25	0,4	4,26	2,68	56	11	4,157895	0	0	0	0	1	2	0	0	1
+403,791	4	26GM	55	337	## #### #### ### ##### ########### ###### #########	3	403791	keine	0	keine	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99	99
+

@@ -1,0 +1,15 @@
+1.0.0	2018-05-02
+
+	- initial release
+
+Revision history for OpenfMRI dataset ds000140
+
+2.0.0 2016-12-12
+
+  - Converted to BIDS format
+  - Curated dataset
+  - Incorporated regulate-up and regulate-down order in events files
+
+1.0.0 2014-10-23
+   
+  -  Initial release of uncurated data

@@ -1,0 +1,16 @@
+{
+  "T1w.json": "f9c47b0f23970d518e5f2f8e217640c030fd94c3",
+  "CHANGES": "03dec8d9d0c598c275807957ba833dc866e39a7c",
+  "task-bilateralfingertapping_echo-2_events.tsv": "5444cff43e7b40d1b3e46ccdebb5bf0b22e81321",
+  "README": "fe759c72c5867e93fb3f5a991b3c830cc38f1758",
+  "task-bilateralfingertapping_echo-2_bold.json": "a1a03660ced164e8b2d7c91b2f409f64c699e988",
+  "participants.tsv": "c35b3b2d29696efcf9780b721e6313f397763cc6",
+  "task-bilateralfingertapping_echo-1_events.tsv": "5444cff43e7b40d1b3e46ccdebb5bf0b22e81321",
+  "dataset_description.json": "8fa3eaec1573b388078f7b97cfabb2882a703923",
+  "task-bilateralfingertapping_echo-1_bold.json": "a429df8a859243e20708bd7e32f130257c316efe",
+  "task-bilateralfingertapping_echo-3_bold.json": "9d7852d077aa026dc655522f3752e9c7bd312cbf",
+  "task-bilateralfingertapping_echo-4_events.tsv": "5444cff43e7b40d1b3e46ccdebb5bf0b22e81321",
+  "task-bilateralfingertapping_echo-4_bold.json": "204af4079a53018d696a618942038d89f33e8e4a",
+  "task-bilateralfingertapping_events.tsv": "5444cff43e7b40d1b3e46ccdebb5bf0b22e81321",
+  "task-bilateralfingertapping_echo-3_events.tsv": "5444cff43e7b40d1b3e46ccdebb5bf0b22e81321"
+}

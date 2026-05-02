@@ -1,0 +1,670 @@
+onset	duration	trial_type	electrodes_involved_onset	electrodes_involved_offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_site_num	electrical_stimulation_current	notes	status	status_description
+412.7519531	0.0002	electrical_stimulation	n/a	n/a	845316	n/a	biphasic	RMG1-RMG2	161-162	6.0 mA	n/a	good	n/a
+417.7363281	0.0002	electrical_stimulation	n/a	n/a	855524	n/a	biphasic	RMG1-RMG2	161-162	6.0 mA	n/a	good	n/a
+422.3813477	0.0002	electrical_stimulation	n/a	n/a	865037	n/a	biphasic	RMG1-RMG2	161-162	6.0 mA	n/a	good	n/a
+427.0629883	0.0002	electrical_stimulation	n/a	n/a	874625	n/a	biphasic	RMG1-RMG2	161-162	6.0 mA	n/a	good	n/a
+432.9746094	0.0002	electrical_stimulation	n/a	n/a	886732	n/a	biphasic	RMG1-RMG2	161-162	6.0 mA	n/a	good	n/a
+437.1035156	0.0002	electrical_stimulation	n/a	n/a	895188	n/a	biphasic	RMG1-RMG2	161-162	6.0 mA	n/a	good	n/a
+440.6796875	0.0002	electrical_stimulation	n/a	n/a	902512	n/a	biphasic	RMG1-RMG2	161-162	6.0 mA	n/a	good	n/a
+445.6118164	0.0002	electrical_stimulation	n/a	n/a	912613	n/a	biphasic	RMG1-RMG2	161-162	6.0 mA	n/a	bad	n/a
+449.7822266	0.0002	electrical_stimulation	n/a	n/a	921154	n/a	biphasic	RMG1-RMG2	161-162	6.0 mA	n/a	good	n/a
+453.8955078	0.0002	electrical_stimulation	n/a	n/a	929578	n/a	biphasic	RMG1-RMG2	161-162	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+460.8344727	0.0002	electrical_stimulation	n/a	n/a	943789	n/a	biphasic	RMG1-RMG2	161-162	6.0 mA	n/a	good	n/a
+511.6967773	0.0002	electrical_stimulation	n/a	n/a	1047955	n/a	biphasic	RMG5-RMG6	165-166	6.0 mA	n/a	good	n/a
+515.168457	0.0002	electrical_stimulation	n/a	n/a	1055065	n/a	biphasic	RMG5-RMG6	165-166	6.0 mA	n/a	good	n/a
+518.8500977	0.0002	electrical_stimulation	n/a	n/a	1062605	n/a	biphasic	RMG5-RMG6	165-166	6.0 mA	n/a	good	n/a
+522.7172852	0.0002	electrical_stimulation	n/a	n/a	1070525	n/a	biphasic	RMG5-RMG6	165-166	6.0 mA	n/a	good	n/a
+526.8149414	0.0002	electrical_stimulation	n/a	n/a	1078917	n/a	biphasic	RMG5-RMG6	165-166	6.0 mA	n/a	good	n/a
+530.3808594	0.0002	electrical_stimulation	n/a	n/a	1086220	n/a	biphasic	RMG5-RMG6	165-166	6.0 mA	n/a	good	n/a
+534.0253906	0.0002	electrical_stimulation	n/a	n/a	1093684	n/a	biphasic	RMG5-RMG6	165-166	6.0 mA	n/a	good	n/a
+537.3930664	0.0002	electrical_stimulation	n/a	n/a	1100581	n/a	biphasic	RMG5-RMG6	165-166	6.0 mA	n/a	bad	artifact
+541.2456055	0.0002	electrical_stimulation	n/a	n/a	1108471	n/a	biphasic	RMG5-RMG6	165-166	6.0 mA	n/a	good	n/a
+546.7666016	0.0002	electrical_stimulation	n/a	n/a	1119778	n/a	biphasic	RMG5-RMG6	165-166	6.0 mA	n/a	good	n/a
+616.1386719	0.0002	electrical_stimulation	n/a	n/a	1261852	n/a	biphasic	RMG6-RMG7	166-167	6.0 mA	n/a	good	n/a
+620.1186523	0.0002	electrical_stimulation	n/a	n/a	1270003	n/a	biphasic	RMG6-RMG7	166-167	6.0 mA	n/a	good	n/a
+624.0078125	0.0002	electrical_stimulation	n/a	n/a	1277968	n/a	biphasic	RMG6-RMG7	166-167	6.0 mA	n/a	good	n/a
+627.5527344	0.0002	electrical_stimulation	n/a	n/a	1285228	n/a	biphasic	RMG6-RMG7	166-167	6.0 mA	n/a	good	n/a
+630.2011719	0.0002	electrical_stimulation	n/a	n/a	1290652	n/a	biphasic	RMG6-RMG7	166-167	6.0 mA	n/a	good	n/a
+633.9599609	0.0002	electrical_stimulation	n/a	n/a	1298350	n/a	biphasic	RMG6-RMG7	166-167	6.0 mA	n/a	good	n/a
+637.46875	0.0002	electrical_stimulation	n/a	n/a	1305536	n/a	biphasic	RMG6-RMG7	166-167	6.0 mA	n/a	good	artifacts fixed when reference RN5
+641.347168	0.0002	electrical_stimulation	n/a	n/a	1313479	n/a	biphasic	RMG6-RMG7	166-167	6.0 mA	n/a	good	artifacts fixed when reference RN5
+644.996582	0.0002	electrical_stimulation	n/a	n/a	1320953	n/a	biphasic	RMG6-RMG7	166-167	6.0 mA	n/a	good	n/a
+648.8911133	0.0002	electrical_stimulation	n/a	n/a	1328929	n/a	biphasic	RMG6-RMG7	166-167	6.0 mA	n/a	good	n/a
+673.3305664	0.0002	electrical_stimulation	n/a	n/a	1378981	n/a	biphasic	RMG7-RMG8	167-168	6.0 mA	n/a	good	n/a
+677.0805664	0.0002	electrical_stimulation	n/a	n/a	1386661	n/a	biphasic	RMG7-RMG8	167-168	6.0 mA	n/a	good	n/a
+680.3710938	0.0002	electrical_stimulation	n/a	n/a	1393400	n/a	biphasic	RMG7-RMG8	167-168	6.0 mA	n/a	good	n/a
+684.0454102	0.0002	electrical_stimulation	n/a	n/a	1400925	n/a	biphasic	RMG7-RMG8	167-168	6.0 mA	n/a	good	n/a
+687.6791992	0.0002	electrical_stimulation	n/a	n/a	1408367	n/a	biphasic	RMG7-RMG8	167-168	6.0 mA	n/a	good	n/a
+690.8017578	0.0002	electrical_stimulation	n/a	n/a	1414762	n/a	biphasic	RMG7-RMG8	167-168	6.0 mA	n/a	good	n/a
+694.1757813	0.0002	electrical_stimulation	n/a	n/a	1421672	n/a	biphasic	RMG7-RMG8	167-168	6.0 mA	n/a	good	n/a
+697.1206055	0.0002	electrical_stimulation	n/a	n/a	1427703	n/a	biphasic	RMG7-RMG8	167-168	6.0 mA	n/a	good	n/a
+700.3476563	0.0002	electrical_stimulation	n/a	n/a	1434312	n/a	biphasic	RMG7-RMG8	167-168	6.0 mA	n/a	good	n/a
+703.7099609	0.0002	electrical_stimulation	n/a	n/a	1441198	n/a	biphasic	RMG7-RMG8	167-168	6.0 mA	n/a	good	n/a
+773.3916016	0.0002	electrical_stimulation	n/a	n/a	1583906	n/a	biphasic	RK1-RK2	103-104	6.0 mA	n/a	good	n/a
+777.2602539	0.0002	electrical_stimulation	n/a	n/a	1591829	n/a	biphasic	RK1-RK2	103-104	6.0 mA	n/a	good	n/a
+781.3261719	0.0002	electrical_stimulation	n/a	n/a	1600156	n/a	biphasic	RK1-RK2	103-104	6.0 mA	n/a	good	n/a
+784.746582	0.0002	electrical_stimulation	n/a	n/a	1607161	n/a	biphasic	RK1-RK2	103-104	6.0 mA	n/a	good	artifact fixed when reference RN5
+793.9428711	0.0002	electrical_stimulation	n/a	n/a	1625995	n/a	biphasic	RK1-RK2	103-104	6.0 mA	n/a	good	artifacts fixed when reference RN5
+801.2045898	0.0002	electrical_stimulation	n/a	n/a	1640867	n/a	biphasic	RK1-RK2	103-104	6.0 mA	n/a	good	n/a
+806.0791016	0.0002	electrical_stimulation	n/a	n/a	1650850	n/a	biphasic	RK1-RK2	103-104	6.0 mA	n/a	good	n/a
+812.9614258	0.0002	electrical_stimulation	n/a	n/a	1664945	n/a	biphasic	RK1-RK2	103-104	6.0 mA	n/a	good	n/a
+818.1689453	0.0002	electrical_stimulation	n/a	n/a	1675610	n/a	biphasic	RK1-RK2	103-104	6.0 mA	n/a	good	n/a
+823.6635742	0.0002	electrical_stimulation	n/a	n/a	1686863	n/a	biphasic	RK1-RK2	103-104	6.0 mA	n/a	good	n/a
+858.6616211	0.0002	electrical_stimulation	n/a	n/a	1758539	n/a	biphasic	RK2-RK3	104-105	6.0 mA	n/a	bad	n/a
+877.1376953	0.0002	electrical_stimulation	n/a	n/a	1796378	n/a	biphasic	RK2-RK3	104-105	6.0 mA	n/a	good	n/a
+884.4311523	0.0002	electrical_stimulation	n/a	n/a	1811315	n/a	biphasic	RK2-RK3	104-105	6.0 mA	n/a	good	n/a
+957.3496094	0.0002	electrical_stimulation	n/a	n/a	1960652	n/a	biphasic	RK2-RK3	104-105	6.0 mA	n/a	good	n/a
+975.9707031	0.0002	electrical_stimulation	n/a	n/a	1998788	n/a	biphasic	RK2-RK3	104-105	6.0 mA	n/a	good	n/a
+987.3930664	0.0002	electrical_stimulation	n/a	n/a	2022181	n/a	biphasic	RK2-RK3	104-105	6.0 mA	n/a	good	n/a
+1042.775391	0.0002	electrical_stimulation	n/a	n/a	2135604	n/a	biphasic	RK3-RK4	105-106	6.0 mA	n/a	bad	n/a
+1078.476563	0.0002	electrical_stimulation	n/a	n/a	2208720	n/a	biphasic	RK3-RK4	105-106	2.0 mA	n/a	good	n/a
+1083.763184	0.0002	electrical_stimulation	n/a	n/a	2219547	n/a	biphasic	RK3-RK4	105-106	2.0 mA	n/a	bad	n/a
+1088.277832	0.0002	electrical_stimulation	n/a	n/a	2228793	n/a	biphasic	RK3-RK4	105-106	2.0 mA	n/a	good	n/a
+1120.23877	0.0002	electrical_stimulation	n/a	n/a	2294249	n/a	biphasic	RK3-RK4	105-106	1.0 mA	n/a	good	n/a
+1125.259766	0.0002	electrical_stimulation	n/a	n/a	2304532	n/a	biphasic	RK3-RK4	105-106	1.0 mA	n/a	good	n/a
+1129.007813	0.0002	electrical_stimulation	n/a	n/a	2312208	n/a	biphasic	RK3-RK4	105-106	1.0 mA	n/a	good	n/a
+1132.422363	0.0002	electrical_stimulation	n/a	n/a	2319201	n/a	biphasic	RK3-RK4	105-106	1.0 mA	n/a	good	n/a
+1136.681641	0.0002	electrical_stimulation	n/a	n/a	2327924	n/a	biphasic	RK3-RK4	105-106	1.0 mA	n/a	good	n/a
+1140.978027	0.0002	electrical_stimulation	n/a	n/a	2336723	n/a	biphasic	RK3-RK4	105-106	1.0 mA	n/a	good	n/a
+1144.309082	0.0002	electrical_stimulation	n/a	n/a	2343545	n/a	biphasic	RK3-RK4	105-106	1.0 mA	n/a	good	n/a
+1148.583496	0.0002	electrical_stimulation	n/a	n/a	2352299	n/a	biphasic	RK3-RK4	105-106	1.0 mA	n/a	bad	n/a
+1154.474609	0.0002	electrical_stimulation	n/a	n/a	2364364	n/a	biphasic	RK3-RK4	105-106	1.0 mA	n/a	good	n/a
+1157.973145	0.0002	electrical_stimulation	n/a	n/a	2371529	n/a	biphasic	RK3-RK4	105-106	1.0 mA	n/a	good	artifact after 2.5s
+1212.070801	0.0002	electrical_stimulation	n/a	n/a	2482321	n/a	biphasic	RK4-RK5	106-107	1.0 mA	n/a	bad	n/a
+1216.298828	0.0002	electrical_stimulation	n/a	n/a	2490980	n/a	biphasic	RK4-RK5	106-107	1.0 mA	n/a	bad	n/a
+1221.272461	0.0002	electrical_stimulation	n/a	n/a	2501166	n/a	biphasic	RK4-RK5	106-107	1.0 mA	n/a	good	n/a
+1225.531738	0.0002	electrical_stimulation	n/a	n/a	2509889	n/a	biphasic	RK4-RK5	106-107	1.0 mA	n/a	good	n/a
+1229.759766	0.0002	electrical_stimulation	n/a	n/a	2518548	n/a	biphasic	RK4-RK5	106-107	1.0 mA	n/a	good	n/a
+1233.998535	0.0002	electrical_stimulation	n/a	n/a	2527229	n/a	biphasic	RK4-RK5	106-107	1.0 mA	n/a	good	n/a
+1238.814941	0.0002	electrical_stimulation	n/a	n/a	2537093	n/a	biphasic	RK4-RK5	106-107	1.0 mA	n/a	good	n/a
+1244.096191	0.0002	electrical_stimulation	n/a	n/a	2547909	n/a	biphasic	RK4-RK5	106-107	1.0 mA	n/a	good	n/a
+1248.167969	0.0002	electrical_stimulation	n/a	n/a	2556248	n/a	biphasic	RK4-RK5	106-107	1.0 mA	n/a	good	n/a
+1251.624512	0.0002	electrical_stimulation	n/a	n/a	2563327	n/a	biphasic	RK4-RK5	106-107	1.0 mA	n/a	good	n/a
+1286.59668	0.0002	electrical_stimulation	n/a	n/a	2634950	n/a	biphasic	RK5-RK6	107-108	1.0 mA	n/a	good	n/a
+1290.22998	0.0002	electrical_stimulation	n/a	n/a	2642391	n/a	biphasic	RK5-RK6	107-108	1.0 mA	n/a	good	n/a
+1295.365234	0.0002	electrical_stimulation	n/a	n/a	2652908	n/a	biphasic	RK5-RK6	107-108	1.0 mA	n/a	bad	n/a
+1299.275391	0.0002	electrical_stimulation	n/a	n/a	2660916	n/a	biphasic	RK5-RK6	107-108	1.0 mA	n/a	good	n/a
+1303.404297	0.0002	electrical_stimulation	n/a	n/a	2669372	n/a	biphasic	RK5-RK6	107-108	1.0 mA	n/a	good	n/a
+1308.737305	0.0002	electrical_stimulation	n/a	n/a	2680294	n/a	biphasic	RK5-RK6	107-108	1.0 mA	n/a	good	n/a
+1312.412598	0.0002	electrical_stimulation	n/a	n/a	2687821	n/a	biphasic	RK5-RK6	107-108	1.0 mA	n/a	good	n/a
+1316.265137	0.0002	electrical_stimulation	n/a	n/a	2695711	n/a	biphasic	RK5-RK6	107-108	1.0 mA	n/a	good	n/a
+1320.180664	0.0002	electrical_stimulation	n/a	n/a	2703730	n/a	biphasic	RK5-RK6	107-108	1.0 mA	n/a	good	n/a
+1324.293945	0.0002	electrical_stimulation	n/a	n/a	2712154	n/a	biphasic	RK5-RK6	107-108	1.0 mA	n/a	good	n/a
+1357.837402	0.0002	electrical_stimulation	n/a	n/a	2780851	n/a	biphasic	RK6-RK7	108-109	1.0 mA	n/a	good	n/a
+1361.825684	0.0002	electrical_stimulation	n/a	n/a	2789019	n/a	biphasic	RK6-RK7	108-109	1.0 mA	n/a	good	n/a
+1365.82959	0.0002	electrical_stimulation	n/a	n/a	2797219	n/a	biphasic	RK6-RK7	108-109	1.0 mA	n/a	good	n/a
+1369.864258	0.0002	electrical_stimulation	n/a	n/a	2805482	n/a	biphasic	RK6-RK7	108-109	1.0 mA	n/a	good	n/a
+1373.347168	0.0002	electrical_stimulation	n/a	n/a	2812615	n/a	biphasic	RK6-RK7	108-109	1.0 mA	n/a	good	n/a
+1377.001465	0.0002	electrical_stimulation	n/a	n/a	2820099	n/a	biphasic	RK6-RK7	108-109	1.0 mA	n/a	good	n/a
+1383.549316	0.0002	electrical_stimulation	n/a	n/a	2833509	n/a	biphasic	RK6-RK7	108-109	1.0 mA	n/a	good	n/a
+1388.637695	0.0002	electrical_stimulation	n/a	n/a	2843930	n/a	biphasic	RK6-RK7	108-109	1.0 mA	n/a	good	n/a
+1392.474609	0.0002	electrical_stimulation	n/a	n/a	2851788	n/a	biphasic	RK6-RK7	108-109	1.0 mA	n/a	good	n/a
+1395.263672	0.0002	electrical_stimulation	n/a	n/a	2857500	n/a	biphasic	RK6-RK7	108-109	1.0 mA	n/a	good	n/a
+1416.587891	0.0002	electrical_stimulation	n/a	n/a	2901172	n/a	biphasic	RK7-RK8	109-110	1.0 mA	n/a	good	n/a
+1420.397949	0.0002	electrical_stimulation	n/a	n/a	2908975	n/a	biphasic	RK7-RK8	109-110	1.0 mA	n/a	good	n/a
+1423.782227	0.0002	electrical_stimulation	n/a	n/a	2915906	n/a	biphasic	RK7-RK8	109-110	1.0 mA	n/a	bad	n/a
+1427.639648	0.0002	electrical_stimulation	n/a	n/a	2923806	n/a	biphasic	RK7-RK8	109-110	1.0 mA	n/a	good	n/a
+1430.480957	0.0002	electrical_stimulation	n/a	n/a	2929625	n/a	biphasic	RK7-RK8	109-110	1.0 mA	n/a	good	n/a
+1434.729492	0.0002	electrical_stimulation	n/a	n/a	2938326	n/a	biphasic	RK7-RK8	109-110	1.0 mA	n/a	good	n/a
+1454.118164	0.0002	electrical_stimulation	n/a	n/a	2978034	n/a	biphasic	RK7-RK8	109-110	1.0 mA	n/a	good	n/a
+1459.800781	0.0002	electrical_stimulation	n/a	n/a	2989672	n/a	biphasic	RK7-RK8	109-110	1.0 mA	n/a	good	n/a
+1465.290039	0.0002	electrical_stimulation	n/a	n/a	3000914	n/a	biphasic	RK7-RK8	109-110	1.0 mA	n/a	good	n/a
+1468.496094	0.0002	electrical_stimulation	n/a	n/a	3007480	n/a	biphasic	RK7-RK8	109-110	1.0 mA	n/a	good	n/a
+1471.848633	0.0002	electrical_stimulation	n/a	n/a	3014346	n/a	biphasic	RK7-RK8	109-110	1.0 mA	n/a	good	n/a
+1511.605957	0.0002	electrical_stimulation	n/a	n/a	3095769	n/a	biphasic	RK8-RK9	110-111	6.0 mA	n/a	good	n/a
+1521.688477	0.0002	electrical_stimulation	n/a	n/a	3116418	n/a	biphasic	RK8-RK9	110-111	6.0 mA	n/a	good	n/a
+1532.108398	0.0002	electrical_stimulation	n/a	n/a	3137758	n/a	biphasic	RK8-RK9	110-111	1.0 mA	n/a	good	noise fixed when reference RN5
+1537.050781	0.0002	electrical_stimulation	n/a	n/a	3147880	n/a	biphasic	RK8-RK9	110-111	1.0 mA	n/a	good	n/a
+1539.970215	0.0002	electrical_stimulation	n/a	n/a	3153859	n/a	biphasic	RK8-RK9	110-111	1.0 mA	n/a	good	n/a
+1543.479004	0.0002	electrical_stimulation	n/a	n/a	3161045	n/a	biphasic	RK8-RK9	110-111	1.0 mA	n/a	good	n/a
+1546.820801	0.0002	electrical_stimulation	n/a	n/a	3167889	n/a	biphasic	RK8-RK9	110-111	1.0 mA	n/a	good	n/a
+1550.417969	0.0002	electrical_stimulation	n/a	n/a	3175256	n/a	biphasic	RK8-RK9	110-111	1.0 mA	n/a	good	n/a
+1553.561523	0.0002	electrical_stimulation	n/a	n/a	3181694	n/a	biphasic	RK8-RK9	110-111	1.0 mA	n/a	good	n/a
+1556.861816	0.0002	electrical_stimulation	n/a	n/a	3188453	n/a	biphasic	RK8-RK9	110-111	1.0 mA	n/a	good	n/a
+1559.504883	0.0002	electrical_stimulation	n/a	n/a	3193866	n/a	biphasic	RK8-RK9	110-111	1.0 mA	n/a	good	n/a
+1562.894043	0.0002	electrical_stimulation	n/a	n/a	3200807	n/a	biphasic	RK8-RK9	110-111	1.0 mA	n/a	good	n/a
+1586.849609	0.0002	electrical_stimulation	n/a	n/a	3249868	n/a	biphasic	RK9-RK10	111-112	1.0 mA	n/a	good	n/a
+1620.5625	0.0002	electrical_stimulation	n/a	n/a	3318912	n/a	biphasic	RK9-RK10	111-112	1.0 mA	n/a	good	artifact fixed when reference RN5
+1626.611328	0.0002	electrical_stimulation	n/a	n/a	3331300	n/a	biphasic	RK9-RK10	111-112	1.0 mA	n/a	good	n/a
+1631.464844	0.0002	electrical_stimulation	n/a	n/a	3341240	n/a	biphasic	RK9-RK10	111-112	1.0 mA	n/a	good	n/a
+1636.396973	0.0002	electrical_stimulation	n/a	n/a	3351341	n/a	biphasic	RK9-RK10	111-112	1.0 mA	n/a	good	artifacts fixed when reference RN5
+1640.473633	0.0002	electrical_stimulation	n/a	n/a	3359690	n/a	biphasic	RK9-RK10	111-112	1.0 mA	n/a	good	n/a
+1643.617188	0.0002	electrical_stimulation	n/a	n/a	3366128	n/a	biphasic	RK9-RK10	111-112	1.0 mA	n/a	good	n/a
+1646.463379	0.0002	electrical_stimulation	n/a	n/a	3371957	n/a	biphasic	RK9-RK10	111-112	1.0 mA	n/a	good	n/a
+1653.319336	0.0002	electrical_stimulation	n/a	n/a	3385998	n/a	biphasic	RK9-RK10	111-112	1.0 mA	n/a	good	artifacts fixed when reference RN5
+1669.625488	0.0002	electrical_stimulation	n/a	n/a	3419393	n/a	biphasic	RK9-RK10	111-112	1.0 mA	n/a	good	n/a
+1742.604492	0.0002	electrical_stimulation	n/a	n/a	3568854	n/a	biphasic	RP1-RP2	145-146	6.0 mA	n/a	good	n/a
+1746.587891	0.0002	electrical_stimulation	n/a	n/a	3577012	n/a	biphasic	RP1-RP2	145-146	6.0 mA	n/a	good	n/a
+1749.73584	0.0002	electrical_stimulation	n/a	n/a	3583459	n/a	biphasic	RP1-RP2	145-146	6.0 mA	n/a	good	n/a
+1753.28125	0.0002	electrical_stimulation	n/a	n/a	3590720	n/a	biphasic	RP1-RP2	145-146	6.0 mA	n/a	good	n/a
+1755.877441	0.0002	electrical_stimulation	n/a	n/a	3596037	n/a	biphasic	RP1-RP2	145-146	6.0 mA	n/a	good	n/a
+1758.849121	0.0002	electrical_stimulation	n/a	n/a	3602123	n/a	biphasic	RP1-RP2	145-146	6.0 mA	n/a	good	n/a
+1761.591797	0.0002	electrical_stimulation	n/a	n/a	3607740	n/a	biphasic	RP1-RP2	145-146	6.0 mA	n/a	good	n/a
+1764.442871	0.0002	electrical_stimulation	n/a	n/a	3613579	n/a	biphasic	RP1-RP2	145-146	6.0 mA	n/a	good	n/a
+1767.075684	0.0002	electrical_stimulation	n/a	n/a	3618971	n/a	biphasic	RP1-RP2	145-146	6.0 mA	n/a	good	n/a
+1771.027344	0.0002	electrical_stimulation	n/a	n/a	3627064	n/a	biphasic	RP1-RP2	145-146	6.0 mA	n/a	good	artifacts fixed when reference RN5
+1807.769531	0.0002	electrical_stimulation	n/a	n/a	3702312	n/a	biphasic	RP2-RP3	146-147	6.0 mA	n/a	good	noise fixed when reference RN5
+1815.524414	0.0002	electrical_stimulation	n/a	n/a	3718194	n/a	biphasic	RP2-RP3	146-147	6.0 mA	n/a	good	n/a
+1820.007813	0.0002	electrical_stimulation	n/a	n/a	3727376	n/a	biphasic	RP2-RP3	146-147	6.0 mA	n/a	good	n/a
+1824.70459	0.0002	electrical_stimulation	n/a	n/a	3736995	n/a	biphasic	RP2-RP3	146-147	6.0 mA	n/a	good	n/a
+1828.489258	0.0002	electrical_stimulation	n/a	n/a	3744746	n/a	biphasic	RP2-RP3	146-147	6.0 mA	n/a	good	n/a
+1832.644531	0.0002	electrical_stimulation	n/a	n/a	3753256	n/a	biphasic	RP2-RP3	146-147	6.0 mA	n/a	good	n/a
+1842.56543	0.0002	electrical_stimulation	n/a	n/a	3773574	n/a	biphasic	RP2-RP3	146-147	6.0 mA	n/a	good	n/a
+1847.320313	0.0002	electrical_stimulation	n/a	n/a	3783312	n/a	biphasic	RP2-RP3	146-147	6.0 mA	n/a	good	noise fixed when reference RN5
+1850.870605	0.0002	electrical_stimulation	n/a	n/a	3790583	n/a	biphasic	RP2-RP3	146-147	6.0 mA	n/a	good	n/a
+1855.223633	0.0002	electrical_stimulation	n/a	n/a	3799498	n/a	biphasic	RP2-RP3	146-147	6.0 mA	n/a	good	artifact fixed when reference RN5
+1860.144531	0.0002	electrical_stimulation	n/a	n/a	3809576	n/a	biphasic	RP2-RP3	146-147	6.0 mA	n/a	good	n/a
+1882.26123	0.0002	electrical_stimulation	n/a	n/a	3854871	n/a	biphasic	RP3-RP4	147-148	6.0 mA	n/a	good	n/a
+1885.899902	0.0002	electrical_stimulation	n/a	n/a	3862323	n/a	biphasic	RP3-RP4	147-148	6.0 mA	n/a	good	n/a
+1889.439453	0.0002	electrical_stimulation	n/a	n/a	3869572	n/a	biphasic	RP3-RP4	147-148	6.0 mA	n/a	good	n/a
+1893.297363	0.0002	electrical_stimulation	n/a	n/a	3877473	n/a	biphasic	RP3-RP4	147-148	6.0 mA	n/a	good	n/a
+1896.941406	0.0002	electrical_stimulation	n/a	n/a	3884936	n/a	biphasic	RP3-RP4	147-148	6.0 mA	n/a	good	n/a
+1903.208008	0.0002	electrical_stimulation	n/a	n/a	3897770	n/a	biphasic	RP3-RP4	147-148	6.0 mA	n/a	good	n/a
+1906.377441	0.0002	electrical_stimulation	n/a	n/a	3904261	n/a	biphasic	RP3-RP4	147-148	6.0 mA	n/a	good	n/a
+1909.91748	0.0002	electrical_stimulation	n/a	n/a	3911511	n/a	biphasic	RP3-RP4	147-148	6.0 mA	n/a	good	n/a
+1913.40625	0.0002	electrical_stimulation	n/a	n/a	3918656	n/a	biphasic	RP3-RP4	147-148	6.0 mA	n/a	good	noise fixed when reference RN5
+1916.330078	0.0002	electrical_stimulation	n/a	n/a	3924644	n/a	biphasic	RP3-RP4	147-148	6.0 mA	n/a	good	n/a
+1945.854004	0.0002	electrical_stimulation	n/a	n/a	3985109	n/a	biphasic	RP4-RP5	148-149	6.0 mA	n/a	good	n/a
+1949.513672	0.0002	electrical_stimulation	n/a	n/a	3992604	n/a	biphasic	RP4-RP5	148-149	6.0 mA	n/a	good	n/a
+1953.022461	0.0002	electrical_stimulation	n/a	n/a	3999790	n/a	biphasic	RP4-RP5	148-149	6.0 mA	n/a	good	n/a
+1956.150391	0.0002	electrical_stimulation	n/a	n/a	4006196	n/a	biphasic	RP4-RP5	148-149	6.0 mA	n/a	good	n/a
+1959.200195	0.0002	electrical_stimulation	n/a	n/a	4012442	n/a	biphasic	RP4-RP5	148-149	6.0 mA	n/a	good	n/a
+1962.573242	0.0002	electrical_stimulation	n/a	n/a	4019350	n/a	biphasic	RP4-RP5	148-149	6.0 mA	n/a	good	n/a
+1965.857422	0.0002	electrical_stimulation	n/a	n/a	4026076	n/a	biphasic	RP4-RP5	148-149	6.0 mA	n/a	good	n/a
+1968.625977	0.0002	electrical_stimulation	n/a	n/a	4031746	n/a	biphasic	RP4-RP5	148-149	6.0 mA	n/a	good	n/a
+1971.419922	0.0002	electrical_stimulation	n/a	n/a	4037468	n/a	biphasic	RP4-RP5	148-149	6.0 mA	n/a	good	n/a
+1975.21582	0.0002	electrical_stimulation	n/a	n/a	4045242	n/a	biphasic	RP4-RP5	148-149	6.0 mA	n/a	good	n/a
+2003.898926	0.0002	electrical_stimulation	n/a	n/a	4103985	n/a	biphasic	RP5-RP6	149-150	6.0 mA	n/a	good	n/a
+2012.095703	0.0002	electrical_stimulation	n/a	n/a	4120772	n/a	biphasic	RP5-RP6	149-150	6.0 mA	n/a	good	n/a
+2014.931641	0.0002	electrical_stimulation	n/a	n/a	4126580	n/a	biphasic	RP5-RP6	149-150	6.0 mA	n/a	good	n/a
+2018.685059	0.0002	electrical_stimulation	n/a	n/a	4134267	n/a	biphasic	RP5-RP6	149-150	6.0 mA	n/a	good	n/a
+2021.776855	0.0002	electrical_stimulation	n/a	n/a	4140599	n/a	biphasic	RP5-RP6	149-150	6.0 mA	n/a	good	n/a
+2025.035156	0.0002	electrical_stimulation	n/a	n/a	4147272	n/a	biphasic	RP5-RP6	149-150	6.0 mA	n/a	bad	n/a
+2028.199219	0.0002	electrical_stimulation	n/a	n/a	4153752	n/a	biphasic	RP5-RP6	149-150	6.0 mA	n/a	good	n/a
+2031.155762	0.0002	electrical_stimulation	n/a	n/a	4159807	n/a	biphasic	RP5-RP6	149-150	6.0 mA	n/a	good	n/a
+2033.87207	0.0002	electrical_stimulation	n/a	n/a	4165370	n/a	biphasic	RP5-RP6	149-150	6.0 mA	n/a	good	n/a
+2036.968262	0.0002	electrical_stimulation	n/a	n/a	4171711	n/a	biphasic	RP5-RP6	149-150	6.0 mA	n/a	good	n/a
+2079.009277	0.0002	electrical_stimulation	n/a	n/a	4257811	n/a	biphasic	RQ9-RQ10	121-122	6.0 mA	n/a	good	n/a
+2084.691895	0.0002	electrical_stimulation	n/a	n/a	4269449	n/a	biphasic	RQ9-RQ10	121-122	6.0 mA	n/a	good	n/a
+2088.476563	0.0002	electrical_stimulation	n/a	n/a	4277200	n/a	biphasic	RQ9-RQ10	121-122	6.0 mA	n/a	good	n/a
+2091.349121	0.0002	electrical_stimulation	n/a	n/a	4283083	n/a	biphasic	RQ9-RQ10	121-122	6.0 mA	n/a	good	n/a
+2094.211426	0.0002	electrical_stimulation	n/a	n/a	4288945	n/a	biphasic	RQ9-RQ10	121-122	6.0 mA	n/a	good	n/a
+2096.494629	0.0002	electrical_stimulation	n/a	n/a	4293621	n/a	biphasic	RQ9-RQ10	121-122	6.0 mA	n/a	good	n/a
+2099.62793	0.0002	electrical_stimulation	n/a	n/a	4300038	n/a	biphasic	RQ9-RQ10	121-122	6.0 mA	n/a	good	n/a
+2102.177246	0.0002	electrical_stimulation	n/a	n/a	4305259	n/a	biphasic	RQ9-RQ10	121-122	6.0 mA	n/a	good	n/a
+2104.935059	0.0002	electrical_stimulation	n/a	n/a	4310907	n/a	biphasic	RQ9-RQ10	121-122	6.0 mA	n/a	good	n/a
+2111.066406	0.0002	electrical_stimulation	n/a	n/a	4323464	n/a	biphasic	RQ9-RQ10	121-122	6.0 mA	n/a	good	n/a
+2154.858887	0.0002	electrical_stimulation	n/a	n/a	4413151	n/a	biphasic	RQ10-RQ11	122-123	6.0 mA	n/a	good	n/a
+2159.23291	0.0002	electrical_stimulation	n/a	n/a	4422109	n/a	biphasic	RQ10-RQ11	122-123	6.0 mA	n/a	good	n/a
+2162.438965	0.0002	electrical_stimulation	n/a	n/a	4428675	n/a	biphasic	RQ10-RQ11	122-123	6.0 mA	n/a	good	n/a
+2165.244141	0.0002	electrical_stimulation	n/a	n/a	4434420	n/a	biphasic	RQ10-RQ11	122-123	6.0 mA	n/a	good	n/a
+2167.667969	0.0002	electrical_stimulation	n/a	n/a	4439384	n/a	biphasic	RQ10-RQ11	122-123	6.0 mA	n/a	good	n/a
+2174.064941	0.0002	electrical_stimulation	n/a	n/a	4452485	n/a	biphasic	RQ10-RQ11	122-123	6.0 mA	n/a	good	n/a
+2176.608887	0.0002	electrical_stimulation	n/a	n/a	4457695	n/a	biphasic	RQ10-RQ11	122-123	6.0 mA	n/a	good	n/a
+2179.596191	0.0002	electrical_stimulation	n/a	n/a	4463813	n/a	biphasic	RQ10-RQ11	122-123	6.0 mA	n/a	good	n/a
+2182.515625	0.0002	electrical_stimulation	n/a	n/a	4469792	n/a	biphasic	RQ10-RQ11	122-123	6.0 mA	n/a	good	n/a
+2206.409668	0.0002	electrical_stimulation	n/a	n/a	4518727	n/a	biphasic	RQ11-RQ12	123-124	6.0 mA	n/a	good	n/a
+2209.277344	0.0002	electrical_stimulation	n/a	n/a	4524600	n/a	biphasic	RQ11-RQ12	123-124	6.0 mA	n/a	good	n/a
+2212.347656	0.0002	electrical_stimulation	n/a	n/a	4530888	n/a	biphasic	RQ11-RQ12	123-124	6.0 mA	n/a	good	n/a
+2215.407715	0.0002	electrical_stimulation	n/a	n/a	4537155	n/a	biphasic	RQ11-RQ12	123-124	6.0 mA	n/a	good	n/a
+2218.274902	0.0002	electrical_stimulation	n/a	n/a	4543027	n/a	biphasic	RQ11-RQ12	123-124	6.0 mA	n/a	good	n/a
+2221.543945	0.0002	electrical_stimulation	n/a	n/a	4549722	n/a	biphasic	RQ11-RQ12	123-124	6.0 mA	n/a	good	n/a
+2224.473633	0.0002	electrical_stimulation	n/a	n/a	4555722	n/a	biphasic	RQ11-RQ12	123-124	6.0 mA	n/a	good	n/a
+2228.008301	0.0002	electrical_stimulation	n/a	n/a	4562961	n/a	biphasic	RQ11-RQ12	123-124	6.0 mA	n/a	good	n/a
+2231.396973	0.0002	electrical_stimulation	n/a	n/a	4569901	n/a	biphasic	RQ11-RQ12	123-124	6.0 mA	n/a	good	artifacts fixed when reference RN5
+2235.411621	0.0002	electrical_stimulation	n/a	n/a	4578123	n/a	biphasic	RQ11-RQ12	123-124	6.0 mA	n/a	good	n/a
+2290.09375	0.0002	electrical_stimulation	n/a	n/a	4690112	n/a	biphasic	RQ12-RQ13	124-125	6.0 mA	n/a	good	n/a
+2293.733398	0.0002	electrical_stimulation	n/a	n/a	4697566	n/a	biphasic	RQ12-RQ13	124-125	6.0 mA	n/a	good	n/a
+2296.11084	0.0002	electrical_stimulation	n/a	n/a	4702435	n/a	biphasic	RQ12-RQ13	124-125	6.0 mA	n/a	good	n/a
+2299.025391	0.0002	electrical_stimulation	n/a	n/a	4708404	n/a	biphasic	RQ12-RQ13	124-125	6.0 mA	n/a	good	n/a
+2301.204102	0.0002	electrical_stimulation	n/a	n/a	4712866	n/a	biphasic	RQ12-RQ13	124-125	6.0 mA	n/a	good	n/a
+2303.805664	0.0002	electrical_stimulation	n/a	n/a	4718194	n/a	biphasic	RQ12-RQ13	124-125	6.0 mA	n/a	good	n/a
+2306.26123	0.0002	electrical_stimulation	n/a	n/a	4723223	n/a	biphasic	RQ12-RQ13	124-125	6.0 mA	n/a	good	n/a
+2309.04541	0.0002	electrical_stimulation	n/a	n/a	4728925	n/a	biphasic	RQ12-RQ13	124-125	6.0 mA	n/a	good	n/a
+2311.583984	0.0002	electrical_stimulation	n/a	n/a	4734124	n/a	biphasic	RQ12-RQ13	124-125	6.0 mA	n/a	good	n/a
+2314.550293	0.0002	electrical_stimulation	n/a	n/a	4740199	n/a	biphasic	RQ12-RQ13	124-125	6.0 mA	n/a	good	n/a
+2339.707031	0.0002	electrical_stimulation	n/a	n/a	4791720	n/a	biphasic	RQ13-RQ14	125-126	6.0 mA	n/a	good	n/a
+2342.511719	0.0002	electrical_stimulation	n/a	n/a	4797464	n/a	biphasic	RQ13-RQ14	125-126	6.0 mA	n/a	good	n/a
+2345.755371	0.0002	electrical_stimulation	n/a	n/a	4804107	n/a	biphasic	RQ13-RQ14	125-126	6.0 mA	n/a	good	n/a
+2348.230469	0.0002	electrical_stimulation	n/a	n/a	4809176	n/a	biphasic	RQ13-RQ14	125-126	6.0 mA	n/a	good	n/a
+2351.745117	0.0002	electrical_stimulation	n/a	n/a	4816374	n/a	biphasic	RQ13-RQ14	125-126	6.0 mA	n/a	good	n/a
+2356.446777	0.0002	electrical_stimulation	n/a	n/a	4826003	n/a	biphasic	RQ13-RQ14	125-126	6.0 mA	n/a	good	n/a
+2360.168945	0.0002	electrical_stimulation	n/a	n/a	4833626	n/a	biphasic	RQ13-RQ14	125-126	6.0 mA	n/a	good	n/a
+2362.405762	0.0002	electrical_stimulation	n/a	n/a	4838207	n/a	biphasic	RQ13-RQ14	125-126	6.0 mA	n/a	good	n/a
+2365.007324	0.0002	electrical_stimulation	n/a	n/a	4843535	n/a	biphasic	RQ13-RQ14	125-126	6.0 mA	n/a	good	n/a
+2368.71875	0.0002	electrical_stimulation	n/a	n/a	4851136	n/a	biphasic	RQ13-RQ14	125-126	6.0 mA	n/a	good	n/a
+2391.464355	0.0002	electrical_stimulation	n/a	n/a	4897719	n/a	biphasic	RQ14-RQ15	126-127	6.0 mA	n/a	bad	bad channels
+2395.109863	0.0002	electrical_stimulation	n/a	n/a	4905185	n/a	biphasic	RQ14-RQ15	126-127	6.0 mA	n/a	good	n/a
+2398.634277	0.0002	electrical_stimulation	n/a	n/a	4912403	n/a	biphasic	RQ14-RQ15	126-127	6.0 mA	n/a	bad	n/a
+2401.595215	0.0002	electrical_stimulation	n/a	n/a	4918467	n/a	biphasic	RQ14-RQ15	126-127	6.0 mA	n/a	good	n/a
+2404.499512	0.0002	electrical_stimulation	n/a	n/a	4924415	n/a	biphasic	RQ14-RQ15	126-127	6.0 mA	n/a	good	n/a
+2408.65918	0.0002	electrical_stimulation	n/a	n/a	4932934	n/a	biphasic	RQ14-RQ15	126-127	6.0 mA	n/a	good	n/a
+2412.976074	0.0002	electrical_stimulation	n/a	n/a	4941775	n/a	biphasic	RQ14-RQ15	126-127	6.0 mA	n/a	good	n/a
+2416.432129	0.0002	electrical_stimulation	n/a	n/a	4948853	n/a	biphasic	RQ14-RQ15	126-127	6.0 mA	n/a	good	n/a
+2419.940918	0.0002	electrical_stimulation	n/a	n/a	4956039	n/a	biphasic	RQ14-RQ15	126-127	6.0 mA	n/a	good	n/a
+2423.590332	0.0002	electrical_stimulation	n/a	n/a	4963513	n/a	biphasic	RQ14-RQ15	126-127	6.0 mA	n/a	good	n/a
+2452.999512	0.0002	electrical_stimulation	n/a	n/a	5023743	n/a	biphasic	RQ15-RQ16	127-128	6.0 mA	n/a	good	n/a
+2456.394043	0.0002	electrical_stimulation	n/a	n/a	5030695	n/a	biphasic	RQ15-RQ16	127-128	6.0 mA	n/a	good	n/a
+2460.241211	0.0002	electrical_stimulation	n/a	n/a	5038574	n/a	biphasic	RQ15-RQ16	127-128	6.0 mA	n/a	good	artifact fixed when reference RN5
+2463.462891	0.0002	electrical_stimulation	n/a	n/a	5045172	n/a	biphasic	RQ15-RQ16	127-128	6.0 mA	n/a	good	n/a
+2466.163574	0.0002	electrical_stimulation	n/a	n/a	5050703	n/a	biphasic	RQ15-RQ16	127-128	6.0 mA	n/a	good	n/a
+2469.041504	0.0002	electrical_stimulation	n/a	n/a	5056597	n/a	biphasic	RQ15-RQ16	127-128	6.0 mA	n/a	good	n/a
+2472.039551	0.0002	electrical_stimulation	n/a	n/a	5062737	n/a	biphasic	RQ15-RQ16	127-128	6.0 mA	n/a	bad	n/a
+2475.15625	0.0002	electrical_stimulation	n/a	n/a	5069120	n/a	biphasic	RQ15-RQ16	127-128	6.0 mA	n/a	bad	n/a
+2478.044434	0.0002	electrical_stimulation	n/a	n/a	5075035	n/a	biphasic	RQ15-RQ16	127-128	6.0 mA	n/a	good	n/a
+2481.365234	0.0002	electrical_stimulation	n/a	n/a	5081836	n/a	biphasic	RQ15-RQ16	127-128	6.0 mA	n/a	good	n/a
+2536.229492	0.0002	electrical_stimulation	n/a	n/a	5194198	n/a	biphasic	RX1-RX2	55-56	6.0 mA	n/a	bad	n/a
+2539.4375	0.0002	electrical_stimulation	n/a	n/a	5200768	n/a	biphasic	RX1-RX2	55-56	6.0 mA	n/a	good	n/a
+2542.28418	0.0002	electrical_stimulation	n/a	n/a	5206598	n/a	biphasic	RX1-RX2	55-56	6.0 mA	n/a	good	n/a
+2545.547363	0.0002	electrical_stimulation	n/a	n/a	5213281	n/a	biphasic	RX1-RX2	55-56	6.0 mA	n/a	good	n/a
+2549.421387	0.0002	electrical_stimulation	n/a	n/a	5221215	n/a	biphasic	RX1-RX2	55-56	6.0 mA	n/a	good	n/a
+2552.893066	0.0002	electrical_stimulation	n/a	n/a	5228325	n/a	biphasic	RX1-RX2	55-56	6.0 mA	n/a	good	n/a
+2556.610352	0.0002	electrical_stimulation	n/a	n/a	5235938	n/a	biphasic	RX1-RX2	55-56	6.0 mA	n/a	good	n/a
+2559.503906	0.0002	electrical_stimulation	n/a	n/a	5241864	n/a	biphasic	RX1-RX2	55-56	6.0 mA	n/a	good	n/a
+2562.386719	0.0002	electrical_stimulation	n/a	n/a	5247768	n/a	biphasic	RX1-RX2	55-56	6.0 mA	n/a	good	n/a
+2565.509277	0.0002	electrical_stimulation	n/a	n/a	5254163	n/a	biphasic	RX1-RX2	55-56	6.0 mA	n/a	bad	n/a
+2597.42627	0.0002	electrical_stimulation	n/a	n/a	5319529	n/a	biphasic	RX2-RX3	56-57	6.0 mA	n/a	good	noise fixed when reference RN5
+2600.856934	0.0002	electrical_stimulation	n/a	n/a	5326555	n/a	biphasic	RX2-RX3	56-57	6.0 mA	n/a	bad	n/a
+2603.385742	0.0002	electrical_stimulation	n/a	n/a	5331734	n/a	biphasic	RX2-RX3	56-57	6.0 mA	n/a	good	artifact fixed when reference RN5
+2606.122559	0.0002	electrical_stimulation	n/a	n/a	5337339	n/a	biphasic	RX2-RX3	56-57	6.0 mA	n/a	good	artifacts fixed when reference RN5
+2608.947754	0.0002	electrical_stimulation	n/a	n/a	5343125	n/a	biphasic	RX2-RX3	56-57	6.0 mA	n/a	good	n/a
+2611.492676	0.0002	electrical_stimulation	n/a	n/a	5348337	n/a	biphasic	RX2-RX3	56-57	6.0 mA	n/a	good	n/a
+2614.771484	0.0002	electrical_stimulation	n/a	n/a	5355052	n/a	biphasic	RX2-RX3	56-57	6.0 mA	n/a	good	n/a
+2617.63916	0.0002	electrical_stimulation	n/a	n/a	5360925	n/a	biphasic	RX2-RX3	56-57	6.0 mA	n/a	good	n/a
+2620.229492	0.0002	electrical_stimulation	n/a	n/a	5366230	n/a	biphasic	RX2-RX3	56-57	6.0 mA	n/a	good	artifact after 2s
+2623.191895	0.0002	electrical_stimulation	n/a	n/a	5372297	n/a	biphasic	RX2-RX3	56-57	6.0 mA	n/a	bad	n/a
+2627.392578	0.0002	electrical_stimulation	n/a	n/a	5380900	n/a	biphasic	RX2-RX3	56-57	6.0 mA	n/a	good	n/a
+2669.573242	0.0002	electrical_stimulation	n/a	n/a	5467286	n/a	biphasic	RX3-RX4	57-58	6.0 mA	n/a	good	noise fixed when reference RN5
+2673.265625	0.0002	electrical_stimulation	n/a	n/a	5474848	n/a	biphasic	RX3-RX4	57-58	6.0 mA	n/a	good	n/a
+2676.518555	0.0002	electrical_stimulation	n/a	n/a	5481510	n/a	biphasic	RX3-RX4	57-58	6.0 mA	n/a	good	n/a
+2680.283203	0.0002	electrical_stimulation	n/a	n/a	5489220	n/a	biphasic	RX3-RX4	57-58	6.0 mA	n/a	good	n/a
+2683.583496	0.0002	electrical_stimulation	n/a	n/a	5495979	n/a	biphasic	RX3-RX4	57-58	6.0 mA	n/a	good	n/a
+2686.471191	0.0002	electrical_stimulation	n/a	n/a	5501893	n/a	biphasic	RX3-RX4	57-58	6.0 mA	n/a	good	n/a
+2689.083008	0.0002	electrical_stimulation	n/a	n/a	5507242	n/a	biphasic	RX3-RX4	57-58	6.0 mA	n/a	good	n/a
+2692.242188	0.0002	electrical_stimulation	n/a	n/a	5513712	n/a	biphasic	RX3-RX4	57-58	6.0 mA	n/a	good	n/a
+2695.583984	0.0002	electrical_stimulation	n/a	n/a	5520556	n/a	biphasic	RX3-RX4	57-58	6.0 mA	n/a	good	noise fixed when reference RN5
+2699.082031	0.0002	electrical_stimulation	n/a	n/a	5527720	n/a	biphasic	RX3-RX4	57-58	6.0 mA	n/a	good	n/a
+2730.811035	0.0002	electrical_stimulation	n/a	n/a	5592701	n/a	biphasic	RX11-RX12	65-66	6.0 mA	n/a	bad	n/a
+2735.26416	0.0002	electrical_stimulation	n/a	n/a	5601821	n/a	biphasic	RX11-RX12	65-66	6.0 mA	n/a	good	n/a
+2738.151855	0.0002	electrical_stimulation	n/a	n/a	5607735	n/a	biphasic	RX11-RX12	65-66	6.0 mA	n/a	good	noise fixed when reference RN5
+2748.395508	0.0002	electrical_stimulation	n/a	n/a	5628714	n/a	biphasic	RX11-RX12	65-66	6.0 mA	n/a	bad	n/a
+2752.603027	0.0002	electrical_stimulation	n/a	n/a	5637331	n/a	biphasic	RX11-RX12	65-66	6.0 mA	n/a	good	n/a
+2755.668457	0.0002	electrical_stimulation	n/a	n/a	5643609	n/a	biphasic	RX11-RX12	65-66	6.0 mA	n/a	good	n/a
+2758.389648	0.0002	electrical_stimulation	n/a	n/a	5649182	n/a	biphasic	RX11-RX12	65-66	6.0 mA	n/a	good	n/a
+2761.481445	0.0002	electrical_stimulation	n/a	n/a	5655514	n/a	biphasic	RX11-RX12	65-66	6.0 mA	n/a	good	n/a
+2764.614258	0.0002	electrical_stimulation	n/a	n/a	5661930	n/a	biphasic	RX11-RX12	65-66	6.0 mA	n/a	good	n/a
+2768.467285	0.0002	electrical_stimulation	n/a	n/a	5669821	n/a	biphasic	RX11-RX12	65-66	6.0 mA	n/a	good	n/a
+2802.675781	0.0002	electrical_stimulation	n/a	n/a	5739880	n/a	biphasic	RX12-RX13	66-67	6.0 mA	n/a	bad	n/a
+2805.863281	0.0002	electrical_stimulation	n/a	n/a	5746408	n/a	biphasic	RX12-RX13	66-67	6.0 mA	n/a	good	artifact fixed when reference RN5
+2808.715332	0.0002	electrical_stimulation	n/a	n/a	5752249	n/a	biphasic	RX12-RX13	66-67	6.0 mA	n/a	good	n/a
+2811.874512	0.0002	electrical_stimulation	n/a	n/a	5758719	n/a	biphasic	RX12-RX13	66-67	6.0 mA	n/a	good	n/a
+2815.269043	0.0002	electrical_stimulation	n/a	n/a	5765671	n/a	biphasic	RX12-RX13	66-67	6.0 mA	n/a	good	n/a
+2818.151367	0.0002	electrical_stimulation	n/a	n/a	5771574	n/a	biphasic	RX12-RX13	66-67	6.0 mA	n/a	good	n/a
+2821.28418	0.0002	electrical_stimulation	n/a	n/a	5777990	n/a	biphasic	RX12-RX13	66-67	6.0 mA	n/a	good	artifacts fixed when reference RN5
+2823.797363	0.0002	electrical_stimulation	n/a	n/a	5783137	n/a	biphasic	RX12-RX13	66-67	6.0 mA	n/a	good	n/a
+2826.727051	0.0002	electrical_stimulation	n/a	n/a	5789137	n/a	biphasic	RX12-RX13	66-67	6.0 mA	n/a	good	n/a
+2830.887207	0.0002	electrical_stimulation	n/a	n/a	5797657	n/a	biphasic	RX12-RX13	66-67	6.0 mA	n/a	bad	n/a
+2873.441895	0.0002	electrical_stimulation	n/a	n/a	5884809	n/a	biphasic	RX13-RX14	67-68	6.0 mA	n/a	good	artifacts fixed when reference RN5
+2876.197266	0.0002	electrical_stimulation	n/a	n/a	5890452	n/a	biphasic	RX13-RX14	67-68	6.0 mA	n/a	good	artifacts fixed when reference RN5
+2879.883301	0.0002	electrical_stimulation	n/a	n/a	5898001	n/a	biphasic	RX13-RX14	67-68	6.0 mA	n/a	good	artifact fixed when reference RN5
+2882.906738	0.0002	electrical_stimulation	n/a	n/a	5904193	n/a	biphasic	RX13-RX14	67-68	6.0 mA	n/a	good	artifact fixed when reference RN5
+2885.998047	0.0002	electrical_stimulation	n/a	n/a	5910524	n/a	biphasic	RX13-RX14	67-68	6.0 mA	n/a	bad	n/a
+2888.766602	0.0002	electrical_stimulation	n/a	n/a	5916194	n/a	biphasic	RX13-RX14	67-68	6.0 mA	n/a	bad	n/a
+2891.508789	0.0002	electrical_stimulation	n/a	n/a	5921810	n/a	biphasic	RX13-RX14	67-68	6.0 mA	n/a	good	artifacts fixed when referencing to RN5
+2894.527344	0.0002	electrical_stimulation	n/a	n/a	5927992	n/a	biphasic	RX13-RX14	67-68	6.0 mA	n/a	good	n/a
+2904.263672	0.0002	electrical_stimulation	n/a	n/a	5947932	n/a	biphasic	RX13-RX14	67-68	6.0 mA	n/a	good	n/a
+2907.356934	0.0002	electrical_stimulation	n/a	n/a	5954267	n/a	biphasic	RX13-RX14	67-68	6.0 mA	n/a	good	n/a
+2932.598633	0.0002	electrical_stimulation	n/a	n/a	6005962	n/a	biphasic	RX14-RX15	68-69	6.0 mA	n/a	bad	n/a
+2935.849121	0.0002	electrical_stimulation	n/a	n/a	6012619	n/a	biphasic	RX14-RX15	68-69	6.0 mA	n/a	good	n/a
+2938.320313	0.0002	electrical_stimulation	n/a	n/a	6017680	n/a	biphasic	RX14-RX15	68-69	6.0 mA	n/a	good	n/a
+2941.594238	0.0002	electrical_stimulation	n/a	n/a	6024385	n/a	biphasic	RX14-RX15	68-69	6.0 mA	n/a	good	n/a
+2945.05127	0.0002	electrical_stimulation	n/a	n/a	6031465	n/a	biphasic	RX14-RX15	68-69	6.0 mA	n/a	good	n/a
+2947.334473	0.0002	electrical_stimulation	n/a	n/a	6036141	n/a	biphasic	RX14-RX15	68-69	6.0 mA	n/a	good	n/a
+2949.951172	0.0002	electrical_stimulation	n/a	n/a	6041500	n/a	biphasic	RX14-RX15	68-69	6.0 mA	n/a	good	n/a
+2952.693848	0.0002	electrical_stimulation	n/a	n/a	6047117	n/a	biphasic	RX14-RX15	68-69	6.0 mA	n/a	good	n/a
+2955.461914	0.0002	electrical_stimulation	n/a	n/a	6052786	n/a	biphasic	RX14-RX15	68-69	6.0 mA	n/a	bad	n/a
+2958.547852	0.0002	electrical_stimulation	n/a	n/a	6059106	n/a	biphasic	RX14-RX15	68-69	6.0 mA	n/a	good	n/a
+2962.114258	0.0002	electrical_stimulation	n/a	n/a	6066410	n/a	biphasic	RX14-RX15	68-69	6.0 mA	n/a	good	n/a
+3015.389648	0.0002	electrical_stimulation	n/a	n/a	6175518	n/a	biphasic	RS1-RS2	43-44	6.0 mA	n/a	good	noise fixed when referencing to RN5
+3019.169922	0.0002	electrical_stimulation	n/a	n/a	6183260	n/a	biphasic	RS1-RS2	43-44	6.0 mA	n/a	bad	n/a
+3023.90332	0.0002	electrical_stimulation	n/a	n/a	6192954	n/a	biphasic	RS1-RS2	43-44	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+3028.282227	0.0002	electrical_stimulation	n/a	n/a	6201922	n/a	biphasic	RS1-RS2	43-44	6.0 mA	n/a	good	n/a
+3031.827637	0.0002	electrical_stimulation	n/a	n/a	6209183	n/a	biphasic	RS1-RS2	43-44	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+3035.883301	0.0002	electrical_stimulation	n/a	n/a	6217489	n/a	biphasic	RS1-RS2	43-44	6.0 mA	n/a	bad	n/a
+3045.194336	0.0002	electrical_stimulation	n/a	n/a	6236558	n/a	biphasic	RS1-RS2	43-44	6.0 mA	n/a	good	noise fixed when referencing to RN5
+3049.370117	0.0002	electrical_stimulation	n/a	n/a	6245110	n/a	biphasic	RS1-RS2	43-44	6.0 mA	n/a	good	artifacts fixed when referencing to RN5
+3052.67041	0.0002	electrical_stimulation	n/a	n/a	6251869	n/a	biphasic	RS1-RS2	43-44	6.0 mA	n/a	good	noise fixed when referencing to RN5
+3057.998535	0.0002	electrical_stimulation	n/a	n/a	6262781	n/a	biphasic	RS1-RS2	43-44	6.0 mA	n/a	good	noise fixed when referencing to RN5
+3086.799805	0.0002	electrical_stimulation	n/a	n/a	6321766	n/a	biphasic	RS4-RS5	46-47	6.0 mA	n/a	bad	RP14 bad channel
+3090.092285	0.0002	electrical_stimulation	n/a	n/a	6328509	n/a	biphasic	RS4-RS5	46-47	6.0 mA	n/a	good	epileptic activity before stim and RP14 bad channels
+3094.226563	0.0002	electrical_stimulation	n/a	n/a	6336976	n/a	biphasic	RS4-RS5	46-47	6.0 mA	n/a	good	RP14 bad channel
+3098.230469	0.0002	electrical_stimulation	n/a	n/a	6345176	n/a	biphasic	RS4-RS5	46-47	6.0 mA	n/a	bad	RP14 bad channel & artifact fixed when referencing to RN5
+3103.037109	0.0002	electrical_stimulation	n/a	n/a	6355020	n/a	biphasic	RS4-RS5	46-47	6.0 mA	n/a	bad	RP14 bad channel & artifact fixed when referencing to RN6
+3109.991699	0.0002	electrical_stimulation	n/a	n/a	6369263	n/a	biphasic	RS4-RS5	46-47	6.0 mA	n/a	good	RP14 bad channel
+3113.505371	0.0002	electrical_stimulation	n/a	n/a	6376459	n/a	biphasic	RS4-RS5	46-47	6.0 mA	n/a	good	RP14 bad channel
+3117.759277	0.0002	electrical_stimulation	n/a	n/a	6385171	n/a	biphasic	RS4-RS5	46-47	6.0 mA	n/a	good	RP14 bad channel
+3121.498047	0.0002	electrical_stimulation	n/a	n/a	6392828	n/a	biphasic	RS4-RS5	46-47	6.0 mA	n/a	good	RP14 bad channel
+3125.303223	0.0002	electrical_stimulation	n/a	n/a	6400621	n/a	biphasic	RS4-RS5	46-47	6.0 mA	n/a	good	RP14 bad channel
+3163.111328	0.0002	electrical_stimulation	n/a	n/a	6478052	n/a	biphasic	RS7-RS8	49-50	6.0 mA	n/a	good	n/a
+3166.056641	0.0002	electrical_stimulation	n/a	n/a	6484084	n/a	biphasic	RS7-RS8	49-50	6.0 mA	n/a	good	n/a
+3169.606934	0.0002	electrical_stimulation	n/a	n/a	6491355	n/a	biphasic	RS7-RS8	49-50	6.0 mA	n/a	good	n/a
+3173.146973	0.0002	electrical_stimulation	n/a	n/a	6498605	n/a	biphasic	RS7-RS8	49-50	6.0 mA	n/a	good	n/a
+3176.666016	0.0002	electrical_stimulation	n/a	n/a	6505812	n/a	biphasic	RS7-RS8	49-50	6.0 mA	n/a	good	n/a
+3180.231934	0.0002	electrical_stimulation	n/a	n/a	6513115	n/a	biphasic	RS7-RS8	49-50	6.0 mA	n/a	good	n/a
+3183.755859	0.0002	electrical_stimulation	n/a	n/a	6520332	n/a	biphasic	RS7-RS8	49-50	6.0 mA	n/a	good	n/a
+3187.20752	0.0002	electrical_stimulation	n/a	n/a	6527401	n/a	biphasic	RS7-RS8	49-50	6.0 mA	n/a	good	n/a
+3190.674316	0.0002	electrical_stimulation	n/a	n/a	6534501	n/a	biphasic	RS7-RS8	49-50	6.0 mA	n/a	good	n/a
+3194.240234	0.0002	electrical_stimulation	n/a	n/a	6541804	n/a	biphasic	RS7-RS8	49-50	6.0 mA	n/a	good	n/a
+3218.702148	0.0002	electrical_stimulation	n/a	n/a	6591902	n/a	biphasic	RS8-RS9	50-51	6.0 mA	n/a	bad	bad channels
+3221.42334	0.0002	electrical_stimulation	n/a	n/a	6597475	n/a	biphasic	RS8-RS9	50-51	6.0 mA	n/a	good	n/a
+3224.108887	0.0002	electrical_stimulation	n/a	n/a	6602975	n/a	biphasic	RS8-RS9	50-51	6.0 mA	n/a	good	n/a
+3227.450195	0.0002	electrical_stimulation	n/a	n/a	6609818	n/a	biphasic	RS8-RS9	50-51	6.0 mA	n/a	good	n/a
+3230.817871	0.0002	electrical_stimulation	n/a	n/a	6616715	n/a	biphasic	RS8-RS9	50-51	6.0 mA	n/a	good	n/a
+3234.305664	0.0002	electrical_stimulation	n/a	n/a	6623858	n/a	biphasic	RS8-RS9	50-51	6.0 mA	n/a	good	n/a
+3237.110352	0.0002	electrical_stimulation	n/a	n/a	6629602	n/a	biphasic	RS8-RS9	50-51	6.0 mA	n/a	good	n/a
+3239.98291	0.0002	electrical_stimulation	n/a	n/a	6635485	n/a	biphasic	RS8-RS9	50-51	6.0 mA	n/a	good	n/a
+3242.714844	0.0002	electrical_stimulation	n/a	n/a	6641080	n/a	biphasic	RS8-RS9	50-51	6.0 mA	n/a	good	n/a
+3245.691406	0.0002	electrical_stimulation	n/a	n/a	6647176	n/a	biphasic	RS8-RS9	50-51	6.0 mA	n/a	good	n/a
+3268.09668	0.0002	electrical_stimulation	n/a	n/a	6693062	n/a	biphasic	RS9-RS10	51-52	6.0 mA	n/a	bad	bad channels
+3272.024414	0.0002	electrical_stimulation	n/a	n/a	6701106	n/a	biphasic	RS9-RS10	51-52	6.0 mA	n/a	good	n/a
+3274.699219	0.0002	electrical_stimulation	n/a	n/a	6706584	n/a	biphasic	RS9-RS10	51-52	6.0 mA	n/a	good	n/a
+3277.587891	0.0002	electrical_stimulation	n/a	n/a	6712500	n/a	biphasic	RS9-RS10	51-52	6.0 mA	n/a	bad	onset wrong 
+3280.439453	0.0002	electrical_stimulation	n/a	n/a	6718340	n/a	biphasic	RS9-RS10	51-52	6.0 mA	n/a	good	n/a
+3283.34375	0.0002	electrical_stimulation	n/a	n/a	6724288	n/a	biphasic	RS9-RS10	51-52	6.0 mA	n/a	bad	onset wrong
+3286.301758	0.0002	electrical_stimulation	n/a	n/a	6730346	n/a	biphasic	RS9-RS10	51-52	6.0 mA	n/a	bad	onset wrong
+3289.427246	0.0002	electrical_stimulation	n/a	n/a	6736747	n/a	biphasic	RS9-RS10	51-52	6.0 mA	n/a	good	n/a
+3292.337402	0.0002	electrical_stimulation	n/a	n/a	6742707	n/a	biphasic	RS9-RS10	51-52	6.0 mA	n/a	bad	onset wrong
+3295.733887	0.0002	electrical_stimulation	n/a	n/a	6749663	n/a	biphasic	RS9-RS10	51-52	6.0 mA	n/a	bad	onset wrong
+3322.682617	0.0002	electrical_stimulation	n/a	n/a	6804854	n/a	biphasic	RS10-RS11	52-53	6.0 mA	n/a	bad	bad channels
+3325.787598	0.0002	electrical_stimulation	n/a	n/a	6811213	n/a	biphasic	RS10-RS11	52-53	6.0 mA	n/a	bad	onset wrong
+3328.976563	0.0002	electrical_stimulation	n/a	n/a	6817744	n/a	biphasic	RS10-RS11	52-53	6.0 mA	n/a	good	n/a
+3331.338379	0.0002	electrical_stimulation	n/a	n/a	6822581	n/a	biphasic	RS10-RS11	52-53	6.0 mA	n/a	good	n/a
+3334.210938	0.0002	electrical_stimulation	n/a	n/a	6828464	n/a	biphasic	RS10-RS11	52-53	6.0 mA	n/a	good	n/a
+3336.749512	0.0002	electrical_stimulation	n/a	n/a	6833663	n/a	biphasic	RS10-RS11	52-53	6.0 mA	n/a	good	n/a
+3339.408691	0.0002	electrical_stimulation	n/a	n/a	6839109	n/a	biphasic	RS10-RS11	52-53	6.0 mA	n/a	good	n/a
+3343.162109	0.0002	electrical_stimulation	n/a	n/a	6846796	n/a	biphasic	RS10-RS11	52-53	6.0 mA	n/a	good	n/a
+3346.300781	0.0002	electrical_stimulation	n/a	n/a	6853224	n/a	biphasic	RS10-RS11	52-53	6.0 mA	n/a	bad	n/a
+3350.289551	0.0002	electrical_stimulation	n/a	n/a	6861393	n/a	biphasic	RS10-RS11	52-53	6.0 mA	n/a	good	n/a
+3397.999512	0.0002	electrical_stimulation	n/a	n/a	6959103	n/a	biphasic	RS11-RS12	53-54	6.0 mA	n/a	good	n/a
+3401.022949	0.0002	electrical_stimulation	n/a	n/a	6965295	n/a	biphasic	RS11-RS12	53-54	6.0 mA	n/a	good	Artifact fixed when referencing to RN5
+3403.849121	0.0002	electrical_stimulation	n/a	n/a	6971083	n/a	biphasic	RS11-RS12	53-54	6.0 mA	n/a	good	n/a
+3406.940918	0.0002	electrical_stimulation	n/a	n/a	6977415	n/a	biphasic	RS11-RS12	53-54	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+3410.282227	0.0002	electrical_stimulation	n/a	n/a	6984258	n/a	biphasic	RS11-RS12	53-54	6.0 mA	n/a	good	n/a
+3414.134766	0.0002	electrical_stimulation	n/a	n/a	6992148	n/a	biphasic	RS11-RS12	53-54	6.0 mA	n/a	good	artifacts fixed when referencing to RN5
+3416.730957	0.0002	electrical_stimulation	n/a	n/a	6997465	n/a	biphasic	RS11-RS12	53-54	6.0 mA	n/a	good	n/a
+3419.681641	0.0002	electrical_stimulation	n/a	n/a	7003508	n/a	biphasic	RS11-RS12	53-54	6.0 mA	n/a	good	n/a
+3422.877441	0.0002	electrical_stimulation	n/a	n/a	7010053	n/a	biphasic	RS11-RS12	53-54	6.0 mA	n/a	good	n/a
+3426.89209	0.0002	electrical_stimulation	n/a	n/a	7018275	n/a	biphasic	RS11-RS12	53-54	6.0 mA	n/a	good	n/a
+3465.596191	0.0002	electrical_stimulation	n/a	n/a	7097541	n/a	biphasic	RN1-RN2	29-30	6.0 mA	n/a	bad	n/a
+3468.666992	0.0002	electrical_stimulation	n/a	n/a	7103830	n/a	biphasic	RN1-RN2	29-30	6.0 mA	n/a	bad	n/a
+3471.716797	0.0002	electrical_stimulation	n/a	n/a	7110076	n/a	biphasic	RN1-RN2	29-30	6.0 mA	n/a	good	n/a
+3474.714844	0.0002	electrical_stimulation	n/a	n/a	7116216	n/a	biphasic	RN1-RN2	29-30	6.0 mA	n/a	good	artifact fixed when referencing to RX1
+3477.503418	0.0002	electrical_stimulation	n/a	n/a	7121927	n/a	biphasic	RN1-RN2	29-30	6.0 mA	n/a	good	n/a
+3480.496094	0.0002	electrical_stimulation	n/a	n/a	7128056	n/a	biphasic	RN1-RN2	29-30	6.0 mA	n/a	good	n/a
+3483.692383	0.0002	electrical_stimulation	n/a	n/a	7134602	n/a	biphasic	RN1-RN2	29-30	6.0 mA	n/a	good	artifacts fixed when referencing to RN5
+3487.648926	0.0002	electrical_stimulation	n/a	n/a	7142705	n/a	biphasic	RN1-RN2	29-30	6.0 mA	n/a	good	artifacts fixed when referencing to RX1
+3491.768066	0.0002	electrical_stimulation	n/a	n/a	7151141	n/a	biphasic	RN1-RN2	29-30	6.0 mA	n/a	good	artifacts fixed when referencing to RX1
+3495.40625	0.0002	electrical_stimulation	n/a	n/a	7158592	n/a	biphasic	RN1-RN2	29-30	6.0 mA	n/a	good	fixed when referencing to RX1
+3517.080078	0.0002	electrical_stimulation	n/a	n/a	7202980	n/a	biphasic	RN2-RN3	30-31	6.0 mA	n/a	bad	bad channels
+3521.646484	0.0002	electrical_stimulation	n/a	n/a	7212332	n/a	biphasic	RN2-RN3	30-31	6.0 mA	n/a	good	n/a
+3525.780273	0.0002	electrical_stimulation	n/a	n/a	7220798	n/a	biphasic	RN2-RN3	30-31	6.0 mA	n/a	good	n/a
+3529.825684	0.0002	electrical_stimulation	n/a	n/a	7229083	n/a	biphasic	RN2-RN3	30-31	6.0 mA	n/a	good	n/a
+3534.001953	0.0002	electrical_stimulation	n/a	n/a	7237636	n/a	biphasic	RN2-RN3	30-31	6.0 mA	n/a	good	n/a
+3536.916016	0.0002	electrical_stimulation	n/a	n/a	7243604	n/a	biphasic	RN2-RN3	30-31	6.0 mA	n/a	good	n/a
+3540.252441	0.0002	electrical_stimulation	n/a	n/a	7250437	n/a	biphasic	RN2-RN3	30-31	6.0 mA	n/a	good	n/a
+3543.099121	0.0002	electrical_stimulation	n/a	n/a	7256267	n/a	biphasic	RN2-RN3	30-31	6.0 mA	n/a	good	n/a
+3545.992188	0.0002	electrical_stimulation	n/a	n/a	7262192	n/a	biphasic	RN2-RN3	30-31	6.0 mA	n/a	good	n/a
+3549.302734	0.0002	electrical_stimulation	n/a	n/a	7268972	n/a	biphasic	RN2-RN3	30-31	6.0 mA	n/a	good	n/a
+3572.998047	0.0002	electrical_stimulation	n/a	n/a	7317500	n/a	biphasic	RN3-RN4	31-32	6.0 mA	n/a	bad	bad channels
+3576.257324	0.0002	electrical_stimulation	n/a	n/a	7324175	n/a	biphasic	RN3-RN4	31-32	6.0 mA	n/a	good	noise fixed when referencing to RX1
+3579.499512	0.0002	electrical_stimulation	n/a	n/a	7330815	n/a	biphasic	RN3-RN4	31-32	6.0 mA	n/a	good	noise fixed when referencing to RX1
+3581.683594	0.0002	electrical_stimulation	n/a	n/a	7335288	n/a	biphasic	RN3-RN4	31-32	6.0 mA	n/a	good	noise fixed when referencing to RX1
+3584.170898	0.0002	electrical_stimulation	n/a	n/a	7340382	n/a	biphasic	RN3-RN4	31-32	6.0 mA	n/a	good	noise fixed when referencing to RX1
+3586.887207	0.0002	electrical_stimulation	n/a	n/a	7345945	n/a	biphasic	RN3-RN4	31-32	6.0 mA	n/a	good	noise fixed when referencing to RX1
+3590.035645	0.0002	electrical_stimulation	n/a	n/a	7352393	n/a	biphasic	RN3-RN4	31-32	6.0 mA	n/a	good	noise fixed when referencing to RX1
+3593.101074	0.0002	electrical_stimulation	n/a	n/a	7358671	n/a	biphasic	RN3-RN4	31-32	6.0 mA	n/a	good	artifacts fixed when referencing to RX1
+3595.812012	0.0002	electrical_stimulation	n/a	n/a	7364223	n/a	biphasic	RN3-RN4	31-32	6.0 mA	n/a	good	noise fixed when referencing to RX1
+3600.624023	0.0002	electrical_stimulation	n/a	n/a	7374078	n/a	biphasic	RN3-RN4	31-32	6.0 mA	n/a	good	artifact fixed when referencing to RX1
+3603.611328	0.0002	electrical_stimulation	n/a	n/a	7380196	n/a	biphasic	RN3-RN4	31-32	6.0 mA	n/a	good	artifact fixed when referencing to RX1
+3631.706055	0.0002	electrical_stimulation	n/a	n/a	7437734	n/a	biphasic	RN7-RN8	35-36	6.0 mA	n/a	bad	bad channels
+3636.357422	0.0002	electrical_stimulation	n/a	n/a	7447260	n/a	biphasic	RN7-RN8	35-36	6.0 mA	n/a	good	artifact fixed when referencing to RX1
+3640.188965	0.0002	electrical_stimulation	n/a	n/a	7455107	n/a	biphasic	RN7-RN8	35-36	6.0 mA	n/a	good	artifact fixed when referencing to RX1
+3644.15625	0.0002	electrical_stimulation	n/a	n/a	7463232	n/a	biphasic	RN7-RN8	35-36	6.0 mA	n/a	good	artifact fixed when referencing to RX1
+3655.85498	0.0002	electrical_stimulation	n/a	n/a	7487191	n/a	biphasic	RN7-RN8	35-36	6.0 mA	n/a	good	n/a
+3659.092773	0.0002	electrical_stimulation	n/a	n/a	7493822	n/a	biphasic	RN7-RN8	35-36	6.0 mA	n/a	good	artifact fixed when referencing to RX1
+3662.74707	0.0002	electrical_stimulation	n/a	n/a	7501306	n/a	biphasic	RN7-RN8	35-36	6.0 mA	n/a	bad	n/a
+3665.494629	0.0002	electrical_stimulation	n/a	n/a	7506933	n/a	biphasic	RN7-RN8	35-36	6.0 mA	n/a	good	artifact fixed when referencing to RX1
+3668.695313	0.0002	electrical_stimulation	n/a	n/a	7513488	n/a	biphasic	RN7-RN8	35-36	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+3672.475098	0.0002	electrical_stimulation	n/a	n/a	7521229	n/a	biphasic	RN7-RN8	35-36	6.0 mA	n/a	good	n/a
+3697.612793	0.0002	electrical_stimulation	n/a	n/a	7572711	n/a	biphasic	RN8-RN9	36-37	6.0 mA	n/a	good	n/a
+3700.774902	0.0002	electrical_stimulation	n/a	n/a	7579187	n/a	biphasic	RN8-RN9	36-37	6.0 mA	n/a	good	n/a
+3703.756836	0.0002	electrical_stimulation	n/a	n/a	7585294	n/a	biphasic	RN8-RN9	36-37	6.0 mA	n/a	good	n/a
+3706.671387	0.0002	electrical_stimulation	n/a	n/a	7591263	n/a	biphasic	RN8-RN9	36-37	6.0 mA	n/a	good	n/a
+3710.039063	0.0002	electrical_stimulation	n/a	n/a	7598160	n/a	biphasic	RN8-RN9	36-37	6.0 mA	n/a	good	n/a
+3715.138672	0.0002	electrical_stimulation	n/a	n/a	7608604	n/a	biphasic	RN8-RN9	36-37	6.0 mA	n/a	good	n/a
+3718.29248	0.0002	electrical_stimulation	n/a	n/a	7615063	n/a	biphasic	RN8-RN9	36-37	6.0 mA	n/a	bad	artifacts fixed when referencing to RX1
+3721.868164	0.0002	electrical_stimulation	n/a	n/a	7622386	n/a	biphasic	RN8-RN9	36-37	6.0 mA	n/a	good	n/a
+3725.574707	0.0002	electrical_stimulation	n/a	n/a	7629977	n/a	biphasic	RN8-RN9	36-37	6.0 mA	n/a	bad	artifacts fixed when referencing to RX1
+3730.131348	0.0002	electrical_stimulation	n/a	n/a	7639309	n/a	biphasic	RN8-RN9	36-37	6.0 mA	n/a	good	n/a
+3754.523926	0.0002	electrical_stimulation	n/a	n/a	7689265	n/a	biphasic	RN9-RN10	37-38	6.0 mA	n/a	bad	bad channels
+3757.388672	0.0002	electrical_stimulation	n/a	n/a	7695132	n/a	biphasic	RN9-RN10	37-38	6.0 mA	n/a	good	n/a
+3759.614746	0.0002	electrical_stimulation	n/a	n/a	7699691	n/a	biphasic	RN9-RN10	37-38	6.0 mA	n/a	good	n/a
+3762.435059	0.0002	electrical_stimulation	n/a	n/a	7705467	n/a	biphasic	RN9-RN10	37-38	6.0 mA	n/a	good	n/a
+3764.838379	0.0002	electrical_stimulation	n/a	n/a	7710389	n/a	biphasic	RN9-RN10	37-38	6.0 mA	n/a	good	n/a
+3767.554688	0.0002	electrical_stimulation	n/a	n/a	7715952	n/a	biphasic	RN9-RN10	37-38	6.0 mA	n/a	good	n/a
+3770.609863	0.0002	electrical_stimulation	n/a	n/a	7722209	n/a	biphasic	RN9-RN10	37-38	6.0 mA	n/a	good	n/a
+3773.503418	0.0002	electrical_stimulation	n/a	n/a	7728135	n/a	biphasic	RN9-RN10	37-38	6.0 mA	n/a	good	n/a
+3776.349609	0.0002	electrical_stimulation	n/a	n/a	7733964	n/a	biphasic	RN9-RN10	37-38	6.0 mA	n/a	good	artifacts fixed when referencing to RX1
+3779.222168	0.0002	electrical_stimulation	n/a	n/a	7739847	n/a	biphasic	RN9-RN10	37-38	6.0 mA	n/a	good	artifacts fixed when referencing to RX1
+3806.987793	0.0002	electrical_stimulation	n/a	n/a	7796711	n/a	biphasic	RN10-RN11	38-39	6.0 mA	n/a	good	artifacts fixed when referencing to RN5
+3809.644531	0.0002	electrical_stimulation	n/a	n/a	7802152	n/a	biphasic	RN10-RN11	38-39	6.0 mA	n/a	good	n/a
+3812.141113	0.0002	electrical_stimulation	n/a	n/a	7807265	n/a	biphasic	RN10-RN11	38-39	6.0 mA	n/a	good	n/a
+3814.940918	0.0002	electrical_stimulation	n/a	n/a	7812999	n/a	biphasic	RN10-RN11	38-39	6.0 mA	n/a	good	artifacts fixed when referencing to RN5
+3817.411621	0.0002	electrical_stimulation	n/a	n/a	7818059	n/a	biphasic	RN10-RN11	38-39	6.0 mA	n/a	good	artifacts fixed when referencing to RN5
+3820.759277	0.0002	electrical_stimulation	n/a	n/a	7824915	n/a	biphasic	RN10-RN11	38-39	6.0 mA	n/a	good	n/a
+3823.32373	0.0002	electrical_stimulation	n/a	n/a	7830167	n/a	biphasic	RN10-RN11	38-39	6.0 mA	n/a	good	n/a
+3826.186035	0.0002	electrical_stimulation	n/a	n/a	7836029	n/a	biphasic	RN10-RN11	38-39	6.0 mA	n/a	good	n/a
+3828.782227	0.0002	electrical_stimulation	n/a	n/a	7841346	n/a	biphasic	RN10-RN11	38-39	6.0 mA	n/a	good	n/a
+3832.035645	0.0002	electrical_stimulation	n/a	n/a	7848009	n/a	biphasic	RN10-RN11	38-39	6.0 mA	n/a	good	n/a
+3857.201172	0.0002	electrical_stimulation	n/a	n/a	7899548	n/a	biphasic	RN11-RN12	39-40	6.0 mA	n/a	good	n/a
+3863.118164	0.0002	electrical_stimulation	n/a	n/a	7911666	n/a	biphasic	RN11-RN12	39-40	6.0 mA	n/a	good	n/a
+3865.391113	0.0002	electrical_stimulation	n/a	n/a	7916321	n/a	biphasic	RN11-RN12	39-40	6.0 mA	n/a	bad	n/a
+3868.373535	0.0002	electrical_stimulation	n/a	n/a	7922429	n/a	biphasic	RN11-RN12	39-40	6.0 mA	n/a	good	artifacts fixed when referencing to RN5
+3875.791504	0.0002	electrical_stimulation	n/a	n/a	7937621	n/a	biphasic	RN11-RN12	39-40	6.0 mA	n/a	good	n/a
+3879.821777	0.0002	electrical_stimulation	n/a	n/a	7945875	n/a	biphasic	RN11-RN12	39-40	6.0 mA	n/a	good	n/a
+3883.731934	0.0002	electrical_stimulation	n/a	n/a	7953883	n/a	biphasic	RN11-RN12	39-40	6.0 mA	n/a	bad	n/a
+3887.178223	0.0002	electrical_stimulation	n/a	n/a	7960941	n/a	biphasic	RN11-RN12	39-40	6.0 mA	n/a	good	n/a
+3890.561035	0.0002	electrical_stimulation	n/a	n/a	7967869	n/a	biphasic	RN11-RN12	39-40	6.0 mA	n/a	good	n/a
+3928.530762	0.0002	electrical_stimulation	n/a	n/a	8045631	n/a	biphasic	RC1-RC2	15-16	6.0 mA	n/a	bad	bad channels
+3931.68457	0.0002	electrical_stimulation	n/a	n/a	8052090	n/a	biphasic	RC1-RC2	15-16	6.0 mA	n/a	good	n/a
+3934.588379	0.0002	electrical_stimulation	n/a	n/a	8058037	n/a	biphasic	RC1-RC2	15-16	6.0 mA	n/a	good	n/a
+3937.27832	0.0002	electrical_stimulation	n/a	n/a	8063546	n/a	biphasic	RC1-RC2	15-16	6.0 mA	n/a	good	n/a
+3940.479492	0.0002	electrical_stimulation	n/a	n/a	8070102	n/a	biphasic	RC1-RC2	15-16	6.0 mA	n/a	good	n/a
+3945.051758	0.0002	electrical_stimulation	n/a	n/a	8079466	n/a	biphasic	RC1-RC2	15-16	6.0 mA	n/a	good	artifacts fixed when referencing to RN5
+3948.685059	0.0002	electrical_stimulation	n/a	n/a	8086907	n/a	biphasic	RC1-RC2	15-16	6.0 mA	n/a	good	n/a
+3952.449219	0.0002	electrical_stimulation	n/a	n/a	8094616	n/a	biphasic	RC1-RC2	15-16	6.0 mA	n/a	good	n/a
+3956.265625	0.0002	electrical_stimulation	n/a	n/a	8102432	n/a	biphasic	RC1-RC2	15-16	6.0 mA	n/a	good	artifacts fixed when referencing to RN5
+3960.123535	0.0002	electrical_stimulation	n/a	n/a	8110333	n/a	biphasic	RC1-RC2	15-16	6.0 mA	n/a	good	n/a
+3980.691406	0.0002	electrical_stimulation	n/a	n/a	8152456	n/a	biphasic	RC2-RC3	16-17	6.0 mA	n/a	bad	n/a
+3984.022461	0.0002	electrical_stimulation	n/a	n/a	8159278	n/a	biphasic	RC2-RC3	16-17	6.0 mA	n/a	good	n/a
+3987.353516	0.0002	electrical_stimulation	n/a	n/a	8166100	n/a	biphasic	RC2-RC3	16-17	6.0 mA	n/a	good	n/a
+3991.279785	0.0002	electrical_stimulation	n/a	n/a	8174141	n/a	biphasic	RC2-RC3	16-17	6.0 mA	n/a	good	n/a
+3994.809082	0.0002	electrical_stimulation	n/a	n/a	8181369	n/a	biphasic	RC2-RC3	16-17	6.0 mA	n/a	good	n/a
+3998.155762	0.0002	electrical_stimulation	n/a	n/a	8188223	n/a	biphasic	RC2-RC3	16-17	6.0 mA	n/a	good	n/a
+4001.685059	0.0002	electrical_stimulation	n/a	n/a	8195451	n/a	biphasic	RC2-RC3	16-17	6.0 mA	n/a	good	n/a
+4005.553711	0.0002	electrical_stimulation	n/a	n/a	8203374	n/a	biphasic	RC2-RC3	16-17	6.0 mA	n/a	good	n/a
+4009.745117	0.0002	electrical_stimulation	n/a	n/a	8211958	n/a	biphasic	RC2-RC3	16-17	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+4013.864258	0.0002	electrical_stimulation	n/a	n/a	8220394	n/a	biphasic	RC2-RC3	16-17	6.0 mA	n/a	good	n/a
+4038.34668	0.0002	electrical_stimulation	n/a	n/a	8270534	n/a	biphasic	RC3-RC4	17-18	6.0 mA	n/a	good	n/a
+4041.395996	0.0002	electrical_stimulation	n/a	n/a	8276779	n/a	biphasic	RC3-RC4	17-18	6.0 mA	n/a	good	n/a
+4044.388672	0.0002	electrical_stimulation	n/a	n/a	8282908	n/a	biphasic	RC3-RC4	17-18	6.0 mA	n/a	good	n/a
+4047.839844	0.0002	electrical_stimulation	n/a	n/a	8289976	n/a	biphasic	RC3-RC4	17-18	6.0 mA	n/a	good	n/a
+4053.631836	0.0002	electrical_stimulation	n/a	n/a	8301838	n/a	biphasic	RC3-RC4	17-18	6.0 mA	n/a	good	n/a
+4056.33252	0.0002	electrical_stimulation	n/a	n/a	8307369	n/a	biphasic	RC3-RC4	17-18	6.0 mA	n/a	good	n/a
+4059.194336	0.0002	electrical_stimulation	n/a	n/a	8313230	n/a	biphasic	RC3-RC4	17-18	6.0 mA	n/a	good	n/a
+4062.072266	0.0002	electrical_stimulation	n/a	n/a	8319124	n/a	biphasic	RC3-RC4	17-18	6.0 mA	n/a	good	n/a
+4065.236816	0.0002	electrical_stimulation	n/a	n/a	8325605	n/a	biphasic	RC3-RC4	17-18	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+4068.839355	0.0002	electrical_stimulation	n/a	n/a	8332983	n/a	biphasic	RC3-RC4	17-18	6.0 mA	n/a	good	n/a
+4095.157227	0.0002	electrical_stimulation	n/a	n/a	8386882	n/a	biphasic	RC4-RC5	18-19	6.0 mA	n/a	good	n/a
+4098.994141	0.0002	electrical_stimulation	n/a	n/a	8394740	n/a	biphasic	RC4-RC5	18-19	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+4102.033203	0.0002	electrical_stimulation	n/a	n/a	8400964	n/a	biphasic	RC4-RC5	18-19	6.0 mA	n/a	good	n/a
+4105.666992	0.0002	electrical_stimulation	n/a	n/a	8408406	n/a	biphasic	RC4-RC5	18-19	6.0 mA	n/a	good	n/a
+4109.290527	0.0002	electrical_stimulation	n/a	n/a	8415827	n/a	biphasic	RC4-RC5	18-19	6.0 mA	n/a	good	n/a
+4112.68457	0.0002	electrical_stimulation	n/a	n/a	8422778	n/a	biphasic	RC4-RC5	18-19	6.0 mA	n/a	good	n/a
+4115.796875	0.0002	electrical_stimulation	n/a	n/a	8429152	n/a	biphasic	RC4-RC5	18-19	6.0 mA	n/a	good	n/a
+4118.97168	0.0002	electrical_stimulation	n/a	n/a	8435654	n/a	biphasic	RC4-RC5	18-19	6.0 mA	n/a	good	n/a
+4121.844238	0.0002	electrical_stimulation	n/a	n/a	8441537	n/a	biphasic	RC4-RC5	18-19	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+4125.472656	0.0002	electrical_stimulation	n/a	n/a	8448968	n/a	biphasic	RC4-RC5	18-19	6.0 mA	n/a	good	n/a
+4146.556641	0.0002	electrical_stimulation	n/a	n/a	8492148	n/a	biphasic	RC5-RC6	19-20	6.0 mA	n/a	bad	bad channels
+4150.779297	0.0002	electrical_stimulation	n/a	n/a	8500796	n/a	biphasic	RC5-RC6	19-20	6.0 mA	n/a	good	n/a
+4155.069824	0.0002	electrical_stimulation	n/a	n/a	8509583	n/a	biphasic	RC5-RC6	19-20	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+4161.675293	0.0002	electrical_stimulation	n/a	n/a	8523111	n/a	biphasic	RC5-RC6	19-20	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+4164.151367	0.0002	electrical_stimulation	n/a	n/a	8528182	n/a	biphasic	RC5-RC6	19-20	6.0 mA	n/a	good	n/a
+4167.748535	0.0002	electrical_stimulation	n/a	n/a	8535549	n/a	biphasic	RC5-RC6	19-20	6.0 mA	n/a	good	n/a
+4170.605469	0.0002	electrical_stimulation	n/a	n/a	8541400	n/a	biphasic	RC5-RC6	19-20	6.0 mA	n/a	good	n/a
+4173.816895	0.0002	electrical_stimulation	n/a	n/a	8547977	n/a	biphasic	RC5-RC6	19-20	6.0 mA	n/a	good	n/a
+4176.830566	0.0002	electrical_stimulation	n/a	n/a	8554149	n/a	biphasic	RC5-RC6	19-20	6.0 mA	n/a	good	n/a
+4180.229492	0.0002	electrical_stimulation	n/a	n/a	8561110	n/a	biphasic	RC5-RC6	19-20	6.0 mA	n/a	good	n/a
+4182.825684	0.0002	electrical_stimulation	n/a	n/a	8566427	n/a	biphasic	RC5-RC6	19-20	6.0 mA	n/a	good	n/a
+4201.193848	0.0002	electrical_stimulation	n/a	n/a	8604045	n/a	biphasic	RC6-RC7	20-21	6.0 mA	n/a	good	n/a
+4204.290039	0.0002	electrical_stimulation	n/a	n/a	8610386	n/a	biphasic	RC6-RC7	20-21	6.0 mA	n/a	good	n/a
+4207.772461	0.0002	electrical_stimulation	n/a	n/a	8617518	n/a	biphasic	RC6-RC7	20-21	6.0 mA	n/a	good	n/a
+4210.869629	0.0002	electrical_stimulation	n/a	n/a	8623861	n/a	biphasic	RC6-RC7	20-21	6.0 mA	n/a	good	n/a
+4213.543945	0.0002	electrical_stimulation	n/a	n/a	8629338	n/a	biphasic	RC6-RC7	20-21	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+4216.567383	0.0002	electrical_stimulation	n/a	n/a	8635530	n/a	biphasic	RC6-RC7	20-21	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+4219.533691	0.0002	electrical_stimulation	n/a	n/a	8641605	n/a	biphasic	RC6-RC7	20-21	6.0 mA	n/a	good	n/a
+4222.641113	0.0002	electrical_stimulation	n/a	n/a	8647969	n/a	biphasic	RC6-RC7	20-21	6.0 mA	n/a	good	n/a
+4226.13916	0.0002	electrical_stimulation	n/a	n/a	8655133	n/a	biphasic	RC6-RC7	20-21	6.0 mA	n/a	good	n/a
+4228.766602	0.0002	electrical_stimulation	n/a	n/a	8660514	n/a	biphasic	RC6-RC7	20-21	6.0 mA	n/a	good	n/a
+4255.178711	0.0002	electrical_stimulation	n/a	n/a	8714606	n/a	biphasic	RC9-RC10	23-24	6.0 mA	n/a	bad	n/a
+4258.342773	0.0002	electrical_stimulation	n/a	n/a	8721086	n/a	biphasic	RC9-RC10	23-24	6.0 mA	n/a	good	n/a
+4261.377441	0.0002	electrical_stimulation	n/a	n/a	8727301	n/a	biphasic	RC9-RC10	23-24	6.0 mA	n/a	good	n/a
+4265.052246	0.0002	electrical_stimulation	n/a	n/a	8734827	n/a	biphasic	RC9-RC10	23-24	6.0 mA	n/a	good	n/a
+4268.603027	0.0002	electrical_stimulation	n/a	n/a	8742099	n/a	biphasic	RC9-RC10	23-24	6.0 mA	n/a	good	n/a
+4271.813965	0.0002	electrical_stimulation	n/a	n/a	8748675	n/a	biphasic	RC9-RC10	23-24	6.0 mA	n/a	good	n/a
+4274.681641	0.0002	electrical_stimulation	n/a	n/a	8754548	n/a	biphasic	RC9-RC10	23-24	6.0 mA	n/a	good	n/a
+4277.371582	0.0002	electrical_stimulation	n/a	n/a	8760057	n/a	biphasic	RC9-RC10	23-24	6.0 mA	n/a	good	n/a
+4280.546387	0.0002	electrical_stimulation	n/a	n/a	8766559	n/a	biphasic	RC9-RC10	23-24	6.0 mA	n/a	good	n/a
+4284.128418	0.0002	electrical_stimulation	n/a	n/a	8773895	n/a	biphasic	RC9-RC10	23-24	6.0 mA	n/a	good	n/a
+4306.770508	0.0002	electrical_stimulation	n/a	n/a	8820266	n/a	biphasic	RC10-RC11	24-25	6.0 mA	n/a	good	n/a
+4309.325195	0.0002	electrical_stimulation	n/a	n/a	8825498	n/a	biphasic	RC10-RC11	24-25	6.0 mA	n/a	good	n/a
+4311.73877	0.0002	electrical_stimulation	n/a	n/a	8830441	n/a	biphasic	RC10-RC11	24-25	6.0 mA	n/a	good	n/a
+4314.418457	0.0002	electrical_stimulation	n/a	n/a	8835929	n/a	biphasic	RC10-RC11	24-25	6.0 mA	n/a	good	n/a
+4317.035645	0.0002	electrical_stimulation	n/a	n/a	8841289	n/a	biphasic	RC10-RC11	24-25	6.0 mA	n/a	good	n/a
+4319.726074	0.0002	electrical_stimulation	n/a	n/a	8846799	n/a	biphasic	RC10-RC11	24-25	6.0 mA	n/a	good	n/a
+4322.702637	0.0002	electrical_stimulation	n/a	n/a	8852895	n/a	biphasic	RC10-RC11	24-25	6.0 mA	n/a	good	n/a
+4325.580566	0.0002	electrical_stimulation	n/a	n/a	8858789	n/a	biphasic	RC10-RC11	24-25	6.0 mA	n/a	good	n/a
+4327.796387	0.0002	electrical_stimulation	n/a	n/a	8863327	n/a	biphasic	RC10-RC11	24-25	6.0 mA	n/a	good	n/a
+4330.846191	0.0002	electrical_stimulation	n/a	n/a	8869573	n/a	biphasic	RC10-RC11	24-25	6.0 mA	n/a	good	n/a
+4352.944336	0.0002	electrical_stimulation	n/a	n/a	8914830	n/a	biphasic	RC11-RC12	25-26	6.0 mA	n/a	bad	n/a
+4355.949219	0.0002	electrical_stimulation	n/a	n/a	8920984	n/a	biphasic	RC11-RC12	25-26	6.0 mA	n/a	good	n/a
+4358.816406	0.0002	electrical_stimulation	n/a	n/a	8926856	n/a	biphasic	RC11-RC12	25-26	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+4361.77832	0.0002	electrical_stimulation	n/a	n/a	8932922	n/a	biphasic	RC11-RC12	25-26	6.0 mA	n/a	good	artifact fixed when referencing to RN6
+4364.587891	0.0002	electrical_stimulation	n/a	n/a	8938676	n/a	biphasic	RC11-RC12	25-26	6.0 mA	n/a	good	n/a
+4367.351074	0.0002	electrical_stimulation	n/a	n/a	8944335	n/a	biphasic	RC11-RC12	25-26	6.0 mA	n/a	good	n/a
+4370.254395	0.0002	electrical_stimulation	n/a	n/a	8950281	n/a	biphasic	RC11-RC12	25-26	6.0 mA	n/a	good	n/a
+4372.73584	0.0002	electrical_stimulation	n/a	n/a	8955363	n/a	biphasic	RC11-RC12	25-26	6.0 mA	n/a	good	n/a
+4375.817383	0.0002	electrical_stimulation	n/a	n/a	8961674	n/a	biphasic	RC11-RC12	25-26	6.0 mA	n/a	good	artifact fixed when referencing to RN6
+4378.575195	0.0002	electrical_stimulation	n/a	n/a	8967322	n/a	biphasic	RC11-RC12	25-26	6.0 mA	n/a	good	n/a
+4399.197266	0.0002	electrical_stimulation	n/a	n/a	9009556	n/a	biphasic	RC12-RC13	26-27	6.0 mA	n/a	bad	bad channels
+4402.010254	0.0002	electrical_stimulation	n/a	n/a	9015317	n/a	biphasic	RC12-RC13	26-27	6.0 mA	n/a	good	n/a
+4405.05957	0.0002	electrical_stimulation	n/a	n/a	9021562	n/a	biphasic	RC12-RC13	26-27	6.0 mA	n/a	good	artifact fixed when referencing to RN6
+4407.635254	0.0002	electrical_stimulation	n/a	n/a	9026837	n/a	biphasic	RC12-RC13	26-27	6.0 mA	n/a	good	artifact fixed when referencing to RN7
+4410.476563	0.0002	electrical_stimulation	n/a	n/a	9032656	n/a	biphasic	RC12-RC13	26-27	6.0 mA	n/a	good	artifact fixed when referencing to RN8
+4413.88623	0.0002	electrical_stimulation	n/a	n/a	9039639	n/a	biphasic	RC12-RC13	26-27	6.0 mA	n/a	good	artifact fixed when referencing to RN9
+4417.514648	0.0002	electrical_stimulation	n/a	n/a	9047070	n/a	biphasic	RC12-RC13	26-27	6.0 mA	n/a	bad	n/a
+4420.319336	0.0002	electrical_stimulation	n/a	n/a	9052814	n/a	biphasic	RC12-RC13	26-27	6.0 mA	n/a	good	n/a
+4422.920898	0.0002	electrical_stimulation	n/a	n/a	9058142	n/a	biphasic	RC12-RC13	26-27	6.0 mA	n/a	good	n/a
+4426.02832	0.0002	electrical_stimulation	n/a	n/a	9064506	n/a	biphasic	RC12-RC13	26-27	6.0 mA	n/a	good	n/a
+4428.691895	0.0002	electrical_stimulation	n/a	n/a	9069961	n/a	biphasic	RC12-RC13	26-27	6.0 mA	n/a	good	n/a
+4449.476563	0.0002	electrical_stimulation	n/a	n/a	9112528	n/a	biphasic	RC13-RC14	27-28	6.0 mA	n/a	bad	n/a
+4452.34082	0.0002	electrical_stimulation	n/a	n/a	9118394	n/a	biphasic	RC13-RC14	27-28	6.0 mA	n/a	good	n/a
+4455.495605	0.0002	electrical_stimulation	n/a	n/a	9124855	n/a	biphasic	RC13-RC14	27-28	6.0 mA	n/a	good	n/a
+4458.231934	0.0002	electrical_stimulation	n/a	n/a	9130459	n/a	biphasic	RC13-RC14	27-28	6.0 mA	n/a	good	n/a
+4460.979004	0.0002	electrical_stimulation	n/a	n/a	9136085	n/a	biphasic	RC13-RC14	27-28	6.0 mA	n/a	good	n/a
+4463.836426	0.0002	electrical_stimulation	n/a	n/a	9141937	n/a	biphasic	RC13-RC14	27-28	6.0 mA	n/a	good	n/a
+4466.286133	0.0002	electrical_stimulation	n/a	n/a	9146954	n/a	biphasic	RC13-RC14	27-28	6.0 mA	n/a	good	n/a
+4468.742188	0.0002	electrical_stimulation	n/a	n/a	9151984	n/a	biphasic	RC13-RC14	27-28	6.0 mA	n/a	good	n/a
+4471.525879	0.0002	electrical_stimulation	n/a	n/a	9157685	n/a	biphasic	RC13-RC14	27-28	6.0 mA	n/a	good	n/a
+4474.226563	0.0002	electrical_stimulation	n/a	n/a	9163216	n/a	biphasic	RC13-RC14	27-28	6.0 mA	n/a	good	n/a
+4499.126953	0.0002	electrical_stimulation	n/a	n/a	9214212	n/a	biphasic	RA1-RA2	2-Jan	6.0 mA	n/a	bad	n/a
+4502.437988	0.0002	electrical_stimulation	n/a	n/a	9220993	n/a	biphasic	RA1-RA2	2-Jan	6.0 mA	n/a	good	n/a
+4505.393555	0.0002	electrical_stimulation	n/a	n/a	9227046	n/a	biphasic	RA1-RA2	2-Jan	6.0 mA	n/a	good	n/a
+4508.996582	0.0002	electrical_stimulation	n/a	n/a	9234425	n/a	biphasic	RA1-RA2	2-Jan	6.0 mA	n/a	good	n/a
+4512.004395	0.0002	electrical_stimulation	n/a	n/a	9240585	n/a	biphasic	RA1-RA2	2-Jan	6.0 mA	n/a	good	artifact fixed when referencing to RN9
+4514.39209	0.0002	electrical_stimulation	n/a	n/a	9245475	n/a	biphasic	RA1-RA2	2-Jan	6.0 mA	n/a	good	artifact fixed when referencing to RN10
+4517.191406	0.0002	electrical_stimulation	n/a	n/a	9251208	n/a	biphasic	RA1-RA2	2-Jan	6.0 mA	n/a	good	n/a
+4520.188965	0.0002	electrical_stimulation	n/a	n/a	9257347	n/a	biphasic	RA1-RA2	2-Jan	6.0 mA	n/a	good	n/a
+4523.286133	0.0002	electrical_stimulation	n/a	n/a	9263690	n/a	biphasic	RA1-RA2	2-Jan	6.0 mA	n/a	good	n/a
+4526.585938	0.0002	electrical_stimulation	n/a	n/a	9270448	n/a	biphasic	RA1-RA2	2-Jan	6.0 mA	n/a	good	n/a
+4556.209473	0.0002	electrical_stimulation	n/a	n/a	9331117	n/a	biphasic	RA2-RA3	3-Feb	6.0 mA	n/a	good	n/a
+4559.686523	0.0002	electrical_stimulation	n/a	n/a	9338238	n/a	biphasic	RA2-RA3	3-Feb	6.0 mA	n/a	good	n/a
+4562.433594	0.0002	electrical_stimulation	n/a	n/a	9343864	n/a	biphasic	RA2-RA3	3-Feb	6.0 mA	n/a	good	n/a
+4565.42627	0.0002	electrical_stimulation	n/a	n/a	9349993	n/a	biphasic	RA2-RA3	3-Feb	6.0 mA	n/a	good	n/a
+4568.246582	0.0002	electrical_stimulation	n/a	n/a	9355769	n/a	biphasic	RA2-RA3	3-Feb	6.0 mA	n/a	good	n/a
+4570.540527	0.0002	electrical_stimulation	n/a	n/a	9360467	n/a	biphasic	RA2-RA3	3-Feb	6.0 mA	n/a	good	n/a
+4572.829102	0.0002	electrical_stimulation	n/a	n/a	9365154	n/a	biphasic	RA2-RA3	3-Feb	6.0 mA	n/a	bad	n/a
+4575.597656	0.0002	electrical_stimulation	n/a	n/a	9370824	n/a	biphasic	RA2-RA3	3-Feb	6.0 mA	n/a	good	n/a
+4578.501465	0.0002	electrical_stimulation	n/a	n/a	9376771	n/a	biphasic	RA2-RA3	3-Feb	6.0 mA	n/a	good	n/a
+4581.300781	0.0002	electrical_stimulation	n/a	n/a	9382504	n/a	biphasic	RA2-RA3	3-Feb	6.0 mA	n/a	good	n/a
+4601.26416	0.0002	electrical_stimulation	n/a	n/a	9423389	n/a	biphasic	RA3-RA4	4-Mar	6.0 mA	n/a	bad	bad channels
+4604.344727	0.0002	electrical_stimulation	n/a	n/a	9429698	n/a	biphasic	RA3-RA4	4-Mar	6.0 mA	n/a	good	n/a
+4607.222656	0.0002	electrical_stimulation	n/a	n/a	9435592	n/a	biphasic	RA3-RA4	4-Mar	6.0 mA	n/a	good	n/a
+4610.163086	0.0002	electrical_stimulation	n/a	n/a	9441614	n/a	biphasic	RA3-RA4	4-Mar	6.0 mA	n/a	good	n/a
+4613.286133	0.0002	electrical_stimulation	n/a	n/a	9448010	n/a	biphasic	RA3-RA4	4-Mar	6.0 mA	n/a	good	n/a
+4615.757324	0.0002	electrical_stimulation	n/a	n/a	9453071	n/a	biphasic	RA3-RA4	4-Mar	6.0 mA	n/a	good	n/a
+4618.071777	0.0002	electrical_stimulation	n/a	n/a	9457811	n/a	biphasic	RA3-RA4	4-Mar	6.0 mA	n/a	good	n/a
+4620.532715	0.0002	electrical_stimulation	n/a	n/a	9462851	n/a	biphasic	RA3-RA4	4-Mar	6.0 mA	n/a	good	n/a
+4622.836914	0.0002	electrical_stimulation	n/a	n/a	9467570	n/a	biphasic	RA3-RA4	4-Mar	6.0 mA	n/a	good	n/a
+4625.162109	0.0002	electrical_stimulation	n/a	n/a	9472332	n/a	biphasic	RA3-RA4	4-Mar	6.0 mA	n/a	good	n/a
+4643.785156	0.0002	electrical_stimulation	n/a	n/a	9510472	n/a	biphasic	RA4-RA5	5-Apr	6.0 mA	n/a	good	n/a
+4646.13623	0.0002	electrical_stimulation	n/a	n/a	9515287	n/a	biphasic	RA4-RA5	5-Apr	6.0 mA	n/a	good	n/a
+4648.966797	0.0002	electrical_stimulation	n/a	n/a	9521084	n/a	biphasic	RA4-RA5	5-Apr	6.0 mA	n/a	good	n/a
+4652.950195	0.0002	electrical_stimulation	n/a	n/a	9529242	n/a	biphasic	RA4-RA5	5-Apr	6.0 mA	n/a	good	n/a
+4656.198242	0.0002	electrical_stimulation	n/a	n/a	9535894	n/a	biphasic	RA4-RA5	5-Apr	6.0 mA	n/a	good	n/a
+4658.689941	0.0002	electrical_stimulation	n/a	n/a	9540997	n/a	biphasic	RA4-RA5	5-Apr	6.0 mA	n/a	good	n/a
+4661.109375	0.0002	electrical_stimulation	n/a	n/a	9545952	n/a	biphasic	RA4-RA5	5-Apr	6.0 mA	n/a	good	n/a
+4663.209961	0.0002	electrical_stimulation	n/a	n/a	9550254	n/a	biphasic	RA4-RA5	5-Apr	6.0 mA	n/a	good	n/a
+4665.441406	0.0002	electrical_stimulation	n/a	n/a	9554824	n/a	biphasic	RA4-RA5	5-Apr	6.0 mA	n/a	good	n/a
+4668.642578	0.0002	electrical_stimulation	n/a	n/a	9561380	n/a	biphasic	RA4-RA5	5-Apr	6.0 mA	n/a	good	n/a
+4694.186035	0.0002	electrical_stimulation	n/a	n/a	9613693	n/a	biphasic	RA10-RA11	11-Oct	6.0 mA	n/a	good	n/a
+4697.718262	0.0002	electrical_stimulation	n/a	n/a	9620927	n/a	biphasic	RA10-RA11	11-Oct	6.0 mA	n/a	good	n/a
+4700.705566	0.0002	electrical_stimulation	n/a	n/a	9627045	n/a	biphasic	RA10-RA11	11-Oct	6.0 mA	n/a	good	n/a
+4702.754395	0.0002	electrical_stimulation	n/a	n/a	9631241	n/a	biphasic	RA10-RA11	11-Oct	6.0 mA	n/a	good	n/a
+4705.183594	0.0002	electrical_stimulation	n/a	n/a	9636216	n/a	biphasic	RA10-RA11	11-Oct	6.0 mA	n/a	good	n/a
+4707.73291	0.0002	electrical_stimulation	n/a	n/a	9641437	n/a	biphasic	RA10-RA11	11-Oct	6.0 mA	n/a	good	n/a
+4709.813477	0.0002	electrical_stimulation	n/a	n/a	9645698	n/a	biphasic	RA10-RA11	11-Oct	6.0 mA	n/a	good	artifact fixed when referencing to RX1
+4712.440918	0.0002	electrical_stimulation	n/a	n/a	9651079	n/a	biphasic	RA10-RA11	11-Oct	6.0 mA	n/a	good	n/a
+4715.32373	0.0002	electrical_stimulation	n/a	n/a	9656983	n/a	biphasic	RA10-RA11	11-Oct	6.0 mA	n/a	good	n/a
+4718.519531	0.0002	electrical_stimulation	n/a	n/a	9663528	n/a	biphasic	RA10-RA11	11-Oct	6.0 mA	n/a	good	n/a
+4745.496582	0.0002	electrical_stimulation	n/a	n/a	9718777	n/a	biphasic	RA11-RA12	12-Nov	6.0 mA	n/a	bad	n/a
+4749.283691	0.0002	electrical_stimulation	n/a	n/a	9726533	n/a	biphasic	RA11-RA12	12-Nov	6.0 mA	n/a	good	n/a
+4751.744141	0.0002	electrical_stimulation	n/a	n/a	9731572	n/a	biphasic	RA11-RA12	12-Nov	6.0 mA	n/a	bad	onset wrong
+4755.115723	0.0002	electrical_stimulation	n/a	n/a	9738477	n/a	biphasic	RA11-RA12	12-Nov	6.0 mA	n/a	bad	onset wrong
+4759.788574	0.0002	electrical_stimulation	n/a	n/a	9748047	n/a	biphasic	RA11-RA12	12-Nov	6.0 mA	n/a	good	n/a
+4773.226563	0.0002	electrical_stimulation	n/a	n/a	9775568	n/a	biphasic	RA11-RA12	12-Nov	6.0 mA	n/a	good	n/a
+4784.31543	0.0002	electrical_stimulation	n/a	n/a	9798278	n/a	biphasic	RA11-RA12	12-Nov	6.0 mA	n/a	good	n/a
+4790.499512	0.0002	electrical_stimulation	n/a	n/a	9810943	n/a	biphasic	RA11-RA12	12-Nov	6.0 mA	n/a	good	n/a
+4793.794434	0.0002	electrical_stimulation	n/a	n/a	9817691	n/a	biphasic	RA11-RA12	12-Nov	6.0 mA	n/a	bad	onset wrong
+4797.65332	0.0002	electrical_stimulation	n/a	n/a	9825594	n/a	biphasic	RA11-RA12	12-Nov	6.0 mA	n/a	good	n/a
+4800.876465	0.0002	electrical_stimulation	n/a	n/a	9832195	n/a	biphasic	RA11-RA12	12-Nov	6.0 mA	n/a	good	n/a
+4843.667969	0.0002	electrical_stimulation	n/a	n/a	9919832	n/a	biphasic	RA12-RA13	13-Dec	6.0 mA	n/a	good	artifact fixed when referencing to RN5
+4846.728027	0.0002	electrical_stimulation	n/a	n/a	9926099	n/a	biphasic	RA12-RA13	13-Dec	6.0 mA	n/a	good	n/a
+4849.762695	0.0002	electrical_stimulation	n/a	n/a	9932314	n/a	biphasic	RA12-RA13	13-Dec	6.0 mA	n/a	good	n/a
+4853.713867	0.0002	electrical_stimulation	n/a	n/a	9940406	n/a	biphasic	RA12-RA13	13-Dec	6.0 mA	n/a	good	n/a
+4857.441406	0.0002	electrical_stimulation	n/a	n/a	9948040	n/a	biphasic	RA12-RA13	13-Dec	6.0 mA	n/a	good	n/a
+4861.695801	0.0002	electrical_stimulation	n/a	n/a	9956753	n/a	biphasic	RA12-RA13	13-Dec	6.0 mA	n/a	good	n/a
+4864.886719	0.0002	electrical_stimulation	n/a	n/a	9963288	n/a	biphasic	RA12-RA13	13-Dec	6.0 mA	n/a	good	n/a
+4867.769531	0.0002	electrical_stimulation	n/a	n/a	9969192	n/a	biphasic	RA12-RA13	13-Dec	6.0 mA	n/a	good	n/a
+4871.543945	0.0002	electrical_stimulation	n/a	n/a	9976922	n/a	biphasic	RA12-RA13	13-Dec	6.0 mA	n/a	good	n/a
+4874.530762	0.0002	electrical_stimulation	n/a	n/a	9983039	n/a	biphasic	RA12-RA13	13-Dec	6.0 mA	n/a	good	n/a
+4894.246094	0.0002	electrical_stimulation	n/a	n/a	10023416	n/a	biphasic	RA13-RA14	13-14	6.0 mA	n/a	bad	bad channels
+4897.161621	0.0002	electrical_stimulation	n/a	n/a	10029387	n/a	biphasic	RA13-RA14	13-14	6.0 mA	n/a	bad	onset wrong
+4900.772949	0.0002	electrical_stimulation	n/a	n/a	10036783	n/a	biphasic	RA13-RA14	13-14	6.0 mA	n/a	bad	onset wrong
+4904.483398	0.0002	electrical_stimulation	n/a	n/a	10044382	n/a	biphasic	RA13-RA14	13-14	6.0 mA	n/a	bad	onset wrong
+4907.289551	0.0002	electrical_stimulation	n/a	n/a	10050129	n/a	biphasic	RA13-RA14	13-14	6.0 mA	n/a	good	n/a
+4910.62207	0.0002	electrical_stimulation	n/a	n/a	10056954	n/a	biphasic	RA13-RA14	13-14	6.0 mA	n/a	good	n/a
+4913.355469	0.0002	electrical_stimulation	n/a	n/a	10062552	n/a	biphasic	RA13-RA14	13-14	6.0 mA	n/a	good	n/a
+4916.266113	0.0002	electrical_stimulation	n/a	n/a	10068513	n/a	biphasic	RA13-RA14	13-14	6.0 mA	n/a	good	n/a
+4918.835938	0.0002	electrical_stimulation	n/a	n/a	10073776	n/a	biphasic	RA13-RA14	13-14	6.0 mA	n/a	good	n/a
+4922.318359	0.0002	electrical_stimulation	n/a	n/a	10080908	n/a	biphasic	RA13-RA14	13-14	6.0 mA	n/a	good	n/a

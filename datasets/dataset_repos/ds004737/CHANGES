@@ -1,0 +1,5 @@
+2.0.0 2024-06-26
+  - Add anatomical, field map, and functional MRI data.
+  - Add missing sub-20909.
+1.0.0 2023-09-01
+  - initial commit

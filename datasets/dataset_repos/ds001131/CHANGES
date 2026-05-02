@@ -1,0 +1,2 @@
+1.0.0 2019-11-09
+  - removed scans.tsv files, updated stimuli to match nifti files, updated events.tsv files with correct stim_file

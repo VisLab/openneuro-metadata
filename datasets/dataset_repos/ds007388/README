@@ -1,0 +1,12 @@
+The NIMF2 dataset is part of the Moral Foundations MRI Collection (MOFOMIC), a collection of multimodal (3T) MRI datasets including structural (T1-weighted), and (task-based) functional BOLD MRI data, as well as detailed demographics and psychometric variables from healthy participants.
+
+This dataset contains both raw and preprocessed data (and other "derivatives"), which is available on [Openneuro](https://openneuro.org/datasets/ds007388).
+
+The contents of this dataset are described in detail in [this preprint](https://www.psycharchives.org/en/item/c727daa5-d237-4162-8a93-f2e19ef75f98). More general information about the MOFOMIC datasets, including instructions on how to download (parts of) it, check out the [MOFOMIC website](https://www.medianeuroscience.org/mofomic/).
+
+For this dataset, please consider the following known caveats: 
+- Onset times in the _event.tsv files are **not** adjusted for the 11 dummy scans at the beginning. If you seek to discard them, subtract 11TRs from the onset timings and the corresponding (raw/preprocessed) BOLD scans.
+- Subject-07: Notes from the experimental log indicate that this subject did not pay attention during run-3 of the mfv-task. 
+- Subject-13: Misses the first run of the mfv task.
+- Subject-17: Misses the 2nd and 3rd run of the smid task.
+- Subject-21: Misses the 1st run of the mfv task.

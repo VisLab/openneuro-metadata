@@ -1,0 +1,18 @@
+This dataset include 36 healthy right-handed participants which completed the stages of the cue-approach training (CAT) paradigm (see Schonberg, T. et al. Changing value through cued approach: an automatic mechanism of behavior change. Nat. Neurosci. 17, 625–30 (2014) and Salomon, T. et al. The Cue-Approach Task as a General Mechanism for Long-Term Non-Reinforced Behavioral Change. Sci. Rep. 8, 3614 (2018)).
+
+For each participant the following data is available for each session (before CAT, after CAT and for 27 participants a one-month follow-up session):
+1. Behavioral BDM auction data on 60 snack-food items.
+2. fMRI data from a passive viewing task (40 snack food items, two runs in each session). This task is named "esponsetosnacks" in the data files.
+3. T1w (MPRAGE) image.
+4. fMRI and behavioral data from the probe (binary choices) task (from the after and follow-up sessions).
+In addition, behavioral data from the training task is also shared (.tsv files).
+
+Note that the shared data is defaced, while the preprocessing of the fMRI data was performed prior to the defacing of the structural images.
+
+There is a derivatives directory in which the following data is included:
+* .txt files for the EVs of each first level analysis.
+* .tsv files for the motion confounds of each first level analysis.
+* design.fsf files for all levels of analyses.
+* Masks for the small volume correction (SVC) analyses.
+
+Please cite https://doi.org/10.1093/cercor/bhz132

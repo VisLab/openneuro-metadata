@@ -1,0 +1,38 @@
+{
+  "cueonset": {
+    "LongName": "Cue onset triggers",
+    "Description": "3 cue onset triggers for 3 different conditions, 2 informative cues and 1 neutral cue.",
+    "Levels": {
+      "S1": "Value 1: Informative Cue 1",
+      "S2": "Value 2: Informative Cue 2",
+      "S3": "Value 3: Neutral Cue"
+    }
+  },
+  "targetonset": {
+    "LongName": "Target onset triggers",
+    "Description": "3 target onset triggers for 3 different conditions, 2 informative cues and 1 neutral cue.",
+    "Levels": {
+      "S31": "Value 31: Informative Cue 1",
+      "S32": "Value 32: Informative Cue 2",
+      "S33": "Value 33: Neutral Cue"
+    }
+  },
+  "impulseonset": {
+    "LongName": "Impulse onset triggers",
+    "Description": "3 impulse onset triggers for 3 different conditions, 2 informative cues and 1 neutral cue.",
+    "Levels": {
+      "S51": "Value 51: Informative Cue 1",
+      "S52": "Value 52: Informative Cue 2",
+      "S53": "Value 53: Neutral Cue"
+    }
+  },
+  "probeeonset": {
+    "LongName": "Probe onset triggers",
+    "Description": "3 probe onset triggers for 3 different conditions, 2 informative cues and 1 neutral cue.",
+    "Levels": {
+      "S71": "Value 71: Informative Cue 1",
+      "S72": "Value 72: Informative Cue 2",
+      "S73": "Value 73: Neutral Cue"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "onset": {
+        "Description": "The raw stimulus onset. Note that there were 11TRs before the first vignette was shown which is why the onset of the first event is at ca. 7.92secs"
+    },
+    "duration": {
+        "Description": "The duration the vignette was on screen."
+    },
+    "sub_id": {
+        "Description": "participant_id"
+    },
+    "trail_type": {
+        "Description": "The mft foundation/mac category of the vignette."
+    },
+    "pres_order": {
+        "Description": "The order in which the stimuli were presented (1-24)."
+    },
+    "stim_file": {
+        "Description": "The name of the image file that was made from the slide with the vignette on it."
+    },
+    "vigtext": {
+        "Description": "The specfic text that was shown on the vignette."
+    },
+    "cond_id": {
+        "Description": "The vignette number within its condition. This is useful for item-level analyses."
+    },
+    "vig_id": {
+        "Description": "The unique identifier (0-119) for each vignette item"
+    }
+}

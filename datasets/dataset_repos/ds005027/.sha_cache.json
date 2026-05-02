@@ -1,0 +1,12 @@
+{
+  "CHANGES": "e0320e2010c1a1169ae67bd160d8516f726056af",
+  "README": "16ac3f631fce739ed0eb87830a8e32b246f94026",
+  "participants.tsv": "407eddaf2f97daf814165f1ad98131b3ac98075b",
+  "task-reward_events.json": "1a8a82abee83e83a05cd0efabac0cf903c8e45e5",
+  "participants.json": "6cd2ebb5f64b74c71b7d3b40b892c0b63452229a",
+  "dataset_description.json": "5fba53842006f4dc9afe789e88f745de07da44c7",
+  "sub-01/ses-1/func/sub-01_ses-1_task-reward_run-01_events.tsv": "20b679f29d2d925971f928fbaff1f22eb0823d86",
+  "sub-01/ses-1/func/sub-01_ses-1_task-reward_run-02_events.tsv": "ada1bfe7235c79f1232a3ad8c27f6ae7604a3763",
+  "sub-01/ses-2/func/sub-01_ses-2_task-reward_run-01_events.tsv": "34df40af2a824c29c3bb16d77f71adcfacd8c9c8",
+  "sub-01/ses-2/func/sub-01_ses-2_task-reward_run-02_events.tsv": "00b1f6bee7e76302cc03bef34920837d800d3274"
+}

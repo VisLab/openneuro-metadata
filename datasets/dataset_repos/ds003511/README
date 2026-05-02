@@ -1,0 +1,11 @@
+Dataset description
+===================
+
+Evidence supporting a time-limited hippocampal role in retrieving autobiographical memories
+Pre-publication. DOI TBD.
+
+The necessity of the human hippocampus for remote autobiographical recall remains fiercely debated. The standard model of consolidation predicts a time-limited role for the hippocampus, but the competing multiple trace/trace transformation theories posit indefinite involvement. Lesion evidence remains inconclusive, and the inferences one can draw from fMRI have been limited by reliance on covert (silent) recall, which obscures dynamic, moment-to-moment content of retrieved memories. Here, we capitalized on advances in fMRI denoising to employ overtly spoken recall. Forty participants retrieved recent and remote memories, describing each for approximately two minutes. Details associated with each memory were identified and modeled in the fMRI timeseries data using a variant of the Autobiographical Interview procedure, and activity associated with the recall of recent and remote memories was then compared. Posterior hippocampal regions exhibited temporally-graded activity patterns (recent events > remote events), as did several regions of frontal and parietal cortex. Consistent with predictions of the standard model, recall-related hippocampal activity differed from a non-autobiographical control task only for recent, and not remote, events. Task-based connectivity between posterior hippocampal regions and others associated with mental scene construction also exhibited a temporal gradient, with greater connectivity accompanying the recall of recent events. These findings support predictions of the standard model of consolidation and demonstrate the potential benefits of overt recall in neuroimaging experiments.
+
+MRI Files included are: 
+A) Skull-stripped T1w anatomical scans from MPRAGE acquisition resolution 1 mm X 1 mm X 1 mm.
+B) Multi-echo task EPI scans (214 frames) with 3 echoes per frame (12.5 ms, 27.6 ms, 42.7 ms) and a resolution of 3.2 mm x 3.2 mm x 3.5 mm.

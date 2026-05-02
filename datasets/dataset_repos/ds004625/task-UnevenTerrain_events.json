@@ -1,0 +1,29 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "trial_type": {
+    "Description": "Primary categorization of each trial to identify them as instances of the experimental conditions (equivalent to the EEG.event.condlabel field in the data).",
+    "Levels": {
+      "flat": "flat terrain",
+      "low": "low terrain",
+      "medium": "medium terrain",
+      "high": "high terrain",
+      "SP_0p25": "0.25m/s on flat surface",
+      "SP_0p5": "0.50m/s on flat surface",
+      "SP_0p75": "0.75m/s on flat surface",
+      "SP_1p0": "1.0m/s on flat surface"
+    }
+  },
+  "value": {
+    "Description": "Type of event (equivalent to the EEG.event.type field in the data)",
+    "Levels": {
+      "M1": "Sync event recorded with BrainVision system",
+      "RHS": "Right Foot Strike",
+      "LHS": "Left Foot Strike",
+      "RTO": "Right Foot Off",
+      "LTO": "Left Foot Off"
+    }
+  }
+}

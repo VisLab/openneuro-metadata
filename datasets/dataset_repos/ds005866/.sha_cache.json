@@ -1,0 +1,9 @@
+{
+  "participants.json": "3e8a4d79f39c7b9070fc12021ec1f02539255bf9",
+  "participants.tsv": "7d4cdb2e448388540f2c057878f7f59b29de6d21",
+  "dataset_description.json": "355256db24214c09501fa363e6656e35fd8f9f0e",
+  "README": "bf207bc11bdd989062eed540246532c2b30c0c11",
+  "task-FlankerNEAR_events.json": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
+  "CHANGES": "cc3a684b2fbfebb5f9868aae84d2e03194179db0",
+  "sub-1/eeg/sub-1_task-FlankerNEAR_events.tsv": "c271bb87c4067fe889c04d8b4bc4d0075a0b59e2"
+}

@@ -1,0 +1,23 @@
+{
+    "Acknowledgements": "We thank our funding sources, members of the ECCO Lab, and peer reviewers for their contribution to this work.",
+    "Authors": [
+        "Monica Thieu",
+        "Meera Sethi",
+        "Elias Aberman",
+        "Philip Kragel"
+    ],
+    "BIDSVersion": "1.4.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007335.v1.0.0",
+    "Funding": [
+        "NIMH R01MH134972",
+        "NIGMS K12GM000680"
+    ],
+    "HowToAcknowledge": "Papers, book chapters, books, posters, oral presentations, and all other printed and digital presentations of results derived from this dataset should contain the following wording in the acknowledgments section: \n\"Data were provided [in part] by the Superior Colliculus Pathways for Defensive Behavior and Emotional Arousal Project (Principal Investigator: Philip Kragel; 1R01MH134972) funded by the National Institute of Mental Health\"\nThey should also cite the following publication:\n\n\"Monica Thieu, Meera Sethi, Elias Aberman, Philip Kragel. (2026). Human superior colliculus pathways represent the form and motion of looming objects. Cell Reports.\"",
+    "License": "CC0",
+    "Name": "Superior Colliculus Pathways for Looming and Threat",
+    "ReferencesAndLinks": [
+        "https://www.ecco-lab.org/",
+        "https://github.com/ecco-laboratory/looming-fmri-naturalistic/",
+        "https://identifiers.org/neurovault.collection:22774"
+    ]
+}

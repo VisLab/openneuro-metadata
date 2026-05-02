@@ -1,0 +1,30 @@
+{
+  "onset": {
+    "Description": "The onset of the event.",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "The duration of the event.",
+    "Units": "seconds"
+  },
+  "ring_color": {
+    "Description": "Color of the ring displayed during the experiment.",
+    "Levels": {
+      "Gray": "Gray",
+      "Blue Yellow": "Blue Yellow",
+      "Red Green": "Red Green"
+    }
+  },
+  "ring_radius": {
+    "Description": "Refers to the radius of the ring. During the experiment the ring either has a constant radius or it degenerates from a ring with a larger to a smaller radius.",
+    "Units": "degrees visual angle (d)",
+    "Levels": {
+      "n/a": "No ring displayed.",
+      "1.5d": "A ring with 1.5 degrees visual angle radius.",
+      "3d": "A ring with 3 degrees visual angle radius.",
+      "3.5d-1.5d": "A ring that degenerates from a radius of 3.5 to 1.5 degrees visual angle.",
+      "7d-3.5d": "A ring that degenerates from a radius of 7 to 3.5 degrees visual angle.",
+      "10d-7d": "A ring that degenerates from a radius of 10 to 7 degrees visual angle."
+    }
+  }
+}

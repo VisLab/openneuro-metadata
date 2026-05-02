@@ -1,0 +1,33 @@
+{
+   "StimulusPresentation": {
+    "SoftwareName": "Eprime",
+    "SoftwareVersion": "2.0",
+    "OperatingSystem": "Windows 10"
+  },
+  "trial_type": {
+    "Description": "the categorization or type of trials within an experiment",
+    "Levels": {
+      "realrating": "the sharing rating in REAL NEWS block",
+      "fakerating": "the sharing rating in FAKE NEWS block"
+    }
+  },
+  "onset_response": {
+    "Description": "the response window onsettime"
+  },
+  "response_time": {
+    "Description": "the time taken by the participant to respond after the onset of the response window"
+  },
+  "news_no": {
+    "Description": "news ID"
+  },
+  "news_type": {  
+    "Description": "the attribute of news veracity",
+    "Levels": {
+      "R": "real news",
+      "F": "fake news"
+    }
+  },
+  "value": {
+    "Description": "the sharing/accuracy ratings"
+  }
+}

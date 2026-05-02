@@ -1,0 +1,31 @@
+{
+  "jud": {
+    "LongName": "Negativity rating",
+    "Description": "Image negativity, self-rated by participant",
+    "Levels": {
+      "1": "Very",
+      "2": "Quite",
+      "3": "Slightly",
+      "4": "Neutral"
+	}
+    },
+  "negenhance": {
+    "LongName": "Image: Negative, Instruction: 'Enhance'",
+    "Description": "Participant instructed to enhance a negative reaction to the image"
+  },
+
+  "negpassive": {
+    "LongName": "Image: Negative, Instruction: 'Maintain'",
+    "Description": "Participant instructed to maintain their initial reaction to the image"
+  },
+
+  "negsuppress": {
+    "LongName": "Image: Negative, Instruction: 'Suppress'",
+    "Description": "Participant instructed to decrease their initial reaction to the image"
+  },
+
+  "neupassive": {
+    "LongName": "Image: Negative, Instruction: 'Maintain'",
+    "Description": "Participant instructed to maintain their initial reaction to the image"
+  }
+}

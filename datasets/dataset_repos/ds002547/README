@@ -1,0 +1,17 @@
+This 3T fMRI dataset belongs to the article "Shared states: using MVPA to test neural overlap between self-focused emotion imagery and other-focused emotion understanding" (https://academic.oup.com/scan/article/12/7/1025/3798709).
+
+## Contents
+Each subject contains one or two sessions. In case a subject contains two sessions, one session was used to explore preprocessing and analysis hyperparameters (optimization session), and the other session was used to apply these hyperparameters (validation session). Only the results from the validation set were reported in the corresponding article. The `participants.tsv` file contains a column ("validation_session") indicating which session was used for validation.
+
+Each subject contains a single T1-weighted anatomical scan, which was usually obtained in the first session, and several BOLD-fMRI scans. Each session contained two runs of the "self" task and one run of the "other" task. Both the self- and other-task contained trials of one of three conditions: "action", "interoception", and "situation". The onset, duration, and trial-type of these trials are logged in the corresponding `*_events.tsv` files. Note that the other-task additionally contains an event, "cue", which represents the 4-second cue ("HOW", "WHAT", or "WHY") which was meant to instruct the participant to focus on the action-/interoception-/situation-related expression of emotion (we included a single regressor modelling these cue-events in our original analyses).
+
+In addition, most fMRI runs in addition contain an associated physiology file (`*physio.tsv.gz`) with respiratory and cardiac traces as well as volume onset markers (converted using the "scanphyslog2bids" package; https://github.com/lukassnoek/scanphyslog2bids). This data was not used in the original analyses, but are included for completeness.
+
+## Anonymity
+In accordance with regulations from the University of Amsterdam, several precautions for participant anonymity were taken.
+1. The informed consents signed by all participants contained a statement that their data could be shared with third parties;
+2. No mapping from personal data (name, address, etc.) and subject identifier (e.g., sub-01) exists;
+2. All structural data (T1-weighted scans) were defaced (using `pydeface`; https://github.com/poldracklab/pydeface);
+3. Subject identifiers (sub-xx) were randomly shuffled
+
+

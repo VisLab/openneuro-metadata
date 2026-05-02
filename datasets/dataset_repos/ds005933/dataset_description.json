@@ -1,0 +1,21 @@
+{
+    "Name": "Foveal Feedback",
+    "BIDSVersion": "v1.6.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Luca Kaemmer",
+        "Martin Hebart"
+    ],
+    "HowToAcknowledge": "Please cite our paper when using this dataset.",
+    "Funding": [
+        "ERC Starting Grant project COREDIM (ERC-StG-2021-101039712)"
+    ],
+    "EthicsApprovals": [
+        "ethics review board of the University of Leipzig (reference number: 421/23-ek)"
+    ],
+    "ReferencesAndLinks": [
+        "https://github.com/Lucakaemmer/FovealFeedback.git"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005933.v1.0.0"
+}

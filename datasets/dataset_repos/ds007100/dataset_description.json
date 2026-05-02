@@ -1,0 +1,33 @@
+{
+    "Name": "Resting-state fMRI in Awake Mice",
+    "BIDSVersion": "1.2.2",
+    "License": "CC0",
+    "Authors": [
+        "Ezra Winter-Nelson",
+        "Eyal Bergmann",
+        "Micaela Chan",
+        "Gabriella Vill",
+        "Liang Han",
+        "Ziwei Zhang",
+        "Alexandra Kavushansky",
+        "Irit Dolgopyat",
+        "Jad Asleh",
+        "Jennifer Whitesell",
+        "Itamar Kahn",
+        "Gagan Wig"
+    ],
+    "Acknowledgements": "",
+    "HowToAsknowledge": "",
+    "Funding": [
+        "Independent pilot award from the NIH Animal models for social dimensions of health and aging research network (1R24AG065172-01)",
+        "Understanding Human Cognition Scholar Award from the James S. McDonnell Foundation (GSW)",
+        "NIA AG063930",
+        "NIA AG092219",
+        "Carol and Gene Ludwig Center at Columbia University"
+    ],
+    "EthicsApprovals": [
+        "All procedures were conducted in accordance with the ethical guidelines of the National Institutes of Health and were approved by the institutional animal care and use committee (IACUC) at Technion – Israel Institute of Technology or Columbia University"
+    ],
+    "ReferenceAndLinks": "",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007100.v1.0.2"
+}

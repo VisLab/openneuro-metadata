@@ -1,0 +1,2 @@
+1.0.0 2026-04-11
+  - Initial release of the dataset. Includes stimuli, raw fMRI data, events files with trial-wise ratings, and accompanying metadata.

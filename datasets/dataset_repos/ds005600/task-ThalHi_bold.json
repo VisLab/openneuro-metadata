@@ -1,0 +1,38 @@
+{
+  "AcquisitionMatrixPE": 88,
+  "AcquisitionNumber": 1,
+  "BodyPartExamined": "BRAIN",
+  "CoilString": "48HAP",
+  "ConversionSoftware": "dcm2niix",
+  "DeviceSerialNumber": "0000000319335MR2",
+  "EchoTime": 0.03,
+  "FlipAngle": 75,
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "OTHER"
+],
+  "InPlanePhaseEncodingDirectionDICOM": "COL",
+  "MRAcquisitionType": "2D",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "GE",
+  "Modality": "MR",
+  "PatientPosition": "HFS",
+  "PercentPhaseFOV": 100,
+  "PixelBandwidth": 3906.25,
+  "ReconMatrixPE": 128,
+  "RepetitionTime": 1.8,
+  "SequenceVariant": "SS",
+  "SliceThickness": 2.5,
+  "SliceTiming": [0, 0.9, 0.075, 0.975, 0.15, 1.05, 0.225, 1.125, 0.3, 1.2, 0.375, 1.275, 0.45, 1.35, 0.525, 1.425, 0.6, 1.5, 0.675, 1.575, 0.75, 1.725, 0.825, 1.65, 0, 0.9, 0.075, 0.975, 0.15, 1.05, 0.225, 1.125, 0.3, 1.2, 0.375, 1.275, 0.45, 1.35, 0.525, 1.425, 0.6, 1.5, 0.675, 1.575, 0.75, 1.725, 0.825, 1.65],
+  "SpacingBetweenSlices": 2.5,
+  "StationName": "Iowa3T",
+  "TaskName": "TODO: full task name for ThalHi",
+  "dcmmeta_reorient_transform": [
+    [0.0, -1.0, 0.0, 127.0],
+    [1.0, 0.0, 0.0, 0.0],
+    [0.0, 0.0, -1.0, 47.0],
+    [0.0, 0.0, 0.0, 1.0]
+],
+  "dcmmeta_slice_dim": 2,
+  "dcmmeta_version": 0.6}

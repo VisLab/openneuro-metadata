@@ -1,0 +1,14 @@
+2.0.0 2026-01-15
+  -  - Updated events.tsv files to include only stimulus onset events (S  1), removing "New Segment" and other markers (S  2, S  4, S  8)  - Enriched events.tsv files with stimulus information from experimental design:    - Added trial_type column (original/chimeric) mapped from stimulus CSV files    - Added stimulus_name column with stimulus filenames    - Updated duration column with actual stimulus durations from CSV files    - Events are now mapped sequentially to the stimulus presentation order  - Updated README to remove incorrect click phase information  - Added documentation section describing events.tsv file structure and logic
+1.0.4 2025-09-30
+  - update README
+1.0.3 2025-09-30
+  - update README
+1.0.2 2025-09-30
+  - update README
+1.0.1 2025-09-30
+  - add musicianship questionnair
+1.0.0 2025-09-30
+  - Initial upload
+﻿1.0.0 2025-09-26
+ - Initial release.

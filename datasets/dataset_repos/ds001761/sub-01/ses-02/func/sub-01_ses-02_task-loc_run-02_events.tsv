@@ -1,0 +1,8 @@
+onset	duration	trial_type
+0	16	fix   
+16	16	face  
+32	16	object
+48	16	fix   
+64	16	object
+80	16	face  
+96	16	fix   

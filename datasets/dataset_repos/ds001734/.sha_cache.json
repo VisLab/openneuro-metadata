@@ -1,0 +1,13 @@
+{
+  "task-MGT_sbref.json": "6897cce81347ea99753f1eb39da20af1bf5b0aec",
+  "participants.tsv": "6f777024ed59fe347c96b1bff061734e8c5872c4",
+  "README": "f20f8049f78a857cd057af70302d8be332aeb92c",
+  "CHANGES": "46151dbef72f94089191ab992ce53c67b973c066",
+  "task-MGT_bold.json": "9ed45d4ad0fb6bfa526613b530d7427303123591",
+  "T1w.json": "cf87d434ebbf6d470209d69930a8dcd0c3df9b3d",
+  "dataset_description.json": "f1a3d8ae6ba578d320b3798c1b3f1d4bedbfe965",
+  "sub-001/func/sub-001_task-MGT_run-02_events.tsv": "768e681ad77b76e9675084155bdc9e6254c392aa",
+  "sub-001/func/sub-001_task-MGT_run-01_events.tsv": "bb1576b76e2a6b7a9a06e8899b401cf45830a6e4",
+  "sub-001/func/sub-001_task-MGT_run-04_events.tsv": "912b3ff00f353ff1773c6d6b3dc00ffcc89d8a40",
+  "sub-001/func/sub-001_task-MGT_run-03_events.tsv": "19c26c83188bf7ae733b733e2bfa94394278eec0"
+}

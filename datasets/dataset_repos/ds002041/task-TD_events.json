@@ -1,0 +1,55 @@
+{
+    "vS": {
+        "Description": "objective value of the smaller-sooner option"
+    },
+    "vL": {
+        "Description": "objective value of the larger-later option"
+    },
+    "dS": {
+        "Description": "time delay in days of the smaller-sooner option"
+    },
+    "dL": {
+        "Description": "time delay in days of the larger-later option"
+    },
+    "dDiff": {
+        "Description": "absolute difference between smaller-sooner and larger-later time delays in days"
+    },
+    "choice": {
+        "Description": "choice of smaller-sooner or larger-later option",
+		"Levels":{
+			"7":"smaller-sooner",
+			"8":"larger-later"
+		}
+    },
+    "no_resp": {
+        "Description": "indicator variable for missed responses",
+		"Levels":{
+			"0":"response logged",
+			"1":"missed response"
+		}
+    },
+    "k": {
+        "Description": "k-value from hyperbolic discounting model"
+    },
+    "SV_SS": {
+        "Description": "subjective value of the smaller-sooner option"
+    },
+    "SV_LL": {
+        "Description": "subjective value of the larger-later option"
+    },
+    "SV_sum": {
+        "Description": "sum of the subjective value of the smaller-sooner and larger later options"
+    },
+    "SV_diff": {
+        "Description": "absolute difference between subjective value of the smaller-sooner and larger-later options"
+    },
+    "SV_chosen": {
+        "Description": "subjective value of the chosen option"
+    },
+    "SV_unchosen": {
+        "Description": "subjective value of the unchosen option"
+    },
+    "SV_chosen_minus_unchosen_abs": {
+        "Description": "absolute difference between subjective value of the chosen and unchosen options"
+    }
+}

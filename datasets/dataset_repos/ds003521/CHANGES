@@ -1,0 +1,16 @@
+2.2.0 2023-08-05
+  - added csv files containing average activity within 50 roi whole brain parcellation
+2.1.0 2022-01-24
+  - Cleaned up stimuli
+2.0.0 2022-01-23
+  - Added preprocessed data
+  - Added denoised data
+  - Added more details about experiment
+0.0.1  Initial data acquired
+
+TODOs:
+  - verify and possibly extend information in participants.tsv
+    (see for example http://datasets.datalad.org/?dir=/openfmri/ds000208)
+  - fill out dataset_description.json, README, sourcedata/README (if present)
+  - provide _events.tsv file for each _bold.nii.gz with onsets of events
+    (see  "8.5 Task events"  of BIDS specification)

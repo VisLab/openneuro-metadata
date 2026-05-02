@@ -1,0 +1,18 @@
+{
+    "onset": {
+        "Description": "Time of event, in seconds since beginning of recording",
+        "Units": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of event",
+        "Units": "seconds"
+    },
+    "trial_type": {
+        "Description": "Information about the type of event",
+        "Levels": {
+            "Error -10": "This error occurs when there's too much data in the earplug's buffer, often due to SD card write interrupts or synchronization issues between two ASICs. The buffer is cleared, creating a brief data gap. A timestamp is generated for the first valid sample, and 50 samples are inserted for a -10 error. New firmware offers better handling but may cause data discrepancies. Consider clearing the buffer after a -10 error.",
+            "Error -100": "This error occurs when the earplug undergoes a hard reset (power off/on), creating a timestamp. In case of a -100 error, the nearest timestamps before and after are used to estimate the lost time. A corresponding number of samples are inserted. If no valid timestamps are found afterward, all data following the -100 error is considered invalid. The data line with the -100 error is removed.",
+            "oLED": "'Oled on' indicates a loss of connection to the ASIC due to a loose or improperly seated cable or connector. After the orange LED is on, automatic reconnection does not occur, and a restart of the sleep logger is necessary. If the connector is secure and restarting the sleep logger doesn't work, the device should be reported as defective. All samples after the 'Oled on' error are considered invalid."
+        }
+    }
+}

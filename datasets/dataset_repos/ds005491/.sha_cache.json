@@ -1,0 +1,9 @@
+{
+  "CHANGES": "edcde575f01706194a6366fe8656a4c03bdae1b2",
+  "README": "0ba6ba5a542c3b165125602f0b24161c6cc476c5",
+  "participants.tsv": "5c74a3f75752765a696a05c03efdf463ae9bd5c6",
+  "participants.json": "a212a0d4700e82fbaa78767399920849aa3f9265",
+  "dataset_description.json": "65fcd94bf6a56280de94a66e519627f07d8725ac",
+  "sub-R1016M/ses-0/ieeg/sub-R1016M_ses-0_task-catFR2_events.json": "38348231d8144919a5ccbd9f6ffeafc9f6a7e1ce",
+  "sub-R1016M/ses-0/ieeg/sub-R1016M_ses-0_task-catFR2_events.tsv": "826a020e915285e5543045d18ee5dcb2e484419a"
+}

@@ -1,0 +1,19 @@
+{
+  "README": "f1501e8bcffade83eda858e36e316bf3c624b24a",
+  "task-resting_events.json": "3cab4cba6a725e3d621da4beb61669cd3d360860",
+  "participants.json": "15abcf37cccd6f77fc8086c9029bd1cde0504592",
+  "task-positive_events.json": "3cab4cba6a725e3d621da4beb61669cd3d360860",
+  "CHANGES": "996831196bc4b0c247adaabfe62264f4ca8ffb8d",
+  "dataset_description.json": "69d72a8bbecc8b8d56c789ec28f5032fc435749e",
+  "task-control_events.json": "3cab4cba6a725e3d621da4beb61669cd3d360860",
+  "participants.tsv": "cc11ae70c8db8790c2f6991c45e659fa235b5bad",
+  "task-negative_events.json": "3cab4cba6a725e3d621da4beb61669cd3d360860",
+  "sub-01/eeg/sub-01_task-positive_events.json": "b69de00690d72407e9ed1252ce6deeb9c4cc6787",
+  "sub-01/eeg/sub-01_task-resting_events.tsv": "0350da522ba49234b33c1b0bf2cfe0b47ce501c4",
+  "sub-01/eeg/sub-01_task-negative_events.tsv": "b979aa1236166d94a23abe5bf92ff0d636e17426",
+  "sub-01/eeg/sub-01_task-control_events.json": "b69de00690d72407e9ed1252ce6deeb9c4cc6787",
+  "sub-01/eeg/sub-01_task-positive_events.tsv": "5795d54f29e61b71501436a47f00c23df7e98cea",
+  "sub-01/eeg/sub-01_task-negative_events.json": "b69de00690d72407e9ed1252ce6deeb9c4cc6787",
+  "sub-01/eeg/sub-01_task-control_events.tsv": "f3a7c1fe48a6e6cee64d648d08d0c5f9bba088a5",
+  "sub-01/eeg/sub-01_task-resting_events.json": "b69de00690d72407e9ed1252ce6deeb9c4cc6787"
+}

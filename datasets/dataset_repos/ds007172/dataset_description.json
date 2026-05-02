@@ -1,0 +1,13 @@
+{
+    "Name": "EEG-Asymmetries Dataset",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Petunia Reinke",
+        "Lisa Deneke",
+        "Sebastian Ocklenburg"
+    ],
+    "License": "CC0",
+    "HowToAcknowledge": "Reinke, P., Deneke, L., & Ocklenburg, S. (2025). Hemispheric asymmetries in the EEG: Is there an association between N1 lateralization and alpha asymmetry?. Laterality, 1–50. Advance online publication. https://doi.org/10.1080/1357650X.2025.2591660",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007172.v1.0.0"
+}

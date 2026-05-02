@@ -1,0 +1,13 @@
+{
+  "README": "eca456c89309c109c70f2ee0f6ed839a203f2afc",
+  "participants.tsv": "e102767c09fddc6fe74fec84d9d45737b8c36e14",
+  "task-sleep_acq-cEEGridScoring_events.json": "152aabc6e7e91a6bae42c4fe5b160375706a3437",
+  "dataset_description.json": "5dce38ef08d3eb9476092a3eb3eedec42d5e32f1",
+  "task-sleep_acq-psg_events.json": "5b5e6f4061c9caeb3b9eb494a62f6c8529e9e0fb",
+  "task-sleep_channels.json": "79e829175ae8a23da38b6236cae74e73fbe2a5e9",
+  "CHANGES": "6086dd9b119241dbbfd9ee9ef2c60b1016000c9f",
+  "task-sleep_acq-psgScoring_events.json": "152aabc6e7e91a6bae42c4fe5b160375706a3437",
+  "sub-001/ses-001/eeg/sub-001_ses-001_task-sleep_acq-PSG_events.tsv": "bc428666a198e12d1eae13bc04031ef0898709fa",
+  "sub-001/ses-001/eeg/sub-001_ses-001_task-sleep_acq-cEEGridScoring_events.tsv": "ad10d255131d2688de6f2fa50e0e8581b036352e",
+  "sub-001/ses-001/eeg/sub-001_ses-001_task-sleep_acq-PSGScoring_events.tsv": "304db6a416b9c15df2b9f7c639b3a6f5ca0a0233"
+}

@@ -1,0 +1,5 @@
+1.0.1 2026-03-31
+  - Corrected bad channel status in channels.tsv (detected via PyPREP)
+  - Fixed TRIGGER channel units to n/a in channels.tsv
+1.0.0 2026-03-28
+  - Initial release

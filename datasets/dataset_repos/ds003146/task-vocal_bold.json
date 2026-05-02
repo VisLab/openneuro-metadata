@@ -1,0 +1,17 @@
+{
+    "RepetitionTime": 3.0,
+    "TaskName": "Vocal music block-design fMRI",
+    "Authors": ["Arafat Angulo-Perkins and Luis Concha"],
+    "Manufacturer": "GE",
+    "ManufacturersModelName": "DISCOVERY_MR750",
+    "ScanningSequence": "EP_GR",
+    "SequenceVariant": "SS",
+    "SeriesDescription": "fMRI_vocal",
+    "ProtocolName": "fMRI_vocal",
+    "ImageType": ["ORIGINAL", "PRIMARY", "EPI", "NONE"],
+    "MagneticFieldStrength": 3,
+    "FlipAngle": 90,
+    "EchoTime": 0.04,
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20170411 GCC4.8.4"
+}

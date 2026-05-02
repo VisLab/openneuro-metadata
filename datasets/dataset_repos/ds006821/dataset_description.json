@@ -1,0 +1,19 @@
+{
+    "Acknowledgements": "Cognitive Control Collaborative at University of Iowa who gave valuable feedback and critiques as well as the reviewers/editors who helped improve the manuscript quality during the peer review process.",
+    "Authors": [
+        "Stephanie C Leach",
+        "Hannah Hollow",
+        "Jiefeng Jiang",
+        "Kai Hwang"
+    ],
+    "BIDSVersion": "1.4.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006821.v1.0.0",
+    "Funding": [
+        "GRANT NIMH #R01MH122613 ",
+        "1S10OD025025-01"
+    ],
+    "HowToAcknowledge": "either cite a corresponding paper, or just in acknowledgement section",
+    "License": "CC0",
+    "Name": "Quantum",
+    "ReferencesAndLinks": []
+}

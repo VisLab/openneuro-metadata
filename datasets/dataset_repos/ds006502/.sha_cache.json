@@ -1,0 +1,17 @@
+{
+  "CHANGES": "f1dfb88a4d9dd2be57e2b7d66a640ab2a4b29e9d",
+  "participants.tsv": "5799590457561a50c9ca7796544aef6ad0557185",
+  "dataset_description.json": "8e5412cd824bfdf10deecbea808deabb2b684dc5",
+  "participants.json": "f6a7b0c7af11239ec223e416551495c9953cf56e",
+  "README": "c5624b80c52ed545056e152c8c74efc0333a69be",
+  "sub-01/ses-meg1/meg/sub-01_ses-meg1_task-training_run-2_events.json": "c1690e176067418d10f1ba0712102a8bfd4105bf",
+  "sub-01/ses-meg3/meg/sub-01_ses-meg3_task-control_run-4_events.json": "c1690e176067418d10f1ba0712102a8bfd4105bf",
+  "sub-01/ses-meg3/meg/sub-01_ses-meg3_task-retest_run-2_events.json": "c1690e176067418d10f1ba0712102a8bfd4105bf",
+  "sub-01/ses-meg2/meg/sub-01_ses-meg2_task-retest_run-2_events.json": "c1690e176067418d10f1ba0712102a8bfd4105bf",
+  "sub-01/ses-meg2/meg/sub-01_ses-meg2_task-control_run-4_events.json": "c1690e176067418d10f1ba0712102a8bfd4105bf",
+  "sub-01/ses-meg2/meg/sub-01_ses-meg2_task-retest_run-2_events.tsv": "f6987dc6938da1cd0f2b051d41b0e5373a4fbe3a",
+  "sub-01/ses-meg3/meg/sub-01_ses-meg3_task-retest_run-2_events.tsv": "9b3b85aad4d7607f44fa9b162b0b40e0a99d2f86",
+  "sub-01/ses-meg3/meg/sub-01_ses-meg3_task-control_run-4_events.tsv": "b8c5e08eb577ac2f5cf6cf0e2b75122e78be4b2f",
+  "sub-01/ses-meg2/meg/sub-01_ses-meg2_task-control_run-4_events.tsv": "cd57f6c5d853922b37f2f13605303f810abf5c9c",
+  "sub-01/ses-meg1/meg/sub-01_ses-meg1_task-training_run-2_events.tsv": "6e753be39c1e72ed4a937ac9ff0340d1c66e4a42"
+}

@@ -1,0 +1,26 @@
+
+{
+  "participant_id": {
+    "Description": "Unique participant identifier"
+  },
+  "age": {
+    "Description": "Age of the participant in years",
+    "Units": "years"
+  },
+  "sex": {
+    "Description": "Sex of the participant",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "dominant_hand": {
+    "Description": "Dominant hand of the participant",
+    "Levels": {
+      "R": "right",
+      "L": "left",
+      "A": "ambidextrous"
+    }
+  },
+    "source": {"Description": "Subdataset of the participant"}
+}

@@ -1,0 +1,19 @@
+{
+  "participants.json": "cc0b4fd490acb3bdd9a2b0f694bf3813d6bcf240",
+  "task-VVNonWord_bold.json": "4d526c8b1a738cb804f4c933d37df2c792e3ae13",
+  "dataset_description.json": "849f1e652b7221c102a3411b6a0083ce350d1511",
+  "task-AANonWord_events.json": "8b73abbea7bc4e210d5d385c3dd8d27a2b23b08b",
+  "CHANGES": "3265f72a5d4267449285d3a7ae1ef45e7dbdc500",
+  "task-AAWord_bold.json": "a9a82a52ab562a0985263bec13640eea12a64121",
+  "participants.tsv": "b0af5775018473e8023f507d315e19b21cec3bb5",
+  "task-AANonWord_bold.json": "3ba073a4df0d01c68fae5547dc2059a34f54c95c",
+  "task-AAWord_events.json": "8b73abbea7bc4e210d5d385c3dd8d27a2b23b08b",
+  "README": "2abd70bed9350bd489035f45887565e360ccf2b0",
+  "task-VVNonWord_events.json": "8b73abbea7bc4e210d5d385c3dd8d27a2b23b08b",
+  "task-VVWord_events.json": "8b73abbea7bc4e210d5d385c3dd8d27a2b23b08b",
+  "task-VVWord_bold.json": "8bae790c0313228ad41e57b625c06fd8fc294971",
+  "sub-2500/func/sub-2500_task-VVWord_run-02_events.tsv": "89cbf3b76e560089e5d3826d3ac1076893a95e2c",
+  "sub-2500/func/sub-2500_task-VVNonWord_run-02_events.tsv": "299ed68f459aef4c5446908e862c635c3d6e41c0",
+  "sub-2500/func/sub-2500_task-VVNonWord_run-01_events.tsv": "51dfb3e3112c48e45411a107101e0a0f9ba18b99",
+  "sub-2500/func/sub-2500_task-VVWord_run-01_events.tsv": "a9f93e41c3a60807a44996526a9769a3ec1a7671"
+}

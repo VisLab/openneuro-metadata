@@ -1,0 +1,77 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier",
+		"Units": "n/a"
+    },
+    "age": {
+        "Description": "Age of the participant at time of testing",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "Biological sex of the participant",
+        "Levels": {
+            "f": "female",
+            "m": "male"
+        }
+    },
+	 "accuracy_3": {
+        "Description": "Average accuracy of the participant within 3-letter trials",
+        "Units": "percent"
+    },
+	"accuracy_6": {
+        "Description": "Average accuracy of the participant within 6-letter trials",
+        "Units": "percent"
+    },
+	"accuracy_9": {
+        "Description": "Average accuracy of the participant within 9-letter trials",
+        "Units": "percent"
+    },
+	"accuracy_12": {
+        "Description": "Average accuracy of the participant within 12-letter trials",
+        "Units": "percent"
+    },
+	"accuracy_15": {
+        "Description": "Average accuracy of the participant within 15-letter trials",
+        "Units": "percent"
+    },
+	"MT": {
+        "Description": "The result of the Russian adaptation of Mental Toughness Questionnaire (Papageorgiou et al., 2018)",
+        "Units": "n/a"
+    },
+	"NfC": {
+        "Description": "The result of the Need for Cognition questionnary (Shepeleva et al., 2018)",
+        "Units": "n/a"
+    },
+	"PA": {
+        "Description": "The result of the the Russian adaptation of State-Trait Anxiety Inventory (Hanin & Spielberger, 1983)",
+        "Units": "n/a"
+    },
+	"Raven": {
+        "Description": "The result of the Raven's Progressive Matrices Test of the participant",
+        "Units": "n/a"
+    },
+	"SE": {
+        "Description": "The result of the The Russian version (Romek et al., 1996) of Self-efficacy questionnaire",
+        "Units": "n/a"
+    },
+	"hardiness": {
+        "Description": "The general score of the abbreviated Russian version (Osin & Rasskazova, 2013) of the Hardiness questionnaire",
+        "Units": "n/a"
+    },
+	"hardComm": {
+        "Description": "The result of the Commitment subscale of the Hardiness questionnaire (Osin & Rasskazova, 2013)",
+        "Units": "n/a"
+    },
+	"hardContr": {
+        "Description": "The result of the Control subscale of the Hardiness questionnaire (Osin & Rasskazova, 2013)",
+        "Units": "n/a"
+    },
+	"hardChall": {
+        "Description": "The result of the Challenge subscale of the Hardiness questionnaire (Osin & Rasskazova, 2013)",
+        "Units": "n/a"
+    },
+	"AM": {
+        "Description": "The result of the Achievement Motivation and Fear of Failure questionnaire (Rean et al., 2002)",
+        "Units": "n/a"
+    }
+}

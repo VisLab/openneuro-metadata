@@ -1,0 +1,17 @@
+{
+    "Name": "7T fMRI VASO of the human hippocampus",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Haekkinen, Suvi",
+        "Beckett, Alexander",
+        "Walker, Erica",
+        "Huber, Renzo",
+        "Feinberg, David"
+    ],
+    "Funding": [
+        "NIH (U01-EB025162, U24-NS129949, R44-MH129278), Weill NeuroHub"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007122.v1.0.0"
+}

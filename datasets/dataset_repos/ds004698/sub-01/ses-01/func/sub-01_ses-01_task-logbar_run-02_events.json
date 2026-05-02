@@ -1,0 +1,41 @@
+{
+  "StimulusPresentation": {
+    "OperatingSystem": "MacOS 11.4",
+    "ScreenDistance": 133,
+    "ScreenRefreshRate": 60,
+    "ScreenResolution": [
+      1920,
+      1080
+    ],
+    "ScreenSize": [
+      69.84,
+      39.29
+    ],
+    "SoftwareName": "Psychtoolbox",
+    "SoftwareVersion": "3.0.18"
+  },
+  "duration": {
+    "Description": "Stimulus duration time in seconds",
+    "LongName": "Stimulus duration time"
+  },
+  "onset": {
+    "Description": "Stimulus onset time in seconds",
+    "LongName": "Stimulus onset time"
+  },
+  "response": {
+    "Description": "Participant reported a color change at fixation",
+    "Levels": {
+      "no": "Did not report color change",
+      "yes": "Reported color change"
+    },
+    "LongName": "Participant reported a fixation color change"
+  },
+  "trial_type": {
+    "Description": "Respond when the fixation cross changes color",
+    "Levels": {
+      "change": "A color change occured to the fixation cross",
+      "n/a": "A color change did not occur to the fixation cross"
+    },
+    "LongName": "Color change detection at fixation"
+  }
+}

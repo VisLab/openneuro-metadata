@@ -1,0 +1,20 @@
+{
+    "Name": "UCB-J PET and T1W Images for Synapse Project Cohort",
+    "BIDSVersion": "1.2.1",
+    "License": "CC0",
+    "Authors": [
+        "Barbara Bendlin, Sterling Johnson, and Bradley Christian"
+    ],
+    "DatasetType": "raw",
+    "Funding": [
+        "This research was funded by the National Institute on Aging, where data acquisition and sharing were accomplished through the SYNAPSE study (R01 AG062285), Wisconsin ADRC (P30 AG062715), and WRAP (R01 AG027161) studies. Funding was also provided by the Eunice Kennedy Shriver National Institute of Child Health and Human Development (U54 HD090256), as well as an instrumentation grant from the NIH Office of the Director (S10 OD025245)."
+    ],
+    "Links": "https://bendlinlab.medicine.wisc.edu/",
+    "ReferencesAndLinks": [
+        "https://bendlinlab.medicine.wisc.edu/"
+    ],
+    "EthicsApprovals": [
+        "IRB Approval"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007561.v1.0.0"
+}

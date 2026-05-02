@@ -1,0 +1,51 @@
+{
+  "onset": {
+    "Description": "onset of the stimuli",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "duration of the code",
+    "Units": "miliseconds"
+  },
+  "value": {
+    "Description": "Code for the stimulus type {11, 12}",
+    "Levels": {
+      "s__10": "Go",
+      "s__21": "Nogo",
+      "s__81": "TMS pulse theta",
+      "s__82": "TMS pulse notheta"
+    }
+  },
+  "response": {
+    "Description": "Response or participant's selection {n/a, 1, 2, 3}.",
+    "Levels": {
+      "na": "no responses",
+      "s__1": "1 option",
+      "s__2": "2 option",
+      "s__3": "3 option"
+    }
+  },
+  "rt": {
+    "Description": "reaction time",
+    "Units": "Miliseconds"
+  },
+  "good": {
+    "Description": "Trials correctly presented on the screen {0, 1}.",
+    "Levels": {
+      "v_1": "Correctly presented ",
+      "v_0": "Non correctly presented "
+    }
+  },
+  "TMS": {
+    "Description": "Type of TMS pulse",
+    "Levels": {
+      "s_52": "Notheta",
+      "s_51": "Theta",
+      "s_50": "Sham"
+    }
+  },
+  "seq": {
+    "Description": "number of the traila of each sequience",
+    "Units": "count"
+  }
+}

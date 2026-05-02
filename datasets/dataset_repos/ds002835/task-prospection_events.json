@@ -1,0 +1,56 @@
+{
+	"onset": {
+		"Description": "onset time of entire trial"
+	},
+	"duration": {
+		"Description": "duration of entire trial. Always the same (when measured from imageine_onset to imagine_onset)"
+	},
+	"block": {
+		"Description": "run number"
+	},
+	"trial": {
+		"Description": "trial number"
+	},
+	"cue_onset": {
+		"Description": "onset of the cue that tells participants to imagine the given scenario"
+	},
+	"cue_duration": {
+		"Description": "the duration of the cue that can be terminated by the participant or after 7 seconds"
+	},
+	"imagine_onset": {
+		"Description": "onset of the imagination period"
+	},
+	"imagine_duration": {
+		"Description": "duration of the imagination period"
+	},
+	"vivrating_onset": {
+		"Description": "onset of the period where participants rate the vividness of the imagination from 1 to 7"
+	},
+	"vivrating_duration": {
+		"Description": "duration of the vividness rating period"
+	},
+	"valrating_onset": {
+		"Description": "onset of the period where participants rate the valence of the imagination from 1 to 7"
+	},
+	"valrating_duration": {
+		"Description": "duration of the valence rating period"
+	},
+	"vivid": {
+		"Description": "indicator for vivid trial. 1 if trial is vivid condition, 0 if it's non-vivid condition"
+	},
+	"positive": {
+		"Description": "indicator for positive valence trial. 1 if trial is positive valence, 0 if it's negative valence"
+	},
+	"farfuture": {
+		"Description": "indicator for imagination distance. 1 if participants were told to imagine the scenario in the far future (more than a year from now), 0 if in the near future (within the next week)"
+	},
+	"valRating": {
+		"Description": "participants' valence rating of the imagination from 1 to 7"
+	},
+	"vivRating": {
+		"Description": "participants' vividness rating of the imagination from 1 to 7"
+	},
+	"event": {
+		"Description": "The scenario that participants were asked to imagine about"
+	}
+}

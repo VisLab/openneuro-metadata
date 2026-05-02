@@ -1,0 +1,22 @@
+{
+  "CHANGES": "797ac8238b96ee90c6e6a6f00a377f51dff65c5c",
+  "task-backtothefuture_bold.json": "7b45ef27c30385609e6b3741687aeb304c68305e",
+  "task-tonotopy_bold.json": "eda00a24813f34a3c9231398bbc39ba1f1213b7b",
+  "dataset_description.json": "2b9e9a26285cff9d20d71f5623aab1daef40b8f2",
+  "README": "1b37fa77c4a10fd6ccf4f296b5d486828c69de53",
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "participants.tsv": "d270f2553a36d6abc77c5b16b28760ed98cc02f0",
+  "task-retinotopy_bold.json": "4c930fcdc077dc7436a432af821f672e391e3645",
+  "task-somatotopy_bold.json": "3746122ee1d64cd130da4ea8c48463323a2dab73",
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "sub-01/ses-001/func/sub-01_ses-001_task-backtothefuture_run-001_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-002/func/sub-01_ses-002_task-retinotopy_run-003_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-002/func/sub-01_ses-002_task-retinotopy_run-002_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-002/func/sub-01_ses-002_task-tonotopy_run-002_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-002/func/sub-01_ses-002_task-tonotopy_run-001_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-002/func/sub-01_ses-002_task-somatotopy_run-001_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-002/func/sub-01_ses-002_task-somatotopy_run-002_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-002/func/sub-01_ses-002_task-retinotopy_run-001_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-001/func/sub-01_ses-001_task-backtothefuture_run-002_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-001/func/sub-01_ses-001_task-backtothefuture_run-003_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5"
+}

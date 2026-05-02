@@ -1,0 +1,22 @@
+Dataset description ===  This is the dataset that accompanies the following publication under review (2023)  in Imaging NeuroScience  
+Title : "Atypical Hemispheric Re-Organization of the Reading Network in High-Functioning Adults with Dyslexia: Evidence from Representational Similarity Analysis"
+Authors : Eddy Cavalli , Valérie Chanoine, Yufei Tan, Jean-Luc Anton, Bruno Giordano, Felipe Pegado & Johannes C. Ziegler 
+
+The dataset contains anatomical and functional MRI images
+ of 40 partipants (20 typical and  20 dyslexic readers)
+
+MorphoSem = BIDS Directory Structure
+-- Subject-level data  --- raw MRI images at 3 T
+	sub-{id}/anat    --- anatomical
+	sub-{id}/fmap   --- functional
+	sub-{id}/funct   --- fieldmap
+
+-- sourcedata              ---  experimental files during scanning
+
+-- code                          ---  scripts of data analyses
+         univariate            
+         multivariate
+
+
+
+

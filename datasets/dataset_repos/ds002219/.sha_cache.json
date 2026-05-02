@@ -1,0 +1,10 @@
+{
+  "CHANGES": "4d2a9b6dc452dcf8ef115dce0bf9760695a8f476",
+  "participants.tsv": "1fe53e78196692a5d6301e18b7ccc832c4b76111",
+  "dataset_description.json": "c09693fcf9cc007d9ec46205c345567363d9549d",
+  "task-silentreading_bold.json": "9a2b0c814063be5f98a9d0fc0b4b261a8e938dee",
+  "sub-01/func/sub-01_task-silentreading_run-3_events.tsv": "9de39e4e4843379ef7e1ee7ee9d4bc6984869a49",
+  "sub-01/func/sub-01_task-silentreading_run-4_events.tsv": "5050b55da2ba515a3822665e2b71bc7771376105",
+  "sub-01/func/sub-01_task-silentreading_run-2_events.tsv": "75f9bf9bd67d3759559aeef468d404591d5d6a47",
+  "sub-01/func/sub-01_task-silentreading_run-1_events.tsv": "ebf7969fb534bf38c0559d70e7bc3ebb8283de3a"
+}

@@ -1,0 +1,8 @@
+{
+  "participants.tsv": "9c12d06183e6597b9aaf83a94b47b03e022128c5",
+  "README.md": "a2864e69380abd9339b86f9eea1ca8f359e92ac7",
+  "dataset_description.json": "cc52aae0a2da16e65a58bfc469347281baf51a9e",
+  "CHANGES": "6c5dd2fc422cae26a06abcf26cead687ed518451",
+  "sub-001/ses-post/eeg/sub-001_ses-post_task-rest_events.tsv": "b6771bfd1f4a9022163d02c0195ecb38f2f91520",
+  "sub-001/ses-pre/eeg/sub-001_ses-pre_task-rest_events.tsv": "26c3b1ff4bd37203e02ecac69d7c2d48e428e2bd"
+}

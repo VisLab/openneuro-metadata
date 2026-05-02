@@ -1,0 +1,8 @@
+1.2.0 2024-05-13
+  - Update to README to add citation and DOI associated with online publication in Journal of Neuroscience Methods
+1.1.1 2024-02-19
+  - Corrected BIDS validator version in README
+1.1.0 2024-02-19
+  - Clarification added in README regarding unavailable data
+1.0.0 2024-02-19
+  - Initial data upload

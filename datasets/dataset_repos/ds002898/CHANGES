@@ -1,0 +1,7 @@
+1.1.0 2020-09-08
+  - - Updated PET JSON side cars to match latest version of PET BIDS Extension Proposal (https://docs.google.com/document/d/1mqMLnxVdLwZjDd4ZiWFqjEAmOmfcModA_R535v3eQs0/edit#)
+  - - Included Motion-correction parameters estimated by FSL MCFLIRT for PET images in "derivatives" directory
+
+1.0.0	2020-09-08
+
+	- Initial snapshot

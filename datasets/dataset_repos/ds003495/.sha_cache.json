@@ -1,0 +1,11 @@
+{
+  "README": "d13382911908d9bb6c58cd4d0b67e51f358f193a",
+  "task-emomatching_acq-seq_events.json": "6c7280d1a2aa3821bcc4c48bdff1a794fdde3c8c",
+  "dataset_description.json": "f902449e5d4921aaed8b238f6df063dbdba0ba30",
+  "task-emomatching_acq-seq_bold.json": "5de3b9b5a8d3fe8824580f201a1ad6cc64db9feb",
+  "participants.tsv": "13c8f7f4187d16fb6acb09a217825297d65dda0a",
+  "task-restingstate_acq-seq_bold.json": "5de3b9b5a8d3fe8824580f201a1ad6cc64db9feb",
+  "task-restingstate_acq-mb3_bold.json": "e2ac0cdf42cde30459b649f2d9e18cd944788caa",
+  "sub-01/ses-post/func/sub-01_ses-post_task-emomatching_acq-seq_events.tsv": "168b9c50d3b052a621bb30032d791c4f78c49eec",
+  "sub-01/ses-pre/func/sub-01_ses-pre_task-emomatching_acq-seq_events.tsv": "129bfbab4a6ee9c74c164b56dba692b2a6fe8a36"
+}

@@ -1,0 +1,35 @@
+{
+  "onset": {
+	"Description": "Trial onset (Stimuli.OnsetTime in eprime output).",
+    "Units": "seconds"
+  },
+  "duration": {
+	"Description": "Trial duration.",
+    "Units": "seconds"
+  },
+  "trial_type": {
+        "Description": "Whether the response (ink color) matches the printed word. (TrialType in eprime output).",
+        "Levels": {
+            "Con": "Congruent. Printed word is same as the ink color. Low cognitive control demands.",
+            "InCon": "Incongruent. Printed word is different than the ink color. High cognitive control demands."
+        }
+  },
+  "trial_lwpc": {
+	"Description": "List-wise proportion congruency assignment of this trial. (LWPC in eprime output).",
+    "Levels": {
+            "PC50": "0.5 proportion congruent color: red, blue, white, or purple.",
+            "MC": "mostly congruent color: pink, green, black, or yellow"
+        }
+  },
+  "response_time": {
+	"Description": "Time between start of audio recording (Stimulus appearance) and spoken response, as measured by https://github.com/ccplabwustl/dualmechanisms/tree/master/preparationsAndConversions/audio. Not in the eprime output.",
+    "Units": "seconds"
+  },
+  "response_accuracy": {
+	"Description": "If the response was correct, as determined by two people listening to each recording. Not in the eprime output.",
+    "Levels": {
+      "0": "incorrect",
+      "1": "correct"
+    }
+  }
+}

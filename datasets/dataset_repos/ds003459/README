@@ -1,0 +1,15 @@
+#Description
+
+This dataset contains functional MRI data while participants ages 9-35 complete auditory and visual spelling, rhyming, meaning, and syntactic judgement tasks. All tasks were presented using PsyScope. In addition this dataset contains standardized testing data from pediatric participants on the Comprehensive Test of Phonological Processing (CTOPP), the Peabody Picture Vocabulary Test - Third Edition (PPVT-IIII), the Wechsler Intelligence Scale for Children - Third Edition (WISC-III), the Woodcock Johnson - Third Edition (WJ-III), and the Wide Range Achievement Test - Third Edition (WRAT-III). See data dictionary json files for task and test descriptions.
+
+#Acq
+
+Acq-a,b,c indicate the visit day that tasks were completed. Corresponding shifted aquisition dates can be found in the participants.tsv. These were not separated into different session folders as they were not considered to be separate for analysis and often T1w anatomical images were not collected at all visits.
+
+#Defacing
+
+All SPGR anatomical files were defaced using pydeface
+
+# Known Issues
+
+Images were converted from img and hdr files using mri_convert with default settings as orientation files were not present

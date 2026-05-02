@@ -1,0 +1,10 @@
+{
+    "RepetitionTime": 1.53172,
+    "TaskName": "RP flavour task",
+    "Manufacturer": "Philips",
+    "ManufacturersModelName": " Intera",
+    "PulseSequenceType": "PRESTO",
+    "MagneticFieldStrength": 3,
+    "EchoTime": 0.03,
+    "FlipAngle": 7
+}

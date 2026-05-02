@@ -1,0 +1,45 @@
+This dataset was obtained in three sessions over two days with a single subject (PM), a competitive memory champion who uses the method of loci.
+
+The four task types were:
+1) task-loci: Walking through the (empty) loci
+2) task-encode: Given one two-digit number at a time, construct a memorable event at each locus
+3) task-recall: Recall events and corresponding numbers from most recent encoding session
+4) task-forget: Walk through loci, attempting to remove associated event from memory
+
+The order of the scans was:
+
+Session 1 (Day 1, AM)
+1) sub-01_ses-01_task-loci_run-01_bold
+2) sub-01_ses-01_task-loci_run-02_bold
+3) sub-01_ses-01_task-encode_run-01_bold (list #1)
+4) sub-01_ses-01_task-recall_run-01_bold (list #1)
+5) sub-01_ses-01_task-recall_run-02_bold (list #1)
+6) sub-01_ses-01_task-forget_run-01_bold
+7) sub-01_ses-01_task-encode_run-02_bold (list #2)
+8) sub-01_ses-01_task-recall_run-03_bold (list #2)
+9) sub-01_ses-01_task-recall_run-04_bold (list #2)
+10) sub-01_ses-01_task-forget_run-02_bold
+
+
+Session 2 (Day 1, PM)
+1) sub-01_ses-02_task-loci_run-01_bold
+2) sub-01_ses-02_task-loci_run-02_bold
+3) sub-01_ses-02_task-encode_run-01_bold (list #3)
+4) sub-01_ses-02_task-recall_run-01_bold (list #3)
+5) sub-01_ses-02_task-encode_run-02_bold (list #3)
+6) sub-01_ses-02_task-recall_run-02_bold (list #3)
+7) sub-01_ses-02_task-recall_run-03_bold (list #3)
+8) sub-01_ses-02_task-forget_run-01_bold
+
+
+Session 3 (Day 2, AM)
+1) sub-01_ses-03_task-loci_run-01_bold
+2) sub-01_ses-03_task-loci_run-02_bold
+3) sub-01_ses-03_task-encode_run-01_bold (list #4)
+4) sub-01_ses-03_task-recall_run-01_bold (list #4)
+5) sub-01_ses-03_task-recall_run-02_bold (list #4)
+6) sub-01_ses-03_task-forget_run-01_bold
+7) sub-01_ses-03_task-encode_run-02_bold (list #5)
+8) sub-01_ses-03_task-recall_run-03_bold (list #5)
+9) sub-01_ses-03_task-recall_run-04_bold (list #5)
+10) sub-01_ses-03_task-forget_run-02_bold

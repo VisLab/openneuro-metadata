@@ -1,0 +1,16 @@
+{
+  "CHANGES": "ce1cef3bdff788b7eb5b37732bd73407f9e2df91",
+  "task-calorieimage_bold.json": "b85a07593ba8c57f60f622ab9287999e3026f4c9",
+  "participants.tsv": "c4e99b31e042adbed50111e85f435567149f37e6",
+  "participants.json": "1477fa77928eac1395536220ec7d33c5068189ff",
+  "dataset_description.json": "fbdfcb692122f6c5fb808de3647fd78bdf7af625",
+  "task-foodimage_bold.json": "8d632e2f06c1e30e006d8d83ea1ebbe4ab69314d",
+  "sub-01/func/sub-01_task-foodimage_run-02_events.json": "706ef0b9db79443e9da933d26cd8dbd37e203184",
+  "sub-01/func/sub-01_task-calorieimage_run-03_events.json": "706ef0b9db79443e9da933d26cd8dbd37e203184",
+  "sub-01/func/sub-01_task-calorieimage_run-03_events.tsv": "41f7cde6b4cd47d2d4e132091f87a1784baa699c",
+  "sub-01/func/sub-01_task-foodimage_run-01_events.tsv": "cfd4445ca05ff2ef0620d74974cc134d4f526948",
+  "sub-01/func/sub-01_task-foodimage_run-01_events.json": "706ef0b9db79443e9da933d26cd8dbd37e203184",
+  "sub-01/func/sub-01_task-foodimage_run-02_events.tsv": "1fc102041e5309755e3084cfdadb35bad0385b52",
+  "sub-01/func/sub-01_task-calorieimage_run-04_events.json": "706ef0b9db79443e9da933d26cd8dbd37e203184",
+  "sub-01/func/sub-01_task-calorieimage_run-04_events.tsv": "b979b02553da923cfc32b2080d860d6d9409ed6f"
+}

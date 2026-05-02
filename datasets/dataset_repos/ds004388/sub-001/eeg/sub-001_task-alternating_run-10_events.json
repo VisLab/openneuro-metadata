@@ -1,0 +1,19 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "second"
+  },
+  "trial_type": {
+    "Description": "Type of event",
+    "Levels": {
+      "stimulus": "Onset of stimulus"
+    }
+  },
+  "sample": {
+    "Description": "Event sample starting at 0 (Matlab convention starting at 1)"
+  }
+}

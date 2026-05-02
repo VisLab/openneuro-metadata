@@ -1,0 +1,12 @@
+{
+  "CHANGES": "8501852f3d46df69aef7fd52c9ead1de4d3b67f1",
+  "task-Edzna_events.json": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
+  "dataset_description.json": "cd3b6f8f20307a96a486ffb4fb22d776917b6fbf",
+  "participants.json": "3948b17fce8e817e2d6c6c94bf91ac84245a185b",
+  "participants.tsv": "d2bbf673768ff9d9488af5b24bfc2e14aa25e181",
+  "README": "0aecb64e7a98c85d3712f49e2f4128f75d84c596",
+  "metadata.xlsx": "b17c6a17859f095e9bcb9b42ace3487d3ffd8196",
+  "sub-1p/eeg/sub-1p_task-Edzna_run-1_events.tsv": "cde284f9fba7214ae3e456295b1d62da084f7a09",
+  "sub-1p/eeg/sub-1p_task-Edzna_run-3_events.tsv": "292c60bfbe15a508c6c899ba59258ff32d122b04",
+  "sub-1p/eeg/sub-1p_task-Edzna_run-2_events.tsv": "fb839bc7fb78c7d5c920f8ef444dd180407511ec"
+}

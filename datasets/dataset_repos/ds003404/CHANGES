@@ -1,0 +1,8 @@
+1.0.8 2025-08-20
+  - Replaced corrupted structural file
+1.0.7 2025-08-20
+  - - Replaced corrupted structural files
+1.0.6 2025-08-15
+  - 1.0.6 2025-08-15 - Fixed an issue with BIDS anonymization for structurals
+1.0.5 2025-02-13
+  - - Fixed a BIDS formatting issue.

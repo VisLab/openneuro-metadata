@@ -1,0 +1,27 @@
+{
+    "sub": {
+        "LongName": "Subject ID",
+        "Description": "Subject identification number"
+    },
+    "onset": {
+        "LongName": "Stimulus onset",
+        "Description": "Stimulus onset time (in seconds)"
+    },
+    "duration": {
+        "LongName": "Stimulus duration",
+        "Description": "Stimulus duration (in seconds)"
+    },
+    "trial_type": {
+        "LongName": "Trial type",
+        "Description": "The number indicates the frequency condition (1 or 5) and the text indicates subsequent memory performance for the association"
+    },
+    "stim": {
+        "LongName": "Stimulus",
+        "Description": "The stimulus that appeared on the screen"
+    },
+    "stimulus_side": {
+        "LongName": "Stimulus side",
+        "Description": "Whether the stimulus appeared on the left (1) or the right (2) of the associate"
+
+    }}
+

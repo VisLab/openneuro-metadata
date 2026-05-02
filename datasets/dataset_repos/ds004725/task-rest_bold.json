@@ -1,0 +1,12 @@
+{
+  	"TaskName": "Resting state scan",
+	"Modality": "MR",
+	"MagneticFieldStrength": 3,
+	"Manufacturer": "Philips",
+	"ManufacturersModelName": "Achieva",
+	"InstitutionName": "University_of_Florida",
+	"InstitutionalDepartmentName": "McKnight_Brain_Institute",
+	"BodyPartExamined": "BRAIN",
+	"PatientPosition": "HFS",
+	"RepetitionTime": 2
+}

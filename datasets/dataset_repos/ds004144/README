@@ -1,0 +1,3 @@
+Here we present an open dataset of 33 fibromyalgia female patients and 33 paired healthy controls recruited from a Mexican population. Dataset includes MRI data that consists of: T1w, T2w, resting state fMRI and task-fMRI sequences. The task was an emotion processing and regulation task based on visual stimuli (pictures). The MRI data consists of raw data in BIDS format.
+
+The demographic, clinical, and behavioral data is available at Zenodo: http://doi.org/10.5281/zenodo.6554870

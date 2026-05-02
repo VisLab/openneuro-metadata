@@ -1,0 +1,18 @@
+{
+  "StimulusPresentation": {
+    "SoftwareName": "Psychtoolbox",
+    "SoftwareVersion": "3.0.19",
+    "OperatingSystem": "Windows 10",
+    "Code": "n/a",
+    "Environment": {
+      "SoftwareName": "MATLAB",
+      "SoftwareVersion": "2021b"
+    }
+  },
+  "StimulusGeneration": {
+    "Type": "Beep",
+    "Description": "Sine wave generated in MATLAB; nominal duration 500 ms (per article)",
+    "SoftwareName": "MATLAB",
+    "SoftwareVersion": "2021b"
+  }
+}

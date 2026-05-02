@@ -1,0 +1,16 @@
+{
+  "CHANGES": "7500331a43c30de3f55661bdf17722967309c0d6",
+  "README": "4ea4df338a2fd3becd0994b243674e1c1bde596a",
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "participants.tsv": "f531818e8d3dbc41c4ed1f3510e9407007085308",
+  "dataset_description.json": "146446b396333452355a84d033daf58df09d75f1",
+  "task-categorySelectivity_bold.json": "c8143c77a468dee417dc53fcc85e52a114e73990",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-categorySelectivity_run-4_events.tsv": "94cbe15e211f8ffca789cbfd296aca98002d3f9d",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-categorySelectivity_run-5_events.tsv": "88192db2498c54d8d94dbb20ddaa2eeee763178a",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-categorySelectivity_run-6_events.tsv": "9184fed9ab7ca5099579348e8a9a1f4c4e55f1a3",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-categorySelectivity_run-7_events.tsv": "1451a2713724333c85965dfe8f1907ac7e37842f",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-categorySelectivity_run-1_events.tsv": "e468e9814c67deebd8f03449c8577afbff9444ab",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-categorySelectivity_run-8_events.tsv": "d423a07504c45cf0e5d0ed2bb5eaad67122c3f3e",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-categorySelectivity_run-2_events.tsv": "e7ff0607f577c096092feeeac5f83be2d9d8986a",
+  "sub-01/ses-mri/func/sub-01_ses-mri_task-categorySelectivity_run-3_events.tsv": "e0032c87c856d40fc7529dfda0cccfface74442f"
+}

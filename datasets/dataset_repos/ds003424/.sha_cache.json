@@ -1,0 +1,11 @@
+{
+  "dataset_description.json": "8794c30e3af8251a1c5c2bca58c3919147b5fe99",
+  "task-taste_bold.json": "88dfd515a6bce26b0b661c37021e427b542366dd",
+  "participants.tsv": "78e038320b6e65baeff0fd2b4ea570a1941d267b",
+  "task-resting_bold.json": "ce42ad915d4b785768433e44aa2ea500d998526b",
+  "README": "c2b114ef39ac1785352e163aa380f9ed8529f911",
+  "sub-01/func/sub-01_task-taste_run-3_events.tsv": "aabf58de9cf31324dfc0ecd48d6b7b5b1daf3214",
+  "sub-01/func/sub-01_task-taste_run-1_events.tsv": "29f51f0ace05227fc3cb6d30642d9559b6a1e411",
+  "sub-01/func/sub-01_task-taste_run-2_events.tsv": "60f116ecb3bafbe1dbf4abb87e1d2ae5aad44a7b",
+  "sub-01/func/sub-01_task-taste_run-4_events.tsv": "b81488c34f6147d84d93c32dc221a3cc9cae293c"
+}

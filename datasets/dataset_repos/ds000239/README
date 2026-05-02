@@ -1,0 +1,33 @@
+s dataset is a re-publishing in BIDS format of a dataset previously published on figshare: Maclaren, Julian; Han, Zhaoying; B. Vos, Sjoerd; Fischbein, Nancy; Bammer, Roland (2014): Test-retest data, comprising multiple T1-weighted MRI brain volumes. figshare.
+https://doi.org/10.6084/m9.figshare.929651_D7
+
+The dataset comprises three participants, each of whom was scanned 40 times.
+
+Details of this dataset are described in Maclaren et al, Scientific Data 1:140037 (2014), doi: 10.1038/sdata.2014.37, which should be cited when publishing work using this data.
+
+The dataset was defaced and rearranged into BIDS format by Gustav Nilsonne (gustav.nilsonne@ki.se) with assistance from Daniel Samsami.
+
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Defacing
+--------
+Defacing was performed by the submitter using SPM12.
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/latest/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000239/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000239.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.

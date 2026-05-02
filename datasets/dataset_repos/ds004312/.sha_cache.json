@@ -1,0 +1,21 @@
+{
+  "README": "945bd8e0ffdd8b410ddf00042202b561361154d3",
+  "dataset_description.json": "4867d61d23bdcea7f2e73f457c6fb0209a8e4a76",
+  "CHANGES": "6e524ca756b3982b79bbfad251c7d9fbe7912e56",
+  "task-foodpicture_events.json": "f5ca3c713fd3a84643fe18f4373b83ee5f76eadc",
+  "task-tasteimagine_bold.json": "1646cb553f49e590be26bbe2df7a309b8e946379",
+  "participants.tsv": "e1d8d2439816a94f5e095dac4e5025adc1e95066",
+  "T1w.json": "267b6feb08bb00caa37d599a363db9a50daa27fd",
+  "task-foodpicture_bold.json": "dc20f5ef3954a18c1dd2b2feb64c291a6531ebd1",
+  "participants.json": "cfb02f336ed94c5af0302f75b5765499d6aab3b3",
+  "dir-PA_epi.json": "fa5e6682337d9da3513df733f5b6bfa7c577ae87",
+  "task-tasteimagine_events.json": "b9f547311b0012ad4ae11f1cfd41386e905ff3f6",
+  "sub-060/ses-01/func/sub-060_ses-01_task-tasteimagine_run-01_events.tsv": "a77e39ff6deef5509efbabe15a78d47a575e9e9b",
+  "sub-060/ses-01/func/sub-060_ses-01_task-foodpicture_run-01_events.tsv": "2a741fbcd27e9f53092ed56fc8ed64bcddebf2bd",
+  "sub-060/ses-01/func/sub-060_ses-01_task-foodpicture_run-02_events.tsv": "2a741fbcd27e9f53092ed56fc8ed64bcddebf2bd",
+  "sub-060/ses-01/func/sub-060_ses-01_task-tasteimagine_run-02_events.tsv": "6d1aaed7cb0a3b4879330d1cd3c36d1a999f70ea",
+  "sub-060/ses-01/func/sub-060_ses-01_task-foodpicture_run-04_events.tsv": "fc88a0e5e085dbc0859599d6f18cd39453157b96",
+  "sub-060/ses-01/func/sub-060_ses-01_task-foodpicture_run-03_events.tsv": "dc19ca9d709908cee3dfa26fa6b3b79d92382e74",
+  "sub-060/ses-01/func/sub-060_ses-01_task-tasteimagine_run-03_events.tsv": "e199fd15204aa4eee94493c87f14893f97e0e2c1",
+  "sub-060/ses-01/func/sub-060_ses-01_task-tasteimagine_run-04_events.tsv": "8db68fd3c67f1f36c32a80c7faf8a5e691980644"
+}

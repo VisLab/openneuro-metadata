@@ -1,0 +1,22 @@
+{
+    "Description": "Events file for the Poland movie, detailing the timing and type of events during the fMRI scan.",
+    "onset": {
+        "Description": "Onset time of the event in seconds relative to the start of the scan",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event in seconds",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Type of event: onset_movie marks the start of the movie stimulus, offset_movie marks the end"
+    },
+    "stim_file": {
+        "Description": "Filename of the stimulus video presented during this task"
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "Windows 10",
+        "SoftwareName": "PsychoPy",
+        "SoftwareVersion": "2024.1.0"
+    }
+}

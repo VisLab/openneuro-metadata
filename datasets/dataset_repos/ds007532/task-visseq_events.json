@@ -1,0 +1,65 @@
+{
+  "Description": "Event timing and trial metadata for the visual sequence mismatch detection (VISSEQ) task.",
+  "StimulusPresentation": {
+    "OperatingSystem": "Windows 10",
+    "SoftwareName": "Psychophysics Toolbox",
+    "SoftwareRRID": "RRID:SCR_002881",
+    "SoftwareVersion": "3.0.18",
+    "Code": "https://doi.org/10.1073/pnas.2525724123",
+    "ScreenDistance": 1.39,
+    "ScreenOrigin": ["left", "top"],
+    "ScreenResolution": [1023, 767],
+    "ScreenSize": [0.60, 0.45],
+    "ScreenRefreshRate": 60
+  },
+  "weight": {
+    "Description": "Trial weight for GLM modeling. Always 1 for all trials in this dataset."
+  },
+  "memtype": {
+    "Description": "Behavioral response outcome for the trial.",
+    "Levels": {
+      "0": "No response recorded.",
+      "1": "Hit — intact sequence correctly identified as old.",
+      "2": "Miss — intact sequence incorrectly identified as new.",
+      "3": "Correct rejection — manipulated sequence correctly identified as new.",
+      "4": "False alarm — manipulated sequence incorrectly identified as old."
+    }
+  },
+  "resolution": {
+    "Description": "Mismatch distance between the studied and test sequence attributes at the critical serial position.",
+    "Levels": {
+      "1": "Near — swapped attributes were similar (close in semantic embedding space or adjacent spatial locations).",
+      "2": "Far — swapped attributes were dissimilar (distant in semantic embedding space or opposing spatial locations)."
+    }
+  },
+  "memcond": {
+    "Description": "Type of sequence manipulation at test.",
+    "Levels": {
+      "1": "Intact — test sequence was identical to the studied sequence.",
+      "2": "Object swap — the object at the critical serial position was swapped with one from another sequence.",
+      "3": "Location swap — the location of the object at the critical serial position was swapped with one from another sequence.",
+      "4": "Both swap — both the object and location at the critical serial position were swapped."
+    }
+  },
+  "phase": {
+    "Description": "Phase of the trial.",
+    "Levels": {
+      "1": "Study — encoding phase in which the object sequence was presented.",
+      "2": "Test — retrieval phase in which the probe sequence was presented for old/new judgment.",
+      "3": "Response — response period during which the participant indicated old or new."
+    }
+  },
+  "trial": {
+    "Description": "Trial number within the run (1-16)."
+  },
+  "run": {
+    "Description": "Run number. Redundant with the BIDS filename run index."
+  },
+  "eye": {
+    "Description": "Whether the event corresponds to a fixation event recorded by the EyeLink 1000 Plus eye tracker (500 Hz).",
+    "Levels": {
+      "0": "Non-fixation event.",
+      "1": "Fixation event."
+    }
+  }
+}

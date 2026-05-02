@@ -1,0 +1,8 @@
+{
+  "CHANGES": "ea8efa5d5c66391c944d7d37364e9a94aeb78e41",
+  "participants.tsv": "c075bae5d24fdfc1e4f49a620db84b074b799778",
+  "T1w.json": "32ec0aa066dbd2e3bbb656ddd7a33ce9da1d2bf8",
+  "dataset_description.json": "52eeec8c8988405cc978d0fd96b05e49b703d0e5",
+  "sub-01/func/sub-01_task-arithm_run-01_events.tsv": "617c1523a3a508c7055ed5a970068f748c861e36",
+  "sub-01/func/sub-01_task-arithm_run-02_events.tsv": "617c1523a3a508c7055ed5a970068f748c861e36"
+}

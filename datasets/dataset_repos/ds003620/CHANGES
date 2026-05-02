@@ -1,0 +1,16 @@
+1.1.1 2021-11-17
+  - - update publication reference
+1.1.0 2021-10-15
+  - add gait parameter analysis (MATLAB preprocessing script and additional R statistical analysis)
+  - cleaner readme file
+1.0.2 2021-08-02
+  - additional supplementary ERP analysis
+  - update ERPLAB (v8.10) to ensure correct SEM on ERP plots
+  - 40 Hz low-pass filter prior ICA
+  - exclude ECG components
+  - recompute models and plots
+
+1.0.1 2021-04-23
+  - add derivatives & source data
+1.0.0 2021-04-20
+  - initial release

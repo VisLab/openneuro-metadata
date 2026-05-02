@@ -1,0 +1,8 @@
+{
+  "README": "4f6c58b51bef440a59d00ec52c31e387f5b8a503",
+  "CHANGES": "da546f98fa22d069902f97f58825bfce5a94a731",
+  "participants.tsv": "52ed4206181e9445fa67d260d1404a853258cf27",
+  "dataset_description.json": "7fc61f3631ad2758b1bd1afb43794edf1474b384",
+  "sub-01/func/sub-01_task-darkend1_events.tsv": "7c1916c379413b931725460666ec00d090b9adf5",
+  "sub-01/func/sub-01_task-darkend2_events.tsv": "7c1916c379413b931725460666ec00d090b9adf5"
+}

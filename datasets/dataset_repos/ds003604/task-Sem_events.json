@@ -1,0 +1,81 @@
+{
+  "onset": {
+    "LongName": "Trial Onset Time",
+    "Description": "Onset time of the first stimulus",
+    "Units": "s"
+  },
+  "duration": {
+    "LongName": "Trial Duration",
+    "Description": "Duration of trial from beginning of first stimulus to the begining of the next trial",
+    "Units": "s"
+  },
+  "trial_type": {
+    "LongName": "Trial Condition",
+    "Description": "Category of trial based on stimuli characteristics",
+    "Levels": {
+      "S_H": "high semantic association",
+      "S_L": "low semantic association",
+      "S_U": "unrelated",
+      "S_SC": "perceptual control"
+    }
+  },
+  "stim_file": {
+    "LongName": "Stimulus File Name",
+    "Description": "Location and name of presented stimulus"
+  },
+  "correct": {
+    "LongName": "Correct Response",
+    "Description": "Indicates the correct response for this trial",
+    "levels": {
+      "1": "yes",
+      "2": "no"
+    }
+  },
+  "window1_response": {
+    "LongName": "Window 1 Response",
+    "Description": "Indicates the response made by the participant during the first .75 seconds of the trial",
+    "levels": {
+      "1": "yes",
+      "2": "no"
+    }
+  },
+  "window1_RT": {
+    "LongName": "Window 1 Response Time",
+    "Description": "Subject response time measured from beginning of the trial until the beginning of window 2",
+    "Units": "s"
+  },
+  "window2_response": {
+   "LongName": "Window 2 Response",
+    "Description": "Indicates the response made by the participant after the first .75 seconds of the trial until the beginning of the next trial",
+    "levels": {
+      "1": "yes",
+      "2": "no"
+    }
+  }, 
+  "window2_RT": {
+    "LongName": "Window 2 Response Time",
+    "Description": "Subject response time measured after the first .75 seconds of presentation of stimulus until the beginning of the next trial",
+    "Units": "s"
+  },
+  "calculated_response":{
+  	"LongName":"Calculated Response",
+	"Description": "Indicates the calcuated response using the methods described in dataset/derivatives/func_mv_acc_rt/ELP_acc_rt_final_2020_12_18.doc",
+	"levels":{
+		"1":"yes",
+		"2":"no"
+	}
+  },
+  "calculated_accuracy": {
+    "LongName": "Calculated Accuracy",
+    "Description": "Indicates the response accuracy calculated using methods described in dataset/derivatives/func_mv_acc_rt/ELP_acc_rt_final_2020_12_18.doc",
+    "levels": {
+      "1": "correct",
+      "0": "incorrect"
+    }
+  }, 
+  "calculated_RT": {
+     "LongName": "Calculated Response Time",
+    "Description": "Indicates trial response time calculated using methods described in dataset/derivatives/func_mv_acc_rt/ELP_acc_rt_final_2020_12_18.doc",
+    "Units": "s"
+  }
+}

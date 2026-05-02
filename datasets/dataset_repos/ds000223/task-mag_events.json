@@ -1,0 +1,25 @@
+{
+
+"onset": "time of stimulus onset in seconds",
+
+"duration": "duration used to model the event (response time + 5 seconds. The 5 seconds is meant to account for the relatively prolonged and sluggish BOLD response our lab has observed in prefrontal cortex)",
+
+"response_time": "reaction time",
+
+"amountSS": "the smaller sooner amount", 
+
+"amountLL": "the larger later amount",
+
+"delaySS": "the smaller sooner delay",
+
+"delayLL": "the larger later delay",
+
+"choice" : "the choice the subject made",
+
+"SV_SS": "the subjective value of the smaller sooner choice according to the maximum likelihood hyperbolic model for that subject",
+
+"SV_LL": "the subjective value of the larger later choice according to the maximum likelihood hyperbolic model for that subject",
+
+"SV_diff" : "the negative of the absolute value of the difference between SV_SS and SV_LL"
+
+}

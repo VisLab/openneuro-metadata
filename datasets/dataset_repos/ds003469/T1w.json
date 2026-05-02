@@ -1,0 +1,22 @@
+{
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Philips",
+  "ManufacturersModelName": "Ingenia",
+  "SoftwareVersions": "5.6.1_5.6.1.0",
+  "SeriesDescription": "t1_mpr_ns_sag_p2_iso",
+  "ProtocolName": "sT1W_3D_TFE_tra",
+  "ScanningSequence": "GR",
+  "SequenceVariant": "MP",
+  "ScanOptions": "OTHER",
+  "SliceThickness": 1,
+  "SpacingBetweenSlices": 1,
+  "EchoTime": 0.0035,
+  "RepetitionTime": 0.0079,
+  "FlipAngle": 8,
+  "PercentPhaseFOV": 79.6875,
+  "EchoTrainLength": 213,
+  "PhaseEncodingSteps": 250,
+  "AcquisitionMatrixPE": 250,
+  "ReconMatrixPE": 256,
+  "PixelBandwidth": 334.024
+}

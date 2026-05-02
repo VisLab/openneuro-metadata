@@ -1,0 +1,40 @@
+# Human Dignity fMRI
+
+## Study Aim
+This study investigates neural responses to dignity-related and non-dignity-related stimuli using functional MRI.
+
+## Task
+BIDS task label (filenames): dignity  
+TaskName (JSON): Human Dignity  
+
+Participants viewed stimuli related to dignity and non-dignity contexts.  
+Each trial included the following phases:
+- fixation
+- image presentation
+- intention evaluation
+- distraction/choice
+- recognition
+
+## Acquisition
+Data were acquired on a 3T Siemens Prisma_fit MRI scanner with a 64-channel head coil.
+
+Structural imaging:
+- T1-weighted MPRAGE
+- 1 mm isotropic resolution
+
+Functional imaging:
+- T2*-weighted EPI
+- TR = 2.0 s
+- TE = 25 ms
+- Flip angle = 90°
+- Slice thickness = 3.5 mm
+- 35 slices
+- Descending acquisition
+- FOV = 238 mm
+
+## Anonymization
+Data were converted using dcm2niix with anonymization enabled.
+Structural images are shared without defacing based on explicit participant consent and ethics approval.
+
+## Ethics
+All participants provided written informed consent in accordance with institutional ethics approval and the Declaration of Helsinki.

@@ -1,0 +1,22 @@
+{
+  "CHANGES": "d9fdd4e737f4d77f420867eb4dfce109be6d0b93",
+  "README": "0955fb32e1b851bb7d36fef2b7e4d4398f3eee6c",
+  "participants.tsv": "c2b957bcc7d8f6ae419f9319ff06e8eade48e227",
+  "dataset_description.json": "51d72c1e35cc11b8e8b0d611b186195d100c5772",
+  "task-memoryTest_bold.json": "49764dec002fb9fc7b73e15c9ab8592d7dd02f3c",
+  "participants.json": "8967599f3c0975c5c9e544f557af5f2dd65d448c",
+  "task-postEvent_bold.json": "35fcd3b1f12af6ca7dcaee7b7321ed2af3d15d79",
+  "task-originalEvent_bold.json": "e3ea79c32962edf23c502125e376170f14655e88",
+  "sub-2001/ses-day1AM/func/sub-2001_ses-day1AM_task-originalEvent_run-2_events.tsv": "4b79bdd342d1e67fb134740e1cf2295abc6be350",
+  "sub-2001/ses-day1AM/func/sub-2001_ses-day1AM_task-originalEvent_run-1_events.tsv": "d9a58142dd8d8a120d03835b612f92f27d63fcd6",
+  "sub-2001/ses-day1PM/func/sub-2001_ses-day1PM_task-postEvent_run-1_events.tsv": "56ce28934bb8d42e4f2e6c735f7a784639c30792",
+  "sub-2001/ses-day1PM/func/sub-2001_ses-day1PM_task-postEvent_run-3_events.tsv": "a25ea2cb8dc980fc24f835855ff4edc09fd12079",
+  "sub-2001/ses-day1PM/func/sub-2001_ses-day1PM_task-postEvent_run-4_events.tsv": "b662b566b642563ce9e06a9312311cc1c44a063c",
+  "sub-2001/ses-day1PM/func/sub-2001_ses-day1PM_task-postEvent_run-2_events.tsv": "d512147ed3b438e6c13627434e0bf86e36117704",
+  "sub-2001/ses-day1AM/func/sub-2001_ses-day1AM_task-originalEvent_run-4_events.tsv": "a8d08b63ce5d98a46da689746f9b652593040208",
+  "sub-2001/ses-day1AM/func/sub-2001_ses-day1AM_task-originalEvent_run-3_events.tsv": "7f53eeaeee96da5c021425cd774488bf0fc05313",
+  "sub-2001/ses-day2AM/func/sub-2001_ses-day2AM_task-memoryTest_run-2_events.tsv": "b6cfa34141681faf54fe4c31590374adb7292e40",
+  "sub-2001/ses-day2AM/func/sub-2001_ses-day2AM_task-memoryTest_run-1_events.tsv": "88a08f49145890bcf35a5ae35e05f8bba688e9ef",
+  "sub-2001/ses-day2AM/func/sub-2001_ses-day2AM_task-memoryTest_run-3_events.tsv": "6baef7f1c8959f49e4922aa9891a0268686ae6b4",
+  "sub-2001/ses-day2AM/func/sub-2001_ses-day2AM_task-memoryTest_run-4_events.tsv": "30fbbb70ea28d6e42c06329b3731d336840a2ec4"
+}

@@ -1,0 +1,10 @@
+{
+  "dataset_description.json": "54d331a76155dd475fafb4084490db7e1fed8459",
+  "participants.tsv": "e64554b852c30e18b45ab501f4d5a53bac663ec4",
+  "README": "3f1c3d1da3b773ce9fb282557ed9e222d4acbe44",
+  "CHANGES": "d3e6a423f5e713650152cc075f9db1d7e35c7e1d",
+  "participants.json": "7deda50fc5507b76a48199a1f053c11558b4fc11",
+  "sub-HUP060/ses-presurgery/ieeg/sub-HUP060_ses-presurgery_task-ictal_acq-seeg_run-02_events.tsv": "fcac66f57a30a5fbe5516a1919869f770518625c",
+  "sub-HUP060/ses-presurgery/ieeg/sub-HUP060_ses-presurgery_task-ictal_acq-seeg_run-01_events.tsv": "a101bbc7a83e0f6ad8e158e6301f0ac82ffae0fd",
+  "sub-HUP060/ses-presurgery/ieeg/sub-HUP060_ses-presurgery_task-ictal_acq-seeg_run-03_events.tsv": "7bb629188a530943fc9325817355945049007324"
+}

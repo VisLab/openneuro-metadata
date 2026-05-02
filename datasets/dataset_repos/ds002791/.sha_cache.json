@@ -1,0 +1,9 @@
+{
+  "CHANGES": "ca87c720d802fd7b74212c72d448d4954bec7472",
+  "dataset_description.json": "4b92053eca401fc0dc3d30c3d5a35b2738019625",
+  "participants.tsv": "e174b55b08362e366df5131139d8a99d3df81734",
+  "sub-01/ses-naming/eeg/sub-01_ses-naming_run-2_events.tsv": "d3cdd289645ca67fb9f82bc1aeb9ee5bb76bf6de",
+  "sub-01/ses-spelling/eeg/sub-01_ses-spelling_run-1_events.tsv": "dd9e5f9847f046ca62eac65a285858e4347046bd",
+  "sub-01/ses-naming/eeg/sub-01_ses-naming_run-1_events.tsv": "d706979a71e931833a4bbb446fdf7691a985c866",
+  "sub-01/ses-spelling/eeg/sub-01_ses-spelling_run-2_events.tsv": "c6df9fbed2e37eae0e1fc7d91bfc37c405f78191"
+}

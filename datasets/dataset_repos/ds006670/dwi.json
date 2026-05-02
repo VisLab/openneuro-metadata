@@ -1,0 +1,6 @@
+{
+    "PulseSequenceType": "PGSE EPI",
+    "PhaseEncodingDirection": "j",
+    "TotalReadoutTime": 0.0158592,
+    "B0FieldSource": "pepolar_fmap_dwi"
+}

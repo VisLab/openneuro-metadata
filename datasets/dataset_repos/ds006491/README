@@ -1,0 +1,31 @@
+Title: NeuroCycle+
+
+Background: In this set of dense-sampling, deep phenotyping datasets, we determined how variation in sex hormone concentrations impacts large-scale brain structural changes across a five-week period in different hormonal milieus/conditions. Four individuals were enrolled:
+(1) one female with a diagnosis of endometriosis, referred to as 'endometriosis cycle'
+(2) one female with a natural/typical cycle, referred to as 'typical cycle'
+(3) one female using oral contraceptives, referred to as 'oral contraceptives cycle'
+(4) one male, referred to as 'male.'
+
+Participant: 
+(1) A female participant (30 years of age, Caucasian) diagnosed with endometriosis participated in this dense-sampling, longitudinal study. She received the diagnosis seven months prior to the assessments. The participant reported a mean menstrual cycle length of 24.4 days (SD = 1.67, range = 23 – 27 days). Otherwise, the female participant had no history of psychiatric or neurological disorders, breastfeeding or pregnancy, and no history of smoking, alcohol, or drug abuse.
+
+(2) A healthy female (37 years of age, Caucasian) with a regular/typical cycle participated in this dense-sampling, longitudinal study. The female participant had a history of regular menstrual cycles (last half-year mean length = 27.1 days, SD = 0.64, range = 26 – 28 days), no history of psychiatric, neurological, and endocrine diagnoses, breastfeeding or pregnancy, and no history of alcohol, or drug abuse, but current use of nicotine.
+
+(3) A healthy female (31 years of age, Caucasian) had been prescribed a combined oral contraceptive pill (0.03 mg ethinyl-estradiol, 2 mg dienogest, Maxim, Jenapharm) approximately three months before study initiation. The female participant had no history of psychiatric, neurological, or endocrine diagnoses, nor had she experienced breastfeeding or pregnancy. Furthermore, she had no history of alcohol or drug abuse and did not use nicotine.
+
+(4) A healthy male (36 years of age, Caucasian) participated in this dense-sampling, longitudinal study. The male participant had no history of psychiatric, neurological, or endocrine diagnoses, and reported no instances of alcohol, drug, or nicotine abuse.
+
+Study Design: 
+The participants underwent testing for five consecutive weeks (mostly from Monday through Friday), resulting in 25 test sessions per participant. Each test session began with a MRI session starting at 07:30am (±30 min), followed by a blood draw at 08:00am (±30 min), and questionnaires on mood and anxiety. Participants refrained from consuming any food or beverages (except water) before and during the test sessions.
+
+MRI Acquisition:
+The participants underwent MRI scans at 07:30am (±30 min) local time. The imaging dataset for the typical cycle was acquired on a 3T MRI scanner (Prisma, Siemens Medical Solutions, Erlangen, Germany; software version MR E11) with a 64-channel head coil. The imaging datasets for the endometriosis cycle, male, and female on oral contraceptives were acquired on a 3T MRI scanner (Prisma, Siemens Medical Solutions, Erlangen, Germany; software version MR XA30) with a 64-channel head coil. Structural MRI for the datasets was acquired with T1-weighted (T1w) magnetization prepared - rapid gradient echo (MPRAGE) sequence with the generalized auto calibrating partially parallel acquisitions (GRAPPA) acceleration and with a T2-weighted (T2w) sequence with GRAPPA acceleration. Scan parameters for the T1w were: echo time (TE) = 2.22 ms, repetition time (TR) = 2400 ms, inversion time (TI) = 1000 ms, flip angle = 8°, matrix size = 320 x 320 pixels, field of view (FOV) = 256 mm, band width = 220 Hz/pixel, and slice thickness = 0.80 mm. Scan parameters for the T2w were: echo time (TE) = 563 ms, repetition time (TR) = 3200 ms, flip angle mode = T2 var, matrix size = 320 x 320 pixels, field of view (FOV) = 256 mm, band width = 744 Hz/pixel, and slice thickness = 0.80 mm.
+
+Blood Assessments:
+A blood draw immediately followed the MRI session at 08:00am (±30 min) local time. One 4.9 ml blood sample was collected in a S-Monovette® Serum-GEL (Sarstedt) with a clotting activator/gel each test session. The sample was clotted at room temperature and centrifugated (2500 x g for 10 minutes) within two hours. Estradiol (pmol/ml), LH (IU/l), FSH (IU/l), and progesterone serum concentrations (ng/ml) were determined at the Institute of Clinical Chemistry and Laboratory Diagnostics, Jena University Hospital, Jena, Germany. Serum concentrations were determined via electrochemiluminescence immunoassay (ECLIA) on the cobas® e 402/801 analyzer (Roche Diagnostics GmbH, Mannheim, Germany) and were used according to the manufacturer's instructions.
+
+Questionnaires:
+To monitor state-dependent mood and anxiety across the five-week period, the following scales were administered at each session after the blood draw: Positive and Negative Affect Schedule (PANAS; Watson, Clark, & Tellegen, 1988), State-Trait Anxiety Inventory for Adults (STAI; Spielberger, 1983)
+
+Reference: 
+https://doi.org/...

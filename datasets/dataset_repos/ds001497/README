@@ -1,0 +1,14 @@
+# Long-term Memory (LTM) for famous Faces, Places, and common Objects
+
+Data were initially published by Jarrod A. Lewis-Peacock & Bradley R. Postle (2008) in the Journal of Neuroscience in an article titled "Temporary activation of long-term memory supports working memory". The fMRI data shared here are from the *stimulus judgment task*, also referred to as the "LTM task". This data has been reanalyzed and entered into BIDS format (1.1.0)  by Christopher R. Cox and Timothy T. Rogers. These data are published with the kind permission of Lewis-Peacock and Postle, and shared under the CC-BY license. "Licensees may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author or licensor the credits (attribution) in the manner specified by these."
+
+The original work and image acquisition was supported by NIH grant MH064498 (B.R.P.).
+
+If you use this data, please cite this paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2699183/", and reference the access key on **OpenNeuro**.
+
+The related paper is open access, and describes all pertinent fMRI acquisition and task details.
+
+## Slice acquisition details
+The 30 axial slices were acquired in "alt+z" order. Assuming that the
+first slice is **slice 0**, and lumping in 0 with the even numbers, "alt+z" order means that the even numbered slices are acquired first, in order of ascending z, followed by the odd numbered slices. See AFNI
+documentation for 3dTshift for more detail.

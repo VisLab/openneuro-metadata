@@ -1,0 +1,20 @@
+5.0.1 2026-03-31
+  - Update citation
+5.0.0 2022-09-11
+  - add diffusion quality control and resting state HRF shape parameters
+4.0.0 2022-03-10
+  - added mriqc derivatives
+3.0.0 2022-01-13
+  - added TVB derivatives
+2.0.1 2022-01-13
+  - updated readme
+2.0.0 2022-01-13
+  - added tumor masks
+1.0.0	2018-05-22
+
+	- First version
+
+Please add additional changes with dates and version numbers of dataset here.
+
+1.0.0 2019-09-03
+  - Add DOI

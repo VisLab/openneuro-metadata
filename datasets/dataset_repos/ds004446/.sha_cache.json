@@ -1,0 +1,17 @@
+{
+  "README": "cf6ac1aa8c6e3c3d5e20c2023d031ef86482b02c",
+  "participants.json": "c9f3b34852f1e8cf0089e68eef5ab455e3e7b7f5",
+  "task-smrbmi_events.json": "c5a2a46a2ec297d1bd2b1b7ef6a35904a81f4ff6",
+  "dataset_description.json": "f83cbeda91286c25920e47601ddec70377e7dbc9",
+  "task-smrbmi_eeg.json": "17986ce756b50bb6cd0da5aa9532618a02c1e0b5",
+  "CHANGES": "e540d96f7d9337c0d33fd6a285797587489d4a7a",
+  "participants.tsv": "137d344406a2bae5c8a7ef4ecc96ff8dd36b26ce",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-smrbmi_events.tsv": "7b66b064772f1abd7923044aeb87b308770d2f80",
+  "sub-001/ses-02/eeg/sub-001_ses-02_task-smrbmi_events.tsv": "d749e4b40a78119930f08159c0de7fe551d73e72",
+  "sub-001/ses-03/eeg/sub-001_ses-03_task-smrbmi_events.tsv": "0be15486fc41108da5739b3ca1f0b64f2109f7b0",
+  "sub-001/ses-06/eeg/sub-001_ses-06_task-smrbmi_events.tsv": "1be0af41338a094e6033dba92ed5e7d668a20da3",
+  "sub-001/ses-07/eeg/sub-001_ses-07_task-smrbmi_events.tsv": "bf6e27bb728c0ce54a4f97d724a3d937197291cd",
+  "sub-001/ses-08/eeg/sub-001_ses-08_task-smrbmi_events.tsv": "c2401269e46109ba6024bce85c395129cac9b068",
+  "sub-001/ses-05/eeg/sub-001_ses-05_task-smrbmi_events.tsv": "8d8ae3fd8804ef3d72224a10525f4b4db5911624",
+  "sub-001/ses-04/eeg/sub-001_ses-04_task-smrbmi_events.tsv": "fa78a85711e9e7b937a50306e1e67e3684b9d627"
+}

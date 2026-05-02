@@ -1,0 +1,17 @@
+Dataset description
+===================
+
+Brain Network Mechanisms of Shape Completion
+
+Keane, B. P., Barch, D. M., Mill, R. D., Silverstein, S. M., Krekelberg, B., & Cole, M. W. (2021). Brain network mechanisms of visual shape completion. NeuroImage, 236, 118069. https://doi.org/10.1016/j.neuroimage.2021.118069
+
+Visual shape completion reveals object shape, size, and number from spatially segregated edges. What brain regions, networks, and functional connections underlie the process? To shed light on the topic, we scanned (fMRI) healthy adults during rest and during a task in which they discriminated pac-man configurations that formed or failed to form completed shapes (illusory and fragmented condition, respectively).  Task activation differences (illusory-fragmented), resting-state functional connectivity, and multivariate pattern differences were identified on the cortical surface using 360 predefined parcels and 12 functional networks composed of such parcels.  Brain activity flow mapping (“ActFlow”) was used to evaluate the likely involvement of resting-state connections for shape completion.  We identified 34 differentially-active parcels including a posterior temporal region, PH, whose activity was consistent across all 20 observers. Significant task regions primarily occupied the secondary visual network but also incorporated the frontoparietal, dorsal attention, default mode, and cingulo-opercular networks.  Each parcel’s task activation difference could be modeled via its resting-state connections with the remaining parcels (r=.62, p<10-9), suggesting that such connections undergird shape completion.  Functional connections from the dorsal attention network were key in modeling activation differences in the secondary visual network and across all remaining networks.  Taken together, these results suggest that shape completion relies upon a distributed but densely interconnected network coalition that is centered in the secondary visual network, orchestrated by the dorsal attention network, and inclusive of at least three other networks.
+
+MRI Files included are:
+A) Skull-stripped and defaced T1w and T2w structurals with a resolution of 0.8mm isotropic.
+B) 5 task epi files including a 10 minute rest scan - (281vol x 4, 765vol)
+C) field maps (fmap) - AP/PA field map pair for the task scans and another pair for the rest scan
+
+Resting-state data were collected with an eyes open protocol. Note that one subject, sub-C23, did not complete a resting-state scan. Note also that for the structurals, the first reconstruction (rec-1) was without prescan normalize and the second reconstruction (rec-2) was with prescan normalize. Also, the scan time stamp year has been altered for anonymization.
+
+

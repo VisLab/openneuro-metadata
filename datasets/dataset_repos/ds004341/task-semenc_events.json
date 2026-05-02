@@ -1,0 +1,16 @@
+{
+  "concept": {
+    "LongName": "Concept name",
+    "Description": "Concept label for this studied object (from CSLB norms)"
+  },
+  "condition": {
+    "LongName": "Subsequent memory condition",
+    "Description": "Whether this object was an old item attracting a subsequent Hit/Miss or a lure attracting a correct rejection/false alarm",
+    "Levels": {
+      "1": "subHits",
+      "2": "subMiss",
+      "3": "subCR",
+      "4": "subFA"
+		}
+	}
+}

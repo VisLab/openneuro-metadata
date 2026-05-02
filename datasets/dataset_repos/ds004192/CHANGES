@@ -1,0 +1,16 @@
+1.0.7 2024-09-09
+  - update README
+1.0.6 2024-09-09
+  - Add sourcedata, derivatives, and more descriptions
+1.0.5 2022-12-22
+  - Resolving validator warning about task-things_events.jsons
+1.0.4 2022-12-22
+  - added task-things_events.json at top level
+1.0.3 2022-12-22
+  - prepare local sync
+1.0.2 2022-07-25
+  - updated author last name
+1.0.1 2022-07-19
+  - updated author last name
+1.0.0 2022-07-02
+  - Initial upload

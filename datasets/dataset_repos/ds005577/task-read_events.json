@@ -1,0 +1,12 @@
+{
+    "block_type": {
+        "LongName": "block type",
+        "Description": "Indicator of block type",
+        "Levels": {
+            "instructions": " 'woord?' instructs the participant that it is the lexical decision block and 'same?' instructs the participant that it is the line orientation decision block",
+            "lexical decision": "participant is asked to decide whether a string of letters is an existing Dutch word",
+            "line orientation": "participant is asked to decide whether the presented lines all orient in the same direction",
+            "rest": "participant is asked to think of nothing in particular"
+        }
+    }
+}

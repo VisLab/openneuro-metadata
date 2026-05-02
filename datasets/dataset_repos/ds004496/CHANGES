@@ -1,0 +1,20 @@
+2.1.2 2023-07-09
+  - minor revisions
+2.1.1 2023-07-08
+  - update docs
+2.1.0 2023-07-07
+  - update events files and stimuli folders
+2.0.1 2023-02-25
+  - minor changes to reconcile with data decriptor
+2.0.0 2023-02-24
+  - reconcile with data descriptor
+1.2.2 2023-02-22
+  - added stimuli info
+1.2.1 2023-02-22
+  - renewed data description
+1.2.0 2023-02-22
+  - organized ciftify data prepared
+1.1.0 2023-02-21
+  - organized fmriprep data prepared
+1.0.0 2023-02-20
+  - organized raw data prepared

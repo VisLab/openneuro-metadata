@@ -1,0 +1,99 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Younghwa Cha
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Yeji Lee
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Eunhee Ji
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: SoHyun Han
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Sunhyun Min
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Hyoungkyu Kim
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Minseo Cho
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Hae Seong Lee
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Youngjai Park
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Joon-Young Moon
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 10
+    creators:
+      - name: Younghwa Cha
+        nameType: Personal
+      - name: Yeji Lee
+        nameType: Personal
+      - name: Eunhee Ji
+        nameType: Personal
+      - name: SoHyun Han
+        nameType: Personal
+      - name: Sunhyun Min
+        nameType: Personal
+      - name: Hyoungkyu Kim
+        nameType: Personal
+      - name: Minseo Cho
+        nameType: Personal
+      - name: Hae Seong Lee
+        nameType: Personal
+      - name: Youngjai Park
+        nameType: Personal
+      - name: Joon-Young Moon
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

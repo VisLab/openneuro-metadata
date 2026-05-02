@@ -1,0 +1,25 @@
+{
+    "Name": "Sound Reconstruction",
+    "License": "CC0",
+    "Authors": [
+        "Jong-Yun Park",
+        "Mitsuaki Tsukamoto",
+        "Misato Tanaka",
+        "Yukiyasu Kamitani"
+    ],
+    "Acknowledgements": "We thank Dr. Aoki Shuntaro for his help with data management, and the fMRI scanner and related facilities of the Kyoto University Institute for the Future of Human Society for providing access to the MRI scanner.",
+    "HowToAcknowledge": "If you use this dataset in your research, please acknowledge and cite:\n- OpenNeuro dataset DOI: 10.18112/openneuro.ds006319\n- Park, J.-Y., Tsukamoto, M., Tanaka, M., & Kamitani, Y. (2023). Sound reconstruction from human brain activity via a generative model with brain-like auditory features. arXiv preprint arXiv:2306.11629. http://arxiv.org/abs/2306.11629",
+    "Funding": [
+        "Japan Society for the Promotion of Science (JSPS KAKENHI), Grant Numbers JP25H00450, JP20H05705 and JP20H05954",
+        "New Energy and Industrial Technology Development Organization (NEDO), Grant Number JPNP20006",
+        "Japan Science and Technology Agency (JST CREST), Grant Numbers JPMJCR22P3"
+    ],
+    "ReferencesAndLinks": [
+        "Park, J.-Y., Tsukamoto, M., Tanaka, M., & Kamitani, Y. (2023). Sound reconstruction from human brain activity via a generative model with brain-like auditory features (arXiv:2306.11629). arXiv. http://arxiv.org/abs/2306.11629"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006319.v1.0.0",
+    "BIDSVersion": "1.0.2",
+    "EthicsApprovals": [
+        "the Ethics Committee of the Advanced Telecommunications Research Institute International, Approval No. 106"
+    ]
+}

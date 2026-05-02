@@ -1,0 +1,29 @@
+{
+    "Name": "Delineating neural contributions to EEG-based speech decoding",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Motoshige Sato",
+        "Yasuo Kabe",
+        "Sensho Nobe",
+        "Akito Yoshida",
+        "Masakazu Inoue",
+        "Mayumi Shimizu",
+        "Kenichi Tomeoka",
+        "Shuntaro Sasai"
+    ],
+    "Acknowledgements": "We thank Ryota Kanai, for helpful discussions, and Rousslan Fernand Julien Dossa for data collection. Special thanks to Anna Maria Hadjiev for her meticulous proofreading, significantly enhancing our manuscript's quality.",
+    "Funding": [
+        "JST, Moonshot R&D Grant Number JPMJMS2012"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1101/2024.05.09.591996"
+    ],
+    "HowToAcknowledge": "Please cite the following paper (doi: https://doi.org/10.1101/2024.05.09.591996) and this dataset using its OpenNeuro DOI.",
+    "EthicsApprovals": [
+        "Shiba Palace Clinic Ethics Review Committee",
+        "Declaration of Helsinki"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007591.v1.0.1"
+}

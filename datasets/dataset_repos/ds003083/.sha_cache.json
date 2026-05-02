@@ -1,0 +1,23 @@
+{
+  "participants.json": "7a029bde5f864fe0494154ce9a4547dc38339764",
+  "CHANGES": "d45b3a335bfcc054439218cdd44f755bf056c306",
+  "README": "2a33b86dd7a33703321617b59518a4cfb87eed8b",
+  "task-Num_events.json": "6da16b0d2ad70628dd1575fb187ca4065ae660d1",
+  "T1w.json": "0901b99e4bee733af37649be6f729609ab30c254",
+  "participants.tsv": "44e21341b4b484b732d8de9e628e8bf3b4fab218",
+  "dataset_description.json": "ba07d9d5157ca829255a4484d144c540983065e1",
+  "task-Mult_events.json": "f99b97fe1103607f92f6732d7850a7b772425cb5",
+  "task-Num_bold.json": "a394c0fc1b3c60b6937f4d1be5340c617cb4b4c3",
+  "task-Mult_bold.json": "2e9b7afb25788ccccb20a491a874385940434b26",
+  "task-Rhyming_bold.json": "a4fe8f507404e6776dc2dea59a0bac8e2b108f1b",
+  "task-Sub_events.json": "69dc1aacfb2f8c72672e5aac5e82b042aa1e61e8",
+  "task-Rhyming_events.json": "de0f8563431c0179b155fb80349b8abd945cde7e",
+  "task-Sub_bold.json": "a76fcee44c1c9f686e12f1d2096a5a555daf0442",
+  "sub-1001/func/sub-1001_task-Num_run-02_events.tsv": "0281dd961c4651ecb5c5088c705b459c3849e59c",
+  "sub-1001/func/sub-1001_task-Rhyming_events.tsv": "4fc6a978b6520b566da09c0b10db92943cec01f0",
+  "sub-1001/func/sub-1001_task-Mult_run-01_events.tsv": "047dbe57f9fa7e5cc4283a2c89cb899cdf7bf740",
+  "sub-1001/func/sub-1001_task-Num_run-01_events.tsv": "a3ab8b7c983498af4e00a06af7a1ce33de23e5ee",
+  "sub-1001/func/sub-1001_task-Mult_run-02_events.tsv": "6ed0899233ececfa446c02ee864d20ac4135873f",
+  "sub-1001/func/sub-1001_task-Sub_run-02_events.tsv": "dec006236706cab00a873380e5104c9ca502bab5",
+  "sub-1001/func/sub-1001_task-Sub_run-01_events.tsv": "401926d6c229210dfef689ae8be306cbf020ea5b"
+}

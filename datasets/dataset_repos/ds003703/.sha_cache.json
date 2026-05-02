@@ -1,0 +1,10 @@
+{
+  "CHANGES": "b9829a7513cae0e245eb03de06dff2e68bf46a73",
+  "participants.json": "54cfffe3c659952f68c8130e587985ad14d417e9",
+  "dataset_description.json": "a452b72e1ed6835613516286d5cd762c0cc2acbd",
+  "task-listeningToSpeech_events.json": "81f252314e13c1f1959e65f086e9355c4da845a0",
+  "README": "2753151737be9c4c50193ff2389486c305d942e2",
+  "participants.tsv": "3780752c0c2fd9328bd71901adf19d6da65e887e",
+  "sub-a68d5xp5/meg/sub-a68d5xp5_task-listeningToSpeech_run-02_events.tsv": "3422d2fd424923d82404a4ad4bc36fd610f3a76c",
+  "sub-a68d5xp5/meg/sub-a68d5xp5_task-listeningToSpeech_run-01_events.tsv": "dbae064427bc1deecba216dc629877c6a4aef585"
+}

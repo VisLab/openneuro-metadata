@@ -1,0 +1,30 @@
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Defacing
+--------
+Defacing was performed by the submitter.
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it 
+here: https://mriqc.readthedocs.io/en/latest/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000144/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000144.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.
+
+Known Issues
+------------
+  - A number of the BOLD runs were unusable due to motion and thus were left out of this dataset.
+  - The defacing software may have removed small amounts of brain in a few anatomical images 
+(see sub-40 and sub-41)
+

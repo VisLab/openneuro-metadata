@@ -1,0 +1,83 @@
+# Dataset description
+
+This dataset contains fMRI data from adults from one paper, with two experiments in it: 
+
+Liu, S., Lydic, K., Mei, L., & Saxe, R. (in press, Imaging Neuroscience). Violations of physical and psychological expectations in the human adult brain. Preprint: https://doi.org/10.31234/osf.io/54x6b
+
+All subjects who contributed data to this repository consented explicitly to share their de-faced brain images publicly on OpenNeuro. Experiment 1 has 16 subjects who gave consent to share (17 total), and Experiment 2 has 29 subjects who gave consent to share (32 total). Experiment 1 subjects have subject IDs starting with "SAXNES*", and Experiment 2 subjects have subject IDs starting with "SAXNES2*".
+
+- code/ contains contrast files used in published work
+- sub-SAXNES*/ contains anatomical and functional images, and event files for each functional image. Event files contains the onset, duration, and condition labels
+- CHANGES will be logged in this file
+
+# Tasks
+
+- VOE (Experiment 1 version): Novel task using hand-crafted stimuli from developmental psychology, showing violations of object solidity and support, and violations of goal-directed and efficient action. There were only 4 sets of stimuli in this experiment, that repeated across runs. Shown in mini-blocks of familization + two test events. 
+- VOE (Experiment 2 version): Novel task including all stimuli from Experiment 1 except for support, showing violations of object permanence and continuity (from ADEPT dataset; Smith et al. 2019) and violations of goal-directed and efficient action (from AGENT dataset; Shu et al. 2021). Shown in pairs of familiarization + one test event (either expected or unexpected). All subjects saw one set of stimuli in runs 1-2, and a second set of stimuli in runs 3-4. If someone saw an expected outcome from a scenario in one run, they saw the unexpected outcome from the same scenario in the other run. 
+- DOTS (2 runs, both Exp 1-2): Task contrasting social and physical interaction (Fischer et al. 2016, PNAS). Designed to localize regions like the STS and SMG.
+- Motion: Task contrasting coherent and incoherent motion (Robertson et al. 2014, Brain). Designed to localize area MT.
+- spWM: Task contrasting a hard vs easy spatial working memory task (Fedorenko et al., 2013, PNAS). Designed to localize multiple demand regions.
+
+There are (anonymized) event files associated with each run, subject and task, and contrast files.
+
+# Event files 
+
+All event files, for all tasks, have the following cols: `onset_time`, `duration`, `trial_type` and `response_time`. Below are notes about subject-specific event files.
+
+- sub-SAXNES2s001: The original MotionLoc outputs list the first block, 10s into the experiment, as the first event. This was preceded by a 10s fixation. For s001, prior to updating the script to reflect this 10s lag, we had to do some estimation - we saw that on average, each block was 11.8s but there was usually a .05s delay, such that each block started ~11.85s after the previous one. Thus we calculated start times as 11.85 after the previous block. For the rest of the subjects, the outputs were not manipulated - we just added an event to the start of the run.
+- sub-SAXNES2s013: no event files for DOTS run2; event files use approximate timings instead based on inferred information about block order
+- sub-SAXNES2s018 (excluded from sample): no event files, because this subject stopped participating without having contributed a complete, low-motion run, for which it was clear they were following the instructions for the task
+- sub-SAXNES2s019: no time to do run2 of DOTS or Motion, so only 1 run for those two 
+- sub-SAXNES2s023, the event files from spWM run 1 did not save during scanning. We use timings from the default settings of condition 1 but we do not have trial-level data from this person. 
+
+
+For the DOTS and VOE event files from Experiment 1, we have the additional columns: 
+
+- `experimentName` ('DotsSocPhys' or 'VOESocPhys')
+- `correct`: at the end of the trial, subs made a response. In DOTS, they indicated whether the dot that disappeared reappeared at a plausible location. In VOE, they pressed a button when the fixation appeared as a cross rather than a plus sign. This col indicates whether the sub responded correctly (1/0)
+- `stim_path`: path to the stimuli, relative to the root BIDS directory, i.e. `BIDS/stimuli/DOTS/xxxx`
+
+For the DOTS event files from Experiment 2, we have the additional columns:
+
+- `participant`: redundant with the file name
+- `experiment_name`: name of the task, redundant with file name
+- `block_order`: which order the dots trials happened in (1 or 2)
+- `prop_correct`: the proportion of correct responses over the entire run
+
+For the Motion event files from Experiment 2,  we have the additional columns:
+
+- `experiment_name`: name of the task, redundant with file name
+- `block_order`: which order the dots trials happened in (1 or 2)
+- `event`: the index of the current event (0-22)
+
+For the spWM event files from Experiment 2, we have the additional columns:
+
+- `experiment_name`: name of the task, redundant with file name
+- `participant`: redundant with the file name
+- `block_order`: which order the dots trials happened in (1 or 2)
+- `run_accuracy_hard`: the proportion of correct responses for the hard trials in this run
+- `run_accuracy_easy`: the proportion of correct responses for the easy trials in this run
+
+For the VOE event files from Experiment 2, we have the additional columns:
+
+- `trial_type_specific`: identifies trials at one more level of granularity, with respect to domain task and event (e.g. psychology_efficiency_unexp)
+- `trial_type_morespecific`: similar to `trial_type_specific` but includes information about domain task scenario and event (e.g. psychology_efficiency_trial-15-over_unexp)
+- `experiment_name`: name of the task, redundant with file name
+- `participant`: redundant with the file name
+- `correct`: whether the response for this trial was correct (1, or 0)
+- `time_elapsed`: how much time as elapsed by the end of this trial, in ms
+- `trial_n`: the index of the current event 
+- `correct_answer`: what the correct answer was for the attention check (yes or no)
+- `subject_correct`: whether the subject in fact was correct in their response
+- `event`: fam, expected, or unexpected
+- `identical_tests`: were the test events identical, for this trial?
+- `stim_ID`: numerical string picking out each unique stimulus
+- `scenario_string`: string identifying each scenario within each task
+- `domain`: physics, psychology (psychology-action), both (psychology-environment)
+- `task`: solidity, permanence, goal, efficiency, infer-constraints, or agent-solidity
+- `prop_correct`:the proportion of correct responses over the entire run
+- `stim_path`: path to the stimuli, relative to the root BIDS directory, i.e. `BIDS/stimuli/VOE/xxxx`
+
+# Associated Links
+
+- OSF: https://osf.io/sa7jy/

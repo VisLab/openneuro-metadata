@@ -1,0 +1,10 @@
+{
+  "CHANGES": "844d6a9c834c032ad58605baf8d7e57a061f8454",
+  "dataset_description.json": "6f23487f749ac5adfe6d4bce6c77f448e73f6985",
+  "task-adaptation_events.json": "56a3c190a6bd7aa63c8950ea8a4baca2f1355a9c",
+  "README": "d904462f925af2087e1ca66f10d737b27edc4d02",
+  "participants.tsv": "85d87c867469eb15b09d1d73b2af051a5389a32a",
+  "participants.json": "5b9825eba8a7020f44a8251bf75f0e88ca48ec61",
+  "sub-01/ses-01pre/beh/sub-01_ses-01pre_task-adaptation_events.tsv": "8d14585db49e5f849b0c24c1e3f6a5184bd59371",
+  "sub-01/ses-02fmri/func/sub-01_ses-02fmri_task-adaptation_events.tsv": "2e0d0ad7dfd34f48836d71aebc59ae66ecd6a0af"
+}

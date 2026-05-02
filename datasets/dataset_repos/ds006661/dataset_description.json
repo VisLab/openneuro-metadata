@@ -1,0 +1,27 @@
+{
+    "Name": "Rapid decoding of neural information representation from ultra-fast functional magnetic resonance imaging signals",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Yoichi Miyawaki",
+        "Kenshu Koiso",
+        "Daniel A Handwerker",
+        "Javier Gonzalez-Castillo",
+        "Laurentius Huber",
+        "Arman Khojandi",
+        "Yuhui Chai",
+        "Daniel Glen",
+        "Peter A Bandettini"
+    ],
+    "Funding": [
+        "JSPS KAKENHI (JP20H00600, JP18KK0311, JP17H01755, JP25H01138)",
+        "JST PRESTO (JPMJPR1778)",
+        "Yamada Science Foundation",
+        "National Institute of Mental Health ZIAMH002783",
+        "National Institue of Mental Health ZICMH002888"
+    ],
+    "Acknowledgements": "The data were collected using NIH/NIMH MRI and related facilities.",
+    "HowToAcknowledge": "Please cite https://www.biorxiv.org/content/10.1101/2025.07.21.665938v1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006661.v1.0.2"
+}

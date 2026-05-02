@@ -1,0 +1,22 @@
+{
+  "CHANGES": "faa22e72a546e92684b494e807210eca88804187",
+  "participants.json": "e851ee28c104f270608afc26a2a2f39acf0db71f",
+  "dataset_description.json": "a640450b90baefe23036698f2bb0df2ae77d82b3",
+  "task-DeepMReyeClosedTraining_events.json": "af80f5ede630eac0353c1e2a3606277d971309d6",
+  "task-DeepMReyeCalib_events.json": "f8a9a30fb158dbbb185936d84b300e7a562c5e1a",
+  "README": "175d485d8fd2bb9361de1745e0e4ee2f3f919264",
+  "task-DeepMReyeCalibTraining_events.json": "f8a9a30fb158dbbb185936d84b300e7a562c5e1a",
+  "task-DeepMReyeClosed_events.json": "af80f5ede630eac0353c1e2a3606277d971309d6",
+  "participants.tsv": "41fcbe7862ff9aac14ae13edf2f95ca4b6219e9c",
+  "sub-01/ses-01/beh/sub-01_ses-01_task-DeepMReyeCalibTraining_run-01_events.tsv": "e759604738c9672a56576d931d581ee11a322d72",
+  "sub-01/ses-01/beh/sub-01_ses-01_task-DeepMReyeClosedTraining_run-02_events.tsv": "4564fe28360b2f62843eb122fb84601cfc677b45",
+  "sub-01/ses-01/beh/sub-01_ses-01_task-DeepMReyeClosedTraining_run-03_events.tsv": "38509242d1611c78706c6f04b8a389624c78ea1d",
+  "sub-01/ses-02/func/sub-01_ses-02_task-DeepMReyeCalib_run-02_events.tsv": "d3365b32f0af20c032077955e8708ce38521c9f0",
+  "sub-01/ses-02/func/sub-01_ses-02_task-DeepMReyeClosed_run-02_events.tsv": "da5fc9268e47ac43f0637452cc6457bc56cf45d3",
+  "sub-01/ses-02/func/sub-01_ses-02_task-DeepMReyeClosed_run-01_events.tsv": "23bde831c38d42ea49d863d60313a264458515f4",
+  "sub-01/ses-01/beh/sub-01_ses-01_task-DeepMReyeCalibTraining_run-03_events.tsv": "ff5927161d5a80b19b9c1f79b8bdd62e1b164151",
+  "sub-01/ses-01/beh/sub-01_ses-01_task-DeepMReyeClosedTraining_run-01_events.tsv": "2e83efaccd8cc3097c1eeacba0d1456dd6d5645c",
+  "sub-01/ses-02/func/sub-01_ses-02_task-DeepMReyeCalib_run-03_events.tsv": "8f2bd83b4bf94f69e9da2dde010effdb91508067",
+  "sub-01/ses-02/func/sub-01_ses-02_task-DeepMReyeCalib_run-01_events.tsv": "459afad325c4cc3d6cd32e065fb83bdc8a6a1c02",
+  "sub-01/ses-02/func/sub-01_ses-02_task-DeepMReyeClosed_run-03_events.tsv": "f6b811888af2997beb3fe6945a2183ab1f0e9a5c"
+}

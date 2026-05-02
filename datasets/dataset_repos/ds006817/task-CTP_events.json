@@ -1,0 +1,35 @@
+{
+    "image_n": {
+        "Description": "Image number (step number) within a sequence (1-4)"
+    },
+    "colour": {
+        "Description": "Colour of the stimulus"
+    },
+    "shape": {
+        "Description": "Shape of the stimulus",
+        "Levels": {
+            "1": "SHAPE LABEL",
+            "2": "SHAPE LABEL",
+            "3": "SHAPE LABEL",
+            "4": "SHAPE LABEL"
+        }
+    },
+    "orientation": {
+        "Description": "Orientation of stimulus"
+    },
+    "catch_trial": {
+        "Description": "Whether not this image was from a catch trial"
+    },
+    "catch_on": {
+        "Description": "Whether this was the image within the sequence during which the catch probe onset"
+    },
+    "catch_outcome": {
+        "Description": "Behavioural outcome in response to catch trial",
+        "Levels": {
+            "hit": "Catch probe detected",
+            "miss": "Catch probe missed",
+            "correct_rejection": "Correctly did not response",
+            "false_alarm": "Responded to a trial either before catch probe onset or in absence of any catch probe"
+        }
+    }
+}

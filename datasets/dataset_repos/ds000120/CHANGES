@@ -1,0 +1,7 @@
+1.0.1 2017-10-11
+
+    - Removed sub-07 from participants.tsv as data for it didnt existed. 
+
+1.0.0 20160401
+    - Repackaged in BIDS format, data added to existing page
+

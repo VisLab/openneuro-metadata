@@ -1,0 +1,8 @@
+{
+    "TaskName": "mentalstatepictures",
+    "RepetitionTime": 1.4,
+    "EchoTime": 0.032,
+    "PhaseEncodingDirection": "j-",
+    "EffectiveEchoSpacing": 0.000479567,
+    "FlipAngle": 70
+}

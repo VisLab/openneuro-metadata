@@ -1,0 +1,12 @@
+2.0.1 2019-12-04
+  - Reformatted dataset_description.json to conform to specification
+  - Update license to CC0
+Revision history for OpenfMRI dataset ds000235
+
+2.0.0	2018-04-09
+
+	- Renamed dataset name to same as OpenfMRI
+
+1.0.0	2018-04-09
+
+	- Initial publish

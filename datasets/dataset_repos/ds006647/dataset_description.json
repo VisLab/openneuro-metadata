@@ -1,0 +1,20 @@
+{
+    "Authors": [
+        "Soma Chaudhuri",
+        "Joydeep Bhattacharya"
+    ],
+    "Name": "Poetry Assessment EEG Dataset 2",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "bids-matlab-tools",
+            "Version": "8.0"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006647.v1.0.1"
+}

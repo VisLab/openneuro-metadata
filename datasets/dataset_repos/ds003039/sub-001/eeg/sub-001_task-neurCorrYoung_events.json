@@ -1,0 +1,74 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "second"
+  },
+  "response_time": {
+    "Description": "Response time column not use for this data"
+  },
+  "sample": {
+    "Description": "Event sample starting at 0 (Matlab convention starting at 1)"
+  },
+  "value": {
+    "Description": "Value of event (numerical)",
+    "Levels": {
+      "LeftButtonPress": "button press with left thumb",
+      "LeftHS": "left heel strike (as determined by foot acceleration)",
+      "LeftStep": "left step (as determined by foot acceleration) during gait initiation condition",
+      "LeftTO": "left toe-off (as determined by foot acceleration)",
+      "MissLeftButtonPress": "press with left thumb that missed the button, only relevant in button pressing conditions",
+      "MissRightButtonPress": "press with right thumb that missed the button, only relevant in button pressing conditions",
+      "Play": "button press (experimenter), to switch to next screen/trial",
+      "RightButtonPress": "button press with right thumb",
+      "RightHS": "right heel strike (as determined by foot acceleration)",
+      "RightStep": "right step (as determined by foot acceleration) during gait initiation condition",
+      "RightTO": "right toe-off (as determined by foot acceleration)",
+      "initiation": "start of a gait initiation trial",
+      "initiationHeadLeft": "gait initiation with the left leg (as determined by the head acceleration)",
+      "initiationHeadRight": "gait initiation with the right leg (as determined by the head acceleration)",
+      "initiationLeft": "gait initiation with the left leg (as determined by the foot acceleration), more accurate than initiation determined by head acceleration",
+      "initiationRight": "gait initiation with the right leg (as determined by the foot acceleration), more accurate than initiation determined by head acceleration",
+      "instruct_10fast": "instructions for 10m walking test (as fast as possible)",
+      "instruct_10own": "instructions for walking 10m at participants' preferred speed",
+      "instruct_difficult": "instructions for walking at own pace over uneven terrain",
+      "instruct_difficult_button": "instructions for walking at own pace over uneven terrain while performing self-paced button presses (1-3 s inbetween)",
+      "instruct_easy": "instructions for walking at own pace over even terrain",
+      "instruct_easy_button": "instructions for walking at own pace over even terrain while performing self-paced button presses (1-3 s inbetween)",
+      "instruct_restEEG": "instructions for resting baseline recording while standing",
+      "instruct_standing": "instructions for standing while performing self-paced button presses (1-3 s inbetween)",
+      "standingStill": "participant standing sill after gait initiation (as determined by the foot acceleration)"
+    }
+  },
+  "trial_type": {
+    "Description": "Upper hierarchy for events in the experiment. Type of event (different from EEGLAB convention)",
+    "Levels": {
+      "start_10fast": "start of 10m walking test (as fast as possible)",
+      "start_10own": "start of walking 10m at participants' preferred speed",
+      "start_difficult": "start of walking at own pace over uneven terrain",
+      "start_difficult_button": "start of walking at own pace over uneven terrain while performing self-paced button presses (1-3 s inbetween)",
+      "start_easy": "start of walking at own pace over even terrain",
+      "start_easy_button": "start of walking at own pace over even terrain while performing self-paced button presses (1-3 s inbetween)",
+      "start_experiment": "start of experiment",
+      "start_initiation": "start of gait initiation condition",
+      "start_pause": "start of pause inbetween the 3 block of gait initiation",
+      "start_restEEG": "start of 2 min resting baseline recording while standing",
+      "start_standing": "start of standing while performing self-paced button presses (1-3 s inbetween)",
+      "difficult": "irrelevnt",
+      "easy": "irrelevant",
+      "end_10fast": "end of 10m walking test (as fast as possible)",
+      "end_10own": "end of walking 10m at participants' preferred speed",
+      "end_difficult": "end of walking at own pace over uneven terrain",
+      "end_difficult_button": "end of walking at own pace over uneven terrain while performing self-paced button presses (1-3 s inbetween)",
+      "end_easy": "end of walking at own pace over even terrain",
+      "end_easy_button": "end of walking at own pace over even terrain while performing self-paced button presses (1-3 s inbetween)",
+      "end_experiment": "end of experiment",
+      "end_initiation": "end of gait initiation condition",
+      "end_restEEG": "end of 2 min resting baseline recording while standing (sometimes sent too early)",
+      "end_standing": "end of standing while performing self-paced button presses (1-3 s inbetween)"
+    }
+  }
+}

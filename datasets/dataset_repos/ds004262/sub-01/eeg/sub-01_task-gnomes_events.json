@@ -1,0 +1,60 @@
+{
+  "trial_type": {
+    "Description": "BrainVision event number and type (string)"
+  },
+  "value": {
+    "Description": "Event value (string)",
+    "Levels": {
+      "S1": "Condition 1 fixation cross",
+      "S2": "Condition 2 fixation cross",
+      "S3": "Condition 3 fixation cross",
+      "S4": "Condition 4 fixation cross",
+      "S5": "Condition 5 fixation cross",
+      "S6": "Condition 6 fixation cross",
+      "S11": "Condition 1 cue",
+      "S12": "Condition 2 cue",
+      "S13": "Condition 3 cue",
+      "S14": "Condition 4 cue",
+      "S15": "Condition 5 cue",
+      "S16": "Condition 6 cue",
+      "S21": "Condition 1 bar",
+      "S22": "Condition 2 bar",
+      "S23": "Condition 3 bar",
+      "S24": "Condition 4 bar",
+      "S25": "Condition 5 bar",
+      "S26": "Condition 6 bar",
+      "S31": "Condition 1 response",
+      "S32": "Condition 2 response",
+      "S33": "Condition 3 response",
+      "S34": "Condition 4 response",
+      "S35": "Condition 5 response",
+      "S36": "Condition 6 response",
+      "S41": "Condition 1 animation start",
+      "S42": "Condition 2 animation start",
+      "S43": "Condition 3 animation start",
+      "S44": "Condition 4 animation start",
+      "S45": "Condition 5 animation start",
+      "S46": "Condition 6 animation start",
+      "S51": "Condition 1 animation end",
+      "S52": "Condition 2 animation end",
+      "S53": "Condition 3 animation end",
+      "S54": "Condition 4 animation end",
+      "S55": "Condition 5 animation end",
+      "S56": "Condition 6 animation end"
+    }
+  },
+  "onset": {
+    "Description": "Event onset",
+    "Units": "milisecond"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "milisecond"
+  },
+  "channel": {
+    "Description": "Channel number",
+    "Levels": {
+      "x0": "All channels"
+    }
+  }
+}

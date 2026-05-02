@@ -1,0 +1,15 @@
+{
+    "TaskName": " movement",
+    "TaskDescription": "Participants were asked to press one of two buttons to indicate whether the object image presented on screen was alive or not. On trials marked 'is_fast', participants viewed rapid RSVP streams of the same images and responded to the fixation spot changing colour",
+    "InstitutionName": "University of Sydney",
+    "SamplingFrequency": 1000,
+    "ManufacturersModelName": "BrainVision ActiCHamp",
+    "CapManufacturersModelName": "BrainVision actiCAP slim",
+    "EEGChannelCount": 128,
+    "EEGPlacementScheme": " extended 10% system",
+    "EEGReference": "FCz",
+    "PowerLineFrequency": 50,
+    "RecordingType": "continuous",
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": "n/a"
+}

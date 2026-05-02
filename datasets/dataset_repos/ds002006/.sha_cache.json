@@ -1,0 +1,18 @@
+{
+  "participants.tsv": "9dd37d781e622ec57281d7ed0d7e39b7bc1f74e3",
+  "task-FoodChoice_bold.json": "16e895991c3d9bb1d5e6afc45c9d4ef3930b75f7",
+  "task-Memory_bold.json": "38b3123948b064f9ead34948638e0a532fdf2d01",
+  "CHANGES": "408c0289b0507471024f071c87e6449c58e8dbf6",
+  "task-ColorDots_bold.json": "25ce258e5088c46b2e591b593e1b3b5372ff25d7",
+  "dataset_description.json": "1bf85a5fdeb35ed597fddd111bc91a8a421be35d",
+  "sub-02/func/sub-02_task-FoodChoice_run-01_events.tsv": "0a257a6654ac87cd32386aa8bd0c9ef78f8f4847",
+  "sub-02/func/sub-02_task-ColorDots_run-01_events.tsv": "16df2663c2e8982214df443bd04e71b0b367aa76",
+  "sub-02/func/sub-02_task-Memory_run-04_events.tsv": "e4d3d337bd88e67c9f32ee02f857f43fab267100",
+  "sub-02/func/sub-02_task-FoodChoice_run-03_events.tsv": "1876a5d3c3263002e56024b0a0ad2b7ddd98de82",
+  "sub-02/func/sub-02_task-Memory_run-01_events.tsv": "b04f6e518abec7f1e15ad1ce447809c6c126aa04",
+  "sub-02/func/sub-02_task-ColorDots_run-03_events.tsv": "e79d6e297343976bb5d400eeff5675e7b2b7882d",
+  "sub-02/func/sub-02_task-Memory_run-02_events.tsv": "24b8bd7b2319d756ceeee0418aaa27d26ca583c8",
+  "sub-02/func/sub-02_task-ColorDots_run-02_events.tsv": "6d887fddbdcb408ebc243636c1555adee3438a1b",
+  "sub-02/func/sub-02_task-FoodChoice_run-02_events.tsv": "381600f3fd7aadeb7712d528a002a46f785e44ba",
+  "sub-02/func/sub-02_task-Memory_run-03_events.tsv": "3fd56045175162ecb41ee677c7aec5799441d14f"
+}

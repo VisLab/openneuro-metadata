@@ -1,0 +1,82 @@
+{
+  "duration": {
+    "LongName": "Event duration",
+    "Description": "Duration of the event (measured from onset) in seconds",
+    "Units": "second"
+  },
+  "sample": {
+    "LongName": "Sample",
+    "Description": "Onset of the event according to the sampling scheme of the recorded modality"
+  },
+  "trial_type": {
+    "LongName": "Event categorization",
+    "Description": "Primary categorisation of each trial to identify them as instances of the experimental conditions."
+  },
+  "response_time": {
+    "LongName": "Response time",
+    "Description": "Response time measued in seconds.",
+    "Units": "second"
+  },
+  "stim_file": {
+    "LongName": "Stimulus file location",
+    "Description": "Represents the location of the stimulus file (image, video, sound etc.) presented at the given onset time. They should be stored in the /stimuli folder (under the root folder of the dataset; with optional subfolders). The values under the stim_file column correspond to a path relative to \"/stimuli\"."
+  },
+  "onset": {
+    "LongName": "Event onset",
+    "Description": "Onset (in seconds) of the event measured from the beginning of the acquisition of the first volume in the corresponding task imaging data file",
+    "Units": "second"
+  },
+  "value": {
+    "LongName": "Event marker",
+    "Description": "Marker value associated with the event",
+    "Levels": {
+      "x11": "End of block 1",
+      "x21": "End of block 2",
+      "x31": "End of block 3",
+      "x33": "Response given, space bar pressed",
+      "x34": "No response given within time window (during trial)",
+      "x41": "End of block 4",
+      "x44": "Onset of auditory target",
+      "x45": "Auditory catch trial, time point of 'target'",
+      "x51": "End of block 5",
+      "x55": "Onset of visual target",
+      "x56": "Visual catch trial, time point of 'target'",
+      "x61": "End of block 6",
+      "x66": "Auditory attention block",
+      "x71": "End of block 7",
+      "x77": "Visual attention block",
+      "x81": "End of block 8",
+      "x91": "End of block 9",
+      "x101": "End of block 10",
+      "x111": "End of block 11",
+      "x121": "End of block 12",
+      "x200": "Hit: target present, target detected",
+      "x201": "Miss: target present, target not detected",
+      "x202": "Correct rejection: no target, no button press",
+      "x203": "False alarm: no target, button press",
+      "x220": "Onset of auditory noise and slope + 220 generated to display an amplitude modulation spectrum with a spectral exponent of 0",
+      "x221": "Onset of auditory noise and slope + 220 generated to display an amplitude modulation spectrum with a spectral exponent of 1",
+      "x222": "Onset of auditory noise and slope + 220 generated to display an amplitude modulation spectrum with a spectral exponent of 2",
+      "x223": "Onset of auditory noise and slope + 220 generated to display an amplitude modulation spectrum with a spectral exponent of 3",
+      "x230": "Onset of visual noise and slope + 230 generated to display an amplitude modulation spectrum with a spectral exponent of 0",
+      "x231": "Onset of visual noise and slope + 230 generated to display an amplitude modulation spectrum with a spectral exponent of 1",
+      "x232": "Onset of visual noise and slope + 230 generated to display an amplitude modulation spectrum with a spectral exponent of 2",
+      "x233": "Onset of visual noise and slope + 230 generated to display an amplitude modulation spectrum with a spectral exponent of 3",
+      "Auditory_attention_block": "Block in which participant was asked to attend to auditory modality ",
+      "Auditory_catch_trial": "Trial in which participant was instructed to focus on auditory modality, but no auditory target was presented ",
+      "Auditory_noise_onset": "Onset of auditory noise ",
+      "Auditory_target_onset": "Onset of auditory sinusoidal modulation (target) ",
+      "Block_end": "End of block ",
+      "Correct_rejection": "No target, no button press (no response), correct ",
+      "False_alarm": "Button press that signaled a response to a sinusoidal modulation in the non-attended modality ",
+      "Hit": "Target present, target detected ",
+      "Miss": "Target present, target not detected ",
+      "No_response_given_during_trial": "No behavioral response during trial (space bar not pressed) ",
+      "Response": "Behavioral response (press space bar) ",
+      "Visual_catch_trial": "Trial in which participant was instructed to focus on visual modality, but no visual target was presented ",
+      "Visual_noise_onset": "Onset of visual noise ",
+      "Visual_target_onset": "Onset of visual sinusoidal modulation (target) ",
+      "Viusal_attention_block": "Block in which participant was asked to attend to visual modality "
+    }
+  }
+}

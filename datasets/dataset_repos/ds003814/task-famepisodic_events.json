@@ -1,0 +1,39 @@
+{
+	"trial_type": {
+		"LongName": "Trial Type",
+		"Description": "Trial condition labels",
+		"Levels": {
+			"FamPerson": "Imagining familiar people talking about common conversation topics",
+			"Object": "Imagining generic objects engaged in physical interactions",
+			"FamPlace": "Imagining navigating through subregions of familiar places"
+		}
+	},
+	"trial_type_id": {
+		"LongName": "Trial Type ID",
+		"Description": "Trial condition IDs",
+		"Levels": {
+			"1": "FamPerson",
+			"2": "Object",
+			"3": "FamPlace"
+		}
+	},
+	"identity": {
+		"LongName": "Identity",
+		"Description": "IDs for person, place, or object identity",
+		"Levels": {
+			"1": "Identity 1",
+			"2": "Identity 2",
+			"3": "Identity 3",
+			"4": "Identity 4",
+			"5": "Identity 5",
+			"6": "Identity 6"
+		}
+	},
+	"StimulusPresentation": {
+		"OperatingSystem": "Mac OS 10.14.6",
+		"SoftwareName": "Psychtoolbox",
+		"SoftwareRRID": "SCR_002881",
+		"SoftwareVersion": "3.0.16",
+		"Code": "https://osf.io/5yjgh/"
+	}
+}

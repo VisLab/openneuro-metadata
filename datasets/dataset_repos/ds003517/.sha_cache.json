@@ -1,0 +1,11 @@
+{
+  "CHANGES": "9daade1653340e0158fba63c16baee141bd0c4a2",
+  "participants.json": "4b4a115c3b3d6927b56ea9a7d7e41b06ec44da30",
+  "dataset_description.json": "bbc287ea677729618f55dd6d885a126874f6fdd3",
+  "participants.tsv": "ab887874e4ecbe74ce956e0ec328044f85908c2a",
+  "README": "e21b512e60cebeacf6a22e6488159086b03c248f",
+  "sub-001/eeg/sub-001_task-ContinuousVideoGamePlay_run-01_events.json": "c6523a06649947c5b96a6e3438d6a0cb5b4bde37",
+  "sub-001/eeg/sub-001_task-ContinuousVideoGamePlay_run-02_events.json": "c6523a06649947c5b96a6e3438d6a0cb5b4bde37",
+  "sub-001/eeg/sub-001_task-ContinuousVideoGamePlay_run-01_events.tsv": "4e51f55a60360c47d9928ae8410367e8482e19f7",
+  "sub-001/eeg/sub-001_task-ContinuousVideoGamePlay_run-02_events.tsv": "e6a00fada626d26d2c21027fe75c44297bd7a27d"
+}

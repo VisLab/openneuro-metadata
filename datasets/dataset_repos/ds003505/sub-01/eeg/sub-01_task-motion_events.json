@@ -1,0 +1,69 @@
+{
+    "onset": {
+        "Description": "Onset of the stimulus presentation.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the stimulus presentation.",
+        "Units": "s"
+    },
+    "trial_type": {
+        "LongName": "Trial category",
+        "Description": "The main category of the trial.",
+        "Levels": {
+            "RANDOM": "Dots move in random directions.",
+            "COHERENT": "Dots move in coherent directions."
+        }
+    },
+    "trial_type_id": {
+        "LongName": "Trial binary category",
+        "Description": "The binary category of the trial.",
+        "Levels": {
+            "0": "Dots move in random directions.",
+            "1": "Dots move in coherent directions."
+        }
+    },
+    "response_time": {
+        "Description": "Time from stimulus presentation to response.",
+        "Units": "s"
+    },
+    "response_accuracy": {
+        "Description": "Accuracy of the response with respect to the stimulus presented",
+        "Levels": {
+            "0": "Incorrect response",
+            "1": "Correct response"
+        }
+    },
+    "bad_epoch": {
+        "Description": "Whether or not it was an epoch contaminated by artefacts",
+        "Levels": {
+            "0": "No artefacts present",
+            "1": "Artefacts present"
+        }
+    },
+    "outliers": {
+        "Description": "Whether or not it was an outlier epoch",
+        "Levels": {
+            "0": "No outlier",
+            "1": "Outlier"
+        }
+    },
+    "direction": {
+        "Description": "Angle of the direction of coherent motion",
+        "Levels": {
+            "180": "Dots move coherently to the left",
+            "0": "Dots move coherently to the right or randomly"
+        }
+    },
+    "name_direction": {
+        "Description": "Name of the direction of coherent motion",
+        "Levels": {
+            "LEFT": "Dots move coherently to the left",
+            "RIGHT": "Dots move coherently to the right",
+            "NONE": "Dots move randomly"
+        }
+    },
+    "event_num": {
+        "Description": "Event number corresponding to the trial"
+    }
+}

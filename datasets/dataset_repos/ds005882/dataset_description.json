@@ -1,0 +1,19 @@
+{
+    "Name": "Integration of contextual reward motivation with category representations",
+    "BIDSVersion": "v1.9.0",
+    "License": "CC0",
+    "Authors": [
+        "Carol A. Seger",
+        "Kurt Braunlich",
+        "Zhiya Liu"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005882.v1.0.0"
+}

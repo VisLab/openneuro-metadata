@@ -1,0 +1,10 @@
+{
+  "task-UrbanAppraisal_events.json": "e0ba862ee5dbe014fdb462a637672000a7d815bb",
+  "dataset_description.json": "231614af9a3401dac09ffaa6183768ec30797764",
+  "CHANGES": "60ee9c25549332943cb2e5e4b14c94311102ec9b",
+  "participants.tsv": "b5f12eef445d68d9387fbbc2ec875f25c9887591",
+  "participants.json": "a0addfd4df7dabb5da1d0d09dc64e43b01dbf81f",
+  "README": "5c3347ca37e8952b1a42181dfdb54e6e3136a41e",
+  "sub-02/ses-a/eeg/sub-02_ses-a_task-UrbanAppraisal_events.tsv": "c2cb61e71c1435d57b5b480be3a5c4457ee23f62",
+  "sub-02/ses-b/eeg/sub-02_ses-b_task-UrbanAppraisal_events.tsv": "6ea64a64d5e0ba82be71852d1e1e591c44a40911"
+}

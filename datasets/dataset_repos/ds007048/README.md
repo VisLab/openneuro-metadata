@@ -1,0 +1,1 @@
+Please the following reference if you use these data: Michelle C. Medina, Neha A. Reddy, Kevin R. Sitek, Molly G. Bright (2025) Mapping Whole-Brain Auditory Activation with 3T Multi-Echo fMRI at the Group and Individual-Subject Level; bioRxiv 2025.12.03.692160; doi: https://doi.org/10.64898/2025.12.03.692160

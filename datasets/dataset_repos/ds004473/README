@@ -1,0 +1,11 @@
+Welcome to our dataset! Here we present stereoelectroencephalography data from a forced two-choice response task collected in the epilepsy monitoring unit at Oregon Health & Science University. The data was analyzed in collaboration with the University of Oregon. The accompanying paper the first reference below.
+
+References
+----------
+
+Rockhill, A. P., Mantovani, A., Stedelin, B., Nerison, C. S., Raslan, A. M., & Swann, N. C. (2022). Stereo-EEG recordings extend known distributions of canonical movement-related oscillations. Journal of Neural Engineering. https://doi.org/10.1088/1741-2552/acae0a
+
+Appelhoff, S., Sanderson, M., Brooks, T., Vliet, M., Quentin, R., Holdgraf, C., Chaumon, M., Mikulan, E., Tavabi, K., Höchenberger, R., Welke, D., Brunner, C., Rockhill, A., Larson, E., Gramfort, A. and Jas, M. (2019). MNE-BIDS: Organizing electrophysiological data into the BIDS format and facilitating their analysis. Journal of Open Source Software 4: (1896). https://doi.org/10.21105/joss.01896
+
+Holdgraf, C., Appelhoff, S., Bickel, S., Bouchard, K., D'Ambrosio, S., David, O., … Hermes, D. (2019). iEEG-BIDS, extending the Brain Imaging Data Structure specification to human intracranial electrophysiology. Scientific Data, 6, 102. https://doi.org/10.1038/s41597-019-0105-7
+

@@ -1,0 +1,27 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Author1
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Author2
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+    creators:
+      - name: Author1
+        nameType: Personal
+      - name: Author2
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

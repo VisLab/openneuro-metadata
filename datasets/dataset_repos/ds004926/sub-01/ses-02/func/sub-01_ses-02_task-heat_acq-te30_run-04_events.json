@@ -1,0 +1,58 @@
+{
+    "onset": {
+        "LongName": "Event onset time",
+        "Description": "Time of the event measured from the start of the acquisition of the first volume in the corresponding imaging file, in seconds.",
+        "Units": "seconds"
+    },
+    "duration": {
+        "LongName": "Event duration",
+        "Description": "Duration of the event, in seconds.",
+        "Units": "seconds"
+    },
+    "trial_type": {
+        "LongName": "Type of trial",
+        "Description": "Type of stimulus or trial event.",
+        "Levels": {
+            "heat": "Heat stimulation event"
+        }
+    },
+    "temperature": {
+        "LongName": "Stimulation temperature",
+        "Description": "Temperature of the heat stimulus in degrees Celsius.",
+        "Units": "degrees Celsius"
+    },
+    "trial_id": {
+        "LongName": "Trial identifier",
+        "Description": "Unique identifier for each trial."
+    },
+    "reliabilityrun": {
+        "LongName": "Reliability Run binary identifier",
+        "Description": "1 is run is a reiability run with TE=40 across both days, 0 if not."
+    },
+    "patch": {
+        "LongName": "Stimulation Patch Location",
+        "Description": "The patch on the left forearm that was stimulated, with 1 being closest to the wrist and 5 being closest to the elbow.",
+        "Levels": {
+            "1": "Patch closest to the wrist (a)",
+            "2": "Patch second closest to the wrist (b)",
+            "3": "Middle patch (c)",
+            "4": "Patch second closest to the elbow (d)",
+            "5": "Patch closest to the elbow (e)"
+        }
+    },
+    "TE": {
+        "LongName": "Echo Time",
+        "Description": "The echo time with which the respective run was measured. This differed between runs.",
+        "Units": "milliseconds"
+    },
+    "onset_scr": {
+        "LongName": "Onset time in scr trace file",
+        "Description": "The time of each event as recorded in the scr file.",
+        "Units": "a.u."
+    },
+    "rating": {
+        "LongName": "Average intensity rating of heat pain stimulus across run",
+        "Description": "Participants rated stimulus intensity using VAS scale from 0 to 100, 0 marked no perception, 50 marked pain threshold, 100 marked unbearable pain",
+        "Units": "a.u."
+    }
+}

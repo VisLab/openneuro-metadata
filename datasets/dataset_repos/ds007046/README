@@ -1,0 +1,129 @@
+# README — Vision for Action fMRI Dataset
+
+## Dataset Overview
+This 3T fMRI dataset was collected for the **Vision for Action** project to investigate how the human visual system represents **locomotive action affordances**—the actions that environments afford for navigating through them (e.g., walking, biking, climbing).
+
+The dataset accompanies the publication:
+
+**Bartnik et al. (2025). _Representation of locomotive action affordances in human behavior, brains, and deep neural networks_. PNAS.**
+
+Data were collected at the **FMG Research Lab**, University of Amsterdam (REC, Amsterdam, The Netherlands).
+
+---
+
+## Contents
+
+Each participant completed **four scanning sessions**:
+
+### **Session 1 (ses-001): Functional Localizer + Scene pRF**
+- Six runs of a **category localizer** (block design) with six object/scene categories.
+- One or more **population receptive field (pRF)** mapping runs.
+- One **T1-weighted anatomical scan**.
+- BOLD fMRI acquisitions and corresponding fieldmaps.
+
+### **Sessions 2–4 (ses-002, ses-003, ses-004): Main Vision-for-Action Tasks**
+Across these three sessions, participants performed three different tasks using the same set of 90 scene images:
+
+1. **Locomotive Action Affordance Task**  
+   Participants indicated which locomotive actions the environment afforded (walking, biking, driving, climbing, swimming, boating).
+
+2. **Object Presence Task**  
+   Participants selected which object categories were present (building/wall, plant/tree, furniture, road/street, body of water, stones).
+
+3. **Fixation Color Task (Control)**  
+   Participants reported the color of the fixation cross (blue, red, orange, purple, yellow, cyan), independent of scene content.
+
+The order of tasks was **counterbalanced across subjects**.
+
+Each of these sessions contains:
+- Six functional **BOLD** runs (event-related design)
+- A **T1-weighted anatomical scan**
+- Optional fieldmaps
+- Associated `*_events.tsv` files
+
+---
+
+## Stimuli
+
+A subset of **90 natural scene photographs** was selected from a larger set of 231 images to:
+
+- Sample indoor, outdoor-natural, and outdoor-manmade environments  
+- Maximize variance in **locomotive action affordance ratings**  
+- Cover the first two principal components of affordance space
+
+Each scene was shown for **1 s**, followed by a jittered ISI of **2.2–5.4 s**.  
+Stimuli subtended approximately **20° of visual angle**.
+
+---
+
+## fMRI Acquisition
+
+All data were collected on a **Philips Achieva 3T** scanner using a **32-channel SENSE head coil**.
+
+### **Functional Localizer (ses-001)**
+- EPI sequence  
+- TR = 2000 ms, TE = 27.63 ms  
+- 36 slices, 3×3×3 mm  
+- 140 volumes per run  
+
+### **Main Task Sessions (ses-002 to ses-004)**
+- Multiband EPI  
+- TR = 1600 ms, TE = 30 ms  
+- 56 slices, 2×2×2 mm  
+- Multiband factor = 4  
+- 281 volumes per run  
+- Acquisition label in BIDS: `acq-Mb4Mm2Tr1600`
+
+### **Structural Imaging**
+A **T1-weighted anatomical scan** (1 mm isotropic) was collected at the start of each session.
+
+Raw BIDS data provided here are **unprocessed**.
+
+---
+
+## Events Files
+
+For each functional run in sessions 2–4:
+
+- An `*_events.tsv` file is provided
+- Contains onset times, durations, and trial-type information
+- Response prompts and button presses are included where applicable
+
+The event structure follows the task design described in the corresponding publication.
+
+---
+
+## Behavioral Task Structure
+
+Each run contained:
+- **90 trials** (all stimuli presented once per run)
+- Randomly interspersed **response screens** (3.8 s)
+- Tasks allowed **multiple responses** in the affordance and object conditions
+
+The fixation task required a single color judgment on each response screen.
+
+---
+
+## Anonymity
+
+To comply with University of Amsterdam regulations:
+
+1. All participants signed consent permitting data sharing.  
+2. No mapping exists between personal information and subject IDs.  
+3. All structural data have been **defaced** using `pydeface`.  
+4. Subject identifiers (`sub-XXX`) were randomly assigned.
+
+---
+
+## Citation
+
+If using this dataset, please cite:
+
+**Bartnik, C. G., Sartzetaki, C., Puigseslloses Sanchez, A., Molenkamp, E., Bommer, S., Vukšić, N., & Groen, I. I. A. (2025). Representation of locomotive action affordances in human behavior, brains, and deep neural networks. _Proceedings of the National Academy of Sciences_.**
+
+---
+
+## Contact
+
+For questions about the dataset, please contact:  
+**I. I. A. Groen** — i.i.a.groen@uva.nl

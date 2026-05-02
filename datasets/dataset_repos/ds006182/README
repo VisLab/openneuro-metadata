@@ -1,0 +1,18 @@
+This dataset contains QSIPrep (version 1.0.0) derivatives for the PAFIN dataset (https://openneuro.org/datasets/ds006131).
+
+The command used is:
+
+```
+qsiprep \
+      /data \
+      /deriv/qsiprep \
+      participant \
+      --fs-license-file /license.txt \
+      --skip-bids-validation \
+      --denoise-method dwidenoise \
+      --output-resolution 1.7 \
+      --subject-anatomical-reference sessionwise \
+      --hmc-model 3dSHORE \
+      --pepolar-method DRBUDDI \
+      --b1-biascorrect-stage none
+```

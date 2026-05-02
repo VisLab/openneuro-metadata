@@ -1,0 +1,102 @@
+{
+    "participant_id": {
+        "Description": "ID number of the participant"
+    },
+    "age": {
+        "Description": "age of participant",
+        "Units": "years"
+    },    
+    "height": {
+        "Description": "height of participant",
+        "Units": "cm"
+    },    
+    "weight": {
+        "Description": "weight of participant",
+        "Units": "kg"
+    },    
+    "gender": {
+        "Description": "gender as reported by the participant",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+    "handedness": {
+        "Description": "handedness as reported by the participant",
+        "Levels": {
+            "L": "left",
+            "R": "right"
+        }
+    },
+    "vision": {
+        "Description": "vision as reported by the participant",
+        "Levels": {
+            "N": "normal",
+            "C": "corrected-to-normal"
+        }
+    },
+    "diet": {
+        "Description": "diet as reported by the participant"
+    },
+    "session_order": {
+        "Description": "order of the hunger and sated sessions",
+        "Levels": {
+            "1": "hunger (session 1), followed by sated (session 2)",
+            "2": "sated (session 1), followed by hunger (session 2)"
+        }    
+    },
+    "date_session1": {
+        "Description": "date the EEG data for session 1 was obtained"
+    },
+    "date_session2": {
+        "Description": "date the EEG data for session 2 was obtained"
+    },
+    "hunger_condition_session1": {
+        "Description": "what was the hunger condition for session 1",
+        "Levels": {
+            "H": "hunger",
+            "S": "sated"
+        } 
+    },
+    "hunger_condition_session2": {
+        "Description": "what was the hunger condition for session 2",
+        "Levels": {
+            "H": "hunger",
+            "S": "sated"
+        } 
+    },
+    "hunger_session1": {
+        "Description": "reported hunger level in session 1"
+    },
+    "thirst_session1": {
+        "Description": "reported thirst level in session 1"
+    },
+    "fatigue_session1": {
+        "Description": "reported fatigue level in session 1"
+    },
+    "time_last_meal_session1": {
+        "Description": "reported time since last meal in session 1",
+        "Units": "hours"
+    },
+    "time_last_food_session1": {
+        "Description": "reported time since last food intake (including snacks) in session 1",
+        "Units": "hours"
+    },
+    "hunger_session2": {
+        "Description": "reported hunger level in session 2"
+    },
+    "thirst_session2": {
+        "Description": "reported thirst level in session 2"
+    },
+    "fatigue_session2": {
+        "Description": "reported fatigue level in session 2"
+    },
+    "time_last_meal_session2": {
+        "Description": "reported time since last meal in session 2",
+        "Units": "hours"
+    },
+    "time_last_food_session2": {
+        "Description": "reported time since last food intake (including snacks) in session 2",
+        "Units": "hours"
+    }
+}

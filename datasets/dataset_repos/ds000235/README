@@ -1,0 +1,40 @@
+Description of the ASL sequence
+A sequence with pseudo-continuous labeling, background suppression and 3D RARE Stack-Of-Spirals readout with optional through-plane acceleration was implemented for this study. At the beginning of the sequence, gradients were rapidly played with alternating polarity to correct for their delay in the spiral trajectories, followed by two preparation TRs, to allow the signal to reach the steady state. A non-accelerated readout was played during the preparation TRs, in order to obtain a fully sampled k-space dataset, used for calibration of the parallel imaging reconstruction kernel, needed to reconstruct the skipped kz partitions in the accelerated images.
+
+Description of study
+Single-shot and two-shot versions of the accelerated sequence were acquired during rest.
+For each participant, first a high-resolution anatomical T1-weighted image was acquired with a magnetization prepared rapid gradient echo (MPRAGE) sequence.
+Subjects were instructed to remain still and awake, while resting perfusion data were acquired using either 1-shot or 2-shot 1D-accelerated readout. 64 and 32 label-control images were acquired, respectively, during a total scan time of 5 min. Labeling and PLD times where 1.8 and 1.8 s. Two M0 images with long TR and no magnetization preparation were acquired per run for CBF quantification purposes.
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure deindentification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/latest/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000235/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000235.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.
+
+Known Issues
+------------
+N/A
+
+Bids-validator Output
+---------------------
+

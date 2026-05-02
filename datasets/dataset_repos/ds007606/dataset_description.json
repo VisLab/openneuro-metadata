@@ -1,0 +1,17 @@
+{
+    "Name": "BEACON",
+    "BIDSVersion": "1.2.1",
+    "License": "CC0",
+    "Authors": [
+        "Professor Kate Tchanturia, Professor Steve Williams, Dr Jenni Leppanen, Dr Daniel Halls, Dr Michelle Sader"
+    ],
+    "Acknowledgments": "We would like to thank Professor Kate Tchanturia and Professor Steve Williams acquiring funding to establish the BEACON dataset, as well as Dr Daniel Halls and Dr Jenni Leppanen for being integral to collecting and pre-processing the dataset's neuroimaging data.",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "This work was made possible by funding for the BEACON study, provided by the MRC-MRF Fund (MR/S020381/1; BiomaRkers for AnorexIa Nervosa and autism spectrum Disorders: longitudinal study and MR/R004595/1; The Triple A study [Adolescents with Anorexia and Autism]: A search for biomarkers). This dataset was made open access due to a grant provided by UK Research and Innovation (MRC, ESRC, AHRC), the National Institute for Health and Care Research and the Medical Research Foundation (the Eating Disorders and Autism Collaborative (EDAC) network [MR/X03058X/1])."
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007606.v1.0.0"
+}

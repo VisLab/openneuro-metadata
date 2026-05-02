@@ -1,0 +1,13 @@
+{
+  "participants.tsv": "95c716430ac233a7ea0c0f486e13e73685ea767b",
+  "dataset_description.json": "0bf26fc257502a9794e716c554a5f10b5ce496c4",
+  "README": "cb958eee04e2696d926eb337456346f3bf6f0221",
+  "CHANGES": "e61f421ac616982fa694ecac22ee49df33d870a5",
+  "sub-101/func/sub-101_task-FaceTest_run-1_events.tsv": "b889c471ae9078f026b176cb3a77e4f2acafc2b0",
+  "sub-101/func/sub-101_task-FaceStudy_events.tsv": "223f7c42db8f3e173e02036f05153d6d7990a561",
+  "sub-101/func/sub-101_task-FaceTest_run-2_events.tsv": "019c9ce18100a817b4c72d45bcc0380ce1ff08e7",
+  "sub-101/func/sub-101_task-WordTest_run-2_events.tsv": "a19ce279c7f15b84ca81a5eb97c770bf64093915",
+  "sub-101/func/sub-101_task-SemanticFluency_events.tsv": "c73b446dd7377488b497741ddd86fe08dd73d78e",
+  "sub-101/func/sub-101_task-WordStudy_events.tsv": "3e06cfa09b07618ccc1d9a4e9e090f537632fa42",
+  "sub-101/func/sub-101_task-WordTest_run-1_events.tsv": "68c885f3ccb11f63e0b1847eb4b5a432f2d75596"
+}

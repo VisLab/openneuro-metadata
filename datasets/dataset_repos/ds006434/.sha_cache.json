@@ -1,0 +1,11 @@
+{
+  "CHANGES": "1a1bb09284f86a6a800cba22585771b021e193db",
+  "participants.json": "3fb983232c84f15f8666afdfaa624ca0c1dc7b4e",
+  "participants.tsv": "22263af9d27aa26ed81dd85cc80c306959e9a4d5",
+  "dataset_description.json": "1d3f2156f78659e9ff818f44fba303f9b914b85e",
+  "README": "a3bac84c1740f24ba8cf21c294abcb12ca7dc664",
+  "sub-dichotic02/eeg/sub-dichotic02_task-exp2DichoticCortex_events.json": "1f244c064e426dcbe121c01cabf9a9dd049b335f",
+  "sub-dichotic02/eeg/sub-dichotic02_task-exp2DichoticSubcortex_events.json": "1f244c064e426dcbe121c01cabf9a9dd049b335f",
+  "sub-dichotic02/eeg/sub-dichotic02_task-exp2DichoticSubcortex_events.tsv": "c10cc2597a14772386cc2b0cedffadffad191cb7",
+  "sub-dichotic02/eeg/sub-dichotic02_task-exp2DichoticCortex_events.tsv": "d386097e05fd79a163f8ffcf16b32ea9e5acea64"
+}

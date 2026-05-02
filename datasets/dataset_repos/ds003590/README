@@ -1,0 +1,23 @@
+This repository contains the following files:
+
+BIDS Directory Structure
+===
+
+Raw MRI volumes (T2w) at 7T
+
+    sub-01/ses-7T/anat/  -  MRI volume from the Allen Human Brain Atlas used as the reference for 3D histology reconstruction
+
+Reconstructed MRI and histological data in subject space at 0.25mm isotropic
+
+    derivatives/historecon/sub-01/sub-01_res-0.25_<stain>  
+
+Reconstructed MRI and histological data in subject space at 0.25mm isotropic (after revision 1)
+
+    derivatives/historecon-revision-1/sub-01/sub-01_res-0.25_<stain>  
+
+Corresponding MNI coordinates form the reconstructed volumes (4D volume with RAS/image coordinates). These files lie on the space of the histology reconstructions, thus, opening it on top of any of the reconstructed contrasts will directly give the image indices on MNI space
+
+    derivatives/mni-coordinates/sub-01/mni.coords.ijk.nii.gz
+    derivatives/mni-coordinates/sub-01/mni.coords.ijk.nii.gz
+
+===

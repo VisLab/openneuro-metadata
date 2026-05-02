@@ -1,0 +1,12 @@
+1.5.0 2025-03-06
+  - added anat folder with T1s
+1.4.0 2025-02-07
+  - Added crosstalk calibration files
+1.3.0 2025-01-21
+  - Updated IDs, groups, quex info: MEG MDD IDs and Quex.xlsx
+1.2.0 2025-01-17
+  - Updated publication
+1.1.0 2025-01-15
+  - Problems in Task folder.  Just removed the task.  Shrug.
+1.0.0 2024-08-12
+  - title, readme

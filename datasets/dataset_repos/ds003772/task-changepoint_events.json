@@ -1,0 +1,32 @@
+{
+  "outcome noise": {
+    "Description": "The standard deviation of the Gaussian distribution for generating the outcome number",
+    "Levels":{
+    	"10": "Low-noise",
+    	"25": "High-noise"
+    }
+  },
+  "outcome value": {
+    "Description": "This value indicates whether the current trial has positive or neutral monetary value.",
+    "Levels": {
+    	"1": "Positive monetary value",
+    	"0": "Neutral monetary value"
+    }
+  },
+  "isChangeTrial": {
+    "Description": "This value indicates whether the environment state has changed on this trial.",
+    "Levels": {
+    	"1": "change-point",
+    	"0": "non-change-point"
+    }
+  },
+  "current state": {
+  	"Description": "The number (0-300) of the underlying environment state, which is the mean of the Gaussian distribution for generating an outcome number"
+  },
+  "current outcome": {
+  	"Description": "The number (0-300) of the current outcome, which is generated from a Gaussian distribution of the mean (i.e., current state) and the standard deviation (i.e., noise)"
+  },
+  "current prediction": {
+  	"Description": "The number (0-300) of participants' prediction before the presentation of the outcome"
+  }
+}

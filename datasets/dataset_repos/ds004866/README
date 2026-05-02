@@ -1,0 +1,57 @@
+Shanxi Musical-Enculturation Dataset
+References:
+Paulsen, Sean (2023). Self-Supervised Pretraining and Transfer Learning on fMRI Data with Transformers (PhD Thesis). https://digitalcommons.dartmouth.edu/dissertations/173/ 
+
+Marion, Pelofi, Paulsen, Shamma, and Casey (TBP).
+ 
+Overview:
+We measured brain activity using functional MRI while five participants (“sub-sid001401/2548/2564/2566/2589”) listened to music clips of Bach chorals and Chinese folk music from the region of Shanxi. All participants reported familiarity with western classical music and no familiarity with Chinese folk music (see participants.tsv). 
+
+Participants were scanned in two sessions, one week apart. Stimuli presentation varied among participants, but for each participant the first and second sessions had identical protocols. To examine enculturation of the Shanxi musical grammars, participants were instructed to listen to at least 30 minutes of Shanxi music clips at home each day between sessions. These clips were similar to but distinct from the clips heard during scanning. Actual daily listening amounts are given in participants.tsv. 
+
+The top-level folder of this dataset consists of participant-wise subfolders (“sub-sid001401”,…). Each participant’s folder contains two subfolders, corresponding to the two sessions ("ses-A005515","ses-A005552",...). The greater of the two numbers indicates the second session. Each session folder contains two subfolders:
+1) anat: T1-weighted structural images
+2) func: functional signals (multi-band echo-planar images) and events files
+
+Each session consisted of 8 functional runs, each of which had 4 blocks, with 3 trials in each block. Each block was either all Bach or all Shanxi trials. Each trial lasted 45s with no time in between trials, and presented one music clip. Half of all blocks for each participant were Bach and the other half Shanxi. The arrangement of blocks was randomized for each participant. After each block the participant was asked to rate the pleasure they felt during the preceding block. The functional data for each run are named as follows:
+sub-sid*_ses-A00*_task-enculture_acq-mb8_run-*_bold.nii.gz
+
+Each *_event.tsv file contains following information:
+1) Onset: stimulus onset
+2) Duration: Each clip was constructed to be approximately 30 seconds
+3) Trial_type: Either Bach or Chinese
+4) Value: The track number of this trial's music clip, e.g value 49 with trial_type Bach indicates Bach_49.mp3 was played.
+
+Further details of the protocol design can be found in Section 3.2.2 of Paulsen (2023). All music clips used in the collection of this dataset were created by Marion and Barbarot (TBP).
+
+Caution: This dataset can be used for research purposes only. The data were anonymized and de-faced with pydeface, and users shall not perform analyses to re-identify individual participants.
+
+Contributors: 
+Sean Paulsen
+Department of Computer Science, Dartmouth College, USA
+
+Guilhem Marion
+Laboratoire des Systèmes Perceptifs, Département d’Étude Cognitive, École Normale Supérieure, PSL, Paris, France
+
+Claire Pelofi
+Center for Language, Music and Emotion, New York University, Max Planck Institute for Empirical Aesthetics
+
+Michael A. Casey
+Department of Computer Science & Department of Music, Dartmouth College, USA
+
+Shihab Shamma
+Department of Electrical and Computer Engineering
+Institute for Systems Research
+University of Maryland College Park, USA
+&
+Laboratoire des Systèmes Perceptifs, Département d’Étude Cognitive, École Normale Supérieure, PSL, Paris, France
+
+Camille Barbarot
+Centre PsyCLÉ, Université Aix-Marseille, Aix-en-Provence, Provence-Alpes-Côte d’Azur, France
+
+
+
+## ezbids
+
+This dataset was converted to BIDS using ezBIDS (https://brainlife.io/ezbids)
+

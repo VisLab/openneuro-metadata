@@ -1,0 +1,20 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "seconds"
+  },
+  "value": {
+    "Description": "Trigger Code",
+    "Levels": {
+      "DIN104": "onset of the delay period: simple retention of 4 letters",
+      "DIN114": "onset of the delay period: backwards reordering and retention of 4 letters",
+      "DIN124": "onset of the delay period: alphabetical reordering and retention of 4 letters",
+      "DIN106": "onset of the delay period: simple retention of 6 letters",
+      "DIN116": "onset of the delay period: backwards reordering and retention of 6 letters",
+      "DIN126": "onset of the delay period: alphabetical reordering and retention of 6 letters",
+      "DIN200": "probe presentation",
+      "eyec": "eyes closed resting state",
+      "eyeo": "eyes open resting state"
+    }
+  }
+}

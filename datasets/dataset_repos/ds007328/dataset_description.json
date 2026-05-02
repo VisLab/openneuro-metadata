@@ -1,0 +1,38 @@
+{
+    "Name": "Dense longitudinal single-subject multimodal MRI dataset acquired via self-administered scanning",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Evgeny D. Petrovskiy"
+    ],
+    "Acknowledgements": "The author thanks the Ministry of Science and Higher Education of the Russian Federation for granting access to the equipment.",
+    "HowToAcknowledge": "Please cite: Petrovskiy, E.D. A 50-hour longitudinal multimodal single subject rs-fMRI dataset from self-scanning during antidepressant taper. Available on OpenNeuro.",
+    "Funding": [
+        "No external funding"
+    ],
+    "EthicsApprovals": [
+        "All procedures were conducted in accordance with institutional guidelines and relevant ethical standards for neuroimaging research. Written informed consent was obtained from the participant for all scanning procedures and data sharing."
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "MRIQC",
+            "Version": "25.1.0",
+            "Description": "Used for image quality assessment of all MRI data.",
+            "Container": {
+                "Type": "docker",
+                "Tag": "nipreps/mriqc:25.1.0"
+            }
+        },
+        {
+            "Name": "pydeface",
+            "Version": "2.0.0",
+            "Description": "Defacing of anatomical images",
+            "Container": {
+                "Type": "docker",
+                "Tag": "poldracklab/pydeface"
+            }
+        }
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007328.v1.0.0"
+}

@@ -1,0 +1,13 @@
+2.0.0 2016-05-19
+
+  -  Converted to BIDS.
+  -  Added missing retest session (former known as ds006B)
+  -  Added a data dictionary for trial types
+
+1.1.0 2016-02-19
+
+  -  Updated orientation information in NIFTI headers for improved left-right determination.
+
+1.0.0 2013-04-16
+
+  -  initial release

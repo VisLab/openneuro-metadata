@@ -1,0 +1,41 @@
+This dataset was obtained from the OpenfMRI project (http:www.openfmri.org).
+Accession #: ds00220
+Description: The evolution of cost-efficiency in neural networks furing recovery from 
+traumatic brain injury
+
+Please cite the following references if you use these data:
+Roy, A., Bernier, R. A., Wang, J., Benson, M., French, J., Good, D., & Hillary, F.G. The 
+evolution of cost-efficiency in neural networks furing recovery from traumatic brain injury. 
+PLOS ONE (2017).
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+For each subject, sessions occured approximately three months apart.
+
+Defacing
+--------
+Defacing for the anatomical images for subjects control01-control06 was 
+performed by the submitter.
+Pydeface was used on the anatomical images for the rest of the subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: 
+https://mriqc.readthedocs.io/en/stable/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000220/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000220.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.
+
+Known Issues
+------------
+n/a

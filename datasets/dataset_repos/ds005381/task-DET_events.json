@@ -1,0 +1,51 @@
+{
+   "trial": {
+      "LongName": "Trial number",
+      "Description": "Trial number"
+   },
+   "trial_type": {
+      "LongName": "Discrimination task timing",
+      "Description": "Discrimination task timing",
+      "Levels": {
+         "early": "Discrimination task starts 6 seconds after the trial onset.",
+         "late": "Discrimination task starts 12 seconds after the trial onset."
+      }
+   },
+   "event_type": {
+      "LongName": "Task phase within a trial",
+      "Description": "Task phase within a trial",
+      "Levels": {
+         "stimulus": "Presentation of alternating (8/3Hz) grating stimulus.",
+         "dm_task_pre": "Presentation of cue preceding the reference onset for the discrimination task.",
+         "dm_task": "Presentation of reference (two yellow nonius dots) for the discrimination task.",
+         "dm_task_post": "Presentation of cue following the discrimination task (reference) offset.",
+         "em_task_pre": "Presentation of cue preceding the response frame onset for the estimation task.",
+         "em_task": "Presentation of response frame (two green nonius dots) presentation for the estimation task.",
+         "em_task_post": "Presentation of cue following the estimation task (response frame) offset."
+      }
+   },
+   "response_time": {
+      "LongName": "Discrimination task response time",
+      "Description": "Discrimination task response time (in seconds)"
+   },
+   "value_stimulus": {
+      "LongName": "Orientation of stimulus",
+      "Description": "Orientation of stimulus (in degrees)"
+   },
+   "value_reference": {
+      "LongName": "Orientation of reference relative to stimulus",
+      "Description": "Orientation of reference relative to stimulus (in degrees), with positive values indicating a clockwise direction."
+   },
+   "response_decision": {
+      "LongName": "Discrimination task choice",
+      "Description": "Discrimination task choice",
+      "Levels": {
+         "1": "Keypress indicating the remembered stimulus is clockwise relative to the reference.",
+         "-1": "Keypress indicating the remembered stimulus is counterclockwise relative to the reference."
+      }
+   },
+   "response_estimation": {
+      "LongName": "Estimation task response",
+      "Description": "Estimated remembered stimulus (in degrees)"
+   }
+}

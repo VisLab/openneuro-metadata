@@ -1,0 +1,21 @@
+{
+  "task-feedBES_bold.json": "74ca4290251ae01adc4d27992d7502d4ac10211e",
+  "task-bars_bold.json": "d90bc67a09ca19049df9a32e8ae01de8cc8b142e",
+  "task-ecc_bold.json": "678e6c03fb7242c4ba5576d5f26492b8c88d8f5e",
+  "task-polar_bold.json": "952b42cce98573cb4562a1deb0a03a19f15272ad",
+  "README": "2dc42a583194ed723290a74b717d45e3d79de0ac",
+  "dataset_description.json": "e0d157d73f8f3f9d67aa633ad25bb3c21771f5e3",
+  "participants.tsv": "1f7c80644d14c38f0217c0d5615a66eefaf734d0",
+  "task-sensoryT_bold.json": "009ef0cf7227e350fe9d83841e532a113dbec702",
+  "task-retmap_bold.json": "9eb4fd1ab8737a6cbdf6d87af38478f5061ba163",
+  "CHANGES": "aea61b0fac540d218bedcd2bfcd81cb2f07ab18f",
+  "task-tarmap_bold.json": "6df7dd1017f1cc3ad19357c7af2c62a258289cc1",
+  "sub-01/ses-01/func/sub-01_ses-01_task-bars_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-02/func/sub-01_ses-02_task-feedBES_run-3_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-01/func/sub-01_ses-01_task-feedBES_run-1_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-02/func/sub-01_ses-02_task-feedBES_run-4_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-02/func/sub-01_ses-02_task-retmap_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-02/func/sub-01_ses-02_task-sensoryT_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-01/func/sub-01_ses-01_task-feedBES_run-2_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/ses-01/func/sub-01_ses-01_task-tarmap_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5"
+}

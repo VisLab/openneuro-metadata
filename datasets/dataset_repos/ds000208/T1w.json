@@ -1,0 +1,9 @@
+{
+	"RepetitionTime": 0.0025,
+	"EchoTime": 0.00336,
+	"Manufacturer": "Siemens",
+        "ManufacturersModelName": "Trio",
+        "MagneticFieldStrength": 3,
+	"PulseSequenceType": "MPRAGE",
+	"FlipAngle": 9
+}

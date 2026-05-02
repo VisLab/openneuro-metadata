@@ -1,0 +1,21 @@
+# README
+
+This repository contains raw imaging data for the reward based motor learning task reported in Nick et al. (2023)
+
+Nick, Q., Gale, D. J., Areshenkoff, C., De Brouwer, A., Nashed, J., Wammes, J., ... & Gallivan, J. (2023). Reconfigurations of cortical manifold structure during reward-based motor learning. bioRxiv, 2023-07.
+
+
+- [ ] Contact person
+
+Question regarding the data and experiment should be directed towards Dr. Jason Gallivan (gallivan@queensu.ca)
+
+## Overview
+
+- [ ] Reward-based motor learning task
+
+- [ ] Data collected: 2017-2018
+
+- [ ] Task:
+
+Subjects (N=45) learned to trace a curved target trajectory using an MRI compatible touchpad. After a baseline period of 70 trials, score feedback was introduced which quantified the subjects' accuracy in tracing the invisible mirror-image path.  Subjects were not informed of the manipulation, and were told only to maximize their score over the course of the 200 trial learning block. Note that several subjects were excluded from the published analyses due to motion, or due to a failure to properly engage with the task, and so users should perform a careful quality assessment depending on their intended use of the data.
+

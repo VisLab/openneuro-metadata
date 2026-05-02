@@ -1,0 +1,18 @@
+{
+  "StimulusPresentation": {
+    "SoftwareName": "Psychtoolbox",
+    "SoftwareVersion": "3.0.19",
+    "OperatingSystem": "Windows 10",
+    "Code": "n/a",
+    "Environment": {
+      "SoftwareName": "MATLAB",
+      "SoftwareVersion": "2021b"
+    }
+  },
+  "StimulusGeneration": {
+    "Type": "Spoken numbers / arithmetic prompts",
+    "Description": "Generated using eSpeak v1.48.04 + Mbrola French voice fr1; nominal duration 500 ms",
+    "SoftwareName": "eSpeak + Mbrola",
+    "SoftwareVersion": "1.48.04 + fr1"
+  }
+}

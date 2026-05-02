@@ -1,0 +1,17 @@
+3.2.2 2021-01-27
+  - owernership was updated
+3.2.1 2020-09-23
+  - participants.cvs was replaced by participants.tsv to fir BIDS format
+3.2.0 2020-09-23
+  - participants.csv file with dates of births/sessions was added.
+3.1.0 2020-07-21
+  - anatomical scans were added
+  - target anatomy and Allen Atlas at BOLD resolution were added
+3.0.0 2020-04-15
+  - Behavioral rotarod data and code for extraction of network similarity were added
+2.0.0 2019-11-10
+  - All scans were added
+
+1.0.0	2019-11-10
+
+	- Initial snapshot

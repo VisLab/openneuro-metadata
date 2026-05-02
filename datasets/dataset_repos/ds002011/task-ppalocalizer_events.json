@@ -1,0 +1,10 @@
+{
+	"type": {
+		"Description": "The type of image stimuli being presented in the trial",
+		"Levels": {
+			"Objects": "An object",
+			"Scenes": "A scene image",
+			"Scrambled": "A scrambled image"
+		}
+	}
+}

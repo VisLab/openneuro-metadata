@@ -1,0 +1,34 @@
+2.1.0 2025-02-18
+  - Added correct ASL data for 234 subjects
+  - Removed 9 incorrectly uploaded ASL data (sub-ON40757, sub-ON52083, sub-ON62623, sub-ON66199, sub-ON72082, sub-ON73969, sub-ON87538, sub-ON95422, and sub-ON98098)
+  - Corrected 4 rows with accidentally combined columns in phenotype/blood_chemistry.tsv
+  - Corrected 2 rows with accidentally combined columns in phenotype/cbc_with_differential.tsv
+  - Updated .bidsignore in order to validate phenotype/ and perf/ data
+  - Added a record of excluded CTDB fields in the code/ctdb_form_exclusions.txt file
+2.0.2 2025-02-18
+  - A few possibly identifying fields across 9 phenotype TSV files were removed after an anonymous report.
+  - All MEG *_coordsystem.json files were removed after discovering they were inaccurate.
+2.0.1 2024-08-20
+  - Age rounded from float to integer for sub-ON64412 in `participants.tsv`
+2.0.0 2024-08-20
+  - This release includes data collected between 2020-06-03 (cut-off date for v1.0.0) and 2024-04-01. Notable changes in this release:
+  - 769 new participants have been added along with re-evaluation data for 15 participants. Total unique participants count is now 1859.
+  - `visit` and `age_at_visit` columns added to phenotype files to distinguish between visits and intervals between them.
+  - Follow-up online survey data included.
+  - Replaced Beck Anxiety Inventory (BAI) and Beck Depression Inventory-II (BDI-II) with General Anxiety Disorder-7 (GAD7) and Patient Health Questionnaire 9 (PHQ9) surveys, respectively.
+  - Discontinued the Perceived Health rating survey.
+  - Added Brief Trauma Questionnaire (BTQ) and Big Five personality survey to online screening questionnaires.
+  - MRI:
+  - Replaced ADNI-3 resting state sequence with a multi-echo sequence with higher spatial resolution.
+  - Replaced field map scans with a shorter reversed-blipped EPI scan.
+  - MEG:
+  - Some participants have 6-minute empty room data instead of the shorter duration empty room acquisition.
+1.0.3 2023-11-28
+  - Fixing metadata formatting issues
+1.0.2 2023-01-19
+  - The channels.tsv files were corrected. Older versions of MNE BIDS ignored channels files but recent versions of MNE BIDS' reading function requires accurate channels information.
+1.0.1 2022-09-26
+  - Updating T1w JSON sidecars of subjects with `AnatomicalLandmarkCoordinates` field with MEG and MRI data associated with them.
+  - Adding saggital MPRAGE acquisition's protocol PDF to sourcedata directory.
+1.0.0 2022-07-21
+  - Initial Release

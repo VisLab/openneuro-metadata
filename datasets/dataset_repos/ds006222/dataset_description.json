@@ -1,0 +1,20 @@
+{
+    "Authors": [
+        "Matthew Attokaren",
+        "Annabelle Singer"
+    ],
+    "Name": "MultisensoryFlickerHealthyYoungAdults_AllSubjectsRawData",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "bids-matlab-tools",
+            "Version": "10.2"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006222.v1.0.1"
+}

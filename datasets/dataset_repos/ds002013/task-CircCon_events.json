@@ -1,0 +1,18 @@
+{
+  "condition": {
+    "LongName": "Experimental Condition",
+    "Description": "experimental condition"
+  },
+  "stim": {
+    "LongName": "Stimulus Identifier",
+    "Description": "presented stimulus"
+  },
+  "resp": {
+    "LongName": "Response Button",
+    "Description": "indicated response"
+  },
+  "RT": {
+    "LongName": "Reaction Time",
+    "Description": "subject's reaction time"
+  }
+}

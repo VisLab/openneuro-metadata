@@ -1,0 +1,9 @@
+{
+  "dataset_description.json": "c29ff0a6fe33a49b77e76834d7dd1b1d9d0016dd",
+  "CHANGES": "dc0cc9d9e576d74a1ddb22eb4814b2f782622e7e",
+  "participants.json": "b7768cfe1c5f92cddb07212fd9555a5cb6679469",
+  "participants.tsv": "81d0c7c60e228d045e119d01d9ee6f54a7ea5184",
+  "README": "b8da359779561c6d0078a09719fd026838f002e7",
+  "sub-001/eeg/sub-001_task-5CCPTPSTPRBP_events.json": "c6523a06649947c5b96a6e3438d6a0cb5b4bde37",
+  "sub-001/eeg/sub-001_task-5CCPTPSTPRBP_events.tsv": "8113b6fee974a52b51723dff9d7a9c74e4cddd10"
+}

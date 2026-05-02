@@ -1,0 +1,8 @@
+{
+  "README": "90a40188f1a0f856aecf333ec63486d30d7a8931",
+  "dataset_description.json": "db77852bdab41ec3949c47cada0b7089ea6910e6",
+  "task-movie_bold.json": "980d8701ba00a96633332469552324cdfb965653",
+  "participants.tsv": "d0e3cf5b837aa19cc0ea1230ab0e119e2e60dae9",
+  "sub-s01/func/sub-s01_task-movie_run-01_events.tsv": "b03b3d0345bcfac7eac834f2a4258ba9ab609e28",
+  "sub-s01/func/sub-s01_task-movie_run-02_events.tsv": "7c1589aea98e4c069357683aa7a7e1ec47b65b6b"
+}

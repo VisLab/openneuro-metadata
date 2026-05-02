@@ -1,0 +1,7 @@
+1.0.1 2023-02-09
+  - ScanRAS in terms of T1w.nii.gz
+  - Move derivatives to mne-ieeg pipeline
+1.1.0 2022-03-31
+  - Add T2w defaced images
+1.0.0 2022-03-30
+  - Initial release

@@ -1,0 +1,10 @@
+{
+  "CHANGES": "336901c8a15ca23174fbc88f6255b80059832fb1",
+  "task-rest_bold.json": "a65636cb2aa474128216b2e3dbbf602222e51f9d",
+  "participants.tsv": "95565c0e09b948ee3e4583a04e7f665d914f9f52",
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "README": "797b90c4d430420bc3c179a81d44e474690fb838",
+  "dataset_description.json": "5f1ae99e58d26412ef28825cd412a7cec711cd9d",
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "sub-01/func/sub-01_task-rest_run-001_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5"
+}

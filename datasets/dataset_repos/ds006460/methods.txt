@@ -1,0 +1,120 @@
+2. MATERIALS AND METHODS
+2.1. Participants
+Twenty-three healthy adult subjects were recruited from the Boston, MA area for this study via methods approved by the Boston University Charles River Campus Institutional Review Board (IRB Protocol 4502). Subjects gave written consent prior to the start of data collection. Subjects were not eligible for the study if they were outside the range of 18-89 years of age, had history of neurological trauma or neurological or psychiatric disorders, were currently taking psychoactive medications, were wearing a pacemaker or implantable cardioverter defibrillator, were wearing a deep brain stimulator, were wearing cochlear implants, had an uncorrected visual problem, or had a history of hearing problems. After subject exclusions due to technical errors (i.e. loss of signal transmission between devices during data collection) and poor data quality assessed during processing, 17 subjects remained whose data was used in analysis. Their demographics are as follows: mean age = 25.8 ± 4.3 years; 8 females, 9 males; 14 right-handed, 2 left-handed, 1 not reported; 10 White, 8 Asian, 1 Not Reported.
+
+2.2. fNIRS Measurements
+2.2.1. Optode Arrays
+We designed two optode layouts using the open-source AtlasViewer platform58. They are openly accessible at openfnirs.org. We refer to our “Sparse” array as one which represents a traditional arrangement, depicted in the top row of Figure 1. Its channels are in a grid pattern with lengths of 30mm. The centered and bottom-most optode is anchored to FPz and the optodes at the left and right bottom corners are anchored to T7 and T8, respectively. This layout includes 17 sources and 16 detectors for 52 channels, with an additional 8 detectors at 8mm separation (for a total of 24 detectors and 60 channels). Our multi-distance, high-density probe layout, referred to as the “HD” array, is shown in the bottom row of Figure 1. The HD array was designed such that its field-of-view is as close as possible to that of the Sparse array, given pattern allowance. The centered optode on the bottom row is similarly anchored to FPz; the left and right corner optodes are just outside of the T7 and T8 landmarks with spring lengths of 2mm to the landmarks. Following the hexagonal pattern recommended by von Lühmann et al., first nearest-neighbor (NN) channels are 8mm, second NN are 19mm, and third NN are 33mm. There are 25 sources and 58 detectors which produce 112 19mm channels and 94 33m channels, along with the additional 8 detectors at 8mm length short separation channels (for a total of 66 detectors and 214 channels). The files for each of these arrays are available to download at openfnirs.org/hardware/ninjaCap/.
+
+Figure 1:
+Figure 1:
+
+Open in a new tab
+For each of the Sparse and High-Density (HD) probe design columns display physical appearance, sensitivity matrices via Monte-Carlo photon path modeling with probe overlay (red dots: sources, blue dots: detectors, pink lines: emphasize ‘grid’ layout of sparse array’s 30mm channels, black/white lines: emphasize ‘hexagonal’ layout of HD array’s 19mm/33mm channels), and Brodmann areas underlying each channel. Sensitivity profile is on a log 10 scale; vertices with values > 0.01 are not masked and not considered part of the relevant sensitivity profile.
+
+To identify Brodman regions underlying each channel, we employed AtlasViewer’s “project channels to surface” function to calculate MNI coordinates for each channel of our Sparse and HD array. We then utilized the BioImage Suite Platform (www.bioimagesuite.org) which maps the Colin27 brain surface (as used in AtlasViewer and therefore in creating our digital probe design) to the Talairach atlas surface and identifies Brodman regions from the calculated MNI coordinates59. In our case, not every channel was assigned a region from these steps because the coordinate was not fully projected to the cortex. To complete the anatomical labeling of our probes as shown in the right-hand column of Figure 1, we developed four steps. The first is spatial interpolation per array, meaning that if an unlabeled channel is surrounded by channels with uniform labeling, that label was applied. Next, we compare an overlay of Sparse and HD channel labels; if one array’s unlabeled channel overlaps or is surrounded by labeled channels from the other array it was assigned correspondingly. Thirdly, within each array we assigned still unlabeled channels with that of the matching channel in the other hemisphere. We acknowledge no individual brain, and thus the Colin27 template itself, is perfectly symmetric across hemispheres but at the group level symmetry can be assumed for the sake of region identification. Finally, for remaining unlabeled channels, we projected them to the cortex by applying incremental coordinate adjustments in the BioImage platform.
+
+2.2.2. Hardware
+For both the Sparse and HD layouts we used NIRSport2 optodes and systems (four cascaded NIRSport2 16×16 devices for HD and three for Sparse) and Aurora data acquisition software (NIRx, Berlin, Germany). We used the dual-tip sources, which emit light at 760nm and 850nm, and silicone photodiode detectors. The sampling frequencies were 24.4Hz for Sparse and 17.5Hz for HD. We manually optimized the spatial multiplexing of the HD array from its default settings in order to achieve its sampling frequency. We used fully customizable, conformable NinjaCap60, 3D printed in three sizes (54cm, 56cm, 58cm circumference) with NinjaFlex (Fenner Precision Polymers, Lititz, Pennsylvania, United States), a flexible thermoplastic polyurethane (TPU) filament. Each cap included a reference marker for the Cz landmark. The open webbing design of the cap improves accessibility to maneuver hair to improve scalp coupling across diverse demographics. This cap structure also allows more escape of heat, thus increasing subject comfort.
+
+2.3. Experimental procedures and paradigm
+2.3.1. Experimental Procedure
+For a given session, a subject first wore one array while performing the task, then after an approximately 30-minute break while optodes were moved to the other cap, the subject repeated the task while wearing the other array. We randomized the order in which the arrays are worn to ensure roughly half the data was from subjects who first wore the Sparse array and half from subjects who first wore the HD array.
+
+To place the head caps, we first measured circumference, distance from inion (Iz) to nasion (Nz), and distance from ear-to-ear or LPA (T9) to RPA (T10). The cap for the selected measurement was placed to align both the Cz landmark and FPz optode on the cap to the subject’s head. Cz was measured as the intersection of the midpoint of a line connecting the Iz and Nz landmarks with the midpoint of a line connecting the LPA and RPA landmarks. FPz was measured from Iz as 10% of the total distance from Iz to Nz. Due to the nature of skull shape and size variety, cap placement according to one of these landmarks did not always converge to placement according to the other landmark. In cases where this was observed, alignment to FPz was prioritized because the array is focused on the frontal region. To reduce likelihood of hair falling between the optodes and scalp especially on the forehead and temple we first requested subjects look upward and set the frontal portion of the cap on first, then instructed them to look straight ahead and gently unfolded the cap over the rest of the head from front-to-back with one hand while lightly holding the front of the cap in place with the other. Scalp coupling optimization generally required more time and care for the HD array due to the increased number of optodes, which not only required more optodes be attended to, but additionally prevented easy displacing of hair from under one optode without accidentally pushing it under the next. Generally, moving hair was performed with a cotton-tipped applicator. To achieve best signal quality, with the permission of the subject we sometimes applied clear ultrasound gel via the applicator. The optode was removed from the grommet, gel applied to the region as hair was pushed to the sides, and optode replaced; the gel aided to maintain hair position so that it did not move back under the optode. While sometimes good scalp-coupling – as defined by the Aurora ‘green’ thresholds of covariance < 2.5% and raw signal detection > 3mV – was achieved near immediately for most or all channels especially with bald or short hair, we would spend a maximum of approximately 20 minutes to optimize the scalp-coupling before moving on. Room lighting was provided by halogen floor lamps rather than overhead fluorescent bulbs in order to avoid interference from ambient pulsed light. To prevent effects on frontal detectors from ambient signal emitted by the paradigm-presentation laptop, we placed a black shower cap on the subjects’ head over the optodes.
+
+Duration of sessions from the time of consent to completion was approximately 2-2.5 hours.
+
+2.3.2. Paradigm
+Our modified WCS task (Figure 2) was based on previous work by Jahani et al.51. We compiled and presented it via PsychoPy61 with the full paradigm available on GitHub (https://github.com/andersonjessie/WordColorStroop). Our WCS had two conditions: an easier congruent task, and more difficult incongruent task. A trial of the congruent condition would display two words on a black background. Prior to a run, instructions for the congruent condition were provided on the screen and read aloud to the subject as follows: “For the following, two words will appear. Press either the Left Arrow or Right Arrow to indicate which word matches its font color. Press space to proceed to the practice.” The subject practiced twice with feedback, with additional practice if needed for clearer understanding. The design of the congruent task ensured that per trial, one word was congruent to its font color and the other was incongruent to its font color. A trial of the incongruent condition would display four words on a black background. Instructions for incongruent were provided on the screen and read aloud to the subject as follows: “For the following, a word will appear in the middle and a set of three words will appear above it. Press the Left Arrow, Up Arrow, or Right Arrow to indicate which word of the top row (left, middle, and right, respectively) describes the font color of the word below. Press space to proceed to the practice.” Again, the subject practiced twice with feedback, with additional practice if needed for clearer understanding. Instructions and practices were repeated when the subject performed another run for the second array. The design of the incongruent task ensured all four words (the prompt word and three option words) were always incongruent to their own font color. In both conditions, the location of the correct response was randomized.
+
+Figure 2:
+Figure 2:
+
+Open in a new tab
+Word-Color Stroop paradigm adapted from Jahani, et al. After instruction and initial rest, 18 blocks of 6x3-s trials each were presented with a jittered inter-block interval (10-15 s). A given block consisted of either all congruent (Easy) trials, or all incongruent (Difficult) trials. The lower-right legend demonstrates accurate user keyboard press for each condition. Order of blocks was randomized for a total of 9 blocks of each condition. Total run time approximates 11min.
+
+After completing instruction and practice, a run began with a 20 s rest then 18x18 s blocks with interstimulus rest jittered between 10-15 s. There were 9 blocks of each condition with total block order randomized. Each block had 6 trials with duration 3 s per trial, and a given block was either all congruent or all incongruent trials with no feedback on accuracy provided to the subject. Total run time was approximately 11 minutes.
+
+2.4. Data Pre-Processing
+We performed the following pre-processing steps in the open-source Homer3 platform62. First, channels with raw signal levels less than 0.001 intensity units (for NIRSport2 data, V) or with a signal-to-noise ratio value less than 5 were pruned from further analysis (hmrPruneChannels). Intensity was converted to optical density (OD) (hmrR_Intensity2OD). We used the SplineSG motion correction function which applies both spline-interpolation and Savitzky–Golay filtering to correct for baseline shifts and spikes, respectively (hmrR_MotionCorrectSplineSG)63, setting recommended parameter p value for smoothing to 0.99 and using a 10 second frame size. A low-pass filter (hmrR_BandassFilt: Bandpass_Filter_OpticalDensity) of 0.5 Hz was used to remove high-frequency noise such as cardiac signal before OD was converted to oxygenated-, deoxygenated-hemoglobin concentrations (HbO, HbR, HbT, respectively) via the Beer-Lambert Law (hmrR_OD2Conc)64. Upon visual inspection of raw signal, OD, and concentration timeseries data, it was apparent that some of the slow motion artifacts in the temporal regions could not be fully corrected via available detection or correction functions, so we performed manual rejection of blocks which contained such artifacts. We then applied a general linear model (hmrR_GLM) to estimate the hemodynamic response function (HRF) from two seconds prior to block onset to 23s after block onset. This captures 5s after stimulus offset, at 18s, in order to cover the recovery period. In the GLM we used ordinary least squares and applied a consecutive sequence of gaussian functions of 1 s width and step. For each long channel we use the short-separation (8mm) channel with greatest correlation to regress superficial tissue signal. The GLM included a polynomial drift correction of order 3.
+
+If a subject had fewer than half the maximum blocks remaining in analysis due to manual block rejection (i.e. if they had four or fewer blocks for either condition) they were excluded from further analysis, which was the case for four subjects.
+
+2.5. Image Reconstruction
+To generate our sensitivity matrices per array, we performed forward modeling of photon migration via AtlasViewer’s “runMCXlab” function. This uses the MCXLAB package65 to perform a Monte Carlo simulation in which the random walk of photons between each source and detector is mapped to generate the sensitivity profiles66–68 66–68. This represents the spatial sensitivity of each measurement channel to changes in cortical absorption. We chose to use the default parameters for photons launched (1e7) per optode and used wavelength-appropriate tissue properties for scalp, CSF, gray matter, and white matter tissues27. Each row of the sensitivity matrix represents the sensitivity profile of an individual channel. By summing over all channels, one can visualize the total sensitivity of the probe design as shown in the middle column of Figure 1.
+
+For a point activation on a cortical surface element, localization error (shown in Supplementary material Figure S1) can be summarized as the Euclidian distance between the true center of activation and center of mass of the reconstructed image. The position of center of mass rCM is calculated as:
+
+𝑟𝐶⁢𝑀=∑𝑖𝐼𝑖⁢𝑟𝑖/∑𝑖𝐼𝑖
+(1)
+Where the ith surface element had intensity Ii at position ri.
+
+Resolution profiles RCM, also available in Supplementary material Figure S1, were calculated at each surface element by:
+
+𝑅𝐶⁢𝑀=∑𝑖𝐼𝑖⁢|𝑟𝑖−𝑟𝐶⁢𝑀|/∑𝑖𝐼𝑖
+(2)
+Image reconstruction was performed to project optical density in channel space to concentration on the cortical and scalp surfaces. To do this, the estimated HRF output for HbO and HbR from the GLM were first converted back to optical density. Channel space optical density measurements can be expressed as the product of the sensitivity matrix and the concentration changes on the cortical surface using the forward model:
+
+𝑦=𝐴⁢𝑥
+(3)
+Where y is the channel space measurements in optical density, A is the sensitivity matrix and x is the changes in HbO and HbR on the cortical surface. To obtain these cortical measurements of HbO and HbR, we could solve the corresponding inverse problem:
+
+𝑥=𝐴−1⁢𝑦
+(4)
+Reconstructing images on both the brain and scalp simultaneously has been shown to improve image resolution and localization27,42. Since the scalp is significantly more sensitive than the brain, spatially variant regularization is used to tune the reconstruction to the appropriate depth42. This is done by rescaling A as 
+̂
+𝐴
+ using the diagonal matrix L defined as:
+
+𝑑⁢𝑖⁢𝑎⁢𝑔⁡(𝐿)=√𝑑⁢𝑖⁢𝑎⁢𝑔⁡(𝐴⁢𝐴𝑇)+𝜆𝑠⁢𝑝⁢𝑎⁢𝑡⁢𝑖⁢𝑎⁢𝑙
+𝜆𝑠⁢𝑝⁢𝑎⁢𝑡⁢𝑖⁢𝑎⁢𝑙=𝛼𝑠⁢𝑝⁢𝑎⁢𝑡⁢𝑖⁢𝑎⁢𝑙⁢max⁡(𝑑⁢𝑖⁢𝑎⁢𝑔⁡(𝐴⁢𝐴𝑇))
+ 
+Then,
+
+̂
+𝐴
+=𝐴⁢𝐿−1
+The parameter αspatial is used to control the reconstruction depth and is set to 0.001.
+
+This inverse problem is ill-posed and underdetermined, however, so Tikhonov regularization was used to improve the estimation of x. The regularization parameter αmeas was used to scale the measurement covariance such that, when combined with the spatially variant regularization, the inverse problem became:
+
+𝑥=𝐿−1⁢
+̂
+𝐴
+𝑇⁢(
+̂
+𝐴
+⁢
+̂
+𝐴
+𝑇+𝜆⁢𝐼)−1⁢𝑦
+(5)
+𝜆=𝛼𝑚⁢𝑒⁢𝑎⁢𝑠⁡(𝑑⁢𝑖⁢𝑎⁢𝑔⁡(
+̂
+𝐴
+⁢
+̂
+𝐴
+𝑇))
+(6)
+The parameter αmeas was used to smooth the image and was set to 0.001. We refer to this method as “brain and scalp” image reconstruction throughout.
+
+To visualize a subject’s given set of vertices’ time course, we extracted the Homer GLM output HRF concentration data, generated the brain and scalp image for each second of HRF results, and plotted the mean of the vertices’ reconstructed image concentration over time.
+
+2.6. Statistical Analysis
+2.6.1. Region of Interest
+We selected the dorsolateral PFC (dlPFC) as our region of interest (ROI) as that is where we expect greatest activation to Stroop task based on previous studies54. We included channels with this labeling in Figure 1 and with similar field of view, excluding the ones assigned as dlPFC (dorsal) which fall in the medial area. In selecting ROI channels, we preserved symmetry of channels selected within and between each array, as well as account for inter-subject brain variability, which led to including several channels not initially marked as in the dlPFC. (Sparse ROI channels included: 8 dlPFC, 3 Anterior PFC, 1 Broca. HD ROI channels included: 42 dlPFC, 4 Anterior PFC, 2 Broca, 1 Frontal Eye Fields). The channels from each array selected per ROI appear in the left column of Figure 3. Per ROI, there are 6x30mm channels from the Sparse array, 11x19mm channels from the HD array, and 14x33mm channels from the HD array. In selecting image space ROIs, because both the Sparse and HD array have the same total vertices and placement we selected exactly matching ROI vertices. We first identified the vertices whose sensitivity to the HD ROI channels were above the same 0.01 threshold used in visualizing the sensitivity matrices. We then kept the vertices with sensitivity above the average per from each ROI.
+
+Figure 3:
+Figure 3:
+
+Open in a new tab
+Channels and vertices selected in the region of interest for the Sparse and HD array. On the left panel, black dots mark the center of each channel included in the ROIs. On the right panel, black lines indicate the channels included in the ROIs and the white (unshaded) region of the brain indicates the vertices included. Vertices for both arrays are chosen based on those sensitive to the HD ROI channels.
+
+2.6.2. Array Comparison Statistics
+We analyzed the GLM-processed concentration timeseries data for HbO and HbR, and for both congruent and incongruent conditions. For each block at a given channel of an individual subject, we calculated a delta concentration by subtracting the mean of the concentration time course from −2 to 0 seconds prior to block onset from the mean of the concentration time course between 7 to 18 seconds after the block onset. The mean delta concentration across blocks was divided by the standard error across blocks to produce a t-statistic particular to that concentration, WCS condition, channel, fNIRS array, and subject. For visualization purposes, group-level concentration means and standard error from across subjects’ own block-averages was used in calculating group-level t-statistics per channel.
+
+To compare Sparse and HD HbO results, we selected from each subject the channel per left and right ROI which had the highest t-statistic. For HbR results, we selected based on lowest t-statistic with the evidenced expectation that HbR decreases when HbO increases for typical brain activation69. We performed a paired Student’s t-test to statistically compare array performance.
+
+To analyze in image space, we first reconstructed the image of each block based on the peak minus baseline values per channel previously calculated. We then used similar methodology to analyze the image data as used to analyze channel data, applying it to the mean of the 25 image vertices with highest t-statistics.

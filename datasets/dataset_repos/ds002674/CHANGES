@@ -1,0 +1,16 @@
+1.0.5 2021-04-01
+  - data for ses-19 has been re-uploaded; scans were identical to ses-18
+1.0.4 2021-03-29
+  - New data uploaded (resting-state, behavioral assessments)
+1.0.3 2020-07-09
+  - 30 new sessions of anatomical scans, updated participant log, dataset description, and README
+1.0.2 2020-04-17
+  - fixed 'task-rest' files for ses-01, ses-29, and ses-30 
+1.0.1 2020-04-03
+  - updated README
+1.0.0 2020-04-03
+  - Updated README
+
+1.0.0	2020-04-01
+
+	- Initial snapshot

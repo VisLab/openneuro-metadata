@@ -1,0 +1,13 @@
+{
+  "CHANGES": "aed469fa135129799500221c8054acd77a618446",
+  "participants.tsv": "aa04b53a77a1d2fb5b4f88189c16a4cc3017a7a2",
+  "README": "546df0f6837c5678e27bd9b1f5cb6e41a2dea22d",
+  "dataset_description.json": "89920360319033326f6c77d9ccee8891997f8c2f",
+  "task-vissearch_bold.json": "690a474faaf6cd9ef75207a71d3809b63ea69ae0",
+  "sub-02/func/sub-02_task-vissearch_run-01_events.tsv": "6c2a1af8777b0d619e8ea37dbaaad62755ce0e21",
+  "sub-02/func/sub-02_task-vissearch_run-03_events.tsv": "af164eccb4db4524547d05755c53894d943722ba",
+  "sub-02/func/sub-02_task-vissearch_run-02_events.tsv": "be3490033d3118ce575aadec8c3a61bd2492c050",
+  "sub-02/func/sub-02_task-vissearch_run-06_events.tsv": "6f5bc8d524bb61b27508c59728401222643ef192",
+  "sub-02/func/sub-02_task-vissearch_run-05_events.tsv": "8e9f5d489a9611c62b56de1ad92d427cb5687768",
+  "sub-02/func/sub-02_task-vissearch_run-04_events.tsv": "5d70ec1b5c9720bc70cf6b9c8aa1de63a8ee6bd7"
+}

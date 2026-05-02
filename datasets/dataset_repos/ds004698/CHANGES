@@ -1,0 +1,17 @@
+3.0.0 2025-04-04
+  - Updated metadata to reflect update to BIDS
+  - Updated pRF estimates to fix incomplete uploads for Version 2.x.x
+2.0.1 2025-01-04
+  - Updated references with paper.
+2.0.0 2024-10-23
+  - Updated participant `prfs` to include new ROIs
+  - Updated participant `rois` to include more ROIs
+  - Updated `(angle|eccen)_lut.json` for visualizations
+  - Edited `README.md` to reflect changes
+1.0.0 2023-08-16
+  - Initial dataset upload
+
+1.0.1 2024-04-08
+  - Edited `create_distorted_images.ipynb` for typos
+  - Added `logarithmic_distortion_demo.[m,ipynb]`
+  - Edited `README.md` to reflect changes

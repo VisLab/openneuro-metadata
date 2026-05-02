@@ -1,0 +1,6 @@
+{
+    "condition": {
+        "LongName": "Task condition",
+        "Description": "Condition of the block design."
+    }
+}

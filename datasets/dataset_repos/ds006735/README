@@ -1,0 +1,40 @@
+# Details related to access to the data
+Please contact the following authors for further information:
+
+Tong Shan (email: tongshan@stanford.edu)
+
+Ross K. Maddox (email: rkmaddox@med.umich.edu)
+
+# Overview
+This study examines pitch-time interactions in music processing by introducing “chimeric music,” which pairs two distinct melodies, and exchanges their pitch contours and note onset-times to create two new melodies, thereby distorting musical pattern while maintaining the marginal statistics of the original pieces’ pitch and temporal sequences. 
+
+Data collected from Sep to Nov, 2023.
+
+The details of the experiment can be found at Shan et al. (2024). There were two phases in this experiment. For the first phase, ten trials of one-minute clicks were presented to the subjects. For the second phase, the 2 types of monophonic music (original and chimeric) clips were presented. There were 33 trials for each type with shuffled order. Between trials, there was a 0.5 s pause.
+
+The code for analysis for this study can be found in GitHub repo (https://github.com/maddoxlab/Chimeric_music).
+
+
+# Format
+This dataset is formatted according to the EEG Brain Imaging Data Structure. It includes EEG recording from subject 001 to subject 027 in raw brainvision format (including .eeg, .vhdr, and .vmrk triplet).
+
+
+# Subjects
+27 subjects participated in this study. 
+
+## Subject inclusion criteria
+
+Age between 18-40.
+
+Normal hearing: audiometric thresholds of 20 dB HL or better from 500 to 8000 Hz.
+Speak English as their primary language.
+
+Self-reported normal or correctable to normal vision.
+
+Twenty-seven participants participated in this experiment with an age of 22.9 ± 3.9 (mean ± STD) years. 
+
+# Apparatus
+Subjects were seated in a sound-isolating booth on a chair in front of a 24-inch BenQ monitor with a viewing distance of approximately 60 cm. Stimuli were presented at an average level of 60 dB SPL and a sampling rate of 48000 Hz through ER-2 insert earphones plugged into an RME Babyface Pro digital sound card. The stimulus presentation for the experiment was controlled by a python script using a custom package, expyfun.
+
+Following the experimental session, participants completed a self-reported musicianship questionnaire (adapted from Whiteford et al, 2025). The questionnaire is included in this repository. 
+

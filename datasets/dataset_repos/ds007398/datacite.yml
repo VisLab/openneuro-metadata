@@ -1,0 +1,48 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: M florencia Assaneo
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0002-2793-7827
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 1
+      - name: M florencia Assaneo
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0000-0002-2793-7827
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 2
+      - name: Moramay Ramos-Flores
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_2
+          - nameIdentifier: https://orcid.org/0000-0002-4497-3811
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: ProjectLeader
+        order: 3
+    creators:
+      - name: M florencia Assaneo
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: M florencia Assaneo
+        nameType: Personal
+        nameIdentifiers: *ref_1
+      - name: Moramay Ramos-Flores
+        nameType: Personal
+        nameIdentifiers: *ref_2
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

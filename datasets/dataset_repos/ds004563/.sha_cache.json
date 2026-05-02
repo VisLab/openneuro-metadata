@@ -1,0 +1,11 @@
+{
+  "participants.tsv": "9d2ad5f9870493f63b05ab95c80a8ea2d4895998",
+  "README": "829027d5dda99a610afbd00503c8b63d4b9a4137",
+  "dataset_description.json": "e2d350ba7382d23b2bbac221d6a56d106038bda6",
+  "participants.json": "49de9498e3688e4ab3f5c6cc9a04bcb1fa12dfc9",
+  "CHANGES": "647a9608acaf854994fa428d694621b90b71f9f5",
+  "task-touchdecoding_events.json": "421c211ee3db837466a6f5860058ea74d7f57d7f",
+  "sub-01/ses-01/eeg/sub-01_ses-01_task-touchdecoding_events.tsv": "b67c976901c467e1153190d4ff118a009c2ea292",
+  "sub-01/ses-02/eeg/sub-01_ses-02_task-touchdecoding_events.tsv": "447bb72d2654a30eba764cadfc05c20612c44ab6",
+  "sub-01/ses-03/eeg/sub-01_ses-03_task-touchdecoding_events.tsv": "5af0e77e7fd3edaa3b722499cdab74040f3dcf0c"
+}

@@ -1,0 +1,43 @@
+{
+    "Name": "TRAMFIX: TRavelling Across Melbourne for FIXel-based analysis",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Remika Mito",
+        "Sila Genc",
+        "Jocelyn Halim",
+        "Joseph Yuan-Mou Yang",
+        "Jacques-Donald Tournier",
+        "Michael Kean",
+        "Chris Kokkinos",
+        "Richard McIntyre",
+        "Maria Di Biase",
+        "Robert E. Smith",
+        "Andrew Zalesky"
+    ],
+    "Acknowledgements": "We are grateful to all participants for volunteering their time for this study.",
+    "HowToAcknowledge": "This data was obtained from the OpenNeuro database. Please cite the TRAMFIX paper if you use this dataset: https://doi.org/10.1101/2025.07.21.666058",
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1101/2025.07.21.666058 "
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "MRtrix3",
+            "Version": "3.0.4",
+            "CodeURL": "https://github.com/MRtrix3/mrtrix3"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "https://openneuro.org/datasets/ds006935",
+            "DOI": "https://doi.org/10.1101/2025.07.21.666058"
+        }
+    ],
+    "Funding": [
+        "Funder: Australian Research Council (ARC)",
+        "Award ID: DE240101035",
+        "Principal Award Recipient: Remika Mito"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006935.v1.1.0"
+}

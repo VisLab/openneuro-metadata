@@ -1,0 +1,17 @@
+{
+  "CHANGES": "ed9594898aeac80d19e7f5476425cd341b9c60b0",
+  "task-hyper_bold.json": "3b956689b864f0277314776a22f1f7da0e036f3d",
+  "dataset_description.json": "2b0272cb45a99a33cce4574bbc701acc89848c08",
+  "participants.tsv": "2da99bb1f050a615c9860486dfdc5e5d03f9bfcc",
+  "README": "ad0f8cb7790d4664c9e6119d01945aff9f8ae8c7",
+  "participants.json": "3b26db274be1c2847088036b9b84f9e1c7c35d04",
+  "sub-01/func/sub-01_task-hyper_run-06_events.tsv": "dda0d3a6ba161fdd1df3f93d10bc203b13be62a7",
+  "sub-01/func/sub-01_task-hyper_run-03_events.tsv": "bac83c4ba026eff2cc271349bb52502b1e38cdf7",
+  "sub-01/func/sub-01_task-hyper_run-07_events.tsv": "5907b79f34cd7ded160c81c837ffdbafe3f6c136",
+  "sub-01/func/sub-01_task-hyper_run-04_events.tsv": "00ca9a3e140c418c15e1397e1a63bf57d9400a13",
+  "sub-01/func/sub-01_task-hyper_run-08_events.tsv": "194aead12ec0027998f1b983176d5ae3b3f5fcd1",
+  "sub-01/func/sub-01_task-hyper_run-09_events.tsv": "34b6fac5cfc59ca94f5090acf59e53a3439a0b14",
+  "sub-01/func/sub-01_task-hyper_run-02_events.tsv": "efaed70d59868e666994c0e6a9f8783308f8f64b",
+  "sub-01/func/sub-01_task-hyper_run-01_events.tsv": "fc9610966755b8e08194c3660bbd4a1e1ba028c3",
+  "sub-01/func/sub-01_task-hyper_run-05_events.tsv": "3bb3ff0b47c43d5b180c696beecf50d0a1bcb775"
+}

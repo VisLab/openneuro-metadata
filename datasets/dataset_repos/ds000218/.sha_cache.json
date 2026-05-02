@@ -1,0 +1,10 @@
+{
+  "CHANGES": "b24793df8c01c78d76d1e15ffd1058f723884a0c",
+  "participants.tsv": "41408c7081d8cd005b89014bbfc5beca14c0bd42",
+  "task-ONSflavourtask_bold.json": "843921f2e5e92aee2c18a357c47dd71f3cab47a8",
+  "dataset_description.json": "885660801b75e03dff9b0735d58ce7f23b7cb03b",
+  "README": "e3905a253aeff9e036d949d1a89c65992add7191",
+  "sub-01/func/sub-01_task-ONSflavourtask_run-02_events.tsv": "59d3d994c82cb3642fa64e89cfcad3920b6e29fa",
+  "sub-01/func/sub-01_task-ONSflavourtask_run-03_events.tsv": "56aa189c94a3c29ec9b4437d548529f45964c9ea",
+  "sub-01/func/sub-01_task-ONSflavourtask_run-01_events.tsv": "c0ce9962a40a37e97f703193a0014832f74495ec"
+}

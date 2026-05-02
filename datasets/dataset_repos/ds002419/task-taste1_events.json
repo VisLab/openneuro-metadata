@@ -1,0 +1,24 @@
+{
+   "onset":{
+      "LongName":"stimilus onset",
+      "Description":"onset of a taste stimulus",
+      "Units":"seconds"
+   },
+   "duration":{
+      "LongName":"stimilus duration",
+      "Description":"duration of a taste stimulus (block)",
+      "Units":"seconds"
+   },
+   "condition":{
+      "LongName":"taste condition",
+      "Description":"condition indicating the taste quality",
+      "Levels":{
+         "tasteless":"tasteless solution",
+         "Sucrose":"sweet taste stimulus containing sucrose",
+         "NaCl":"salty taste stimulus containing sodium cloride",
+         "citric_acid":"sour taste stimulus containing citric acid",
+         "MPG":"umami taste stimulus containing monopotassium glutamate",
+         "rinse":"stimulus for mouth rinsing between conditions"
+      }
+   }
+}

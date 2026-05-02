@@ -1,0 +1,15 @@
+The dataset is composed by 7 subjects, scanned at the Centre for Cognitive Neuroimaging (CCNi) at the Institute of Neuroscience and Psychology, University of Glasgow.
+These data serve as testing dataset for the paper:
+
+	Bontempi, D., Benini, S., Signoroni, A., Svanera, M., & Muckli, L. (2019). 
+	CEREBRuM: a Convolutional Encoder-decodeR for Fully Volumetric Fast sEgmentation of BRain MRI. 
+	arXiv preprint arXiv:1909.05085.
+
+For every subject, two folders are provided, containing:
+
+anat/
+* the anatomical (defaced)
+
+derivatives/
+* two segmentations A and B (segmentations/), with FreeSurfer and Cerebrum segmentations respectively
+* with the slices used for the behavioural (slices/)

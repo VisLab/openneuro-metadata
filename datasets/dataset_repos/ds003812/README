@@ -1,0 +1,128 @@
+# README
+
+This `spatial_frequency_preferences` dataset contains the data from the paper
+"Mapping Spatial Frequency Preferences Across Human Primary Visual Cortex", by
+William F. Broderick, Eero P. Simoncelli, and Jonathan Winawer. **ADD** **LINK**
+
+In this experiment, we measured the BOLD responses of 12 human observers to a
+set of novel grating stimuli in order to measure the spatial frequency tuning in
+primary visual cortex across eccentricities, retinotopic angles, and stimulus
+orientations. We then fit a parametric model which fits all voxels for a given
+subject simultaneously, predicting each voxel's response as a function of the
+voxel's retinotopic location and the stimulus local spatial frequency and
+orientation.
+
+This dataset contains the minimally pre-processed, BIDS-compliant data required
+to reproduce the analyses presented in the paper. In addition to the task
+imaging data and stimuli files, it contains three `derivatives` directories:
+- `freesurfer`: freesurfer subject directories for each subject, with one
+  change: the contents of `mri/` directories have been defaced.
+- `prf_solutions`: solutions to the population receptive field models from a
+  separate retinotopy experiment for each subject, fit using
+  [VistaSoft](https://github.com/vistalab/vistasoft). Also contains the Benson
+  retinotopic atlases for each subject (Benson et al., 2014) and the solutions
+  for Bayesian retinotopic analyses (Benson and Winawer, 2018) -- the solutions
+  to the Bayesian retinotopy are what we actually use in the paper.
+- `preprocessed`: the preprocessed data (a custom script was used for
+  preprocessing, found on the [Winawer Lab
+  Github](https://github.com/WinawerLab/MRI_tools/), see [Winawer Lab
+  wiki](https://wikis.nyu.edu/pages/viewpage.action?pageId=86054639) for more
+  details). See paper for description of steps taken. Results should not change
+  substantially if fMRIPrep were to be used for preprocessing instead, as long
+  as data is kept in individual subject space.
+
+This dataset is presented with the intention of enabling re-running our analyses
+to reproduce our results with our accompanying [Github
+repo](https://github.com/billbrod/spatial-frequency-preferences). This dataset
+should contain sufficient information for re-analysis with a novel method, but
+there are no guarantees.
+
+## Details related to access to the data
+
+If you use this dataset in a publication, please cite the corresponding paper.
+
+- Contact person: William F. Broderick, ORCID 0000-0002-8999-9003, wfb229@nyu.edu
+
+This dataset is hosted on OpenNeuro, and can be downloaded from there.
+Additionally, we present two additional variants of this data, both hosted on
+this project's [OSF page](https://osf.io/afs85/):
+- Fully-processed data: contains the final output of our analyses, the data
+  required to reproduce the figures as they appear in the paper. 
+- Partially-processed data: contains the outputs of GLMdenoise and all data
+  required to start fitting the spatial frequency response functions.
+  
+Both data sets build on top of this one and so require the data contained here
+as well.
+  
+All three of these variants may be downloaded using code found in the [Github
+repo](https://github.com/billbrod/spatial-frequency-preferences), see the README
+there for more details.
+
+## Overview
+
+- Spatial frequency preferences
+
+- Year(s) that the project ran: started gathering pilot data in 2017, this
+  dataset was gathered in the springs of 2019 and 2020. Paper written in 2020
+  and 2021, submitted fall 2021.
+
+- Brief overview of the tasks in the experiment: subjects viewed the stimuli,
+  fixating on the center of the images. A sequence of digits, alternating black
+  and white, was presented at fixation; subjects pressed a button whenever a
+  digit repeated. The behavioral data was not presented in the paper and so is
+  not present here. See paper for more details.
+
+- Description of the contents of the dataset:
+  - Summary:
+    - 767 Files
+    - 12 subjects
+    - 1 session each
+  - Available tasks: 
+    - sfprescaled
+  - Available modalities:
+    - MRI
+
+- Quality assessment of the data: the MRIQC reports for each included scan can
+  be found [on this project's OSF page](https://osf.io/zrq6b/)
+
+## Methods
+
+### Subjects
+
+Subjects were recruited from graduate students and postdocs at NYU, all
+experienced MRI participants.
+ 
+### Apparatus
+
+Data was gathered on NYU's Center for Brain Imaging's Siemens Prisma 3T MRI
+scanner in a shielded room. Data was gathered with subjects lying down, with the
+stimuli projected onto a screen above their head.
+
+### Initial setup
+
+When subjects arrived, subjects were briefed on the task, given the experimental
+consent form to read and sign, and talked through the screener form.
+
+### Task organization
+
+This experiment has only a single task.
+
+### Task details
+
+Subjects passively viewed the stimuli while performing the distractor task
+described above: viewing a stream of alternating black and white digits and
+pressing a button whenever a digit repeated. Their button presses were recorded.
+
+### Additional data acquired
+
+No additional data gathered.
+
+### Experimental location
+
+All data gathered at NYU's Center for Brain Imaging in New York, NY.
+
+### Missing data
+
+One subject (sub-wlsubj045) only has 7 of the 12 runs, due to technical issues
+that came up during the run. The quality of their GLMdenoise fits and their
+final model fits do not appear to vary much from that of the other subjects.

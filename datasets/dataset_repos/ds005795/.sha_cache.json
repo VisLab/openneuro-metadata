@@ -1,0 +1,17 @@
+{
+  "README": "a33bccdf6d4db116745124f1c88e9679d994979a",
+  "dataset_description.json": "55be55ffdc5fcc14bf5eb7f9be98355765e18325",
+  "task-rest_bold.json": "a9c1fb273d87b35043ff22108d06e72398698105",
+  "task-learning_events.json": "2815367ff4ab917d2117cbd463ae2d1410f4b52e",
+  "scans.json": "da01e25336cb50402ae6bb8381182a4cab40d790",
+  "CHANGES": "c3f85b31ae8c46ec7671ec6442fadfb28544583f",
+  "participants.json": "8b0c7be11e9864375deb0ae7b90a3644513baae6",
+  "task-learning_bold.json": "94287a3d872bd7bb036170f0ae5cc8d4cc0da3de",
+  "participants.tsv": "2dde269b784d1f4171cb4c60d6cdb8ee497565dd",
+  "physio.json": "0534b19d7e55ae1dc4715bdddae90449dce348a5",
+  "task-rest_events.json": "2815367ff4ab917d2117cbd463ae2d1410f4b52e",
+  "sub-01/func/sub-01_task-rest_events.tsv": "e50767e2c240bbbaab16c055441eb378b1b3df8c",
+  "sub-01/eeg/sub-01_task-rest_events.tsv": "e50767e2c240bbbaab16c055441eb378b1b3df8c",
+  "sub-01/func/sub-01_task-learning_events.tsv": "df35573d1ab85e7c4602e402a04db3ee4c8d4784",
+  "sub-01/eeg/sub-01_task-learning_events.tsv": "df35573d1ab85e7c4602e402a04db3ee4c8d4784"
+}

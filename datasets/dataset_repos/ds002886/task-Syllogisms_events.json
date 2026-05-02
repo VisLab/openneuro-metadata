@@ -1,0 +1,60 @@
+{
+  "onset": {
+    "LongName": "Trial onset time",
+    "Description": "Onset time of the first stimulus",
+    "Units": "s"
+  },
+  "duration": {
+    "LongName": "Trial duration",
+    "Description": "Duration of trial from beginning of first stimulus to end of fixation",
+    "Units": "s"
+  },
+  "trial_type": {
+    "LongName": "Trial Condition",
+    "Description": "Category of trial based on stimuli characteristics",
+    "Levels": {
+      "2_true_affirm": "Argument with valid conclusion using affirmative language necessitating integration of 2 premises",
+      "3_true_affirm": "Argument with valid conclusion using affirmative language necessitating integration of 3 premises",
+      "2_false_affirm": "Argument with invalid conclusion using affirmative language necessitating integration of 2 premises",
+      "3_false_affirm": "Argument with invalid conclusion using affirmative language necessitating integration of 3 premises",
+      "2_true_negate": "Argument with valid conclusion with negation necessitating integration of 2 premises",
+      "3_true_negate": "Argument with valid conclusion with negation necessitating integration of 3 premises",
+	  "2_false_negate": "Argument with invalid conclusion with negation necessitating integration of 2 premises",
+	  "3_false_negate":"Argument with invalid conclusion with negation necessitating integration of 3 premises",
+	  "null":"control, fixation color change"
+    }
+  },
+  "accuracy": {
+    "LongName": "Trial accuarcy",
+    "Description": "Indicates if participant made correct or incorrect response",
+    "levels": {
+      "0": "incorrect",
+      "1": "correct"
+    }
+  },
+  "response_time": {
+    "LongName": "Response Time",
+    "Description": "Subject response time measrured from beginning of presentation of second stimulus",
+    "Units": "s"
+  },
+  "premise1": {
+    "LongName": "First Premise",
+    "Description": "First premise of argument presented visually at beginning of trial"
+  },
+  "premise2": {
+    "LongName": "Second Premise",
+    "Description": "Second premise of argument presented visually under first premise at 2s from beginning of trial"
+  },
+  "premise3": {
+  	"LongName": "Third Premise",
+	"Description":"Third premise of argument presented visually under second premise at 4s from beginning of trial"
+  },
+  "conclusion": {
+  	"LongName": "Conclusion",
+	"Description":"Conclusion of argument presented visually under third premise at 6s from beginning of trial"
+  },
+ "stim_file": {
+ 	"LongName": "Stimulus file name",
+	 "Description": "Location and name of auditory stimulus file presented at beginning of trial"  
+  }
+}

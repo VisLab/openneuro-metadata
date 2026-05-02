@@ -1,0 +1,8 @@
+{
+    "Manufacturer": "GE",
+    "ManufacturersModelName": "MR750",
+    "MagneticFieldStrength": 3,
+    "RepetitionTime": 0.0105,
+    "EchoTime": 0.0018,
+    "FlipAngle": 7
+}

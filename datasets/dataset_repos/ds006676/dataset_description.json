@@ -1,0 +1,28 @@
+{
+    "Name": "The impact of multiband and in-plane acceleration on white matter microstructure and connectivity study",
+    "BIDSVersion": "1.10.0",
+    "HEDVersion": "8.2.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Zhengwu Zhang",
+        "Arun Venkataraman",
+        "Martin Cole",
+        "Deqiang Qiu",
+        "Feng V. Lin",
+        "Benjamin B. Risk"
+    ],
+    "Acknowledgements": "We thank all study participants and the University of Rochester staff for their assistance in recruitment and data collection.",
+    "HowToAcknowledge": "Please cite: Zhang, Z., Venkataraman, A., Cole, M., Ye, T., Qiu, D., Lin, F.V., Risk, B.B. (2025). The impact of multiband and in-plane acceleration on white matter microstructure analysis. Human Brain Mapping.",
+    "Funding": [
+        "NIH R21 AG066970",
+        "CABIN pilot grant at the University of Rochester"
+    ],
+    "EthicsApprovals": [
+        "Approved by the University of Rochester Institutional Review Board"
+    ],
+    "ReferencesAndLinks": [
+        "https://github.com/thebrisklab/DiffusionMultiband"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006676.v1.0.0"
+}

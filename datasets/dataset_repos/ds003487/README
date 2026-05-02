@@ -1,0 +1,26 @@
+This is the data used for the following study:
+
+
+Folders are organized in BIDS format. 
+Within each subject folder (e.g. /sub-01/) there are subfolders with the following:
+
+Ses-first/
+a) beh - Behavioral results from first session outside the scanner conditioning (event.tsv) 
+- Instrumental conditioning
+- Pavlovian Conditioning
+- Hedonic evaluation of stimuli 
+
+ses-second/
+1) anat - structural whole brain T1-weighted (T1w) images (isotropic voxel size = 1.0 mm) defaced 
+
+2) func - contains the raw BOLD timeseries (26 partial oblique axial T2*weighted EPI) with its associated behavioral data (event.tsv) used for the analysis.
+- PIT task, with odors as stimuli and uses a hand dynamometer to measure mobilized effort.
+- HEDONIC task, with odors as stimuli and uses visual analog scales to measure subjective liking and intensity ratings.
+
+3) fmap - Dual gradient B0 field maps (Fmaps) used for preprocessing
+
+Please note that you can find the preprocessed functional MRI data (smoothed and unsmoothed) used for our analysis into the /DERIVATIVES/PREPROC folder.
+
+Also note that not all participants finished all tasks, or scans. 
+
+See paper for a description.

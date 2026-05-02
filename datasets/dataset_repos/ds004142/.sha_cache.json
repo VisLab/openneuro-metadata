@@ -1,0 +1,15 @@
+{
+  "CHANGES": "f18b4ca792430db82794770ff0b6c04777772bae",
+  "task-loc_bold.json": "df310832d0592eacaab9647b0bc4db4add6e20fd",
+  "dataset_description.json": "f2a5fdd75d9a4a807e0b84c6ac9d841701a003ee",
+  "task-nf_bold.json": "e10541ed5531e3b303300185eaef704a047dc487",
+  "participants.tsv": "f45a2396d27253bf134d6ebed473169d2b49fd3f",
+  "README": "abbbee69ecb0d7a221aff418948e2dfdfd733737",
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "sub-01/ses-01/func/sub-01_ses-01_task-nf_run-03_events.tsv": "0c7b40252f7517bf0e917f67b69bdd66983d0bfc",
+  "sub-01/ses-01/func/sub-01_ses-01_task-nf_run-01_events.tsv": "7eef1e7ab8118a098a74ef518ed1809171dff56a",
+  "sub-01/ses-01/func/sub-01_ses-01_task-loc_run-01_events.tsv": "0f5a1f45c347edc63d3ac596cbc560be7bad044e",
+  "sub-01/ses-01/func/sub-01_ses-01_task-nf_run-04_events.tsv": "af88bda72d4c929f31581dea1eb582cd71ce58e3",
+  "sub-01/ses-01/func/sub-01_ses-01_task-nf_run-02_events.tsv": "7794ae3a7df133bb05a05497181423c453b066f1"
+}

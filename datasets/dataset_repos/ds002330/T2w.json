@@ -1,0 +1,37 @@
+{
+
+	"InstitutionName": "Queen's University",
+	"InstitutionAddress": "Botterell Hall 234, Kingston, Ontario, CA, K7L3N6",
+	"InstitutionalDepartmentName": "Centre for Neuroscience Studies",
+	"Manufacturer": "SIEMENS",
+	"ManufacturersModelName": "TrioTim",
+	"DeviceSerialNumber": "35109",
+	"StationName": "MRC35109",
+	"MagneticFieldStrength": 3,
+	"SoftwareVersions": "syngo MR B19",
+	"ConversionSoftware":"dcm2niix",
+	"BodyPartExamined": "BRAIN",
+	"PatientPosition": "HFS",
+	"Modality": "MR",	
+	"ReceiveCoilActiveElements": "HEA;HEP",
+	"CoilCombinationMethod": "Adaptive Combine",
+	
+	"PulseSequenceType": "T2w SPACE",
+	"ScanningSequence": "SE",
+	"MRAcquisitionType": "3D",
+	"SequenceVariant": "SK\SP\OSP",
+	"ScanOptions": "PFP",
+	"SequenceName": "*spc3d1_378ns",
+	"RepetitionTime": 3.2,
+	"EchoTime": 0.567,
+	"EffectiveEchoSpacing":0.00374,
+	"SliceThickness": 0.7,
+	"SpacingBetweenSlices": 0,
+	"AcquisitionMatrixPE": 320,
+	"PercentPhaseFOV": 100,
+	"PixelBandwidth": 744,
+	"ParallelAcquisitionTechnique": "GRAPPA",
+	"ParallelReductionFactorInPlane": 2,
+	"PhaseEncodingDirection": "j-"
+	
+}

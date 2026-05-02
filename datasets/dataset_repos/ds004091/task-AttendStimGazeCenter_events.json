@@ -1,0 +1,104 @@
+{
+  "run_number": {
+    "LongName": "Number of the run",
+    "Description": "Indicated the number of the run"},
+  "trial_number": {
+    "LongName": "Number of the trial",
+    "Description": "Indicated the number of the trial"},
+  "att_task": {
+    "LongName": "Type of task",
+    "Description": "Indicated the type of task of the run",
+    "Levels": {
+      "1": "task on fixation stimulus",
+      "2": "task on bar stimulus"}},
+  "fix_direction": {
+    "LongName": "Direction of fixation",
+    "Description": "Direction of the gaze",
+    "Levels": {
+      "1": "fixation left",
+      "2": "fixation center",
+      "3": "fixation right",
+      "4": "fixation right with full screen bar"}},
+  "bar_period": {
+    "LongName": "Period of the bar pass in the run",
+    "Description": "Indicated the period the bar pass in the run (1-9)"},
+  "bar_direction": {
+    "LongName": "Direction of the bar",
+    "Description": "Indicated the direction the bar movement",
+    "Levels": {
+      "1": "180 deg - left",
+      "3": "270 deg - down",
+      "5": "000 deg - right",
+      "7": "090 deg - up",
+      "9": "blank"}},
+  "bar_step": {
+    "LongName": "Trial step",
+    "Description": "Step number for horizontal full screen (1-32), vertical full screen (1-18), apperture (1-18) or blank (1-10) periods"},
+  "fix_noise_ori": {
+    "LongName": "Fixation target noise orientation",
+    "Description": "Orientation of the fixation target noise",
+    "Levels": {
+      "1": "clockwise",
+      "2": "counter-clockwise",
+      "3": "none - noise"}},
+  "stim_noise_ori": {
+    "LongName": "Bar noise orientation",
+    "Description": "Orientation of the bar noise",
+    "Levels": {
+      "1": "clockwise",
+      "2": "counter-clockwise",
+      "3": "none - noise"}},
+  "fix_stair_val": {
+    "LongName": "Fixation probe staircase kappa value number",
+    "Description": "Kappa value of the fixation target orientation noise filtering von Misses distribution",
+    "Levels": {
+      "0": "noise",
+      "1": "kappa: 0.1",
+      "2": "kappa: 0.1557",
+      "3": "kappa: 0.2424",
+      "4": "kappa: 0.3775",
+      "5": "kappa: 0.5878",
+      "6": "kappa: 0.9152",
+      "7": "kappa: 1.4251",
+      "8": "kappa: 2.2190",
+      "9": "kappa: 3.4551",
+      "10": "kappa: 5.3798",
+      "11": "kappa: 8.3768",
+      "12": "kappa: 13.0432",
+      "13": "kappa: 20.3092",
+      "14": "kappa: 31.6228"}},
+  "stim_stair_val": {
+    "LongName": "Bar probe staircase kappa value number",
+    "Description": "Kappa value of the bar orientation noise filtering von Misses distribution",
+    "Levels": {
+      "0": "noise",
+      "1": "kappa: 0.1",
+      "2": "kappa: 0.1557",
+      "3": "kappa: 0.2424",
+      "4": "kappa: 0.3775",
+      "5": "kappa: 0.5878",
+      "6": "kappa: 0.9152",
+      "7": "kappa: 1.4251",
+      "8": "kappa: 2.2190",
+      "9": "kappa: 3.4551",
+      "10": "kappa: 5.3798",
+      "11": "kappa: 8.3768",
+      "12": "kappa: 13.0432",
+      "13": "kappa: 20.3092",
+      "14": "kappa: 31.6228"}},
+  "response_val": {
+    "LongName": "Response value",
+    "Description": "Value of the button press",
+    "Levels": {
+      "0": "incorrect response",
+      "1": "correct response",
+      "n/a": "no response"}},
+  "probe_time": {
+    "LongName": "Onset time of the probe",
+    "Description": "Onset time of the oriented noise probe"},
+  "reaction_time": {
+    "LongName": "Reaction time",
+    "Description": "Reaction time after the probe presentation",
+    "Units": "Seconds"
+  }
+}

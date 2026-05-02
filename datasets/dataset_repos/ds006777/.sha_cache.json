@@ -1,0 +1,9 @@
+{
+  "CHANGES": "b6eea0a3532e8e56a548bffad938ad2fe908dab5",
+  "dataset_description.json": "31936f33a4717e3703c14f73f23f2394df27fc1a",
+  "participants.json": "c0741d1f9e7b6be1b7fa9129194c04db3fb5c3ca",
+  "participants.tsv": "b2e9148ccf943d0b535c7db6c7d04558c7d040e6",
+  "README": "07042dcaa8ceca7e0f2ded2e524d35baa07939bd",
+  "sub-10025/eeg/sub-10025_task-AVSRT_run-01_events.json": "45a4d5b8017f992c11b163f681e9471a59675379",
+  "sub-10025/eeg/sub-10025_task-AVSRT_run-01_events.tsv": "d5274c8bdb5b225de12ffc320f2636e110922e04"
+}

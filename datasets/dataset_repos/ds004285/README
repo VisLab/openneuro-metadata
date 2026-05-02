@@ -1,0 +1,27 @@
+# Listening task
+
+## Method
+
+We tested 82 participants aged 19–81. All reported themselves to have normal hearing, to be right handed, and not have a history of neurological disease. Because the task involved spoken language, all were native speakers of American English.
+
+Participants were randomly assigned to control (no motion feedback) or intervention (real-time motion feedback) groups.
+
+Participants performed a word repetition task in which on every trial they heard a spoken word, presented in background noise, and repeated it back.
+
+The no-feedback group was given the following instructions:
+
+"During this task, it is important that you hold your body and head very still. Please stay relaxed, stay alert, and keep your eyes open and on the fixation cross.""
+
+
+FIRMM was run in the background for experimenters to monitor motion during scanning sequences and participants were given verbal feedback after each sequence.
+
+The group receiving motion feedback was given the following instructions:
+
+"It is very important to remain still during your MRI so that we can obtain clear images. Even very small movements that you are not aware of can affect the image quality. While performing the task, you will be receiving feedback corresponding to your ability to remain still. This is to help you be aware of any movements you may be making. You will see a white fixation cross on the screen. The cross will change to yellow and then red depending on how much you are moving. It will go back to white if you become still again. Sometimes even if you are doing your best you will still see a red cross. This may mean that the computer is too strict and not that you are necessarily doing anything wrong. Just keep trying your best to keep the cross in the white.""
+
+During the task, participants viewed a colored cross in the middle of the screen. FD thresholds were set to show a white cross at < 0.2 mm, a yellow cross at 0.2 mm to < 0.3 mm, and a red cross at ≥ 0.3 mm. At the conclusion of each run, participants viewed a Head Motion Report which displayed their performance on a gauge of 0–100, a percentage score of 0% to 100%, and a graph of their motion level over time to help visualize total movement during the session. Participants were encouraged to bring their score closer to 100% on subsequent sequences.
+
+
+## MRI acquisition and analysis
+
+MRI data were acquired using a Siemens Prisma scanner (Siemens Medical Systems) at 3 T equipped with a 32-channel head coil. Scan sequences began with a T1-weighted structural volume using an MPRAGE sequence [repetition time (TR) = 2.4 s, echo time (TE) = 2.2 ms, flip angle = 8°, 300 × 320 matrix, voxel size = 0.8 mm isotropic]. Blood oxygenation level-dependent (BOLD) functional MRI images were acquired using a multiband echo planar imaging sequence (Feinberg et al., 2010) [TR = 3.07 s, TA = 0.770 s, TE = 37 ms, flip angle = 90º, voxel size = 2 mm isotropic, multiband factor = 8]. We used a sparse imaging design in which there was a 2.3 second delay between scanning acquisitions and the TR was longer than the acquisition time to allow for minimal scanning noise during stimulus presentation and audio recording of participant responses (Edmister et al., 1999; Hall et al., 1999). Due to slight variations in scanning sessions, participants had 763–846 frames of data (median = 794).

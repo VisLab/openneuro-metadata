@@ -1,0 +1,5 @@
+{
+  "HeadCircumference": 1.0,
+  "ShortChannelCount": 0, 
+  "_Comment": "HeadCircumference was not collected; this is a placeholder to satisfy BIDS validator recommendations. ShortChannelCount set to 0 indicates no short channels (or not recorded)."
+}

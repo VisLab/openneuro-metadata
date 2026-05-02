@@ -1,0 +1,82 @@
+{
+    "Acknowledgements": "This study was supported by the AE Foundation, The Dean's Innovation Fund at the University of Pennsylvania Perelman School of Medicine, and the Penn/CHOP Lifespan Brain Institute.",
+    "Authors": [
+        "Juliette B. H. Brook",
+        "Taylor Salo",
+        "Audrey C. Luo",
+        "JoC+lle Bagautdinova",
+        "Sage Rush",
+        "Aaron F. Alexander-Bloch",
+        "Erica B. Baller",
+        "Monica E. Calkins",
+        "Matt Cieslak",
+        "Elena C. Cooper",
+        "John A. Detre",
+        "Mark A. Elliot",
+        "Damien A. Fair",
+        "Phoebe Freedman",
+        "Philip R. Gehrman",
+        "Ruben C. Gur",
+        "Raquel E. Gur",
+        "Arno Klein",
+        "Nina Laney",
+        "Timothy O. Laumann",
+        "Kahini Mehta",
+        "Kathleen Merikangas",
+        "Michael Milham",
+        "Jonathan A. Mitchell",
+        "Tyler M. Moore",
+        "Steven M. Nelson",
+        "Kosha Ruparel",
+        "Brooke L. Sevchik",
+        "Sheila Shanmugan",
+        "Haochang Shou",
+        "Manuel Taso",
+        "Lauren K. White",
+        "Daniel H. Wolf",
+        "M. Dylan Tisdall",
+        "David R. Roalf",
+        "Theodore D. Satterthwaite"
+    ],
+    "BIDSVersion": "1.10.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006185.v2.0.0",
+    "DatasetLinks": {
+        "raw": "https://openneuro.org/datasets/ds006131",
+        "templateflow": "https://github.com/templateflow/templateflow"
+    },
+    "DatasetType": "derivative",
+    "Description": "fMRIPrep derivatives for the PAFIN dataset.",
+    "EthicsApprovals": [
+        "IRB 844353"
+    ],
+    "Funding": [
+        "R01MH113550",
+        "R01MH112847",
+        "R01EB022573",
+        "R37MH125829",
+        "K23MH133118",
+        "BBRF #31319",
+        "R01EB031080",
+        "BBRF #30837",
+        "BWF 1022955",
+        "DP5OD036142"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "fMRIPrep",
+            "Version": "25.2.4",
+            "CodeURL": "https://github.com/nipreps/fmriprep/archive/25.2.4.tar.gz"
+        }
+    ],
+    "HowToAcknowledge": "Please cite the PAFIN paper (doi:10.52294/001c.151820), the fMRIPrep paper (doi:10.1038/s41592-018-0235-4), and include the generated citation boilerplate within the Methods section of the text.",
+    "License": "CC0",
+    "Name": "PAFIN: PennLINC AFfective INstability- fMRIPrep Derivatives",
+    "ReferencesAndLinks": [
+        "https://doi.org/10.52294/001c.151820"
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "https://openneuro.org/datasets/ds006131"
+        }
+    ]
+}

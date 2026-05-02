@@ -1,0 +1,3 @@
+Raw fMRI data are contained in 36 participants' folders.<br/>
+/derivatives/ include fMRIprep output and the final preprocessed data used in the manuscript (preprocessing steps: https://github.com/hyssong/fmripreprocessing/blob/main/preprocess_afterfmriprep.ipynb).<br/>
+Behavioral data and codes are shared in GitHub: https://github.com/hyssong/memoryaha. <br/>

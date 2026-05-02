@@ -1,0 +1,19 @@
+{
+	"Modality": "MR",
+	"MagneticFieldStrength": 3,
+	"Manufacturer": "Philips",
+	"ManufacturersModelName": "Intera",
+	"InstitutionName": "Univerity Medical Center Groningen",
+	"InstitutionalDepartmentName": "Neuroimaging Center Groningen",
+	"PatientPosition": "HFS",
+	"ProtocolName": "T13DSENSEtool4.2",
+	"PhilipsRescaleSlope": 12.7477,
+	"PhilipsRescaleIntercept": 0,
+	"PhilipsScaleSlope": 0.000299206,
+	"UsePhilipsFloatNotDisplayScaling": 1,
+	"FlipAngle": 8,
+	"EchoTime": 0.00351,
+	"RepetitionTime": 0.009,
+	"ReconMatrixPE": 256,
+	"ReceiveCoilName": "SENSE-Head-32P"
+}

@@ -1,0 +1,32 @@
+{
+    "onset": {
+        "Description": "Time of event, in seconds since beginning of recording",
+        "Units": "Seconds"
+    },
+    "duration": {
+        "Description": "Duration of event",
+        "Units": "Seconds"
+    },
+    "scoring_idx": {
+        "Description": "Sleep scoring index",
+        "Levels": {
+            "1": "Wake",
+            "2": "REM",
+            "3": "N1",
+            "4": "N2",
+            "5": "N3",
+            "6": "Artefact"
+        }
+    },
+    "scoring": {
+        "Description": "Manual sleep scoring",
+        "Levels": {
+            "Wake": "Subject is awake",
+            "REM": "Subject is in REM sleep",
+            "N1": "Subject is in N1 sleep",
+            "N2": "Subject is in N2 sleep",
+            "N3": "Subject is in N3 sleep",
+            "Artefact": "Artefact detected in signal"
+        }
+    }
+}

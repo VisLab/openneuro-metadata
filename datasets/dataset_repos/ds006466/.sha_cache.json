@@ -1,0 +1,23 @@
+{
+  "CHANGES": "cb67075a2292c89812711589f63ccbded8b80c84",
+  "README": "94faf288bb28c24c43e39ab114727bfaec194980",
+  "task-activeS_channels.tsv": "b0a2bbda1e3758a6064de65d402cce0df30356df",
+  "task-active_eeg.json": "18a773f9b68016441813e36973fb6377c71d82f7",
+  "task-activeS_eeg.json": "bc8faab8d36537cd88a9bea8946353a845e56602",
+  "dataset_description.json": "8762b674114d299f71982ccd1a558fe1a54151a7",
+  "task-active_events.json": "319f80f112c6ebbe6e1e21383f12edb02eb58ef0",
+  "task-activeS_events.json": "71d8279ff65f0f8b1d09fe3872c89d2985514cff",
+  "task-passiveS_channels.tsv": "b0a2bbda1e3758a6064de65d402cce0df30356df",
+  "task-active_channels.tsv": "b0a2bbda1e3758a6064de65d402cce0df30356df",
+  "task-passiveS_events.json": "379334ccad585ca9c39fc8cc108c578fd49185c6",
+  "task-passive_events.json": "fa1cffa34bd07597b51aee9484627f89035e9aaa",
+  "task-restingS_channels.tsv": "b0a2bbda1e3758a6064de65d402cce0df30356df",
+  "task-passive_channels.tsv": "b0a2bbda1e3758a6064de65d402cce0df30356df",
+  "task-restingS_eeg.json": "f4494f766174d8fff791129c7ac05c0cb1e5ce75",
+  "task-passiveS_eeg.json": "78c9eac29cc04932b94fdc630c21ff33135fd1f6",
+  "task-passive_eeg.json": "b4b6bfc82d7e9479823e35b4843d0beab000a653",
+  "task-resting_eeg.json": "8877a9081412b4b3cbe2b3b8e0a3a6328a1ff0c7",
+  "task-restingS_events.json": "33fa442e547dc3985d5786a74dc75327b00fd04f",
+  "task-resting_channels.tsv": "b0a2bbda1e3758a6064de65d402cce0df30356df",
+  "task-resting_events.json": "c207bde4eefd77554a9022b89d2ac9e6757b82b0"
+}

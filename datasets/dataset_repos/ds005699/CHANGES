@@ -1,0 +1,2 @@
+1.0.0 2024-12-08
+  - Added instructions in README to reproduce derivatives, added derivatives for fmriprep and connectomix, added config files

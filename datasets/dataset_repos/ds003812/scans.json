@@ -1,0 +1,13 @@
+{
+    "operator": {
+        "LongName": "Scanner operator",
+        "Description": "Name of the operator, auto-populated from the 'performing physician' field on scanner console. I didn't set this, and so it's n/a for all.",
+        "Levels": {
+            "n/a": "no value provided"
+        }
+    },
+    "randstr": {
+        "LongName": "Random string",
+        "Description": "md5 hash of DICOM UIDs"
+    }
+}

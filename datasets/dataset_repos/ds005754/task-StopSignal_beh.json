@@ -1,0 +1,39 @@
+{
+  "participant_id": {
+    "LongName": "Participant Identifier",
+    "Description": "Unique BIDS identifier for the participant in this study."
+  },
+  "trial_type": {
+    "LongName": "trial_type",
+    "Description": "A type of trial condition presented to the participant.",
+    "Levels": {
+      "Go": "Stimulus NOT followed by a stop signal.",
+      "Stop": "Stimulus followed by a stop signal. "
+    }
+  },
+  "stop_signal_delay": {
+    "LongName": "stop_signal_delay",
+    "Description": "Time between stimulus presentation and auditory stop signal presentation.",
+    "Units": "seconds"
+  },
+  "go_reaction_time": {
+    "Description": "Time taken by the participant to respond to the stimulus.",
+    "Units": "seconds"
+  },
+  "correct_go": {
+    "Description": "Did the participant respond correctly to the stimulus regardless whether it was followed by an auditory stop signal?",
+    "Levels": {
+      "1": "Yes, participant responded correctly to the stimulus.",
+      "0": "No, participant responded incorrectly to the stimulus."
+    }
+  },
+  "successful_stop": {
+    "LongName": "successful_stop",
+    "Description": "Did the participant successfully inhibit their response to stimulus after being presented with an auditory stop signal?",
+    "Levels": {
+      "1": "Yes, participant successfully inhibited their response.",
+      "0": "No, participant failed to inhibit their response."
+    }
+  }
+}
+

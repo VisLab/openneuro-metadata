@@ -1,0 +1,23 @@
+{
+  "CHANGES": "3294950e96592a8e18442dd1336f3711f3f874b2",
+  "participants.json": "9421abeda0e51fab94be7bc42d2b6f9d43bdeb6b",
+  "participants.tsv": "5f7ff53f88ef0ba98db54b369061712ec09322c3",
+  "README.txt": "7724dac3b3080dcaf72c9a0596e07c052df39e28",
+  "dataset_description.json": "e38a608cdcb194e0961bbdb3c5a4eb841efcab06",
+  "sub-002/ses-1/nirs/sub-002_ses-1_task-Electrical_run-02_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-002/ses-1/nirs/sub-002_ses-1_task-Electrical_run-02_events.tsv": "ff41804329bece644fe653a91bc5abc7c420e3a6",
+  "sub-002/ses-1/nirs/sub-002_ses-1_task-Electrical_run-01_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-002/ses-2/nirs/sub-002_ses-2_task-Electrical_run-01_events.tsv": "45b03a4e5e68f1bbddd47b33451b80099037885a",
+  "sub-002/ses-1/nirs/sub-002_ses-1_task-Electrical_run-03_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-002/ses-1/nirs/sub-002_ses-1_task-Electrical_run-04_events.tsv": "982dca78bb7d5e17de8252bc9bca3a0800af905b",
+  "sub-002/ses-1/nirs/sub-002_ses-1_task-Electrical_run-01_events.tsv": "4dc91a7f89651dbd4be2428e249f47be9a081164",
+  "sub-002/ses-1/nirs/sub-002_ses-1_task-Electrical_run-03_events.tsv": "b2da0832c6e6804f3da901131bef7dd1a2575a8f",
+  "sub-002/ses-2/nirs/sub-002_ses-2_task-Electrical_run-01_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-002/ses-1/nirs/sub-002_ses-1_task-Electrical_run-04_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-002/ses-2/nirs/sub-002_ses-2_task-Electrical_run-02_events.tsv": "2409fff549507edb9cbdcd32f22334df3f126f8a",
+  "sub-002/ses-2/nirs/sub-002_ses-2_task-Electrical_run-03_events.tsv": "09b362dd6316a7db61b53115330c30331b4ec185",
+  "sub-002/ses-2/nirs/sub-002_ses-2_task-Electrical_run-02_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-002/ses-2/nirs/sub-002_ses-2_task-Electrical_run-04_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-002/ses-2/nirs/sub-002_ses-2_task-Electrical_run-04_events.tsv": "e119c02439db31900948ef31441fc09d4b925398",
+  "sub-002/ses-2/nirs/sub-002_ses-2_task-Electrical_run-03_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726"
+}

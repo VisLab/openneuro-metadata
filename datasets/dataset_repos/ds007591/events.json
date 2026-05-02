@@ -1,0 +1,45 @@
+{
+    "onset": {
+        "Description": "Onset time of the trial in seconds from the start of the recording",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the trial (5 repetitions x 1.25 sec each)",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Color word spoken in the trial",
+        "Levels": {
+            "green": "The word 'green'",
+            "magenta": "The word 'magenta'",
+            "orange": "The word 'orange'",
+            "violet": "The word 'violet'",
+            "yellow": "The word 'yellow'"
+        }
+    },
+    "value": {
+        "Description": "Numeric label index corresponding to the color word (0-4)",
+        "Levels": {
+            "0": "green",
+            "1": "magenta",
+            "2": "orange",
+            "3": "violet",
+            "4": "yellow"
+        }
+    },
+    "session_type": {
+        "Description": "Whether data was collected during offline calibration or online decoding",
+        "Levels": {
+            "calibration": "Offline data collection for decoder training",
+            "online": "Real-time decoding session with trained decoder"
+        }
+    },
+    "task_condition": {
+        "Description": "Speech production condition",
+        "Levels": {
+            "overt": "Full voice speech production",
+            "minimally overt": "Minimally overt (whispered) speech production",
+            "covert": "Silent/imagined speech production"
+        }
+    }
+}

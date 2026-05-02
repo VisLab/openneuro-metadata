@@ -1,0 +1,11 @@
+{
+    "RepetitionTime": 2.5,
+    "EchoTime": 0.00393,
+    "InversionTime": 0.9,
+    "FlipAngle": 8,
+    "ScanningSequence": "MPRAGE",
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "Allegra",
+    "MagneticFieldStrength": 3
+}
+

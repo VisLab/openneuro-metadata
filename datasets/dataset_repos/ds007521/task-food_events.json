@@ -1,0 +1,63 @@
+{
+    "onset": {
+        "Description": "the onset time of the event in samples, relative to the start of the EEG file"
+    },
+    "duration": {
+        "Description": "stimulus duration"
+    },
+    "eventnumber": {
+        "Description": "event number in the experiment"
+    },
+    "hunger_condition": {
+        "Description": "hunger condition for this session"
+    },
+    "stimfilename": {
+        "Description": "name of the stimulus that was shown (including path)"
+    },
+    "blockno": {
+        "Description": "block number"
+    },    
+    "trialno": {
+        "Description": "trial number per block"
+    },
+    "is_faststream": {
+        "Description": "categorisation task (0), or letter task (1)"
+    }, 
+    "stim": {
+        "Description": "name of the stimulus that was shown"
+    },   
+    "food_idx": {
+        "Description": "is the stimulus a food (1) or non-food object (0)"
+    },
+    "letter": {
+        "Description": "letter that was shown op top of the stimulus. Letter task only"
+    },
+    "letter_idx": {
+        "Description": "index of the letter that was shown op top of the stimulus. Letter task only"
+    },
+    "istarget": {
+        "Description": "stimulus is not a target (0) or is a target (1), used in the letter task only"
+    },
+    "image_number": {
+        "Description": "ID number of the stimulus that was shown"
+    },
+    "response": {
+        "Description": "if 1, ppt responded. Used in letter task only"
+    },
+    "keypressed": {
+        "Description": "response button used"
+    },
+    "rt": {
+        "Description": "response time"
+    },
+    "correct": {
+        "Description": "did the ppt give the correct response? Used in letter task only"
+    },
+    "time_stimon": {
+        "Description": "time the stimulus is presented, resets for each part"
+    },
+    "time_stimoff": {
+        "Description": "time the stimulus is taken away, resets for each part"
+    }
+    
+}

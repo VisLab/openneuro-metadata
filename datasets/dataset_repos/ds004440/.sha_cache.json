@@ -1,0 +1,11 @@
+{
+  "participants.tsv": "40b832414570df7d87c9f3d3dc49c7705da861ed",
+  "dataset_description.json": "c405ee15f5184262570d6be8e3e6b38d0b615433",
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "README": "e3cfe9ed68aafe03c99bfd45c9e781befcea3731",
+  "CHANGES": "2029eebdd5b9db65b1d358a81528ebcec412e839",
+  "sub-ACM07/ses-stanfordCNI/func/sub-ACM07_ses-stanfordCNI_task-prf_run-01_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-ACM07/ses-stanfordCNI/func/sub-ACM07_ses-stanfordCNI_task-prf_run-02_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-ACM07/ses-stanfordCNI/func/sub-ACM07_ses-stanfordCNI_task-prf_run-04_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-ACM07/ses-stanfordCNI/func/sub-ACM07_ses-stanfordCNI_task-prf_run-03_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5"
+}

@@ -1,0 +1,4 @@
+1.0.1 2024-11-17
+  - Split fMRI into task/rest, update json for BIDS validation and fixed events
+1.0.0 2022-05-27
+  - dataset uploaded

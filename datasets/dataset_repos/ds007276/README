@@ -1,0 +1,12 @@
+Languge Task Battery (LTB) dataset:
+-fMRI data for 17 subjects, 8 of which had resting state data as well.
+
+Task data:
+-16 tasks (including rest), some of which contained multiple conditions, yielding a total of 18 task conditions. All tasks presented in each run, total of 8 imaging runs (~ 10 minutes per run).
+
+Resting state data:
+-7 imaging runs ~ 10 minutes each.
+- Only available for: sub-01, sub-02, -sub-03, sub-04, sub-06, sub-07, sub-12, sub-19
+
+Please cite the following reference if you use these data:
+ Arafat, B., Nettekoven, C., Xiang, J. D., & Diedrichsen, J. (2026). Multi-Task Batteries for Precision Functional Mapping. bioRxiv, 2026-03.

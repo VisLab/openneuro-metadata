@@ -1,0 +1,6 @@
+{
+	"RepetitionTime": 2.00,
+	"TaskName": "N-back",
+	"EchoTime": 0.030,
+	"FlipAngle": 64
+}

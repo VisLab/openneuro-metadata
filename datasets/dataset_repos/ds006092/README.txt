@@ -1,0 +1,3 @@
+This dataset is associated with the manuscript entitled "Brain Activation in Post-Pandemic Prolonged Grief Disorder During an MRI Emotional Task" authored by "Andrea Redondo,Armenteros, Manuel Fernández-Alcántara, Francisco Cruz-Quintana, Rodrigo Fernández-López, José Luis Martín-Rodríguez, Mary-Frances O'Connor & Mariá Nieves Pérez-Marfil".
+It includes raw BOLD fMRI data, field-maps and structural T1 images of 60 healthy participants. 
+The task performed by participants during functional was an Emotional Counting Stroop Task.

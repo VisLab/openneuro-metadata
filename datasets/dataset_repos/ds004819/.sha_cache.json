@@ -1,0 +1,15 @@
+{
+  "participants.tsv": "b4b2fa58d10aba3add94273eb71d4e9ab9b57a26",
+  "CHANGES": "78c1699232eea1ccde5d43bb659dbd458023b910",
+  "README": "1af27187d1e91ab36b5a253f86e2340e0c64c3a6",
+  "participants.json": "2b853a912f11d7ba127b80342e2e42bbd69c5ac1",
+  "dataset_description.json": "c9f1f018740f56331bbadea21d515add4b1ef102",
+  "sub-SS01MicrosEEG/ses-postimp/ieeg/sub-SS01MicrosEEG_ses-postimp_task-BaselineandStimRecordingRAWEDF_run-01_events.tsv": "8614c603705d1cab16096fdfe71f0df7d3262d7b",
+  "sub-SS01MicrosEEG/ses-postimp/ieeg/sub-SS01MicrosEEG_ses-postimp_task-BaselineandStimRecordingRAWEDF_run-06_events.tsv": "17153b1dd314896b01447aadf3d287b25a2a4d5f",
+  "sub-SS01MicrosEEG/ses-postimp/ieeg/sub-SS01MicrosEEG_ses-postimp_task-BaselineandStimRecordingRAWEDF_run-02_events.tsv": "ea03f82f95f544d9228df92c19c35928fcb24b03",
+  "sub-SS01MicrosEEG/ses-postimp/ieeg/sub-SS01MicrosEEG_ses-postimp_task-BaselineandStimRecordingRAWEDF_run-03_events.tsv": "2ceabf9eba2c2ebff9f13e64e0a6d2a0590793a6",
+  "sub-SS01MicrosEEG/ses-postimp/ieeg/sub-SS01MicrosEEG_ses-postimp_task-BaselineandStimRecordingRAWEDF_run-04_events.tsv": "e33dc89ff1ad2d0e8a2d2db53ee5d0c39485c6de",
+  "sub-SS01MicrosEEG/ses-postimp/ieeg/sub-SS01MicrosEEG_ses-postimp_task-BaselineandStimRecordingRAWEDF_run-05_events.tsv": "44867efd03368e09eb436a9a6a078d533d8ae312",
+  "sub-SS01MicrosEEG/ses-postimp/ieeg/sub-SS01MicrosEEG_ses-postimp_task-BaselineandStimRecordingRAWEDF_run-07_events.tsv": "2f8eebe18d7cac4cc2ad9e545e6b84551f2117d1",
+  "sub-SS01MicrosEEG/ses-postimp/ieeg/sub-SS01MicrosEEG_ses-postimp_task-BaselineandStimRecordingRAWEDF_run-08_events.tsv": "a5a48d0fab7b14e2597f38f5d2fe991f9d2e1465"
+}

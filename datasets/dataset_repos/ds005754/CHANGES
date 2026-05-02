@@ -1,0 +1,8 @@
+1.1.0 2025-01-07
+  - Re-coded the `income` field and rounded `age` to 1 decimal point in the participants files.
+1.0.2 2024-07-02
+  - Corrected 'highest_education' and 'income' legends in participants.json. Added json descriptions for eyetracking derivatives. 
+1.0.1 2024-01-19
+  - Minor changes to dataset title and author list.
+1.0.0 2024-01-18
+  - Initial dataset release

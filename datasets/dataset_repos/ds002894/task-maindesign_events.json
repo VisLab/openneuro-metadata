@@ -1,0 +1,60 @@
+{
+    "onset":{
+        "LongName":"Onset Time",
+        "Units":"seconds"
+    },
+    "duration":{
+        "LongName":"Duration of Stimulus",
+        "Units":"seconds"
+    },
+    "stim": {
+        "LongName":"Stimulus",
+        "Description":"Displayed Stimulus (or [response] for button press). Note that probes are displayed in uppercase"
+    },
+    "trial_number": {
+        "LongName":"Sequential position of the trial in the run"
+    },
+    "trial_type":{
+        "LongName":"Trial type",
+        "Description":"Sequence type: Verb or Noun"
+    },
+    "trial_structure": {
+        "Description":"whether the sequence is structured (phrase) or not (list)",
+        "Levels":{
+            "phrase":"well-formed sequence of words",
+            "list":"scrambled list of words"}
+    },
+    "trial_length":{
+        "Description":"number of actual words in the sequence (1 to 4)"
+    },
+    "sequential_position": {
+        "Description": "position of the current stimulus in the stream"
+    },
+    "probe_type": {
+        "Description":"whether the probe belongs to the previous sequence",
+        "Levels": {
+            "match":"yes",
+            "nomatch":"no"
+        }
+    },
+    "probe": {
+        "LongName": "probe word"
+    },
+    "probe_position": {
+        "Description":"sequential position of the probe item in the previous sequence (-1 if not present)"
+    },
+    "response_correct": {
+        "Description":"whether the subject pressed the correct response key"
+    },
+    "response_key": {
+        "Description":"code of the response key pressed by the participants",
+        "Levels": {
+            "y":"right",
+            "p":"left"
+        }
+    },
+    "response_time": {
+        "Description":"response times since the onset of display of the probe",
+        "Units":"seconds"
+     }
+}

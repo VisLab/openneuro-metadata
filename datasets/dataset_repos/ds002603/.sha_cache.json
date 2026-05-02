@@ -1,0 +1,11 @@
+{
+  "README": "fe63a4761f85fdca4a965508859dddac5cf13955",
+  "task-wm_events.json": "e5d78e37354ed3c15da4e80a720afc0fc8a474d4",
+  "dataset_description.json": "79330afb5316eb1328f27c2cdf49ec50545bae82",
+  "CHANGES": "0177584ded961d533f3b054a5c4a3ad817975c13",
+  "participants.tsv": "be6599c9e5474f5073879c7ab5a2d2464db12842",
+  "sub-01/func/sub-01_task-wm_acq-Mb4Mm3Tr550_events.tsv": "7d0ed94bc5447bf8323e1a97f9eb6cf852f51956",
+  "sub-01/func/sub-01_task-wm_acq-Mb4Mm2Tr1600_events.tsv": "0bb04d71f0f7599791bc19bd0b509d5939b27d06",
+  "sub-01/func/sub-01_task-wm_acq-SeqMm3Tr2000_events.tsv": "749310449e7d1c5be756cb45b121023ef34d5988",
+  "sub-01/func/sub-01_task-wm_acq-Mb4Mm27Tr700_events.tsv": "c0223f3eb95e04cd300343aeb3e6e70dd1acb019"
+}

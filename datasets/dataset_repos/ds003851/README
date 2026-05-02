@@ -1,0 +1,9 @@
+Title: Category-biased neural representations form spontaneously during learning that emphasizes memory for specific instances.
+
+fMRI task with four runs of a paired-associates style learning task. Participants were presented with blended face stimuli (nine training faces total) and were instructed to learn the first and last name of the faces. First names were unique to each face but last names were shared across three family categories (Miller, Wilson, and Davis) that were determined via the blending procedure. 
+
+Task order: train_run-1, train_run-2, train_run-3, train_run-4
+
+Information related to the task for each trial (onsets, duration of stimulus on the screen, category-relevant and category-irrelevant faces that constitute each blend) are included in a _events.tsv file for each subject and each run of the training task. 
+
+Stimuli and other behavioral data can be accessed via OSF repository Blended-face Similarity Ratings and Categorization Tasks: https://osf.io/e8htb/

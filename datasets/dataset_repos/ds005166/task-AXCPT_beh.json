@@ -1,0 +1,23 @@
+{
+  "participant_id": {
+    "LongName": "Participant Identifier",
+    "Description": "Unique BIDS identifier for the participant in this study."
+  },
+  "trial_type": {
+    "Description": "A type of trial condition presented to the participant.",
+    "Levels": {
+      "BY": "Go trial",
+      "AX": "Go trial",
+      "AY": "Go trial",
+      "BX": "Inhibition trial"
+    }
+  },
+  "accuracy": {
+    "LongName": "Accuracy",
+    "Description": "Whether the participant responded correctly or incorrectly.",
+    "Levels": {
+      "1": "Participant responded correctly.",
+      "0": "Participant responded incorrectly."
+    }
+  }
+}

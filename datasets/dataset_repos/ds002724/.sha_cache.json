@@ -1,0 +1,14 @@
+{
+  "dataset_description.json": "e87965cff99db49fa9f1fe998f20bfe74a46b9a6",
+  "CHANGES": "7a2b626563e45f9e72be7dc6c96314af0d04cc44",
+  "participants.tsv": "cf557b9e6a4fc29d429e583777db8cd7b389fbd5",
+  "README": "49fac0f42e6aa53212519a7774ab84205f352c00",
+  "sub-08/ses-3/eeg/sub-08_ses-3_task-run3_events.json": "8113cc7c1aaf0e0f64ecb26cb1310022d084c2e0",
+  "sub-08/ses-3/eeg/sub-08_ses-3_task-run4_events.tsv": "e0f9606effd193fd8e697dceb878cf0989523b26",
+  "sub-08/ses-3/eeg/sub-08_ses-3_task-run1_events.tsv": "bf6fa2d235f303deb6ecb1188cbe1dd40539f11a",
+  "sub-08/ses-3/eeg/sub-08_ses-3_task-run1_events.json": "8113cc7c1aaf0e0f64ecb26cb1310022d084c2e0",
+  "sub-08/ses-3/eeg/sub-08_ses-3_task-run3_events.tsv": "bf5e501cc629b9ea83c29afe1486583db0a923f5",
+  "sub-08/ses-3/eeg/sub-08_ses-3_task-run2_events.json": "8113cc7c1aaf0e0f64ecb26cb1310022d084c2e0",
+  "sub-08/ses-3/eeg/sub-08_ses-3_task-run2_events.tsv": "c489f416f1427a33d98330c163f2d08af949bbe5",
+  "sub-08/ses-3/eeg/sub-08_ses-3_task-run4_events.json": "8113cc7c1aaf0e0f64ecb26cb1310022d084c2e0"
+}

@@ -1,0 +1,9 @@
+1.0.2 2026-04-03
+  - Fix IntendedFor fields in fMRI fmap JSONs.
+1.0.1 2026-02-17
+  - add age to session.tsv and session.json files; include self-report data in phenotype folder
+0.0.1  Initial data acquired
+TODOs:
+	- verify and possibly extend information in participants.tsv (see for example http://datasets.datalad.org/?dir=/openfmri/ds000208)
+	- fill out dataset_description.json, README, sourcedata/README (if present)
+	- provide _events.tsv file for each _bold.nii.gz with onsets of events (see  '8.5 Task events'  of BIDS specification)

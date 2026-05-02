@@ -1,0 +1,29 @@
+{
+    "participant_id": {
+        "Description": "An anonymized subject identifier"
+    },
+    "Abuse_13to18": {
+        "Description": "Abuse occurring during ages 13 through 18",
+        "Units": "Factor scores"
+    },
+    "Neglect_13to18": {
+        "Description": "Neglect occurring during ages 13 through 18",
+        "Units": "Factor scores"
+    },
+    "Abuse_Chronicity": {
+        "Description": "Chronicity of abuse across developmental periods",
+        "Units": "Number of developmental periods in which abuse occurred"
+    },
+    "Neglect_Chronicity": {
+        "Description": "Chronicity of neglect across developmental periods",
+        "Units": "Number of developmental periods in which neglect occurred"
+    },
+    "SU_67": {
+        "Description": "Composite of Substance Use for Time 6 and Time 7",
+        "Units": "Severity scores"
+    },
+    "Dep_67": {
+        "Description": "Composite of Depressive Symptoms for Time 6 and Time 7",
+        "Units": "Severity scores"
+    }
+}

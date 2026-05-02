@@ -1,0 +1,23 @@
+{
+  "dataset_description.json": "96353f4d3d47750d2272d17c0a8f13ed2b1a3143",
+  "README.md": "e1ae89179d71d7af88c7e643a352d358f57ba143",
+  "task-RDMlocalizer_bold.json": "9901c71f3921b9c8204a39eeea10599e171446dc",
+  "task-RDMmotion_bold.json": "9b6d9c09540a77d0f1638dc51ee2272e24035f7d",
+  "CHANGES": "2328b8d393835573f9c5f41a84cdf67b6cd0e91e",
+  "participants.tsv": "21d5f8e0c0dd8f6b3d380d32f30831b6f5cd8fea",
+  "task-RDMcolor_bold.json": "fb6935038d8a57b4b05449f29fab2440850126fd",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMcolor_run-01_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMcolor_run-05_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMlocalizer_run-01_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMcolor_run-04_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMmotion_run-01_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMcolor_run-02_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMcolor_run-06_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMmotion_run-02_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMlocalizer_run-02_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMcolor_run-03_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMmotion_run-04_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMmotion_run-03_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMmotion_run-06_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-8012/ses-01/func/sub-8012_ses-01_task-RDMmotion_run-05_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5"
+}

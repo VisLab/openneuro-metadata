@@ -1,0 +1,23 @@
+OpenNeuro curator note: This dataset was previously accessible at ds002572. The dataset was reuploaded due to privacy considerations. 
+
+The behavioral, functional and structural MRI data found in this repository have been published in:
+
+Mather, M., Huang, R., Clewett, D.V., Nielsen, S., Velasco, R., Tu, K., Han, S., & Kennedy, B.L. (2020). Isometric exercise facilitates attention to salient events in women via the noradrenergic system. NeuroImage 210:116560
+
+Additional pupillometry, behavioral, and subject data related to this project can be found in this OSF repository: https://osf.io/2y47s/?view_only=ff3af10779cb42a8a5b0e26620f81d4f.
+
+Subject folders are labeled by their experiment id (e.g., "sub-101, sub-201, sub-301"). Subjects in the 100 series are LU (luteal phase younger women); 200 series are HC (hormonal contraceptive younger women); and 300 series are PM (post-menopausal older women).
+
+Contained within the anat and func sub-folders for each subject are the following acquisitions (with a few exceptions described below):
+1) anat (2 acquisitions) - T1-weighted anatomical image, T1 FSE (neuromelanin-weighted) image of the pontine brainstem slices
+
+2) func (2 to 3 acquisitions) - Isometric Handgrip functional scan, Oddball task functional task (run 1), Oddball task functional scan (run 2, if acquired)
+
+Notes:
+After our first set of participants, data collection protocol was modified so that only one run of the oddball task was administered. The published study uses only oddball run 1; however, data from both runs (if available) are provided in the respository.
+In participants.tsv, the "exclude" column tags subjects who were excluded from neuroimaging analyses in the published study. We recommend using the same exclusions when analyzing this dataset.
+
+BIDS warnings:
+Code 25 EVENTS_TSV_MISSING - Behavioral data missing for sub-101 (pilot participant) because some experiment programs were modified after piloting
+Code 38 INCONSISTENT_SUBJECTS - Oddball run 2 acquisition files are missing for subjects who only did one run of the task
+Code 39 INCONSISTENT_PARAMETERS - These 3 acquisitions were acquired during "pilot" before our scan sequences were modified. Thus, the inconsistency in dimensions.

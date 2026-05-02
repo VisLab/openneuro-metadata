@@ -1,0 +1,13 @@
+README
+
+Title: Adaptive memory distortions are predicted by feature representations in parietal cortex
+
+BIDSVersion: v1.6.0
+
+Authors: Yufei Zhao, Avi Chanales, Brice Kuhl
+
+Description: 32 subjects participated in a 2 day design. On day 1, subject learned associations between faces and colored objects (outside of scanner). This learning consisted of a study and test phase. In the study phase, pariticipants saw the face-object associates one at a time, in random order. In the test phase, they performed an associative memory test, where they were shown the object and asked to select which of four faces was the associated face. On day 2, subjects repeated the association task immediately before entering the scanner. In perception runs, subjects were shown object stimuli and had to respond to an infrequent trigger, a black cross that appeared on the stimuli. In the retrieval runs, subjects performed a cued recall task where they were shown a face and asked to remember the associated object. Immediately after the scan, subjects were asked to complete a color memory test, where subjects were presented with the face stimuli cue, alongside the associated object. Critically, the object was presented initially in greyscale. Subjects were asked to choose the correct color of the object on a color wheel. 
+
+For behavioral data, please see this project's OSF page
+
+OSF Link: In Progress

@@ -1,0 +1,11 @@
+{
+  "task-food_eeg.json": "d6ecc12fabdb0feb7f99e6a498274d0dd3b773bd",
+  "participants.tsv": "bf013dc40464899ed40b27d752e0c7893bffced9",
+  "task-food_events.json": "b6eba38a2127d50f3fac3e0a546d0940d5ad099b",
+  "dataset_description.json": "cf2d6c4977ceab8428556c722424deaf64904294",
+  "participants.json": "e51954f5075b0829caa729872e1741fa23490e22",
+  "CHANGES": "0137914ccfb4188c6e121c30f516ca74938d712c",
+  "README.txt": "4457bff3f14e82401ce0f83902644b454c293950",
+  "sub-01/ses-2/eeg/sub-01_ses-2_task-food_events.tsv": "e04d773ec3857b5f869a9663901bd695ec2534a2",
+  "sub-01/ses-1/eeg/sub-01_ses-1_task-food_events.tsv": "3d29a52023e8fefc6e226a02f36c8e655b5377c8"
+}

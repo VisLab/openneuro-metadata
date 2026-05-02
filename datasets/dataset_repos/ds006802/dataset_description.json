@@ -1,0 +1,22 @@
+{
+    "Name": "Collaborative rule learning promotes interbrain information alignment",
+    "BIDSVersion": "1.0.2",
+    "Authors": [
+        "Moerel, Denise",
+        "Grootswagers, Tijl",
+        "Quek, Genevieve L.",
+        "Smit, Sophie",
+        "Varlet, Manuel"
+    ],
+    "Funding": [
+        "Australian Research Council (ARC) Discovery Project awarded to M.V. (DP220103047)",
+        "ARC Discovery Early Career Researcher Award awarded to T.G. (DE230100380)"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1101/2025.01.07.631802",
+        "https://doi.org/10.17605/OSF.IO/HE4TU"
+    ],
+    "HowToAcknowledge": "Moerel, D., Grootswagers T., Quek, G.L., Smit, S., & Varlet, M. Information alignment between interacting brains. bioRxiv. (2025).",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006802.v1.0.0",
+    "License": "CC0"
+}

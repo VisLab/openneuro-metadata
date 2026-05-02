@@ -1,0 +1,17 @@
+{
+  "onset": {
+    "Description": "event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "event duration",
+    "Units": "sample"
+  },
+  "value": {
+    "Description": "value of event",
+    "Levels": {
+      "boundary": "indicates a break in continuous data (e.g. where the two xdf files were merged)",
+      "StartTrigger": "onset of a 10-minute audio book block"
+    }
+  }
+}

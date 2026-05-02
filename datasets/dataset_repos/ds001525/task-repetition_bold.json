@@ -1,0 +1,19 @@
+{
+	"TaskName": "Repetition",
+	"Instructions": "For this part of the experiment there are two different tasks. You will see a visual cue indicating which type of task to complete. For one task you will hear four syllables and imagine repeating them, covertly without making any noise one at a time, in order, when you see a '+' displayed on the screen. You will see one long partial rectangle with an arrow to indicate this condition(show visual cue: see stimuli folder). For the second task, you will see four short partial rectangles with arrows(show visual cue: see stimuli folder). You will then hear a syllable then see the '+' indicating you should imagine repeating this syllable. You will hear another syllable and imagine repeating it also and continue on this way until the end of the trial. When you see a '+' in isolation simply focus on the crosshair.",
+	"TaskDescription": "This task included two different covert repetition tasks: one condition involved the covert (imagined) repetition of individual syllables and the other involved the covert repetition of syllable sequences.  Covert speech was used to avoid auditory activation due to perception of self-produced vocalization. To control for simple duration effects, trials of equal duration (4s) and an equivalent number of syllables (4) for each repetition condition were used; the trials differed only in whether the subject repeated each heard syllable one-at-a-time or as a sequence of four syllables.  Specifically, in a Repeat Unit (RU) condition trial, 4 different auditory syllable stimuli were presented at a rate of 1Hz and participants repeated each syllable immediately after hearing it during the 500 millisecond inter-stimulus interval.  In the Repeat Sequence (RS) condition, 4 different auditory syllable stimuli were presented at a rate of 2Hz in the first half of the trial and participants repeated the entire sequence in the second half of the trial.  Thus, for both conditions within each 4s trial participants heard and generated 4 syllables.  The conditions were grouped into 10s activation blocks that contained two 4s trials of the same condition and were preceded by a 1s visual instruction indicating the type of task (RU or RS) and a 1sec silent period. Activation blocks alternated with 10s silent “resting” blocks, during which the participant maintained fixation on a “+” symbol.",
+	"Institution": "University of California, Irvine",
+	"InstitutionAddress": "Department of Cognitive Sciences, 2201 Social & Behavioral Sciences Gateway Building, University of California, Irvine. Irvine, CA 92697-5100",
+	"RepetitionTime": 2,
+	"EchoTime": 0.026,
+	"FlipAngle": 70,
+	"SliceTiming": [ 0, 0.0625, 0.125, 0.1875, 0.25, 0.3125, 0.375, 0.4375, 0.5, 0.5625, 0.625, 0.6875, 0.75, 0.8125, 0.875, 0.9375, 1, 1.0625, 1.125, 1.1875, 1.25, 1.3125, 1.375, 1.4375, 1.5, 1.5625, 1.625, 1.6875, 1.75, 1.8125, 1.875, 1.9375 ],
+	"SliceEncodingDirection": "k",
+	"NumberOfVolumesDiscardedByScanner": 0,
+	"NumberOfVolumesDiscardedByUser": 5,
+	"Manufacturer": "Philips",
+	"MagneticFieldStrength": "3T",
+	"PhaseEncodingLines": 112,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0"
+}

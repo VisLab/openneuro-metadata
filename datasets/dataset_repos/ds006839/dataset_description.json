@@ -1,0 +1,49 @@
+{
+    "Name": "EEG recordings during sham neurofeedback in virtual reality",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "C. Brigitte Aguilar Gonzales",
+        "Collaborators from the Experimental and Computational Neuroscience Group"
+    ],
+    "Acknowledgements": "We thank all participants for their contribution to this study and the research group for technical support.",
+    "HowToAcknowledge": "Please cite the associated manuscript and the MNE-BIDS toolbox (Appelhoff et al., 2019) when using these data.",
+    "Funding": [
+        "This work was supported by CONICET (Argentina) and Universidad Nacional de Entre Ríos."
+    ],
+    "ReferencesAndLinks": [
+        "https://osf.io/aumvk/",
+        "https://openneuro.org/",
+        "https://mne.tools/mne-bids"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006839.v1.0.0",
+    "License": "CC0",
+    "GeneratedBy": [
+        {
+            "Name": "MNE-BIDS",
+            "Version": "0.15",
+            "Description": "Used for conversion of .cnt EEG recordings to BIDS format.",
+            "CodeURL": "https://github.com/mne-tools/mne-bids"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "https://osf.io/aumvk/",
+            "Description": "Original raw EEG data in .cnt format."
+        }
+    ],
+    "EthicsApprovals": [
+        "Approved by the Central Committee on Bioethics in Biomedical Practice and Research of Entre Ríos, Argentina"
+    ],
+    "InstitutionName": "Universidad Nacional de Entre Ríos",
+    "InstitutionAddress": "Ruta Provincial 11, Km 10,5, Oro Verde, Entre Ríos, Argentina",
+    "InstitutionalDepartmentName": "Facultad de Ingeniería - Experimental and Computational Neuroscience Group",
+    "Manufacturer": "Compumedics NeuroScan Inc.",
+    "ManufacturersModelName": "SynAmps RT",
+    "SoftwareVersions": "NeuroScan 4.5",
+    "PowerLineFrequency": 50,
+    "SoftwareFilters": "High-pass filter 0.1 Hz, low-pass filter 500 Hz, notch 50 Hz",
+    "TaskDescription": "Participants received sham neurofeedback (positive, negative, or no feedback) in a VR environment while EEG was recorded. The task aimed to assess the influence of feedback valence on alpha-band modulation during an attentional task. During the resting state task, two conditions were performed: eyes open (fixation cross) and eyes closed (1.5 min each conditon).",
+    "Instructions": "Participants were instructed to remain relaxed, minimize movements, and pay attention to the sound of an object in the VR environment",
+    "StimulusPresentation": "Visual and auditory stimuli were presented using a VR headset developed in Unity3D, synchronized with event markers sent to the EEG system."
+}

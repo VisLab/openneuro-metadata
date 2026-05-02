@@ -1,0 +1,34 @@
+{
+  "trial_type" : {
+    "Description" : "Category of the trial presented to the participant.",
+    "Levels" : {
+      "FIXCROSS" : "Fixation cross display; no auditory stimuli were presented.",
+      "MELODY" : "Presentation of a short musical excerpt delivered auditorily to the participant that occupies the full duration of the trial.",
+      "SILENCE" : "Silence period during which no auditory stimuli were presented."
+    }
+  },
+  "stim_name" : {
+    "Description" : "Filename of the musical stimulus presented during the trial. Stimuli originate from the publicly available dataset by Clemente, A., Vila-Vidal, M., Pearce, M.T. et al. A set of 200 musical stimuli varying in balance, contour, symmetry, and complexity, with behavioral and computational assessments."
+  },
+  "TaskDescription" : "This task investigated brain activation patterns elicited by musical stimuli. To ensure stimulus novelty, short piano pieces were selected from the MUST dataset. The stimuli are available at osf.io/bfxz7. Neuroimaging data were acquired using an ISSS sequence (5 TRs image acquisition [7.75s], 3 TRs ‘silent’ [4.65s]), with auditory stimuli presented exclusively during the silent TRs. The stimuli were grouped into eight blocks of four stimuli each, one from every MUST category (Balance, Contour, Symmetry, and Complexity), followed by a one duration-matched silence condition per block. Participants were instructed to maintain open eyes and attend to visual cues (musical note symbol: listen to music; dash: silence) while listening to the auditory stimuli. To prevent the participants from becoming overly familiar with the chosen set of the stimuli, half of the stimuli were repeated at all timepoints, while the other half were novel at each time point. Stimulus presentation order was pseudo-randomized and counterbalanced across participants. No behavioral data were collected for this task.",
+  "Instructions" : "The instructions were delivered in Polish; the text below is a translation. During this task, cues will appear on the screen. If you see a cue with musical notes, you will hear short musical phrases through the headphones. Your task is to keep your eyes open, look at the cues, and listen to these melodies. If a cue with a horizontal line (a pause) appears, no music will be played through the headphones.",
+  "StimulusPresentation" : {
+    "OperatingSystem" : "Windows 10 Pro 22H2",
+    "ScreenOrigin" : [
+      "center",
+      "center"
+    ],
+    "ScreenRefreshRate" : 120,
+    "ScreenResolution" : [
+      1920,
+      1080
+    ],
+    "ScreenSize" : [
+      0.698,
+      0.392
+    ],
+    "SoftwareName" : "Presentation",
+    "SoftwareRRID" : "RRID:SCR_002521",
+    "SoftwareVersion" : "v 23.1 build 09.29.22"
+  }
+}

@@ -1,0 +1,11 @@
+2.0.2 2022-05-16
+  - Add participants.tsv
+2.0.1 2022-05-16
+  - Updated dataset_description.json
+2.0.0 2016-10-02
+
+  - converted to BIDS standard
+
+1.0.0 2013-04-16
+
+  -  initial release

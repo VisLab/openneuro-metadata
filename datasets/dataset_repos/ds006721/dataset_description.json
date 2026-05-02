@@ -1,0 +1,20 @@
+{
+    "Name": "Measuring brain temperature in response to focused ultrasound using MR thermometry",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Kevin Xu",
+        "Andrew Stark",
+        "Hong Chen",
+        "Ilya E. Monosov"
+    ],
+    "Acknowledgements": "We acknowledge the Department of Comparative Medicine (DCM) team and from Washington University in St. Louis in assisting our research team in these studies.",
+    "Funding": [
+        "NIH UG3MH126861"
+    ],
+    "EthicsApprovals": [
+        "All procedures were approved by the Institutional Animal Care and Use Committee (IACUC) at Washington University in St. Louis."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006721.v1.0.0"
+}

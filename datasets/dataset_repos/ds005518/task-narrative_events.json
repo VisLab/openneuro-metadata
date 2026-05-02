@@ -1,0 +1,5 @@
+{
+"onset": {"LongName": "Onset", "Description": "Onset time for the narrative (in seconds)"},
+"duration": {"LongName": "Duration", "Description": "Time for which the narrative was played (in seconds)"},
+"trial_type": {"LongName": "Trial Type", "Description": "Narrative and timestamps for the arguments in it"}
+}

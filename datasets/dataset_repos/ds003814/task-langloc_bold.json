@@ -1,0 +1,6 @@
+{
+	"TaskName": "langloc",
+    "TaskFullName": "Language Localizer",
+    "Instructions": "In this task, you'll see a series of words presented one at a time. Some of these will form sentences, while others will be lists of nonwords. Please read each word or nonword, and press a button with your right pointer finger when you see a hand icon. Don't worry if the sequence seems fast - just try to read each word.",
+    "TaskDescription": "This language localizer is an extended version of the experiment used by Fedorenko et al. (Functional specificity for high-level linguistic processing in the human brain, PNAS 2011). Sentences or lists of nonwords are displayed as serially presented individual words/nonwords (450ms per word). At the end of each 12-word sequence, a hand icon is shown, and the participant is asked to press a button, as a check for attention."
+}

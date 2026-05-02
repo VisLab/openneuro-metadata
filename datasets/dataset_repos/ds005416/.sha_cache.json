@@ -1,0 +1,9 @@
+{
+  "CHANGES": "9ffdd190deb17d474911a358b29c60bc6d3d055f",
+  "dataset_description.json": "9fe27bd616cb833f7483478683ec8cc976ebe4b0",
+  "README": "2144d7f745cb0529dfd20c4774e073bbf5bdb239",
+  "participants.tsv": "68f9255ba1c56cb9172d8630d551514058193949",
+  "participants.json": "5b9c4d73dff6c5c890e91580c362fa59e3663c45",
+  "sub-s01/eeg/sub-s01_task-WatchingTask_events.tsv": "8cd0395b4cbf0fcb98c57ab1156e74510b0cf873",
+  "sub-s01/eeg/sub-s01_task-WatchingTask_events.json": "ec294620571c1c5d508b2bb1c2470d26671918d8"
+}

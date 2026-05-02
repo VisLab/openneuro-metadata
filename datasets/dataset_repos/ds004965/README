@@ -1,0 +1,82 @@
+
+## Details related to access to the data
+
+No data user agreement
+
+- Contact person
+
+Corinna Perchtold-Stefan, corinna.perchtold@uni-graz.at, ORCID: https://orcid.org/0000-0002-8334-0574
+Christian Rominger, christian.rominger@uni-graz.at, ORCID: https://orcid.org/0000-0003-3195-4555
+
+## Overview
+
+Project name: Horror as creative emotion regulation – Can true crime consumption help boost adaptive coping with fear and stress?
+Years: 01.01.2023 to 31.05.2024
+Funding: Country of Styria, 2022 Call “Unconventional Science”, P11928
+Ethics vote: University of Graz, Austria, GZ. 39/4/63 ex 2022/23
+
+Relevant behavioral data are available at https://osf.io/phx9d/.
+
+
+- [ ] Brief overview of the tasks in the experiment
+
+The neuroscience data is part of a larger research project on the psychology and neuroscience of people’s interest in true crime – the narration of real-life crime stories in various media (books, podcasts, movies, TV, news). The main goal of the project is to provide a first, in-depth investigations of cognitive, affective, social, and brain correlates of true crime consumption with a particular focus on motives, traits, and perceptions of true crime consumers as well as potential consequences of true crime consumption with regard to well-being and mental health. 
+Additionally, this study is used as an overarching investigations of aspects influencing behavior and well-being in daily life, including measures of creativity, emotion regulation, the experience of meaningful coincidences, curiosity, also with regard to potential interindividual differences regarding gender, age, or socioeconomic background.
+
+
+- [ ] Contents of the dataset
+
+- [ ] Variables
+
+All questionnaires were administered in German.
+	Demographic data (gender, age, education, income, relationship status, living area, psychiatric/neurological diagnosis)
+	True crime consumption and motivations (McDonald et al., 2021)
+	Morbid curiosity (Scrivner, 2021)
+	Big-5 personality (Rammstedt et al., 2013)
+	Dark triad (Malesza et al., 2019)
+	Depressive symptoms (Hautzinger & Bailer, 1993)
+	Trait anxiety (Spielberger, 2001)
+	Perceived stress (Klein et al., 2016)
+	Resilience (Chmitorz et al., 2018)
+	Worry and Paranoid Worry (Freeman et al., 2019)
+	Aggression (Bryant & Smith, 2001)
+	Meaningful coincidences (Bressan, 2002)
+	Likelihood of victimization (Kerestly, 2021)
+	Media preferences (Scrivner, 2021)
+	Cognitive emotion regulation (Loch et al., 2011)
+	Cognitive reappraisal capacity (Weber et al., 2014)
+	Malevolent creativity (Perchtold-Stefan et al., 2021)
+
+(see https://osf.io/phx9d/)
+
+
+## Methods
+
+### Subjects
+
+N = 133 for MRI
+
+Participants were recruited on university campus, through advertisements via press reports, social media, and mailing lists. Participants were recruited for a larger study in true crime consumption, and could in the context of this study also take part in the MRI scan. 
+The only exclusion criteria for study participation was previous experience with the performance tasks (cognitive reappraisal capacity, malevolent creativity).
+
+### Task organization
+
+No tasks during MRI – only structural scan sand resting-state scans
+Tasks outside of MRI: Brief online assessment (~ 10 min), in person behavioral testing at the University (~ 2 hours)
+
+
+### Additional data acquired
+
+See above
+
+### Experimental location
+
+University of Graz, Austria, and Technical University of Graz, Austria
+
+### Missing data
+
+Since this study was realized in multiple parts, not all data is available from all participants.
+In total, MRI scans of n = 133 participants were acquired
+From these participants, data from n = 2 participants had to be removed to due data quality and no behavioral and questionnaire data.
+Data of n = 101 participants is available for extended demographic data, Big-5 personality, dark triad, worry and paranoid worry, meaningful coincidences, likelihood of victimization, media preferences, and cognitive emotion regulation
+

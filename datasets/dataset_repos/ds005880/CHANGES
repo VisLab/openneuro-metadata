@@ -1,0 +1,8 @@
+1.0.3 2025-10-31
+  - This version includes key updates to enhance subject privacy and computational reproducibility by adding analysis code.  (1) Structural Image Anonymization (Defacing)  All T1-weighted structural images have been processed using pydeface to remove facial features and protect subject identity.  The processing ensures continued BIDS compliance; file naming and structure remain unchanged.  (2) Addition of First-Level and Second-Level FIR Analysis Code  A new top-level code/ directory has been added to the dataset.  This directory contains the necessary scripts for performing both the first-level (1st-level) fMRI statistical analysis (based on the Finite Impulse Response, FIR, model) and the second-level (2nd-level) group statistic analysis.  The analysis scripts are primarily written in MATLAB and R.
+1.0.2 2025-08-07
+  - Added 18 audio stimulus files to the /stimuli/ folder. Included README.txt in /stimuli/ to describe the audio structure.
+1.0.1 2025-01-25
+  - Update README and Ethics Approvals
+1.0.0 2025-01-25
+  - Updated dataset license from CC-BY-4.0 to CC0 as required by OpenNeuro platform policy.

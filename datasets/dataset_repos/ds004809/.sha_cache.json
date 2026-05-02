@@ -1,0 +1,9 @@
+{
+  "CHANGES": "892c3fc30288bd090fdeb98e8dd89d6f6d3b94a9",
+  "participants.tsv": "473202664fe3f90cf5fb00f2625e49dc983e525b",
+  "README": "089390179f4cb5ee7417fe12157a2e3cddd78b31",
+  "dataset_description.json": "14a9bc3539f153475625451c0b7effe898ba0bb7",
+  "participants.json": "0534fd9a96490c78bb5a0f30c2ebf9e20133a486",
+  "sub-R1004D/ses-0/ieeg/sub-R1004D_ses-0_task-catFR1_events.json": "ef5d26c11385218a3f226c981ed310c58bfada5e",
+  "sub-R1004D/ses-0/ieeg/sub-R1004D_ses-0_task-catFR1_events.tsv": "21e944540353f55c7b63c05161b281ddd3975c09"
+}

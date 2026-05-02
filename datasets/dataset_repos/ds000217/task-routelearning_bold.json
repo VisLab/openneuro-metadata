@@ -1,0 +1,16 @@
+{
+	"TaskName": "route learning",
+ 	"Manufacturer": "Siemens",
+	"ManufacturerModelName": "Allegra",
+	"MagneticFieldStrength": "3T",
+	"RepetitionTime": 1.5,
+	"EchoTime": 0.023,
+	"FlipAngle": 77,
+        "PhaseEncodingDirection": "j",
+        "SliceEncodingDirection": "k",
+	"SliceTiming": [0.8077, 0.0577, 0.8653, 0.1154, 0.9230, 0.1731, 0.9807, 0.2308, 1.0384, 0.2884, 1.0961, 0.3461, 1.1538, 0.4038, 1.2115, 0.4615, 1.2692, 0.5192, 1.3269, 0.5769, 1.3846, 0.6346, 1.4423, 0.6923, 1.4999, 0.7500],
+	"EffectiveEchoSpacing": 0.00040,
+	"Instructions": "Participants were instructed to learn to predict the destination of each route and how to get there.",
+	"TaskDescription": "On route learning trials participants passively viewed the routes. Within each run there were two catch trials during which the route would stop at a predetermined picture number and participants would be asked either to select the destination of the route (Destination Trials) or the next turn in the route (Direction Trials). These trials were dropped from all analyses. Each experiment contained two sets of routes that were counterbalances across subjects. The route group each participants was in can be found in the participants file. In Experiment 1 routes were divided into overlapping pairs (route-group 1: routes 1/2 and 3/4 or route-group 2: 5/6 and 7/8) and non-overlapping routes (route-group 1: routes 1/3, 1/4, 2/3, and 2,4 or route-group 2: 5/7, 5/8, 6/7, and 6/8). Experiment 2 also contained route pairs that were non-overlapping but ended in the same destination. In this experiment overlapping pairs were the same as Experiment 1 (route-group 3: routes 1/2 and 3/4 or route-group 4: 5/6 and 7/8), non-overlapping pairs were (route-group 3 : 1/4 and 2/3 or route-group 2: 5/8 and 6/7) and the same-destination routes were (route-group 3 : 1/3 and 2/4 or route-group 2: 5/7 and 6/8)",
+	"CogAtlasID": "http://www.cognitiveatlas.org/task/id/trm_58ab8a6131c5a"
+}

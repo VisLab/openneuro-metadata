@@ -1,0 +1,12 @@
+{
+    "Name": "China’s Social Fake News database release with brain structural, functional, and behavioural measures",
+    "BIDSVersion": "1.4.0",
+    "License": "CC0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Wanting Chen",
+        "Jia Shi",
+        "Qinghua He"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005875.v1.0.2"
+}

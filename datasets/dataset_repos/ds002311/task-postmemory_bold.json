@@ -1,0 +1,8 @@
+{
+"TaskName":"Post-MOT memory test",
+"RepetitionTime":1,
+"FlipAngle":71,
+"MagneticFieldStrength":3,
+"InPlanePhaseEncodingDirectionDICOM":"ROW",
+"ConversionSoftware":"dcm2niix"
+	}

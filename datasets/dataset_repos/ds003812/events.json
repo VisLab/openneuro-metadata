@@ -1,0 +1,15 @@
+{
+    "stim_file_index": {
+        "LongName": "Stimulus file index",
+        "Description": "Index (zero-indexed) of the presented stimulus in the corresponding stim_file.",
+        "DataType": "integer"
+    },
+    "note": {
+        "LongName": "Stimulus note",
+        "Description": "Space for extra info, this is used to identify those stimuli that correspond to blank trials (used when constructing GLMdenoise design matrix)",
+        "Levels": {
+            "n/a": "This was a regular stimulus",
+            "blank trial": "This was a blank stimulus (i.e., just a midgray screen)"
+        }
+    }
+}

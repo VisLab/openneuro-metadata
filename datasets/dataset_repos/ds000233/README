@@ -1,0 +1,4 @@
+Source data (sourcedata/) may contain sensitive information and therefore not distributed publicly. The 40 video clip stimuli (MPEG-4 files) are distributed alongside the data in keeping with fair use provisions for non-commercial scholarly research (see stimuli/README.md for more information).
+
+Note that in constructing the trial order for one run (sub-rid0000*_task-beh_run-1_bold.nii.gz) an unintended collision occurred where a behavior repetition event interrupted a taxonomic repetition event. This means that one less taxonomic category repetition occurred in this run (3 in stead of 4), and the stimulus bird_eating_1.mp4 occurred 3 times instead of the intended 2 times in this run.
+

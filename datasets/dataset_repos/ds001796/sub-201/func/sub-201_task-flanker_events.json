@@ -1,0 +1,18 @@
+{
+	
+ 	"onset": {
+	"Description":"stimulus onset (seconds)"
+	},
+	"duration": {
+	"Description":"trial duration (seconds)"
+	},
+	"trial_type": {
+	"Description": "condition in flanker task"
+	},	
+	"response_time": {
+	"Description":"participant reaction time (seconds)"
+	},
+	"accuracy": {
+	"Description":"accuracy on trial: 1 if correct was given, 0 if incorrect response given"	
+	}
+}

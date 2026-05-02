@@ -1,0 +1,23 @@
+{
+    "Name": "Comprehensive methodology for sample enrichment in EEG biomarker studies for Alzheimer’s risk classification",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Verónica Henao Isaza",
+        "Carlos Andrés Tobón Quintero",
+        "John Fredy Ochoa Gómez"
+    ],
+    "Acknowledgements": "We thank all participants and staff involved in data collection.",
+    "HowToAcknowledge": "Please cite: Henao Isaza V, et al. Comprehensive methodology for sample enrichment in EEG biomarker studies for Alzheimer’s risk classification.",
+    "Funding": [
+        "Comité para el Desarrollo de la Investigación - CODI, Universidad de Antioquia"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1371/journal.pone.0343722"
+    ],
+    "EthicsApprovals": [
+        "Approval by Universidad de Antioquia Ethics Committee"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007427.v1.0.1"
+}

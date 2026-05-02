@@ -1,0 +1,50 @@
+{
+    "trial_type": {
+        "Description": "Type of task event",
+        "Levels": {
+            "postlearning": "Postlearning snapshot: each B scene is shown once in a random order"
+        }
+    },
+    "condition": {
+        "Description": "Task condition",
+        "Levels": {
+            "nonviolation": "A followed by B is never violated",
+            "violation": "A followed by B is violated"
+        }
+    },
+    "pairmate": {
+        "Description": "A or B item within a pairmate",
+        "Levels": {
+            "B": "Second item in a pairmate; only B scenes shown in postscenes run"
+        }
+    },
+    "category": {
+        "Description": "Main category of the stimulus",
+        "Levels": {
+            "scene": "A scene image is displayed"
+        }
+    },
+    "subcategory": {
+        "Description": "The subcategory of the event",
+        "Levels": {
+            "indoor": "An indoor scene is displayed",
+            "outdoor": "An outdoor scene is displayed"
+        }
+    },
+    "response_accuracy": {
+        "Description": "A participant's response is scored for accuracy. If no response was made, the value is NaN",
+        "Levels": {
+            "0": "Incorrect response",
+            "1": "Correct response"
+        }
+    },
+    "response_time": {
+        "Description": "Reaction time. Time in seconds for participant to make a response since stimulus onset"
+    },
+    "repetition": {
+        "Description": "This trial is the nth time this image was shown across both sessions 1 and 2"
+    },
+    "pairID": {
+        "Description": "Pairmate number assigned to the A-B pairing for this participant"
+    }
+}

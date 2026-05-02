@@ -1,0 +1,27 @@
+{
+   "event": {
+       "type": "object",
+       "Description": "number of the current event"
+       
+   },
+   "trial": {
+       "type": "object",
+       "Description": "number of the current trial"
+   },
+   "picture ID": {
+       "type": "object",
+       "Description": "ID of the image"
+   },
+   "jitter": {
+       "type": "object",
+       "Description": "intervals in millisecond"
+   },
+   "time from script start": {
+       "type": "object",
+       "Description": "time in millisecond from the beginning of the run"
+       },
+   "StimulusPresentation": {
+           "OperatingSystem": "Windows",
+           "SoftwareName": "PsychoPy"
+       }
+}

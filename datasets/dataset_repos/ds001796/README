@@ -1,0 +1,5 @@
+Dataset title: "Bilingualism and the brain".
+Dataset used for examining neurological effects of different individual language differences in bilingual adults. 
+
+Dataset contains structural, diffusion, and resting state functional scans, functional scans accompanying a Flanker task, and a series of demographic measures. NB- additional diffusion (reverse phase-encoded) scans are located in the /Bidsignore directory, which can be used in preprocessing. RT analyses for the Flanker task, additional timing files for the Flanker task, and additional participant demographic information can also be found in /Bidsignore directory.
+

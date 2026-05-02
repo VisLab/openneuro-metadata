@@ -1,0 +1,20 @@
+{
+    "onset": {
+        "LongName": "",
+        "Description": "Onset of the sentence generation picture or REPORT stimulus. There is one picture per block. Participants silently generate a sentence to describe the picture, then when REPORT is presented they overtly report the sentence.",
+        "Units": "seconds"
+    },
+    "duration": {
+        "LongName": "",
+        "Description": "Duration of the sentence generation or report phase",
+        "Units": "seconds"
+    },
+    "type": {
+        "LongName": "",
+        "Description": "Trial type",
+        "Levels": {
+            "gen": "covert sentence generation",
+            "report": "overt sentence reporting"
+        }
+    }
+}

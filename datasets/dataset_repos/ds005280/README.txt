@@ -1,0 +1,6 @@
+1.Study introduction:
+In this experiment, participants received fixed-intensity pain stimuli at 3J / 3.5J (low pain) and 3.5J / 4J (high pain). Each participant underwent stimulation in 3 blocks, with each block comprising 10 stimuli, totaling 30 stimuli. High and low pain stimuli were evenly distributed within each block. After each stimulation, participants provided pain ratings individually. Pain ratings were as follows: 0 indicated no sensation at all, 4 indicated the onset of pain, 6 represented moderate pain, 8 indicated severe pain, and 10 denoted unbearable pain.
+2.Participant task information(description of the experiment): 
+Participants received laser stimulation and subsequently provided pain intensity ratings one by one.
+3.Participant instructions(as exact as possible):
+Participants were instructed to focus on the laser stimulation, keep their eyes open, and fix their gaze on the crosshairs displayed on the screen.  After each laser stimulation, there is a five-second pause.  Participants then rated the intensity of the pain.  Subsequent trials began at random 5 seconds after the score was provided.

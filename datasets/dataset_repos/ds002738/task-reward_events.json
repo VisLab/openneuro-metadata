@@ -1,0 +1,60 @@
+{
+    "stim": {
+	    "LongName": "",
+  	  "Description": "Stimulus number",
+    	"Units": "Numerical: stimulus number assigned to condition, 1-16"
+    },
+    "response": {
+	    "LongName": "Key response",
+  	  "Description": "Key response: yes (up arrow), no (down arror)",
+    	"Levels": {
+    		"1": "Key 1 (up arrow)",
+	    	"2": "Key 2 (down arrow)"
+    	}
+    },
+    "correct": {
+	    "LongName": "Correct response",
+  	  "Description": "",
+    	"Levels": {
+    		"0": "Incorrect",
+	    	"1": "Correct"
+    	}
+    },
+    "spaced": {
+	    "LongName": "Spaced- or massed-trained stimulus ",
+  	  "Description": "Spaced-trained stimuli (1), massed-trained stimuli (0)",
+    	"Levels": {
+    		"0": "Massed",
+	    	"1": "Spaced"
+    	}
+    },
+    "stimulus_value": {
+	    "LongName": "Stimulus value",
+  	  "Description": "Assigned value of stimulus",
+    	"Levels": {
+    		"0": "Loss",
+    		"1": "Medium reward",
+	    	"2": "High reward"
+    	}
+    },
+    "feedback": {
+	    "LongName": "Feedback",
+  	  "Description": "On-screen probabilistic feedback category",
+    	"Levels": {
+    		"-1": "No response",
+    		"0": "Loss",
+    		"1": "Medium reward",
+	    	"2": "High reward"
+    	}
+    },
+    "reward": {
+	    "LongName": "On-screen reward displayed",
+  	  "Description": "",
+    	"Units": "Numerical: reward value +- random 0.05; misses = -0.50, in USD"
+    },
+    "query_onset": {
+	    "LongName": "Query onset in XSS block",
+  	  "Description": "Delay from trial onset to occasional stimulus value query in cross-stimulus repetition-suppression block",
+    	"Units": "seconds"
+    }
+}

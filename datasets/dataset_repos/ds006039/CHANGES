@@ -1,0 +1,6 @@
+1.0.2 2025-04-11
+  - Add  FFA data, add study phase onsets for trials without a response
+1.0.1 2025-03-27
+  - Fix data from one participant
+1.0.0 2025-03-27
+  - Add dataset and metadata

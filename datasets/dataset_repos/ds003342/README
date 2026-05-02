@@ -1,0 +1,45 @@
+How to Acknowledge
+=======================
+Please cite:
+Knights, E., Mansfield, C., Tonin, D., Saada, J., Smith, F., & Rossit, S. (2020). Hand-selective visual regions represent how to grasp 3D tools for use: brain decoding during real actions. bioRxiv. doi: 10.1101/2020.10.14.339606
+
+Dataset Description
+========================
+This dataset accompanies work reported in https://www.biorxiv.org/content/10.1101/2020.10.14.339606v1, consisting of structural/functional MRI acquisitions for 19 participants during independent real action and visual localiser sessions.
+
+The /derivates directory contains Region of Interest (ROI) definitions in BrainVoyager compatible .voi files.
+
+OSF Materials
+=======================
+For stimulus models of 3D-printable object (.stl): https://osf.io/r5x8a/
+For localiser picture stimuli please see Stefania Bracci et al.'s repository: https://osf.io/98rxh/
+For ROI Decoding Accuracies: https://osf.io/r5x8a/
+
+Code Repositories
+=======================
+Stimulation code for the action experiment: https://osf.io/r5x8a/
+Stimulation code for the localiser experiment: https://osf.io/r5x8a/
+Analysis code for ROI Multivoxel Pattern Analysis (MVPA): https://osf.io/r5x8a/
+Analysis code for Searchlight MVPA: https://osf.io/r5x8a/
+BIDS conversion code: https://github.com/ethanknights/BIDSConvert_HandSelectiveCortex
+
+Run Exclusion
+=====================
+Due to participant errors that were identified during offline video screening, these 2 runs should be excluded from analysis:
+- sub-DT12_ses-action_task-grasp_run1.nii.gz (Hand errors throughout)
+- sub-KH02_ses-action_task-grasp_run1.nii.gz (Eye errors throughout)
+
+Inconsistent Parameters
+=======================
+Slightly different aquisition parameters were used for the following participants: 
+- sub-ST28_ses-action_task-grasp_run1.nii.gz contains 2 extra volumes (6300 vs. standard 6230) meaning the final 70 volumes (2*35 slices) should be discarded.
+- sub-DT12_ses-localiser_task-localiser_run*.nii.gz 
+
+BIDS Conversion
+=======================
+Converted with dcm2bids 0.4.0.1 (fork at https://github.com/jooh/Dcm2Bids)
+
+Contact
+=======================
+Corresponding author: Stephanie Rossit; https://www.stephanierossit.com/contact
+Additional contact: Ethan Knights; http://www.mrc-cbu.cam.ac.uk/people/Ethan.Knights/

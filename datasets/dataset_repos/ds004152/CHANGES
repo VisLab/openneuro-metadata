@@ -1,0 +1,8 @@
+1.1.2 2022-09-07
+  - Added timing info and triggers to README.
+1.1.1 2022-09-07
+  - Added excluded participant (sub-12) for completness.
+1.1.0 2022-06-17
+  - Added trigger value to beh file.
+1.0.0 2022-06-14
+  - Initial release

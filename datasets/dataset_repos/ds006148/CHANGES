@@ -1,0 +1,14 @@
+1.0.6 2026-03-13
+  - add subjects age group, sex, amyloid status and tau pattern to QNLD_cognitive_scores_logfile
+1.0.5 2026-02-23
+  - add DUA and cognitive scores
+1.0.4 2025-06-05
+  - add rfmri derivatives
+1.0.3 2025-05-07
+  - create derivative folder
+1.0.2 2025-04-24
+  - not sure what changed, but update it anyway
+1.0.1 2025-04-24
+  - update data_description.json
+1.0.0 2025-04-23
+  - add subjects

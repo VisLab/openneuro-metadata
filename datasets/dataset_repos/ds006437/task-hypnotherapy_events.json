@@ -1,0 +1,23 @@
+{
+  "onset": {
+    "Description": "Hypnotherapy Phase Transitions",
+    "Units": "no units"
+  },
+  "trial_type": {
+    "LongName": "Hypnotherapy Phase Transition",
+    "Description": "Type of Phase Transition",
+    "Levels": {
+      "I_pressed": "Induction - Relaxation",
+      "P_pressed": "Imagining a perfect place - Safe haven",
+      "D_pressed": "Descend Stairs - Going deeper",
+      "S_pressed": "Sit in Chair - Settling In",
+      "C_pressed": "Crown Appears - Self-empowerment symbolism",
+      "L_pressed": "Light Appears - Light and color visualization",
+      "R_pressed": "Arc of Lights Appears - Directing light into the body",
+      "N_pressed": "Neural Pathways / Encouraging new neural nathways",
+      "B_pressed": "Bookmark Feeling / Setting bookmarks for crucial breakthroughs",
+      "A_pressed": "Ascend Stairs / Returning to wakefulness",
+      "F_pressed": "Finish Hypnotherapy / Closure"
+    }
+  }
+}

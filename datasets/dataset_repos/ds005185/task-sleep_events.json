@@ -1,0 +1,39 @@
+{
+    "onset": {
+        "description": "Beginning of each epoch",
+        "units": "Seconds"
+    },
+    "duration": {
+        "description": "Duration  of each epoch",
+        "units": "Seconds"
+    },
+    "Scoring1": {
+        "description": "Manual sleep scoring by scorer 1",
+        "levels": {
+            "s1": "Wake",
+            "s2": "REM",
+            "s3": "N1",
+            "s4": "N2",
+            "s5": "N3",
+            "s6": "A",
+            "s7": "Artefact",
+            "s8": "Unscored"
+        }
+    },
+    "Scoring2": {
+        "description": "Manual sleep scoring by scorer 2",
+        "levels": {
+            "s1": "Wake",
+            "s2": "REM",
+            "s3": "N1",
+            "s4": "N2",
+            "s5": "N3",
+            "s6": "A",
+            "s7": "Artefact",
+            "s8": "Unscored"
+        }
+    },
+    "Has_Arousal": {
+        "description": "Manual scoringg of arousals, by scorer 2"
+    }
+}

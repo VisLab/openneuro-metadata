@@ -1,0 +1,10 @@
+{
+  "task-tectonic_events.json": "7945d21c87a56c21b73a7aa6ee8c4a2252fe56ba",
+  "behaviouralData.csv": "f8921b11b1ee6dc7507ec178eaefccac1e5520c4",
+  "CHANGES": "a149701d0d5e29593cbac832b76e467aa2c79f30",
+  "README": "bed128677798325438b5c20ce13868991880ccf9",
+  "participants.json": "9c937c4f35ba4946cee194e48850d5b5a4212a39",
+  "dataset_description.json": "147238d33b3048b0edb2e06400ab8407cd0794bb",
+  "participants.tsv": "f387044fb01bcfe7e21184648a4c0cf16e3ca4fe",
+  "sub-01/eeg/sub-01_task-tectonic_events.tsv": "7433304263339cf3f55702f0d40f5857573b02c7"
+}

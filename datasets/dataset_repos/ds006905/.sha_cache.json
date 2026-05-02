@@ -1,0 +1,14 @@
+{
+  "CHANGES": "a6b4665ffc62245293e66afdb432e334887653e3",
+  "task-films_acq-normal_bold.json": "01935df33d961b6f68c0145fb1115bd1274fbe62",
+  "dataset_description.json": "4c80c9201410224957c1660f24cd52b05de986c7",
+  "task-fix_acq-normal_bold.json": "775ad364c555d73cc43cc8f365ffeddd08b3b811",
+  "participants.tsv": "2d283d1575167596ba78637a095bab9d647af091",
+  "task-inscapes_acq-normal_bold.json": "00433c1981bef264b893e7eb6df82cac4f942eb9",
+  "README": "8ae7c54805a5ddd33b131bd1ea5e268a735e5c89",
+  "sub-678101/ses-pre/func/sub-678101_ses-pre_task-fix_acq-normal_run-01_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-678101/ses-pre/func/sub-678101_ses-pre_task-films_acq-normal_run-01_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-678101/ses-post/func/sub-678101_ses-post_task-fix_acq-normal_run-01_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-678101/ses-post/func/sub-678101_ses-post_task-inscapes_acq-normal_run-01_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-678101/ses-post/func/sub-678101_ses-post_task-films_acq-normal_run-01_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5"
+}

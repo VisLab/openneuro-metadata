@@ -1,0 +1,11 @@
+{
+    "Name": "TimeSeries BIDS converted",
+    "BIDSVersion": "1.7.0",
+    "Authors": [
+        "Niu，Haijing",
+        "Zheng, Sha",
+        "Yuan, Haodong"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007477.v1.0.1",
+    "License": "CC0"
+}

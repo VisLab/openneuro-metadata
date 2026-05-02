@@ -1,0 +1,5 @@
+Data relating "Alpha/beta power decreases track the fidelity of stimulus-specific information"
+
+In this dataset, the raw MRI files can be found in the root directory, and the preprocessed EEG data can be found in the /sourcedata/ subdirectory.
+
+Due to issues with anonymity, the structrual MRIs have been defaced using SPM 12, and the Nifti files have been recreated without any identifying data. We do not think this will cause any major effects on the ability to use this dataset, but if issues do arise, please contact Benjamin Griffiths at benjamin.griffiths.psy[at]gmail.com

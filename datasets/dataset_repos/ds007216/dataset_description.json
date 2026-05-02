@@ -1,0 +1,34 @@
+{
+    "Name": "A multi-session simultaneous EEG-fMRI dataset with online experience sampling",
+    "BIDSVersion": "1.7.0",
+    "Authors": [
+        "Aaron Kucyi",
+        "Lotus Shareef-Trudeau",
+        "David Braun",
+        "Huiling Peng",
+        "Tiara Bounyarith",
+        "Janet Z. Li"
+    ],
+    "Description": "This dataset includes simulatenous EEG&fMRI and behavioral data collected form participants performing a sustained attention task and a resting state task with intermittent online multi-dimensional experience sampling.",
+    "Subjects": "24 healthy adults (64% female), ages 18-35 years (mean age: 21.17 years), all of whom were right-handed.",
+    "Data_Types": [
+        "EEG",
+        "fMRI",
+        "Behavioral"
+    ],
+    "Funding": [
+        "The National Institute of Mental Health (R21MH127384)"
+    ],
+    "Acknowledgements": "The authors thank Mike Esterman for providing the codes for the GradCPT task. We thank Julia Kam for providing guidance on creating a multi-dimensional experience sampling paradigm.",
+    "Ethics_Approvals": "The study protocol was approved by the Drexel University Institutional Review Board. Written informed consent was obtained from each participant. All structural MRI images were defaced for privacy.",
+    "Source_Dataset": [
+        {
+            "URL_NDA": "[URL]",
+            "DOI_NDA": "[DOI]",
+            "URL_Openneuro": "[URL]",
+            "DOI_Openneuro": "[DOI]"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007216.v1.0.0",
+    "License": "CC0"
+}

@@ -1,0 +1,13 @@
+These task-associated and resting state fMRI data have been published in:
+	
+Herrera, A. Y., Velasco, R., Faude, S., White, J. D., Opitz, P. C., Huang, R., Tu, K., & Mather, M. (2020). Brain activity during a post-stress working memory task differs between the hormone-present and hormone-absent phase of hormonal contraception. Neurobiology of Stress, 13, 100248.
+	
+Nasseri, P., Herrera, A. Y., Gillette, K., Faude, S., White, J. D., Velasco, R., & Mather, M. (2020). Hormonal contraceptive phases matter: Resting-state functional connectivity of emotion-processing regions under stress. Neurobiology of Stress, 13, 100276.
+	
+Demographic and behavioral data can be found at https://osf.io/b3znw/?view_only=c30f4b45a7a544e782c22188026c11db
+	
+There are folders for each participant with their subject number (e.g., “sub-170”). Each participant folder contains one folder each for the hormone-present and hormone-absent phases. Within each phase folder there are 3 folders:
+	
+1) anat - includes a T1 structural scan.
+2) func - all nback-related BOLD scans are included in this folder with event timings indicated in .tsv files. Please see paper for more details.
+3) perf - resting state arterial spin labeling scans are included in this folder.

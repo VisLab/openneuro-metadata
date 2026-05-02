@@ -1,0 +1,7 @@
+The SUDMEX_TMS dataset is the result of a longitudinal clinical trial of cocaine use disorder patients that were treated with rTMS at 5-Hz on the left dorsolateral prefrontal cortex (lDLPFC) for a 2 week double-blind acute phase and an open-label maintenance phase that included clinical, cognitive and MRI data acquisition. The design was a double-blind placebo-controlled randomized controlled trial with parallel groups (acute phase). The study was done at the National Institute of Psychiatry in Mexico City by PIs Dr. Eduardo A. Garza-Villarreal and Dr. Ruth Alcala-Lozano. 
+
+Each patient had more than one clinical and MRI session or time point from baseline (T0), 2 weeks (T1), 3 months (T2), 6 months (T3) and some patients had 12 months (T4). The T14 time point was only for patients in the Sham group who decided to continue the clinical trial with open-label rTMS. The T14 refers to 2 weeks after T1 (4 weeks after T0).
+
+The MRI sequences were: 1) T1-weighted, 2) rsfMRI 10 min, 3) HARDI-DWI multishell (next release).
+
+Full clinical data will be uploaded to Zenodo soon. This is the first official release.

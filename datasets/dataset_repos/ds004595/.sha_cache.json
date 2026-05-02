@@ -1,0 +1,9 @@
+{
+  "CHANGES": "ef2d1574f4b47c20d0200490736aa00458621c45",
+  "participants.json": "c8209b0b4eb46aca1751b294f55b71073d170a08",
+  "README": "e86981d79c604ffd6250173ef8c021ed73da46dd",
+  "participants.tsv": "115f0058c0217d8be3382e23fc45a4134dfc6ceb",
+  "dataset_description.json": "041bb5b6177c4716e63f1f6403ab71742e7384df",
+  "sub-001/eeg/sub-001_task-ThreeArmedBandit_events.json": "c6523a06649947c5b96a6e3438d6a0cb5b4bde37",
+  "sub-001/eeg/sub-001_task-ThreeArmedBandit_events.tsv": "e7267f20086f3274abf42c701c1ce43d549496e8"
+}

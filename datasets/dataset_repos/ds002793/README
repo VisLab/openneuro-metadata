@@ -1,0 +1,11 @@
+## Overview
+Runs that were dropped due to excessive head motion:
+sub-13 run 5
+sub-23 run 1
+sub-25 run 8
+
+No ToM localizer:
+sub-06
+
+## Defacing
+Structural images were defaced using pydeface [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3524401.svg)](https://doi.org/10.5281/zenodo.3524401)

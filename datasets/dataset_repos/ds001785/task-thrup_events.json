@@ -1,0 +1,35 @@
+{
+  "event_value": {
+    "LongName": "EventValue",
+    "Units": "n/a"
+  }, 
+  "event_sample": {
+    "LongName": "EventSample",
+    "Units": "sample"
+  }, 
+  "response_time2": {
+    "LongName": "Response time for confidence rating",
+    "Units": "seconds"
+  }, 
+  "stimamp": {
+    "LongName": "Amplitude of the vibrotactile stimulation",
+    "Units": "n/a"
+  }, 
+  "stimon": {
+    "LongName": "Latency of the vibrotactile stimulation wrt trial start",
+    "Units": "second"
+  }, 
+  "sdt": {
+    "oLngName": "Signal detection theory",
+    "Levels": {
+      "hit": "hit",
+      "miss": "miss",
+      "cr": "correct rejection",
+      "fa": "false alarm"
+    }
+  },
+  "confidence": {
+    "LongName": "Confidence rating",
+    "Units": "%"
+  }
+}

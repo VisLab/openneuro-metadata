@@ -1,0 +1,17 @@
+2.0.0	2018-04-09
+
+	- Renamed dataset name to same as OpenfMRI
+
+1.0.0	2018-04-09
+
+	- Initial publish
+
+Revision history for OpenfMRI dataset ds000213
+1.0.2 2017-09-20
+
+ - Added mriqc result
+ - corrected funding field in dataset_description to string
+
+1.0.0 2017-02-02
+
+ - Inital release

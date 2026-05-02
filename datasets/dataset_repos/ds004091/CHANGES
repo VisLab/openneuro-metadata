@@ -1,0 +1,20 @@
+2.1.0 2025-10-15
+  - Correct deface
+2.0.0 2024-03-19
+  - final dataset
+1.3.1 2024-03-19
+  - change in sub-008
+1.3.0 2024-03-19
+  - add derivatives
+1.2.3 2024-03-19
+  - update derivatives
+1.2.2 2022-08-10
+  - update derivatives
+1.2.1 2022-08-04
+  - Some changes
+1.2.0 2022-04-12
+  - add masks nifti
+1.1.0 2022-04-07
+  - pp_data
+1.0.0 2022-04-05
+  - Data + behavior

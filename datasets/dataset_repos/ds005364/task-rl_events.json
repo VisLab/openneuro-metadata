@@ -1,0 +1,86 @@
+{
+  "onset": {
+    "Description": "onset of the stimuli",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "duration of the code",
+    "Units": "miliseconds"
+  },
+  "value": {
+    "Description": "Code of the stimulus type {10,30,31}",
+    "Levels": {
+      "s_10": "Presentation of the  options",
+      "s_31": "Feedback: positive or win",
+      "s_30": "Feedback: negative or no win"
+    }
+  },
+  "responce": {
+    "Description": "responce or participnat's selection {0,1} ",
+    "Levels": {
+      "s__1": "left option",
+      "s__2": "right option"
+    }
+  },
+  "rt": {
+    "Description": "reaction time for s_10 only ",
+    "Units": "miliseconds"
+  },
+  "good": {
+    "Description": "trials correctly presented on the screen {0,1}",
+    "Levels": {
+      "v_1": "correctly presented ",
+      "v_0": "non correctly presented "
+    }
+  },
+  "Bd1": {
+    "Description": "reward magnityd for option 1 [2 8] ",
+    "Units": "Proportion"
+  },
+  "Bd2": {
+    "Description": "reward magnityd for option 2 [2 8] ",
+    "Units": "Proportion"
+  },
+  "F": {
+    "Description": "Feedback  [0 1] ",
+    "Levels": {
+      "v_1": "win",
+      "v_0": "no win"
+    }
+  },
+  "Resp": {
+    "Description": "Decision [1 2] ",
+    "Levels": {
+      "v_1": "left option",
+      "v_2": "right option"
+    }
+  },
+  "nt": {
+    "Description": "round or trial number ",
+    "Units": "count"
+  },
+  "prob": {
+    "Description": "probability option 1 [option 2  = 1-option 1 ] ",
+    "Units": "Proportion"
+  },
+  "ttF": {
+    "Description": "task-time of the feedback presentation] ",
+    "Units": "submilisecond"
+  },
+  "ttp": {
+    "Description": "task-time of the options presentation] ",
+    "Units": "submilisecond"
+  },
+  "ttr": {
+    "Description": "task-time of the participant responce] ",
+    "Units": "submilisecond"
+  },
+  "delta": {
+    "Description": "in the eeg sessions, indicate de discrepancy between the time in the computer of stimuli presentation and the reading of the code in the eeg recording computer",
+    "Units": "miliseconds"
+  },
+  "fixed": {
+    "Description": "in the eeg sessions, a dummy variable [0 1] indicating that the stimuli code was lost in the eeg recording but was recovery from the coputer of the stimuli presentation",
+    "Units": "dummy"
+  }
+}

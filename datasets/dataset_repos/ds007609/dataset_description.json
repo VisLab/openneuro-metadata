@@ -1,0 +1,30 @@
+{
+    "Name": "Resting-State EEG and Trait Anxiety",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Tamari Shalamberidze",
+        "Kyle Nash",
+        "Jeremy B. Caplan"
+    ],
+    "HowToAcknowledge": "Please cite: Shalamberidze, T., Nash, K., & Caplan, J.B. (2025). Resting-state EEG and trait anxiety.",
+    "Funding": [
+        "Social Sciences and Humanities Research Council of Canada (SSHRC)",
+        "Natural Sciences and Engineering Research Council of Canada (NSERC)"
+    ],
+    "EthicsApprovals": [
+        "University of Alberta Research Ethics Board, Project: Physiological Bases of Human Memory, No. Pro00113334"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1162/IMAG.a.44"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007609.v1.0.0",
+    "SourceDatasets": [],
+    "GeneratedBy": [
+        {
+            "Name": "Custom MATLAB scripts",
+            "Description": "BIDS conversion scripts in code/ directory"
+        }
+    ]
+}

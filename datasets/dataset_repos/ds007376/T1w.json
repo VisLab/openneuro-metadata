@@ -1,0 +1,8 @@
+{
+    "AcquisitionMatrixPE": 256,
+    "FrequencyEncodingSteps": 192,
+    "Manufacturer": "Siemens",
+    "MagneticFieldStrength": 7,
+    "BodyPart": "BRAIN",
+    "SliceThickness": 1
+}

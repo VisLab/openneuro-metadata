@@ -1,0 +1,38 @@
+{
+	"decisionPhaseOnset": {
+		"Description": "Time of the decision phase onset at which participants can render their decision. After onset but before this time, they could only see the options but not choose."
+	},
+	"buttonPressTime": {
+		"Description": "Time at which the decision of the participant was received."
+	},
+	"resultOnset": {
+		"Description": "Time at which the option chosen by the participant is highlighted on screen."
+	},
+	"isTaskDeception": {
+		"Description": "1 if the current run is a deception task, 0 if it is not."
+	},
+	"trial": {
+		"Description": "Trial number."
+	},
+	"payout_A_own": {
+		"Description": "Monetary payout of dollar amount to the participant if option A is chosen."
+	},
+	"payout_A_other": {
+		"Description": "Monetary payout of dollar amount to the counterpart if option A is chosen."
+	},
+	"payout_B_own": {
+		"Description": "Monetary payout of dollar amount to the participant if option B is chosen."
+	},
+	"payout_B_other": {
+		"Description": "Monetary payout of dollar amount to the counterpart if option B is chosen."
+	},
+	"choice": {
+		"Description": "1 if the participant chose option A, 2 if they chose B."
+	},
+	"isChoiceSelfish": {
+		"Description": "1 if the participant chose the option that offers more money to themselves. In the deception task, this is equivalent to whether their choice was deceptive."
+	},
+	"isCatchTrial": {
+		"Description": "In 6 trials out of 46, one of the two options were beneficial to both the participant and the counterpart. This was to ensure that the participants were paying attention. 1 if the current trial is such a trial."
+	}
+}

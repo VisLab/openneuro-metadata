@@ -1,0 +1,34 @@
+{
+    "Name": "DMT-HAR-MED: Effects of DMT and harmine during meditation: Functional MRI dataset",
+    "BIDSVersion": "1.10.1",
+    "HEDVersion": "8.2.0",
+    "DatasetLinks": [],
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Klemens Egger",
+        "Milan Scheidegger"
+    ],
+    "Keywords": [
+        "psychedelics",
+        "fMRI",
+        "DMT",
+        "harmine",
+        "meditation",
+        "neuroscience",
+        "pharmacological intervention",
+        "resting state"
+    ],
+    "Acknowledgements": "We thank all study participants and research staff involved in data acquisition, preprocessing, and analysis.",
+    "HowToAcknowledge": "When using these data, please cite both the dataset and the corresponding publication:\n\nDataset:\nEgger, K., Meling, D., & Scheidegger, M. (2025). DMT-HAR-MED: Effects of DMT and harmine during meditation: Functional MRI dataset (Version 1.0.0) [Data set]. OpenNeuro. https://doi.org/10.18112/openneuro.ds006644.v1.0.0\n\nPublication:\nEgger, K., Meling, D., Polat, F., Seifritz, E., Avram, M., & Scheidegger, M. (2025). Meditation, Psychedelics, and Brain Connectivity: A Randomised Controlled Resting-State fMRI Study of N,N-Dimethyltryptamine and Harmine in a Meditation Retreat. Imaging Neuroscience (2025). https://doi.org/10.1162/IMAG.a.907",
+    "Funding": [
+        "BIAL Foundation (No. 333/20)",
+        "Reconnect Foundation",
+        "European Varela Award from Mind and Life Europe (#2021EVA-Scheidegger, Milan)"
+    ],
+    "EthicsApprovals": [
+        "Kantonale Ethikkommission Zürich - BASEC-ID 2021-00180"
+    ],
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006644.v1.0.1"
+}

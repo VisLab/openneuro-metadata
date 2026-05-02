@@ -1,0 +1,17 @@
+onset	duration	parametric_modulation	regressor	description
+16	16	1	1	faces
+48	16	1	1	faces
+96	16	1	1	faces
+112	16	1	1	faces
+208	16	1	1	faces
+224	16	1	1	faces
+272	16	1	1	faces
+304	16	1	1	faces
+32	16	1	2	objects
+64	16	1	2	objects
+128	16	1	2	objects
+144	16	1	2	objects
+176	16	1	2	objects
+192	16	1	2	objects
+256	16	1	2	objects
+288	16	1	2	objects

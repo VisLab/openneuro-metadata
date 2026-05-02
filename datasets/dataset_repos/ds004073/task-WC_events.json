@@ -1,0 +1,27 @@
+{
+    "onset": {
+        "LongName": "",
+        "Description": "Onset of the word comprehension picture pair. There are six picture pairs per block. The onset of each picture pair is recorded.",
+        "Units": "seconds"
+    },
+    "duration": {
+        "LongName": "",
+        "Description": "Duration of the word comprehension picture pair",
+        "Units": "seconds"
+    },
+    "RT": {
+        "LongName": "reaction time",
+        "Description": "Time taken from presentation of picture pair to button press response",
+        "Units": "seconds"
+    }
+    ,
+    "accuracy": {
+        "LongName": "",
+        "Description": "Accuracy of response",
+        "Levels": {
+            "1": "correct",
+            "0": "incorrect",
+            "NaN": "no response detected"
+        }
+    }
+}

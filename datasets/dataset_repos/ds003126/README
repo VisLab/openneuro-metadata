@@ -1,0 +1,69 @@
+This dataset contains the raw 3 Tesla fMRI data and T1 structural images of 58 children: 22 children with typical reading and spelling skills, 16 children with isolated spelling deficits (SpD) and 20 children with dyslexia. 
+This dataset was used for the paper " Reading-related functional activity in children with isolated spelling deficits and dyslexia", which was published in Language, Cognition and Neuroscience (doi: 10.1080/23273798.2020.1859569). 
+Stimuli consisted of 60 words and 60 matched pseudohomophones of three to eight letters. Each stimulus was presented alone in white on a black background for 3s in an event-related design. After it disappeared, a fixation cross was displayed. The presentation of the fixation cross was jittered between 2000 and 6000 ms (M = 4000 ms). To prevent fatigue effects in children, stimuli were presented over three consecutive runs of 40 items each, separated by short breaks of 3-5 min. Children were instructed to read aloud the stimuli appearing on the screen. 
+
+The codes of children included in the analysis are listed hereafter:
+
+TD group (typically developing children):
+sub-047EPKL014007
+sub-047EPKL014008
+sub-047EPKL014010
+sub-047EPKL014020
+sub-047EPKL014024
+sub-047EPKL014026
+sub-047EPKL014029
+sub-047EPKL014031
+sub-047EPKL014036
+sub-047EPKL014037
+sub-047EPKL014038
+sub-047EPKL014039
+sub-047EPKL014040
+sub-047EPKL014043
+sub-047EPKL014045
+sub-047EPKL014048
+sub-047EPKL014050
+sub-047EPKL014052
+sub-047EPKL014054
+sub-047EPKL014062
+sub-047EPKL014066
+sub-047EPKL014067
+
+SpD group (children with isolated spelling deficit):
+sub-047EPKL013003
+sub-047EPKL013013
+sub-047EPKL013016
+sub-047EPKL013019
+sub-047EPKL013023
+sub-047EPKL013025
+sub-047EPKL013028
+sub-047EPKL013033
+sub-047EPKL013034
+sub-047EPKL013035
+sub-047EPKL013046
+sub-047EPKL013053
+sub-047EPKL013057
+sub-047EPKL013061
+sub-047EPKL013064
+sub-047EPKL013065
+
+Group with dyslexia:
+sub-047EPKL011005
+sub-047EPKL011011
+sub-047EPKL011012
+sub-047EPKL011041
+sub-047EPKL011047
+sub-047EPKL011049
+sub-047EPKL011051
+sub-047EPKL011056
+sub-047EPKL011058
+sub-047EPKL011059
+sub-047EPKL011060
+sub-047EPKL011063
+sub-047EPKL011068
+sub-047EPKL012014
+sub-047EPKL012015
+sub-047EPKL012017
+sub-047EPKL012069
+sub-047EPKL012071
+sub-047EPKL012073
+sub-047EPKL012074

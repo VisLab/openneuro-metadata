@@ -1,0 +1,11 @@
+{
+	"TaskName": "recall",
+    "TaskDescription": "With no prompts, subjects describe aloud everything they can remember from the films",
+    "RepetitionTime": 1.5,
+	"PhaseEncodingDirection": "j-",
+	"EffectiveEchoSpacing": 0.00092997649,
+	"EchoTime": 0.039,
+	"SliceThickness": 2,
+	"FlipAngle": 50,
+	"Manufacturer": "SIEMENS"
+}

@@ -1,0 +1,45 @@
+﻿Sequential Inference VBM dataset.
+
+These data comprise behaviour from 79 subjects on a probabilistic reversal task together with T1-weighted structural images. (The task is described in more detail in: FitzGerald et al. Sequential inference as a mode of cognition and its correlates in fronto-parietal and hippocampal brain regions. PLoS Computational Biology (2017)) 
+
+The principal findings of the original study were that the majority of subjects employed a strategy of inferring about the joint probability of sequences of states stretching into the past, and that betwene-subject differences in strategy correlated with gery-matter density changes in various parts of the brain.
+
+Data were collected from 43 younger adults and 36 older adults. Additionally, most of the subjects performed the Raven's matrices task, and an n-back working memory task, and results from these are also included, together with height, weight, age and sex.
+
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure deindentification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/latest/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000222/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000222 accession number.
+3) Send an email to submissions@openfmri.org. Please include the ds000222 accession number in
+your email.
+
+Known Issues
+------------
+N/A
+
+Bids-validator Output
+---------------------
+This dataset appears to be BIDS compatible.
+        Summary:                 Available Tasks:        Available Modalities:
+        233 Files, 1.86GB                                T1w
+        79 - Subjects
+        1 - Session

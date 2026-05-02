@@ -1,0 +1,30 @@
+{
+    "Acknowledgements": "Thanks to Kim Aljoscha Bressem for his help with data collection",
+    "Authors": [
+        "Carolina Zaehme",
+        "Isabelle Sander",
+        "Klaus Gramann"
+    ],
+    "BIDSVersion": "unofficial extension",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006850.v1.0.0",
+    "DatasetType": "raw",
+    "Funding": [
+        "This Study was realized by funding from the Berlin University Alliance."
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "FieldTrip",
+            "Version": "unknown",
+            "Description": "data2bids converter",
+            "URI": "https://www.fieldtriptoolbox.org"
+        }
+    ],
+    "License": "CC0",
+    "Name": "Urban Appraisal: Physiological Recording during Rating of Different Urban Environments",
+    "ReferencesAndLinks": [
+        "n/a"
+    ],
+    "EthicsApprovals": [
+        "IPA TU Berlin ethics protocol BPN_GRA_230,415"
+    ]
+}

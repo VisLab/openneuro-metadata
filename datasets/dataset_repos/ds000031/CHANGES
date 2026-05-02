@@ -1,0 +1,14 @@
+2.0.2 2023-03-19
+  - fix bval/bvec files for ses-2015
+2.0.0 2023-03-15
+  - renamed datasets collected after the inital UT Austin acquisitions
+  - Included newer datasets from 2017 and 2022
+  - included mean fieldmap (generated using same methods described in Laumann et al.)
+  - - fixed intendedfor fields to use mean fieldmap for distortion correction
+1.0.0 2021-11-03
+  - Completely re-BIDSified to fix many metadata issues with previous version
+0.0.1  Initial data acquired
+TODOs:
+	- verify and possibly extend information in participants.tsv (see for example http://datasets.datalad.org/?dir=/openfmri/ds000208)
+	- fill out dataset_description.json, README, sourcedata/README (if present)
+	- provide _events.tsv file for each _bold.nii.gz with onsets of events (see  '8.5 Task events'  of BIDS specification)

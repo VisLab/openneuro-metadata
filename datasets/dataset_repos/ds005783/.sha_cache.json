@@ -1,0 +1,19 @@
+{
+  "README": "d19f075dd0a99d76d36a1d98aaa5b5700bb4c82e",
+  "dataset_description.json": "d6555467ccf89a30a064627d5920da809f2b7f44",
+  "participants.tsv": "79207eed11d40fb102a0cfab1ce9596a46d80b83",
+  "CHANGES": "aecb335775e99903a5359f0f39bca790fb607608",
+  "task-EXP_bold.json": "1adb06cbf9baa9be4ef3dc8c668c299256e50434",
+  "task-LOC_bold.json": "5b6ea6242a031bc2a42828ad35949135a68ab30e",
+  "sub-SAXANA1017/func/sub-SAXANA1017_task-EXP_run-002_events.tsv": "88fe67576578b2bdd34b4a60e83041b34cb28f32",
+  "sub-SAXANA1017/func/sub-SAXANA1017_task-EXP_run-007_events.tsv": "dbd1ee8a2b94d51938b771c2d7f0d38e4d72c96d",
+  "sub-SAXANA1017/func/sub-SAXANA1017_task-LOC_run-001_events.tsv": "bf13d1ba464cb27c3b6768a78d96281d9d61c7e6",
+  "sub-SAXANA1017/func/sub-SAXANA1017_task-LOC_run-002_events.tsv": "b194946e735ffcaa8842f1f08fbb4f0477baa123",
+  "sub-SAXANA1017/func/sub-SAXANA1017_task-EXP_run-003_events.tsv": "017b3823fd85db294ded6d929287b5c542d6d446",
+  "sub-SAXANA1017/func/sub-SAXANA1017_task-EXP_run-001_events.tsv": "1423e708e6c2b14cbf23d4c9c63baffdef593e55",
+  "sub-SAXANA1017/func/sub-SAXANA1017_task-EXP_run-006_events.tsv": "8086f89f9742fd9b4496d2f9c3f310f441b23c30",
+  "sub-SAXANA1017/func/sub-SAXANA1017_task-EXP_run-005_events.tsv": "77589e8438ce0eb354c55d9c16d0d018406b0569",
+  "sub-SAXANA1017/func/sub-SAXANA1017_task-EXP_run-004_events.tsv": "b646efaf321241699d8e34f6c4897b37491fb6bf",
+  "sub-SAXANA1017/func/sub-SAXANA1017_task-EXP_run-008_events.tsv": "72920c22694ecfdcefbfeda75c5ddf553f600710",
+  "sub-SAXANA1017/func/sub-SAXANA1017_task-LOC_run-003_events.tsv": "0c4361103a4e7cce06a6a14bb2d3796addeffa2f"
+}

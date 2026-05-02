@@ -1,0 +1,28 @@
+{
+    "Name": "Bilingual language processing: reading words, sentences, and narratives with functional localizers",
+    "BIDSVersion": "1.10.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Agata Wolna"
+    ],
+    "Keywords": [
+        "bilingualism",
+        "functional localization",
+        "language localizer",
+        "MD localizer",
+        "reading task",
+        "fMRI"
+    ],
+    "Funding": [
+        "NCN PRELUDIUM 2022/45/N/HS6/01256"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "dcm2niix",
+            "Description": "DICOM to NIfTI conversion and generation of BIDS-compatible metadata sidecars.",
+            "CodeURL": "https://github.com/rordenlab/dcm2niix"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007342.v1.0.0"
+}

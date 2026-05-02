@@ -1,0 +1,3 @@
+This dataset is associated with the manuscript entitled "A comparison of denoising approaches for spoken word production related artefacts in continuous multiband fMRI data" authored by Angelique Volfart, Katie McMahon and Greig de Zubicaray. 
+It includes raw BOLD fMRI data, field maps and structural T1 images of 18 healthy participants.
+The task performed by participants during functional runs involves naming to auditory definitions or scrambled control stimuli. 

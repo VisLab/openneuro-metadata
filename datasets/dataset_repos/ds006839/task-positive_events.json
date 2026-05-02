@@ -1,0 +1,20 @@
+{
+    "onset": {
+        "Description": "Time of the event in seconds from the start of the recording."
+    },
+    "duration": {
+        "Description": "Duration of the event in seconds."
+    },
+    "value": {
+        "Description": "Event trigger code as recorded in the EEG file."
+    },
+    "trial_type": {
+        "Description": "Type of experimental event corresponding to the trigger code.",
+        "Levels": {
+            "238": "Start of each 2-minute block (for control, positive, and negative conditions).",
+            "222": "Increase in object brightness or sound volume (feedback signal).",
+            "190": "Decrease in object brightness or sound volume (feedback signal).",
+            "126": "Resting-state segment marker: first for eyes open, then for eyes closed."
+        }
+    }
+}

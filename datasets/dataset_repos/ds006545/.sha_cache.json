@@ -1,0 +1,9 @@
+{
+  "CHANGES": "e97a00170a4375e25bb018ffbd5cd159b678aa4e",
+  "dataset_description.json": "cd197dd6bfeff5210c42ea88e84ea0932b6659d0",
+  "participants.tsv": "0d9dd7d78f28840752be33a643c321bea2289c28",
+  "sub-e546cfcc/ses-1/nirs/sub-e546cfcc_ses-1_task-audio_events.tsv": "c15c8e93eeaf97b931c0e055642efd95cb626d1a",
+  "sub-e546cfcc/ses-1/nirs/sub-e546cfcc_ses-1_task-audio_events.json": "ecaf5fc7f4b9474f51d15f92a6fb6e2f7a782434",
+  "sub-e546cfcc/ses-2/nirs/sub-e546cfcc_ses-2_task-audio_events.json": "ecaf5fc7f4b9474f51d15f92a6fb6e2f7a782434",
+  "sub-e546cfcc/ses-2/nirs/sub-e546cfcc_ses-2_task-audio_events.tsv": "57c41e74d9aa7392758782258635cd80ae63fc90"
+}

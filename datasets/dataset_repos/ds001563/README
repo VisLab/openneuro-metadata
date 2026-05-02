@@ -1,0 +1,8 @@
+# CMRR Layer fMRI Hands on tutorial
+
+This dataset consists of one mani participant from one session. There are other cases included for reference.
+The purpose of this dataset it to serve as an educational example for the Minnesota Workshop 2019 
+
+The different runs refer to high-resolution EPI acquired at the 7T from Scanexus in Maastricht and the 7T from FMRIF at NIH. 
+The protocol pdfs are here: https://github.com/layerfMRI/Sequence_Github/tree/master/CMRR_training_scann_protocol_pdfs
+

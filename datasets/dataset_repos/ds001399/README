@@ -1,0 +1,38 @@
+Introduction
+------------
+This dataset was collected to evaluate reward-related task fMRI activity under different acquisition protocols. Reward-related activity is generally strong and robust, but located in midbrain and frontal areas (e.g., http://neurosynth.org/analyses/terms/reward/) which often suffer from poor fMRI signal quality. Protocols for improving task signal have been suggested, such as tilting acquisitions (Optimized EPI for fMRI studies of the orbitofrontal cortex. R. Deichmann, J.A. Gottfried, C. Hutton, and R. Turner. NeuroImage 19 (2003) 430–441. https://doi.org/10.1016/S1053-8119(03)00073-9), but how these interact with multiband (simultaneous multi-slice) sequences and voxel size is unclear. In this study, several healthy young adults completed multiple runs of two reward-related tasks ("reward" and "delay", see below) under different acquisition protocols.
+
+Acquisition Protocols
+---------------------
+The acquisition protocols varied in:
+* acquired voxel size: 2.4 or 3.0 mm isotropic (2p4 or 3p0, respectively, in file names)
+* slice angle: flat (typical AC alignment) or tilted (30 degree upward tilt as in Deichmann et al., 2003; see Fig. 2).
+* multiband factor: 2 or 4 (all runs are MB4 unless MB2 is included in the file names)
+
+All scans were collected on a 3T Siemens Prisma with a 32-channel head coil, without in-plane acceleration (iPat = none). Repetition time (TR) was allowed to vary between the protocols (e.g., TR = 1 s for 3p0flat, but 1.2 for 2p4flat); see the associated .json files. Runs were collected with both A to P and P to A encoding directions (AP and PA, respectively, included in the file names).
+  
+  
+
+Task Description: "reward" 
+--------------------------
+This is a cued task-switching experimental paradigm, in which participants must classify an ambiguous letter-digit target pair based on the task cue, which precedes the target. If the cue states “Attend Letter,” the subject must classify the letter as a vowel or consonant with a finger button press (1 or 2). If the cue states “Attend Number,” the subject must classify the number as odd or even with a finger button press (1 or 2). The button response mappings are counterbalanced across individuals. The dollar signs above the task cue indicate whether the subject is able to earn monetary rewards, and if the subject is fast and accurate, they will receive visual feedback after each trial as to whether they have received rewards on that trial. 
+
+The times in the _events.tsv files are the cue onset times, with Reward indicating trials in which a reward was possible and NoReward trials without possible reward. All trials are included, regardless of whether a reward was received or not, and regardless of whether the response was correct or not.
+
+Trial timings:
+onset	event
+300		cue
+2650	probe/target (response must occur within 2000 ms, which is also duration of the probe)
+5650	feedback
+
+
+Task Description: "delay" 
+-------------------------
+This is a rapid event design in which rewards are available on some trials, similar to that of Jacobs, E. A., & Hackenberg, T. D.(1996). Human’s choices in situations of time-based diminishing returns: effects of fixed interval duration and progressive-interval step size. Journal of the Experimental Analysis of Behavior, 59(3), 445–470.  
+
+The times in the _events.tsv files are the trial onsets (when the colored box stimuli appeared), with Wait indicating trials in which the person must respond but no reward is possible; Reward trials are when the trial choice produced a reward. 
+
+
+Defacing 
+-------- 
+Pydeface was used on all anatomical images to ensure de-identification of subjects. The code can be found at https://github.com/poldracklab/pydeface

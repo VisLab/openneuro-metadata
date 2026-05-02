@@ -1,0 +1,70 @@
+{
+	"onset":{
+		"LongName":"Stimulus onset",
+		"Description":"Stimulus onset relative to the first trigger pulse",
+		"Units":"seconds"
+	},
+	"duration":{
+		"LongName":"Duration",
+		"Description":"Length of time that the stimulus was presented. When the duration is shorter than the duration of the audio clip, the audio played from the start and was truncated when the 'duration' time had elapsed.",
+		"Units":"seconds"
+	},
+	"trial_type":{
+		"LongName":"Map type",
+		"Description":"The experimental condition describing the auditory symbology used in the stimulus",
+		"Levels":{
+			"1":"sequential",
+			"2":"augmented",
+			"3":"concurrent"
+		}
+	},
+	"task":{
+		"LongName":"Task",
+		"Description":"The activity participants were asked to complete during each phase of the trial",
+		"Levels":{
+			"1":"listen",
+			"2":"response"
+		}
+	},
+	"response_type":{
+		"LongName":"Response type",
+		"Description":"The experimental condition under which participants made a decision about the map contents",
+		"Levels":{
+			"1":"active",
+			"2":"memory"
+		}
+	},	
+	"stim_file":{
+		"LongName":"Stimulus filename",
+		"Description":"Name of the file containing the auditory stimulus waveform"
+	},
+	"correct_answer":{
+		"LongName":"Correct answer",
+		"Description":"The response option which contained the higher data value (correct task response)",
+		"Levels":{
+			"1":"black",
+			"2":"red"	
+		}
+	},
+	"answer":{
+		"LongName":"Answer",
+		"Description":"The response option selected by the participant in response to the task question",
+		"Levels":{
+			"1":"black",
+			"2":"red"	
+		}
+	},
+	"is_correct":{
+		"LongName":"Correct response",
+		"Description":"Flag indicating response accuracy ('answer' matched 'correctAnswer')",
+		"Levels":{
+			"1":"true",
+			"2":"false"	
+		}
+	},
+	"sparse":{
+		"LongName":"Stimulus timing in sparse sampling",
+		"Description":"Stimulus onset shifted to align with the midpoint of the TR (for use in FSL to account for sparse sampling with a TR longer than TA)",
+		"Units":"seconds"
+	}
+}

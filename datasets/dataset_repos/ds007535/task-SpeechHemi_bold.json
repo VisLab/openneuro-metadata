@@ -1,0 +1,13 @@
+{
+  "AcquisitionDuration": 900.000,
+  "DelayTime": 0.000,
+  "RepetitionTime": 2,
+  "Resolution": "Template MNI152NLin2009cAsym (2.0x2.0x2.0 mm^3), curated by TemplateFlow 25.0.4",
+  "SkullStripped": true,
+  "SliceTimingCorrected": true,
+  "Sources": [
+    "bids:templateflow:tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_T1w.nii.gz"
+  ],
+  "StartTime": 0.0,
+  "TaskName": "SpeechHemi"
+}

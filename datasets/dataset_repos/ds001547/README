@@ -1,0 +1,9 @@
+# High-resolution VASO in V1
+
+Renzo Huber 
+
+### Abstract
+With recent developments of ultra-high field MRI and high-resolution CBV-sensitive VASO sequences, it became possible to measure activity changes across cortical depths in brain areas of large cortical thicknesses (4mm in M1). Applications of layer-dependent CBV-fMRI in the visual cortex, however, have been complicated by long arterial-arrival-times, coverage requirements, and lower cortical thickness (1.9mm). Here, we developed new sequence setups for layer-dependent acquisition of CBV changes during tasks and resting-state. We find that the proposed large-coverage VASO protocols with 0.8mm (iso) resolutions can pinpoint feedforward and feedback input into V1 from LGN and V5 during tasks and resting-state. 
+The data uploaded here are used in the ISMRM abstract entitled: Measuring layer-dependent CBV fMRI in the visual system.
+A full list of sequence parameters can be found here: https://github.com/layerfMRI/Sequence_Github/blob/master/Visual/S26_protocol.pdf
+A description of all the pitfalls in acquiring these data is given here: https://layerfmri.com/2018/04/12/ss-si-vaso-pitfalls-in-visual-cortex/ 

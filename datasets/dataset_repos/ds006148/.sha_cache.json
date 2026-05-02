@@ -1,0 +1,21 @@
+{
+  "dataset_description.json": "2147d11782f483df2f5d2bf97f5a065529e1fcbf",
+  "CHANGES": "3a64be1ca3567bd2ff496aeb2989fb80b84363df",
+  "participants.json": "19bc03640904fc4d1440e071bbb5d79b2b42daeb",
+  "README": "64cc7cf29e8792f536db199c7dd4c90eedf20fe1",
+  "participants.tsv": "32316e86178e3501a97646da3ba8fa8d79d191e6",
+  "DUA.pdf": "a51d492e56cea940f75172b74d1fe016ad5bf2b6",
+  "QNLD_cognitive_scores_logfile.csv": "f83ea96036bd8bb94ac75043c147593c8673e51a",
+  "aslcontext.tsv": "e9b48517572a3421fb6f54d376da4f308ce2165b",
+  "sub-C00003/ses-S002/func/sub-C00003_ses-S002_task-DigSym_dir-AP_events.tsv": "5a4d7e6bb0a145aead8ad16eb4367a1bfd02f4c8",
+  "sub-C00003/ses-S001/func/sub-C00003_ses-S001_task-LetSet_dir-PA_events.tsv": "1b043716b02272e78e323583cdd52e673a550aa6",
+  "sub-C00003/ses-S001/func/sub-C00003_ses-S001_task-PapFol_dir-AP_events.tsv": "0ab4c3d6d90db7b18b0f20b312995e6b47b62c2a",
+  "sub-C00003/ses-S001/func/sub-C00003_ses-S001_task-AntNym_dir-AP_events.tsv": "0c58b617a2739df6b6f3df1716ffbe40fc35db3e",
+  "sub-C00003/ses-S001/func/sub-C00003_ses-S001_task-PatCom_dir-PA_events.tsv": "44dbe285bc5cade9f28e58ad411b2c0337d9c468",
+  "sub-C00003/ses-S001/func/sub-C00003_ses-S001_task-LetCom_dir-AP_events.tsv": "ba931d5b5744b1916fbd958f337536c90d818e5c",
+  "sub-C00003/ses-S001/func/sub-C00003_ses-S001_task-MatRes_dir-PA_events.tsv": "757ea471f28a5fafb96924964a762703acab2400",
+  "sub-C00003/ses-S002/func/sub-C00003_ses-S002_task-ParAso_dir-AP_events.tsv": "f4fa8ea0cf36cf74f25252a19a8360bba803f0e6",
+  "sub-C00003/ses-S002/func/sub-C00003_ses-S002_task-LogMem_dir-PA_events.tsv": "acd0bc69f286e7403088cfca7b79e2a10ca8aae6",
+  "sub-C00003/ses-S002/func/sub-C00003_ses-S002_task-PicVoc_dir-PA_events.tsv": "06ecd5c7625762f29ee4fc4ba16b06ab17345944",
+  "sub-C00003/ses-S002/func/sub-C00003_ses-S002_task-WorMem_dir-PA_events.tsv": "0ff454a275e7108611613387f7cfa03270529237"
+}

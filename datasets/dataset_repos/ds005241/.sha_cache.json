@@ -1,0 +1,13 @@
+{
+  "participants.json": "f29852174323d14f751921f0cb54ed87fe15da30",
+  "README": "d36522869c36779590d852e3cd747a4a9cafb734",
+  "CHANGES": "adc47adf96dbc1b6c6713f9f700cee5f698d8a35",
+  "dataset_description.json": "f3875709bfc70c4762b8acc9717022b406438846",
+  "participants.tsv": "be1db828efba9a5d012b38818738ec7a1d179f85",
+  "sub-A0394/ses-02/meg/sub-A0394_ses-02_task-lexicaldecision_events.json": "1b45db8c359d7bba0f928f4088c1aa4fe12d7efa",
+  "sub-A0394/ses-01/meg/sub-A0394_ses-01_task-lexicaldecision_events.json": "1b45db8c359d7bba0f928f4088c1aa4fe12d7efa",
+  "sub-A0394/ses-tark/meg/sub-A0394_ses-tark_task-localizer_events.json": "e7fdb6b35e42448a9f7ca270d3954ebb4f8f77f1",
+  "sub-A0394/ses-tark/meg/sub-A0394_ses-tark_task-localizer_events.tsv": "984cbeb67977171195020b85058ab0cabc3d2100",
+  "sub-A0394/ses-02/meg/sub-A0394_ses-02_task-lexicaldecision_events.tsv": "12e4f2b11fc52b2619b8c2111f53150b718d387e",
+  "sub-A0394/ses-01/meg/sub-A0394_ses-01_task-lexicaldecision_events.tsv": "e8cf39110e591e1c78cb92ae7e7223f404eeb188"
+}

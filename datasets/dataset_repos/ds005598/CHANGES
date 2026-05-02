@@ -1,0 +1,16 @@
+1.0.3 2025-11-05
+  - Added behavioral data for Day 2 (generalization) and Day 1–Day 2 (savings) under /derivatives/behavioral/
+1.0.2 2025-10-15
+  - Added combined behavioral data under /derivatives/behavioral/
+1.0.1 2025-09-11
+  - Replaced non-defaced scans with defaced versions
+1.0.1 (2025-09-11)
+- Replaced non-defaced anatomical T2w scans with defaced versions using pydeface.
+- Revalidated the dataset with the BIDS validator (no errors).
+
+1.0.0 2024-10-26
+  - bids formatting corrected
+Changes
+
+Dan: Aug 2 2021 
+- Corrected images for sub-23, ses-02. z-axis in these images were flipped

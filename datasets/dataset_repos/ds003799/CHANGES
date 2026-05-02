@@ -1,0 +1,10 @@
+2.0.0 2021-11-17
+  - bidsonym
+1.0.0 2021-09-08
+  - new readme
+1.0.3 2021-08-31
+  - minor
+1.0.2 2021-08-31
+  - added missing data
+1.0.1 2021-08-30
+  - We added general study information and renamed the scores for CES-D in the phenotype folde (we have previously used the german version ADS).

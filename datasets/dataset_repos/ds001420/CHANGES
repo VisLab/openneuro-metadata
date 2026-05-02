@@ -1,0 +1,23 @@
+1.2.0 2022-08-08
+  - Added derivatives data for MRI and PET (motion correction (+QC), co-registration (+QC), extraction of time activity curves (_tacs.tsv) and model outputs from reference Logan, SRTM, SRTM and MRTM2.)
+1.1.0 2021-09-07
+  - Modified the orientation of the PET data from LAS to RAS
+1.0.1 2021-05-21
+  - Updated according to BIDS v. 1.6.0
+4.0.0	2021-05-18
+	
+	- Updated json files according to BIDS v. 1.6.0
+
+3.0.0   2018-09-04
+
+	- Defaced structural MRI and PET images
+
+2.0.0	2018-07-10
+
+	- Changed license to CCO also in dataset
+
+1.0.0	2018-07-09
+
+	- First upload
+
+undefined

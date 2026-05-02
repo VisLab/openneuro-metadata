@@ -1,0 +1,6 @@
+1.0.2 2026-03-16
+  - Corrected author name in dataset metadata.
+1.0.1 2025-10-15
+  - we added processed DWI and anatomical images applying desikan killiany atlas 
+1.0.0 2025-03-27
+  - Initial release of the gradCPT dataset including simultaneous EEG-fMRI, DWI, and behavioral data.

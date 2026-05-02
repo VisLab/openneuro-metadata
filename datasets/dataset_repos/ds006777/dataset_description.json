@@ -1,0 +1,25 @@
+{
+    "Name": "SFARI AVSRT EEG",
+    "BIDSVersion": "1.10.1",
+    "DatasetType": "raw",
+    "Authors": [
+        "Theo Vanneau",
+        "John J. Foxe",
+        "Shlomit Beker",
+        "Daniella Cohen",
+        "Albulena Sejdu",
+        "Sophie Molholm"
+    ],
+    "License": "CC0",
+    "HowToAcknowledge": "Please cite: <your paper / DOI>",
+    "Funding": [
+        "This work was supported by a grant from the Simons Foundation Autism Research Initiative (SFARI Award # 874845, SM).  Support for recruitment and phenotyping of participants was provided by the Human Clinical Phenotyping Core of the NICHD funded Rose. F. Kennedy Intellectual and Developmental Disabilities Research Center (P50  HD105352, SM). "
+    ],
+    "EthicsApprovals": [
+        "All participants assented to the procedures, and their parents or guardian signed an informed consent approved by the Institutional Review Board of the Albert Einstein College of Medicine."
+    ],
+    "ReferencesAndLinks": [
+        "https://www.cognitiveneurolab.com/"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006777.v1.0.0"
+}

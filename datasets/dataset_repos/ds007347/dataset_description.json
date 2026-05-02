@@ -1,0 +1,27 @@
+{
+    "Name": "Sterotactic Focused Ultrasound Mesencephalotomy for the Treatment of Head and Neck Cancer Pain",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "W. Jeffrey Elias",
+        "Chang-Chia Liu",
+        "Divine Nwafor",
+        "Patrick H. Finan",
+        "Mark Quigg",
+        "Shayan Moosa"
+    ],
+    "HEDVersion": "8.1.0",
+    "ReferencesAndLinks": [],
+    "GeneratedBy": [
+        {
+            "Name": "EEG-BIDS",
+            "Version": "10.3"
+        },
+        {
+            "Name": "dicm2nii",
+            "Version": "20250821"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007347.v1.0.0"
+}

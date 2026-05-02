@@ -1,0 +1,18 @@
+{
+  "participants.tsv": "447234d93b3e95c916e016b0b57690049a81e692",
+  "events.json": "6722db67ea008ed4cc9f66212c0a1cec2264ba02",
+  "dataset_description.json": "537cd5286f8fd0882c499f51248a1fde752366fd",
+  "README": "9de6d121cc1b46916256334588fff80266bee44f",
+  "participants.json": "d9d0c6618933ac7faa706084b7bb10eba5a6a26d",
+  "CHANGES": "e432cf339317484daaa7ca293e27547aa5be9616",
+  "sub-001/ses-post/eeg/sub-001_ses-post_task-NB3_events.tsv": "8e621c63929e3931adaa5b01e216004d75bc5432",
+  "sub-001/ses-post/eeg/sub-001_ses-post_task-SART_events.tsv": "5ad1b7e7fb5ebfacc2a47d0d9c37e4868e80a4b5",
+  "sub-001/ses-pre/eeg/sub-001_ses-pre_task-NB2_events.tsv": "549bfeeb9b656ac5a14ca897d487872f03b17e61",
+  "sub-001/ses-pre/eeg/sub-001_ses-pre_task-SART_events.tsv": "4e5d420bbf2642e7243f7523cc6ef993271214e5",
+  "sub-001/ses-post/eeg/sub-001_ses-post_task-NB2_events.tsv": "00030960d14b0a116ef3a0934f81a080cba139a9",
+  "sub-001/ses-pre/eeg/sub-001_ses-pre_task-NB3_events.tsv": "33b8a9df723c75178ec6f42f78f9e7fb54f89843",
+  "sub-001/ses-pre/eeg/sub-001_ses-pre_task-NB1_events.tsv": "3e85f756237a07442942dded4bcbe13ffbe5aad1",
+  "sub-001/ses-post/eeg/sub-001_ses-post_task-NB1_events.tsv": "ec89a48423d2ddead2afce23519f1628c21eaa11",
+  "sub-001/ses-pre/eeg/sub-001_ses-pre_task-LG_events.tsv": "16fceca464878cc9eb8c14068f4aae66c856f2f8",
+  "sub-001/ses-post/eeg/sub-001_ses-post_task-LG_events.tsv": "377551e9c26b6211506686695f324112db24e146"
+}

@@ -1,0 +1,15 @@
+{
+  "CHANGES": "b13e8e07150d71e8fe5c5ea0ee51aaf5692ac69b",
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "participants.tsv": "6a6d623e86d8ca9d9a1794d38a2f20768e61b3a6",
+  "README": "4ea4df338a2fd3becd0994b243674e1c1bde596a",
+  "dataset_description.json": "4940238e227156a1e9b9c8acd78bbcc6c07dd5cb",
+  "task-debate_bold.json": "c96ec76e7f3f1adf12d9ece8c5e55ca3ba1c1314",
+  "sub-14/func/sub-14_task-debate_run-6_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-14/func/sub-14_task-debate_run-3_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-14/func/sub-14_task-debate_run-5_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-14/func/sub-14_task-debate_run-1_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-14/func/sub-14_task-debate_run-2_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-14/func/sub-14_task-debate_run-4_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5"
+}

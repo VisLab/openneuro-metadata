@@ -1,0 +1,17 @@
+{
+    "run": {
+        "LongName": "Run",
+        "Description": "Which run this timing segment corresponds to"
+    },
+    "trial_type": {
+        "LongName": "Type of Trials",
+        "Description": "What type of event is occuring at this moment during the task",
+        "Levels": {
+            "sweet": "0.5mL of 0.6M sucrose is delivered 4x, once every 5 seconds. Participants prompted to swallow 2.5sec after taste delivery",
+            "sour": "0.5mL of 0.01M Citric Acid is delivered 4x, once every 5 seconds. Participants prompted to swallow 2.5sec after taste delivery",
+            "salty": "0.5mL of 0.20M NaCl is delivered 4x, once every 5 seconds. Participants prompted to swallow 2.5sec after taste delivery",
+            "neutral": "0.5mL of tasteless solution (2.5mM NaHCO3 + 25mM KCl) is delivered 4x, once every 5 seconds. Participants prompted to swallow 2.5sec after taste delivery",
+            "wash": "1.0mL of tasteless solution (2.5mM NaHCO3 + 25mM KCl) is delivered as a wash. Participants prompted to swallow 2.5sec after wash delivery"
+        }
+    }
+}

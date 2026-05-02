@@ -1,0 +1,11 @@
+{
+  "CHANGES": "8f80d4c649ce048d10694d3246baff9d34f72273",
+  "participants.tsv": "7bb2d00e91ac76d9197aacca78ec336136a4d075",
+  "dataset_description.json": "d4a8c49555a1b16bea6ede70ec5af70d1034c3be",
+  "sub-6082/ses-01/nirs/sub-6082_ses-01_task-MirrorNeuron_run-1_events.tsv": "c313aaa320048719625daf0faf9ac8137adcf0d2",
+  "sub-6082/ses-01/nirs/sub-6082_ses-01_task-MirrorNeuron_run-3_events.json": "ecaf5fc7f4b9474f51d15f92a6fb6e2f7a782434",
+  "sub-6082/ses-01/nirs/sub-6082_ses-01_task-MirrorNeuron_run-2_events.json": "ecaf5fc7f4b9474f51d15f92a6fb6e2f7a782434",
+  "sub-6082/ses-01/nirs/sub-6082_ses-01_task-MirrorNeuron_run-1_events.json": "ecaf5fc7f4b9474f51d15f92a6fb6e2f7a782434",
+  "sub-6082/ses-01/nirs/sub-6082_ses-01_task-MirrorNeuron_run-2_events.tsv": "d7f8041bb45b3e989b33090805f5b6539a7c25e5",
+  "sub-6082/ses-01/nirs/sub-6082_ses-01_task-MirrorNeuron_run-3_events.tsv": "c7859467a581608836de0faacbb3df88aaa0f72a"
+}

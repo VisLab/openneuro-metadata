@@ -1,0 +1,30 @@
+{
+    "onset": {
+        "Description": "Onset of the event measured from the beginning of the acquisition of the first volume in the corresponding task imaging data file at wake",
+        "Units": "Secs"
+    },
+    "duration": {
+        "Description": "Duration of the event measured from onset",
+        "Units": "Secs"
+    },
+    "trial_Type": {
+        "Description": "Indicator of type of blocks that was presented",
+        "Levels": {
+            "prepa_face": "preparation phase of the face game",
+            "face_1": "face game, part 1",
+            "face_2": "face game, part 2",
+            "rest_face_1": "resting after the face game, part 1",
+            "rest_face_2": "resting after the face game, part 2",
+            "rest_face_3": "resting after the face game, part 3",
+            "prepa_maze": "preparation phase of the maze game",
+            "maze": "maze game",
+            "rest_maze_1": "resting after the maze game, part 1",
+            "rest_maze_2": "resting after the maze game, part 2",
+            "rest_maze_3": "resting after the maze game, part 3",
+            "win_face": "face game that is won",
+            "rest_win_face": "resting after the face game that is won",
+            "win_maze": "maze game that is won",
+            "rest_win_maze": "resting after the maze game that is won"
+        }
+    }
+}

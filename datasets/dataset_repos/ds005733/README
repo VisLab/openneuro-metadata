@@ -1,0 +1,2 @@
+This dataset includes raw MRI data from 33 participants. As reported in
+Yang, G., & Jiang, J. (2024). Cost-benefit Tradeoff Mediates the Transition from Rule-based to Memory-based Processing during Practice. PLOS Biology, accepted. https://doi.org/10.1371/journal.pbio.3002987

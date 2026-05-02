@@ -1,0 +1,8 @@
+1.0.4 2023-03-13
+  - Added additional task files to the 'derivatives' folder
+1.0.3 2022-07-22
+  - Fixed minor BIDS hiccups
+1.0.2 2020-10-30
+  - Uploaded missing fmap files for several subjects. Also added analysis code and some derivatives files.
+1.0.1 2020-10-24
+  - Fix multiple dataset upload errors.

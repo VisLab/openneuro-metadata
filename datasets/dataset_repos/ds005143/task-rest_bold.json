@@ -1,0 +1,4 @@
+{
+    "TaskName":"rest",
+    "TaskDescription":"Temporal mean of first 20 motion-corrected volumes from an EPI time-series"
+}

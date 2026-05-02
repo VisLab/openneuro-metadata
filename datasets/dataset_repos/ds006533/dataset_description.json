@@ -1,0 +1,26 @@
+{
+    "Name": "Precise vs. Approximate Numeracy in Stroke Participants",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "derivative",
+    "Authors": [
+        "Erin Duricy",
+        "Corrine Durisko",
+        "Julie A. Fiez"
+    ],
+    "Funding": [
+        "National Institute of Health Grant F31DC020370-03",
+        "National Science Foundation Grant 1923129"
+    ],
+    "EthicsApprovals": [
+        "All data acquired from studies that were approved by the Institutional Review Board at the University of Pittsburgh. Final dataset provided is fully anonymized and normalized."
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "Manual",
+            "Description": "All lesion masks manually drawn and checked. Normalized brains and lesion masks with enantiomorphic registration (see Nachev et al., 2008 and Rorden et al., 2012) in MATLAB R2022b. Applied 4mm Gaussian full-width half-maximum smoothing kernel to normalized lesion masks."
+        }
+    ],
+    "HowToAcknowledge": "Duricy E, Durisko C, Fiez J.A. (2025). Lesion-symptom mapping reveals differential relationships between language and precise versus approximate numeracy. Cortex, 193, 117-133.; Duricy E, Durisko C, Fiez J.A. (2026). Using data-driven, lesion-symptom mapping to study the relationship between neural and theoretical components of numeracy. In review at Neuropsychologia.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006533.v2.0.0",
+    "License": "CC0"
+}

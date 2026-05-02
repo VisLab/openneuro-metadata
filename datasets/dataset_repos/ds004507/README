@@ -1,0 +1,37 @@
+#Spinal Cord Head Position MRI
+
+This MRI dataset for the PMJ-based CSA project. 
+The analysis pipeline is available within the GitHub repository: https://github.com/sct-pipeline/pmj-based-csa
+
+## Dataset structure
+The MRI dataset contains MRIs from 10 healthy participants with 3 different neck positions: felxion, neutral and extension. 
+The following images are included:
+- T2w sagittal isotropic 0.6 mm
+
+Three sessions:
+
+- ses-headDown --> flexion
+- ses-headNormal --> neutral
+- ses-headUp --> extension
+Note: sub-002 has different acqusisition parameters: 0.7 mm isotropic for ses-headDown and ses-headUp
+
+## Derivatives
+
+The derivatives will be organized according to the following:
+https://intranet.neuro.polymtl.ca/data/dataset-curation.html#derivatives-structure
+
+Convention for JSON metadata:
+
+{
+  "Author": "Firstname Lastname",
+  "Date": "YEAR-MM-DD HH:MM:SS"
+}
+
+
+Derivatives includes:
+
+- Intervertebral discs labels
+- Spinal cord segmentation
+- Spinal nerve rootet labels
+- PMJ label
+

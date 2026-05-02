@@ -1,0 +1,36 @@
+{
+   "Columns": 192, 
+   "EchoTime": 0.0021, 
+   "EchoTrainLength": 1, 
+   "FlipAngle": 8.0, 
+   "ImageType": "ORIGINAL/PRIMARY/M/ND", 
+   "InplanePhaseEncodingDirection": "ROW", 
+   "InversionTime": 1.1, 
+   "MRAcquisitionType": "3D", 
+   "Manufacturer": "SIEMENS", 
+   "ManufacturersModelName": "Allegra", 
+   "NumberOfAverages": 1.0, 
+   "NumberOfPhaseEncodingSteps": 192, 
+   "PercentPhaseFieldOfView": 100.0, 
+   "PhaseEncodingDirection": "i-", 
+   "PixelBandwidth": 320.0, 
+   "PixelSpacing": [
+      1.3333333333333, 
+      1.3333333333333
+   ], 
+   "RepetitionTime": 2.3, 
+   "Rows": 192, 
+   "ScanOptions": "IR", 
+   "ScanningSequence": [
+      "IR", 
+      "GR"
+   ], 
+   "SequenceName": "*tfl3d1", 
+   "SequenceVariant": [
+      "SP", 
+      "MP"
+   ], 
+   "SeriesDescription": "MPRage-3T", 
+   "SliceThickness": 1.0, 
+   "StudyID": "1"
+}

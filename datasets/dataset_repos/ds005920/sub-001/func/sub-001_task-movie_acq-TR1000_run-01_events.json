@@ -1,0 +1,14 @@
+{
+    "trial_type": {
+        "LongName": "Event category",
+        "Levels": {
+            "movie": "Continuous movie presentation",
+            "black_screen": "Blank screen with fixation"
+        }
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "Windows",
+        "SoftwareName": "PsychoPy",
+        "DisplayDevice": "MRI-compatible LCD monitor"
+    }
+}

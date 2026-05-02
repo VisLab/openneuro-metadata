@@ -1,0 +1,17 @@
+{
+    "Event": {
+        "Description": "The specific task event that occurs at this onset timestamp",
+        "Levels": {
+          "Rest": "Subjects are resting without gripping the ball",
+          "Grip": "Subjects are gripping the ball either without squeezing (Control group) or squeezing with maximal force (Handgrip group)"
+        }
+    },
+
+		"Cue": {
+        "Description": "The visual cue that appears on the screen the prompts subjects to grip or rest",
+        "Levels": {
+          "Yellow": "Rest - subjects relax without gripping the ball",
+          "Blue": "Grip - subjects grip the ball without squeezing (Control) or squeezing with maximal force (Handgrip)"
+        }
+    }
+}

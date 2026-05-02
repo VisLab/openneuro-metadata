@@ -1,0 +1,30 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "second"
+  },
+  "trial_type": {
+    "Description": "Type of event (different from EEGLAB convention)",
+    "Levels": {
+      "S18": "1J laser stimli",
+      "S20": "1.25J laser stimli",
+      "S22": "1.5J laser stimli",
+      "S24": "1.75J laser stimli",
+      "S26": "2J laser stimli",
+      "S28": "2.25J laser stimli",
+      "S30": "2.5J laser stimli",
+      "S34": "2.75J laser stimli",
+      "S36": "3J laser stimli",
+      "S38": "3.25J laser stimli",
+      "S40": "3.5J laser stimli",
+      "S42": "3.75J laser stimli",
+      "S44": "4J laser stimli",
+      "S46": "4.25J laser stimli",
+      "S50": "4.5J laser stimli"
+    }
+  }
+}

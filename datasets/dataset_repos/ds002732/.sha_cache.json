@@ -1,0 +1,9 @@
+{
+  "dataset_description.json": "c203215d1479907c9ce60fdf6c19d20c93d07f83",
+  "CHANGES": "4e6a67c7e3b25a034cec0bb41331f0ee98dcdef0",
+  "participants.tsv": "49a705522758f76e3620e408c7d7c147a916dccf",
+  "task-rating_bold.json": "ea6a5851512f746540033eae6a7aef16969098f9",
+  "sub-01/func/sub-01_task-rating_run-03_events.tsv": "708ff964433de4ae64f47f0520a264371dd5c84d",
+  "sub-01/func/sub-01_task-rating_run-02_events.tsv": "2be5e225aef01253b41d85dc79e706fe938e3f00",
+  "sub-01/func/sub-01_task-rating_run-01_events.tsv": "c2353631f75aea8c9875a193e26aaed98f98d33b"
+}

@@ -1,0 +1,102 @@
+# BIDS Dataset for fMRI Study
+
+This dataset contains fMRI data for a removal task.
+Data includes:
+  - Anatomical T1-weighted images
+  - Functional BOLD images
+  - Field maps for distortion correction
+
+Subjects: 43
+Sessions: 2 per subject (except where noted)
+Task: removal
+
+## Data Excluded
+
+| runs  | state     | note                |
+|-------|-----------|---------------------|
+| 1_1   | included  |                     |
+| 1_2   | included  |                     |
+| 2_1   | included  |                     |
+| 2_2   | excluded  |  quit            |
+| 3_1   | included  |                     |
+| 3_2   | included  |                     |
+| 4_1   | included  |                     |
+| 4_2   | excluded  | acc<0.5             |
+| 5_1   | included  |                     |
+| 5_2   | included  |                     |
+| 6_1   | excluded  |  quit           |
+| 6_2   | excluded  |  quit           |
+| 7_1   | included  |                     |
+| 7_2   | included  |                     |
+| 8_1   | included  |                     |
+| 8_2   | included  |                     |
+| 9_1   | included  |                     |
+| 9_2   | included  |                     |
+| 10_1  | included  |                     |
+| 10_2  | included  |                     |
+| 11_1  | included  |                     |
+| 11_2  | included  |                     |
+| 12_1  | included  |                     |
+| 12_2  | included  |                     |
+| 13_1  | included  |                     |
+| 13_2  | excluded  | acc<0.5             |
+| 14_1  | included  |                     |
+| 14_2  | included  |                     |
+| 15_1  | excluded  | acc<0.5             |
+| 15_2  | included  |                     |
+| 16_1  | included  |                     |
+| 16_2  | included  |                     |
+| 17_1  | included  |                     |
+| 17_2  | included  |                     |
+| 18_1  | included  |                     |
+| 18_2  | included  |                     |
+| 19_1  | included  |                     |
+| 19_2  | included  |                     |
+| 20_1  | included  |                     |
+| 20_2  | included  |                     |
+| 21_1  | excluded  | acc<0.5             |
+| 21_2  | excluded  | acc<0.5             |
+| 22_1  | excluded  | acc<0.5             |
+| 22_2  | excluded  | acc<0.5             |
+| 23_1  | excluded  | acc<0.5             |
+| 23_2  | included  |                     |
+| 24_1  | excluded  | acc<0.5             |
+| 24_2  | excluded  | acc<0.5             |
+| 25_1  | excluded  | acc<0.5             |
+| 25_2  | excluded  | acc<0.5             |
+| 26_1  | excluded  | acc<0.5             |
+| 26_2  | excluded  | acc<0.5             |
+| 27_1  | included  |                     |
+| 27_2  | included  |                     |
+| 28_1  | included  |                     |
+| 28_2  | included  |                     |
+| 29_1  | included  |                     |
+| 29_2  | included  |                     |
+| 30_1  | included  |                     |
+| 30_2  | included  |                     |
+| 31_1  | included  |                     |
+| 31_2  | included  |                     |
+| 32_1  | excluded  | acc<0.5             |
+| 32_2  | excluded  | acc<0.5             |
+| 33_1  | included  |                     |
+| 33_2  | excluded  | head motion         |
+| 34_1  | excluded  | head motion         |
+| 34_2  | included  |                     |
+| 35_1  | included  |                     |
+| 35_2  | included  |                     |
+| 36_1  | excluded  | acc<0.5             |
+| 36_2  | excluded  | acc<0.5             |
+| 37_1  | excluded  | head motion         |
+| 37_2  | excluded  | head motion         |
+| 38_1  | included  |                     |
+| 38_2  | included  |                     |
+| 39_1  | excluded  | head motion         |
+| 39_2  | excluded  | acc<0.5             |
+| 40_1  | excluded  | acc<0.5             |
+| 40_2  | excluded  | head motion         |
+| 41_1  | excluded  | head motion         |
+| 41_2  | excluded  | head motion         |
+| 42_1  | included  |                     |
+| 42_2  | included  | head motion         |
+| 43_1  | included  |                     |
+| 43_2  | included  | head motion         |

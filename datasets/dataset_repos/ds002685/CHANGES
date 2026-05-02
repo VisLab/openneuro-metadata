@@ -1,0 +1,16 @@
+1.3.1 2021-01-25
+  - Added several protocols (Stanford battery, audio task)
+1.3.0 2020-10-07
+  - Added some data for sub-08
+1.2.0 2020-10-05
+  - Added missing files for preference in sub-07,sub-08, ..., sub-15
+1.1.0 2020-10-02
+  - removed 2 duplicated sessions + fixed 2 warnings.
+1.0.1 2020-10-02
+  - removed two sessions with issues + fixed one warning
+1.0.0 2020-04-06
+  - Initial snapshot
+
+1.0.0	2020-03-18
+
+	- Initial snapshot

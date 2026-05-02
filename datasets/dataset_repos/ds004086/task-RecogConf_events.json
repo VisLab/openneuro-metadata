@@ -1,0 +1,35 @@
+{
+	"onset": {
+		"LongName": "Time of Stimulus Presentation",
+		"Description": "Time of stimulus presentation during session"
+	},
+	"duration": {
+		"LongName": "Length of Stimulus Presentation",
+		"Description": "Length of time that stimulus was presented"
+	},
+	"trial_type": {
+		"LongName": "Type of Trial",
+		"Description": "Presentation of either a word stimulus or prompt for a confidence rating"
+	},
+	"stimuli_response": {
+		"LongName": "Stimuli Response",
+		"Description": "Participant response for whether word was old or new",
+		"Levels": {
+			"1": "old",
+			"2": "new"
+		}
+	},
+	"correct_answer": {
+		"LongName": "Correct Response",
+		"Description": "Correct status of word",
+		"Levels": {
+			"1": "old",
+			"2": "new"
+		}
+	},
+	"reaction_time": {
+		"LongName": "Reaction Time",
+		"Description": "Length of time before participant responded"
+	}
+}
+

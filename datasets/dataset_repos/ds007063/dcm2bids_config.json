@@ -1,0 +1,66 @@
+{
+  "descriptions": [
+    {
+      "dataType": "func",
+      "modalityLabel": "bold",
+      "customLabels": "task-rest",
+      "criteria": {
+        "SeriesDescription": "Rest"
+      },
+      "sidecarChanges": {
+        "TaskName": "rest"
+      }
+    },
+    {
+      "dataType": "func",
+      "modalityLabel": "bold",
+      "customLabels": "task-expo_run-1",
+      "criteria": {
+        "SeriesDescription": "EXPO1"
+      },
+      "sidecarChanges": {
+        "TaskName": "expo"
+      }
+    },
+    {
+      "dataType": "func",
+      "modalityLabel": "bold",
+      "customLabels": "task-expo_run-2",
+      "criteria": {
+        "SeriesDescription": "EXPO2"
+      },
+      "sidecarChanges": {
+        "TaskName": "expo"
+      }
+    },
+    {
+      "dataType": "anat",
+      "modalityLabel": "T1w",
+      "criteria": {
+        "SeriesDescription": "mprage_p2_ND"
+      }
+    },
+    {
+      "dataType": "func",
+      "modalityLabel": "bold",
+      "customLabels": "task-expo_run-3",
+      "criteria": {
+        "SeriesDescription": "EXPO3"
+      },
+      "sidecarChanges": {
+        "TaskName": "expo"
+      }
+    },
+    {
+      "dataType": "func",
+      "modalityLabel": "bold",
+      "customLabels": "task-expo_run-4",
+      "criteria": {
+        "SeriesDescription": "EXPO4"
+      },
+      "sidecarChanges": {
+        "TaskName": "expo"
+      }
+    }
+  ]
+}

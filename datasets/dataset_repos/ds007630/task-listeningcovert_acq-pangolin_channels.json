@@ -1,0 +1,24 @@
+{
+  "name": {
+    "Description": "Channel name"
+  },
+  "type": {
+    "Description": "Channel type",
+    "Levels": {
+      "EEG": "Electroencephalography",
+      "MISC": "Miscellaneous",
+      "EOG": "Electrooculography",
+      "EMG": "Electromyography",
+      "TRIG": "Trigger/stimulus channel"
+    }
+  },
+  "units": {
+    "Description": "Physical unit of the channel"
+  },
+  "description": {
+    "Description": "Description of the channel"
+  },
+  "original_ch_numbers": {
+    "Description": "Original physical channel number(s) in the HDF5 recording. Bipolar channels are expressed as two comma-separated indices."
+  }
+}

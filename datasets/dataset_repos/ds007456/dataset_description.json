@@ -1,0 +1,11 @@
+{
+    "Authors": [
+        "Keita Umejima",
+        "Yuki Sunada",
+        "Kuniyoshi L. Sakai"
+    ],
+    "Name": "Manga dataset",
+    "BIDSVersion": "1.5.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007456.v2.0.1",
+    "License": "CC0"
+}

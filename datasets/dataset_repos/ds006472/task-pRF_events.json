@@ -1,0 +1,9 @@
+{
+  "onset": {
+    "Description": "Onset of the event measured from the beginning of the acquisition of the first volume.",
+    "Units": "seconds"
+  },
+  "duration": "Duration of the event (measured from onset) in seconds.",
+  "Units": "seconds"
+
+}

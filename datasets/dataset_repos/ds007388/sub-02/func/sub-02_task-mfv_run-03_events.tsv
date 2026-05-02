@@ -1,0 +1,25 @@
+onset	duration	sub_id	trial_type	vigtext	cond_id	vig_id
+8.431737099947213	7.889802600019948	sub-02	property	You see a customer walking out the coffee shop with the store’s mug cup.	property01	141
+17.770047899977044	7.908272399970201	sub-02	fairness	You see someone cheating in a card game while playing with a group of strangers.	fairness16	120
+27.12748839996721	7.909544099999948	sub-02	deference	You see a soldier disobeying a lawful order from their commanding officer.	deference05	125
+36.48531849996721	7.909057300009863	sub-02	authority	You see a player publicly yelling at his soccer coach during a playoff game.	authority08	7
+48.72319599997718	7.909361399999852	sub-02	heroism	You see cars passing by when an old man is stuck on the crossroad.	heroism05	140
+59.51317469996707	7.908438700020042	sub-02	group	You see people humiliating a neighbor to force them to move out.	group04	134
+68.87060009996708	7.907714700030056	sub-02	care_physical	You see a teacher hitting a student's hand with a ruler for falling asleep in class.	care_physical13	42
+81.10802619996707	7.907858700030147	sub-02	heroism	You see people running away from a fire instead of putting it out.	heroism03	138
+91.89660809997712	7.909858900010022	sub-02	social_norms	You see a teenage girl wearing a long trench coat on a hot summer afternoon.	social_norms14	118
+104.13777449994724	7.906704800029956	sub-02	loyalty	You see a coach celebrating with the opposing team's players who just won the game.	loyalty02	76
+113.49591399996712	7.906251300010126	sub-02	care_physical	You see a woman spanking her child with a spatula for getting bad grades in school.	care_physical14	43
+122.8507853999572	7.909829600019975	sub-02	sanctity	You see a story about a remote tribe eating the flesh of their deceased members.	sanctity11	100
+135.0886925999671	7.907817499999965	sub-02	authority	You see a staff member talking loudly and interrupting the mayor's speech to the public.	authority11	10
+145.8814688999571	7.905308200040054	sub-02	social_norms	You see a woman drinking her entire cup of coffee using a stirring spoon.	social_norms03	107
+158.11763809999707	7.907601799990061	sub-02	reciprocity	You see a coworker promising to cover a shift for another coworker, but does not show up at the last minute.	reciprocity03	148
+167.47447589999706	7.907856599950037	sub-02	family	You see a mother taking money from her child’s college fund to pay for her own expenses.	family04	129
+178.26464249996707	7.907436500010135	sub-02	loyalty	You see a former US General saying publicly he would never buy any American product.	loyalty03	77
+190.5020640999972	7.907880099960039	sub-02	fairness	You see a judge taking on a criminal case although he is friends with the defendant.	fairness06	50
+199.86154929996724	7.905684399999927	sub-02	sanctity	You see a man searching through the trash to find women's discarded underwear.	sanctity12	101
+209.21622969995724	7.9085291000099005	sub-02	social_norms	You see a woman continuing to wear a large sun hat inside her apartment complex.	social_norms05	109
+220.00997749994715	7.921007900039967	sub-02	care_emotional	You see a boy telling a woman that she looks just like her overweight bulldog.	care_emotional05	19
+232.26203319994715	7.906780300020046	sub-02	property	You see an employee taking a monitor from the company and using it for personal use at his home.	property02	142
+244.4974246000072	7.909703899989836	sub-02	reciprocity	You see a roommate not cleaning the shared living space according to the agreed schedule.	reciprocity05	150
+253.85903189994724	7.905330500039781	sub-02	family	You see a mother favoring one child over the other, constantly neglecting the other child's needs.	family05	130

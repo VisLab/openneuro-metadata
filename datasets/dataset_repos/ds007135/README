@@ -1,0 +1,50 @@
+README
+======
+
+Dataset title
+-------------
+Investigating neuroepigenetic alterations in chronic low back pain with positron emission tomography
+
+
+Description
+-----------
+This dataset contains multimodal neuroimaging data acquired from patients with chronic low back pain.
+Data include positron emission tomography (PET) with the radiotracer [11C]Martinostat, structural MRI
+(T1-weighted, T2-weighted, and FLAIR), and resting-state functional MRI.
+
+
+Participants
+------------
+All participants were patients diagnosed with chronic low back pain.
+No healthy control subjects are included in this dataset.
+
+
+Imaging modalities
+------------------
+- PET: [11C]Martinostat
+- Structural MRI: T1w, T2w, FLAIR
+- Functional MRI: resting-state BOLD
+
+
+De-identification
+-----------------
+All structural MRI images (T1w, T2w, and FLAIR) were defaced prior to public release to remove facial
+features and protect participant privacy. Functional MRI and PET images are provided as brain images
+and do not contain identifiable facial features.
+
+
+Study design
+------------
+This is an observational, cross-sectional study. No experimental intervention or task was performed
+during image acquisition.
+
+
+Funding
+-------
+This work was supported by the National Institute of Arthritis and Musculoskeletal and Skin Diseases
+(NIAMS), National Institutes of Health, under Cooperative Agreement UH3AR076741.
+
+
+Notes
+-----
+The dataset is organized according to the Brain Imaging Data Structure (BIDS) specification.

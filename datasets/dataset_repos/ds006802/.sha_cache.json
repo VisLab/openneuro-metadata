@@ -1,0 +1,10 @@
+{
+  "README.txt": "313296588a515c999ca8c5c13b59e6d6a2ce135e",
+  "CHANGES": "e4b9e9e96832c71e4f2c7c099e93d2c70d3936eb",
+  "dataset_description.json": "00caf883505f31b426c4e63206ff663160622a53",
+  "task-categorisation_events.json": "a1c99e30ca4ab87474f5efeee9932d66e40709c1",
+  "participants.tsv": "b8edbbd1589de1ad68988c7fb7b6aa19fb1abbda",
+  "task-categorisation_eeg.json": "71087ff65be0c7ecdd337a80755020ad18d31c9d",
+  "participants.json": "d64144a4292e4a3771d2bde1c3660a7c8edb9af2",
+  "sub-02/eeg/sub-02_task-categorisation_events.tsv": "3362c5e75d2490e0683ed8685c3d49312594fe29"
+}

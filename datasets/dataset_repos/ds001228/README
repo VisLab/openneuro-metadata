@@ -1,0 +1,16 @@
+Please cite the following reference if you use these data:
+
+Gilbert, S.J., & Fung, H. (2018). Decoding intentions of self and others. NeuroImage. doi: 10.1016/j.neuroimage.2017.12.090.
+
+NB there is no anatomical scan for sub-01
+
+Note that the trial type column in the functional event files corresponds to the trial types shown in Table 1 of the NeuroImage paper.
+
+The event type column specifies the following six events:
+
+1. Beginning of trial (i.e. start of initial thinking time)
+2. Player A's response options are presented
+3. Player A's response is made and Player B's response options are presented
+4. Player B's response is made
+5. Feedback is presented
+6. End of trial; screen is cleared

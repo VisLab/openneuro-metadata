@@ -1,0 +1,3 @@
+onset	duration	trial_type	stim_file
+0	601	onset_movie	interviews.mp4
+601	1	offset_movie	interviews.mp4

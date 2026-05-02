@@ -1,0 +1,17 @@
+{
+  "CHANGES": "2fd5823c80ec9a36a09e88a8f95bb545d127f573",
+  "participants.tsv": "842a4dcdcbd6e9b8b83dab3919c4180ab7498c2a",
+  "README": "277c9c9dd13f65c40e1d487e58818ef7950da5f9",
+  "participants.json": "312a9f53335c6c4103fa8153e6c6edcbdcb84d63",
+  "dataset_description.json": "bbe23d831b6a1f45184f3f0943eb06197a76b953",
+  "sub-WF29001/func/sub-WF29001_task-AliceLocalizer_run-1_events.tsv": "1a337adee4ed4c532209ddbb022317c40e9f2806",
+  "sub-WF29001/func/sub-WF29001_task-VisualWM_run-1_events.tsv": "1d4bc0384e6fdd3273eb974ced5366a974fb6090",
+  "sub-WF29001/func/sub-WF29001_task-readingS_run-3_events.tsv": "fcbdc9220236f7895005d343dc155ebe38fd5772",
+  "sub-WF29001/func/sub-WF29001_task-VisualWM_run-2_events.tsv": "a39d36b554afbd26f0718d1c3577bd864cda543e",
+  "sub-WF29001/func/sub-WF29001_task-AliceLocalizer_run-2_events.tsv": "58fc095810abcb130efd5596e7ef3eb0bd60a6cf",
+  "sub-WF29001/func/sub-WF29001_task-readingS_run-4_events.tsv": "90be444b866086ff1524fd489cdc0729f9527d50",
+  "sub-WF29001/func/sub-WF29001_task-readingS_run-2_events.tsv": "a97e76bbd806c292eb65cdc210b7e5a3cd6f9944",
+  "sub-WF29001/func/sub-WF29001_task-readingS_run-1_events.tsv": "83ba6299bc2047da746840c1fc2f69e8e35ce9b4",
+  "sub-WF29001/func/sub-WF29001_task-TOM_run-2_events.tsv": "e20b71436e63ccd069f602b2612b85bfed45289f",
+  "sub-WF29001/func/sub-WF29001_task-TOM_run-1_events.tsv": "2e2500a0af53fdf5e4ddc0098e6000845868f71b"
+}

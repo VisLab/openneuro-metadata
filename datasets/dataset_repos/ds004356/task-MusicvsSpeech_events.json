@@ -1,0 +1,58 @@
+{
+    "onset": {
+        "Description": "Onset of the audio event.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the audio event.",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Which audio type was heard by the subject in this trial.",
+        "Levels": {
+            "0": "click",
+            "1": "acoustic",
+            "2": "classical",
+            "3": "hiphop",
+            "4": "jazz",
+            "5": "metal",
+            "6": "pop",
+            "7": "chn_aud",
+            "8": "eng_aud",
+            "9": "interview",
+            "10": "lecture",
+            "11": "news",
+            "12": "talk"
+        }
+    },
+    "value": {
+        "Description": "The code associated with a trial type. NOTE: this is NOT the trigger\n    type in EEG annotations",
+        "Levels": {
+            "click": "click trains",
+            "acoustic": "acoustic music",
+            "classical": "classical music",
+            "hiphop": "hip-hop music",
+            "jazz": "jazz music",
+            "metal": "metal music",
+            "pop": "pop music",
+            "chn_aud": "Chinese audio book speech",
+            "enn_aud": "English audio book speech",
+            "interview": "interview speech",
+            "lecture": "instructional lecture speech",
+            "news": "news speech",
+            "talk": "presentation TED Talks"
+        }
+    },
+    "sample": {
+        "Description": "The sample within the EEG data at which an event occurred."
+    },
+    "trial": {
+        "Description": "The trial number of the experiment (total of 120 audio files). NOTE: This is coded in the EEG as the 4's and 8's trailing the event start triggers (1): decimal is turned to bits, b, which is then turned to a series of 4's and 8's by 2 ** (b + 2)."
+    },
+    "number_trial": {
+        "Description": "The file number of the trial type. Eg. for a number_trial of 0 with trial_type of 'acoustic', you would load 'acoutic000.wav'."
+    },
+    "EEG_trigger": {
+        "Description": "The trigger values in the EEG annotations for the event onset."
+    }
+}

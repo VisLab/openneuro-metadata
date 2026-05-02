@@ -1,0 +1,13 @@
+{
+    "Name": "Summed social cognition: additive neural representations of situations, mental states, and actions",
+    "BIDSVersion": "1.0.2",
+    "License": "CC0",
+    "Authors": [
+        "Mark A. Thornton",
+        "Diana I. Tamir"
+    ],
+    "ReferencesAndLinks": [
+        "https://osf.io/qwd2k/"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004226.v1.0.0"
+}

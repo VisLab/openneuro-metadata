@@ -1,0 +1,13 @@
+{
+  "CHANGES": "2e877db1545690195ba29117b370082a6ef0e139",
+  "participants.tsv": "07cc049e214c20df3315855a9f5cc7a47047565b",
+  "participants.json": "0ff30ee1a16af4583b933aa1683beeb2c068510e",
+  "README": "4a119e1d5b8baefc406269383e0b8aa603154f08",
+  "dataset_description.json": "fc14bf154d4d38dd5e7d97acb27d61904b742275",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-5CCPTxPSTxAmphetamine_events.json": "c6523a06649947c5b96a6e3438d6a0cb5b4bde37",
+  "sub-001/ses-03/eeg/sub-001_ses-03_task-5CCPTxPSTxAmphetamine_events.json": "c6523a06649947c5b96a6e3438d6a0cb5b4bde37",
+  "sub-001/ses-02/eeg/sub-001_ses-02_task-5CCPTxPSTxAmphetamine_events.json": "c6523a06649947c5b96a6e3438d6a0cb5b4bde37",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-5CCPTxPSTxAmphetamine_events.tsv": "451dd7d7d9c0b0008324d8ffb7078b4ec5ba5c1d",
+  "sub-001/ses-02/eeg/sub-001_ses-02_task-5CCPTxPSTxAmphetamine_events.tsv": "1b420fd6a3b7a4cdace7afe8135e818f9d8e4d52",
+  "sub-001/ses-03/eeg/sub-001_ses-03_task-5CCPTxPSTxAmphetamine_events.tsv": "e4515f4eb3b4464309b891423b7871246973f2c7"
+}

@@ -1,0 +1,16 @@
+{
+  "README": "2938e2ee189b4798702d627d11e9a406c668f25a",
+  "participants.json": "b7cd88eeefd8a9e9a4585a945189ea9327c2664f",
+  "CHANGES": "dbd0f227e58d22298c6f544e3a7ee47a7fafcdcf",
+  "participants.tsv": "c25e4f9ba9f4cbda2df5d7b602bc7d52518112d3",
+  "dataset_description.json": "af2f1aac442e21501f0958f0fa5e98a47a9b021e",
+  "sub-01/func/sub-01_task-StatisticalLearning_run-01_events.tsv": "82ccc4df2130de132542685a9a3ae7e0a280a914",
+  "sub-01/func/sub-01_task-StatisticalLearning_run-02_events.tsv": "82ccc4df2130de132542685a9a3ae7e0a280a914",
+  "sub-01/func/sub-01_task-StatisticalLearning_run-03_events.tsv": "82ccc4df2130de132542685a9a3ae7e0a280a914",
+  "sub-01/func/sub-01_task-WordReading_run-01_events.tsv": "ff1ef5d1a47b63bdcf33c8d204bbffc7146e3a98",
+  "sub-01/func/sub-01_task-WordReading_run-02_events.tsv": "ff1ef5d1a47b63bdcf33c8d204bbffc7146e3a98",
+  "sub-01/func/sub-01_task-WordReading_run-03_events.tsv": "ff1ef5d1a47b63bdcf33c8d204bbffc7146e3a98",
+  "sub-01/func/sub-01_task-WordReading_run-04_events.tsv": "ff1ef5d1a47b63bdcf33c8d204bbffc7146e3a98",
+  "sub-01/func/sub-01_task-WordReading_run-05_events.tsv": "ff1ef5d1a47b63bdcf33c8d204bbffc7146e3a98",
+  "sub-01/func/sub-01_task-ArchiLocalizer_run-01_events.tsv": "97553358391ffdbc55bdd1cc67c68ad096d460e5"
+}

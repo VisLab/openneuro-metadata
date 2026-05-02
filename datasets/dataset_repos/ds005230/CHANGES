@@ -1,0 +1,6 @@
+1.0.0 2024-06-05
+  - Updated participants .tsv
+Changes
+
+Dan: Aug 2 2021 
+- Corrected images for sub-23, ses-02. z-axis in these images were flipped

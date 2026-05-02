@@ -1,0 +1,8 @@
+{
+  "dataset_description.json": "9c22f2d316bbc503a7399ccd912ca7efd22cac65",
+  "participants.tsv": "dea3c1bfdfd772adc495bd12b776686e1c5d328f",
+  "CHANGES": "f0b31e9ea2ec22e07d25522d3158443d2ca87b89",
+  "sub-4793/func/sub-4793_task-GoalAchievement_run-01_events.tsv": "c48fb7266f2d7d55bdb628410eeb439b5baa196d",
+  "sub-4793/func/sub-4793_task-Phrases_run-01_events.tsv": "362768a98294af1ca9a91c6c5f7f06e9b0ba88f4",
+  "sub-4793/func/sub-4793_task-Words_run-01_events.tsv": "f464693a69b06520718f10065d256da59d1d0059"
+}

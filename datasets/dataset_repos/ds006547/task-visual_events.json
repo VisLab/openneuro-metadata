@@ -1,0 +1,67 @@
+{
+  "value": {
+    "Description": "Raw trigger code from BrainVision .vmrk indicating event identity",
+    "Levels": {
+      "1":  "Full-field circular annulus",
+      "2":  "Left-hemifield circular annulus",
+      "3":  "Right-hemifield circular annulus",
+      "4":  "Top-hemifield circular annulus",
+      "5":  "Bottom-hemifield circular annulus",
+
+      "6":  "Bottom-right octant (3:00–4:30)",
+      "7":  "Bottom-right octant 2 (4:30–6:00)",
+      "8":  "Bottom-left octant (6:00–7:30)",
+      "9":  "Bottom-left octant 2 (7:30–9:00)",
+      "10": "Top-left octant (9:00–10:30)",
+      "11": "Top-left octant 2 (10:30–12:00)",
+      "12": "Top-right octant (12:00–1:30)",
+      "13": "Top-right octant 2 (1:30–3:00)",
+
+      "14": "Bottom-right quadrant (botr)",
+      "15": "Bottom-left quadrant (botl)",
+      "16": "Top-left quadrant (topl)",
+      "17": "Top-right quadrant (topr)",
+
+      "18": "Blank (fixation cross only)",
+      "19": "Periphery stimulus (fovea masked)",
+      "20": "Fovea stimulus (periphery masked)",
+
+      "21": "Plaid",
+      "22": "Opposing grating (vertical)",
+
+      "41": "Grating 22.5° (up-left drift)",
+      "42": "Grating 45° (up-left drift)",
+      "43": "Grating 67.5° (up-left drift)",
+      "44": "Grating 90° (horizontal, up)",
+      "45": "Grating 112.5° (up-right drift)",
+      "46": "Grating 135° (up-right drift)",
+      "47": "Grating 157.5°",
+      "48": "Grating 180° (vertical, right)",
+      "49": "Grating 202.5° (down-right drift)",
+      "50": "Grating 225° (down-right drift)",
+      "51": "Grating 247.5° (down-right drift)",
+      "52": "Grating 270° (horizontal, down)",
+      "53": "Grating 292.5° (down-left drift)",
+      "54": "Grating 315° (down-left drift)",
+      "55": "Grating 337.5° (down-left drift)",
+      "56": "Grating 360° (vertical, left)"
+    }
+  },
+  "trial_type": {
+    "Description": "Human-readable category for each event",
+    "Levels": {
+      "annulus_full": "Full-field circular annulus",
+      "annulus_hemi": "Hemifield circular annulus (left/right/top/bottom)",
+      "annulus_octant": "Octant wedge",
+      "annulus_quadrant": "Quadrant wedge",
+      "blank": "Fixation only (control)",
+      "periphery": "Periphery-only stimulus (fovea masked)",
+      "fovea": "Fovea-only stimulus (periphery masked)",
+      "plaid": "Plaid",
+      "grating": "Drifting grating at specified orientation/direction"
+    }
+  },
+  "onset":  { "Description": "Time from start of recording", "Units": "seconds" },
+  "duration": { "Description": "Duration of event", "Units": "seconds" },
+  "sample": { "Description": "Sample index of the event in the EEG stream", "Units": "samples" }
+}

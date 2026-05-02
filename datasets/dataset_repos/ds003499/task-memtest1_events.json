@@ -1,0 +1,32 @@
+{
+    "sub": {
+        "LongName": "Subject ID",
+        "Description": "Subject identification number"
+    },
+    "onset": {
+        "LongName": "Stimulus onset",
+        "Description": "Stimulus onset time (in seconds)"
+    },
+    "duration": {
+        "LongName": "Stimulus duration",
+        "Description": "Stimulus duration (in seconds)"
+    },
+    "trial_type": {
+        "LongName": "Trial type",
+        "Description": "The number indicates the frequency condition (1 or 5) and the text indicates memory performance for the association"
+    },
+
+    "response": {
+        "LongName": "Response",
+        "Description": "The button the participant pressed"
+    },
+
+    "response_time": {
+        "LongName": "Response time",
+        "Description": "Response time (in seconds)"
+    },
+    "stim": {
+        "LongName": "Stimulus",
+        "Description": "The stimulus that appeared on the screen"
+    }}
+

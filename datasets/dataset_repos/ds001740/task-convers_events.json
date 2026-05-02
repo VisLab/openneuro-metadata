@@ -1,0 +1,27 @@
+{
+	"onset": {
+		"Description": "starting time of the events in seconds from the first acquired volume"
+			  },
+	"duration": {
+		"Description": "duration of the events in seconds"
+			  },
+	"trial_type": {
+		"Description": "type of trial"
+			  },
+	"expected_response": {
+		"Levels": { 
+			"0" : "no response",
+			"1" : "response"
+			  }
+			  },
+	"given_response": {
+		"Levels": { 
+			"0" : "no response",
+			"1" : "response"
+			  }
+			  },
+	"response_time": {
+		"Description" : "time to trigger a response in seconds"
+			}   
+}
+	

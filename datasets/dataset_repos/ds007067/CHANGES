@@ -1,0 +1,26 @@
+3.0.0 2026-04-03
+  - Add events files
+2.5.0 2026-04-01
+  - Remove participant 090
+2.4.1 2026-03-31
+  - Add sub-097_task-motor_acq-shimBase+3mm_run-02_bold.nii.gz
+2.4.0 2026-03-04
+  - add new manual segmentions
+2.3.1 2026-03-04
+  - Add run-02 for sub 097 shimBase
+2.3.0 2026-02-19
+  - - Update Manual seg for all sbj 1rst runs
+2.2.1 2026-02-13
+  - Add missing func file for sub-101
+2.2.0 2026-02-13
+  - Update Manual seg sub-100 to 107
+2.1.0 2026-02-05
+  - - Remove manual disk images and fix sub-100 image
+2.0.1 2026-01-21
+  - Fix beug
+2.0.0 2026-01-21
+  - Reorganize manual folder
+1.0.1 2025-12-18
+  - Add derivatives/manual folder
+1.0.0 2025-12-11
+  - First updload

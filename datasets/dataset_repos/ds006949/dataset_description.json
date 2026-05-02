@@ -1,0 +1,17 @@
+{
+    "Authors": [
+        "Mary R. Lee",
+        "Wynn Legon",
+        "Evan Lindeman",
+        "Krystian Burum",
+        "Molly Acord",
+        "Sarah Liu"
+    ],
+    "BIDSVersion": "1.8.0",
+    "Funding": [
+        "NIH HEAL Initiative: 1UG3DA059407-01"
+    ],
+    "Name": "Safety MRIs for Focused Ultrasound for the Complex Patient",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006949.v1.0.1",
+    "License": "CC0"
+}

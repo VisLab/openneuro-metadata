@@ -1,0 +1,9 @@
+{
+  "trial_type": {
+    "Description": "Type of resting block",
+    "Levels": {
+      "eyes_open": "Eyes-open resting condition, signaled by auditory beep",
+      "eyes_closed": "Eyes-closed resting condition, signaled by auditory beep"
+    }
+  }
+}

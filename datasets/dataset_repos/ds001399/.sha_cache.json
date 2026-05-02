@@ -1,0 +1,18 @@
+{
+  "participants.tsv": "0e1954faa344aed30afa65745bfd651b027b7b66",
+  "CHANGES": "b97fc9bc431b76a9d9e882cd6221a5162047f087",
+  "dataset_description.json": "f45173c613b047ebbdfb85db6fc05af19f72a0d3",
+  "README": "0e57cd37ccfb1b4c6829cba82361e834e89be620",
+  "sub-MOCCAG001/ses-01/func/sub-MOCCAG001_ses-01_task-reward_acq-multiband2p4flatAP_run-05_events.tsv": "69bb874ec5ea2b6f3d5f5fca85d380d2861bb18a",
+  "sub-MOCCAG001/ses-02/func/sub-MOCCAG001_ses-02_task-delay_acq-multiband3p0MB2AP_run-03_events.tsv": "74847631ca211b5bbd211f0fad14f3f05654ff53",
+  "sub-MOCCAG001/ses-01/func/sub-MOCCAG001_ses-01_task-reward_acq-multiband3p0tiltAP_run-04_events.tsv": "39a78c88a0d879b9afc0ff4a9fda86ecf483a82f",
+  "sub-MOCCAG001/ses-01/func/sub-MOCCAG001_ses-01_task-reward_acq-multiband3p0tiltPA_run-03_events.tsv": "415261f04f9f8036d39ab7245b5927ee17e7c1d8",
+  "sub-MOCCAG001/ses-01/func/sub-MOCCAG001_ses-01_task-reward_acq-multiband2p4tiltPA_run-01_events.tsv": "450898231400899a745fce91d7f62228590ea403",
+  "sub-MOCCAG001/ses-01/func/sub-MOCCAG001_ses-01_task-reward_acq-multiband3p0flatPA_run-08_events.tsv": "3ae91e9cbc2259eb5ccd9ff5ac4d866083d6c061",
+  "sub-MOCCAG001/ses-01/func/sub-MOCCAG001_ses-01_task-reward_acq-multiband2p4tiltAP_run-02_events.tsv": "c634c07d157614de68f5f6892ffbd3ac521790ba",
+  "sub-MOCCAG001/ses-01/func/sub-MOCCAG001_ses-01_task-reward_acq-multiband3p0flatAP_run-07_events.tsv": "11b145560ee2a2fea260a30217d195c23127d115",
+  "sub-MOCCAG001/ses-01/func/sub-MOCCAG001_ses-01_task-reward_acq-multiband2p4flatPA_run-06_events.tsv": "6c743294b2c41e3b578643231c5ddb66db16c750",
+  "sub-MOCCAG001/ses-02/func/sub-MOCCAG001_ses-02_task-delay_acq-multiband3p0MB2PA_run-04_events.tsv": "10545dfc6ab48ce963af08f994bffd5fe818293b",
+  "sub-MOCCAG001/ses-02/func/sub-MOCCAG001_ses-02_task-delay_acq-multiband3p0flatAP_run-01_events.tsv": "013be5912a79494c64f861f2bb6a1994b222c2d4",
+  "sub-MOCCAG001/ses-02/func/sub-MOCCAG001_ses-02_task-delay_acq-multiband3p0flatPA_run-02_events.tsv": "0b62dace50fc6d5dc5419534ae745e99bd70f61e"
+}

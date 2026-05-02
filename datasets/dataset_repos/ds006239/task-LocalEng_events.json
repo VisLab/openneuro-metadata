@@ -1,0 +1,56 @@
+{
+  "onset": {"LongName": "Trial onset time",
+    "Description": "Onset time of the first stimulus", 
+    "Units": "s"},
+  
+  "duration": {"LongName": "Trial duration",
+    "Description": "Duration of trial from beginning of first stimulus to end of fixation", 
+    "Units": "s"},
+  
+  "trial_type": {"LongName": "LocalEng Trial Conditions",
+    "Description": "Category of trial based on stimuli characteristics", 
+    "Levels": {
+      "1": "PicY",
+      "2": null,
+      "3": "PicN",
+      "4": null,
+      "5": "PercY",
+      "6": "PercN",
+      "7": "FixY",
+      "8": "FixN"}},
+  
+  "trial_name": {"LongName": "LocalEng Condition Names",
+    "Description": "Category of trial based on stimuli characteristics", 
+    "Levels": {
+      "PicY": "Matching pictures, corresponding English words rhyme",
+      "PicN": "Mismatching pictures, corresponding English words do not rhyme",
+      "PercY": "Matching perceptual condition, scrambed pictures exactly match",
+      "PercN": "Mismatching perceptual condition, scrambed pictures do not match",
+      "FixY": "Matching fixation condition, red/green fixation crosses",
+      "FixN": "Mismatching fixation condition, red/green fixation crosses"}},
+  
+  "prime_stim": {"LongName": "First stimulus file name",
+    "Description": "Location and name of first presented stimulus"},
+  
+  "targ_stim": {"LongName": "Second stimulus file name",
+    "Description": "Location and name of second presented stimulus"},
+  
+  "response_time": {"LongName": "Response Time",
+    "Description": "Subject response time measured from beginning of presentation of second stimulus",
+    "Units": "ms"},
+  
+  "resp": {"LongName": "Response key",
+    "Description": "Subject input response with button box",
+    "DataType": "string",
+    "Levels": {
+        "7": "similar",   "8": "dissimilar",   "n/a": "no response"}},
+  
+  "cresp": {"LongName": "Correct response key",
+    "Description": "Correct response for the trial given stimulus characteristics", 
+    "Levels": {
+        "7": "similar",   "8": "dissimilar"}},
+  
+  "acc": {"LongName": "Trial accuracy",
+    "Description": "Indicates if participant made correct or incorrect response. Trials with no response are coded as 'n/a'. For analysis purposes, no-response trials are suggested to be treated as incorrect '0' as failure to perform the task. Note: In the data-sharing paper, summary accuracy statistics excluded no-response trials; however, for any inferential analyses, users are advised to treat no-response trials as incorrect.",
+      "levels": {   "0": "incorrect",   "1": "correct",   "n/a": "not applicable"}}
+}

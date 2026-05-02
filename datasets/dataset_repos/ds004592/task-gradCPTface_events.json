@@ -1,0 +1,19 @@
+{
+    "trial_type": {
+        "LongName": "Gradual-onset continuous performance task with face stimuli",
+        "Description": "This is a minimally preprocessed output file. The experiment was run by Matlab and Psychtoolbox.",
+        "Levels": {
+            "onset": "the onset of the first trial is recorded",
+            "duration": "trial duration (1 s); a trial consists of transition (0.8 s) and intact (0.2 s) stimulus presentations",
+            "trial_num": "500 trials in total",
+            "target_nontarget": "(1) nontarget (should respond), (2) target (should not respond)",
+            "image_id": "11 unique faces in total; images 1-10 are nontarget faces and image 11 is a target face",
+            "transition_duration": "upon the onset of the trial, the stimulus from the previous trial gradually transitioned to the stimulus from the current trial in a linear pixel-by-pixel interpolation",
+            "resp_1st": "(1) button press recorded, (0) no button press recorded",
+            "resp_2nd": "(1) in case where two button presses are recorded in a trial",
+            "rt_1st": "the response time of the 1st button press",
+            "rt_2nd": "the response time of the 2nd button press",
+            "acc": "(1) hit and correct rejection, (0) false alarm and miss"
+        }
+    }
+}

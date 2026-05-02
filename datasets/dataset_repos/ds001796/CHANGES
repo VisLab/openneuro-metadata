@@ -1,0 +1,123 @@
+1.5.0 2022-06-13
+  - updated labeling in participants.tsv
+1.4.1 2020-07-21
+  - Removed redundant file in one participant directory
+1.4.0 2020-07-20
+  - Added files to participant directories. 
+2.0.0 2020-07-20
+  - Added files to participant directories.
+1.3.1 2020-07-20
+  - Added files to participant directories
+0.03 2019-03-08T09:40:28
+
+	- ADD sub-201 to the BIDS directory: /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj (by pyBIDSconv version 1.1.7 : 
+
+	- Convert data: Resting_ep2d_bold_p2_s4_32ch_TR1500_2.1x2.1_68_32-head-Coil to func
+		dcm2niix -b y -ba y -z i -f %s -o /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2 /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp
+	- Rename files: 
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/5.nii.gz ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/func/sub-201_task-Resting_bold.nii.gz
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/5.json ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/func/sub-201_task-Resting_bold.json
+	- Convert data: gre_field_mapping_32ch to fmap
+		dcm2niix -b y -ba y -z i -f %s -o /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2 /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp
+	- Rename files: 
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/6_e2.nii.gz ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/fmap/sub-201_magnitude1.nii.gz
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/6_e2.json ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/fmap/sub-201_magnitude1.json
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/6_e1.nii.gz ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/fmap/sub-201_magnitude2.nii.gz
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/6_e1.json ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/fmap/sub-201_magnitude2.json
+
+	- Convert data: gre_field_mapping_32ch to fmap
+		dcm2niix -b y -ba y -z i -f %s -o /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2 /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp
+	- Rename files: 
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/7_ph.nii.gz ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/fmap/sub-201_phasediff.nii.gz
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/7_ph.json ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/fmap/sub-201_phasediff.json
+
+	- Convert data: t1_mprage_sag_HCP_256_32ch to anat
+		dcm2niix -b y -ba y -z i -f %s -o /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2 /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp
+	- Rename files: 
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/8.nii.gz ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/anat/sub-201_T1w.nii.gz
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/8.json ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/anat/sub-201_T1w.json
+
+	- Convert data: t1_mprage_sag_HCP_256_32ch to anat
+		dcm2niix -b y -ba y -z i -f %s -o /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2 /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp
+	- Rename files: 
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/9.nii.gz ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/anat/sub-201_rec-NORM_T1w.nii.gz
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/9.json ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/anat/sub-201_rec-NORM_T1w.json
+
+	- Create scan tsv file: /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/sub-201_scans.tsv
+
+	- Add info to .json files: 
+		Add to func/sub-201_task-Resting_bold.json:
+		TaskName: Resting
+
+		Add IntendedFor to fmap .json file: fmap/sub-201_magnitude1.json:
+		IntendedFor: func/sub-201_task-Resting_bold.nii.gz
+
+		Add IntendedFor to fmap .json file: fmap/sub-201_magnitude2.json:
+		IntendedFor: func/sub-201_task-Resting_bold.nii.gz
+
+		Add IntendedFor to fmap .json file: fmap/sub-201_phasediff.json:
+		IntendedFor: func/sub-201_task-Resting_bold.nii.gz
+
+		Add both echo times to phasediff fmap .json file: fmap/sub-201_phasediff.json 
+
+	- Load participant.tsv file and add/replace: sub-201	33	F
+
+
+0.02 2019-03-08T09:36:14
+
+	- ADD sub-201 to the BIDS directory: /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj (by pyBIDSconv version 1.1.7 : 
+
+	- Convert data: Resting_ep2d_bold_p2_s4_32ch_TR1500_2.1x2.1_68_32-head-Coil to func
+		dcm2niix -b y -ba y -z i -f %s -o /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2 /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp
+	- Rename files: 
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/5.nii.gz ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/func/sub-201_task-Resting_bold.nii.gz
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/5.json ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/func/sub-201_task-Resting_bold.json
+	- Convert data: gre_field_mapping_32ch to fmap
+		dcm2niix -b y -ba y -z i -f %s -o /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2 /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp
+	- Rename files: 
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/6_e1.nii.gz ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/fmap/sub-201_magnitude1.nii.gz
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/6_e1.json ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/fmap/sub-201_magnitude1.json
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/6_e2.nii.gz ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/fmap/sub-201_magnitude2.nii.gz
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/6_e2.json ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/fmap/sub-201_magnitude2.json
+
+	- Convert data: gre_field_mapping_32ch to fmap
+		dcm2niix -b y -ba y -z i -f %s -o /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2 /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp
+	- Rename files: 
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/7_ph.nii.gz ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/fmap/sub-201_phasediff.nii.gz
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/7_ph.json ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/fmap/sub-201_phasediff.json
+
+	- Convert data: t1_mprage_sag_HCP_256_32ch to anat
+		dcm2niix -b y -ba y -z i -f %s -o /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2 /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp
+	- Rename files: 
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/8.nii.gz ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/anat/sub-201_T1w.nii.gz
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/8.json ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/anat/sub-201_T1w.json
+
+	- Convert data: t1_mprage_sag_HCP_256_32ch to anat
+		dcm2niix -b y -ba y -z i -f %s -o /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2 /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp
+	- Rename files: 
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/9.nii.gz ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/anat/sub-201_rec-NORM_PD.nii.gz
+		/storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/temp2/9.json ---> /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/anat/sub-201_rec-NORM_PD.json
+
+	- Create scan tsv file: /storage/shared/research/cinn/2015/L2ukca/regress_study/Sharing/BL_spec_proj/sub-201/sub-201_scans.tsv
+
+	- Add info to .json files: 
+		Add to func/sub-201_task-Resting_bold.json:
+		TaskName: Resting
+
+		Add IntendedFor to fmap .json file: fmap/sub-201_magnitude1.json:
+		IntendedFor: func/sub-201_task-Resting_bold.nii.gz
+
+		Add IntendedFor to fmap .json file: fmap/sub-201_magnitude2.json:
+		IntendedFor: func/sub-201_task-Resting_bold.nii.gz
+
+		Add IntendedFor to fmap .json file: fmap/sub-201_phasediff.json:
+		IntendedFor: func/sub-201_task-Resting_bold.nii.gz
+
+		Add both echo times to phasediff fmap .json file: fmap/sub-201_phasediff.json 
+
+	- Load participant.tsv file and add/replace: sub-201	33	F
+
+
+0.01 2019-03-08T08:45:42
+
+	- Initial release.

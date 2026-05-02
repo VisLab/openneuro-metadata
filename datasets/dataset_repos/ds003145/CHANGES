@@ -1,0 +1,8 @@
+1.0.2 2020-09-18
+  - Added 513BT Sbref
+1.0.1 2020-09-18
+  - Adding all participants. 513BT does not have an SBref scan as this is not being accepted by OpenNeuro.
+
+1.0.0	2020-09-17
+
+	- Initial snapshot

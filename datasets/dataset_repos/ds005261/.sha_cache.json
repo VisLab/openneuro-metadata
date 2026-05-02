@@ -1,0 +1,13 @@
+{
+  "README": "ee94c0901d629aca1eb04a96c33ae880394bccfd",
+  "participants.tsv": "a12d638601dba57e6194aa87d5485fffd8c98501",
+  "CHANGES": "cc514ac140bf841c50888898fe98a75717e51b34",
+  "dataset_description.json": "e100ea225618dbb13b34ececd2b18cf05405212d",
+  "participants.json": "a18cb54f9f1b3d5b365604de7b7b72f5e761392d",
+  "sub-01/meg/sub-01_task-gloups_run-04_events.json": "17abf64d7f10bbe3ef21d351eba79b325e6d72ce",
+  "sub-01/meg/sub-01_task-gloups_run-03_events.json": "17abf64d7f10bbe3ef21d351eba79b325e6d72ce",
+  "sub-01/meg/sub-01_task-gloups_run-02_events.json": "17abf64d7f10bbe3ef21d351eba79b325e6d72ce",
+  "sub-01/meg/sub-01_task-gloups_run-03_events.tsv": "8a5d94fbf5828baf55d669a073736f4061e53e9c",
+  "sub-01/meg/sub-01_task-gloups_run-04_events.tsv": "a5f635a4ddb37b9dbd5540437f50bb7ea5ecec38",
+  "sub-01/meg/sub-01_task-gloups_run-02_events.tsv": "ff26ab86a449281e43f8832d6c79f5ac186f0da8"
+}

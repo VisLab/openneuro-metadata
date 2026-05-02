@@ -1,0 +1,11 @@
+{
+  "CHANGES": "a84087bb2be45fd4c6fbcb89cbef0a1a7861ccf8",
+  "dataset_description.json": "dd90824c159ecc854d7a2804425a7944f443dedd",
+  "task-locAPSTARCtsm_bold.json": "2959db921fda6a4dbfb571d08293f66d1e0c5015",
+  "task-locAPSTARCps_bold.json": "a13e7adae0999643fa5d94bd865d1df457252491",
+  "task-locAPSTARC_bold.json": "946b5b3b1d3b7e7f51f107b9f94c2300205ec7cb",
+  "task-locAPcovSoS_bold.json": "5bb90f6ac2f29a8924480b9569e506731a19a12b",
+  "task-locPASoS5vol_bold.json": "ece7321b6508d1748ba664ce9805fcfac01ec9fc",
+  "participants.tsv": "32719d2b339e33b652844f90ab48a5267a747345",
+  "sub-01/func/sub-01_task-locAPcovSoS_events.tsv": "2e1e2dc81b460305741d8216af4d1990a078a8b0"
+}

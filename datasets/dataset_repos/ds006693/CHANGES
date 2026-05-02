@@ -1,0 +1,6 @@
+1.2.0 2025-09-30
+  - Updated group assignment for subject NODEAP_73 from anterior to posterior to align with the experimental procedure and the assignment reported in the manuscript.
+1.1.0 2025-09-26
+  - Updated coding scheme for meal_order and tms_order columns to improve clarity and ease of interpretation.
+1.0.0 2025-09-18
+  - Initial public release of NODEAP fMRI dataset.

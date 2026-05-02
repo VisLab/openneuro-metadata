@@ -1,0 +1,92 @@
+# gaze_exp
+By :      Martin SZINTE<br/>
+Projet :  gaze_exp<br/>
+With :    Matthias NAU, Jan Patrick STELLMANN & Tomas KNAPEN
+Version:  1.0<br/>
+
+## Version description
+Codes grouping analyses of 2 preliminary projects made to determine<br/>
+gaze modulation effects on fMRI data together with a PRF protocol.<br/>
+
+## Acquisition sequences
+
+#### Structural:
+Phillips Achieva 3T, 32 channel receive-coil array with single channel tranmit coil.<br/>
+1.0 mm isotropic T1w (4 scans) + 1.0 mm isotropic T2w.<br/>
+
+#### Fonctional:
+Philips Achieva 7T scanner with a 32-channel receive-coil array with 8-channel transmit coil (Nova Medical, Wilmington, MA).<br/>
+3D-EPI sequence at a resolution of 1.8 mm isotropic with a 1.3s volume acquisition time, 44ms TR, 17ms TE. <br/>
+98 x 112 x 112 voxels covering the entire brain, SENSE acceleration was applied in both the AP (2.61-fold) and RL (3.27-fold).
+Susceptibility-induced distortions corection donw with topup.
+
+## Experiment 1: __"pRFexp7T"__
+pRf protocol with either attention on the stimulus (bar) or fixation texture.<br/>
+Participant fixate at the screen center.<br/>
+
+#### Tasks:
+1. AttendFixGazeCenterFS: fixate screen center and report orientation of a pink noise patern shown at screen center.<br/>
+
+2. AttendStimGazeCenterFS: fixate screen center and report orientation of a pink noise pattern shown in the scanning bar. <br/>
+
+#### Session 1
+- Run 1 : task-AttendFixGazeCenterFS_run-01<br/>
+- Run 2 : task-AttendStimGazeCenterFS_run-01<br/>
+- Run 3 : task-AttendFixGazeCenterFS_run-02<br/>
+- Run 4 : task-AttendStimGazeCenterFS_run-02<br/>
+
+#### Session 2
+- Run 1 : task-AttendFixGazeCenterFS_run-03<br/>
+- Run 2 : task-AttendStimGazeCenterFS_run-03<br/>
+- Run 3 : task-AttendFixGazeCenterFS_run-04<br/>
+- Run 4 : task-AttendStimGazeCenterFS_run-04<br/>
+
+## Experiment 2: __"gazeField7T"__
+Effect of gaze direction on resting state data. <br/>
+Participants fixate straight ahead or 4 cardianl directions for about 1.5 min<br/>
+* run the experiment using _experiment/gazeField7T/main/expLauncher.m_
+
+#### Tasks:
+1. Calib: Calibration with 9 extreme eye directions, fixating 13 sec each<br/>
+   order: center, up, down, left, right, left-up, right-up, left-down, right-down<br/>
+
+2. GazeCW: 4 cardianal eye directions, 1 min 28.4 sec  <br/>
+   order: center -> right -> up -> left -> down<br/>
+
+3. GazeCCW: 4 cardianal eye directions, 1 min 28.4 sec  <br/>
+   order : down -> left -> up -> right -> center<br/>
+
+#### Session 4
+- Run 1 : task-Calib_run-01 :<br/>
+- Run 2 : task-GazeCW_run-01 : 7 min 22 sec<br/>
+- Run 3 : task-GazeCCW_run-01 : 7 min 22 sec<br/>
+- Run 4 : task-GazeCW_run-02 : 7 min 22 sec<br/>
+- Run 5 : task-GazeCCW_run-02 : 7 min 22 sec<br/>
+- Run 6 : task-GazeCW_run-03 : 7 min 22 sec<br/>
+- Run 7 : task-GazeCCW_run-03 : 7 min 22 sec<br/>
+
+## Experiment 3: __"pGFexp7T"__
+Determine gain field maps using an equivalent to pRF scanning design but with gaze changes<br/>
+over a large visual portion of the visual field in total darkness.<br/>
+* run the experiment using _experiment/pGFexp7T/main/expLauncher.m_
+
+#### Tasks:
+1. Calib: Calibration with 9 extreme eye directions, fixating 13 sec each<br/>
+   order: center, up, down, left, right, left-up, right-up, left-down, right-down<br/>
+
+2. GazeLines: 97 eye directions (5 by 5 grid in lines zigzag), 2TR each<br/>
+
+3. GazeColumns: 97 eye directions (5 by 5 grid in columns zigzag), 2TR each <br/>
+
+#### Session 5
+- Run  1 : task-Calib_run-01: 90TRs - 1 min 57 sec
+- Run  2 : task-GazeLines_run-01 : 194TRs - 4 min 12.2 sec
+- Run  3 : task-GazeColumns_run-01 : 194TRs - 4 min 12.2 sec
+- Run  4 : task-GazeLines_run-02 : 194TRs - 4 min 12.2 sec
+- Run  5 : task-GazeColumns_run-02 : 194TRs - 4 min 12.2 sec
+- Run  6 : task-GazeLines_run-03 : 194TRs - 4 min 12.2 sec
+- Run  7 : task-GazeColumns_run-03 : 194TRs - 4 min 12.2 sec
+- Run  8 : task-GazeLines_run-04 : 194TRs - 4 min 12.2 sec
+- Run  9 : task-GazeColumns_run-04 : 194TRs - 4 min 12.2 sec
+- Run 10 : task-GazeLines_run-05 : 194TRs - 4 min 12.2 sec
+- Run 11 : task-GazeColumns_run-05 : 194TRs - 4 min 12.2 sec

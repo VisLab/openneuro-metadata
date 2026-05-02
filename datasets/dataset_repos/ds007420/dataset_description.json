@@ -1,0 +1,60 @@
+{
+    "Name": "A Light Weight Multi-Distance fNIRS Dataset for Ball-Squeezing Task and Purposeful Motion Artifact Creation Task",
+    "BIDSVersion": "1.7.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Gao, Yuanyuan",
+        "Rogers, De’Ja",
+        "von Lühmann, Alexander",
+        "Ortega-Martinez, Antonio",
+        "Boas, David",
+        "Yücel, Meryem"
+    ],
+    "Acknowledgements": "This work was supported by the NIH BRAIN Initiative (Grant No. 1U01EB029856-01). We thank all the participants and research staff involved in the data collection and analysis.",
+    "HowToAcknowledge": "Gao, Y., Rogers, D., von Lühmann, A., Ortega-Martinez, A., Boas, D.A., & Yücel, M.A. (2023). Short-separation regression incorporated diffuse optical tomography image reconstruction modeling for high-density functional near-infrared spectroscopy. Neurophotonics, 10(2), 025007. https://doi.org/10.1117/1.NPh.10.2.025007",
+    "Funding": [
+        "NIH BRAIN Initiative (Grant No. 1U01EB029856-01)"
+    ],
+    "EthicsApprovals": [
+        "the Institutional Review Board of Boston University (Protocol #4502)"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1117/1.nph.10.2.025007"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007420.v1.0.2",
+    "BSFNIRSHeader": {
+        "Auxiliary": [
+            "Accelerometer"
+        ],
+        "Coverage": [
+            "Motor cortex"
+        ],
+        "Density": "High density",
+        "Paradigm": [
+            {
+                "Type": "Resting state",
+                "Description": "emained mentally idle avoiding any head movement",
+                "TrialDuration": 300,
+                "SessionDuration": 5,
+                "RunPerSession": 1
+            },
+            {
+                "Type": "Ball squeezing task",
+                "Description": "Ball squeezing task for both hands",
+                "TrialDuration": 1,
+                "SessionDuration": 24,
+                "RunPerSession": 3,
+                "ISI": "5-15"
+            },
+            {
+                "Type": "Motion creation task",
+                "Description": "Six instructed movements: tilting head (right/left/up/down), raising eyebrows, and saying 'hello'",
+                "TrialDuration": 1,
+                "SessionDuration": 5,
+                "RunPerSession": 1,
+                "ISI": "5-10"
+            }
+        ]
+    }
+}

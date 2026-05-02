@@ -1,0 +1,60 @@
+{
+  "trial_type" : {
+    "Description" : "Category of the trial presented to the participant.",
+    "Levels" : {
+      "RESPONSE" : "Event marking the participant’s behavioral response, indicating whether they judged the current stimulus as matching the one presented n trials earlier.",
+      "ISI" : "Inter-stimulus interval during which no stimulus was presented.",
+      "DISTRACTOR" : "Non-target stimulus that does not meet the n-back matching criterion.",
+      "TARGET" : "Stimulus that matches the item presented n trials earlier, requiring a response."
+    }
+  },
+  "n_back_condition" : {
+    "Description" : "The working-memory load condition defined by the number of trials back (n) the participant must recall to determine whether the current stimulus is a match.",
+    "Levels" : {
+      "1" : "1-back condition, requiring the participant to compare the current stimulus with the one presented exactly one trial earlier.",
+      "2" : "2-back condition, requiring the participant to compare the current stimulus with the one presented two trials earlier.",
+      "3" : "3-back condition, requiring the participant to compare the current stimulus with the one presented three trials earlier."
+    }
+  },
+  "trial_number" : {
+    "Description" : "Index of the trial within the task (starting from 1)."
+  },
+  "stimulus" : {
+    "Description" : "The item (e.g., letter) presented during the trial of the n-back task."
+  },
+  "response_type" : {
+    "Description" : "Classification of the participant’s behavioral response relative to the expected response determined by the n-back rule.",
+    "Levels" : {
+      "Correct Rejection" : "Participant correctly withheld a response to a non-target stimulus.",
+      "Hit" : "Participant correctly responded to a target stimulus.",
+      "False Alarm" : "Participant incorrectly responded to a non-target stimulus.",
+      "Miss" : "Participant failed to respond to a target stimulus."
+    }
+  },
+  "TaskName" : "N-back",
+  "CogAtlasID" : "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949bcd/",
+  "TaskDescription" : "This visual n-back task was based on the n-back task available in the Presentation software. The task presented participants with single letters at three difficulty levels: 1-back, 2-back, and 3-back. Participants observed sequences of individual letters and were instructed to press a button whenever the currently displayed letter matched the one shown n steps earlier in the sequence. Each block contained 50 trials, comprising 10 target trials and 40 control trials. During each trial, a stimulus appeared on the screen for 500 ms, followed by a 1000 ms inter-trial interval displaying an empty screen. Before the main experiment, participants completed a practice session of 8 trials for each difficulty level.",
+  "Instructions" : "The instructions were delivered in Polish; the text below is a translation. 1-back You will now perform the 1-back task. Letters will be presented on the screen one by one. Your task is to respond whenever the current letter is the same as the letter shown ONE step earlier. For example: The following sequence appears on the screen:[gray screen] C [gray screen] A [gray screen] A When you see such a sequence, you should respond to the last letter A, because it matches the letter shown one step earlier. Each time the displayed letter matches the one shown one step back, press the middle round button on the response pad. You do not need to respond to any other letter. If you are sure that you understand the task and remember which letters to respond to, please press the middle round button to begin the task. 2-back You will now perform the 2-back task. Letters will be presented on the screen one by one. Your task is to respond whenever the current letter is the same as the letter shown TWO steps earlier. For example: The following sequence appears on the screen: [gray screen] C [gray screen] B [gray screen] A [gray screen] B When you see such a sequence, you should respond to the last letter B, because it matches the letter shown TWO steps earlier. Each time the displayed letter matches the one shown two steps back, press the middle round button on the response pad. You do not need to respond to any other letter. If you are sure that you understand the task and remember which letters to respond to, please press the middle round button to begin the task.",
+  "StimulusPresentation" : {
+    "OperatingSystem" : "Windows 10 Pro 22H2",
+    "ScreenOrigin" : [
+      "center",
+      "center"
+    ],
+    "ScreenRefreshRate" : 60,
+    "ScreenResolution" : [
+      1920,
+      1080
+    ],
+    "ScreenSize" : [
+      0.596,
+      0.335
+    ],
+    "SoftwareName" : "Presentation",
+    "SoftwareRRID" : "RRID:SCR_002521",
+    "SoftwareVersion" : "v 23.1 build 09.29.22"
+  },
+  "InstitutionName" : "Nencki Institute of Experimental Biology PAS",
+  "InstitutionalDepartmentName" : "Laboratory of Brain Imaging",
+  "InstitutionAddress" : "3 Pasteur street, 02-093 Warsaw, Poland"
+}

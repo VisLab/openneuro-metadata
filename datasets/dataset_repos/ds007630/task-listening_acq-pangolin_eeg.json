@@ -1,0 +1,23 @@
+{
+  "TaskName": "Auditory Listening",
+  "TaskDescription": "Participants listen to prerecorded speech stimuli presented via audio playback while EEG is recorded.",
+  "Instructions": "Listen carefully to the presented speech stimuli while remaining still and minimizing unnecessary movement.",
+  "InstitutionName": "Araya Inc.",
+  "InstitutionAddress": "Tokyo, Japan",
+  "Manufacturer": "ANT Neuro",
+  "ManufacturersModelName": "Pangolin 64",
+  "SoftwareVersions": "eego SDK 1.8.0",
+  "DeviceSerialNumber": "pangolin-001",
+  "CapManufacturer": "Easycap",
+  "CapManufacturersModelName": "M10",
+  "ECGChannelCount": 0,
+  "PowerLineFrequency": 50,
+  "EEGPlacementScheme": "Custom montage based on 10-20 system",
+  "EEGReference": "FCz",
+  "EEGGround": "AFz",
+  "RecordingType": "continuous",
+  "SoftwareFilters": "n/a",
+  "HardwareFilters": "n/a",
+  "SubjectArtefactDescription": "n/a",
+  "InstitutionalDepartmentName": "n/a"
+}

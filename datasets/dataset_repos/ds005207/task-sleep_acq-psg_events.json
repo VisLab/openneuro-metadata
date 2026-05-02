@@ -1,0 +1,17 @@
+{
+    "onset": {
+        "Description": "Time of event, in seconds since beginning of recording"
+    },
+    "duration": {
+        "Description": "Duration of event (always just 0)"
+    },
+    "trial_type": {
+        "LongName": "Event type",
+        "Levels": {
+            "Start": "Time subject turned on amplifier",
+            "Lights Off": "Time(from start) that subject turn the lights off",
+            "Lights On": "Time(from start) that subject got up",
+            "End": "End of measurement"
+        }
+    }
+}

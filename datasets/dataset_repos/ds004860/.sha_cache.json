@@ -1,0 +1,9 @@
+{
+  "CHANGES": "5acdfa782fdbc64d56dc7270a0972ba806f82fc9",
+  "dataset_description.json": "592365563ecfbc10a2321fe7cdb9db6409167029",
+  "task-HarmN400_events.json": "65b89eaff5bfd966f43604ff15eb44ea7895a12d",
+  "README.txt": "5562dacf4ea87768afc950130a684235b4249184",
+  "participants.json": "90e07802e3d0bf77d403254b3a5df2c71dd17c5d",
+  "participants.tsv": "1b6e534d3790b5cf830eb841f3876ce1f27cd6a6",
+  "sub-101/eeg/sub-101_task-HarmN400_events.tsv": "1df238fad41c60dbd01b619853fb93da9f1e7f16"
+}

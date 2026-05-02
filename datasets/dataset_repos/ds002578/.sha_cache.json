@@ -1,0 +1,10 @@
+{
+  "participants.tsv": "eb1a555fa1670f18c740f2fae8a8727fdd76ca5a",
+  "README": "0f2c110fe735a093a78122b8e20352327833e240",
+  "dataset_description.json": "3baa347f7c0a848284da7b44ae1cc828caffe38f",
+  "CHANGES": "e7f8fb91cf9eca410e360ba0154602babe812588",
+  "participants.json": "a0d23fe50cab8ab20c38ec4fbe8de3da73fb660e",
+  "events.json": "2cbf2498704641865dc7ec6adb251ee7afd58605",
+  "sub-001/eeg/sub-001_task-attention_events.json": "1c69b7294ff5c6c4401b09dedc97b62a0f3cd9ec",
+  "sub-001/eeg/sub-001_task-attention_events.tsv": "b52d8d04a9502b4ea481aa2b9786299e1f9a77d9"
+}

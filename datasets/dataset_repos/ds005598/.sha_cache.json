@@ -1,0 +1,13 @@
+{
+  "README": "641473f486f775ad5cb3835e7f56c3012886247a",
+  "participants.tsv": "ff028b627624b291c36badefb4a0770694ca1466",
+  "CHANGES": "04f106adb7379fa7b358043aebd627fd8f18e0bb",
+  "task-rightbaseline_bold.json": "942d948f538fe98c3b4e388edce464114f198b30",
+  "task-rest_bold.json": "44c4a1d38256676b5cc8e26f8c84fdd6257218a0",
+  "task-lefttransfer_bold.json": "1a4b8f570251f0cd131270a925fa18f56a308128",
+  "task-rightlearning_bold.json": "78275c77d5718b20a0939b145d37b57b79d60104",
+  "dataset_description.json": "990a1589203ac6b698a73ca966424841282b32ba",
+  "task-RLbaseline_bold.json": "3ba0b55029291b92bf456e2c09f0d761391f2dc2",
+  "task-leftbaseline_bold.json": "024e549c2b667db1dccff0bdb83b143bcf33580a",
+  "task-RLlearning_bold.json": "02ce8a78e99c5709a7e2e48a50f9b731aff12e46"
+}

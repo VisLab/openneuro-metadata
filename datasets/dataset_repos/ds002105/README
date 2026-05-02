@@ -1,0 +1,16 @@
+This dataset contains cerebellar fMRI data from the Multi-Domain Task Battery (MDTB).
+
+Description: 26 unique cognitive tasks and 47 task conditions collected across 4 fMRI scanning sessions. The 5th session includes a resting state scan. 
+
+For a task description,  see task_description.tsv.
+
+Please cite the following reference if you use these data: 
+King, M., Hernandez-Castillo, C.R., Poldrack, R.A., Ivry, R.B., and Diedrichsen, J. (2019). Functional boundaries in the human cerebellum revealed by a multi-domain task battery. Nat. Neurosci. 22, 1371–1378.
+
+This dataset is made available under the Public Domain Dedication and License v1.0, whose full text can be found at http://www.opendatacommons.org/licenses/pddl/1.0/. 
+
+We hope that all users will follow the ODC Attribution/Share-Alike 
+Community Norms (http://www.opendatacommons.org/norms/odc-by-sa/); 
+in particular, while not legally required, we hope that all users 
+of the data will acknowledge the OpenfMRI project and NSF Grant 
+OCI-1131441 (R. Poldrack, PI) in any publications.

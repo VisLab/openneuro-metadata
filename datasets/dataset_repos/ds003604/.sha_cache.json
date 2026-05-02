@@ -1,0 +1,19 @@
+{
+  "CHANGES": "719112859666c79e0cd08c32c9cf53ec2b730f6c",
+  "README": "71be6b48db50be233c5e34c526b38ffa54d986bd",
+  "task-Gram_bold.json": "2fd928fcecbcd8cd7838a44a35a25894a315ab9e",
+  "dataset_description.json": "4c848eaa24b44cfc63013fa89f4cffd68c22ed81",
+  "participants.json": "5e0ce9967b88e29b70445c8732fa2ccc77b86846",
+  "task-Gram_events.json": "723ef20289e380fa0f28571abd3818641822c4f0",
+  "task-Plaus_bold.json": "397796f8defcc7eef27d8786a183fff4a6d5a8d6",
+  "task-Phon_events.json": "7fdb20d9f2acec8edfbeeac5b1b3d9d40f181eaa",
+  "task-Phon_bold.json": "5c95826c9c85663f68f6b5366c4a510166845325",
+  "participants.tsv": "d370e7ed6a17410564e94fc9c679f0ca86da045d",
+  "task-Sem_bold.json": "a198ef853408d1288dc3572a9f3299f64ad4f645",
+  "task-Plaus_events.json": "b58c71f1f50cec7b51833648e2950a10b11cf812",
+  "task-Sem_events.json": "c472d302c77b99316bc48cbd9ebd0dc293c38bf0",
+  "sub-5002/ses-5/func/sub-5002_ses-5_task-Phon_acq-D1S4_run-02_events.tsv": "9e36523869a9b50fd2571d41e1aa242d598d6868",
+  "sub-5002/ses-5/func/sub-5002_ses-5_task-Gram_acq-D1S9_run-02_events.tsv": "5759f4e1810a2d859b45a2fbf7d3cdebf83010de",
+  "sub-5002/ses-5/func/sub-5002_ses-5_task-Gram_acq-D1S11_run-01_events.tsv": "2a00263adac3a25b944df020056c6305f1f19144",
+  "sub-5002/ses-5/func/sub-5002_ses-5_task-Phon_acq-D1S6_run-01_events.tsv": "38adcc401ff3f7e467a43e5e28b4bc82d5048d39"
+}

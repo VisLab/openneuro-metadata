@@ -1,0 +1,27 @@
+	Task Name	Task Description	Dataset 	Conditions	Hand Assignment
+0	Object Viewing	Passive viewing, pictures of objects and a checkerboard pattern. 	A	-	None
+1	Motor Imagery	Imagine playing a game of tennis.	A	-	None
+2	Stroop	3AFC, indicating color of stimulus word (3 colors), comparing conditions in which color-word mapping is congruent or incongruent (Stroop task).	A	Congruent, Incongruent	Both
+3	Verbal Working Memory	2AFC, indicating if current stimulus in stream of letters matches letter displayed two items previously (2-back). Target can be present (+) or absent (-).	A	Verbal 2-Back+, Verbal 2-Back-	Left
+4	Interval Timing	2AFC, indicating if a tone is short (100ms) or long (175ms)	A	-	Right
+5	Arithmetic	2AFC, indicating if simple multiplication equations (e.g. 2x7=14) are correct or incorrect. For control task, participants view a series of four numbers and indicate presence/absence of target number (e.g., 1).	A	Math, Digit Judgment	Right
+6	IAPS affective	2AFC, indicating if picture (scenes, animals, foods) is pleasant or unpleasant.	A	Pleasant Scenes. Unpleasant Scenes	Left
+7	IAPS emotion	2AFC, indicating if picture depicts sad or happy face.	A	Happy Faces, Sad Faces	Right
+8	Go/No-Go	Go-NoGo task with positive (Go) or negative (No Go) words. 	A	Go, No-Go	Left
+9	Theory of Mind	2AFC to indicate if short story contains true or false belief (Theory of Mind task)	A & B	-	Left
+10	Rest 	Passive viewing of fixation cross.	A & B	-	None
+11	Object Working Memory	2AFC, indicating if current stimulus in stream of objects matches object displayed two items previously (2-back). Target can be present (+) or absent (-).	A & B	Object 2-Back+, Object 2-Back-	Right
+12	Verb Generation	Verb generation task requiring covert responses to visually-presented nouns, either repeating the stimulus (Read) or generating a verb associated with the noun (Generate).	A & B	Verb Generation, Word Reading	None
+13	Spatial Imagery	Imagine walking from room to room in childhood home, with a cue specifying the path to be taken (e.g., ñImagine walking from the kitchen to the bedroom, stopping to look around at different roomsî).	A & B	-	None
+14	Motor Sequence	6-element sequence, either requiring one key press with each of six fingers (bimanual) or repetition of a single key press with one finger (unimanual left or right).	A & B	Finger Sequence, Finger Simple	Both
+15	Action Observation	Passive viewing of videos of knots being tied, learning the name of the knot (presented at top of screen) for a latter recall test.	A & B	Video Actions, Video Knots	None
+16	Visual Search	2AFC, indicating if target stimulus (ñLî) is present among distractors (ñTî), with varying set size (4, 8, 12).	A & B	Small (4), Medium (8), Large(12)	Left
+17	Spatial Map	Memorize a spatial mapping of numbers (either, 1, 4, or 7) for subsequent recall	B	Easy (1), Medium (4), Hard (7)	Both
+18	Mental Rotation	Mentally rotate target object to determine whether it can be brought into alignment with baseline object. Difficulty is measured by angular disparity between target and baseline image. Stimuli were obtained from Ganis and Kievit (2015)52	B	Easy (0), Medium (50), Hard (150)	Right
+19	Biological Motion	2AFC to identify intact point-light walkers (either happy or sad) or scrambled walkers (fast or slow). Stimuli obtained from Troje et al. (2017)53	B	Biological Motion, Scrambled Motion	Right
+20	Concrete Permuted Rules Operations (CPRO)	Apply task-rule set (logic, sensory, & motor rules) to two consecutively presented stimuli (rectangles: either red or blue, vertical or horizontal)	B	-	Both
+21	Word Prediction	2AFC task to indicate if five sequentially-presented words comprise a semantically meaningful sentence. Stimuli obtained from DÍMello et al. (2017)56	B	True Prediction, Prediction Violated , Prediction Scrambled 	Left
+22	Response Alternatives	Execute a fast motor response to an imperative signal (white cross) that appears in one of 1, 2, or 4 primed positions	B	Easy (1), Medium (2), Hard (4)	Both
+23	Nature Movie	Passive viewing of a nature clip of kickboxing kangaroos, taken from ñPlanet Earth II: Islandsî	B	-	None
+24	Animated Movie	Passive viewing of an emotional love story between two characters from the Pixar movie ñUpî	B	-	None
+25	Landscape Movie	Passive viewing of an aesthetically-pleasing clip that depicts a diverse scenery, taken from Vimeo	B	-	None

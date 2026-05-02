@@ -1,0 +1,11 @@
+onset	duration	trial_type	route_number	destination	test_type	test_picture	test_response	test_RT	test_correct
+9	24	study_trial	1	nail salon	n/a	0	n/a	0	0
+39	24	study_trial	1	nail salon	n/a	0	n/a	0	0
+69	24	study_trial	4	call box	n/a	0	n/a	0	0
+99	24	study_trial	2	restaurant	n/a	0	n/a	0	0
+129	24	study_trial	4	call box	n/a	0	n/a	0	0
+159	24	study_trial	3	car	n/a	0	n/a	0	0
+189	24	study_trial	2	restaurant	n/a	0	n/a	0	0
+219	24	study_trial	3	car	n/a	0	n/a	0	0
+249	0	catch_trial	4	call box	destination	33	car	1.5099	0
+265.5	0	catch_trial	1	nail salon	destination	46	nail salon	1.3706	1

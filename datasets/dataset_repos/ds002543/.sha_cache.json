@@ -1,0 +1,18 @@
+{
+  "participants.json": "2728ddf3e66e7dfb3aab53a25c0b44b2fb16489e",
+  "task-RLtestphase_bold.json": "ef67fc3a5885a40fb6b7f5927d2037f83e7e1f48",
+  "task-Stopsignal_bold.json": "8e1ba8053c1985cde6bfc5ea4e0a216ccaf5e101",
+  "participants.tsv": "ce8474d775a75a5ec26c5c60bd252658a46725c0",
+  "CHANGES": "4d3ae8eae451176256b815794d7408fba7a37104",
+  "task-RLlearningphase_bold.json": "3cf506a67799467c898e2e48cde0d0b08d6b9e55",
+  "dataset_description.json": "41c9f64e4e72e074fc864e1ba85aff69388cda06",
+  "task-ppaffalomapper_bold.json": "01c4927938df8437d29aa72ff988f875867b3517",
+  "README": "13a23852c77cb43072d0f9122d8fe6d9552c6449",
+  "sub-001/func/sub-001_task-ppaffalomapper_events.tsv": "73604ba97d1a6339371b66bba1954d43732d20e9",
+  "sub-001/func/sub-001_task-Stopsignal_events.tsv": "26f7221d68b11416280b9b8f2cb8572d87b1e57b",
+  "sub-001/func/sub-001_task-RLlearningphase_run-02_events.tsv": "56e0df9c86e7ab099da7297ed8b43a6dc666f491",
+  "sub-001/func/sub-001_task-RLtestphase_run-03_events.tsv": "b2d9cf1d0b199e97a972b6bc8f7b29e814a2f1f6",
+  "sub-001/func/sub-001_task-RLtestphase_run-02_events.tsv": "d13c00bbcb63d46dda9b939c3cd17615f932bafa",
+  "sub-001/func/sub-001_task-RLlearningphase_run-01_events.tsv": "2d93d2362d69c65057ed557b3d1031e34b6602a3",
+  "sub-001/func/sub-001_task-RLtestphase_run-01_events.tsv": "9b56ee7c32cced3beec28e447bd079423b474106"
+}

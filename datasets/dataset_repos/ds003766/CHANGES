@@ -1,0 +1,15 @@
+2.0.3 2022-07-22
+  - Update README
+2.0.2 2022-04-22
+  - Update README
+2.0.1 2022-04-20
+  - Rename the dataset
+  - Add preprocessed data
+2.0.0 2022-04-18
+  - Re-organized data with .set files
+  - Add EGI .mff rawdata
+  - Add PsychoPy scripts of each experiment
+1.1.0 2022-04-16
+  - Re-organize all data
+1.0.0 2021-08-19
+  - Initial version

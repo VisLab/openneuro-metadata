@@ -1,0 +1,20 @@
+{
+  "task-Recall_echo-03_bold.json": "2f3e1f54f9597d023989d42a74e215280acf31ad",
+  "task-Recall_echo-01_bold.json": "92f89062e744475aa9e5de9090a5f92258277a32",
+  "CHANGES": "e95e374f5a966377a91a7ceb0dcbc8da935a9b45",
+  "dataset_description.json": "c01924105e70bed0c74d3470e47e330f2467c7f5",
+  "README": "75f28fe200bc90a3bb4510520ea80ed59a661a05",
+  "task-Recall_echo-02_bold.json": "8a685410838fcbf03e4bbe32bc32a7f9a6c32f1a",
+  "participants.tsv": "301f1c0aefc181e88cef0b32068907d05c2d5c85",
+  "T1w.json": "9d901ddc8fbc86f817f1cf9ef4eb175f874bc0cb",
+  "task-Recall_events.json": "3c24f6605661d6bf65a4925d9f2a227e4ee23852",
+  "participants.json": "b144e21ffbc358aac7a10b73763c00bef1a28f76",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Recall_run-07_events.tsv": "784dcb1157f3a1d8ee60cabdfbfb6ff2e10b7785",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Recall_run-06_events.tsv": "fe5ecd67ffc68c7924749292847cea356bce22e4",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Recall_run-04_events.tsv": "68af0219abe4ea822666f0241e5a055548d85862",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Recall_run-03_events.tsv": "a8c2e0bcd7b974256e3f71d2a706b22fcba7bbca",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Recall_run-01_events.tsv": "7c140d18ff6a70f586501fd1dada21716f066647",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Recall_run-08_events.tsv": "fd73cf5ba575943600e8412c9d5ab98dafe0bb64",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Recall_run-02_events.tsv": "a8f682295f658880bc97fb121414fae6715551aa",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Recall_run-05_events.tsv": "504948e7245f8885235c68a1b58e45265be21153"
+}

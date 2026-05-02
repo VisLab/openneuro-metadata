@@ -1,0 +1,54 @@
+{
+
+"participant_id": {
+  "Description": "Unique participant identifier"
+     },
+
+
+"age": { 
+  "Description": "Age of the participant",
+  "Levels": {
+    },
+    "Units": "years"},
+    
+    
+    
+
+"sex": { 
+  "Description": "Sex of the participant",
+  "Levels":{
+  "1":"female", "2":"male"
+      }
+      },
+    
+    
+    
+
+"BMI": { 
+  "Description": "BMI of the participant",
+  "Levels": {
+    },
+    "Units": "kg/m^2"},
+    
+    
+    
+
+"vo2max_UKK1": { 
+  "Description": "vo2max at the beginning of the running intervention",
+  "Levels":{
+  "1":"female", "2":"male"
+      }
+      },
+    
+    
+    
+
+"vo2max_UKK2": { 
+  "Description": "vo2max at the end of the running intervention",
+  "Levels":{
+  "1":"female", "2":"male"
+      }
+}
+    
+    
+}

@@ -1,0 +1,20 @@
+{
+    "sample": {
+        "Description": "Sample represents the volume of the fMRI run. So sample 1 means the first volume is currently being imaged."
+    },
+    "trial_type": {
+        "LongName": "Event category",
+        "Description": "Indicator of type of action that happened",
+        "Levels": {
+            "TRIGGER": "A trigger was received from the scanner. Value represents which trial the task is currently on",
+            "DOT_FLIP": "The attention dot at the center of the screen changed color. Values 0 and 1 represent color change to darker or lighter",
+            "KEYPRESS": "The participant pressed a button. Value represents the key which was pressed in the button box"
+        }
+    },
+    "response_time": {
+        "Description": "For KEYPRESS, this corresponds to the participant's Reaction Time with respect to the preceding DOT_FLIP. For TRIGGER it represents the instantaneous phase from 0 to 2*pi of the active task trial"
+    },
+    "value": {
+        "Description": "Value codes for information that takes different meanings according to trial_type. See description above"
+    }
+}

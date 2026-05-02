@@ -1,0 +1,34 @@
+{
+	"onset" : {
+		"LongName" : "Onset Time",
+		"Units" : "seconds"
+		},
+	"duration" : {
+		"LongName" : "Duration of hardware trigger signal"
+		},
+	"event_value" : {
+		"LongName" : "Hardware trigger value",
+		"Units" : "uV",
+		"Levels" : {
+			"x1" : "cue left",
+			"x2" : "cue right",
+			"x3" : "cue center",
+			"x4" : "run start",
+			"x5" : "run end",
+			"x6" : "trial start",
+			"x7" : "trial start",
+			"x8" : "trial start",
+			"x9" : "trial start",
+			"x10" : "trial end",
+			"x11" : "target left",
+			"x12" : "target right",
+			"x13" : "target center",
+			"x14" : "button press wrong time",
+			"x15" : "button press correct"
+			}
+		},
+	"event_name" : {
+		"LongName" : "Onscreen stimulus",
+		"Description" : "Description of the corresponding onscreen stimulus"
+		}
+	}

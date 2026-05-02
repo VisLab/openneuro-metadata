@@ -1,0 +1,10 @@
+{
+  "README": "5c01c5e5ec427b0746f87638d6680bdf48916bf2",
+  "CHANGES": "f2cad9148482423353ce7fd82e01896bf3235beb",
+  "participants.tsv": "0b76c5b8c5c7c88a0765252877664a81f905d390",
+  "task-peakypitch_events.json": "07cfd7d687298f7da95ea424d0554e10ffc39704",
+  "dataset_description.json": "edd899604cb14ac8778df416093115717d5c9dd4",
+  "participants.json": "37ce4f955a19edb935870a5eeedc9231ef560325",
+  "task-peakypitch_eeg.json": "9d95440f76178da7c6094c33f2416a0eb9315b81",
+  "sub-01/eeg/sub-01_task-peakypitch_events.tsv": "6500a8f6072664f4a6c210ec992752d440d835c3"
+}

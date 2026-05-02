@@ -1,0 +1,20 @@
+{
+    "RepetitionTime": 2.0,
+    "TaskName": "heat pain with regulation and ratings",
+    "Manufacturer": "Philips",
+    "ManufacturersModelName": "Achieva TX",
+    "MagneticFieldStrength": 3,
+    "PulseSequenceType": "Field Echo EPI",
+    "ParallelReductionFactorInPlane": 1.5,
+    "ParallelAcquisitionTechnique": "SENSE",
+    "EchoTime": 0.020,
+    "PhaseEncodingDirection": "i",
+    "FlipAngle": 72,
+    "Instructions": [
+        "Instructions for regulate-up: During this scan, we are going to ask you to try to imagine as hard as you can that the thermal stimulations are more painful than they are. Try to focus on how unpleasant the pain is, for instance, how strongly you would like to remove your arm from it. Pay attention to the burning, stinging and shooting sensations. You can use your mind to turn up the dial of the pain, much like turning up the volume dial on a stereo. As you feel the pain rise in intensity, imagine it rising faster and faster and going higher and higher. Picture your skin being held up against a glowing hot metal or fire. Think of how disturbing it is to be burned, and visualize your skin sizzling, melting and bubbling as a result of the intense heat.",
+        "Instructions for regulate-down: During this scan, we are going to ask you to try to imagine as hard as you can that the thermal stimulations are less painful than they are. Focus on the part of the sensation that is pleasantly warm, like a blanket on a cold day. You can use your mind to turn down the dial of your pain sensation, much like turning down the volume dial on a stereo. As you feel the stimulation rise, let it numb your arm, so any pain you feel simply fades away. Imagine your skin is very cool, from being outside, and think of how good the stimulation feels as it warms you up."
+    ],
+    "TaskDescription": "fMRI images were acquired during nine functional runs. Runs 1, 2, 4, 5, 6, 8, and 9 were ‘‘passive experience’’ runs, where participants passively experienced and rated the heat stimuli. Among those, run 1, 2, 4, 8, and 9 comprised 11 stimulations from level 1 (44.3uC) to 5 (48.3uC), for a total of 55 stimulations over the 5 runs (11 times each temperature). Transitional frequencies between temperature levels were counterbalanced over the 55 stimulations so that each temperature level was preceded twice by each of the five temperatures, and each of the five ‘‘passive experience’’ runs started with a different temperature. Runs 1, 4, and 9 began with temperature level 1, 3, or 5; Runs 2 and 8 always started with levels 4 and 2, respectively. Different presentation orders were generated for each participant. During run 5 and 6, the temperatures presented in runs 4 and 8 were all increased by one degree, so that the five levels of temperature presented in these runs spanned from level 2 (45.3uC) to level 6 (49.3uC). These runs with increased temperature were designed to examine the effects of different contexts of sensory inputs. However, given that the context effects are not the current focus, we did not focus on the effects of context manipulations. After each trial, participants judged whether the stimulus was painful or not, followed by a judgment of pain or warmth intensity on a 100-point visual analog scale. See Figure S1 for the design of each trial. Run 3 and 7 were ‘‘regulation’’ runs. Participants were asked to cognitively ‘‘increase’’ (regulate-up) or ‘‘decrease’’ (regulate-down) pain intensity. These two ‘‘regulation’’ runs comprised ten randomly presented stimulations (twice each of the first 5 levels [i.e., from 44.3uC to 48.3uC]; and same order for regulate-up and -down conditions). Because the two ‘‘regulation’’ runs did not have the highest level of heat intensity, 49.3uC, we displayed results only for five levels of stimulus intensity in Figure 1. However all levels of heat intensity were included in analyses. Instructions for regulate-up and down are as follows.",
+    "CogAtlasID": "http://www.cognitiveatlas.org/task/id/trm_565a31fa6f444",
+    "ParallelImagingReductionFactor": 1.5
+}

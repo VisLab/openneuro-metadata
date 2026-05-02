@@ -1,0 +1,77 @@
+{
+    "onset": {
+        "Description": "Event onset time measured from the beginning of the corresponding BOLD run.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Event duration. For instantaneous events, duration is 0.",
+        "Units": "s"
+    },
+    "trial_id": {
+        "Description": "Sequential trial index within the run (1-based)."
+    },
+    "trial_type": {
+        "Description": "Type of event within each trial.",
+        "Levels": {
+            "feedback": "Feedback phase.",
+            "rating": "Rating phase.",
+            "response": "Key press (typically modeled as an impulse at response time).",
+            "valuation": "Valuation phase.",
+            "miss": "Miss trial."
+        }
+    },
+    "image_id": {
+        "Description": "Food image ID (from the food_pics database)."
+    },
+    "rating_value": {
+        "Description": "Participant's rating value recorded for the trial: 1–4."
+    },
+    "red": {
+        "Description": "Red channel intensity of the food image (averaged pixel-intensity).",
+        "Units": "a.u."
+    },
+    "green": {
+        "Description": "Green channel intensity of the food image (averaged pixel-intensity).",
+        "Units": "a.u."
+    },
+    "blue": {
+        "Description": "Blue channel intensity of the food image (averaged pixel-intensity).",
+        "Units": "a.u."
+    },
+    "gram": {
+        "Description": "Amount of the food (gram).",
+        "Units": "g"
+    },
+    "protein": {
+        "Description": "Nutritional attribute associated with the food (protein from the food_pics database).",
+        "Units": "g"
+    },
+    "fat": {
+        "Description": "Nutritional attribute associated with the food (fat from the food_pics database).",
+        "Units": "g"
+    },
+    "carb": {
+        "Description": "Nutritional attribute associated with the food (carbohydrate from the food_pics database).",
+        "Units": "g"
+    },
+    "StimulusPresentationSoftware": {
+        "OperatingSystem": "n/a",
+        "SoftwareName": "n/a",
+        "SoftwareVersion": "n/a",
+        "ScreenDistance": "n/a",
+        "ScreenRefreshRate": "n/a",
+        "ScreenResolution": "n/a",
+        "ScreenSize": "n/a"
+    },
+    "SequenceName": "Unknown",
+    "PartialFourierDirection": "PHASE",
+    "ParallelReductionFactorInPlane": 1,
+    "ParallelReductionFactorOutOfPlane": 1,
+    "CogPOID": "http://www.cogpo.org/ontologies/CogPOnext.owl#COGPO_00001",
+    "PulseSequenceDescription": "Multiband gradient-recalled echo-planar imaging",
+    "StimulusPresentation": {
+        "OperatingSystem": "Windows 10",
+        "SoftwareName": "Psychopy",
+        "SoftwareVersion": "2023.1.0"
+    }
+}

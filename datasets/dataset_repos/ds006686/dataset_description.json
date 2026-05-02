@@ -1,0 +1,20 @@
+{
+    "Name": "Effects of older age on neural prototype and exemplar correlates",
+    "BIDSVersion": "1.15.0",
+    "License": "CC0",
+    "Authors": [
+        "Caitlin Bowman",
+        "Dagmar Zeithamova"
+    ],
+    "Acknowledgements": "Thanks to Takako Iwashita and Min Zhang for help with data collection.",
+    "HowToAcknowledge": "Please cite this dataset when using.",
+    "Funding": [
+        "R01NS112366",
+        "F32AG054204"
+    ],
+    "ReferencesAndLinks": [
+        "https://cognem.uoregon.edu/",
+        "https://www.cabilab-uwm.com/"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006686.v1.0.3"
+}

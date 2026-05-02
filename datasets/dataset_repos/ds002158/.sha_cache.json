@@ -1,0 +1,16 @@
+{
+  "participants.tsv": "4b225f98d781753bad8b267f76f4f54157645377",
+  "task-main_bold.json": "bd9700c865c00f8d8b2bfdeb8aa31db9c4676d74",
+  "task-main_events.json": "0b9230cf364641d275ccc8fc2c93b155eca2a205",
+  "CHANGES": "757731c84dcdd01ae397fd44f9025614df5b88e7",
+  "participants.json": "04abcd7a4ac123f3c8b9e4c00c436bb8211d3963",
+  "README": "4706d489c5727835dffeb7a7622183ea88e4d2c2",
+  "dataset_description.json": "d15038ae452d85c037ef1b527eb7c25a7585cb2a",
+  "task-rest_bold.json": "fa5ea9d009da2d2e91b35ed907337d1be57837fe",
+  "sub-02/ses-001/func/sub-02_ses-001_task-main_run-002_events.tsv": "f44a15404c49e1abd0d7816403eb292cce818c64",
+  "sub-02/ses-001/func/sub-02_ses-001_task-main_run-001_events.tsv": "450ba0052208951c0f0755a21ec8fffbcbc8ad01",
+  "sub-02/ses-001/func/sub-02_ses-001_task-main_run-006_events.tsv": "a360679a28aa523d4bece5c56e31e3db7fb9b67e",
+  "sub-02/ses-001/func/sub-02_ses-001_task-main_run-005_events.tsv": "77ca72f203d2514769d33d0c1b21701484caeff9",
+  "sub-02/ses-001/func/sub-02_ses-001_task-main_run-003_events.tsv": "9fc654ef0d4e4358924fb77450bf956530cb014d",
+  "sub-02/ses-001/func/sub-02_ses-001_task-main_run-004_events.tsv": "4354549f29cd8fff5d4d4c462d0809973a97f666"
+}

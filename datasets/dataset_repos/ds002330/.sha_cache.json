@@ -1,0 +1,12 @@
+{
+  "dataset_description.json": "ad30c376fe583adecd833fcccccde9f951b4c3d2",
+  "acq-lr_dwi.json": "c312662caac10a18c77dcf2227e5758eeebdd916",
+  "participants.tsv": "6860b898715daefb27b1b6fb4c88e93a54bcb276",
+  "CHANGES": "74b80cc66757fe98f75ae7da41620e23e2b7ceba",
+  "dir-ap_epi.json": "35768d531a9a649ac9d653a63001d7c114d86084",
+  "acq-rl_dwi.json": "651f4ba19590620f775dc0fae81a14a6c7f11f4b",
+  "task-rest_bold.json": "21c3fa329f74f2f272a487f8caeab65e712260cb",
+  "T2w.json": "99a84db270c801ee40e4496b10fc9a27ba633d0e",
+  "dir-pa_epi.json": "e603b0686f2d03cd9af78febc50eb26f9ce57490",
+  "T1w.json": "3f6bfe76dc1864d62fd7d7d26e941bd244a3e295"
+}

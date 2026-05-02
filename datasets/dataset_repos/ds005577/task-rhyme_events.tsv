@@ -1,0 +1,43 @@
+onset	duration	block_type
+0	2	instructions
+2	18	rhyme decision
+20	15	rest
+35	2	instructions
+37	18	picture match decision
+55	15	rest
+70	2	instructions
+72	18	rhyme decision
+90	15	rest
+105	2	instructions
+107	18	picture match decision
+125	15	rest
+140	2	instructions
+142	18	rhyme decision
+160	15	rest
+175	2	instructions
+177	18	picture match decision
+195	15	rest
+210	2	instructions
+212	18	rhyme decision
+230	15	rest
+245	2	instructions
+247	18	picture match decision
+265	15	rest
+280	2	instructions
+282	18	rhyme decision
+300	15	rest
+315	2	instructions
+317	3	picture match decision
+335	15	rest
+350	2	instructions
+352	18	rhyme decision
+370	15	rest
+385	2	instructions
+387	18	picture match decision
+405	15	rest
+420	2	instructions
+422	18	rhyme decision
+440	15	rest
+455	2	instructions
+457	18	picture match decision
+475	15	rest

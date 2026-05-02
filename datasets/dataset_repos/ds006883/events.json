@@ -1,0 +1,21 @@
+{
+    "onset": {
+        "LongName": "Event onset",
+        "Description": "Time of event onset in seconds relative to the start of the recording. Recorded using PsychoPy.",
+        "Units": "s"
+    },
+    "duration": {
+        "LongName": "Event duration",
+        "Description": "Duration of the event in seconds. Recorded using PsychoPy.",
+        "Units": "s"
+    },
+    "trial_type": {
+        "LongName": "Event category",
+        "Description": "Which of the 12 categories was shown."
+    },
+    "stim_file": {
+        "LongName": "Stimulus file",
+        "Description": "File name of the stimulus presented during the event. There are 3 exemplars per category.",
+        "Units": "string"
+    }
+}

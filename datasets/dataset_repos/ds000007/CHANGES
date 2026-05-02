@@ -1,0 +1,11 @@
+1.0.0   2011-10-06
+    - initial release
+    2013-03-21 - Updated release with QA information
+
+1.1.0   2016-02-17
+    - Updated with corrected orientation in NIFTI headers, includes masks and brain extractions.
+    - New orientation information was extracted from original dicom files using dcm2niix.
+
+2.0.0   2016-05-05
+    - Re-packaged in BIDS format
+

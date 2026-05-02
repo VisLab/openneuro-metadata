@@ -1,0 +1,35 @@
+{
+    "onset": {
+        "Description": "Detected reach movement onset",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Not applicable for discrete movement onset events",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Type of event",
+        "Levels": {
+            "movement_start": "Reach movement onset",
+            "movement_done": "Reach movement done (= response button) when no start-button"
+        }
+    },
+    "stim_file": {
+        "Description": "No external stimulus; 'n/a'"
+    },
+    "response_type": {
+        "Description": "Effector used for the reach",
+        "Levels": {
+            "left_hand": "Left hand reach",
+            "right_hand": "Right hand reach"
+        }
+    },
+    "response_time": {
+        "Description": "Latency if defined by paradigm; 'n/a' in current script",
+        "Units": "s"
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "n/a",
+        "SoftwareName": "n/a"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "CHANGES": "7e1876eea0701d746c6f34d914e973ff9138c810",
+  "participants.json": "643963b20b3e9d4a3de30a5655299fd94ec2396b",
+  "dcm2bids.log": "9ab2c751db4baccecc33595e8a70c5d5b881580f",
+  "participants.tsv": "e227b4dd30d0f41476bad39f1c0c3552643ee767",
+  "README": "8c2fac19ada53f0dbb7ce78538409fd3eab7126d",
+  "dataset_description.json": "c61dbf7ed16890a38c3b2c25c1bdf1c15566f690",
+  "sub-01/func/sub-01_task-auditory_run-01_events.tsv": "ec9b3abb0c5d61af7b850412270849fc661f750d",
+  "sub-01/func/sub-01_task-auditory_run-06_events.tsv": "ec93c9064675fc8c9f8d14546cb69fd98a8e0172",
+  "sub-01/func/sub-01_task-auditory_run-03_events.tsv": "beb9372fa330dfd0ad4cd9e0466b9fc87037d694",
+  "sub-01/func/sub-01_task-auditory_run-02_events.tsv": "6ffb9e70e5ccd76dca083429f19f3e9238a99816",
+  "sub-01/func/sub-01_task-auditory_run-07_events.tsv": "bba83aac2d9a6cc1fc609c5c2f02ff5e6dfdae9d",
+  "sub-01/func/sub-01_task-auditory_run-08_events.tsv": "2f2b3b823a67b752ca17996b24f450fb77969a44",
+  "sub-01/func/sub-01_task-auditory_run-04_events.tsv": "e7b532d0eb269f2f0e1cd273255d30cc5fcdf0cd",
+  "sub-01/func/sub-01_task-auditory_run-05_events.tsv": "966fc7b6c8a7122a2225e2a127142bc09e173c7c"
+}

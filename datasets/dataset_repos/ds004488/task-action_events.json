@@ -1,0 +1,8 @@
+{
+  "response": {
+    "Description": "the participants response druing the recognition task: 1 means sports, -1 means non-sports."
+  },
+  "response_time": {
+    "Description": "the participants reaction time druing the recognition task."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "CHANGES": "144aa7e7a22decac2ccfb6760353a50778ebd425",
+  "participants.json": "b4f1f134ebd2c879a317f84359c09788bb4ad606",
+  "dataset_description.json": "5818dc558cc8ceca862cfb822a61ee023080bffa",
+  "README": "a7f217e546337264f7dbbca32d18d987a8a97f3e",
+  "participants.tsv": "05457886e542fcb65974ad08679b5ea8d9b385ac",
+  "sub-AB4/eeg/sub-AB4_task-simpleRT_run-2_events.json": "8afca72a2580645682255118ab6a27d9d8eb02a5",
+  "sub-AB4/eeg/sub-AB4_task-gonogo_run-1_events.tsv": "1e1f075c44c7d9fac4c5415300a777408c160e9f",
+  "sub-AB4/eeg/sub-AB4_task-simpleRT_run-1_events.tsv": "e93b356c61b0b631d31fe7b121af7cd3a343f92d",
+  "sub-AB4/eeg/sub-AB4_task-simpleRT_run-1_events.json": "8afca72a2580645682255118ab6a27d9d8eb02a5",
+  "sub-AB4/eeg/sub-AB4_task-gonogo_run-2_events.tsv": "b669ba91f6d5061755a9f953f2d34a7dc27fb668",
+  "sub-AB4/eeg/sub-AB4_task-gonogo_run-2_events.json": "8afca72a2580645682255118ab6a27d9d8eb02a5",
+  "sub-AB4/eeg/sub-AB4_task-simpleRT_run-2_events.tsv": "56955948cfb9af8cb01e187a6fed7eae69bad6a6",
+  "sub-AB4/eeg/sub-AB4_task-passive_run-1_events.tsv": "84c97e168bc482201ca4afa8c65ca872262e1e16",
+  "sub-AB4/eeg/sub-AB4_task-gonogo_run-1_events.json": "8afca72a2580645682255118ab6a27d9d8eb02a5",
+  "sub-AB4/eeg/sub-AB4_task-passive_run-1_events.json": "8afca72a2580645682255118ab6a27d9d8eb02a5"
+}

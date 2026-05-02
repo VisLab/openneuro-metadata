@@ -1,0 +1,8 @@
+{
+  "CHANGES": "d7cb840f207a1dbbe684533868f2623456979a32",
+  "dataset_description.json": "3ae021d3419867918d5aab0c66d9ca49aea04e13",
+  "participants.tsv": "282817aaab8d1511e2235487be1c8196d9ebdde2",
+  "task-SpatialMemory_events.json": "2b5029c5b952578d29d50c417ee5b5348362b2dd",
+  "README": "b56987bc5d0ce5be6d0c6ac4563ce345b6954140",
+  "sub-001/eeg/sub-001_task-SpatialMemory_events.tsv": "211c06a3db09ec7da43a4a51b35f495c4413e389"
+}

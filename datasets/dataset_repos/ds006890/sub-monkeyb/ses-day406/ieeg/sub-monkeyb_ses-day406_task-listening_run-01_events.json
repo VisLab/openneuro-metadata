@@ -1,0 +1,30 @@
+{
+    "onset": {
+        "Description": "Stimulus onset",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Stimulus duration",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Type of event",
+        "Levels": {
+            "stimulus_on": "Auditory stimulus onset"
+        }
+    },
+    "stim_file": {
+        "Description": "Presented audio file name (e.g., 'DoMi.wav')"
+    },
+    "response_type": {
+        "Description": "Participant response effector if any, else 'n/a'"
+    },
+    "response_time": {
+        "Description": "Response latency if present",
+        "Units": "s"
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "n/a",
+        "SoftwareName": "n/a"
+    }
+}

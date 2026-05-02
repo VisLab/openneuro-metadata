@@ -1,0 +1,8 @@
+1.0.4 2023-06-28
+  - Uploaded the rest of subject "Merged" data in the souredata folder
+1.0.3 2023-06-15
+  - Sourcedata > Merged Data files were corrupted on initial upload. Re-did upload for sub-01 to sub-03 for Merged Data. 
+1.0.2 2023-06-06
+  - Added "Merged" files to the sourcedata folder. These are filtered at 1 Hz high-pass and the individual LiveAmps are merged along with the Cometas IMUs
+1.0.1 2023-03-30
+  - add files and source data

@@ -1,0 +1,26 @@
+1.1.2 2025-10-14
+  - update annotation and stimuli files
+1.1.1 2025-02-17
+  - update lppHK_word_information.csv
+1.1.0 2024-08-02
+  - update participants.tsv
+1.0.9 2024-07-31
+  - update participants.json
+1.0.8 2024-07-30
+  - update README
+1.0.7 2024-07-30
+  - update README
+1.0.6 2024-06-28
+  - update defaced T1 data, rename preprocessed files
+1.0.5 2024-04-15
+  - update behavioral results
+1.0.4 2023-12-26
+  - update
+1.0.3 2023-12-14
+  - update codes
+1.0.2 2023-12-04
+  - update behavior results
+1.0.1 2023-11-07
+  - preprocessed eegdata
+1.0.0 2023-10-29
+  - The first version

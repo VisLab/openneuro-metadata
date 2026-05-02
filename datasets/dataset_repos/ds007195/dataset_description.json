@@ -1,0 +1,18 @@
+{
+    "Name": "A SPIO-SWI sample for a rat brain",
+    "BIDSVersion": "1.10.1",
+    "License": "CC0",
+    "Authors": [
+        "Edward D. Boyd",
+        "Quan Jiang"
+    ],
+    "Acknowledgements": "",
+    "HowToAsknowledge": "",
+    "Funding": [
+        "NIH R01",
+        "NIH R01"
+    ],
+    "EthicApprovals": "IACUC information",
+    "ReferenceAndLinks": "paper link after publish",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007195.v1.0.0"
+}

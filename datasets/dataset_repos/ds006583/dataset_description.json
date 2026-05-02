@@ -1,0 +1,14 @@
+{
+    "Name": "Using Music to Measure Affective Transitions",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "HowToAcknowledge": "https://doi.org/10.1523/ENEURO.0184-24.2025",
+    "Authors": [
+        "Matthew E. Sachs",
+        "Mariusz S. Kozak",
+        "Kevin N. Ochsner",
+        "Christopher Baldassano"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006583.v1.0.0"
+}

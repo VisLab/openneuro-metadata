@@ -1,0 +1,24 @@
+{
+    "Authors": [
+        "Karen Emmorey",
+        "Emily M. Akers",
+        "Priscilla Martinez",
+        "Katherine J. Midgley",
+        "Phillip J. Holcomb"
+    ],
+    "Name": "Assessing sensitivity to semantic and syntactic information in deaf readers: An ERP\nstudy",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "bids-matlab-tools",
+            "Version": "8.0"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005296.v1.0.1",
+    "HowToAcknowledge": "Emmorey, K., Akers, E. M., Martinez, P. M., Midgley, K. J., & Holcomb, P. J. (2025). Assessing sensitivity to semantic and syntactic information in deaf readers: An ERP study. Neuropsychologia, 109171. https://doi.org/10.1016/j.neuropsychologia.2025.109171"
+}

@@ -1,0 +1,55 @@
+# Sharpening of Hierarchical Visual Feature Representations of Blurred Images
+
+## Original paper
+
+Abdelhack, M., & Kamitani, Y. (2018). Sharpening of Hierarchical Visual Feature Representations of Blurred Images. ENeuro, 5(3), ENEURO.0443-17.2018. https://doi.org/10.1523/ENEURO.0443-17.2018
+
+## Dataset
+
+
+### MRI data
+
+This dataset contains fMRI data from five subjects ('sub-01', 'sub-02', 'sub-03', 'sub-04', and 'sub-05'). Each subject data contains three types of MRI data.
+
+- 'ses-training': fMRI data from the natural image presentation experiment for the decoder training (20 runs; 3 sessions)
+- 'ses-testNoCategory': fMRI data from the test image presentation experiment in no-prior condition (2 runs; 1 sessions)
+- 'ses-testCategory': fMRI data from the test image presentation experiment in category-prior condition (2 runs; 1 sessions)
+
+
+
+
+Each scanning session consisted of functional EPI images covered the entire brain (TR, 2000 ms; TE, 43 ms; flip angle, 80°; voxel size, 2 × 2 × 2 mm; FOV, 192 × 192 mm; number of slices, 76; slice gap, 0 mm; multiband factor, 4) .
+The dataset also includes a T1-weighted anatomical reference image for each subject (TR, 2250 ms; TE, 3.06 ms; TI, 900 ms; flip angle, 9°; voxel size, 1.0 × 1.0 × 1.0 mm; FOV, 256 × 256 mm).
+The T1-weighted images were scanned only once for each subject in a separate scanning session and are stored in 'ses-anatomy' directories.
+The T1-weighted images were defaced by pydeface (<https://pypi.python.org/pypi/pydeface>).
+All DICOM files are converted to Nifti-1 files by mri_convert in FreeSurfer.
+
+#### Preprocessed fMRI data
+
+Preprocessed fMRI data are available in `derivatives/preproc-spm`. See the original paper (Abdelhack & Kamitani, 2018) for the details of preprocessing.
+
+
+### Task event files
+
+Task event files ('sub-\*_ses-\*_task-\*_run-\*_events.tsv') contains recorded event during fMRI runs. Each column of the task event files represents:
+
+- 'onset': onset time of an event (sec)
+- 'duration': duration of the event (sec)
+- 'trial_type': type of the event (1: Stimulus presentation block, 2: Repetition block, -1 and -2: Initial and post rest blocks without visual stimulus)
+- 'stimulus_name': stimulus file name of the image presented in a stimulus block ('n/a' in rest blocks)
+- 'category_index': category ID of the images presented in a stimulus block of the category-prior condition (1 in the other conditions) 
+- 'image_index': stimulus ID of the image presented in a stimulus block ('n/a' in rest blocks)
+- 'button_response': pressed button by the subject at the block, 1: uncertainty and 2: certainty for testNoCagegory and testCategory experiment, and 1: one-back repetition for training experiment ('n/a' or 0.0 when the subject did not press the button in the block)
+- 'response_time': time of button press at the block, elapsed time (sec) from the beginning of each run ('n/a' or 0.0 when the subject did not press the button in the block)
+
+
+### Stimulus images
+
+Due to license issues, our dataset do not include the stimulus images used in the experiments. 
+
+
+## Contact
+
+- Email: <kamitanilab@gmail.com>
+- We also accept inqueries at [issues on GitHub/KamitaniLab/OpenData](https://github.com/KamitaniLab/OpenData/issues).
+

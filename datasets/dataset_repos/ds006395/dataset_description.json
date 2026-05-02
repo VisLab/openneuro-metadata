@@ -1,0 +1,43 @@
+{
+    "Name": "Upper limb dystonia, cervical dystonia and healthy controls dataset",
+    "BIDSVersion": "1.2.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Danilo Donizete de Faria",
+        "Artur José Marques Paulo",
+        "Joselisa Péres Queiroz de Paiva",
+        "Anderson Winkler",
+        "Vanderci Borges",
+        "Sonia Maria Azevedo Silva",
+        "Henrique Ballalai",
+        "Patricia de Carvalho Aguiar"
+    ],
+    "Acknowledgments": "We thank FAPESP, CNPq and CAPES foundation for the support, and all participating center of the study: Hospital Israelita Albert Einstein, the Universidade Federal de São Paulo, and the Hospital Servidor Público Estadual. We also thank all participants of our study.",
+    "HowToAcknowledge": "We thank the authors of the Upper limb dystonia, cervical dystonia and healthy controls dataset (OpenNeuro Accession Number\nds006395) for providing the data.",
+    "Funding": [
+        " FAPESP (grant 2021/14108-4), CNPq (grant: 402982/2021-5), CAPES (grant: 88887.518334/2020-00)"
+    ],
+    "EthicsApprovals": [
+        "The study was approved by the Institutional Review Boards of all participating centers (Hospital Israelita Albert Einstein, Hospital do Servidor Público Estadual, and Universidade Federal de São Paulo), and all subjects provided written informed consent prior to participation."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006395.v1.0.7",
+    "GeneratedBy": [
+        {
+            "Name": "pydeface",
+            "Version": "2.0.2",
+            "Description": "Used to de-identify anatomical T1w images.",
+            "CodeURL": "https://github.com/poldracklab/pydeface"
+        },
+        {
+            "Name": "E-Prime",
+            "Version": "2.0",
+            "Description": "Used to generate the experimental design and timing of the finger-tapping task."
+        }
+    ],
+    "ReferencesAndLinks": [
+        "doi: 10.1016/j.parkreldis.2025.108096.",
+        "doi: 10.1117/1.NPh.7.4.045004",
+        "doi: 10.1038/s41598-026-39542-z"
+    ]
+}

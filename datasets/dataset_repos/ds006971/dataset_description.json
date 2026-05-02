@@ -1,0 +1,16 @@
+{
+    "Name": "Shoulder abduction motor-task fMRI in healthy participants",
+    "BIDSVersion": "1.10.1",
+    "License": "CC0",
+    "Authors": [
+        "Neha A Reddy",
+        "Michelle C Medina",
+        "Molly G Bright"
+    ],
+    "HowToAcknowledge": "Please cite this paper: Neha A. Reddy, Michelle C. Medina, Jordan N. Northrop, Chendong Zou, Rebecca G. Clements, Aravind Nehrujee, Milap Sandhu, Molly G. Bright (2025) Impact of multi-echo ICA modeling decisions on motor-task fMRI analysis; bioRxiv 2025.11.28.690440; doi: https://doi.org/10.1101/2025.11.25.690440",
+    "Funding": [
+        "NIH grant (MGB) R03HD113915, NIH Funded Training Program (NAR) T32EB025766, AHA Predoctoral Fellowship (MCM) 25PRE1356822"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006971.v1.1.0",
+    "Acknowledgements": "Center for Translational Imaging at Northwestern University"
+}

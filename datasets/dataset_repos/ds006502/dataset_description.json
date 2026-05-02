@@ -1,0 +1,20 @@
+{
+    "Name": "Skill learning and consolidation in healthy humans",
+    "License": "CC0",
+    "Authors": [
+        "Bönstrup, M",
+        "Buch, ER",
+        "Cohen, LG"
+    ],
+    "Acknowledgements": "This research was supported by the Intramural Research Program of the National Institutes of Health (NIH). The contributions of the NIH author(s) were made as part of their official duties as NIH federal employees, are in compliance with agency policy requirements, and are considered Works of the United States Government. However, the findings and conclusions presented in this paper are those of the author(s) and do not necessarily reflect the views of the NIH or the U.S. Department of Health and Human Services.",
+    "HowToAcknowledge": "Cite this paper: https://www.ncbi.nlm.nih.gov/pubmed/25977808 and consider including the following message: 'This data was obtained from the OpenNeuro database. Its accession number is ds000117'",
+    "Funding": [
+        "Intramural Research Program (IRP) of the National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health (NIH), Bethesda, MD, USA."
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.10.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006502.v1.0.0",
+    "DatasetType": "raw"
+}

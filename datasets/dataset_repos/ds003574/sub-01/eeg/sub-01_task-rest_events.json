@@ -1,0 +1,12 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "microseconds"
+  },
+  "duration": {
+    "Description":  "duration of the event"
+  }, 
+  "category": {
+    "Description": "Trigger of each fMRI scan"
+  }
+}

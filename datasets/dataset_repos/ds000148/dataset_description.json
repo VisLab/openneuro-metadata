@@ -1,0 +1,13 @@
+{
+    "id": "HEAD",
+    "Name": "Who can afford self-control? The neural efficiency mechanism explains effective self-regulation of behavior ",
+    "BIDSVersion": "1.0.0rc3",
+    "License": "PPDL",
+    "Authors": [
+        "Edward NÄcka",
+        "Magdalena Senderecka",
+        "BartÅomiej Kucharzyk",
+        "Marcel Falkiewicz"
+    ],
+    "HowToAcknowledge": "In addition to any citation requirements in the dataset summary please use the following to cite this dataset: 'This data was obtained from the OpenfMRI database. Its accession number is ds000148.'"
+}

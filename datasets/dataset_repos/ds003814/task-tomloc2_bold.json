@@ -1,0 +1,6 @@
+{
+	"TaskName": "tomloc2",
+    "TaskFullName": "Theory of Mind Localizer v2",
+    "Instructions": "In this task, you'll read brief, two- to four-sentence stories. After each story, there will be a true or false question. Press the button with your right pointer finger for true, middle finger for false.",
+    "TaskDescription": "This theory of mind localizer is a modified version of the experiment used by Dodell-Feder et al. (fMRI item analysis in a theory of mind task, NeuroImage 2011). Participants read 2-4-sentence vignettes, that either describe a character's false belief, or a false physical representation (termed false photo). After the story, they are asked a true or false question, either about reality or representation. The story lasts 10s, followed by a 4s question/response period, yielding 14s-long blocks. This version includes four 5-minute runs worth of distinct stories (24 per condition), and counterbalances condition (belief/photo) with question type (reality/representation)."
+}

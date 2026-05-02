@@ -1,0 +1,38 @@
+1.3.0 2019-12-03
+  - Rename files to be compliant with BIDS v1.3.0 dev
+  - Move content in *_componentLabels.txt to *_decomposition.json
+  - Remove *_componentLabels.txt
+  - Update Dataset_description.json
+  - Update README
+1.3.0 2019.12.03
+  - Rename files to be compliant with BIDS v1.3.0 dev
+  - move content in *_componentLabels.txt to *_decomposition.json
+  - remove *_componentLabels.txt
+  - Update Dataset_description.json  
+  - update README
+
+1.2.3 2019.10.08
+  - add code
+
+1.2.2 2019.07.31
+  - Rename files to add description information according to BIDS v1.3.0 dev
+  - Update README
+  - Update Dataset_description.json  
+  
+1.2.1 2019.07.15
+  - Update CHANGES
+
+1.2.0 2019-06-17
+  - Rename all files according to BIDS v1.3.0 dev
+  - Add required metadata files according to BIDS v1.3.0 dev
+  - Remove the first line of all componentLabel files
+  - Add mixing matrix files
+  - Update Dataset_description.json
+  - Delete participants.tsv
+  - Update README
+
+1.1.0 2019-03-19
+  - Add a license
+
+1.0 2019-02-25
+  - Initial release

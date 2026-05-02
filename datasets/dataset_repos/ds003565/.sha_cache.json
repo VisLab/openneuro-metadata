@@ -1,0 +1,9 @@
+{
+  "CHANGES": "43a2dc403422773af996bd92e0462f409d84c8ae",
+  "README": "238bb9169d16e2c7d6e16ea362bc5d892c1f5447",
+  "dataset_description.json": "b0bc80ed7ccd3a1c961cc0e524e394a0a3e56776",
+  "participants.json": "94df5dcdf8d9d008bd9b426e92907e7e216d2ca8",
+  "participants.tsv": "a5d3caef7e63a00a52b6b3cbf71f653d825a4e9b",
+  "sub-001/eeg/sub-001_task-VerbalWorkingMemory_events.json": "c6523a06649947c5b96a6e3438d6a0cb5b4bde37",
+  "sub-001/eeg/sub-001_task-VerbalWorkingMemory_events.tsv": "2c6c2a98102f73a2c749939f2006ec7c84756426"
+}

@@ -1,0 +1,13 @@
+{
+    "TaskName": "ASSR",
+    "TaskDescription": "Auditory Steady State Response: 40 Hz amplitude modulated noise, with accompanying trigger signal, was played to the subject. By focusing on the 40 Hz SNR in the recorded data, an objective signal quality could be determined. ",
+    "MiscChannelCount": 12,
+    "EEGChannelCount": 8,
+    "EOGChannelCount": 2,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 3,
+    "SamplingFrequency": 500,
+    "PowerLineFrequency": 50,
+    "EEGReference": "common",
+    "SoftwareFilters": "n/a"
+}

@@ -1,0 +1,6 @@
+1.0.2 2022-08-10
+  - fmaps were deleted as they were not correctly acquired. 3 rejected subjects were deleted as well (1,3,48).
+1.0.1 2022-06-17
+  - Fixed the link to Zenodo
+1.0.0 2022-05-30
+  - First version of the dataset

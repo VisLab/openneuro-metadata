@@ -1,0 +1,22 @@
+{
+  "README": "7513385b1f4c812ad41d069b0c0d326bfab51f56",
+  "CHANGES": "5ac8da184b468f878b877dac2cbcc7756ed8bb34",
+  "dataset_description.json": "89c7ac3a56b3085edd80c1684981bf5745db3396",
+  "participants.json": "43b54353693996b06976450b83bf5c140012aa48",
+  "participants.tsv": "8ce7c14604f2842aa106632700cc0da04e7c87d6",
+  "sub-01/ses-session1/eeg/sub-01_ses-session1_task-eyesopen_events.tsv": "9dd72e217f7468bed92a03a0b7b7fe48e1204568",
+  "sub-01/ses-session1/eeg/sub-01_ses-session1_task-eyesclosed_events.tsv": "d8054d92e0172e3b446a2244b87fdafe68a9bf32",
+  "sub-01/ses-session2/eeg/sub-01_ses-session2_task-mathematic_events.tsv": "b021a19c584f1d097433ea5266fa03d4379765a5",
+  "sub-01/ses-session2/eeg/sub-01_ses-session2_task-eyesopen_events.tsv": "7ba0d4e17caf08e41b7de873df44e6e36e934734",
+  "sub-01/ses-session2/eeg/sub-01_ses-session2_task-memory_events.tsv": "be3251565a0aa7ce50e807034fa60329eb29e9da",
+  "sub-01/ses-session1/eeg/sub-01_ses-session1_task-memory_events.tsv": "5b9961ae2bba82212085bd13bf96ef24be808353",
+  "sub-01/ses-session2/eeg/sub-01_ses-session2_task-music_events.tsv": "b23d01e1174d0b046b5c577d8bb1732f9be6788d",
+  "sub-01/ses-session1/eeg/sub-01_ses-session1_task-music_events.tsv": "126f9b71a7f51c060088452fb4fea4bd198d7c7a",
+  "sub-01/ses-session1/eeg/sub-01_ses-session1_task-mathematic_events.tsv": "1fa57bf3c4f8addee9badaa33574dec337c65a8d",
+  "sub-01/ses-session2/eeg/sub-01_ses-session2_task-eyesclosed_events.tsv": "c0ffba3ce6e83f38b71b137449f8298a85d7f9b0",
+  "sub-01/ses-session3/eeg/sub-01_ses-session3_task-eyesclosed_events.tsv": "c0ffba3ce6e83f38b71b137449f8298a85d7f9b0",
+  "sub-01/ses-session3/eeg/sub-01_ses-session3_task-eyesopen_events.tsv": "7ba0d4e17caf08e41b7de873df44e6e36e934734",
+  "sub-01/ses-session3/eeg/sub-01_ses-session3_task-memory_events.tsv": "be3251565a0aa7ce50e807034fa60329eb29e9da",
+  "sub-01/ses-session3/eeg/sub-01_ses-session3_task-mathematic_events.tsv": "b021a19c584f1d097433ea5266fa03d4379765a5",
+  "sub-01/ses-session3/eeg/sub-01_ses-session3_task-music_events.tsv": "b23d01e1174d0b046b5c577d8bb1732f9be6788d"
+}

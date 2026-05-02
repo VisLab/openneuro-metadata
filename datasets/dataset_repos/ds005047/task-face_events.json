@@ -1,0 +1,12 @@
+{
+  "sti_started": {
+    "Description": "The starting time when the video stimulus begins to play during the scan."
+  },
+  "sti_stopped": {
+    "Description": "The time when the video stimulus stops playing during the scan."
+  },
+  "key_fix": {
+    "Description": "Whether the participant pressed the button when seeing 1-back. 1 indicates that the button was pressed when seeing 1-back."
+  }
+}
+

@@ -1,0 +1,21 @@
+{
+    "Name": "Breath-modulation CVR in an aging cohort",
+    "BIDSVersion": "v1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Peiying Liu",
+        "Lori Donaldson",
+        "Beini Hu",
+        "Gagan S. Wig",
+        "Hanzhang Lu"
+    ],
+    "HowToAcknowledge": "Liu, P. et al. Non-invasive MRI of choroid plexus vascular function. Imaging Neuroscience, 2026.",
+    "Funding": [
+        "NIH R01 NS115771, NIH U01 NS100588, and NIH P41 EB031771."
+    ],
+    "EthicsApprovals": [
+        "This study was approved by the Institutional Review Board of Johns Hopkins University and the University of Maryland School of Medicine."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007588.v1.0.0",
+    "License": "CC0"
+}

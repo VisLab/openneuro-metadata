@@ -1,0 +1,32 @@
+{
+    "trial_type": {
+        "LongName": "Type of trial",
+        "Description": "Describes the type of trial including the instruction and go cues with their respective outcomes.",
+        "Levels": {
+            "instruction_jackpot": "The instruction cue, i.e., where to reach. This is a jackpot trial, i.e., $1.60 if successful, or $0.00 if too slow.",
+            "instruction_robber": "The instruction cue, i.e., where to reach. This is a robber trial, i.e., $0.00 if successful, or a loss of $1.60 if too slow.",
+            "instruction_standard": "The instruction cue, i.e., where to reach. This is a standard trial, i.e., $0.20 if successful, or $0.00 if too slow.",
+            "go_jackpot": "The go cue. This is a jackpot trial.",
+            "go_robber": "The go cue. This is a robber trial.",
+            "go_standard": "The go cue. This is a standard trial."
+        }
+    },
+    "outcome": {
+        "LongName": "Outcome of the trial",
+        "Description": "Describes the outcome of the trial.",
+        "Levels": {
+            "too_slow": "Target not reached before deadline on this trial.",
+            "success": "Target reached before deadline on this trial."
+        }
+    },
+    "initiation_time": {
+        "LongName": "Initiation time",
+        "Description": "Time taken for centroid of cursor to leave the radius of the starting position after appearance of the go cue.",
+        "Units": "seconds"
+    },
+    "completion_time": {
+        "LongName": "Completion time",
+        "Description": "Time taken for entire trial to be completed from the go cue, including the reach and a 0.8 second hold at the target.",
+        "Units": "seconds"
+    }
+}

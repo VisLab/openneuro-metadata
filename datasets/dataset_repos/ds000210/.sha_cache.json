@@ -1,0 +1,17 @@
+{
+  "CHANGES": "96dc8c0db57cf2a142fc375d473325fa610b4a04",
+  "README": "414c27192c1457dd538f9997fd949d6cb86b137a",
+  "T1w.json": "224f965280af58ac974f8abe0ae966c4c31af05e",
+  "task-cuedSGT_echo-3_bold.json": "d4c1c64e577c9c11045fc9883e97054b473ddd6a",
+  "task-rest_echo-2_bold.json": "a9c44128670b75d4776560bd39a966adbc390aa6",
+  "dataset_description.json": "ce139b589473572150cc50c406ab2c27e6c0d988",
+  "task-cuedSGT_echo-2_bold.json": "692cf93c3d12ab2514b4b3e2c3b3dddaaebad0fa",
+  "task-rest_echo-1_bold.json": "4b54215ccd75d2deadf84c33f30b14daac9401c0",
+  "participants.tsv": "5a6ab841f13a4031e785f9f88f862aec7babad2d",
+  "task-cuedSGT_echo-1_bold.json": "9accc1b0371670e63b1d9709894014e7ef41a581",
+  "task-rest_echo-3_bold.json": "5cc8fd7e53dd762d1d7ccc5f659f6418d4c48c37",
+  "sub-01/func/sub-01_task-cuedSGT_run-04_events.tsv": "1b65bac2aaf138c5a1d2567a9e2fe993901b2efb",
+  "sub-01/func/sub-01_task-cuedSGT_run-02_events.tsv": "b33bdc34afc746a2768e255f8d382be76b6da65b",
+  "sub-01/func/sub-01_task-cuedSGT_run-03_events.tsv": "770e0010dd356847e9d2f9acd082ba3d2af8e370",
+  "sub-01/func/sub-01_task-cuedSGT_run-01_events.tsv": "9b1fc74d75c487c52f28f274100da4753b3044a0"
+}

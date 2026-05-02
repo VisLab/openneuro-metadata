@@ -1,0 +1,42 @@
+{
+    "PlasmaAvail": true,
+    "MetaboliteAvail": false,
+    "WholeBloodAvail": true,
+    "DispersionCorrected": false,
+    "time": {
+        "Description": "Time in relation to time zero defined by the _pet.json",
+        "Units": "s"
+    },
+    "plasma_radioactivity": {
+        "Description": "Radioactivity in plasma samples",
+        "Units": "kBq/mL"
+    },
+    "whole_blood_radioactivity": {
+        "Description": "Radioactivity in whole blood samples",
+        "Units": "kBq/mL"
+    },
+    "whole_blood_11CO2": {
+        "Description": "Radioactivity in whole blood 11CO2 samples",
+        "Units": "kBq/mL"
+    },
+    "plasma_leucine": {
+        "Description": "Plasma leucine concentration",
+        "Units": "nmol/mL"
+    },
+    "venous_plasma_radioactivity": {
+        "Description": "Radioactivity in venous plasma samples",
+        "Units": "kBq/mL"
+    },
+    "venous_whole_blood_radioactivity": {
+        "Description": "Radioactivity in venous whole blood samples",
+        "Units": "kBq/mL"
+    },
+    "venous_whole_blood_11CO2": {
+        "Description": "Radioactivity in venous whole blood 11CO2 samples",
+        "Units": "kBq/mL"
+    },
+    "venous_plasma_leucine": {
+        "Description": "Venous plasma leucine concentration",
+        "Units": "nmol/mL"
+    }
+}

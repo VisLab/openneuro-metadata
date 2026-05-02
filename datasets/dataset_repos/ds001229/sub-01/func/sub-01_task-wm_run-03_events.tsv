@@ -1,0 +1,16 @@
+onset	duration	block	trial	cond	nBack	delay	categor	type	nprobes	pm_hit	pm_miss	npm_fa	nld_tot	nld_hit	nld_mis	ld_acc	m_ldrt
+20	44	5	1	WM	1	0	lexdec	real	16	0	0	0	14	12	2	0.857	1.183
+64	42	5	2	WM	1	0	lexdec	real	15	0	0	0	13	12	1	0.923	1.011
+106	50	5	3	WM	1	0	lexdec	real	19	0	0	0	17	14	3	0.824	0.962
+156	40	5	4	WM	1	0	face	real	14	1	0	0	12	11	1	0.917	1.034
+196	22	5	5	WM	1	0	face	catch	5	1	0	0	3	3	0	1	0.816
+218	14	5	6	WM	1	0	scene	catch	1	1	0	0	0	0	0	NaN	0
+232	46	5	7	WM	1	0	scene	real	17	1	0	0	15	10	5	0.667	1.08
+278	30	5	8	WM	1	0	lexdec	catch	9	0	0	0	7	7	0	1	0.846
+308	32	5	9	WM	1	0	face	real	10	1	0	0	8	6	2	0.75	0.938
+340	52	5	10	WM	1	0	face	real	20	1	0	0	18	16	2	0.889	1.093
+392	48	5	11	WM	1	0	face	real	18	1	0	0	16	16	0	1	1.123
+440	54	5	12	WM	1	0	scene	real	21	1	0	0	19	14	5	0.737	1.129
+494	34	5	13	WM	1	0	scene	real	11	1	0	0	9	8	1	0.889	0.971
+528	38	5	14	WM	1	0	scene	real	13	1	0	0	11	10	1	0.909	0.988
+566	36	5	15	WM	1	0	lexdec	real	12	0	0	0	10	8	2	0.8	1.203

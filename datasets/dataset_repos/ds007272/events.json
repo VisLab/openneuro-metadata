@@ -1,0 +1,73 @@
+{
+    "trial_type": {
+        "LongName": "Trial type",
+        "Description": "Modality of stimulus presentation",
+        "Levels": {
+	    "-1": "Fixation",
+            "0": "Other event",
+            "1": "An image is displayed",
+            "2": "A caption is displayed"
+        }
+    },
+    "condition_name": {
+        "LongName": "Condition Name",
+        "Description": "COCO ID of the stimulus that is displayed. Defaults to 0 for events that do not involve a stimulus presentation."
+    },
+    "stim_name": {
+        "LongName": "Stimulus name",
+        "Description": "Name of the stimulus, which can refer to the image path in case of image presentation, the corrected caption in case of caption presentation, 'Fix' for fixation events, 'ImgInst' for imagery instruction events, or 'Img' for the imagery trial (during which the subjects were imagining the previously instructed scene."
+    },
+    "one_back": {
+        "LongName": "One-back",
+        "Description": "Indicates a one-back target trial.",
+        "Levels": {
+            "0": "The trial is not a one-back target.",
+            "1": "The trial is a one-back target.",
+	    "2": "The trial is a one-back target (cross-modal)."
+        }
+    },
+    "train_test": {
+        "LongName": "Train or test",
+        "Description": "Indicates whether the stimulus belongs to the training set or to the test set.",
+        "Levels": {
+	    "0": "No stimulus presented",
+            "1": "The stimulus belongs to the training set.",
+            "2": "The stimulus belongs to the test set."
+        }
+    },
+    "subj_resp": {
+        "LongName": "Subject response",
+        "Description": "Indicates whether the subject pressed the response button (as instructed for one-back target trials)",
+        "Levels": {
+            "0": "The response button was not pressed",
+            "1": "The response button was pressed"
+        }
+    },
+    "imagert": {     
+        "LongName": "Imagery trial",
+        "Description": "Indicates whether the current trial is an imagery trial",
+        "Levels": {
+            "0": "The current trial is not an imagery trial.",
+            "1": "The current trial is an imagery trial."
+        }
+    },
+    "imagery_scene": {     
+        "LongName": "Imagery Scene",
+        "Description": "The scene that was being imagined. Before the start of the fMRI experiment, the participants had learning a mapping from 3 numbers to 3 visual scenes (based on 3 captions selected by the participant).",
+        "Levels": {
+	    "0": "No imagery scene.",
+            "1": "The subject was instructed to imagine scene 1.",
+            "2": "The subject was instructed to imagine scene 2.",
+            "3": "The subject was instructed to imagine scene 3."
+        }
+    },
+    "imagery_pos": {     
+        "LongName": "Imagery position",
+        "Description": "The position of the imagery trial within the run.",
+        "Levels": {
+	    "0": "No imagery scene.",
+            "1": "The imagery trial was at the beginning of the run",
+            "2": "The imagery trial was at the end of the run"
+        }
+    }
+}

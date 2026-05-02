@@ -1,0 +1,16 @@
+{
+  "participants.json": "0e33d7ccce1b652bb6745249ab0de14ecb0df4f9",
+  "CHANGES": "fc2699d17169358e0b1f603c7c6820d02d446048",
+  "03_Reading_Tags.xlsx": "87a2e4316393a4512640e1d25a09f7482c60c00a",
+  "05_SessionEngagement.xlsx": "40b936163c43f1a0627615e4e00f49309938f80f",
+  "02_EEG_Data_Descriptor.xlsx": "a31e0858fba0b5c0966080c037673de386b881c9",
+  "04_Math_Tags.xlsx": "230f9c13f839b2adc6dedba3ac3cfe94e8871f06",
+  "dataset_description.json": "f63ac6a062501841758724b45f97c356097a3d3d",
+  "01_Psychometric_Data.xlsx": "4aded19cac2f171d03f83f9f76106776ef285507",
+  "32_Chs_Location.ced": "ccffe3e076124ba31d6abaa799d720f5fd19765a",
+  "README.txt": "e66e142cbb20f3db51289ac8e63af9e591ebb66b",
+  "participants.tsv": "80db4f465b6bdb2e87c0d9c57a30fc6671d35143",
+  "task-SmartickDataset_events.json": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
+  "sub-Mc01/ses-1/eeg/sub-Mc01_ses-1_task-SmartickDataset_run-3_events.tsv": "20e12d4307652cd760e0667e1bd12c6209ac9d08",
+  "sub-Mc01/ses-1/eeg/sub-Mc01_ses-1_task-SmartickDataset_run-2_events.tsv": "d92cfd664fd0bb52b3147871291f80752af4150d"
+}

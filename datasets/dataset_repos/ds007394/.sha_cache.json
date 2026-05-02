@@ -1,0 +1,22 @@
+{
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "participants.tsv": "b3379e4645184c3dc7ab80f85be39eff54793fcb",
+  "task-physical_bold.json": "b5f6b62a85c7f075e9dccda52c969e89342d78b9",
+  "dataset_description.json": "4bbb9161dda22a3acbf0406550fbd266ef626a76",
+  "datacite.yml": "180e64241a77b09d007beb637edd0ecf254d6d18",
+  "CHANGES": "ef15bec9e64da7b9b0be9140d096830c6e66f6d4",
+  "README": "ba8d52361c4675cba21a08c5aaf101a0160a2014",
+  "task-send_bold.json": "d152d7fef35327ca69a57a311c5d4fc6ea8de8a1",
+  "task-stutterer_bold.json": "9db8bf699756e0875c9a873338951b799842d42d",
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "sub-1/func/sub-1_task-send_run-3_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-1/func/sub-1_task-physical_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-1/func/sub-1_task-stutterer_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-1/func/sub-1_task-send_run-2_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-1/func/sub-1_task-send_run-5_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-1/func/sub-1_task-send_run-6_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-1/func/sub-1_task-send_run-1_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-1/func/sub-1_task-send_run-4_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-1/func/sub-1_task-send_run-8_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-1/func/sub-1_task-send_run-7_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5"
+}

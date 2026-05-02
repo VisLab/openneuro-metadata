@@ -1,0 +1,17 @@
+{
+    "onset": {
+        "Description": "The raw stimulus onset. There we no dummy scans, so these can be used directly for event modeling."
+    },
+    "duration": {
+        "Description": "The duration of the trial_type."
+    },
+    "sub_id": {
+        "Description": "participant_id"
+    },
+    "trail_type": {
+        "Description": "cross: the fixation-cross; stimulus: the smid image; decision: the moral judgment phase."
+    },
+    "smid_id": {
+        "Description": "The specific SMID identifier (ID)."
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "CHANGES": "2d1f0f73c05f8f51ada89f31d6b7215ce16b2525",
+  "README": "52b431e8f58aceda4ff470802234370fb3ead2cd",
+  "dataset_description.json": "3d110647c48053367e1b4207d7570a34d06a3aad",
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "participants.tsv": "3cf9d563810efca39dd8d94614a888253f109838",
+  "sub-S04/func/sub-S04_task-WhatOff_run-6_events.tsv": "6edb41c71085a5fbb55eba3d863fc3475675c5f3",
+  "sub-S04/func/sub-S04_task-WhatOn_run-1_events.tsv": "b5d1bebc3df376df5e618f92adf560dbb30c6356",
+  "sub-S04/func/sub-S04_task-WhatOff_run-2_events.tsv": "a12fea348afdb8bfee7646be0b2ad129ce2aa961",
+  "sub-S04/func/sub-S04_task-WhatOn_run-2_events.tsv": "263460a6a7e7f86ae16676e944507fa1786a5faa",
+  "sub-S04/func/sub-S04_task-WhatOn_run-4_events.tsv": "09b0bda611847fbe39d8de7d9637c5446b0c3373",
+  "sub-S04/func/sub-S04_task-WhatOff_run-5_events.tsv": "6edb41c71085a5fbb55eba3d863fc3475675c5f3",
+  "sub-S04/func/sub-S04_task-WhatOff_run-3_events.tsv": "d6cadbffd63f6e0125df2ba633100ee1c76b68ff",
+  "sub-S04/func/sub-S04_task-WhatOff_run-4_events.tsv": "bc35d342371fa3dd6aaa207453429a3bfdb3ccad",
+  "sub-S04/func/sub-S04_task-WhatOff_run-1_events.tsv": "e81be696c8cb646886b60f5a4fc07219849904fe",
+  "sub-S04/func/sub-S04_task-WhatOn_run-3_events.tsv": "dafd4cc4f1256405bec90cb9caffb4efbe38e312",
+  "sub-S04/func/sub-S04_task-WhatOn_run-5_events.tsv": "dc152d9ee16c5f4969b0b3ca232ecf2d20fc62a6",
+  "sub-S04/func/sub-S04_task-WhatOn_run-8_events.tsv": "b43943a94583acf97e196fe22e5820b85143658d",
+  "sub-S04/func/sub-S04_task-WhatOn_run-7_events.tsv": "f19ca8051886ae00fe47084ec63cf9d65c87dfcc",
+  "sub-S04/func/sub-S04_task-WhatOn_run-6_events.tsv": "ce3f1378a654a4a56db49aa41af4aa379e21dc7b"
+}

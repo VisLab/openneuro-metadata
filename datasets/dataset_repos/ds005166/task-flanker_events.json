@@ -1,0 +1,22 @@
+{
+  "onset": {
+    "LongName": "Event onset",
+    "Description": "Onset (in seconds) of the event."
+  },
+  "duration": {
+    "LongName": "Duration of the event",
+    "Description": "Duration of the event (measured from onset) in seconds."
+  },
+  "trial_type": {
+    "LongName": "Trial type",
+    "Description": "Primary categorisation of each trial to identify them as instances of the experimental conditions."
+  },
+  "response_time": {
+    "LongName": "Response time.",
+    "Description": "Response time measured in seconds."
+  },
+  "response": {
+    "LongName": "Response choice",
+    "Description": "Accuracy of response choice based on trial type; if error, type of error."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "CHANGES": "e7c7bc79d112b98118ef3994d73e8c7898fbabc6",
+  "README": "62f1a2bf43c2c90f9556ab28ca5f537f9a1a0d0c",
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "participants.tsv": "a18f9be30535b96cf1ad384707d8df62d6464e0f",
+  "task-visualfeedback_bold.json": "478867ed949253154f6b4fdb2d93464b6d7a22a1",
+  "task-faceexplocalizer_bold.json": "0aa8523cf6e55e03b2be14469cf864a00cfccbbb",
+  "dataset_description.json": "7e0d98e42909864a15b3af6da5c65f25cbf99182",
+  "participants.json": "96471fa9eb6a79643303df3d17ba966936ea8746",
+  "task-auditoryfeedback_bold.json": "15121a4aa1935494cfe9984c3e3b389c4976f338",
+  "task-nofeedback_bold.json": "09ee317bba82c95a510c6503157f65e80adc19cf",
+  "sub-01/ses-01/func/sub-01_ses-01_task-faceexplocalizer_run-01_events.tsv": "7970af36f5ce5670c1b9155394a25a89549d2b66",
+  "sub-01/ses-01/func/sub-01_ses-01_task-auditoryfeedback_run-01_events.tsv": "8dfa67898ba05a4e3635b5f6addee84d84d2f69d",
+  "sub-01/ses-01/func/sub-01_ses-01_task-visualfeedback_run-01_events.tsv": "e6e6bc4714fc5cfc97c94fd4b2a7116bfbacfdf1",
+  "sub-01/ses-01/func/sub-01_ses-01_task-nofeedback_run-01_events.tsv": "91e08d3d835079f70570d95183fbd61192b7c928"
+}

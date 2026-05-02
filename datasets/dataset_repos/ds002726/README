@@ -1,0 +1,20 @@
+OpenNeuro curator note: This dataset was previously accessible at ds001988 and ds001996. The dataset was reuploaded due to privacy considerations. 
+
+﻿This dataset contains: (A) structural MRI data of gifted and control children; (B) and cortical thickness data.
+
+(A) MRI DATA
+
+All participants were examined on a 3T MRI scanner (Magnetom Trio Tim, Siemens Medical Systems, Germany) at the Centre de Diagnòstic per la Imatge in the Hospital Clínic of Barcelona. High-resolution T1-weighted images were acquired with the MPRAGE 3D protocol (TR=2300 ms; TE=3 ms; TI=900 ms; FOV=244x244 mm2; 1 mm isotropic voxel).
+
+Subjects 1 -15: gifted children
+Subjects 16-29: control children
+
+(B) CORTICAL THICKNESS DATA
+
+The cortical thickness matrices are:
+
+rawCT_GG: data for the gifted group; contains the cortical thickness of the 308 regions (columns) for each individual subject (raws) in mm.
+
+rawCT_CG: data for the control group; contains the cortical thickness of the 308 regions (columns) for each individual subject (raws) in mm.
+
+The structure of both matrices is subjects x regions.

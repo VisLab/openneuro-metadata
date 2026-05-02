@@ -1,0 +1,40 @@
+Paper: https://doi.org/10.1093/cercor/bhad106
+
+Four stimuli were used:
+
+(Note that the versions presented to subjects were edited to remove credits and title pages; these edited versions are available upon request out of courtesy to the filmmakers, which is why they are not in the stimuli folder).
+
+<b> Stimuli Description </b>
+- Iteration (https://youtu.be/c53fGdK84rc; 12:27 min:s) is a sci-fi movie that follows a female character as she goes through multiple iterations of waking up and trying to escape a facility. A male character appears toward the end to help her. 
+- Defeat (https://youtu.be/6yN9VH_4GSQ; 7:57 min:s) follows a family of three (mother, two children) as the brother bullies his sister and she builds a time machine to go back and get revenge. 
+- Growth (https://youtu.be/JyvFXBA3O8o; 8:27 min:s) follows a family of four (mother, father, two brothers) as the children grow up and eventually move out amid some family conflict. 
+- Lemonade (https://youtu.be/Av07QiqmsoA; 7:27 min:s) is a Rube-Goldberg machine consisting of a series of objects that move throughout a house and ends in the pouring of a cup of lemonade. This movie was lightly edited to remove fleeting shots of human characters. 
+
+<b> Additional information </b>
+Iteration and Defeat both contained screen cuts (continuity editing), whereas Growth and Lemonade were shot in a continuous fashion with the camera panning smoothly from one scene to the next.
+
+Runs are a bit longer than the movie stimuli themselves. We recommend dropping the first 2 TRs and the last 11 TRs for each functional run of Growth, Lemonade and Iteration and 12 TRs for Defeat (start and stop padding). Please reach out if you have any questions.
+
+<i>Growth:</i>
+- Total TRs: 517
+- Dropped: First 2 TRs and last 11 TRs
+- Remaining TRs: 504
+
+<i>Lemonade</i>
+- Total TRs: 461
+- Dropped: First 2 TRs and last 11 TRs
+- Remaining TRs: 448
+
+<i>Defeat</i>
+- Total TRs: 492
+- Dropped: First 2 TRs and last 12 TRs
+- Remaining TRs: 478
+
+<i> Iteration</i>
+- Total TRs: 760
+- Dropped:  First 2 TRs and last 11 TRs 
+- Remaining TRs: 747
+
+Derivatives
+
+This folder has preprocessed data - one with a shared response model applied ('nocensor_srm-recon') and one without ('_nocensor')

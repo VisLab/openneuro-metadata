@@ -1,0 +1,9 @@
+1.0.1 2025-05-16
+  - Added EEG preprocessing scripts and preprocessed data in \derivatives\preprocessed\
+  - Added SNR calculation code and results in \derivatives\SNR\
+  - Added ERP analysis scripts and data in \derivatives\ERP_analysis\
+  - Added time-frequency analysis scripts and data in \derivatives\TF_analysis\
+  - Added correlation analysis scripts and data in \derivatives\correlation_analysis\
+  - Added reliability analysis scripts and data in \derivatives\reliability_analysis\
+1.0.0 2024-09-24
+  - The first version

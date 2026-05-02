@@ -1,0 +1,51 @@
+{
+	"trial_type": {
+		"LongName": "Trial Type",
+		"Description": "Trial condition labels",
+		"Levels": {
+			"FamPerson": "Images of familiar faces",
+			"UnfamPerson": "Images of unfamiliar faces",
+			"Object": "Images of generic objects",
+			"FamPlace": "Images of familiar scenes",
+			"UnfamPlace": "Images of unfamiliar scenes"
+		}
+	},
+	"trial_type_id": {
+		"LongName": "Trial Type ID",
+		"Description": "Trial condition IDs",
+		"Levels": {
+			"1": "FamPerson",
+			"2": "UnfamPerson",
+			"3": "Object",
+			"4": "FamPlace",
+			"5": "UnfamPlace"
+		}
+	},
+	"identity": {
+		"LongName": "Identity",
+		"Description": "IDs for person, place, or object identity",
+		"Levels": {
+			"1": "Identity 1",
+			"2": "Identity 2",
+			"3": "Identity 3",
+			"4": "Identity 4",
+			"5": "Identity 5",
+			"6": "Identity 6"
+		}
+	},
+	"accuracy": {
+		"LongName": "Accuracy",
+		"Description": "Response accuracy",
+		"Levels": {
+			"0": "Inaccurate",
+			"1": "Accurate"
+		}
+	},
+	"StimulusPresentation": {
+		"OperatingSystem": "Mac OS 10.14.6",
+		"SoftwareName": "Psychtoolbox",
+		"SoftwareRRID": "SCR_002881",
+		"SoftwareVersion": "3.0.16",
+		"Code": "https://osf.io/5yjgh/"
+	}
+}

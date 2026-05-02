@@ -1,0 +1,15 @@
+{
+    "Name": "HeartBEAM: Older Adult Resting State and Auditory Oddball Task EEG Data",
+    "License": "CC0",
+    "Authors": [
+        "Andy Jeesu Kim",
+        "Santiago Morales",
+        "Joshua Senior",
+        "Mara Mather"
+    ],
+    "ReferencesAndLinks": [
+        "Kim, A. J., Morales, S., Senior, J., & Mather, M. (2025). Electroencephalography, pupillometry, and behavioral evidence for locus coeruleus-noradrenaline system related tonic hyperactivity in older adults. Preprint: doi.org/10.1101/2025.10.02.680040"
+    ],
+    "BIDSVersion": "1.1.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006466.v1.0.1"
+}

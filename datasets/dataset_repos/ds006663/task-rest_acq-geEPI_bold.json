@@ -1,0 +1,9 @@
+{
+    "PulseSequenceType": "Gradient Echo EPI",
+    "PhaseEncodingDirection": "j",
+    "TotalReadoutTime": 0.02016,
+    "EchoTime": 0.015,
+    "FlipAngle": 55,
+    "RepetitionTime": 1.0,
+    "TaskName": "rest"
+}

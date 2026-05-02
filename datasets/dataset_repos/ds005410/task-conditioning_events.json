@@ -1,0 +1,37 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "seconds"
+  },
+  "value": {
+    "Description": "Trigger Code",
+    "Levels": {
+      "S1": "animals semantic category words: Affe",
+      "S2": "animals semantic category words: Bär",
+      "S3": "animals semantic category words: Fisch",
+      "S4": "animals semantic category words: Gans",
+      "S5": "animals semantic category words: Hund",
+      "S6": "animals semantic category words: Katze",
+      "S7": "animals semantic category words: Kuh",
+      "S8": "animals semantic category words: Löwe",
+      "S9": "animals semantic category words: Pferd",
+      "S10": "animals semantic category words: Schwein",
+      "S11": "animals semantic category words: Schaf",
+      "S12": "clothing semantic category words: Anzug",
+      "S13": "clothing semantic category words: Bluse",
+      "S14": "clothing semantic category words: Handschuh",
+      "S15": "clothing semantic category words: Hemd",
+      "S16": "clothing semantic category words: Hose",
+      "S17": "clothing semantic category words: Jacke",
+      "S18": "clothing semantic category words: Jeans",
+      "S19": "clothing semantic category words: Mantel",
+      "S20": "clothing semantic category words: Rock",
+      "S21": "clothing semantic category words: Socke",
+      "S22": "clothing semantic category words: Strumpf",
+      "S30": "vibration applied to the left hand",
+      "S40": "vibration applied to the right hand",
+      "S50": "US+ - aversive sound",
+      "S60": "US- - neutral sound"
+    }
+  }
+}

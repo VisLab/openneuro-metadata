@@ -1,0 +1,18 @@
+{
+    "onset": {
+      "Description": "Onset (in seconds) of each trial_type event"
+    },
+    "duration": {
+      "Description": "Duration of the event (measured from onset) in seconds"
+    },
+    "trial_type": {
+        "132": "Standard tone played",
+        "133": "Target tone played",
+        "134": "Distractor tone played",
+        "135": "Inter-stimulus-interval begins",
+        "136": "Manual response recorded"
+    },
+    "eye_onset": {
+      "Description": "Timestamp in eyetracking data that matches each trial_type event in EEG data (arbitrary units output by the eye tracker in milliseconds)."
+    }
+  }

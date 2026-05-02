@@ -1,0 +1,16 @@
+{
+  "task-taste1_bold.json": "0e466602de13ea48c6f46614d644010776767069",
+  "CHANGES": "3c7b32c585bb78826bf3e7af34b0a0a8edf97535",
+  "README": "4aab7d6a094fa77ae8d9a546aed9fbb552bb11ee",
+  "task-taste1_events.json": "7eac07318dd4da30a44b9bda97fe70260f929b66",
+  "task-taste2_events.json": "7eac07318dd4da30a44b9bda97fe70260f929b66",
+  "dataset_description.json": "5e62c5f6f9c5d2b388b9c6ee82b082bed31ef71d",
+  "task-taste2_bold.json": "d27fca4dc2cb8f07ca4dc6e55f8033061d1d5128",
+  "T1w.json": "3e73c3cba86d42200745cafa6b6980c697161d94",
+  "participants.json": "b90a78bbb2b5487957fa4f2d9be91d0b138e1f27",
+  "participants.tsv": "b651a0ba99b0f3a3646aa4fabda7ff7b7178da4a",
+  "sub-1358/ses-scan2/func/sub-1358_ses-scan2_task-taste2_events.tsv": "17b682388c66dd843fb4424e4cc2c3d16acadb0b",
+  "sub-1358/ses-scan1/func/sub-1358_ses-scan1_task-taste1_events.tsv": "6aa16caf7fd0243a7c60d592a90272a52c7b5bd7",
+  "sub-1358/ses-scan1/func/sub-1358_ses-scan1_task-taste2_events.tsv": "bdacb3fc2728cde5ee671cc447c1cc63ea713e88",
+  "sub-1358/ses-scan2/func/sub-1358_ses-scan2_task-taste1_events.tsv": "8bce24e8498c9d49564a2bf29af2e5c43a9fa5db"
+}

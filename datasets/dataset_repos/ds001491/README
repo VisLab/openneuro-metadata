@@ -1,0 +1,248 @@
+Data acquisition methods have been described in detail in Jelle R. Dalenberg, Liselore Weitkamp, Remco J. Renken, Gert J. ter Horst. Valence processing differs across stimulus modalities. NeuroImage. 2018. https://doi.org/10.1016/j.neuroimage.2018.08.059.
+
+_______________________________
+##  Important notes  ##
+_______________________________
+
+Missing data:
+sub-02, participant withdrew from the study before scanning
+sub-05, flavor run 2, failed run due to reconstruction error
+sub-11, flavor run 3, failed run due to error in operating the gustometer
+sub-13, flavor run 4, failed run due to error in operating the gustometer
+sub-15, flavor run 1, failed run due to error in operating the gustometer
+sub-21, flavor run 2, failed run due to reconstruction error
+
+_______________________________
+##  Stimulus info  ##
+_______________________________
+#Flavors
+An ‘orange’ (1250kJ/100ml) and a ‘tropical’ (1255kJ/100ml) flavor (Karvan Cévitam) were chosen as stimuli. Typically, these flavors are diluted in water to create a sugar sweetened flavored beverage. Prior to the experiment, participants ware asked whether they preferred orange or tropical flavored beverages. The less preferred flavor was used as the unpleasant stimulus and was mixed with fish sauce (Squid Fish Sauce, 221kJ/100gr, 77% anchovies extract, 20% salt, 3% sugar) to a 1:3 fish sauce to syrup ratio. Subsequently, a range of beverages was made for both the pleasant and the unpleasant flavors by manipulating the flavor concentrations. Concentrations increased logarithmically from a 0.03:1 to 1:1 syrup to water ratio in 12 steps. All beverages were made isocaloric matching the maximum energy density of the pleasant beverage by using the tasteless carbohydrate maltodextrin (Nutricia Fantomalt).
+Prior to the MRI session, participants rated the beverages on pleasantness. Based on these ratings, four pleasant and four unpleasant flavor concentrations were selected for the fMRI session. For the pleasant range, the flavor concentration with the (first) highest rating and 3 preceding concentrations was selected, whereas for the unpleasant range, the (first) minimum rating and 3 preceding concentrations was selected. If the highest or lowest rating was among the first 4 concentrations, we chose these first 4 concentrations for the remainder of the study.
+
+#Images
+40 images were used from the International Affective Picture System, IAPS. Based on norm scores, we randomly selected images that varied from high to low arousal (HA, LA) and negative to positive valence (NV, PV). The set contained 10 HA-NV, 10 LA-NV, 10 LA-PV, and 10 HA-PV images. Used images:
+1460.jpg1630.jpg1710.jpg1750.jpg1947.jpg2035.jpg2340.jpg2392.jpg2525.jpg2730.jpg3001.jpg3064.jpg3110.jpg3185.jpg3195.jpg3530.jpg4002.jpg4007.jpg4085.jpg4505.jpg4612.jpg5621.jpg5725.jpg5825.jpg5829.jpg5833.jpg6220.jpg7043.jpg7054.jpg7279.jpg8190.jpg9043.jpg9075.jpg9183.jpg9185.jpg9220.jpg9302.jpg9560.jpg9561.jpg9940.jpg
+
+_______________________________
+##  Task Events info  ##
+_______________________________
+
+Event files for [task-FlavorRun1;task-FlavorRun2;task-FlavorRun3;task-FlavorRun4] contain the following variables:
+
+- onset: condition onset time in seconds
+- duration: condition duration time in seconds
+- condition: condition labels. 
+
+	Possible conditions:
+	
+	Water1_TasteAndSwallow:	Tasting and swallowing water stimulus 1
+	Water1_RatingScreens:	Pleasantness and intensity rating screen for water stimulus 1
+	Water1_RinseProcedure:	Rinsing procedure for water stimulus 1
+	Pos1_TasteAndSwallow:	Tasting and swallowing pleasant beverage stimulus 1
+	Pos1_RatingScreens:		Pleasantness and intensity rating screen for pleasant beverage stimulus 1
+	Pos1_RinseProcedure:	Rinsing procedure for pleasant beverage stimulus 1
+	Pos2_TasteAndSwallow:	Tasting and swallowing pleasant beverage stimulus 2
+	Pos2_RatingScreens:		Pleasantness and intensity rating screen for pleasant beverage stimulus 2
+	Pos2_RinseProcedure:	Rinsing procedure for pleasant beverage stimulus 2
+	Pos3_TasteAndSwallow:	Tasting and swallowing pleasant beverage stimulus 3
+	Pos3_RatingScreens:		Pleasantness and intensity rating screen for pleasant beverage stimulus 3
+	Pos3_RinseProcedure:	Rinsing procedure for pleasant beverage stimulus 3
+	Pos4_TasteAndSwallow:	Tasting and swallowing pleasant beverage stimulus 4
+	Pos4_RatingScreens:		Pleasantness and intensity rating screen for pleasant beverage stimulus 4
+	Pos4_RinseProcedure:	Rinsing procedure for pleasant beverage stimulus 4
+	Water2_TasteAndSwallow:	Tasting and swallowing water stimulus 2
+	Water2_RatingScreens:	Pleasantness and intensity rating screen for water stimulus 2
+	Water2_RinseProcedure:	Rinsing procedure for water stimulus 2
+	Neg1_TasteAndSwallow:	Tasting and swallowing unpleasant beverage stimulus 1
+	Neg1_RatingScreens:		Pleasantness and intensity rating screen for unpleasant beverage stimulus 1
+	Neg1_RinseProcedure:	Rinsing procedure for unpleasant beverage stimulus 1
+	Neg2_TasteAndSwallow:	Tasting and swallowing unpleasant beverage stimulus 2
+	Neg2_RatingScreens:		Pleasantness and intensity rating screen for unpleasant beverage stimulus 2
+	Neg2_RinseProcedure:	Rinsing procedure for unpleasant beverage stimulus 2
+	Neg3_TasteAndSwallow:	Tasting and swallowing unpleasant beverage stimulus 3
+	Neg3_RatingScreens:		Pleasantness and intensity rating screen for unpleasant beverage stimulus 3
+	Neg3_RinseProcedure:	Rinsing procedure for unpleasant beverage stimulus 3
+	Neg4_TasteAndSwallow:	Tasting and swallowing unpleasant beverage stimulus 4
+	Neg4_RatingScreens:		Pleasantness and intensity rating screen for unpleasant beverage stimulus 4
+	Neg4_RinseProcedure:	Rinsing procedure for unpleasant beverage stimulus 4
+
+- trial_action: variable containing labels for actions within a complete trial (i.e. a more simplified condition label that groups specific actions per stimulus trial)
+
+	Possible trial actions:
+	
+	TasteAndSwallow:		Tasting and swallowing a stimulus (6.5 sec)
+	Rating:					Rating screens (self-paced)
+	Rinse:					Rinsing procedure (18.8 sec for a single rinse or 25 sec for a double rinse)
+
+- stimulus_trial: numeric variable that numbers the trials within the fMRI task.
+- pleasantness_response: perceived pleasantness response of participant (9-point likert scale)
+- intensity_response: perceived intensity response of participant (9-point likert scale)
+- stimulus_type: categorical variable coding the stimulus type.
+
+	Possible stimulus types:
+	
+	Water:	Neutral water stimulus
+	Pleasant_flavor: Pleasant flavor
+	Unpleasant_flavor: Unpleasant flavor
+_______________________________
+
+#Event files for [task-images] contain the following variables:
+
+- onset: condition onset time in seconds
+- duration: condition duration time in seconds
+- condition: condition labels. 
+
+	Possible conditions:
+	
+	ImgXXXX_Image:			Viewing IAPS image XXXX
+	ImgXXXX_RatingScreens:	Pleasantness and intensity rating screen for image XXXX 
+
+- trial_action: variable containing labels for actions within a complete trial (i.e. a more simplified condition label that groups specific actions per stimulus trial)
+
+	Possible trial actions:
+	
+	Image:	Viewing an IAPS image (4 sec)
+	Rating:	Rating screens (self-paced)
+
+
+- stimulus_trial: numeric variable that numbers the trials within the fMRI task.
+- pleasantness_response: perceived pleasantness response of participant (9-point likert scale)
+- intensity_response: perceived intensity response of participant (9-point likert scale)
+
+_______________________________
+## Multi-echo exam card  ##
+_______________________________
+
+Coil selection 1 =		"SENSE-Head-32P";
+     element selection =	"selection 1";
+Coil selection 2 =		"SENSE-Head-32AH";
+     element selection =	"selection 1";
+Dual coil =			"yes";
+CLEAR =				"yes";
+    body tuned =		"no";
+FOV          RL (mm) =		224;
+             AP (mm) =		224;
+             FH (mm) =		157.5;
+Voxel size   RL (mm) =		3.5;
+             AP (mm) =		3.5;
+Slice thickness (mm) =		3.5;
+Recon voxel size (mm) =		3.5;
+Fold-over suppression =		"no";
+Reconstruction matrix =		64;
+SENSE =				"yes";
+    P reduction (AP) =		3;
+    P os factor =		1;
+Stacks =			1;
+    type =			"parallel";
+    slices =			45;
+    slice gap =			"user defined";
+          gap (mm) =		0;
+    slice orientation =		"transverse";
+    fold-over direction =	"AP";
+    fat shift direction =	"A";
+Stack Offc. AP (P=+mm) =	-7.5924015;
+            RL (L=+mm) =	2.5429709;
+            FH (H=+mm) =	12.8062849;
+      Ang.  AP (deg) =		0.905718386;
+            RL (deg) =		-5.66648006;
+            FH (deg) =		0.284474969;
+Minimum number of packages =	1;
+Slice scan order =		"descend";
+Large table movement =		"no";
+PlanAlign =			"no";
+REST slabs =			0;
+Interactive positioning =	"no";
+Patient position =		"head first";
+        orientation =		"supine";
+Scan type =			"Imaging";
+Scan mode =			"MS";
+    technique =			"FFE";
+Contrast enhancement =		"no";
+Acquisition mode =		"cartesian";
+Fast Imaging mode =		"EPI";
+    shot mode =			"single-shot";
+Echoes =			3;
+    partial echo =		"no";
+    shifted echo =		"no";
+TE  first =			"shortest";
+    echospacing =		"shortest";
+Flip angle (deg) =		80;
+TR =				"user defined";
+    (ms) =			2450;
+Halfscan =			"no";
+Water-fat shift =		"minimum";
+Shim =				"auto";
+Fat suppression =		"SPIR";
+   strength =			"strong";
+   frequency offset =		"default";
+Water suppression =		"no";
+MTC =				"no";
+Research prepulse =		"no";
+Diffusion mode =		"no";
+SAR mode =			"high";
+B1 mode =			"default";
+PNS mode =			"high";
+Gradient mode =			"default";
+SofTone mode =			"no";
+Cardiac synchronization =	"no";
+Respiratory compensation =	"no";
+Navigator respiratory comp =	"no";
+Flow compensation =		"no";
+Temporal slice spacing =	"minimal";
+fMRI echo stabilisation =	"no";
+NSA =				1;
+Angio / Contrast enh. =		"no";
+Quantitative flow =		"no";
+Manual start =			"yes";
+Dynamic study =			"individual";
+    dyn scans =			360;
+    dyn scan times =		"shortest";
+    FOV time mode =		"default";
+    dummy scans =		2;
+    immediate subtraction =	"no";
+    fast next scan =		"no";
+    synch. ext. device =	"yes";
+        start at dyn. =		1;
+        interval (dyn) =	1;
+    dyn stabilization =		"yes";
+    prospect. motion corr. =	"no";
+Keyhole =			"no";
+Arterial Spin labeling =	"no";
+Preparation phases =		"auto";
+Interactive F0 =		"no";
+B0 field map =			"no";
+B1 field map =			"no";
+MIP/MPR =			"no";
+Images =			" M", (3) " no";
+Autoview image =		" M";
+Calculated images =		(4) " no";
+Reference tissue =		"White matter";
+Preset window contrast =	"soft";
+Reconstruction mode =		"real time";
+    reuse memory =		"no";
+Save raw data =			"no";
+Hardcopy protocol =		"no";
+Ringing filtering =		"default";
+Geometry correction =		"default";
+IF_info_seperator =		1634755923;
+Total scan duration =		"14:51.8";
+Rel. signal level (%) =		100;
+Act. TR/TE1/delta TE (ms) =	"2450 / 8.0 / 14.0";
+Dyn. scan time =		"00:02.5";
+Time to k0 =			"00:01.2";
+ACQ matrix M x P =		"64 x 61";
+ACQ voxel MPS (mm) =		"3.50 / 3.65 / 3.50";
+REC voxel MPS (mm) =		"3.50 / 3.50 / 3.50";
+Scan percentage (%) =		95.8333359;
+Packages =			1;
+Min. slice gap (mm) =		0;
+EPI factor =			23;
+Act. WFS (pix) / BW (Hz) =	"5.643 / 77.0";
+BW in EPI freq. dir. (Hz) =	"3097.9";
+Min. WFS (pix) / Max. BW (Hz) =	"5.640 / 77.0";
+Min. TR/TE1/delta TE (ms) =	"2427 / 8.0 / 14";
+SAR / head =			"<  33 %";
+Whole body / level =		"< 0.1 W/kg / normal";
+B1 rms =			"1.35 uT";
+PNS / level =			"63 % / normal";
+Sound Pressure Level (dB) =	24.2084637;

@@ -1,0 +1,12 @@
+1.1.2 2026-03-11
+  - Fix CHANGES file formatting
+1.1.1 2026-03-11
+  - Remove ses-2 from sub-22600 and sub-22956 as they were duplicates of ses-2 
+  - Added "error" event to trial_type in events.jsons 
+  - Added diagnostic group to participants.tsv 
+  - Changed 1/-1 sex coding in participants.tsv to male/female 
+  - Updated README formatting
+1.1.0 2025-08-19
+  - Added phenotype data
+1.0.0 2025-06-04
+  - initial release

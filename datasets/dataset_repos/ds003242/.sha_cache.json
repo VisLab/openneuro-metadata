@@ -1,0 +1,18 @@
+{
+  "task-midloc_bold.json": "599924912aa2eccbbf5c33bf324db3cc6536eb17",
+  "task-CIC_bold.json": "2247c909139f93bab60307e2aa71977e9cdf90e2",
+  "CHANGES": "0612473855789e8ef508259b9f9b45989d7801ef",
+  "dataset_description.json": "5695e2e9779933c9f4987f59804ae9deb338a84a",
+  "scans.json": "40e9340da3fd9cfcdc23a7c080be904ca2358053",
+  "participants.tsv": "85ec94a2feaacf3752856d75d8e2b59e959f87f2",
+  "task-CIC_events.json": "c600515a4270474c6c0668a2881ea76bbfbc3e81",
+  "README": "f428c6d24a9ce54a64612dcaa1f4df1bc18ae824",
+  "task-midloc_events.json": "c600515a4270474c6c0668a2881ea76bbfbc3e81",
+  "sub-SAXSISO01b/func/sub-SAXSISO01b_task-CIC_run-003_events.tsv": "52c65b5c856ae576aa0676c4ceaec7baa92185d4",
+  "sub-SAXSISO01b/func/sub-SAXSISO01b_task-CIC_run-001_events.tsv": "25b523c577f9bf4193b85a38907bdff6e08ff7a2",
+  "sub-SAXSISO01b/func/sub-SAXSISO01b_task-CIC_run-002_events.tsv": "80b2ef96444e256da8e0045f93fbaa83bbecc9b5",
+  "sub-SAXSISO01b/func/sub-SAXSISO01b_task-CIC_run-005_events.tsv": "2a556f60b95feb067b053d978a8224155dbbf4ce",
+  "sub-SAXSISO01b/func/sub-SAXSISO01b_task-CIC_run-006_events.tsv": "1f33622e025eb8953ab53299f92274e234bf298b",
+  "sub-SAXSISO01b/func/sub-SAXSISO01b_task-midloc_run-001_events.tsv": "38694e9008788ae264d001c59d86422629712cdf",
+  "sub-SAXSISO01b/func/sub-SAXSISO01b_task-CIC_run-004_events.tsv": "d9ed61cc629d14c6c93c789f2eb67d4f35143913"
+}

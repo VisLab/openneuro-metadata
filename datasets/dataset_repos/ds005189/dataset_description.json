@@ -1,0 +1,15 @@
+{
+    "Name": "Search Superiority Recollection Familiarity",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Jason Helbing",
+        "Dejan Draschkow",
+        "Melissa L.-H. Võ"
+    ],
+    "EthicsApprovals": [
+        "Ethics committee of the Faculty of Psychology and Sports Sciences, Goethe University Frankfurt (ethics approval ID 2014-106R1)"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005189.v1.0.1"
+}

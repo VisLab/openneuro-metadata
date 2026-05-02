@@ -1,0 +1,45 @@
+{
+  "onset": {
+	"Description": "Trial onset (List1Slide.OnsetTime in eprime output).",
+    "Units": "seconds"
+  },
+  "duration": {
+	"Description": "Trial duration.",
+    "Units": "seconds"
+  },
+  "trial_type": {
+        "Description": "Whether the Probe word was in a List for this trial, the previous trial, or no List. (TrialType in eprime output).",
+        "Levels": {
+            "NP": "Novel Positive (Probe was a member of this trial's List); correct response is button 1.",
+            "NN": "Novel Negative (Probe not a member of any List); correct response is button 2. Low cognitive control demands.",
+			"RN": "Recent Negative (Probe a member of previous trial's List); correct response is button 2. High cognitive control demands."
+        }
+  },
+  "trial_length": {
+	"Description": "Total number of words presented in the Lists for this trial. (ListLen in eprime output).",
+    "Levels": {
+            "5": "Five words.",
+            "6": "Six words.",
+			"7": "Seven words.",
+			"8": "Eight words."
+        }
+  },
+  "response_time": {
+	"Description": "Time between appearance of Probe word and the button press (ProbeSlide.RT in eprime output).",
+    "Units": "seconds"
+  },
+  "response_button": {
+	"Description": "Whether the button under the first or second finger of the right hand was pressed. (ProbeSlide.RESP in eprime output).",
+    "Levels": {
+      "1": "button 1",
+      "2": "button 2"
+    }
+  },
+  "response_accuracy": {
+	"Description": "If the response was correct. (ProbeSlide.ACC in eprime output).",
+    "Levels": {
+      "0": "incorrect",
+      "1": "correct"
+    }
+  }
+}

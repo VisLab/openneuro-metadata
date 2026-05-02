@@ -1,0 +1,50 @@
+{
+    "Name": "NeuroCycle+",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "GeneratedBy": [
+        {
+            "Name": "dcm2niix"
+        }
+    ],
+    "SourceDatasets": [],
+    "License": "CC0",
+    "Authors": [
+        "Carina Heller",
+        "Daniel Güllmar",
+        "Lejla Colic",
+        "Laura Pritschet",
+        "Martin Gell",
+        "Nooshin Javaheripour",
+        "Feliberto de la Cruz",
+        "Philine Rojczyk",
+        "Carina J. Koeppel",
+        "Bart Larsen",
+        "Habib Ganjgahi",
+        "Frederik J. Lange",
+        "Ann-Christine Buck",
+        "Tim L. Jesgarzewsky",
+        "Robert Dahnke",
+        "Michael Kiehntopf",
+        "Emily G. Jacobs",
+        "Zora Kikinis",
+        "Martin Walter",
+        "Ilona Croy",
+        "Christian Gaser"
+    ],
+    "Acknowledgements": "The present work is endorsed by the German Center for Mental Health.",
+    "HowToAcknowledge": "Please cite this paper: Heller et al. Hormonal milieu influences whole-brain structural dynamics across the menstrual cycle using dense sampling in multiple individuals. Nature Neuroscience (2025) https://doi.org/10.1038/s41593-025-02066-2",
+    "Funding": [
+        "German Research Foundation",
+        "IMPULSEProject",
+        "Interdisciplinary Center of Clinical Research of the Medical Faculty Jena",
+        "National Institutes of Health",
+        "Wellcome Trust Collaborative Award",
+        "Marie Skłodowska-Curie Innovative Training Network"
+    ],
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006491.v1.0.1",
+    "EthicsApprovals": [
+        "The Friedrich Schiller University Jena Ethics Committee (Jena, German) approved the study."
+    ]
+}

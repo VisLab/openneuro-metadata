@@ -1,0 +1,28 @@
+{
+    "Name": "The Impact and Reliability of Tissue Segmentation on In Vivo Magnetic Resonance Spectroscopy Metabolite Quantification",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Jessica Archibald",
+        "Kay Chioma Igwe",
+        "Antonia Kaiser",
+        "Karl Landheer",
+        "Jaimie Lee",
+        "John Kramer",
+        "Niklaus Zölch",
+        "Aaron Gudmundson",
+        "Helge J. Zöllner",
+        "Candace C. Fleischer",
+        "Georg Oeltzschner",
+        "Jamie Near",
+        "Mark Mikkelsen"
+    ],
+    "Funding": [
+        "National Institute of Biomedical Imaging and Bioengineering (NIBIB) grant K99EB028828"
+    ],
+    "EthicsApprovals": [
+        "This study was approved by the Weill Cornell Medicine Institutional Review Board: protocol 0807009883."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006444.v1.0.9"
+}

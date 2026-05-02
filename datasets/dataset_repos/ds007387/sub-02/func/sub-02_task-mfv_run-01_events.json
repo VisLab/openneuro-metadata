@@ -1,0 +1,23 @@
+{
+    "onset": {
+        "Description": "The raw stimulus onset in secs."
+    },
+    "duration": {
+        "Description": "The duration the vignette was on screen."
+    },
+    "sub_id": {
+        "Description": "participant_id"
+    },
+    "trail_type": {
+        "Description": "The mft foundation category of the vignette."
+    },
+    "vigtext": {
+        "Description": "The specfic text that was shown on the vignette."
+    },
+    "cond_id": {
+        "Description": "The vignette number within its condition. This is useful for item-level analyses."
+    },
+    "vig_id": {
+        "Description": "The unique identifier for each vignette item"
+    }
+}

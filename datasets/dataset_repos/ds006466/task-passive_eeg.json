@@ -1,0 +1,18 @@
+{
+    "TaskName": "passive",
+    "TaskDescription": "passive oddball task",
+    "Instructions": "Auditory tones will be played. Do not pay attention to these sounds.",
+    "InstitutionAddress": "3715 McClintock Ave. Los Angeles, CA 90089",
+    "InstitutionName": "University of Southern California",
+    "InstitutionalDepartmentName": "School of Gerontology",
+    "PowerLineFrequency": 60,
+    "ManufacturersModelName": "EGI Magstim",
+    "EEGChannelCount": 65,
+    "EEGReference": "E65",
+    "RecordingType": "continuous",
+    "SamplingFrequency": 1000,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "SoftwareFilters": "n/a"
+}

@@ -1,0 +1,17 @@
+1.0.0	2018-10-19
+
+	- Added participants.tsv file with age, sex and GPTS-A score for each subject
+
+3.0.0	2018-06-04
+
+	- DOI links added for Nat Comms publication
+
+2.0.0	2018-05-07
+
+	- Added .tsv files for task events; renamed /stimulus directory to /stimuli & removed from .bidsignore
+
+1.0.0	2018-04-19
+
+	- Initial upload, including defaced T1s, story BOLD runs, and stimulus files (audio + text)
+
+undefined

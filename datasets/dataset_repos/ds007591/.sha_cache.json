@@ -1,0 +1,15 @@
+{
+  "CHANGES": "e53d284cd4711da139d4193e0c0945cd4b55fd48",
+  "participants.tsv": "da42e3ad961d396086bea0059a57ff73fb6ff4b3",
+  "dataset_description.json": "81fd1744e097a8ac8bc87ea4f4efc033f526d8a3",
+  "README": "a62d25d8155a035a831faac34db398acbbcb84d0",
+  "events.json": "ee1df508960d153a65501de0a656abfec745f375",
+  "participants.json": "dec0f0cb4dda0332771410b0b7c2b7c834a36cf8",
+  "sub-1/ses-20230529/eeg/sub-1_ses-20230529_task-covert_acq-online_run-01_events.tsv": "cfff9cc295fd1474a92e6734beba2a2b13c884d8",
+  "sub-1/ses-20230511/eeg/sub-1_ses-20230511_task-minimallyovert_acq-calibration_run-01_events.tsv": "8ad93d0bd18858e7b4acd7247d1ee9950a3e6594",
+  "sub-1/ses-20230511/eeg/sub-1_ses-20230511_task-minimallyovert_acq-online_run-02_events.tsv": "f93a9ba709041313ec46ac9624cf1e978e5789be",
+  "sub-1/ses-20230529/eeg/sub-1_ses-20230529_task-overt_acq-online_run-01_events.tsv": "d796593551dd866974a3ef61c3975c7cf1a9cdf3",
+  "sub-1/ses-20230529/eeg/sub-1_ses-20230529_task-covert_acq-calibration_run-01_events.tsv": "03f2e0ca4ab6179d56bf189f6dfef0cebba7b75b",
+  "sub-1/ses-20230511/eeg/sub-1_ses-20230511_task-minimallyovert_acq-online_run-01_events.tsv": "42f29e1a67c3feb530622bdd70ce2d8fcd14e6d5",
+  "sub-1/ses-20230529/eeg/sub-1_ses-20230529_task-overt_acq-calibration_run-01_events.tsv": "104fc8db3b4e962c6f40a764cf006ed5480dbeae"
+}

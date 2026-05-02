@@ -1,0 +1,30 @@
+{
+    "run": {
+        "LongName": "Run",
+        "Description": "The run to which this timing segment corresponds"
+    },
+    "condition_type": {
+        "LongName": "Condition Type",
+        "Description": "What type of event is occuring at this moment during the task",
+        "Levels": {
+            "StimPicChoice": "A trial period in which participants select an image cue.",
+            "StimCuePic": "A trial period in which participants view their selected image.",
+            "AB_5yr": "A trial period in which an autobiographical event from 5-10 years ago is recalled.",
+            "AB_6mo": "A trial period in which an autobiographical event from 6-18 months ago is recalled.",
+            "AB_Today": "A trial period in which an autobiographical event from earlier in the day of the experiment is recalled.",
+            "PD": "A trial period in which the contents of a picture are described in detail.",
+            "INT_ACT": "Something done or undertaken by a person or object.",
+            "INT_EMO": "Experienced and attributed emotional states, descriptions of ongoing thoughts.",
+            "INT_OBJ": "A non-living entity.",
+            "INT_OTHER": "Contains miscellaneous details that did not occur frequently enough for separate modeling, includes descriptions of animals, body parts, weather phenomena, etc.",
+            "INT_PERC": "Sensory details, including relative spatial positions and durations.",
+            "INT_PERSON": "A human entity.",
+            "INT_PLACE": "Description of the “where” of an event.",
+            "INT_TIME": "A description of “when” an event took place, including time of day, season, etc.",
+            "EXT_EPI": "Spatially and temporally specific details from occurrences other than the main event being described.",
+            "EXT_OTHER": "Editorial comments, banter, etc.",
+            "EXT_REP": "Repetitions of details.",
+            "EXT_SEM": "General knowledge or background, often either tangential to or offered in support of the described event."
+        }
+    }
+}

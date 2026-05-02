@@ -1,0 +1,6 @@
+2.0.0 2025-02-14
+  - Added raw data (`anat`, `fmap`, `func`).
+  - Updated preprocessed data (fMRIPrep was run again, on defaced data).
+  - More recent version of fMRIPrep (`24.1.0`) was used.
+1.0.0 2024-09-12
+  - Initial version of the dataset.

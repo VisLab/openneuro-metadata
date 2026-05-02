@@ -1,0 +1,7 @@
+This study was conducted at the Rotman Research Institute at Baycrest Hospital in Toronto, Canada.
+
+This dataset contains 30 healthy young adults' MEG (CTF), sMRI, and behavioural data on a picture-word interference (PWI) task. Subjects were shown images of objects one by one and were instructed to retrieve the name of the pictures covertly and judge whether the name ends in a target sound given at the beginning of each task block, by pressing the yes or no buttons with their right hand. Whenever they see an image, they will often also hear a distractor word played through their earphone. The picture and word could be phonologically related, semantically related, or unrelated.
+
+There were 3 runs of the PWI task for each participant. Each run contained 120 trials, containing an equal number of trials for each picture-word condition. Behaviourally, the reaction time and accuracy of their button-pressing response were recorded. Meanwhile, the MEG data was epoched to the picture onset and response onset for event-related analyses. Each subject obtained their own structural MRI for MEG source localization.
+
+Corresponding analysis code can be found under the code folder, with the "analysis walkthrough" documenting more detailed explanation of the analysis.

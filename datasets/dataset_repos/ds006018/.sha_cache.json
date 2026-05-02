@@ -1,0 +1,15 @@
+{
+  "CHANGES": "2d5bbd624c05ea88955f4a4b20afeafcacd1c25c",
+  "README.md": "823d9d2b169d11c61d3b580f7a10bf558b13ba87",
+  "dataset_description.json": "7445a0d96b0e2e2e6ae3eb2dd1c5af64dcf54cf7",
+  "participants.json": "ef9edf53404b64fe959275a28eccabcf6fd48564",
+  "participants.tsv": "2a8e139d601f0f6793fafd5b6412e0a5fc3b52e3",
+  "sub-001/eeg/sub-001_task-auditoryoddball_events.json": "316be770d08a9241484f82bc7b6b5df1f5e45990",
+  "sub-001/eeg/sub-001_task-flanker_events.json": "afa352d7115956555caaa11b249fb0ba3108c635",
+  "sub-001/eeg/sub-001_task-visualoddball_events.json": "1917accbcafac39c604f4cc08598a8a24834a1ce",
+  "sub-001/eeg/sub-001_task-auditoryoddball_events.tsv": "8fad391b62a754ab1d1dd2188e4833e793ea0a22",
+  "sub-001/eeg/sub-001_task-visualsearch_events.json": "eee57354fb6d2b824e228ce5120e6f3f7c94e732",
+  "sub-001/eeg/sub-001_task-visualoddball_events.tsv": "38dc6ef4a1ef1700ed0265431ebf367e58d3a6d0",
+  "sub-001/eeg/sub-001_task-visualsearch_events.tsv": "525d1da59d052ff219cc3a7bedeb5125daa8f263",
+  "sub-001/eeg/sub-001_task-flanker_events.tsv": "86c58b63055fed91e4ce8e38ee268da161019a52"
+}

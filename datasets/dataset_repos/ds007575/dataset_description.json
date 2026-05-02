@@ -1,0 +1,20 @@
+{
+    "Name": "Mathlang",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Antonio Moreno",
+        "Manon Pietrantoni",
+        "Christophe Pallier"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "Antonio Moreno, Marie Amalric, Manon Pietrantoni, Séverine Becuwe, Bertrand Thirion, Christophe Pallier, Ghislaine Dehaene-Lambertz, Stanislas Dehaene (2025). Languages of the brain: fMRI dissection of the amodal networks for language, mathematics, and social knowledge. BioRxiv doi: https://doi.org/10.64898/2025.12.19.695075",
+    "Funding": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.64898/2025.12.19.695075"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007575.v1.0.1"
+}

@@ -1,0 +1,10 @@
+The NIMF4 dataset is part of the Moral Foundations MRI Collection (MOFOMIC), a collection of multimodal (3T) MRI datasets including structural (T1-weighted), and (task-based) functional BOLD MRI data, as well as detailed demographics and psychometric variables from healthy participants.
+
+This dataset contains both raw and preprocessed data (and other "derivatives"), which is available on [Openneuro](https://openneuro.org/datasets/ds007387).
+
+The contents of this dataset are described in detail in [this preprint](https://www.psycharchives.org/en/item/c727daa5-d237-4162-8a93-f2e19ef75f98). More general information about the MOFOMIC datasets, including instructions on how to download (parts of) it, check out the [MOFOMIC website](https://www.medianeuroscience.org/mofomic/).
+
+For this dataset, please consider the following known caveats: 
+- The onset times in the _event.tsv files are **not** adjusted for the 11 dummy scans at the beginning and end. Please adjust onsets by subtracting 11TRs from the event onsets.  
+- Dummy scans from functional BOLD files (both raw and preprocessed) contain 11 dummy scans at the beginning and end. Please remove them before modelling. 
+- Subject-03: Misses the last run of the smid task.

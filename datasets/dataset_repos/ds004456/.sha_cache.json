@@ -1,0 +1,23 @@
+{
+  "participants.json": "5eafb26ec5237bc2fcaafb41b142f43ad9b24f80",
+  "CHANGES": "92dad00de6372b2bae3806295279b89a9e4fcfad",
+  "dataset_description.json": "12f30d272b4160f9a4d6ca441f8c8177c204d619",
+  "participants.tsv": "39bc585c43e7d3ffabea546d323878598754d643",
+  "README": "063c238ddc4c35cf990e0b3ac3bab72e575ab115",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Alice_run-01_events.tsv": "fc5ac13892f8be7750ed0b376cfe7f0d7efb60c2",
+  "sub-01/ses-01/func/sub-01_ses-01_task-PN_run-02_events.tsv": "aa11a6ff55182d36a9c537f458bb664305f8a464",
+  "sub-01/ses-02/func/sub-01_ses-02_task-PN_run-01_events.tsv": "0787815a4f9d4b4bb665fe3334ed07e301d5b98d",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Articulation_run-01_events.tsv": "cfcfc945a0b15a86ba20089d4899db4830758bc3",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Alice_run-02_events.tsv": "6885217f187752f8d9815051e91179f93e92cc61",
+  "sub-01/ses-01/func/sub-01_ses-01_task-PN_run-01_events.tsv": "1f14eb4de7ddc5e0aca20582f8c471d82389e65f",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Articulation_run-02_events.tsv": "6e52db9a0b9bc5dd599cdc7300e04b83eef56e9f",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Stroop_run-01_events.tsv": "f10ebd1db9577c266ae37b4cc23257531a1a0f92",
+  "sub-01/ses-01/func/sub-01_ses-01_task-PN_run-03_events.tsv": "28273613aa235141133e22c8151f01f9ff11b268",
+  "sub-01/ses-01/func/sub-01_ses-01_task-Stroop_run-02_events.tsv": "a22002c01d1aa52a49fd9985f9b06841da7499cc",
+  "sub-01/ses-02/func/sub-01_ses-02_task-PN_run-02_events.tsv": "bfa9a84f515867162be4ee7d3e4355483add7562",
+  "sub-01/ses-02/func/sub-01_ses-02_task-VF_run-02_events.tsv": "ac2f5bc43e1b52cc229a3ef95abfcf62c78d110f",
+  "sub-01/ses-02/func/sub-01_ses-02_task-PN_run-03_events.tsv": "3be0e7a428102fccb3e8b3b76483cb482f2d3b47",
+  "sub-01/ses-02/func/sub-01_ses-02_task-VF_run-01_events.tsv": "57a4ef8e80b353908ade8b10137896dae223f29a",
+  "sub-01/ses-02/func/sub-01_ses-02_task-vWM_run-01_events.tsv": "c8a8aab08c0004c3075581694b6b40a5344c47da",
+  "sub-01/ses-02/func/sub-01_ses-02_task-vWM_run-02_events.tsv": "ef9cef1160a5d4b95951b773b0ef5049f030ab8e"
+}

@@ -1,0 +1,214 @@
+{
+  "sector_1": {
+    "LongName": "Sector 1",
+    "Description": "local contrast level in visual field sector 1"
+  },
+  "sector_2": {
+    "LongName": "Sector 2",
+    "Description": "local contrast level in visual field sector 2"
+  },
+  "sector_3": {
+    "LongName": "Sector 3",
+    "Description": "local contrast level in visual field sector 3"
+  },
+  "sector_4": {
+    "LongName": "Sector 4",
+    "Description": "local contrast level in visual field sector 4"
+  },
+  "sector_5": {
+    "LongName": "Sector 5",
+    "Description": "local contrast level in visual field sector 5"
+  },
+  "sector_6": {
+    "LongName": "Sector 6",
+    "Description": "local contrast level in visual field sector 6"
+  },
+  "sector_7": {
+    "LongName": "Sector 7",
+    "Description": "local contrast level in visual field sector 7"
+  },
+  "sector_8": {
+    "LongName": "Sector 8",
+    "Description": "local contrast level in visual field sector 8"
+  },
+  "sector_9": {
+    "LongName": "Sector 9",
+    "Description": "local contrast level in visual field sector 9"
+  },
+  "sector_10": {
+    "LongName": "Sector 10",
+    "Description": "local contrast level in visual field sector 10"
+  },
+  "sector_11": {
+    "LongName": "Sector 11",
+    "Description": "local contrast level in visual field sector 11"
+  },
+  "sector_12": {
+    "LongName": "Sector 12",
+    "Description": "local contrast level in visual field sector 12"
+  },
+  "sector_13": {
+    "LongName": "Sector 13",
+    "Description": "local contrast level in visual field sector 13"
+  },
+  "sector_14": {
+    "LongName": "Sector 14",
+    "Description": "local contrast level in visual field sector 14"
+  },
+  "sector_15": {
+    "LongName": "Sector 15",
+    "Description": "local contrast level in visual field sector 15"
+  },
+  "sector_16": {
+    "LongName": "Sector 16",
+    "Description": "local contrast level in visual field sector 16"
+  },
+  "sector_17": {
+    "LongName": "Sector 17",
+    "Description": "local contrast level in visual field sector 17"
+  },
+  "sector_18": {
+    "LongName": "Sector 18",
+    "Description": "local contrast level in visual field sector 18"
+  },
+  "sector_19": {
+    "LongName": "Sector 19",
+    "Description": "local contrast level in visual field sector 19"
+  },
+  "sector_20": {
+    "LongName": "Sector 20",
+    "Description": "local contrast level in visual field sector 20"
+  },
+  "sector_21": {
+    "LongName": "Sector 21",
+    "Description": "local contrast level in visual field sector 21"
+  },
+  "sector_22": {
+    "LongName": "Sector 22",
+    "Description": "local contrast level in visual field sector 22"
+  },
+  "sector_23": {
+    "LongName": "Sector 23",
+    "Description": "local contrast level in visual field sector 23"
+  },
+  "sector_24": {
+    "LongName": "Sector 24",
+    "Description": "local contrast level in visual field sector 24"
+  },
+  "sector_25": {
+    "LongName": "Sector 25",
+    "Description": "local contrast level in visual field sector 25"
+  },
+  "sector_26": {
+    "LongName": "Sector 26",
+    "Description": "local contrast level in visual field sector 26"
+  },
+  "sector_27": {
+    "LongName": "Sector 27",
+    "Description": "local contrast level in visual field sector 27"
+  },
+  "sector_28": {
+    "LongName": "Sector 28",
+    "Description": "local contrast level in visual field sector 28"
+  },
+  "sector_29": {
+    "LongName": "Sector 29",
+    "Description": "local contrast level in visual field sector 29"
+  },
+  "sector_30": {
+    "LongName": "Sector 30",
+    "Description": "local contrast level in visual field sector 30"
+  },
+  "sector_31": {
+    "LongName": "Sector 31",
+    "Description": "local contrast level in visual field sector 31"
+  },
+  "sector_32": {
+    "LongName": "Sector 32",
+    "Description": "local contrast level in visual field sector 32"
+  },
+  "sector_33": {
+    "LongName": "Sector 33",
+    "Description": "local contrast level in visual field sector 33"
+  },
+  "sector_34": {
+    "LongName": "Sector 34",
+    "Description": "local contrast level in visual field sector 34"
+  },
+  "sector_35": {
+    "LongName": "Sector 35",
+    "Description": "local contrast level in visual field sector 35"
+  },
+  "sector_36": {
+    "LongName": "Sector 36",
+    "Description": "local contrast level in visual field sector 36"
+  },
+  "sector_37": {
+    "LongName": "Sector 37",
+    "Description": "local contrast level in visual field sector 37"
+  },
+  "sector_38": {
+    "LongName": "Sector 38",
+    "Description": "local contrast level in visual field sector 38"
+  },
+  "sector_39": {
+    "LongName": "Sector 39",
+    "Description": "local contrast level in visual field sector 39"
+  },
+  "sector_40": {
+    "LongName": "Sector 40",
+    "Description": "local contrast level in visual field sector 40"
+  },
+  "sector_41": {
+    "LongName": "Sector 41",
+    "Description": "local contrast level in visual field sector 41"
+  },
+  "sector_42": {
+    "LongName": "Sector 42",
+    "Description": "local contrast level in visual field sector 42"
+  },
+  "sector_43": {
+    "LongName": "Sector 43",
+    "Description": "local contrast level in visual field sector 43"
+  },
+  "sector_44": {
+    "LongName": "Sector 44",
+    "Description": "local contrast level in visual field sector 44"
+  },
+  "sector_45": {
+    "LongName": "Sector 45",
+    "Description": "local contrast level in visual field sector 45"
+  },
+  "sector_46": {
+    "LongName": "Sector 46",
+    "Description": "local contrast level in visual field sector 46"
+  },
+  "sector_47": {
+    "LongName": "Sector 47",
+    "Description": "local contrast level in visual field sector 47"
+  },
+  "sector_48": {
+    "LongName": "Sector 48",
+    "Description": "local contrast level in visual field sector 48"
+  },
+  "stim": {
+    "LongName": "Fixation Stimulus",
+    "Description": "Landolt's C opening to the left or right side",
+    "Levels": {
+      "5": "left",
+      "7": "right"
+    }
+  },
+  "resp": {
+    "LongName": "Fixation Response",
+    "Description": "subject's button press in response to fixation stimulus",
+    "Levels": {
+      "50": "left",
+      "51": "right"
+    }
+  },
+  "RT": {
+    "LongName": "Reaction Time",
+    "Description": "time difference between fixation stimulus and fixation response"
+  }
+}

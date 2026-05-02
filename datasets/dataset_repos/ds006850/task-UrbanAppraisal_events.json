@@ -1,0 +1,43 @@
+{
+    "onset": {
+        "Description": "Time from start of recording until event onset",
+        "Units": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of the event",
+        "Units": "seconds"
+    },
+    "sample": {
+        "Description": "Index of the first sample corresponding to the event onset in the continuous recording",
+        "Units": "samples"
+    },
+    "type": {
+        "Description": "Type of event or source stream in the raw data",
+        "Levels": {
+            "Markers": "Events extracted from LSL/XDF marker stream"
+        }
+    },
+    "value": {
+        "Description": "Event category (value) and associated parameters. May include stimulus identifier, scale type, and participant responses.",
+        "Levels": {
+			"event: experimentPt1Start": "Start of experimental part 1",
+            "event: experimentPt2Start": "Start of experimental part 2",
+			"event: baselineStart": "Start of 3 min baseline period",
+			"event: baselineEnd": "End of 3 min baseline period",
+            "event: anchorsPresented; ": "Display of rating scale anchors to participant as prime pre-Stimulus presentation; scale type provided",
+            "event: fixationCrossStart": "Start of fixation cross presentation",
+            "event: fixationCrossEnd": "End of fixation cross presentation",
+            "event: presentedStimulus": "Presentation of main stimulus; stimulus ID provided",
+            "event: scalePresented; scale: SAM-arousal": "Presentation of SAM plus arousal rating scale; 9-point scale",
+			"event: scalePresented; scale: SAM-valence": "Presentation of SAM plus valence rating scale; 9-point scale",
+			"event: scalePresented; scale: SAM-dominance": "Presentation of SAM plus dominance rating scale; 9-point scale",
+			"event: scalePresented; scale: Likert-Schnheit": "Presentation of 5-point scale Likert scale for rating beauty",
+			"event: scalePresented; scale: Likert-Heimeligkeit": "Presentation of 5-point scale Likert scale for rating hominess",
+			"event: scalePresented; scale: Likert-Stress": "Presentation of 5-point scale Likert scale for rating stress",
+			"event: scalePresented; scale: Likert-Faszination": "Presentation of 5-point scale Likert scale for rating fascination",
+			"event: scalePresented; scale: Likert-Offenheit": "Presentation of 5-point scale Likert scale for rating openness",
+			"event: scalePresented; scale: Likert-Sicherheit": "Presentation of 5-point scale Likert scale for rating safety",
+            "event: optionConfirmed": "Participant confirmed response; includes scale type, stimulus ID, and response value"
+        }
+    }
+}

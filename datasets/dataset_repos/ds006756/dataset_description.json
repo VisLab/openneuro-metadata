@@ -1,0 +1,40 @@
+{
+    "Name": "Cerebral tau deposition in young healthy adults using [18F]MK6240 positron emission tomography (PET)",
+    "Authors": [
+        "Lam, J.",
+        "Rodriguez-Cruces, R.",
+        "Arafat, T.",
+        "Royer, J.",
+        "Chen, J.",
+        "Dascal, A.",
+        "Sahlas, E.",
+        "Pana, R.",
+        "Hopewell, R.",
+        "Hsiao, C. H.-H.",
+        "Massarweh, G.",
+        "Soucy, J.-P.",
+        "Villeneuve, S.",
+        "Caciagli, L.",
+        "Koepp, M.",
+        "Bernasconi, A.",
+        "Bernasconi, N.",
+        "Bernhardt, B."
+    ],
+    "BIDSVersion": "1.10.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Acknowledgements": "The authors thank all participants who took part in this study. Special thanks to the McConnell Brain Imaging Centre PET Unit",
+    "HowToAcknowledge": "Please cite the dataset: bioRxiv: Lam, J., Rodriguez-Cruces, R., Arafat, T., Royer, J., Chen, J., Dascal, A., Sahlas, E., Pana, R., Hopewell, R., Hsiao, C. H.-H., Massarweh, G., Soucy, J.-P., Villeneuve, S., Caciagli, L., Koepp, M., Bernasconi, A., Bernasconi, N., & Bernhardt, B. (2025). An open dataset of cerebral tau deposition in young healthy adults based on [18F]MK6240 positron emission tomography [Dataset]. OSF. https://doi.org/10.17605/OSF.IO/ZNT9D",
+    "Funding": [
+        "JL: Fonds de recherche du Québec - Santé/Ministère de la Santé et des Services sociaux",
+        "RRC: Ministère de l’Economie, de l’Innovation et de l’Énergie du Québec, Canada First Research Excellence Fund, awarded to the Healthy Brains, Healthy Lives initiative at McGill University",
+        "RRC: Programme de bourse de formation postdoctorale, Fonds de recherche du Québec - Santé 291486",
+        "JR: Canadian Open Neuroscience Platform (CONP) and Canadian Institutes of Health Research (CIHR)",
+        "BCB: CIHR (FDN-154298, PJT-174995, PJT-191853), SickKids Foundation (NI17-039), Natural Sciences and Engineering Research Council (NSERC; Discovery-1304413), Azrieli Center for Autism Research of the Montreal Neurological Institute (ACAR), BrainCanada, FRQ-S, the Helmholtz International BigBrain Analytics and Learning Laboratory (Hiball), the Canada Research Chairs Program (CRC), and the Centre of Excellence in Epilepsy at the Neuro (CEEN)."
+    ],
+    "ReferencesAndLinks": [
+        "OSF: osf.io/znt9d",
+        "bioRxiv: Lam, J., Rodriguez-Cruces, R., Arafat, T., Royer, J., Chen, J., Dascal, A., Sahlas, E., Pana, R., Hopewell, R., Hsiao, C. H.-H., Massarweh, G., Soucy, J.-P., Villeneuve, S., Caciagli, L., Koepp, M., Bernasconi, A., Bernasconi, N., & Bernhardt, B. (2025). An open dataset of cerebral tau deposition in young healthy adults based on [18F]MK6240 positron emission tomography. bioRxiv, 2025-06. https://doi.org/10.1101/2025.06.13.655622"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006756.v1.0.0"
+}

@@ -1,0 +1,44 @@
+{
+    "stim_type": {
+        "LongName": "Stimulus type",
+        "Description": "Whether a face or a fixation cross was presented",
+        "Levels": {
+            "face": "A face image was displayed",
+            "fixation": "A fixation cross was displayed"
+        }
+    },
+    "identity": {
+        "LongName": "Face identity",
+        "Description": "Identity of the image presented",
+        "Levels": {
+            "id1": "Identity 1 (female)",
+            "id2": "Identity 2 (female)",
+            "id3": "Identity 3 (male)",
+            "id4": "Identity 4 (male)"
+        }
+    },
+    "orientation": {
+        "LongName": "Head orientation",
+        "Description": "Head orientation",
+        "Levels": {
+            "a1": "Profile left",
+            "a2": "3/4 profile left",
+            "a3": "Frontal view",
+            "a4": "3/4 profile right",
+            "a5": "Profile right"
+        }
+    },
+    "reaction_time": {
+        "LongName": "Reaction time",
+        "Description": "Reaction time after stimulus onset"
+    },
+    "response": {
+        "LongName": "Response",
+        "Description": "Participant's response in the 1-back repetition detection task",
+        "Levels": {
+            "same": "Same identity presented",
+            "different": "Different identity presented"
+        }
+    }
+}
+

@@ -1,0 +1,45 @@
+This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).
+Accession #: ds108
+Description: Prefrontal-Subcortical Pathways Mediating Successful Emotion Regulation
+
+Please cite the following references if you use these data:
+
+Wager, T.D., Davidson, M.L., Hughes, B.L., Lindquist, M.A., Ochsner, K.N. (2008). Prefrontal-subcortical pathways mediating successful emotion regulation. Neuron, 59(6):1037-50. doi: 10.1016/j.neuron.2008.09.006
+
+3/21/2013: Updated release with QA information
+
+This dataset is made available under the Public Domain Dedication and License 
+v1.0, whose full text can be found at 
+http://www.opendatacommons.org/licenses/pddl/1.0/. 
+We hope that all users will follow the ODC Attribution/Share-Alike 
+Community Norms (http://www.opendatacommons.org/norms/odc-by-sa/); 
+in particular, while not legally required, we hope that all users 
+of the data will acknowledge the OpenfMRI project and NSF Grant 
+OCI-1131441 (R. Poldrack, PI) in any publications.
+
+
+### Comments added by Openfmri Curators ###
+=====================================
+  
+Known Issues
+-------------------
+Missing Files - 
+/sub-24/func/sub-24_task-Emotionregulation_run-05_bold.nii.gz
+/sub-28/func/sub-28_task-Emotionregulation_run-06_bold.nii.gz
+/sub-29/func/sub-29_task-Emotionregulation_run-06_bold.nii.gz
+/sub-34/func/sub-34_task-Emotionregulation_run-06_bold.nii.gz
+      
+Defacing
+------------
+Pydeface was used on all anatomical images to ensure deindentification of subjects. The code can be found at https://github.com/poldracklab/pydeface 
+
+Quality Control
+--------------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. The code can be found at https://github.com/poldracklab/mriqc
+
+Where to discuss the dataset
+---------------------------------------
+www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset page.
+www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX accession number.
+Send an email to submissions@openfmri.org. Please include the dsXXXXXX accession number in your email.
+

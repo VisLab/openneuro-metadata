@@ -1,0 +1,9 @@
+{
+  "dataset_description.json": "72d1d6b460012074b7dcd74f015f632acb5df231",
+  "participants.tsv": "5d2b5e9347c585d4ffdbd0d96040083c6b531387",
+  "participants.json": "972dfb2a4f8745d403ef538127fd284d94b6a82a",
+  "README": "b54ca8f9190928bb415f7966afb76853684c4b7b",
+  "CHANGES": "990f95952073717aad07274fed92560b0b6cab3f",
+  "task-65ByANT_events.json": "2afbb267f1796b73e8f0cb3387272169fb204fe8",
+  "sub-001/eeg/sub-001_task-65ByANT_events.tsv": "29f4d3d91ab6f3448d997fe09f712c456d1fc826"
+}

@@ -1,0 +1,4 @@
+1.1.1 2019-06-12
+  - .DS folders deleted that were automatically created when generating bids format and the wrongly uploaded 
+1.1.0 2019-06-07
+  - deleted ._.DS_Store folders which are automatically created by mac and were wrongly uploaded

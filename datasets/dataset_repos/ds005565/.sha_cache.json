@@ -1,0 +1,9 @@
+{
+  "dataset_description.json": "dedb0c5cf08cd1fbe4fe31a06d730c05de187c53",
+  "CHANGES": "eed34bcaf21cccca07f74b294cfa5f7cf9f71e38",
+  "participants.json": "7e085fa2b6bfb8fdf7cea32b7c5807663682a3d5",
+  "participants.tsv": "6c36baa20c870dee963b9f2a20124c1d398321fc",
+  "task-SemanticCategorization_events.json": "c6d5b0c621a6dd8de2c37d6e0b71808bbdd9218d",
+  "README": "c73d35b61aa882a72aa763cf6a7d2b1cdd044bfb",
+  "sub-1/eeg/sub-1_task-SemanticCategorization_events.tsv": "a05ee157f422031fb3f922725ef425ddcb6e34ba"
+}

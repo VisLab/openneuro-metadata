@@ -1,0 +1,38 @@
+{
+    "Authors": [
+        "Chen Feng",
+        "Haoqi Ni",
+        "Zhoule Zhu",
+        "Hongjie Jiang",
+        "Zhe Zheng",
+        "Wenjie Ming",
+        "Shuang Wang",
+        "Kedi Xu",
+        "Junming Zhu"
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "EthicsApprovals": [
+        "ChiCTR2200055247"
+    ],
+    "Funding": [
+        "National Science and Technology Major Project (2025ZD0215100)",
+        "Science and Technology Innovation 2030-Major Project (2021ZD0200404)",
+        "National Natural Science Foundation of China (Grant No. 82272112)",
+        "Outstanding Youth Program of Zhejiang Natural Science Foundation (LR23H180002)"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "FieldTrip",
+            "Version": "20250114",
+            "Description": "data2bids converter",
+            "URI": "https://www.fieldtriptoolbox.org"
+        }
+    ],
+    "License": "CC0",
+    "Name": "RNS_Epilepsy-iBIDS",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007095.v1.0.0"
+}

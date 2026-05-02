@@ -1,0 +1,9 @@
+{
+  "CHANGES": "0dbc3ee6a3d32ec9ca2a2fb1b97b30c7d89d3fdb",
+  "task-EyeMag_acq-CMRR_bold.json": "b792c0bffb73896c238576cdc1de8b487fb8c4e0",
+  "README": "1d377680eadd8e5fd14fc2bc7b7b8375701da8e2",
+  "participants.tsv": "4ba48bf8cd107ad2d8da39e5e3c5adb77918f1ae",
+  "dataset_description.json": "27152e1c1ba69850690bc28146b03e5b051c85dd",
+  "participants.json": "5a5b2419d545d2939a6431885d7f66504fe80044",
+  "sub-101DPMB042002/ses-1/func/sub-101DPMB042002_ses-1_task-EyeMag_acq-CMRR_run-01_events.tsv": "4b5b34cda703708f89f7b3c2a62d2e108854bff3"
+}

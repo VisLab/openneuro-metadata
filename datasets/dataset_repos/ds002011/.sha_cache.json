@@ -1,0 +1,17 @@
+{
+  "CHANGES": "68313d43a124f1f1a802ae18f87d3c332dfdcc0f",
+  "dataset_description.json": "a2f274aabcc42d5f75e0a3608b0b5c5c9e0863af",
+  "task-Overlap_events.json": "55f9c97c8c9d4b03345c61ad7db72855b8599011",
+  "README": "84c331056b2dd13cf56f3a08f614e80a77a7de87",
+  "task-ppalocalizer_events.json": "e852d06b83f12c24829c95bce1304d97fb9b9a05",
+  "participants.tsv": "7f76a2eacc50f7c4f468e9637d24fabb7abc64c8",
+  "task-Overlap_bold.json": "08b2ddeeeb501d08a6a7a9548196253f3224cffe",
+  "T1w.json": "0f341c29ef64028724614d20109222f9de1eda47",
+  "task-ppalocalizer_bold.json": "e4c8966b3fe78b104fb8dca1e3e639e372a0e995",
+  "participants.json": "b14f48c85c87c0839b0ff6bab1c6c5db2ffff6f8",
+  "sub-01/func/sub-01_task-ppalocalizer_events.tsv": "8753b63715d31be07ae6f17b1f1b317eec65f7d8",
+  "sub-01/func/sub-01_task-Overlap_run-3_events.tsv": "0050c4f4b930b32021754ff4e5a69a5ed88a1551",
+  "sub-01/func/sub-01_task-Overlap_run-2_events.tsv": "ed263f97776dedf1c5ab29867f9762ea3c52d7f1",
+  "sub-01/func/sub-01_task-Overlap_run-4_events.tsv": "d1e9ce35f6fd5b626e96f42dcc0e8c214b0d49e3",
+  "sub-01/func/sub-01_task-Overlap_run-1_events.tsv": "c53971a818f45ca6ae24480bfe3e08c39697983f"
+}

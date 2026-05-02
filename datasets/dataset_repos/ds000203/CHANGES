@@ -1,0 +1,15 @@
+Revision history for ds000203
+
+1.0.2 2017-08-27
+
+  - Added anatomical data
+  - Reran mriqc
+  - Fixed bugs in several top-level metadata files
+
+1.0.1 2016-10-17
+
+  - Fixed events files, which were all identical to one another in R1.0.0
+
+1.0.0 2016-07-17
+
+  - Initial release

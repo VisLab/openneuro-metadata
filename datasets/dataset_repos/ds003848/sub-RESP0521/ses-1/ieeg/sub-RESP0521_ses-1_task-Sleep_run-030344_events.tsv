@@ -1,0 +1,23 @@
+onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
+649.62890625	1.16943359375	artefact	n/a	all	all	650.79833984375	1330440	1332835	n/a	n/a	n/a	n/a	n/a	Please note, artefacts annotated in avg!
+1727.95068359375	10.24951171875	artefact	n/a	all	all	1738.2001953125	3538843	3559834	n/a	n/a	n/a	n/a	n/a	Please note, artefacts annotated in avg!
+606.67919921875	25.853515625	eyes	opened	all	all	632.53271484375	1242479	1295427	n/a	n/a	n/a	n/a	n/a	n/a
+632.53271484375	15.3310546875	eyes	closed	all	all	647.86376953125	1295427	1326825	n/a	n/a	n/a	n/a	n/a	n/a
+647.86376953125	3.2822265625	eyes	opened	all	all	651.14599609375	1326825	1333547	n/a	n/a	n/a	n/a	n/a	n/a
+651.14599609375	535.3681640625	eyes	closed	all	all	1186.51416015625	1333547	2429981	n/a	n/a	n/a	n/a	n/a	n/a
+1186.51416015625	4.8203125	eyes	opened	all	all	1191.33447265625	2429981	2439853	n/a	n/a	n/a	n/a	n/a	n/a
+1191.33447265625	49.65966796875	eyes	closed	all	all	1240.994140625	2439853	2541556	n/a	n/a	n/a	n/a	n/a	n/a
+1240.994140625	6.37060546875	eyes	opened	all	all	1247.36474609375	2541556	2554603	n/a	n/a	n/a	n/a	n/a	n/a
+1247.36474609375	25.1982421875	eyes	closed	all	all	1272.56298828125	2554603	2606209	n/a	n/a	n/a	n/a	n/a	n/a
+1272.56298828125	22.9677734375	eyes	opened	all	all	1295.53076171875	2606209	2653247	n/a	n/a	n/a	n/a	n/a	n/a
+1295.53076171875	13.8564453125	eyes	closed	all	all	1309.38720703125	2653247	2681625	n/a	n/a	n/a	n/a	n/a	n/a
+1309.38720703125	5.4443359375	eyes	opened	all	all	1314.83154296875	2681625	2692775	n/a	n/a	n/a	n/a	n/a	n/a
+1314.83154296875	2285.29345703125	eyes	closed	all	all	3600.125	2692775	7373056	n/a	n/a	n/a	n/a	n/a	n/a
+599.59521484375	244.83935546875	sleep-wake transition	unknown	all	all	844.4345703125	1227971	1729402	n/a	n/a	n/a	n/a	n/a	n/a
+1155.56884765625	237.3720703125	sleep-wake transition	unknown	all	all	1392.94091796875	2366605	2852743	n/a	n/a	n/a	n/a	n/a	n/a
+0.01416015625	599.373046875	sleep	NREM	all	all	599.38720703125	29	1227545	n/a	n/a	n/a	n/a	n/a	n/a
+844.8125	310.5859375	sleep	NREM	all	all	1155.3984375	1730176	2366256	n/a	n/a	n/a	n/a	n/a	n/a
+1393.3193359375	660.84423828125	sleep	NREM	all	all	2054.16357421875	2853518	4206927	n/a	n/a	n/a	n/a	n/a	n/a
+2054.3623046875	604.78857421875	sleep	REM	all	all	2659.15087890625	4207334	5445941	n/a	n/a	n/a	n/a	n/a	n/a
+2659.3779296875	940.63330078125	sleep	unknown	all	all	3600.01123046875	5446406	7372823	n/a	n/a	n/a	n/a	n/a	n/a
+2059.0185546875	599.9931640625	rem selection	unknown	all	all	2659.01171875	4216870	5445656	n/a	n/a	n/a	n/a	n/a	n/a

@@ -1,0 +1,265 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Brooke L. Sevchik
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Golia Shafiei
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Kristin Murtha
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Sophia Linguiti
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Lia Brodrick
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Juliette B.H. Brook
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Matt Cieslak
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Elizabeth Flook
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0002-0192-0496
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 8
+      - name: Kahini Mehta
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Steven L. Meisler
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 10
+      - name: Kosha Ruparel
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 11
+      - name: Sage Rush
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 12
+      - name: Taylor Salo
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 13
+      - name: S. Parker Singleton
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 14
+      - name: Tien T. Tong
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 15
+      - name: Mrugank Salunke
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 16
+      - name: Dani S. Bassett
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 17
+      - name: Monica E. Calkins
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 18
+      - name: Mark A. Elliott
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 19
+      - name: Raquel E. Gur
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 20
+      - name: Ruben C. Gur
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 21
+      - name: Tyler M. Moore
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 22
+      - name: J. Cobb Scott
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 23
+      - name: Russell T. Shinohara
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 24
+      - name: M. Dylan Tisdal
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 25
+      - name: Daniel H. Wolf
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 26
+      - name: David R. Roalf
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 27
+      - name: Theodore D. Satterthwaite
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 28
+    creators:
+      - name: Brooke L. Sevchik
+        nameType: Personal
+      - name: Golia Shafiei
+        nameType: Personal
+      - name: Kristin Murtha
+        nameType: Personal
+      - name: Sophia Linguiti
+        nameType: Personal
+      - name: Lia Brodrick
+        nameType: Personal
+      - name: Juliette B.H. Brook
+        nameType: Personal
+      - name: Matt Cieslak
+        nameType: Personal
+      - name: Elizabeth Flook
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: Kahini Mehta
+        nameType: Personal
+      - name: Steven L. Meisler
+        nameType: Personal
+      - name: Kosha Ruparel
+        nameType: Personal
+      - name: Sage Rush
+        nameType: Personal
+      - name: Taylor Salo
+        nameType: Personal
+      - name: S. Parker Singleton
+        nameType: Personal
+      - name: Tien T. Tong
+        nameType: Personal
+      - name: Mrugank Salunke
+        nameType: Personal
+      - name: Dani S. Bassett
+        nameType: Personal
+      - name: Monica E. Calkins
+        nameType: Personal
+      - name: Mark A. Elliott
+        nameType: Personal
+      - name: Raquel E. Gur
+        nameType: Personal
+      - name: Ruben C. Gur
+        nameType: Personal
+      - name: Tyler M. Moore
+        nameType: Personal
+      - name: J. Cobb Scott
+        nameType: Personal
+      - name: Russell T. Shinohara
+        nameType: Personal
+      - name: M. Dylan Tisdal
+        nameType: Personal
+      - name: Daniel H. Wolf
+        nameType: Personal
+      - name: David R. Roalf
+        nameType: Personal
+      - name: Theodore D. Satterthwaite
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

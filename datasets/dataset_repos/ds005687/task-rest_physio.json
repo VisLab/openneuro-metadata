@@ -1,0 +1,57 @@
+{
+  "SamplingFrequency": 1, 
+  "StartTime": 0, 
+  "Columns": [
+    "RESP_RATE", "TEMP_1", "SPO2", "HEART_RATE", 
+    "PULSE_DIS", "BREATH_RATE", "OXI_BREATH_RATE", "ERROR_CODE"
+  ], 
+  "RESP_RATE": {
+    "Name": "respiration rate", 
+    "Description": "the respiration rate recorded with a small pneumatic pillow sensor to the SAII Trend system in cycles per minute (cpm)", 
+    "Units": "cpm"
+  }, 
+  "TEMP_1": {
+    "Name": "rectal temperature", 
+    "Description": "the temperature recorded with a rectal probe to the SAII Trend system.", 
+    "Units": "°C"
+  }, 
+  "SPO2": {
+    "Name": "SPO2", 
+    "Description": "the peripheral arterial oxygen saturation (SpO2) recorded with a rat sensor clipped on the right paw of the animal to the MouseOx Pulse Oximeter", 
+    "Units": "%"
+  }, 
+  "HEART_RATE": {
+    "Name": "heart rate", 
+    "Description": "the heart rate recorded with the rat sensor clipped on the right paw of the animal to the MouseOX Pulse Oximeter in beats per minute (bpm)", 
+    "Units": "bpm"
+  }, 
+  "PULSE_DIS": {
+    "Name": "pulse distension", 
+    "Description": "the pulse distension recorded with the rat sensor clipped on the right paw of the animal to the MouseOX Pulse Oximeter in arbitrary units (au)", 
+    "Units": "au"
+  }, 
+  "BREATH_DIS": {
+    "Name": "breath distension", 
+    "Description": "the breath distension recorded with the rat sensor clipped on the right paw of the animal to the MouseOX Pulse Oximeter in arbitrary units (au)", 
+    "Units": "au"
+  }, 
+  "OXI_BREATH_RATE": {
+    "Name": "breath rate from the oximeter", 
+    "Description": "the breath rate recorded with the rat sensor clipped on the right paw of the animal to the MouseOX Pulse Oximeter in arbitrary units (cpm)", 
+    "Units": "cpm"
+  }, 
+  "ERROR_CODE": {
+    "Name": "error code", 
+    "Description": "the error code given by the MouseOX Pulse Oximeter.", 
+    "Levels": {
+      "0": "No Errors", 
+      "2": "Lost Pulse - 5 consecutive internal criteria on beat detection", 
+      "3": "Lost Breath Rate - 10 consecutive internal criteria on resp. cycle detection", 
+      "4": "Lost SpO2 - average on 10 SpO2 acceptance criteria", 
+      "6": "Lost Signal - pulse distension < 10 um", 
+      "7": "Lost Breath Rate & Lost SpO2", 
+      "8": "Breathing artifact", 
+      "9": "Signal Optimization"
+    }
+  }
+}

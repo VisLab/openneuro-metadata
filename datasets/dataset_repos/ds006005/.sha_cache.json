@@ -1,0 +1,21 @@
+{
+  "task-0p05_bold.json": "c8c8f3e0a2ea9ed211324a2e4564b8b44b68c6ec",
+  "events.json": "e6ae042c69877e3e0a5f1b61011fa10f9bcfd087",
+  "README": "e509860e285429da0efda54bc480e756be6eaa81",
+  "task-0p20_bold.json": "6f366a2aab18efee440af5885c31f02547872e34",
+  "CHANGES": "e5ecfa52bc0ef58a141743f5871eae57073f3a71",
+  "dataset_description.json": "7247be68a78bb84456eef9f8237bf9537cd9c1f6",
+  "participants.tsv": "cbcfa8ae03fea499690b08e14f043126c5d5bb5b",
+  "task-0p10_bold.json": "4002a3b2814ab0dde993a8822e81f1a4b15922a6",
+  "sub-01/func/sub-01_task-0p05_run-02_events.tsv": "afb71e1a90324c93d52cc0e956c78456736d2026",
+  "sub-01/func/sub-01_task-0p10_run-01_events.tsv": "ea69338d92f9c8b65c6fd9c8cee03c210a16446b",
+  "sub-01/func/sub-01_task-0p05_run-01_events.tsv": "509006bb4c6a617cdbbb5631441804b66122e323",
+  "sub-01/func/sub-01_task-0p20_run-01_events.tsv": "006234907af202b81c212b29c7dbd1c6ba6d614b",
+  "sub-01/func/sub-01_task-0p20_run-02_events.tsv": "e41481f36d1649cd68164ca839c05ab34fd9f792",
+  "sub-01/func/sub-01_task-0p20_run-05_events.tsv": "04bc870cc2cd9b273696acac6e4dcd8f621b9564",
+  "sub-01/func/sub-01_task-0p10_run-03_events.tsv": "e25ab381f900b7878c8c05154743febf72db9128",
+  "sub-01/func/sub-01_task-0p10_run-02_events.tsv": "1c298d834bca0bfc0e5ff13c06d7b873c6078c2e",
+  "sub-01/func/sub-01_task-0p20_run-04_events.tsv": "10ea335c38fafc838f14901d056bad8d33ee8fef",
+  "sub-01/func/sub-01_task-0p20_run-03_events.tsv": "ef7c04b195958934dba12dbc9b649ab8f2500294",
+  "sub-01/func/sub-01_task-0p20_run-06_events.tsv": "a4802d304c42182cd2fabc4bf58a6ba579b9d305"
+}

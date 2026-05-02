@@ -1,0 +1,39 @@
+Description of the ASL sequence
+A sequence with pseudo-continuous labeling, background suppression and 3D RARE Stack-Of-Spirals readout with optional through-plane acceleration was implemented for this study. At the beginning of the sequence, gradients were rapidly played with alternating polarity to correct for their delay in the spiral trajectories, followed by two preparation TRs, to allow the signal to reach the steady state. A non-accelerated readout was played during the preparation TRs, in order to obtain a fully sampled k-space dataset, used for calibration of the parallel imaging reconstruction kernel, needed to reconstruct the skipped kz partitions in the accelerated images.
+
+Description of study
+Non-accelerated and accelerated versions of the sequence were compared during the execution of a functional activation paradigm.
+For each participant, first a high-resolution anatomical T1-weighted image was acquired with a magnetization prepared rapid gradient echo (MPRAGE) sequence.
+Subjects underwent two perfusion runs, in which functional data were acquired with the non-accelerated and the accelerated version of the sequence, in pseudo-randomized order, during a visual-motor activation paradigm. During each run, 3 resting blocks alternated with 3 task blocks, with each block comprising 8 label-control pairs (72 s and 64 s for the non-accelerated and accelerated sequence versions, respectively). During the resting blocks, subjects were instructed to remain still while looking at a fixation cross. During the task blocks, a flashing checkerboard was displayed and subjects were asked to tap their right-hand fingers while looking at the center of the board. Labeling and PLD times were 1.5 and 1.5 s. In addition, four M0 images with long TR and no magnetization preparation were acquired per perfusion run for CBF quantification purposes. 
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure deindentification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/latest/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000234/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000234.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.
+
+Known Issues
+------------
+N/A
+
+Bids-validator Output
+---------------------
+

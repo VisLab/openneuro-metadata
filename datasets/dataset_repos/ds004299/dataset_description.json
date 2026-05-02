@@ -1,0 +1,17 @@
+{
+    "BIDSVersion": "1.2.1",
+    "Name": "Characterizing habit learning in the human brain at the individual and group levels: a multi-modal MRI study",
+    "Authors": [
+        "Gera, Rani",
+        "Bar Or, Maya",
+        "Tavor, Ido",
+        "Roll, Dana",
+        "Cockburn, Jefrey",
+        "Barak, Segev",
+        "Tricomi, Elizabeth",
+        "O’Doherty, John P.",
+        "Schonberg, Tom"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004299.v1.0.0",
+    "License": "CC0"
+}

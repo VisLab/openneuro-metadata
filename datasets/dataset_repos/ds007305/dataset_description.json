@@ -1,0 +1,22 @@
+{
+    "Name": "Neural Computation and Comparison of Value in Simple Choice",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Blair Shevlin",
+        "Rachael Gwinn",
+        "Aidan Makwana",
+        "Ian Krajbich"
+    ],
+    "Acknowledgements": "Thanks to Kareem Soliman for research assistance with recruiting and to the Cattell Sabbatical Fund for financial support.",
+    "HowToAcknowledge": "Please cite: Shevlin, B.R.K, Gwinn, R., Makwana, A., & Krajbich, I. (2026). Overt visual attention modulates decision-related signals in ventral and dorsal medial prefrontal cortex. eLife",
+    "Funding": [
+        "Cattell Sabbatical Fund"
+    ],
+    "ReferencesAndLinks": [
+        "https://osf.io/eyxvb/"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007305.v1.0.0",
+    "DatasetNote": "This dataset contains preprocessed fMRI data. The RepetitionTime field in functional JSON files is set to 0 to match preprocessed NIfTI headers. The actual acquisition TR was 2.6 seconds, documented in the ActualRepetitionTime field."
+}

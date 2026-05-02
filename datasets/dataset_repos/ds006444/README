@@ -1,0 +1,47 @@
+# The Impact and Reliability of Tissue Segmentation on In Vivo Magnetic Resonance Spectroscopy Metabolite Quantification
+
+Contact: [mam4041@med.cornell.edu](mailto:mam4041@med.cornell.edu)
+
+## Overview
+
+These data were collected as part of a study to assess the test-retest reliability of multi-metabolite edited MRS editing schemes and the [sLASER](https://doi.org/10.1002/mrm.21302) localization approach.
+The resulting dataset was also used to evaluate the impact of anatomical segmentation on estimated metabolite concentrations.
+
+Data types included are defaced *T*<sub>1</sub>-weighted 3D structural MRI images and sLASER data.
+
+## Methods
+
+### Subjects
+
+Sixteen healthy adults (10 females, 6 males, mean age = 38.4 years).
+
+### MR protocol
+
+MR data were acquired using a 3T GE Discovery MR750 MRI scanner using a <sup>1</sup>H 32-channel RF phased-array head coil for receive and a body coil for transmit.
+
+#### MRI
+
+*T*<sub>1</sub>-weighted FSPGR BRAVO structural MRI acquisition parameters:
+
+- Voxel resolution = 0.9 × 0.9 × 1.5 mm<sup>3</sup>
+- TE/TR/TI (ms) = 5.2/12.2/725
+- Flip angle = 7°
+- Slices = 124
+- FOV = 256 × 256 mm<sup>2</sup>
+- Matrix size = 256 × 256
+- Parallel acquisition technique: GRAPPA
+- Parallel acquisition factor: 2
+
+#### MRS
+
+General MRS acquisition parameters:
+
+- Volume of interest = medial parietal lobe
+- Voxel resolution = 30 × 30 × 30 mm<sup>3</sup>
+- Spectral width = 5000 Hz
+- Number of points = 4096
+
+##### sLASER
+
+- TE/TR = 35/2000 ms
+- Number of transients = 64

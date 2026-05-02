@@ -1,0 +1,11 @@
+{
+    "Name": "Neural Mechanisms of Cognitive Conflict: Processing COVID-19 Vaccine Misinformation",
+    "BIDSVersion": "1.1.1",
+    "License": "CC0",
+    "Authors": [
+        "Morgan Chase McClellan",
+        "C. Brock Kirwan",
+        "Stefania R. Ashby"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007115.v1.0.0"
+}

@@ -1,0 +1,10 @@
+{
+   "RepetitionTime": 0.6, 
+   "EchoTime1": 0.01, 
+   "EchoTime2": 0.01246, 
+   "ReceiveCoilName": "12 channel head coil", 
+   "FlipAngle": 70.0, 
+   "MagneticFieldStrength": 3, 
+   "ManufacturerModelName": "Trio", 
+   "Manufacturer": "Siemens"
+}

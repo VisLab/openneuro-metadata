@@ -1,0 +1,13 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+136.0937500000	n/a	69680	STATUS	n/a	n/a	trance1_start
+448.8125000000	n/a	229792	STATUS	n/a	n/a	trance1_end
+498.0468750000	n/a	255000	STATUS	n/a	n/a	rest1_start
+774.3281250000	n/a	396456	STATUS	n/a	n/a	rest1_end
+1405.9062500000	n/a	719824	STATUS	n/a	n/a	rest2_start
+1649.6875000000	n/a	844640	STATUS	n/a	n/a	rest2_end
+1894.0312500000	n/a	969744	STATUS	n/a	n/a	trance2_start
+2206.3281250000	n/a	1129640	STATUS	n/a	n/a	trance2_end
+2529.5937500000	n/a	1295152	STATUS	n/a	n/a	trance3_start
+2777.5312500000	n/a	1422096	STATUS	n/a	n/a	trance3_end
+2808.8125000000	n/a	1438112	STATUS	n/a	n/a	rest3_start
+3055.2968750000	n/a	1564312	STATUS	n/a	n/a	rest3_end

@@ -1,0 +1,22 @@
+{
+    "Name": "Pragmatic Language",
+    "BIDSVersion": "1.1.1",
+    "License": "CC0",
+    "Authors": [
+        "Rasgado-Toledo, J.",
+        "Lizcano-Cortés, F.",
+        "Olalde-Mathieu, V.",
+        "Zamora-Ursulo, M.",
+        "Licea-Haquet, G.",
+        "Carillo-Peña, A.",
+        "Navarrete, E.",
+        "Reyes-Aguilar, A.*",
+        "Giordano, M"
+    ],
+    "Acknowledgements": "We thank Drs. Erick Pasaye, Leopoldo González-Santos, Juan Ortiz, and the personnel at the National Laboratory for Magnetic Resonance Imaging (LANIREM UNAM), for their valuable assistance. This work received support from Luis Aguilar, Alejandro De León, Carlos Flores, and Jair García of the Laboratorio Nacional de Visualización Científica Avanzada (LAVIS). Additional thanks to Elizabeth Valles-Capetillo and Francis Manno for their valuable help with recruitment and MRI data acquisition, and to Domingo Martínez for quality control of datasets.",
+    "Funding": [
+        "This study was supported by grants from UNAM, DGAPA-PAPIIT IN203818-2, and the Mexican Council for Science and Technology, Fronteras de la Ciencia CONACyT 2015 no. 225. to M. Giordano, and scholarships #476261 to R-T, J., #779254 to L-C, F., #330989 to O-M, V. E., #621367 to L-H, G.L., #612272 to Z-U, A., and from intramural funds (Instituto de Neurobiología, UNAM)."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds003481.v1.0.4",
+    "HowToAcknowledge": "Rasgado-Toledo J, Lizcano-Cortés F, Olalde-Mathieu VE, Licea-Haquet G, Zamora-Ursulo MA, Giordano M and Reyes-Aguilar A (2021) A Dataset to Study Pragmatic Language and Its Underlying Cognitive Processes. Front. Hum. Neurosci. 15:666210. doi: 10.3389/fnhum.2021.666210"
+}

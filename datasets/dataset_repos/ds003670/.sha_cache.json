@@ -1,0 +1,19 @@
+{
+  "CHANGES": "51f16d96c8c6b7e5ee1a9b2c16951bafc38a9dff",
+  "README": "1e9d4eccf7757d7905592ffe86cdc9e895b00cfd",
+  "participants.json": "3fe7b9cb9265b7318d20ff6089bedd4acb2e00a1",
+  "dataset_description.json": "2c160d34c1deab59aef2a7edd300e99aa9011a7d",
+  "participants.tsv": "e606ab695313ebe9d1add3d7c647b8ab82de593c",
+  "sub-001/ses-02/eeg/sub-001_ses-02_task-GXtESCTT_events.json": "2d5eb024c463f7c8ea99b562ffbb75d3978f44d4",
+  "sub-001/ses-02/eeg/sub-001_ses-02_task-GXtESCTT_events.tsv": "81a1480a55ec7ab309095c3613ea6cc2e844b112",
+  "sub-001/ses-03/eeg/sub-001_ses-03_task-GXtESCTT_events.tsv": "4aa1be57bc67d55caa2f5087c27435ce65e78a0a",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-GXtESCTT_events.json": "2d5eb024c463f7c8ea99b562ffbb75d3978f44d4",
+  "sub-001/ses-05/eeg/sub-001_ses-05_task-GXtESCTT_events.json": "2d5eb024c463f7c8ea99b562ffbb75d3978f44d4",
+  "sub-001/ses-05/eeg/sub-001_ses-05_task-GXtESCTT_events.tsv": "ecdcb769fc82bd6dd2c324048d9350cd78d67290",
+  "sub-001/ses-04/eeg/sub-001_ses-04_task-GXtESCTT_events.tsv": "de08eaa74312e0f08a0c86a06388a29e8f06c4a6",
+  "sub-001/ses-04/eeg/sub-001_ses-04_task-GXtESCTT_events.json": "2d5eb024c463f7c8ea99b562ffbb75d3978f44d4",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-GXtESCTT_events.tsv": "20f01679d1c2b1fb5d3bf64e7b632b4d4fa59e1e",
+  "sub-001/ses-03/eeg/sub-001_ses-03_task-GXtESCTT_events.json": "2d5eb024c463f7c8ea99b562ffbb75d3978f44d4",
+  "sub-001/ses-06/eeg/sub-001_ses-06_task-GXtESCTT_events.json": "2d5eb024c463f7c8ea99b562ffbb75d3978f44d4",
+  "sub-001/ses-06/eeg/sub-001_ses-06_task-GXtESCTT_events.tsv": "38c8d6dbfb972a2566e1ee343e6a6df77a42bb18"
+}

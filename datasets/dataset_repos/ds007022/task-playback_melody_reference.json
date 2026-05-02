@@ -1,0 +1,36 @@
+{
+  "melody_number": {
+    "Description": "Identifier of the musical excerpt used in the task.",
+    "Levels": {
+      "M1": "A cat climbed a fence ('Wlazł kotek na płotek'), Polish nursery rhyme.",
+      "M2": "Frère Jacques ('Panie Janie'), French nursery rhyme.",
+      "M3": "In a brick cellar ('W murowanej piwnicy'), Highlander folk song.",
+      "M4": "A train comes from afar ('Jedzie pociąg z daleka'), Polish nursery rhyme.",
+      "M5": "Jingle Bells, American holiday song.",
+      "M6": "Another Summer ('Comptine d'un autre été') by Yann Tiersen, musical theme from the film 'Amélie'.",
+      "M7": "Red Apple ('Czerwone Jabłuszko'), Kuyavian folk song.",
+      "M8": "Minuet in G minor by Christian Petzold (formerly attributed to J.S. Bach), from the Notebooks for Anna Magdalena Bach."
+    }
+  },
+  "melody_part": {
+    "Description": "Segment of the given musical excerpt used or performed within the task.",
+    "Levels": {
+      "1": "First part of the musical excerpt.",
+      "2": "Second part of the musical excerpt."
+    }
+  },
+  "hand": {
+    "Description": "Indicates how the musical excerpt was performed—whether the participant played the fragment using only the right hand or using both hands.",
+    "Levels": {
+      "RH": "The musical excerpt was performed using the right hand only.",
+      "BH": "The musical excerpt was performed using both hands."
+    }
+  },
+  "key_sequence": {
+    "Description": "Target sequence of key presses corresponding to the given fragment of the musical excerpt, defined at the level of individual keys. Groups of characters represent chords (multiple notes played simultaneously), while successive sounds are separated by spaces."
+  },
+  "timepoint": {
+    "Description": "Identifier of the experimental session."
+  }
+}
+

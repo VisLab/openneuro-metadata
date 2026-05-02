@@ -1,0 +1,22 @@
+{
+    "Name": "Sample Data for Cross-subject Decoding of Continuous Language from Non-invasive fMRI Recordings",
+    "BIDSVersion": "v1.9.0",
+    "Authors": [
+        "Xiaoqing Zheng1,2",
+        "Cenyuan Zhang",
+        "Ruicheng Yin",
+        "Shujie Geng",
+        "Jianhan Xu",
+        "Xuan Gao",
+        "Changze Lv",
+        "Zixuan Ling",
+        "Xuanjing Huang",
+        "Bingyan Qiao",
+        "Mengmeng Su",
+        "Wei Zhou",
+        "Miao Cao",
+        "Jianfeng Feng3"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006630.v1.0.1"
+}

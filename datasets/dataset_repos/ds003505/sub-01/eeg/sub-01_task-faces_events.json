@@ -1,0 +1,54 @@
+{
+    "onset": {
+        "Description": "Onset of the stimulus presentation.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the stimulus presentation.",
+        "Units": "s"
+    },
+    "trial_type": {
+        "LongName": "Trial category",
+        "Description": "The main category of the trial.",
+        "Levels": {
+            "SCRAMBLED": "Display a scrambled face.",
+            "FACES": "Display a face."
+        }
+    },
+    "trial_type_id": {
+        "LongName": "Trial binary category",
+        "Description": "The binary category of the trial.",
+        "Levels": {
+            "0": "Display a scrambled face.",
+            "1": "Display a face."
+        }
+    },
+    "response_time": {
+        "Description": "Time from stimulus presentation to response.",
+        "Units": "s"
+    },
+    "response_accuracy": {
+        "Description": "Accuracy of the response with respect to the stimulus presented",
+        "Levels": {
+            "0": "Incorrect response",
+            "1": "Correct response"
+        }
+    },
+    "bad_epoch": {
+        "Description": "Whether or not it was an epoch contaminated by artefacts",
+        "Levels": {
+            "0": "No artefacts present",
+            "1": "Artefacts present"
+        }
+    },
+    "outliers": {
+        "Description": "Whether or not it was an outlier epoch",
+        "Levels": {
+            "0": "No outlier",
+            "1": "Outlier"
+        }
+    },
+    "event_num": {
+        "Description": "Event number corresponding to the trial"
+    }
+}

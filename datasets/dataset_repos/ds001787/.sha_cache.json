@@ -1,0 +1,11 @@
+{
+  "dataset_description.json": "7487c5b45635fa6f570aed2ed3b82726dcc4b8c2",
+  "task-meditation_channels.tsv": "e9ffbc212c0c9163eabd063fa905bb2c3fd9c96f",
+  "participants.tsv": "ed6bc01071b75371d741593b4d8808c3168a55c0",
+  "task-meditation_events.json": "90e960b49f233f922778c077108a9bbee9cecf87",
+  "participants.json": "941c1cb3010a6516b0336e3d97073a48146b0df5",
+  "README": "79283b956ef578bd0c7c778dcd6668434ee82111",
+  "CHANGES": "0ac5b04dcd24e0ea88c2a58c7b54435ed704e8bb",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-meditation_events.tsv": "18cbc92679a5667c39f92383d8b8c735ff319003",
+  "sub-001/ses-02/eeg/sub-001_ses-02_task-meditation_events.tsv": "991828a2beda0ded8fa8d89b045cb3ccf296a5bd"
+}

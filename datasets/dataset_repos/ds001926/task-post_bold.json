@@ -1,0 +1,7 @@
+{
+    "RepetitionTime": 1.5,
+    "EchoTime": 0.004,
+    "EffectiveEchoSpacing": 0.000929949,
+    "PhaseEncodingDirection": "j-",
+    "TaskName": "Post Test Phase"
+}

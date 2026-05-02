@@ -1,0 +1,17 @@
+Darkend Auditory Narrative Repeated Listening fMRI Dataset
+
+This dataset contains multi-echo fMRI data collected while participants listened
+to an auditory narrative ("Darkend of the Mall" from The Truth podcast) twice (darkend1 and darkend2). 
+
+Only the narrative listening portion of the scan is included in the events files.
+Post-narrative is  not modeled.
+
+Data were acquired with TR = 1.0 s. The length of the stimulus is 18:25 min:sec (1105 TRs or seconds). Each task contains three echoes.
+
+Multi-echo data are provided using BIDS echo indexing:
+  echo-1, echo-2, echo-3
+
+Contact: Clara Sava-Segal or Emily S. Finn for questions
+
+Please cite this dataset and publication "Narrative ‘twist’ shifts within-individual neural representations of dissociable story features" Sava-Segal, Grall & Finn, 2026 (PNAS)
+

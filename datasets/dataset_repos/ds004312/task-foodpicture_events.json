@@ -1,0 +1,16 @@
+{
+    "run": {
+        "LongName": "Run",
+        "Description": "Which run this timing segment corresponds to"
+    },
+    "trial_type": {
+        "LongName": "Type of Trials",
+        "Description": "What type of event is occuring at this moment during the task",
+        "Levels": {
+            "sweet": "4 pictures of sweet foods are presented sequentially for 1500ms, 1 every 2 seconds. Participants prompted to press a button if the same image is repeated twice.",
+            "sour": "4 pictures of sour foods are presented sequentially for 1500ms, 1 every 2 seconds. Participants prompted to press a button if the same image is repeated twice.",
+            "salty": "4 pictures of salty foods are presented sequentially for 1500ms, 1 every 2 seconds. Participants prompted to press a button if the same image is repeated twice.",
+            "object": "4 pictures of non-food objects are presented sequentially for 1500ms, 1 every 2 seconds. Participants prompted to press a button if the same image is repeated twice."
+        }
+    }
+}

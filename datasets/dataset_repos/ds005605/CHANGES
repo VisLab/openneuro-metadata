@@ -1,0 +1,8 @@
+1.1.0 2024-11-04
+  - update to include all rats
+1.0.2 2023-07-31
+  - Remove nifti files from sourcedata
+1.0.1 2023-07-31
+  - Small changes to authors and name of dataset
+1.0.0 2024-10-30
+  - first initial version

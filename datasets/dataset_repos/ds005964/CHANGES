@@ -1,0 +1,12 @@
+1.0.0 2025-03-06
+  - initial version creation
+4 2023-01-12
+  - Corrected stimulus duration from 5 to 5.25 seconds
+  - Added extra landmarks to the SNIRF file to improve compatability with AtlasViewer and Satori
+
+3 2023-01-02
+  - Fixed trial duration information
+  - Added dataset authors
+
+2 2022-07-19
+  - Initial release.

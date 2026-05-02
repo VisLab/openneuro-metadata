@@ -1,0 +1,8 @@
+{
+  "participants.tsv": "012db0ca57bb320be2fd9ea9fcc603ea15dcb59d",
+  "README": "282bab7a82133f224637dfbdce08902f8687e2c8",
+  "CHANGES": "e18fad7b2e0f704a4858430ecfca03798afc3902",
+  "dataset_description.json": "794bc0621e668978239d6a6cabcb1fd0fa6e8c4d",
+  "sub-PLAC10/ses-placebo6m/eeg/sub-PLAC10_ses-placebo6m_task-taskplacebo6m_events.tsv": "6ed55d87dbbdbff07a145c59ede4a4d68320aedd",
+  "sub-PLAC10/ses-placebopre/eeg/sub-PLAC10_ses-placebopre_task-taskplacebopre_events.tsv": "3d108c6ad04adbedec5330ca9da264936f904c08"
+}

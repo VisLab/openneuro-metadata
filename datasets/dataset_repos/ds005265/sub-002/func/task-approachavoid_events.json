@@ -1,0 +1,34 @@
+{
+    "trial_type": {
+        "LongName": "Type of trial",
+        "Description": "Describes the type of stimuli including the instruction and valence of the image stimuli.",
+        "Levels": {
+            "instruction": "The instruction that denotes the action goal according to the valence of the image presented for the following 12 trials.",
+            "pos": "Positive image stimuli.",
+            "neg": "Negative image stimuli."
+        }
+    },
+    "ActionGoal": {
+        "LongName": "Action goal",
+        "Description": "Describes the action goal of the trial.",
+        "Levels": {
+            "Approach": "The movement goal is to pull the joystick toward yourself on the current trial.",
+            "Avoid": "The movement goal is to push the joystick away from yourself on the current trial."
+        }
+    },
+    "RealAction": {
+        "LongName": "Real action on the trial",
+        "Description": "Participant's movement direction on the trial.",
+        "Levels": {
+            "Approach": "The real action is to pull the joystick toward yourself on the current trial.",
+            "Avoid": "The real action is to push the joystick away from yourself on the current trial.",
+            "NoMove": "Participant did not make any movement within the response window (2s)."
+        }
+    },
+    "joystick_RTcal": {
+        "LongName": "Initiation time",
+        "Description": "Time taken to start an action in response to the image on the current trial.",
+        "Units": "seconds"
+    }
+}
+

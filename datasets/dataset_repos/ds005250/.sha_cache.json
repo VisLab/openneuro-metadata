@@ -1,0 +1,11 @@
+{
+  "CHANGES": "88a6d19e27018dad91793fc8c5aec58ebe746f7e",
+  "participants.tsv": "0fc3b094012ac7e824d69164ed5fa0a80de732ba",
+  "task-rest_acq-MBME_bold.json": "241d8e000a3eb1c9a81e9a06683a8eb1606dd2a3",
+  "participants.json": "3f9da517eb5f76279cacffb5522501d8143287ad",
+  "task-rest_acq-MBSE_bold.json": "f2b08a2e6003c7025fe9ebadfa3f32b420d4c3d2",
+  "task-fracback_acq-MBME_bold.json": "bb24d929af332eddbc9f76771b73177e6f55c426",
+  "dataset_description.json": "ca076b6a0584d5d1a56ac773e27fef52ed02e048",
+  "README": "87fda8534572626c4a5609e4827af0ad1c8d79bb",
+  "task-fracback_acq-MBME_events.json": "c2ef323df433a1480ed11e5f2244a565bf846e3c"
+}

@@ -1,0 +1,15 @@
+{
+    "PulseSequenceType": "`Multiband, Multi-echo pCASL, gradient echo EPI",
+    "RepetitionTime": 3.5,
+	"NumberShots": 1,
+	"MagneticFieldStrength": 3.0,
+	"PartialFourier": 0.75,
+	"EffectiveEchoSpacing":0.000232,
+    "EchoTime": 0.025,
+    "FlipAngle": 90,
+    "MultibandAccellerationFactor": 4,
+    "ParallelReductionFactorInPlane": 2,
+    "TaskName": "rest",
+	"SliceTiming": [0, 0.2340, 0.4880, 0.7020, 0.9360, 0.1170, 0.3510, 0.5850, 0.819, 0, 0.2340, 0.4880, 0.7020, 0.9360, 0.1170, 0.3510, 0.5850, 0.819, 0, 0.2340, 0.4880, 0.7020, 0.9360, 0.1170, 0.3510, 0.5850, 0.819, 0, 0.2340, 0.4880, 0.7020, 0.9360, 0.1170, 0.3510, 0.5850, 0.819],
+    "CogAtlasID": "http://www.cognitiveatlas.org/term/id/trm_54e69c642d89b"
+}

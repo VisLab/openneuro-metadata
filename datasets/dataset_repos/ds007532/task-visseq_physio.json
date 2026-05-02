@@ -1,0 +1,6 @@
+{
+  "Description": "Eye tracking data recorded using an EyeLink 1000 Plus remote tracking system (SR Research Ltd.) at 500 Hz during the visual sequence mismatch detection task.",
+  "TaskName": "visseq",
+  "SamplingFrequency": 500,
+  "SoftwareVersions": "5.16"
+}

@@ -1,0 +1,19 @@
+{
+  "task-phase1_bold.json": "3f984e1498ba319441d0bc4960f3c7139e683ac2",
+  "dataset_description.json": "1756ad7bf4d5a157229471372c8457ab016a14c7",
+  "CHANGES": "c2464b0a013f7ea4672005487549eba63881a45c",
+  "participants.tsv": "43ea3d77dd65fc4a682b313ce248816475804b80",
+  "task-phase2_bold.json": "842ce51dae41c8ebebaa65ab505c17f84b78ed02",
+  "README": "b603cbe3067d27273dbfba6c4963b029e8a6f983",
+  "sub-01/func/sub-01_task-phase1_run-03_events.tsv": "1ef6c01fe22eeb8e78b9ee943e1dd3634ad6efee",
+  "sub-01/func/sub-01_task-phase1_run-02_events.tsv": "1b224d419925c8b1a1b4c26aea4fd6de712007bd",
+  "sub-01/beh/sub-01_task-phase3_events.tsv": "01c462cd482fb130df8944b5312e06c14a5848f4",
+  "sub-01/func/sub-01_task-phase2_run-03_events.tsv": "52d4061b5cbe1116357f12cf8135feab52cb4691",
+  "sub-01/func/sub-01_task-phase2_run-02_events.tsv": "af6cd1187d5964358685ed98fe78db26782e7e04",
+  "sub-01/func/sub-01_task-phase2_run-05_events.tsv": "dd2aa138930a5130689f9f6c177dd512ee18267b",
+  "sub-01/func/sub-01_task-phase1_run-04_events.tsv": "af700041fea926e89f250e97252dd38660995cf0",
+  "sub-01/func/sub-01_task-phase1_run-01_events.tsv": "19a5fb54003adaf281b09244ef1fce1e54115292",
+  "sub-01/func/sub-01_task-phase2_run-01_events.tsv": "8b48b4d42856710293d9e39adb220b316e17fc94",
+  "sub-01/func/sub-01_task-phase2_run-04_events.tsv": "9b8cea5fb8c1d32f8177644e13e889f1b9ce5ebc",
+  "sub-01/func/sub-01_task-phase2_run-06_events.tsv": "97f4d73afc68a3884384c3ddad1fc08eddf7af65"
+}

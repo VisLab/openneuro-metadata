@@ -1,0 +1,128 @@
+onset	duration	trial_type
+3.75	1.5	go-critical
+6.25	1.5	go-critical
+9.5	1.5	go-noncritical
+12.375	1.5	go-noncritical
+14.5	1.5	go-noncritical
+17.5	1.5	go-critical
+20.0	1.5	go-critical
+22.125	1.5	failed stop - noncritical
+26.875	1.5	failed stop - critical
+30.5	1.5	go-noncritical
+32.5	1.5	succesful stop
+34.75	1.5	failed stop - noncritical
+36.875	1.5	go-noncritical
+39.375	1.5	go-critical
+41.75	1.5	junk
+45.0	1.5	junk
+47.0	1.5	go-critical
+49.375	1.5	go-noncritical
+51.5	1.5	go-noncritical
+54.125	1.5	go-noncritical
+57.0	1.5	go-noncritical
+59.625	1.5	go-critical
+61.875	1.5	go-noncritical
+64.375	1.5	go-critical
+67.25	1.5	failed stop - noncritical
+72.625	1.5	go-critical
+75.25	1.5	go-noncritical
+78.0	1.5	go-critical
+80.375	1.5	failed stop - critical
+82.375	1.5	succesful stop
+85.125	1.5	failed stop - noncritical
+87.25	1.5	go-noncritical
+89.75	1.5	go-noncritical
+93.625	1.5	go-critical
+96.25	1.5	go-critical
+99.125	1.5	go-critical
+101.75	1.5	failed stop - noncritical
+103.75	1.5	failed stop - critical
+106.125	1.5	go-noncritical
+109.125	1.5	go-critical
+112.0	1.5	failed stop - critical
+114.125	1.5	failed stop - noncritical
+116.625	1.5	go-noncritical
+119.125	1.5	go-critical
+123.0	1.5	go-noncritical
+125.875	1.5	go-noncritical
+128.375	1.5	go-critical
+131.5	1.5	go-critical
+134.75	1.5	go-critical
+137.0	1.5	go-noncritical
+139.625	1.5	go-critical
+141.75	1.5	go-critical
+144.125	1.5	succesful stop
+146.625	1.5	failed stop - noncritical
+151.125	1.5	go-noncritical
+154.375	1.5	failed stop - critical
+157.125	1.5	failed stop - noncritical
+161.0	1.5	go-noncritical
+164.75	1.5	go-noncritical
+168.0	1.5	go-noncritical
+170.25	1.5	go-critical
+173.125	1.5	go-noncritical
+176.625	1.5	go-critical
+179.125	1.5	go-critical
+181.5	1.5	go-noncritical
+185.125	1.5	go-critical
+189.125	1.5	go-noncritical
+191.5	1.5	go-critical
+193.5	1.5	go-noncritical
+195.875	1.5	go-noncritical
+198.0	1.5	go-critical
+200.25	1.5	failed stop - noncritical
+202.625	1.5	succesful stop
+205.125	1.5	failed stop - noncritical
+208.125	1.5	go-noncritical
+210.625	1.5	go-critical
+213.75	1.5	succesful stop
+216.375	1.5	go-noncritical
+221.0	1.5	go-critical
+223.875	1.5	go-critical
+227.5	1.5	go-noncritical
+229.75	1.5	go-critical
+232.25	1.5	failed stop - critical
+234.5	1.5	go-noncritical
+236.5	1.5	go-critical
+238.875	1.5	go-noncritical
+242.0	1.5	go-critical
+244.5	1.5	failed stop - noncritical
+246.875	1.5	go-noncritical
+251.375	1.5	go-critical
+255.125	1.5	go-noncritical
+258.125	1.5	failed stop - critical
+260.875	1.5	go-noncritical
+263.5	1.5	failed stop - noncritical
+265.875	1.5	go-critical
+270.25	1.5	go-critical
+274.375	1.5	go-noncritical
+276.375	1.5	go-critical
+278.375	1.5	go-noncritical
+280.75	1.5	go-critical
+282.75	1.5	go-critical
+285.375	1.5	go-noncritical
+287.375	1.5	go-critical
+290.625	1.5	go-noncritical
+292.875	1.5	failed stop - noncritical
+295.125	1.5	failed stop - noncritical
+299.875	1.5	junk
+302.25	1.5	failed stop - critical
+305.125	1.5	failed stop - critical
+307.875	1.5	go-noncritical
+310.5	1.5	go-noncritical
+313.25	1.5	go-noncritical
+317.5	1.5	go-critical
+320.125	1.5	go-noncritical
+322.75	1.5	go-noncritical
+324.75	1.5	failed stop - noncritical
+327.0	1.5	go-critical
+332.5	1.5	succesful stop
+335.0	1.5	succesful stop
+337.75	1.5	go-critical
+340.125	1.5	go-noncritical
+342.125	1.5	go-critical
+344.625	1.5	go-critical
+349.375	1.5	go-noncritical
+352.375	1.5	go-critical
+354.875	1.5	go-noncritical
+357.5	1.5	failed stop - noncritical

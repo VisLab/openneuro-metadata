@@ -1,0 +1,14 @@
+{
+  "participants.tsv": "3e2f5e1327681c76f3067e2a7f30a6fc9c32d65e",
+  "CHANGES": "a14a4098f3531a7fba4d5dc01338777fd97c1248",
+  "dataset_description.json": "05fabcde9af712b2f4a3e86ec74297ae2f07fe2c",
+  "participants.json": "098ac797abeebfba410647245395356a62f7630b",
+  "sub-356/ses-1/nirs/sub-356_ses-1_task-Imagery_run-01_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-356/ses-1/nirs/sub-356_ses-1_task-Thermal_run-01_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-356/ses-1/nirs/sub-356_ses-1_task-Thermal_run-01_events.tsv": "9dad3ecff8ee88b146e9e6a4f270139b88147bf7",
+  "sub-356/ses-1/nirs/sub-356_ses-1_task-FingerTapping_run-01_events.tsv": "b4a10655816165b48a8b419e82f89e0a81d9ce63",
+  "sub-356/ses-1/nirs/sub-356_ses-1_task-FingerTapping_run-01_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-356/ses-1/nirs/sub-356_ses-1_task-Electrical_run-01_events.tsv": "6b50b111c2ed831d222fab5ece4bea72fc60f4b9",
+  "sub-356/ses-1/nirs/sub-356_ses-1_task-Electrical_run-01_events.json": "b53e94ee4be5b2455ca02b5fb85edfdebd005726",
+  "sub-356/ses-1/nirs/sub-356_ses-1_task-Imagery_run-01_events.tsv": "38ae2e69fbe09c144d44bc18335c7368fd085907"
+}

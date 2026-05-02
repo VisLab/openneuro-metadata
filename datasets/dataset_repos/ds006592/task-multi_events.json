@@ -1,0 +1,21 @@
+{
+  "onset": {
+    "Description": "Onset of the event measured from the beginning of the acquisition of the first volume.",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "Duration of the event (measured from onset) in seconds.",
+    "Units": "seconds"
+  },
+  "trial_type": {
+    "Description": "The category of video clips shown in each block of stimuli.",
+    "Levels": {
+      "scene": "Outdoor nature scenery",
+      "words": "Animated pseudo-words",
+      "face": "faces",
+      "object": "inanimate objects",
+      "scramobject": "Identical to the object category but reconstructed with scrambled phase components",
+      "body": "Bodies and body parts"
+    }
+  }
+}

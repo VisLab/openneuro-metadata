@@ -1,0 +1,117 @@
+Dataset used in this [#Paper](https://www.nature.com/articles/s41593-025-02132-9)
+
+**Across-subjects average maps**<br />
+If you're interested in standard-space (MNI152 6th), **average CBF, CMRO2, or OEF maps**, please use: 
+
+/derivatives/N40_cond-control_space-MNI152_median_GMR2pCBVmasked_**.nii.gz
+
+--> these are already gray-matter masked (GM probability > 0.5; oef and cmro2 can only be interpreted in GM) + venous-dominated voxels are discarded
+
+for CBF, there is also the non-masked version: 
+/derivatives/N40_cond-control_space-MNI152_median_cbf.nii.gz
+
+**Single- subject r2', oef, cbv, cbf and cmro2 maps**<br />
+Please use the following maps, all under /derivatives/sub-XX/qmri/: <br />
+We strongly advise to restrict all of these to subject-specific gray-matter (GM probability > 0.5 as r2', oef and cmro2 not interpretable in WM), plus T2<90[ms] , R2'<9[1/s] , CBV<10 [%] and OEF < 0.9 [ratio] before analyses; to avoid areas mainly influenced by CSF, large vessels, and susceptibility-related artifact areas. <br />
+
+
+
+**r2'**<br />
+* sub-XX_task-TASK_space-XX_R2prime<br />
+* sub-XX_task-TASK_base-BASE_space-XX_desc-semi-quant_oef_R2prime <br />
+
+**oef**<br />
+* sub-XX_task-TASK_space-XX_oef <br />
+* sub-XX_task-calc_space-XX_desc-cbv_oef --> cbv was acquired in control and calc conditions, this is the OEF based on CBV in calc; only  exists for CALC, for all other conditions CBV in CTRL was used <br />
+* sub-XX_task-mem_base-control_space-XX_desc-semi-quant_oef --> we advise using this for MEM; this is the OEF map based on R2' derived from fMRI %BOLD (MEM minus CTRL/CTRL), but with CBV in CTRL, as we did not acquire CBV in MEM  <br />
+* sub-XX_task-calc_base-control_space-XX_desc-semi-quant-corrected_oef --> we advise using this for CALC; this is the OEF map based on CALC-CBV, and on R2' derived from fMRI %BOLD (CALC minus CTRL/CTRL) <br />
+
+**cbv**<br />
+* sub-XX_task-TASK_space-XX_cbv --> cbv was acquired in control and for some subjects also in the calc condition <br />
+
+**cbf**<br />
+* sub-XX_task-TASK_space-XX_cbf<br />
+
+**cmro2**<br />
+* sub-XX_task-TASK_space-XX_desc-orig_cmro2 <br /> --> this is the CMRO2 map based on CBV in CTRL, except for those 10 subjects where it was additionally acquired in CALC
+* sub-XX_task-calc_space-XX_desc-cbv_cmro2 --> This is the CMRO2 map based on CBV in CALC for all subjects (extrapolated from 10  subjects to all 40); only exists for CALC; for all other conditions CBV in CTRL was used <br />
+* sub-XX_task-mem_base-control_space-XX_desc-semi-quant_cmro2--> we advise using this for MEM; this is the CMRO2 map based on R2' derived from fMRI %BOLD (MEM minus CTRL/CTRL), but with CBV in CTRL, as we did not acquire CBV in MEM  <br />
+* sub-XX_task-calc_base-control_space-XX_desc-semi-quant-corrected_cmro2 --> we advise using this for CALC; this is the CMRO2 map based on CALC-CBV, and on R2' derived from fMRI %BOLD (CALC minus CTRL/CTRL) <br />
+
+All participants' data are organized like this: 
+
+
+**MAIN STUDY** <br />
+This dataset consists of 40 healthy, right-handed participants (sub-p019 to sub-p068) (see participants.tsv file) + 7 discarded participants. <br />
+* sub-p022: incomplete behavioral data (MEM), participant skipped nearly all keywords  <br />
+* sub-p024: no signal drop in DSC data detected, venous line probably too short / blocked! No CBV data <br />
+* sub-p025: no signal drop in DSC data detected, venous line probably too short / blocked! No CBV data <br />
+* sub-p042: CBF maps are one-sided /unilateral (already in scanner); scanning was interrupted, not all data acquired <br />
+* sub-p053: unilateral data in T2* calc  <br />
+* sub-p056: movement artifacts/ringing, unilateral data in T2* calc <br />
+* sub-p062: huge susceptibility artifacts above ear canals, scanning was interrupted, not all data acquired <br />
+(sub-p041, sub-p045, sub-p057 did not show up /cancelled short-notice. These participants were skipped completely without any data acquisition done.) <br />
+<br />
+
+
+**REPLICATION STUDY**  <br />
+This dataset consists of 10 healthy, right-handed participants  (sub-r070, sub-r071, sub-r072, sub-r073, sub-r074, sub-r075, sub-r076, sub-r077, sub-r078, sub-r079), (see participants.tsv file)  <br />
+
+<br />
+<br />
+
+_DATA STRUCTURE_ <br />
+
+Data is ordered in the following structure:
+<br />
+* sub-XX <br />
+* sub-XX <br />
+* sub-XX <br />
+&nbsp; &nbsp;  * /anat:<br /> 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **RAW** T1w  <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **RAW** multi-echo spin-echo T2 (MESE) data: sub-XX_echo-XX_task-control_MESE <br />
+&nbsp; &nbsp;  * /func: <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **RAW** fMRI BOLD task data, 30s blocks, 4 reps per task (CALC, MEM, CTRL, REST for ID < 56, CALC & CTRL for ID > 55)  <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  events.tsv file: not containing onsets for CTRL as this is considered the baseline for  <br />
+* derivatives <br />
+&nbsp; &nbsp; * /sub-XX <br />
+&nbsp; &nbsp; * /sub-XX <br />
+&nbsp; &nbsp; * /sub-XX <br />
+&nbsp; &nbsp; &nbsp; &nbsp; * /anat: <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**RAW** multi-echo, gradient-echo T2star (MEGRE): sub-XX_echo-XX_imaginary_task-XX_acq-MoCoQR_MEGRE.nii.gz; imaginary and real data separately; acq-fullres = full resolution, acq-MoCoHR = half resolution for motion correction;  acq-MoCoQR = quarter resolution for motion correction <br />
+&nbsp; &nbsp; &nbsp; &nbsp; * /func: <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; preprocessed fMRI BOLD task data (with fmriprep): sub-XX_task-all_space-XX_res-2_desc-preproc_bold <br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1stel level contrasts in T2 space: sub-pXX_1stlevel_CONTRAST_space-T2  <br />
+ &nbsp; &nbsp; &nbsp; &nbsp;  * /perf: <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **RAW** DSC (dynamic susceptibility contrast) data: sub-XX_task-XX_acq-perf_dsc <br />
+ &nbsp; &nbsp; &nbsp; &nbsp;  * /qmri: quantitative data, different spaces (space-MNI152, space-T1w and space-T2) <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **RAW** pCASL (pseudo-continuous arterial spin labeling) data: sub-XX_task-XX_acq-epi_asl <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; T2map  <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; R2prime map  <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; T2Smap map  <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CBV (from DSC) <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; OEF map <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CBF map  <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CMRO2 map  <br />
+<br />
+<br />
+<br />
+
+
+**CONTROL STUDY**  <br />
+This dataset consists of 18 healthy, right-handed participants (sub-dp007 to sub-dp024); T1w and fMRI BOLD data only (see participants.tsv file)  <br />
+<br />
+
+_DATA STRUCTURE_ <br />
+
+Data is ordered in the following structure:
+<br />
+* sub-XX <br />
+* sub-XX <br />
+* sub-XX <br />
+&nbsp; &nbsp;  * /anat:<br /> 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **RAW** T1w  <br />
+&nbsp; &nbsp;  * /func: <br /> 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **RAW** fMRI BOLD task data, 30s MEM and CALC tasks blocks with 4 repetitions; interleaved with 30sec CTRL blocks  <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **RAW** fMRI BOLD task data, 3min task blocks (CALC, MEM) interleaved with 1min CTRL blocks <br />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; not containing onsets for CTRL as this is considered the baseline <br />

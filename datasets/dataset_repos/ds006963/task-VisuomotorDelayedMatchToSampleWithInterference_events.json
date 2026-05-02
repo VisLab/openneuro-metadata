@@ -1,0 +1,124 @@
+{
+  "value": {
+    "LongName": "Raw trigger code",
+    "Description": "Raw trigger codes from the EEG recording system.",
+    "Levels": {
+      "S1": "S  1: Stimulus: Target left hand, motor interference, different hands",
+      "S2": "S  2: Stimulus: Target left hand, motor interference, same hands",
+      "S3": "S  3: Stimulus: Target left hand, visuomotor interference, different hands",
+      "S4": "S  4: Stimulus: Target left hand, visuomotor interference, same hands",
+      "S5": "S  5: Stimulus: Target left hand, no interference, arrow down",
+      "S6": "S  6: Stimulus: Target left hand, no interference, arrow up",
+      "S7": "S  7: Stimulus: Target right hand, motor interference, different hands",
+      "S8": "S  8: Stimulus: Target right hand, motor interference, same hands",
+      "S9": "S  9: Stimulus: Target right hand, visuomotor interference, different hands",
+      "S10": "S 10: Stimulus: Target right hand, visuomotor interference, same hands",
+      "S11": "S 11: Stimulus: Target right hand, no interference, arrow down",
+      "S12": "S 12: Stimulus: Target right hand, no interference, arrow up",
+      "S21": "S 21: Interference onset: Target left hand, motor interference, different hands",
+      "S22": "S 22: Interference onset: Target left hand, motor interference, same hands",
+      "S23": "S 23: Interference onset: Target left hand, visuomotor interference, different hands",
+      "S24": "S 24: Interference onset: Target left hand, visuomotor interference, same hands",
+      "S25": "S 25: Interference onset: Target left hand, no interference, arrow down",
+      "S26": "S 26: Interference onset: Target left hand, no interference, arrow up",
+      "S27": "S 27: Interference onset: Target right hand, motor interference, different hands",
+      "S28": "S 28: Interference onset: Target right hand, motor interference, same hands",
+      "S29": "S 29: Interference onset: Target right hand, visuomotor interference, different hands",
+      "S30": "S 30: Interference onset: Target right hand, visuomotor interference, same hands",
+      "S31": "S 31: Interference onset: Target right hand, no interference, arrow down",
+      "S32": "S 32: Interference onset: Target right hand, no interference, arrow up",
+      "S41": "S 41: Color-wheel onset: Target left hand, motor interference, different hands",
+      "S42": "S 42: Color-wheel onset: Target left hand, motor interference, same hands",
+      "S43": "S 43: Color-wheel onset: Target left hand, visuomotor interference, different hands",
+      "S44": "S 44: Color-wheel onset: Target left hand, visuomotor interference, same hands",
+      "S45": "S 45: Color-wheel onset: Target left hand, no interference, arrow down",
+      "S46": "S 46: Color-wheel onset: Target left hand, no interference, arrow up",
+      "S47": "S 47: Color-wheel onset: Target right hand, motor interference, different hands",
+      "S48": "S 48: Color-wheel onset: Target right hand, motor interference, same hands",
+      "S49": "S 49: Color-wheel onset: Target right hand, visuomotor interference, different hands",
+      "S50": "S 50: Color-wheel onset: Target right hand, visuomotor interference, same hands",
+      "S51": "S 51: Color-wheel onset: Target right hand, no interference, arrow down",
+      "S52": "S 52: Color-wheel onset: Target right hand, no interference, arrow up",
+      "S60": "S 60: Response interference: No button press",
+      "S61": "S 61: Response interference: Left button press",
+      "S62": "S 62: Response interference: Right button press",
+      "S101": "S101: Response main task: Left button start rotate",
+      "S102": "S102: Response main task: Left button pressed",
+      "S103": "S103: Response main task: Right button start rotate",
+      "S104": "S104: Response main task: Right button pressed"
+    }
+  },
+  "targetonset": {
+    "LongName": "Target onset triggers",
+    "Description": "12 Target onset triggers for 12 different conditions",
+    "Levels": {
+      "S1": "Value 1: Stimulus: Target left hand, motor interference, different hands",
+      "S2": "Value 2: Stimulus: Target left hand, motor interference, same hands",
+      "S3": "Value 3: Stimulus: Target left hand, visuomotor interference, different hands",
+      "S4": "Value 4: Stimulus: Target left hand, visuomotor interference, same hands",
+      "S5": "Value 5: Stimulus: Target left hand, no interference, arrow down",
+      "S6": "Value 6: Stimulus: Target left hand, no interference, arrow up",
+      "S7": "Value 7: Stimulus: Target right hand, motor interference, different hands",
+      "S8": "Value 8: Stimulus: Target right hand, motor interference, same hands",
+      "S9": "Value 9: Stimulus: Target right hand, visuomotor interference, different hands",
+      "S10": "Value 10: Stimulus: Target right hand, visuomotor interference, same hands",
+      "S11": "Value 11: Stimulus: Target right hand, no interference, arrow down",
+      "S12": "Value 12: Stimulus: Target right hand, no interference, arrow up"
+    }
+  },
+  "intonset": {
+    "LongName": "Interference onset triggers",
+    "Description": "12 Interference onset triggers for 12 different conditions",
+    "Levels": {
+      "S21": "Value 21: Interference onset: Target left hand, motor interference, different hands",
+      "S22": "Value 22: Interference onset: Target left hand, motor interference, same hands",
+      "S23": "Value 23: Interference onset: Target left hand, visuomotor interference, different hands",
+      "S24": "Value 24: Interference onset: Target left hand, visuomotor interference, same hands",
+      "S25": "Value 25: Interference onset: Target left hand, no interference, arrow down",
+      "S26": "Value 26: Interference onset: Target left hand, no interference, arrow up",
+      "S27": "Value 27: Interference onset: Target right hand, motor interference, different hands",
+      "S28": "Value 28: Interference onset: Target right hand, motor interference, same hands",
+      "S29": "Value 29: Interference onset: Target right hand, visuomotor interference, different hands",
+      "S30": "Value 30: Interference onset: Target right hand, visuomotor interference, same hands",
+      "S31": "Value 31: Interference onset: Target right hand, no interference, arrow down",
+      "S32": "Value 32: Interference onset: Target right hand, no interference, arrow up"
+    }
+  },
+  "wheelonset": {
+    "LongName": "Color-wheel onset triggers",
+    "Description": "12 Color-wheel onset triggers for 12 different conditions",
+    "Levels": {
+      "S41": "Value 41: Color-wheel onset: Target left hand, motor interference, different hands",
+      "S42": "Value 42: Color-wheel onset: Target left hand, motor interference, same hands",
+      "S43": "Value 43: Color-wheel onset: Target left hand, visuomotor interference, different hands",
+      "S44": "Value 44: Color-wheel onset: Target left hand, visuomotor interference, same hands",
+      "S45": "Value 45: Color-wheel onset: Target left hand, no interference, arrow down",
+      "S46": "Value 46: Color-wheel onset: Target left hand, no interference, arrow up",
+      "S47": "Value 47: Color-wheel onset: Target right hand, motor interference, different hands",
+      "S48": "Value 48: Color-wheel onset: Target right hand, motor interference, same hands",
+      "S49": "Value 49: Color-wheel onset: Target right hand, visuomotor interference, different hands",
+      "S50": "Value 50: Color-wheel onset: Target right hand, visuomotor interference, same hands",
+      "S51": "Value 51: Color-wheel onset: Target right hand, no interference, arrow down",
+      "S52": "Value 52: Color-wheel onset: Target right hand, no interference, arrow up"
+    }
+  },
+  "intresponse": {
+    "LongName": "Interference task response triggers",
+    "Description": "Interference task response triggers ",
+    "Levels": {
+      "S60": "Value 60: Response interference: No button press",
+      "S61": "Value 61: Response interference: Left button press",
+      "S62": "Value 62: Response interference: Right button press"
+    }
+  },
+  "mainresponse": {
+    "LongName": "Main task response triggers",
+    "Description": "Main task response (for color-wheel) triggers ",
+    "Levels": {
+      "S101": "Value 101: Response main task: Left button start rotate",
+      "S102": "Value 102: Response main task: Left button pressed",
+      "S103": "Value 103: Response main task: Right button start rotate",
+      "S104": "Value 104: Response main task: Right button pressed"
+    }
+  }
+}

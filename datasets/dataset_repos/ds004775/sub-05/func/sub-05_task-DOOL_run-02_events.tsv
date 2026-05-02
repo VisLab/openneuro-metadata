@@ -1,0 +1,12 @@
+onset	duration	sub-id	TR	run	trial_name	trial_type	cond_beh	cond_out	description
+0	30	sub-05	0	2	baseline	0	0	0	0
+30	180	sub-05	16	2	4B	4	bad	positive	Sami will go to the concert. 
+210	30	sub-05	106	2	baseline	0	0	0	0
+240	180	sub-05	121	2	1B	1	good	positive	Austin got back Carrie. 
+420	30	sub-05	211	2	baseline	0	0	0	0
+450	180	sub-05	226	2	5B	5	random 	random	Max – Random scenes
+630	30	sub-05	316	2	baseline	0	0	0	0
+660	180	sub-05	331	2	3C	3	good	negative	Jenny’s husband is dead. 
+840	30	sub-05	421	2	baseline	0	0	0	0
+870	180	sub-05	436	2	2C	2	bad	negative	Sami failed to persuade Austin.
+1050	30	sub-05	526	2	baseline	0	0	0	0

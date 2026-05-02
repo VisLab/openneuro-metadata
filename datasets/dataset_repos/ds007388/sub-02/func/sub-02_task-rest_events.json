@@ -1,0 +1,14 @@
+{
+    "onset": {
+        "Description": "The start of the resting scan. Should be at 0sec/1TR."
+    },
+    "duration": {
+        "Description": "The duration of the entire resting scan in seconds."
+    },
+    "sub_id": {
+        "Description": "participant_id"
+    },
+    "trail_type": {
+        "Description": "This was a resting state scan where the participant just saw a fixation cross."
+    }
+}

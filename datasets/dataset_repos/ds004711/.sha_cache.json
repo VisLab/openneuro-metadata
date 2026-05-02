@@ -1,0 +1,14 @@
+{
+  "README": "8f6fb8b522aea46803491add70ecc31aa729fa03",
+  "dataset_description.json": "53368d55dc26f438c9e3f8176b41395591bf34b9",
+  "task-bart_bold.json": "3464a7a709ae70f53aead69d3740d2246fe8e555",
+  "participants.tsv": "54a641509f92e5063e97b58fef315e710fe85919",
+  "CHANGES": "d0cfd888c340ecdf834b3ee4a24123ede9d9d8b2",
+  "task-delaydiscounting_bold.json": "d20d689fa05339a1025de36e7dae21b29490ec19",
+  "participants.json": "33ddecb65c692d76b0cab6bcfc82cb419b862e3c",
+  "sub-001/func/sub-001_task-bart_events.json": "1a8b47c9c73d508f1327658f625f795485a075cd",
+  "sub-001/func/sub-001_task-delaydiscounting_events.tsv": "592559863ade50e8e19fd37c2593c72d4c55b92a",
+  "sub-001/func/sub-001_task-delaydiscounting_events.json": "059074cfb6218f7f6b2092ec6f24528e1070c555",
+  "sub-001/func/sub-001_task-bart_run-01_events.tsv": "89a5e05a1e4faef1fdeffa6ee4c3fc50b5458916",
+  "sub-001/func/sub-001_task-bart_run-02_events.tsv": "73e75d1b69cc6a3f84bccc1734a9e9662398c5e7"
+}

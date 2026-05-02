@@ -1,0 +1,53 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "second"
+  },
+  "response_time": {
+    "Description": "Response time column not used for this data"
+  },
+  "sample": {
+    "Description": "Event sample starting at 0 (Matlab convention starting at 1)"
+  },
+  "value": {
+    "Description": "Value of event (numerical)",
+    "Levels": {
+      "171": "Cue during standing previously associated with right heel strike",
+      "271": "Cue during standing previously associated with left heel strike",
+      "100": "Right heel strikes during uncued walking",
+      "200": "Left heel strikes during uncued walking",
+      "114": "First right cued step during preferred cadence walking",
+      "444": "First auditory cue during preferred cadence walking",
+      "151": "Auditory cues for right step during preferred cadence walking",
+      "251": "Auditory cues for left step during preferred cadence walking",
+      "101": "Right cued heel strikes during preferred cadence walking",
+      "201": "Left cued heel strikes during preferred cadence walking",
+      "113": "First right heel strike relative to step advance tempo shift",
+      "333": "First auditory cue marking step advance tempo shift",
+      "153": "Auditory cues for right heel strikes during step advance pacing tempo",
+      "253": "Auditory cues for left heel strikes during step advance pacing tempo",
+      "103": "Right cued heel strikes during step advance pacing tempo",
+      "203": "Left cued heel strikes during step advance pacing tempo",
+      "119": "First right heel strike relative to step delay tempo shift",
+      "999": "First auditory cue marking step delay tempo shift",
+      "159": "Auditory cues for right heel strikes during step delay pacing tempo",
+      "259": "Auditory cues for left heel strikes during step delay pacing tempo",
+      "109": "Right cued heel strikes during step delay pacing tempo",
+      "209": "Left cued heel strikes during step delay pacing tempo"
+    }
+  },
+  "trial_type": {
+    "Description": "Upper hierarchy for events in the experiment",
+    "Levels": {
+      "CuedStanding": "Period of 4 min standing while listening to cues at the pace of the participants preferred walking cadence",
+      "UncuedWalking": "Period of uncued walking at the beginning of each trial",
+      "PreferredCadence": "Period of walking with auditory cue sequence - auditory cues arriveat the tempo of the participants preferred cadence",
+      "AdvanceTempo": "Unexpected shift in the cue sequence to a faster pacing tempo.Participants are required to synchronize with the new cue tempo",
+      "DelayTempo": "Unexpected shift in the cue sequence to a slower pacing tempo.Participants are required to synchronize with the new cue tempo"
+    }
+  }
+}

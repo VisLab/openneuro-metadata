@@ -1,0 +1,12 @@
+1.0.0 2025-11-04
+  - - Initial release of the dataset.
+  - - Includes wireless subdural ECoG (iEEG) recordings from two Macaca fuscata monkeys.
+  - - Long-term recordings extending up to approximately 500 days after implantation for each monkey.
+Longitudinal Multitask Wireless ECoG Data from Two Fully Implanted Macaca fuscata — CHANGES
+
+2025-11-03: Initial export of the wireless subdural ECoG (iEEG) dataset from Macaca mulatta monkeys.
+Data curated and exported into BIDS format (iEEG-BIDS specification).
+Included: dataset_description.json, participants.tsv, participants.json, README, CHANGES.
+Provided subject/session-level iEEG data in EDF with metadata (.json), channels (.tsv), events (.tsv), electrodes.tsv, electrodes.json, coordsystem.json, and scans index (.tsv).
+Event files included only for curated and validated runs.
+Created /stimuli/ directory.

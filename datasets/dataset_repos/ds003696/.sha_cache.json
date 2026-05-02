@@ -1,0 +1,21 @@
+{
+  "participants.tsv": "e493ca0a14b5958f888e7508f15079d5e4f0f975",
+  "task-affordance_bold.json": "2fa0e486a6e4324ae07025ac06935b1e99f215d6",
+  "lab_log.tsv": "66ae92e8bc757753fd08883895d1b995fdb260b4",
+  "README": "39933178b20406f48608fd8f76545beeb4aa012a",
+  "task-localizer_bold.json": "2fa0e486a6e4324ae07025ac06935b1e99f215d6",
+  "dataset_description.json": "be3f6f67c8099daad5085c1ce9a3d25cea7c9823",
+  "participants.json": "659be683968ef2ddb2e9d8ed8ad4cfbcd17b6b31",
+  "CHANGES": "c72a2fb73a875957d9365390ac8a9fd2eca567b7",
+  "sub-101/ses-02/func/sub-101_ses-02_task-affordance_run-6_events.tsv": "7f45a1fe532ebeb00f60d88b3eacadf2be3408d2",
+  "sub-101/ses-01/func/sub-101_ses-01_task-affordance_run-1_events.tsv": "10ba135fbbc078148c5b9b1b980338af14d9f2ec",
+  "sub-101/ses-01/func/sub-101_ses-01_task-localizer_run-1_events.tsv": "23e66d05888f1eb37f59c86b4427fe7c2da8d164",
+  "sub-101/ses-02/func/sub-101_ses-02_task-affordance_run-5_events.tsv": "dc03c1da225a344cb23c30792b9169341b98b50c",
+  "sub-101/ses-01/func/sub-101_ses-01_task-localizer_run-3_events.tsv": "c99a83d8a80d561411b7bf8fa34e6d90a732e41f",
+  "sub-101/ses-01/func/sub-101_ses-01_task-affordance_run-3_events.tsv": "2af7e4fc2bf87a3a7b9e24d5f7846342c95e78a4",
+  "sub-101/ses-01/func/sub-101_ses-01_task-localizer_run-2_events.tsv": "51da9e0dba98a6363bcfd8fa1fc46b41a4d3d057",
+  "sub-101/ses-01/func/sub-101_ses-01_task-affordance_run-2_events.tsv": "364563e5f6fea1ae410a0edaf923d98f6cccdbc3",
+  "sub-101/ses-02/func/sub-101_ses-02_task-affordance_run-7_events.tsv": "da334289ab54550c77213f2d258ddfd44c32822c",
+  "sub-101/ses-01/func/sub-101_ses-01_task-affordance_run-4_events.tsv": "6165f3c75e8c500c3455a70bdc67ce45c4b94e4a",
+  "sub-101/ses-02/func/sub-101_ses-02_task-affordance_run-8_events.tsv": "485526422cfd30056849810d873e6f0a746f8531"
+}

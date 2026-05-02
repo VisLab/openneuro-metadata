@@ -1,0 +1,24 @@
+{
+    "Acknowledgements": "",
+    "Authors": [
+        "Pablo Oyarzo",
+        "Johannes J.D. Singer",
+        "Kohitij Kar",
+        "Diego Vidaurre",
+        "Radoslaw M. Cichy"
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006805.v1.0.0",
+    "Funding": [
+        "ANID 2019-72200281",
+        "CI 241/1-1, CI 241/1-3, CI 241/1-7 and INST 272/297-1",
+        "ERC-StG-2018-803370",
+        "ERC-CoG-2024101123101",
+        "NNF19OC-0054895",
+        "ERC-StG-2019–850404"
+    ],
+    "HowToAcknowledge": "Please cite the paper when using the dataset: https://www.biorxiv.org/content/10.1101/2025.10.17.682937v2.abstract",
+    "License": "CC0",
+    "Name": "Adaptive recruitment of cortex-wide recurrence for visual object recognition (fMRI)",
+    "ReferencesAndLinks": []
+}

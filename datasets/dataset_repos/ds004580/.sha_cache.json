@@ -1,0 +1,9 @@
+{
+  "participants.json": "a91d99dc1dffc71f886a3062770e032fab27eb5e",
+  "dataset_description.json": "bfb568c30d99bd188882e1e4c072c13ae11c7b0c",
+  "task-Simon_events.json": "252ae7709d68c88e444f988736600a9cc2aa9e01",
+  "CHANGES": "7bf248631d8c6d608affcef8d213f0d4e1543e2e",
+  "participants.tsv": "f381b39662ee5fcec87cc57c99b4f8237a2cbebb",
+  "README": "748201283c39cc388771d3c8ec6fc88fbf8f0d73",
+  "sub-001/eeg/sub-001_task-Simon_events.tsv": "16aec0b6a794f52b14060879239ee59d802332f0"
+}

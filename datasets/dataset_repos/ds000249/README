@@ -1,0 +1,37 @@
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure de-identification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+Quality Control
+---------------
+MRIQC was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/stable/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000249/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000249.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.
+
+BIDS validator output:
+---------------------
+1: Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)
+       		./sub-02/func/sub-02_task-genInstrAv_run-01_bold.nii.gz
+       		./sub-22/anat/sub-22_T1w.nii.gz
+
+        Summary:                 Available Tasks:        Available Modalities:
+        577 Files, 3.45GB        genInstrAv              T1w
+        26 - Subjects                                    bold
+        1 - Session                                      fieldmap
+Known Issues:
+------------
+

@@ -1,0 +1,6 @@
+{
+  "onset" : {"Description" : "onset time of trials"},
+  "duration" : {"Description" : "duration of trials"},
+  "acc" : {"Description" : "accuracy of trials"},
+  "condition" : {"Description" : "condition lable of trials"}
+}

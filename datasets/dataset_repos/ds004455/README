@@ -1,0 +1,5 @@
+This BIDS data set contains the images described in the paper:
+
+Feher da Silva, C., Lombardi, G., Edelson, M. et al. Rethinking model-based and model-free influences on mental effort and striatal prediction errors. *Nat Hum Behav* (2023). https://doi.org/10.1038/s41562-023-01573-1
+
+The associated behavioural and eye-tracking data are available at https://github.com/carolfs/fmri_magic_carpet

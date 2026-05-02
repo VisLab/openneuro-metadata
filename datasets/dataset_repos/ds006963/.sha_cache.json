@@ -1,0 +1,8 @@
+{
+  "CHANGES": "fc8d6150135a2412c4f88edb81693a678a2ee17d",
+  "participants.tsv": "d8e65e6262a4eebc1a8dad09764fb03113caf5fa",
+  "README": "c8618935963591aba1ebfce1e5d81d50955811fa",
+  "dataset_description.json": "74405498e567502942d850fe589a546d1d6779ef",
+  "task-VisuomotorDelayedMatchToSampleWithInterference_events.json": "eb7c6460d7f3a96a221bb7091e5e68a0c2839ecb",
+  "sub-001/eeg/sub-001_task-VisuomotorDelayedMatchToSampleWithInterference_events.tsv": "8c45482a6b63eeae71420739956990d72adf12e9"
+}

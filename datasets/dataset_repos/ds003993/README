@@ -1,0 +1,59 @@
+# Inter-individual deep image reconstruction  
+
+## Original paper  
+
+- Ho, J. K., Horikawa, T., Majima, K., Cheng, F., & Kamitani, Y. (2023). Inter-individual deep image reconstruction via hierarchical neural code conversion. NeuroImage, 271, 120007. https://doi.org/10.1016/j.neuroimage.2023.120007
+
+- Ho, Horikawa, Majima, and Kamitani (2022) Inter-individual deep image reconstruction, bioRxiv. https://www.biorxiv.org/content/10.1101/2021.12.31.474501v1  
+
+## Dataset  
+
+### MRI data   
+
+This dataset contains fMRI data from two subjects ('sub-04', 'sub-05'). Each subject data contains two types of MRI data collected over multiple scanning sessions.  
+
+-  'ses-perceptionNaturalImageTest': fMRI data from the test natural image sessions in the image presentation experiment (24 runs; 3 sessions)  
+-  'ses-perceptionArtificialImage': fMRI data from the geometric shape sessions in the image presentation experiment (20 runs; 2-3 sessions)  
+
+Each scanning session consisted of functional (EPI) and anatomical (inplane T2) images. The functional EPI images covered the entire brain (TR, 2000 ms; TE, 43 ms; flip angle, 80°; voxel size, 2 × 2 × 2 mm; FOV, 192 × 192 mm; number of slices, 76; slice gap, 0 mm; multiband factor, 4) and inplane T2-weighted anatomical images were acquired with the same slices used for the EPI (TR, 11,000 ms; TE, 59 ms; flip angle, 160°; voxel size, 0.75 × 0.75 × 2.0 mm; FOV, 192 × 192 mm). All DICOM files are converted to Nifti-1 files by mri_convert in FreeSurfer.
+
+The T1-weighted anatomical reference images and the training data used in the paper for 'sub-04' and 'sub-05' are available from the [Attentionally modulated subjective images reconstructed from brain activity](https://openneuro.org/datasets/ds003430/versions/1.2.0) dataset.
+The dataset for 'sub-01', 'sub-02', and 'sub-03' are available from the [Deep Image Reconstruction](https://openneuro.org/datasets/ds001506/versions/1.3.1) dataset.
+
+
+### Task event files
+
+Task event files ('sub-\*_ses-\*_task-\*_run-\*_events.tsv') contains recorded event during fMRI runs.
+In task event files for single-image presentation experiments ('task-perception'), each column represents:
+
+- 'onset': onset time of an event (sec)
+- 'duration': duration of the event (sec)
+- 'trial_type': type of the event (1: Stimulus presentation block, 2: Repetition block, -1 and -2: Initial and post rest blocks without visual stimulus)
+- 'stimulus_name': stimulus file name of the image presented in a stimulus block ('n/a' in rest blocks)
+- 'response_time': time of button press in the block, elapsed time from the beginning of each run (sec, 'n/a' when the subject did not press the button in the block)
+- Additional column 'image_index' is for internal use.
+
+
+#### Image/category labels
+
+In the natural image presentation experiments, the stimulus images are named as 'n03626115_19498', where 'n03626115' is ImageNet/WorNet ID for a synset (category) and '19498' is image ID. In the artificial image presentation experiment, the stimuli consisted of a total of 40 combinations of 5 shapes (filled square, small opened square, large opened square, +, and X) and 8 colors (red, green, blue, cyan, magenta, yellow, white, and black). The stimuli were named as 'colorExpStim\<ID\>\_\<color\>\_\<shape\>' (e.g, 'colorExpStim01_red_square'). 
+
+The mapping between stimulus names and IDs (the first and second column from the left in each file is 'stimulus_name' and 'stimulus_id', respectively):
+
+- [stimulus_NaturalImageTest.tsv](https://ndownloader.figshare.com/files/14876738)
+- [stimulus_ArtificialImage.tsv](https://ndownloader.figshare.com/files/14876798)
+
+
+### Stimulus images
+
+Due to license issues, our dataset do not include the stimulus images used in the natural image presentation experiments. A script downloading the stimulus images from ImageNet are available at <https://github.com/KamitaniLab/GenericObjectDecoding>.
+
+The stimulus images used in the geometric shape experiment are available at [figshare](https://doi.org/10.6084/m9.figshare.7033577).
+
+- [Artificial images](https://ndownloader.figshare.com/files/14876801) (ses-perceptionArtificialImage)
+
+
+## Contact
+
+- Email: <brainliner-admin@atr.jp>
+- We also accept inqueries at [issues on GitHub/KamitaniLab/OpenData](https://github.com/KamitaniLab/OpenData/issues).

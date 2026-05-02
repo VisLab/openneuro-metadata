@@ -1,0 +1,20 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "second"
+  },
+  "trial_type": {
+    "Description": "Type of event (different from EEGLAB convention)",
+    "Levels": {
+      "S100": "Reference marker",
+      "S32": "When it appears before S100, it represents L1. L1 refers to  the first intensity level used to evoke the Laser-Evoked Potential(LEP)",
+      "S33": " When it appears before S100, it represents L2. L2 refers to  the second intensity level used to evoke the Laser-Evoked Potential(LEP).",
+      "S34": " When it appears before S100, it represents L3. L3 refers to  the third intensity level used to evoke the Laser-Evoked Potential(LEP). ",
+      "S35": " When it appears before S100, it represents L4.L4 refers to  the fourth intensity level used to evoke the Laser-Evoked Potential(LEP) "
+    }
+  }
+}

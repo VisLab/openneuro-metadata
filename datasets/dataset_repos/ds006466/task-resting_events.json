@@ -1,0 +1,17 @@
+{
+    "onset": {
+      "Description": "Onset (in seconds) of each trial_type event"
+    },
+    "duration": {
+      "Description": "Duration of the event (measured from onset) in seconds"
+    },
+    "trial_type": {
+        "100": "Resting w/ eyes opened run begins",
+        "101": "Resting w/ eyes opened run ends",
+        "102": "Resting w/ eyes closed run begins",
+        "103": "Resting w/ eyes closed run ends"
+    },
+    "eye_onset": {
+      "Description": "Timestamp in eyetracking data that matches each trial_type event in EEG data (arbitrary units output by the eye tracker in milliseconds)."
+    }
+  }

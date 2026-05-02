@@ -1,0 +1,24 @@
+{
+    "Name": "Sexing the parental brain in shopping: an fMRI study",
+    "BIDSVersion": "1.10.1",
+    "License": "CC0",
+    "Authors": [
+        "Chun-Chia Kung",
+        "Cheng-Hsiang Tsai",
+        "Ding-Ruey Yeh",
+        "Tsai-Ching Yang",
+        "Hanshin Jo",
+        "Jen-Jui Hsueh",
+        "Fz-Zen Shaw"
+    ],
+    "HowToAcknowledge": "",
+    "Funding": [
+        " Taiwan National Council of Science and Technology (NCST-102-2420-H-006-008 to CCK and NCST-114-2410-H-006-116 to FZS)",
+        "Humanistic-Social Benchmarking Project from the Ministry of Education."
+    ],
+    "ReferencesAndLinks": [
+        "http://dx.doi.org/10.2139/ssrn.5599439"
+    ],
+    "Acknowledgements": "The authors would like to thank the support from the Taiwan National Council of Science and Technology (NCST-102-2420-H-006-008 to CCK and NCST-114-2410-H-006-116 to FZS), and the Humanistic-Social Benchmarking Project from the Ministry of Education. Special thanks go to the operator support in the Department of Radiology at CMUH and KMU(sub022~sub045).",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006844.v1.0.0"
+}

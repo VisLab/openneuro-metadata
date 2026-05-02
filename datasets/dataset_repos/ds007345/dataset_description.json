@@ -1,0 +1,22 @@
+{
+    "BIDSVersion": "1.8.0",
+    "Name": "Multimodal Brain MRI and Clinical Data in Olfactory Groove Meningioma: A Prospective Data Report",
+    "Authors": [
+        "Elena Filimonova",
+        "Anton Pashkov",
+        "Galina Moysak",
+        "Azniv Martirosyan",
+        "Vladimir Kurilov",
+        "Aleksandra Poptsova",
+        "Renata Morozova",
+        "Jamil Rzaev"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007345.v1.0.0",
+    "License": "CC0",
+    "EthicsApprovals": [
+        "Ethics approval for the research protocol was given by the local ethics committee of the Federal Center of Neurosurgery, dated 03-14-2023 (protocol # 5)"
+    ],
+    "Funding": [
+        "This study was supported by the Russian Science Foundation (RSF grant 25-25-00370). "
+    ]
+}

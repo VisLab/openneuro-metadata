@@ -1,0 +1,23 @@
+{
+    "Name": "Ultra-low-field brain MRI: test-retest reliability and correspondence to high-field MRI",
+    "BIDSVersion": "1.2.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "František Váša",
+        "Carly Bennallick",
+        "Niall J. Bourke",
+        "Francesco Padormo",
+        "Paul Cawley",
+        "Tomoki Arichi",
+        "Tobias C. Wood",
+        "Robert Leech",
+        "Steven C. R. Williams"
+    ],
+    "HowToAcknowledge": "Please cite: Váša et al. Imaging Neuroscience 2025, https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.930",
+    "Funding": [
+        "National Institute for Health and Care Research (NIHR)",
+        "Bill & Melinda Gates Foundation"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006557.v1.0.2"
+}

@@ -1,0 +1,9 @@
+{
+  "CHANGES": "80a24319e448a2b97e62f2b4dcb3d31e055c8723",
+  "README": "6c5630c6cea15e262d2dccd6818631f5e41fd14e",
+  "dataset_description.json": "c42ee1ba71573f2b98dcd06c3c4576363e89072b",
+  "participants.json": "d46b09a66fcf866ac6b0572916aa8de084cb7e1f",
+  "participants.tsv": "b4f500c8ef85c91192fd5af50366940b639d666e",
+  "task-PerceiveImagine_events.json": "164f7f82cdc6f196e5f5fbb586781f8cd977368a",
+  "sub-s1/eeg/sub-s1_task-PerceiveImagine_events.tsv": "2431d15a17cc27f9d6d813e614ca8ec962bf9879"
+}

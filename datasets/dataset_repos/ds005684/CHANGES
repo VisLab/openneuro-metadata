@@ -1,0 +1,4 @@
+1.0.1 2026-04-14
+  - Replace T1w images for all 35 subjects due to corrupted files; Add missing column descriptions in events.json files; Fix column descriptions in participants.json
+1.0.0 2024-12-03
+  - Initial Upload

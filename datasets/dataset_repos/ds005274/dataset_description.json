@@ -1,0 +1,9 @@
+{
+    "Name": "UV_EEG",
+    "BIDSVersion": "1.6.0",
+    "Authors": [
+        "Yukako Ito"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005274.v1.0.0",
+    "License": "CC0"
+}

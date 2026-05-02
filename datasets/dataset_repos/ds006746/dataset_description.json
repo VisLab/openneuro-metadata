@@ -1,0 +1,26 @@
+{
+    "Name": "Raw MRI data from 'Reconfiguration of brain-wide neural activity after early life adversity'",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Taylor W. Uselman",
+        "Russell E. Jacobs",
+        "Elaine L. Bearer"
+    ],
+    "Acknowledgements": "The authors acknowledge the scientific and technical assistance provided by students, staff, and faculty at the Biological Imaging Center and Beckman Institute at California Institute of Technology, and the University of New Mexico",
+    "HowToAcknowledge": "Please cite our papers Uselman, Barto et al. 2020 [URL](https://pubmed.ncbi.nlm.nih.gov/32474079/) and Uselman et al. 2025 [URL](https://pubmed.ncbi.nlm.nih.gov/38328213/)",
+    "Funding": [
+        "NIH NIH R01MH096093",
+        "Beckman Institute at Caltech",
+        "Harvey Family Endowment at UNM"
+    ],
+    "EthicsApprovals": [
+        "All animal experimental protocols were approved by Institutional Animal Care and Use Committees at both California Institute of Technology (Caltech) and University of New Mexico."
+    ],
+    "ReferencesAndLinks": [
+        "https://pubmed.ncbi.nlm.nih.gov/38328213/",
+        "https://pubmed.ncbi.nlm.nih.gov/32474079/"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006746.v1.0.0"
+}

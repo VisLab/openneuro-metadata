@@ -1,0 +1,13 @@
+{
+  "task-rest_bold.json": "7b99f02ac317a87dd0ad6d84c680278e207d6639",
+  "CHANGES": "a6d19748926603577a450a528a426c7e02255656",
+  "dataset_description.json": "ebb0e63d0915dbbbb118de89296f287ccea06c20",
+  "README": "7b5f266429550bb69da4f10e2c99094992cb7ea5",
+  "task-washout_bold.json": "a81a31bc4c2913cbbb2629a4c041f6cd155da09e",
+  "participants.tsv": "5abc5a5f78dac213338fdd7701d76c6b273f7fdc",
+  "task-rotation_bold.json": "f8ea461c495bcc83058b74d4f2e58964b553d882",
+  "sub-01/ses-01/func/sub-01_ses-01_task-washout_events.tsv": "1663a75469f0f2302fee9acc15292fa690add236",
+  "sub-01/ses-02/func/sub-01_ses-02_task-washout_events.tsv": "0625683a2df0ac68e986fef42ef5fb714337919a",
+  "sub-01/ses-01/func/sub-01_ses-01_task-rotation_events.tsv": "e673fbd275ff412d3ee82082916f4a79d78e9ae8",
+  "sub-01/ses-02/func/sub-01_ses-02_task-rotation_events.tsv": "82fecac0b184984d8ea5cb2d581469c8fda0c383"
+}

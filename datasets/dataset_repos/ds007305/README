@@ -1,0 +1,57 @@
+# The Neural Computation and Comparison of Value in Simple Choice
+
+## Overview
+This dataset contains fMRI and behavioral data from a study examining how visual attention
+modulates decision-related signals in the brain during value-based choices.
+
+## Experimental Design
+Participants chose between pairs of food lotteries while undergoing fMRI scanning with
+simultaneous eye-tracking. Participants sampled random draws from both lotteries every
+4-8 seconds until they were ready to make a choice.
+
+## Data Acquisition
+- Scanner: Siemens Magnetom Prisma 3T
+- Head coil: 32-channel
+- Functional: T2*-weighted gradient-echo, 48 slices, 3mm isotropic, TR=2.6s, TE=28ms
+- Anatomical: MPRAGE T1-weighted
+- Eye-tracking: EyeLink 1000 Plus at 500 Hz
+- 3 functional runs per subject (~15 minutes each)
+
+## Preprocessing Note
+The functional and anatomical images in this dataset have undergone minimal preprocessing:
+- Slice timing correction (reference: bottom slice)
+- Motion correction (realignment to mean EPI)
+- B0 unwarping (susceptibility distortion correction)
+- Spatial normalization to MNI152 space (SPM12)
+- Smoothing with 8mm FWHM Gaussian kernel
+
+Raw unprocessed data were not available at the time of BIDS conversion.
+
+## Participants
+- N = 23 right-handed participants
+- Age range: Adults
+- All had normal or corrected-to-normal vision
+- No history of neurological disorders
+
+## Ethics
+This study was approved by The Ohio State University Biomedical Sciences IRB.
+
+## Contact
+Dr. Ian Krajbich
+University of California Los Angeles
+krajbich@ucla.edu
+
+## References
+Shevlin, B., Gwinn, R., Makwana, A., & Krajbich, I. (2026). Overt visual attention
+modulates decision-related signals in ventral and dorsal medial prefrontal cortex.
+
+Data and code: https://osf.io/eyxvb/
+
+## Notes
+- Timing Parameters for Preprocessed Data: This dataset uses VolumeTiming instead of RepetitionTime in the functional JSON files. This is because the preprocessed NIfTI files have TR=0 in their headers due to:
+- Slice timing correction
+- Motion correction
+- B0 unwarping
+- Spatial normalization to MNI152
+- Smoothing (8mm FWHM)
+- The actual acquisition used TR = 2.6 seconds. VolumeTiming specifies the acquisition\ntime of each volume (0, 2.6, 5.2, 7.8, ... seconds). This approach complies with BIDS specification for cases where RepetitionTime is unavailable or unreliable due to preprocessing

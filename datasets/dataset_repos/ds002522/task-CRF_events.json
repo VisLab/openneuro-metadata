@@ -1,0 +1,5 @@
+{
+    "onset": "onset of a stimuli block",
+    "duration": "Duration of the block",
+    "trial_type": "Type of stimuli block: drifting gratings of low contrat (3%) or high contrast (98%)"
+}

@@ -1,0 +1,9 @@
+{
+  "participants.tsv": "c4fbfeadd85f18c8a61f6112693c584d3104310e",
+  "task-faceobj_events.json": "3a2187fe9e690d2db835a7faa68e6f2cfb5cfa8e",
+  "dataset_description.json": "9b9bd97873c3e43cd706e4a3c2bf404e4b79c8e9",
+  "task-faceobj_eeg.json": "59b8a0af5685b96d1c3799c266fb8410b785d363",
+  "README": "e9ab76e5f73f5b9ab06128e850fbd08d4e74949c",
+  "CHANGES": "bdb689ebdf651d811c63b752d2912230015797bc",
+  "sub-01/eeg/sub-01_task-faceobj_events.tsv": "35b7254942f2ea17c3245ba27ad369a1fe65a131"
+}

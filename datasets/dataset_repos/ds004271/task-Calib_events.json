@@ -1,0 +1,32 @@
+{
+    "fix_direction": {
+        "Description": "Direction of the gaze",
+        "Levels": {
+            "1": "center",
+            "2": "left",
+            "3": "left-up",
+            "4": "up",
+            "5": "right-up",
+            "6": "right",
+            "7": "right-down",
+            "8": "down",
+            "9": "left-down"
+        },
+        "LongName": "Direction of fixation"
+    },
+    "run_number": {
+        "Description": "Indicated the number of the run",
+        "LongName": "Number of the run"
+    },
+    "task_condition": {
+        "Description": "Indicated the type of task of the run",
+        "Levels": {
+            "1": "calibration 9 points fixation most extreme (center, left, left-up, up, right-up, right, right-down, down, left-down)"
+        },
+        "LongName": "Type of task"
+    },
+    "trial_number": {
+        "Description": "Indicated the number of the trial",
+        "LongName": "Number of the trial"
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"onset": {
+        "Descripton": "Trial Onsets (ms)"
+        },
+    "duration": {
+        "Descripton": "Tial Durations (ms)"
+        },
+    "offset": {
+        "Descripton": "Trial Offsets (ms)"
+        },
+	"trial_type": {
+        "Descripton": "Object Identity & Grasp Type (Whisk Tool/Non-tool) are foils"
+        }
+
+}

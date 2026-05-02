@@ -1,0 +1,16 @@
+{
+	"TaskName": "localizer",
+	"Manufacturer": "Siemens",
+	"ManufacturerModelName": "Allegra",
+	"MagneticFieldStrength": 3,
+	"RepetitionTime": 1.5,
+	"EchoTime": 0.023,
+	"FlipAngle": 77,
+	"PhaseEncodingDirection": "j",
+	"SliceEncodingDirection": "k",
+	"SliceTiming": [0.8077, 0.0577, 0.8653, 0.1154, 0.9230, 0.1731, 0.9807, 0.2308, 1.0384, 0.2884, 1.0961, 0.3461, 1.1538, 0.4038, 1.2115, 0.4615, 1.2692, 0.5192, 1.3269, 0.5769, 1.3846, 0.6346, 1.4423, 0.6923, 1.4999, 0.7500],
+	"EffectiveEchoSpacing": 0.00040,
+	"Instructions": "Participants were instructed to fixate on a red dot in the center of a screen and press a button everytime a scrambled picture appeared on screen.",
+	"TaskDescription": "The localizer scan contained 36 alternating blocks of three image types (12 blocks per category): faces, scenes (hallways or houses), and objects (cars or guitars). Each block lasted a total of 6 s and contained 12 greyscale images presented for 500 ms each. Subjects pressed a button whenever they detected a scrambled image, which occurred on half of all blocks (counterbalanced across category). An additional 12 baseline ‘blocks’ showing a blank grey screen (also 6 s each) were randomly interspersed with the other blocks.",
+	"CogAtlasID": "http://www.cognitiveatlas.org/task/id/trm_553e85265f51e"
+}

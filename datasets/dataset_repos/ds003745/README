@@ -1,0 +1,11 @@
+# Summary 
+This dataset is a pilot study supported by the Scientific Research Network on Decision Neuroscience and Aging. The full dataset is described in a submission to Scientific Data. 
+
+# Abstract
+Behavioural and neuroimaging research has shown that older adults are less sensitive to financial losses compared to younger adults. Yet relatively less is known about age-related differences in social decisions and social reward processing. As part of a pilot study that was sponsored by the Scientific Research Network on Decision Neuroscience and Aging, we collected behavioural and functional magnetic resonance imaging (fMRI) data from 50 participants (Younger: N = 26, ages 18–34 years; Older: N = 24, ages 63–80 years) who completed three tasks in the scanner: an economic trust game as the investor with three partners (computer, stranger, friend) as the investee; a card-guessing task with monetary gains and losses are shared with three partners (computer, stranger, friend); and an ultimatum game as responder to three anonymous proposers (computer, age-similar adults, age-dissimilar adults). In addition to collecting fMRI data on each of these three tasks, we also collected B0 field maps and high-resolution structural images (T1-weighted and T2-weighted images). These data could be reused to answer questions about moment-to-moment variability in fMRI signal, representational similarity between tasks, and brain structure. 
+
+# Additional Usage Notes
+* sub-2xx participants do not have imaging data because these individuals were the friends of the respective sub-1xx participants. For example, sub-204 was the participant outside the scanner playing the role of the investee while sub-104 was the participant inside the scanner playing the role of the investor
+* The derivatives folder contains subfolders for fmriprep and mriqc outputs. The derivatives folder also contains single-trial estimates and tnsr images. 
+* All code related to this dataset can be found on GitHub (https://github.com/DVS-Lab/srndna-datapaper). This includes sourcedata for the scanner tasks and also stimulus presentation scripts.
+* For convenience, the `code` and `stimuli` subfolders of the GitHub repository have been copied to this dataset. 

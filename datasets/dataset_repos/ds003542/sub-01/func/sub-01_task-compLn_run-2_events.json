@@ -1,0 +1,26 @@
+{
+    "onset": {
+        "Description": "Onset of the event measured from the beginning of the acquisition of the first volume in the corresponding task imaging data file",
+        "Units": "seconds"
+    },
+	"duration": {
+        "Description": "Duration of the event measured from onset",
+        "Units": "seconds"
+    },
+	"trial_type": {
+        "Description": "Indicator of type of stimuli that was presented",
+        "Levels": {
+            "1": "printed word stimuli",
+            "2": "spoken word stimuli",
+			"3": "rest fixation",
+			"4": "irrelvant condition (modeled and discarded)"
+        }
+    },
+	"correct": {
+        "Description": "Indicator of participant response accuracy",
+        "Levels": {
+            "1": "Correct response",
+            "0": "Wrong response, no response, or no response expected (modeled and discarded)"
+        }
+    }
+}

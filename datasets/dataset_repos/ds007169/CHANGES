@@ -1,0 +1,8 @@
+1.0.5 2026-01-28
+  - New Title
+1.0.4 2026-01-28
+  - Ensured correct bdf version which matches newest conversion pipeline from xdf
+1.0.3 2026-01-12
+  - Corect eye track and ecg .gz issues and added corretly to bidsignore for now whilst maintaining bids formatting
+1.0.2 2026-01-08
+  - side car corrections made, references added to readme

@@ -1,0 +1,36 @@
+{
+    "Name": "[11C]PS13 PET shows that age is positively correlated with constitutively expressed cyclooxygenase-1 in the brain",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Paul Parcon",
+        "Anthony Galassi",
+        "Mia Scrabis",
+        "Martin Noergaard",
+        "Robert Innis",
+        "Paolo Zanotti-Fregonara",
+        "Jeih-San Liow",
+        "Min-Jeong Kim"
+    ],
+    "Acknowledgements": "This research was supported in part by the Intramural Research Program of the National Institutes of Health (NIH; ZIAMH002795 and ZIAMH002793, conducted under clinical trials NCT03324646; NCT04396873). The contributions of the NIH authors are considered Works of the United States Government. The findings and conclusions presented in this paper are those of the author(s) and do not necessarily reflect the views of the NIH or the US Department of Health and Human Services. This work was also supported by a 2021 Mitzi & William Blahd, MD, Pilot Research Grant from the SNMMI and Education and Research Foundation for Nuclear Medicine and Molecular Imaging to Min-Jeong Kim, and by grants from the Alzheimer’s Association (AARGD-22-970021 and 24IR-AND-1165820) to Min-Jeong Kim. \nThe authors thank the NIH PET Department and Stony Brook Medicine PET Research Core for performing the PET scanning, Andrew H. Chung (Cornell University) for statistical advice, Ioline Henter (NIMH) for invaluable editorial assistance, Sami Zoghbi (NIMH) for radiometabolite analysis, Sanjay Telu (NIMH) and Jinsoo Hong (NIMH) for radiotracer production, and Victor Pike (NIMH) for advice and guidance in radiochemistry.",
+    "HowToAcknowledge": "",
+    "Funding": [],
+    "EthicsApprovals": [],
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005483.v2.0.1",
+    "SourceDatasets": [],
+    "GeneratedBy": [
+        {
+            "Name": "ezBIDS",
+            "Version": "1.0.0",
+            "Description": "ezBIDS is a web-based tool for converting neuroimaging datasets to BIDS, requiring neither coding nor knowledge of the BIDS specification",
+            "CodeURL": "https://brainlife.io/ezbids/",
+            "Container": {
+                "Type": "docker",
+                "Tag": "brainlife/ezbids-handler"
+            }
+        }
+    ],
+    "HEDVersion": []
+}

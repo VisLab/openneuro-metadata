@@ -1,0 +1,6 @@
+{
+
+    "TaskName": "sim",
+    "TaskDescription": "Simultaneous feature discrimination. Subjects performed a speeded reaction time task. The target was predicted by preceeding stimuli (AB+, B-, AC-, C+), where + corresponds to a 70% probability of seeing the target, and - corresponds to a 30% change of seeing the target. A, B and C are house, faces and body parts, counterbalanced across runs."
+
+}

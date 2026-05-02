@@ -1,0 +1,50 @@
+{
+"onset": {
+	"Description": "the onset of the target word within a stimulus (final word at the end of a sentence)",
+	"Units": "seconds"
+ },
+
+"duration": {
+	"Description": "the duration of the target word within a stimulus (final word at the end of a sentence)",
+	"Units": "seconds"
+ },
+
+"stim_onset_s_": {
+	"Description": "the trigger at the beginning of a stimulus (sentence)",
+	"Units": "seconds"
+ },
+ 
+"stim_dur_s_": {
+	"Description": "the duration of the entire stimulus (sentence)",
+	"Units": "seconds"
+},
+ 
+"type": {
+	"Description": "how a stimulus was presented",
+	"Levels": {
+		"Picture-Sound": "written text and audio presented together (introductions and prompts)",
+		"Sound": "presented auditorially only (congruent and incongruent stimuli)",
+		"Response": "participant responded, no stimulus"
+		}
+ },
+ 
+"trial_type": {
+	"Description": "primary experimental classifications",
+	"Levels":{
+		"intro": "task description",
+		"congrats": "task has ended",
+		"Ex": "example stimulus presented",
+		"feedback": "feedback on response to example stimulus (correct or incorrect)",
+		"break": "prompt to ask if participant wanted a break",
+		"prompt": "prompt to ask participant to respond",
+		"left": "participant pressed left in response to stimulus",
+		"right": "participant pressed right in response to stimulus",
+		"NPC": "non-prosodic congruent stimulus presented",
+		"NPI": "non-prosodic incongruent stimulus presented"
+	}
+ },
+ 
+"stim_file": {
+	"Description": "what audio file was presented"
+ }
+}

@@ -1,0 +1,21 @@
+{
+    "Name": "Motor Control Processes Moderate Visual Working Memory Gating Dataset",
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1523/JNEUROSCI.0673-25.2025"
+    ],
+    "BIDSVersion": "v1.10.1",
+    "License": "CC0",
+    "Authors": [
+        "Şahcan Özdemir",
+        "Eren Günseli",
+        "Daniel Schneider"
+    ],
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "EEG-BIDS",
+            "Version": "10.3"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006963.v1.0.0"
+}

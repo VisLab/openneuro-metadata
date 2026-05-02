@@ -1,0 +1,9 @@
+{
+  "participants.tsv": "a123eb438f987ef4d31338b0e5baf70429be0a18",
+  "participants.json": "597264e752759d0b5718437ccfd3c9e96aeb6c14",
+  "README": "44ec4635e96f340b844bd69352c79ce898fee0a4",
+  "dataset_description.json": "63f3f852f7feaeaf3056db36ed72558f37062020",
+  "CHANGES": "6342d86ccbec53d86a347164eabca41f89e7e7fb",
+  "sub-001/eeg/sub-001_task-jacobsen_events.json": "ac9b0ea8cb1bbd0b9cdd642cc174b11f61ed9aab",
+  "sub-001/eeg/sub-001_task-jacobsen_events.tsv": "34c7f0f0760eba21f7fad4fe46df875215a13bd4"
+}

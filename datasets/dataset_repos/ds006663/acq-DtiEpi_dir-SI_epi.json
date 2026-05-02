@@ -1,0 +1,10 @@
+{
+    "PhaseEncodingDirection": "j-",
+    "TotalReadoutTime": 0.0158592,
+    "B0FieldIdentifier": "pepolar_fmap_dwi",
+    "IntendedFor": [
+	"bids::sub-SUBJ/ses-SESS/dwi/sub-SUBJ_ses-SESS_acq-b350_dwi.nii.gz",
+	"bids::sub-SUBJ/ses-SESS/dwi/sub-SUBJ_ses-SESS_acq-b1000_dwi.nii.gz",
+	"bids::sub-SUBJ/ses-SESS/dwi/sub-SUBJ_ses-SESS_acq-b2000_dwi.nii.gz"
+    ]
+}

@@ -1,0 +1,14 @@
+1.0.4 2020-06-22
+  - updated audio file under /stimuli (+ updated audio filename under stim_file for each subject)
+1.0.3 2020-02-24
+  - updated funding information
+1.0.2 2020-02-19
+  - updated authors and references
+1.0.1 2019-11-22
+  - added annotations.tsv and comprehension_questions.tsv to code/
+1.1.0 2019-11-22
+  - added annotations.tsv and comprehension_questions.tsv to code/
+
+1.0.0	2019-11-22
+
+	- Initial snapshot

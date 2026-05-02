@@ -1,0 +1,62 @@
+# UltraCortex: Submillimeter Ultra-High Field 9.4 T1 Brain MR Image Collection and Manual Cortical Segmentations
+
+## Overview
+
+Welcome to the UltraCortex repository, which hosts a unique collection of ultra-high field (9.4 Tesla) MRI data of the human brain. This dataset includes detailed structural images and high-quality manual segmentations, making it an invaluable resource for researchers in neuroimaging and computational neuroscience.
+
+## Dataset Contents
+
+- **Structural MR Images:** 86 T1-weighted images with resolutions of 0.6 to 0.8 mm.
+- **Manual Segmentations:** Precise segmentations of 12 brains into gray and white matter compartments.
+- **Validation:** Segmentations independently validated by two expert neuroradiologists.
+
+## Purpose
+
+The UltraCortex dataset aims to:
+
+- Facilitate the development and validation of new algorithms for analyzing ultra-high field MRI data.
+- Serve as a benchmark for existing neuroimaging methods.
+- Provide a rich resource for educational purposes and detailed studies of brain anatomy.
+
+## Data Acquisition
+
+- **Scanner:** 9.4 T whole-body MRI scanner (Siemens Healthineers).
+- **Sequences:** MP-RAGE and MP2RAGE sequences.
+- **Participants:** 78 healthy adult volunteers (28 females, 50 males; age range: 20-53 years).
+
+## Data Processing
+
+- **Formats:** Data is provided in NIfTI format.
+- **Anonymization:** Images have been anonymized and stripped of all revealing metadata.
+- **Segmentation:** Manual segmentations were created using ITK-Snap and validated by expert neuroradiologists.
+
+
+## Usage Notes
+
+- **Data License:** The dataset has been marked as dedicated to the public domain.
+- **Formats:** Data is provided in NIfTI and plain text formats for compatibility with various analysis tools.
+- **Open-Source Software:** Data processing was performed using open-source software to enhance reproducibility.
+
+## Accessing the Data
+
+The dataset is publicly available on the OpenNeuro repository:
+
+- **Repository Link:** [OpenNeuro UltraCortex]()
+
+## Citation
+
+If you use this dataset, please cite:
+
+
+```TeX
+Mahler, L., Steiglechner, J. et al. (2024). UltraCortex: Submillimeter Ultra-High Field 9.4 T1 Brain MR Image Collection and Manual Cortical Segmentations
+```
+
+## Contact
+
+For any questions or further information, please contact the corresponding authors:
+
+- Lucas Mahler: [lucas.mahler@tue.mpg.de](mailto:lucas.mahler@tue.mpg.de)
+- Julius Steiglechner: [julius.steiglechner@tuebingen.mpg.de](mailto:julius.steiglechner@tue.mpg.de)
+
+Thank you for using the UltraCortex dataset. We hope it facilitates your research and contributes to advancements in neuroimaging.

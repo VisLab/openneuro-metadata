@@ -1,0 +1,14 @@
+{
+  "task-reacquisition_bold.json": "d0ede28e6a9b49ea61fe3db29fd2566158c9c73b",
+  "task-training_bold.json": "abd6dc6b3a569500267ddf504d8ed3ebb00447a4",
+  "README": "7e838ba81e4ca714eb3ad76cfe1d239f5aa4c681",
+  "participants.tsv": "30cca7ecf0b602ffcb6587b4a74b15934297528c",
+  "task-rest_bold.json": "f0bbd7af1f9b254818394535d9d7f28b08a9e191",
+  "task-extinction_bold.json": "920145f7cec169b1bc115fb6bffc3193f994094d",
+  "dataset_description.json": "f23a5993d3a842c3886617a601ec9d53a4b9966d",
+  "CHANGES": "f15a8e081f8bb72c6c9a89ebe1cdae23b677db90",
+  "sub-103/ses-1/func/sub-103_ses-1_task-training_run-02_events.tsv": "3add5dfc739b52a33e3acbbc435036d4d03d671a",
+  "sub-103/ses-1/func/sub-103_ses-1_task-extinction_events.tsv": "5f98db9c58c9e82d108306dde4ee8f62c3ba515e",
+  "sub-103/ses-1/func/sub-103_ses-1_task-training_run-01_events.tsv": "f1d3ac428b33bf60a8780948e5be0fabdb388120",
+  "sub-103/ses-1/func/sub-103_ses-1_task-reacquisition_events.tsv": "64e2057f902e8cc59f8f38faf566176ac22b144b"
+}

@@ -1,0 +1,19 @@
+# BIDS example with HED-SCORE schema library annotations
+
+The HED schema library for the Standardized Computer-based Organized Reporting of EEG (SCORE) can be used to add annotations for BIDS datasets. The annotations are machine readable and validated with the BIDS and HED validators. 
+
+This example is related to the following preprint:
+Dora Hermes, Tal Pal Attia, Sándor Beniczky, Jorge Bosch-Bayard, Arnaud Delorme, Brian Nils Lundstrom, Christine Rogers, Stefan Rampp, Seyed Yahya Shirazi, Dung Truong, Pedro Valdes-Sosa, Greg Worrell, Scott Makeig, Kay Robbins. Hierarchical Event Descriptor library schema for EEG data annotation. arXiv preprint arXiv:2310.15173. 2024 Oct 27.
+
+# General information
+This BIDS example dataset includes iEEG data from one subject that were measured during clinical photic stimulation. Intracranial EEG data were collected at Mayo Clinic Rochester, MN under IRB#: 15-006530.  
+
+# Events
+The events are annotated according to the HED-SCORE schema library. Data are annotated by adding a column for annotations in the _events.tsv. The levels and annotations in this column are defined in the _events.json sidecar as HED tags. 
+
+# More information
+HED: https://www.hedtags.org/
+HED schema library for SCORE: https://github.com/hed-standard/hed-schema-library 
+
+# Contact
+Dora Hermes: hermes.dora@mayo.edu

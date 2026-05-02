@@ -1,0 +1,22 @@
+This dataset was obtained from the OpenfMRI project (http://www.openfmri.org)
+Description: Object-location incidental learning.
+These data correspond to Experiment 2 in Hall, Naughtin, Mattingley, & Dux, (in press). Distributed and opposing effects of incidental learning in the human brain. NeuroImage.
+
+Missing data
+--------
+No scanning data for sub-02 run-10: technical issues during scanning
+No scanning data for sub-08 run-10: technical issues during scanning
+No scanning data for sub-15 run-01: technical issues during scanning
+Scanning data excluded for sub-16 run-10: excessive motion in the scanner
+No scanning data for sub-21 run-01 & run-02: technical issues during scanning
+	
+Source data processing
+--------
+dicomrename was used in MATLAB 2015b to collate and rename Siemens IMA files. Code is available at https://mathworks.com/matlabcentral/fileexchange/22818-dicomrename
+dcm2niix was used to convert DICOM files to NIFTI format. Code is available at https://github.com/rordenlab/dcm2niix
+jq was used to edit json files. Code is available at https://stedolan.github.io/jq/
+Custom code implemented in MATLAB 2015b was used to extract data for event logs.
+
+Defacing
+--------
+mri_deface was used on all anatomical images to ensure deindentification of subjects. Code is available at https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface

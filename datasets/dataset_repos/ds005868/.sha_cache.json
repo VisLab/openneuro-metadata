@@ -1,0 +1,9 @@
+{
+  "participants.json": "196c3dd04b5591fb5ddc7afd1375218622e62e3d",
+  "dataset_description.json": "7461ec0f633935337339b5a04606fa1ef11858b3",
+  "CHANGES": "5977a8c27abfcce0579d5880d0c0f068be01485d",
+  "task-flankersFAR_events.json": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
+  "participants.tsv": "f8b7fbb583781ab1e453431b43995c30d5d661dc",
+  "README": "b4206dd2b7273b7bea81e22ac75da111cace1378",
+  "sub-1/eeg/sub-1_task-flankersFAR_events.tsv": "78f879914c7de71f03757297eb18e39b5af6f49a"
+}

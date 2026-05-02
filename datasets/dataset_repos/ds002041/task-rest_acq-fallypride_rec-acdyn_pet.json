@@ -1,0 +1,20 @@
+{
+	"Info": {
+		"Modality": "petct",
+		"Manufacturer": "GE",
+		"ManufacturersModelName": "Discovery_STE",
+		"BodyPart": "brain",
+		"Tracer": {
+			"Name": "[18F]fallypride",
+			"Isotope": "[18F]",
+			"MW": 363.457,
+			"InjectionType": "bolus"
+		},
+		"SliceThickness": 3.27,
+		"ReconMatrixPE": 128,
+		"ConversionSoftware": "dcm2niix",
+		"ConversionSoftwareVersion": "v1.0.20180614 Clang7.3.0"
+		
+	}
+	
+}

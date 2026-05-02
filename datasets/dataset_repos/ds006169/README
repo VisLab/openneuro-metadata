@@ -1,0 +1,73 @@
+This repository contains one of two datasets used in the following study:
+
+Turesky TK, Escalante ES, Loh M, Gaab N. Longitudinal trajectories of brain development from infancy to school age and their relationship to literacy development, https://doi.org/10.1101/2024.06.29.601366.
+
+For the other dataset, please see https://osf.io/axz5r/.
+
+All participants included in this repository had MR images from at least two timepoints that passed the QC standards for the manuscript referenced above. Any MR images for these participants from additional timepoints were also included regardless of whether they passed the QC standards.
+
+Please note that session numbers correspond to the following developmental timepoints:  
+ses-01 = infant  
+ses-02 = toddler  
+ses-03 = pre-reading  
+ses-04 = beginning reading  
+ses-05 = emergent reading  
+
+FreeSurfer's mri_deface was used to deface all T1w images, except for the following partipants, for whom we used mideface:
+
+Images where mri_deface did not sufficiently distort the face:  
+sub-04/ses-03  
+sub-29/ses-04  
+sub-34/ses-02  
+sub-52/ses-04  
+sub-55/ses-01  
+sub-65/ses-04  
+sub-70/ses-05  
+sub-72/ses-03  
+
+Images where mri_deface cut into brain tissue:  
+sub-12/ses-03  
+sub-12/ses-04  
+sub-15/ses-05  
+sub-57/ses-05  
+sub-62/ses-05  
+sub-79/ses-04  
+  
+
+Data dictionary for measures:  
+participant_id			        -	participant IDs  
+timepoint		                        -	INF=infant, TOD=toddler, PRE=pre-reading, BEG=beginning reading, REA=emergent reading  
+session			                        -	timepoint number  
+age				                        -	age in months  
+Sex				                        -	biological sex  (0=male, 1=female)  
+MEd			                        -	maternal education  
+HLE				       	                -	home literacy composite (z-normalized)  
+FHD					        -	family history of dyslexia (0=none, 1=first degree relative)  
+pre_word_access_raw		        -	PRE WJIV word access subtest raw  
+pre_word_fluency_raw		-	PRE WJIV word fluency subtest raw  
+pre_substitution_raw		        -	PRE WJIV substitution subtest raw  
+pre_wjiv_oralcomp_raw		-	PRE WJIV oral comprehension subtest raw  
+pre_wjiv_pvocab_raw		        -	PRE WJIV picture vocabulary subtest raw  
+pre_wjiv_phonproc_standard	-	PRE timepoint WJIV phonological processing standardized composite  
+pre_wjiv_orallang_standard	-	PRE timepoint WJIV oral language standardized composite  
+kbit2_raw			                -	KBIT reasing subtest raw score  
+kbit2_standard			        -	KBIT reasing subtest standard score  
+beg_wrmt3_wrd_id_raw		-	BEG timepoint WRMT word id raw score  
+beg_wrmt3_wrdatt_raw		-	BEG timepoint WRMT word attack raw score  
+beg_wrmt3_wrd_id_stnd		-	BEG timepoint WRMT word id standard score  
+beg_wrmt3_wrdatt_stnd		-	BEG timepoint WRMT word attack standard score  
+pre_beh_age			                -	age at PRE timepoint  
+beg_beh_age			                -	age at BEG timepoint  
+euler				                -	Euler number rating  for T1 images, average of hemispheres (FreeSurfer metric)  
+qc_s				                -	visual ratings of FreeSurfer segmentations (0=poor, 1=regional-localized errors, 2=good)  
+qc_ARC_L			                -	visual ratings of py(Baby)AFQ tracts (0=poor, 1=sparser than usual, 2=good)  
+qc_ARC_R			                -	visual ratings of py(Baby)AFQ tracts (0=poor, 1=sparser than usual, 2=good)  
+qc_ILF_L			                        -	visual ratings of py(Baby)AFQ tracts (0=poor, 1=sparser than usual, 2=good)  
+qc_ILF_R			                        -	visual ratings of py(Baby)AFQ tracts (0=poor, 1=sparser than usual, 2=good)  
+qc_SLF_L			                -	visual ratings of py(Baby)AFQ tracts (0=poor, 1=sparser than usual, 2=good)  
+qc_SLF_R			                -	visual ratings of py(Baby)AFQ tracts (0=poor, 1=sparser than usual, 2=good)  
+
+
+Keys for remaining variables may be found in Table S1 of the following citation: Yu X, et al. (2021) Functional Connectivity in Infancy and Toddlerhood Predicts Long-Term Language and Preliteracy Outcomes. Cerebral Cortex 32, 725–736.
+
+For corresponding code, please see https://github.com/TeddyTuresky/Longitudinal-Trajectories-Early-Brain-Development-Language/tree/main.

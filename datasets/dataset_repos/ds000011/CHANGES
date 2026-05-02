@@ -1,0 +1,6 @@
+2.0.0 2016-09-30
+ 
+  - converted to BIDS std
+
+1.0.0 2022-12-14
+  - Updated sub-09_task-Classificationprobewithoutfeedback_bold.nii.gz, which was corrupted in the previous version

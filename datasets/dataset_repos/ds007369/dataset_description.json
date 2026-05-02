@@ -1,0 +1,29 @@
+{
+    "Name": "Invariant Versus Context-Specific Representation of Face Shape and Motion in the Face Network",
+    "GeneratedBy": [
+        {
+            "Name": "BIDScoin",
+            "Version": "4.6.3.dev0",
+            "Description:": "A versatile GUI application suite that converts source datasets to BIDS",
+            "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+        }
+    ],
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Sanaz Hosseini, Fabian A. Soto"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "This work was supported by the National Science Foundation under grant No. 2020982 to Fabian A. Soto"
+    ],
+    "EthicsApprovals": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007369.v1.0.0"
+}

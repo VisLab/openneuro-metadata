@@ -1,0 +1,14 @@
+{
+  "task-checker_bold.json": "abf6e6701b100710ed2c91374a389d56990c6bc7",
+  "dataset_description.json": "a90d4e3ff74501d3dcab3ca99f79399d7c25b6e2",
+  "participants.json": "ffba3c177280ac88f74869bc5102128bdd828b0a",
+  "CHANGES": "37ba9dc1381daacbceb4fc31d7eb6e576c4e3edd",
+  "README": "89796ae957349d3ee50d0bb874a2f736d498ece1",
+  "task-rest_bold.json": "d3b98162af8eba931bd8a4645616af8503f86cec",
+  "task-breathhold_bold.json": "bf01a90e0ca546e461282ba0add19ac3a7fb6f3e",
+  "participants.tsv": "5a4ff7e0ba9441323e31806d1f54a90d3b8ab3c5",
+  "sub-01/func/sub-01_task-checker_run-03_events.tsv": "2e5b19b77a862a56be77d5b05e3ef959b9c5ae66",
+  "sub-01/func/sub-01_task-breathhold_run-01_events.tsv": "5fe585e74d7e3feb34bd117b4a61d404f51d1b61",
+  "sub-01/func/sub-01_task-checker_run-01_events.tsv": "2e5b19b77a862a56be77d5b05e3ef959b9c5ae66",
+  "sub-01/func/sub-01_task-checker_run-02_events.tsv": "2e5b19b77a862a56be77d5b05e3ef959b9c5ae66"
+}

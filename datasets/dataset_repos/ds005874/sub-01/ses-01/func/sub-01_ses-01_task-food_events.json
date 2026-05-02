@@ -1,0 +1,21 @@
+{
+    "onset": {
+      "LongName": "Onset time",
+      "Description": "Onset time of the image block.",
+      "Units": "s"
+    },
+    "duration": {
+        "LongName": "Time duration",
+        "Description": "Duration of image block.",
+        "Units": "s"
+    },
+    "trial_type": {
+        "LongName": "Event category",
+        "Description": "Indicator of the type of stimuli presented.",
+        "Levels": {
+          "non-food": "non-food item",
+          "low_cal_food": "low calorie food",
+          "high_cal_food": "high calorie food"
+        }
+    }
+  }

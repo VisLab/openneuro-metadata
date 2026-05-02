@@ -1,0 +1,17 @@
+{
+  "task-postbaseline_events.json": "3305b3636355738b877222b06631853bc6be5360",
+  "task-ivan_events.json": "3305b3636355738b877222b06631853bc6be5360",
+  "participants.tsv": "471b6b6a6ae0af56ef117e360c3e845cfef64fe8",
+  "CHANGES": "539fa422a89ef7388a8c18c101d13c52bff5a684",
+  "participants.json": "de869baf6b6f171ce9530b4627ad7bcb0a4a4208",
+  "README": "ed3c4cd52f469e47a5f51fdf1413519bf06db3ef",
+  "task-compTree_events.json": "3305b3636355738b877222b06631853bc6be5360",
+  "task-medBall_events.json": "3305b3636355738b877222b06631853bc6be5360",
+  "task-prebaseline_events.json": "3305b3636355738b877222b06631853bc6be5360",
+  "dataset_description.json": "355dfe021377ac384db51adea9e8e5a4daee748d",
+  "sub-001/eeg/sub-001_task-compTree_events.tsv": "302204c997e4681d9697b080fe846fdccc1d53cb",
+  "sub-001/eeg/sub-001_task-medBall_events.tsv": "a701657a257f202db41c06bd5da83850a1c9a27e",
+  "sub-001/eeg/sub-001_task-ivan_events.tsv": "7e4fb210bcdeabda038f8d943d9953b26006fd55",
+  "sub-001/eeg/sub-001_task-prebaseline_events.tsv": "614568f41832bf9ad42cfaf9bc5d84620c7ffe76",
+  "sub-001/eeg/sub-001_task-postbaseline_events.tsv": "cf2a6ff70b9bf85d7820cbbe8e253b1aebdfc793"
+}

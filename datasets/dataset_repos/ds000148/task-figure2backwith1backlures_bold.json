@@ -1,0 +1,10 @@
+{
+    "RepetitionTime": 1.8,
+    "TaskName": "figure 2-back with 1-back lures",
+    "Manufacturer": "GE MEDICAL SYSTEMS",
+    "ManufacturersModelName": "DISCOVERY MR750",
+    "MagneticFieldStrength": 3,
+    "EchoTime": 0.018,
+    "FLipAngle": 90,
+    "CogAtlasID": "http://www.cognitiveatlas.org/term/id/trm_4ebd477ab5a11"
+}

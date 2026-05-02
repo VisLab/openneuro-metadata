@@ -1,0 +1,13 @@
+{
+  "CHANGES": "fb380c7cf24d9c3f8b205f251ba699a52d843d63",
+  "participants.json": "c802b68778cf21a1fe791c4fa64e92f41d377e19",
+  "README": "1e4a822b01146a657f2aafe331f4c860a93d9f20",
+  "dataset_description.json": "0aa8b2bb4fca2aea79f7773bb9fb41e8c1f30182",
+  "participants.tsv": "0567ae9dc01bbf624bc8455ca0fe84a859d897c6",
+  "sub-01/meg/sub-01_task-olsa_events.json": "2323015b0525ff709e6e855fb8024d571467960d",
+  "sub-01/meg/sub-01_task-audiobook1_run-02_events.json": "dc65c7dcb4ef2d8c80e7d25ef0b8150483587d48",
+  "sub-01/meg/sub-01_task-audiobook1_run-01_events.json": "dc65c7dcb4ef2d8c80e7d25ef0b8150483587d48",
+  "sub-01/meg/sub-01_task-olsa_events.tsv": "65918abaff0902f04ce606f9e83699b4412a916c",
+  "sub-01/meg/sub-01_task-audiobook1_run-02_events.tsv": "745ecea80d954eba0a3e34fa9845ef18bb53edc5",
+  "sub-01/meg/sub-01_task-audiobook1_run-01_events.tsv": "c7d8c9c02741e4f96425b3fbd2f829c91517210a"
+}

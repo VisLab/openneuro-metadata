@@ -1,0 +1,32 @@
+{
+	"memorize": {
+		"LongName": "Instruction to memorize",
+		"Description": "Whether this clip was presented under the instruction to memorize it",
+		"Levels": {
+			"1": "Instruction to memorize",
+			"0": "Instruction to look (passively view)"
+		}
+	},
+	"clip_id": {
+		"LongName": "Clip ID",
+		"Description": "MUnique clip identifier"
+	},
+	"clip_type": {
+		"LongName": "Clip Type",
+		"Description": "Type of clip - whether it is regular (narrative) or control",
+		"Levels": {
+			"narrative": "Narrative clip (used for analysis)",
+			"control": "Control clip (catch trials)"
+		}
+	},
+	"mem_type": {
+		"LongName": "Memory Type",
+		"Description": "Memory classification of the event",
+		"Levels": {
+			"R": "Subsequently remembered clip",
+			"F": "Subsequently forgotten clip",
+			"X": "Clips excluded from analysis",
+			"control": "Control clips - memory not tested"
+		}
+	}
+}

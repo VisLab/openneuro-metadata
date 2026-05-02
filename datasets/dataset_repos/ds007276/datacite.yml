@@ -1,0 +1,36 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Bassel Arafat
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Caroline Nettekoven
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Jörn Diedrichsen
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+    creators:
+      - name: Bassel Arafat
+        nameType: Personal
+      - name: Caroline Nettekoven
+        nameType: Personal
+      - name: Jörn Diedrichsen
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

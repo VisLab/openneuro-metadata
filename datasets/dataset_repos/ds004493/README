@@ -1,0 +1,4 @@
+This dataset contains 3T fMRI data from 16 subjects who completed a visual task involving a radial checkerboard that flickered at a rate of 4, 8, 12 or 40 Hz. Physiological data is available from each run, and contains pulse oximetry, respiration, and trigger channels.
+
+
+The correct TR for all functional runs is 0.378 seconds.

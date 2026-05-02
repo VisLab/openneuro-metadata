@@ -1,0 +1,102 @@
+Description of the ASL sequence
+A sequence with pseudo-continuous labeling, background suppression and 3D RARE Stack-Of-Spirals readout with optional through-plane acceleration was implemented for this study. At the beginning of the sequence, gradients were rapidly played with alternating polarity to correct for their delay in the spiral trajectories, followed by two preparation TRs, to allow the signal to reach the steady state. A non-accelerated readout was played during the preparation TRs, in order to obtain a fully sampled k-space dataset, used for calibration of the parallel imaging reconstruction kernel, needed to reconstruct the skipped kz partitions in the accelerated images.
+
+Description of study
+Perfusion data were acquired on an elderly cohort using the single-shot, accelerated sequence.
+For each participant, first a high-resolution anatomical T1-weighted image was acquired with a magnetization prepared rapid gradient echo (MPRAGE) sequence.
+Resting perfusion data were acquired with a 1-shot 1D-accelerated readout for a total scan duration of 5 min, with labeling and PLD times of 1.5 and 1.5 s. Two M0 images with long TR and no magnetization preparation were acquired per run for CBF quantification purposes.
+
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure deindentification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/latest/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000236/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000236.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.
+
+Known Issues
+------------
+N/A
+
+Bids-validator Output
+---------------------
+1: This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder. (code: 1 - NOT_INCLUDED)
+                /sub-01/func/sub-01_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-01_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-02/func/sub-02_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-02_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-03/func/sub-03_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-03_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-04/func/sub-04_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-04_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-05/func/sub-05_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-05_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-06/func/sub-06_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-06_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-07/func/sub-07_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-07_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-08/func/sub-08_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-08_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-09/func/sub-09_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-09_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-10/func/sub-10_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-10_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-11/func/sub-11_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-11_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-12/func/sub-12_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-12_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-13/func/sub-13_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-13_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-14/func/sub-14_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-14_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-15/func/sub-15_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-15_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-16/func/sub-16_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-16_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-17/func/sub-17_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-17_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /sub-18/func/sub-18_task-rest_acq-1Daccel1shot_asl.nii.gz
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: sub-18_task-rest_acq-1Daccel1shot_asl.nii.gz
+                /task-rest_asl.json
+                        This file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.
+                        Evidence: task-rest_asl.json
+
+        Summary:                  Available Tasks:        Available Modalities:
+        61 Files, 915.87MB                                T1w
+        18 - Subjects
+        1 - Session

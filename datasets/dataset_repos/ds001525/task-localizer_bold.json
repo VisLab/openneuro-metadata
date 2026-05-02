@@ -1,0 +1,19 @@
+{
+	"TaskName": "Localizer",
+	"Instructions": "For this experiment you will be listening to syllables. In two conditions you will simply listen to the syllables. When you see an ear appear on the screen, your task is to listen (show visual cue: see stimuli folder). When you see a pair of lips on the screen, your task is to imagine repeating or covertly repeat without making any sound. You should repeat the syllables at least four times in the silence following the syllables. When you see a '+' in isolation simply focus on the crosshair.",
+	"TaskDescription": "The localizer task was included to identify networks in each participant that are involved in the perception and production of speech. A localizer was used is to precisely define the relevant network, thus (i) minimizing the possibility of spurious activation, (ii) increasing statistical sensitivity and our ability to evaluate null results, and (iii) minimizing possible condition differences due to executive control and related mechanisms.  This speech processing localizer was modeled on a previous study (Hickok et al. 2009). It consisted of four task conditions using syllable stimuli: (1) listen + rehearsal; (2) listen + rest; (3) continuous listen; and (4) rest. Tasks were presented in pseudorandom order, such that the same condition never occurred twice in a row.  For this set of tasks, each block was 14 seconds in duration.  For each of the listen + rehearsal and listen + rest blocks, a four-CV-syllable stimulus was presented during the first two seconds, the same as the stimulus presentation in the RS condition, and the participants either rehearsed the set repeatedly or rested for the next 12 seconds until the onset of the next trial. For each of the continuous listen blocks, the same syllable sequence was presented to the participant auditorily seven times throughout the 14 second duration without any response being required from the participant.  Each resting block had a 14 second silent period.  A visual cue was presented during the full length of each block to inform the participant of the experimental condition.",
+	"Institution": "University of California, Irvine",
+	"InstitutionAddress": "Department of Cognitive Sciences, 2201 Social & Behavioral Sciences Gateway Building, University of California, Irvine. Irvine, CA 92697-5100",
+	"RepetitionTime": 2,
+	"EchoTime": 0.026,
+	"FlipAngle": 70,
+	"SliceTiming": [ 0, 0.0625, 0.125, 0.1875, 0.25, 0.3125, 0.375, 0.4375, 0.5, 0.5625, 0.625, 0.6875, 0.75, 0.8125, 0.875, 0.9375, 1, 1.0625, 1.125, 1.1875, 1.25, 1.3125, 1.375, 1.4375, 1.5, 1.5625, 1.625, 1.6875, 1.75, 1.8125, 1.875, 1.9375 ],
+	"SliceEncodingDirection": "k",
+	"NumberOfVolumesDiscardedByScanner": 0,
+	"NumberOfVolumesDiscardedByUser": 5,
+	"Manufacturer": "Philips",
+	"MagneticFieldStrength": "3T",
+	"PhaseEncodingLines": 112,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0"
+}

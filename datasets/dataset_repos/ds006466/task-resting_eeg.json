@@ -1,0 +1,18 @@
+{
+    "TaskName": "resting",
+    "TaskDescription": "resting",
+    "Instructions": "Rest with your eyes opened for 5 minutes. Then, rest with your eyes closed for 5 minutes.",
+    "InstitutionAddress": "3715 McClintock Ave. Los Angeles, CA 90089",
+    "InstitutionName": "University of Southern California",
+    "InstitutionalDepartmentName": "School of Gerontology",
+    "PowerLineFrequency": 60,
+    "ManufacturersModelName": "EGI Magstim",
+    "EEGChannelCount": 65,
+    "EEGReference": "E65",
+    "RecordingType": "continuous",
+    "SamplingFrequency": 1000,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "SoftwareFilters": "n/a"
+}

@@ -1,0 +1,8 @@
+# README
+
+This dataset consists of PET data using [18F]MK6240 and T1w MRI for a cohort of young to middle-aged healthy individuals. A subset of individuals have a follow up PET scan. 
+At osf.io/znt9d, we also include standard uptake value ratio maps normalized to cerebellar grey matter or a composite region of interest (whole cerebellum, brainstem, eroded subcortical white matter) in volume and surface space (fsLR32K). A T1-weighted MNI152 template image in 0.8 x 0.8 x 0.8mm resolution is included for those who wish to transform PET images into MNI152 space (MNI152_T1_0.8mm.nii.gz). Details on how to apply the transformation can be found in the OSF wiki (osf.io/znt9d).
+
+## Details related to access to the data
+The dataset can be accessed at: osf.io/znt9d 
+Please cite this dataset: Lam, J., Rodriguez-Cruces, R., Arafat, T., Royer, J., Chen, J., Dascal, A., Sahlas, E., Pana, R., Hopewell, R., Hsiao, C. H.-H., Massarweh, G., Soucy, J.-P., Villeneuve, S., Caciagli, L., Koepp, M., Bernasconi, A., Bernasconi, N., & Bernhardt, B. (2025). An open dataset of cerebral tau deposition in young healthy adults based on [18F]MK6240 positron emission tomography. bioRxiv, 2025-06. https://doi.org/10.1101/2025.06.13.655622

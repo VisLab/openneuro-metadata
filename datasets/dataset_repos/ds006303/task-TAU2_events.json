@@ -1,0 +1,24 @@
+{
+  "onset": {
+    "LongName": "Event onset",
+    "Description": "Onset of the event, i.e. faces appearing on the screen."
+  },
+  "duration": {
+    "LongName": "Event duration",
+    "Description": "Duration of the faces on screen"
+  },
+  "trial_type": {
+    "LongName": "TAU condition",
+    "Description": "Type of attention condition",
+    "Levels": {
+      "congruent": "Probe appeares in the location of the angry face after angry-neutral pairs",
+      "incongruent": "Probe appeares in the location of the neutral face after angry-neutral pairs",
+      "neutral": "Probe follows neutral-neutral face pairs",
+      "error": "incorrect response on previous condition"
+    }
+  },
+  "response_time": {
+    "LongName": "Reaction time",
+    "Description": "Reaction time to participant response"
+  }
+}

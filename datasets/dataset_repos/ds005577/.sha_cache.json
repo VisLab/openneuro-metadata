@@ -1,0 +1,16 @@
+{
+  "task-rhyme_events.json": "c5c9d29c45af6672feb6c51872f3a3b6aaf5ef35",
+  "participants.json": "4a86723ff157fc371f99c26157928fa53ce43e9e",
+  "task-read_bold.json": "ce8009aa15105fbc16bf3c7190b625a06ad03a9e",
+  "CHANGES": "7ad2c062b90c1b7dd6b2f357d3d5ad0cadf6f9f0",
+  "README": "26281c95857a6714d6bf2c138fe031be45b80751",
+  "dataset_description.json": "97bc0103240a11cbbe389b4bdb2eaf7aa3cba3d7",
+  "participants.tsv": "5e228e8107a05333c6a9fe93e885891d1ee875c1",
+  "task-read_events.tsv": "09b90eeaad2967e3e181f68b6010e78faea1a3db",
+  "task-read_events.json": "41e628176f992cf1482e0755b746fb1dfdbf4381",
+  "task-rhyme_bold.json": "503556363e3d80cc7fcd3fa3e704a070e08cd3be",
+  "task-wgen_events.tsv": "f2288341bc8580f62159a6c07c2bd83ee4c9030c",
+  "task-wgen_events.json": "edb48fdc02adffcf1c5ccac4ed54212bff05d93f",
+  "task-rhyme_events.tsv": "7867013b5b006051bb75d30b9f48a261e56dcb28",
+  "task-wgen_bold.json": "838830be4dd745c0bfd4ea415dd511ce34b20e7c"
+}

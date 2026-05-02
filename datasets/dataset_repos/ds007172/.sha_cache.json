@@ -1,0 +1,17 @@
+{
+  "README": "331155dc9b400a8b7b8f5d83ee02dcaf074f6d75",
+  "participants.tsv": "a408bc14e69af9df6de20b5633db5848d840bd93",
+  "dataset_description.json": "54bec9c8dd353f444eb5a81a75789f0a71fb79d1",
+  "participants.json": "c1aec96b92ea62f914ea4b35b4b6b2babed42ee2",
+  "CHANGES": "994ca3e8bf4a931248425042d9f70e866e89a233",
+  "sub-001/eeg/sub-001_task-rest_events.json": "e7fdb6b35e42448a9f7ca270d3954ebb4f8f77f1",
+  "sub-001/eeg/sub-001_task-emotions_events.json": "e7fdb6b35e42448a9f7ca270d3954ebb4f8f77f1",
+  "sub-001/eeg/sub-001_task-faces_events.json": "e7fdb6b35e42448a9f7ca270d3954ebb4f8f77f1",
+  "sub-001/eeg/sub-001_task-faces_events.tsv": "41d0f3025794d28f0ceefff92a39a607ec261dec",
+  "sub-001/eeg/sub-001_task-houses_events.json": "e7fdb6b35e42448a9f7ca270d3954ebb4f8f77f1",
+  "sub-001/eeg/sub-001_task-words_events.tsv": "1196e679da734f1b31ea30934487a4e44ee7d956",
+  "sub-001/eeg/sub-001_task-words_events.json": "e7fdb6b35e42448a9f7ca270d3954ebb4f8f77f1",
+  "sub-001/eeg/sub-001_task-emotions_events.tsv": "ade487979af367e964c8bf6a4c8a2a3501a1397a",
+  "sub-001/eeg/sub-001_task-rest_events.tsv": "4ac13fd4a13433a1741956f841e1e4b5e081f05a",
+  "sub-001/eeg/sub-001_task-houses_events.tsv": "d68db8958322c7362cb6b56c9671a7e157e1ddf9"
+}

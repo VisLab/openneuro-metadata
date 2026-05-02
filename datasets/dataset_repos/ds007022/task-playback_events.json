@@ -1,0 +1,57 @@
+{
+  "trial_type" : {
+    "Description" : "Category of the trial presented to the participant.",
+    "Levels" : {
+      "FIXCROSS" : "Fixation cross display; no task-relevant stimuli were presented and the participant remained passive.",
+      "CUE_START" : "Instruction screen informing the participant that the task will start shortly.",
+      "CUE_LISTEN" : "Instruction screen instructing the participant to listen attentively to the musical excerpt that will be played.",
+      "CUE_PLAYBACK_RIGHT_HAND" : "Instruction screen instructing the participant to reproduce the previously heard musical excerpt using the right hand.",
+      "CUE_PLAYBACK_BOTH_HANDS" : "Instruction screen instructing the participant to reproduce the previously heard musical excerpt using both hands.",
+      "RESPONSE" : "Event marking a key press or key release on the MIDI keyboard during the participant’s performance."
+    }
+  },
+  "melody_number" : {
+    "Description" : "Identifier of the musical excerpt that was presented or performed by the participant."
+  },
+  "melody_part" : {
+    "Description" : "Segment of the given musical excerpt performed or presented.",
+    "Levels" : {
+      "1" : "First part of the musical excerpt.",
+      "2" : "Second part of the musical excerpt."
+    }
+  },
+  "key" : {
+    "Description" : "System identifier of the pressed or released key on the MIDI keyboard (e.g., MIDI key number)."
+  },
+  "sound" : {
+    "Description" : "Musical pitch corresponding to the pressed or released key, including pitch class and octave."
+  },
+  "action" : {
+    "Description" : "Type of motor action executed on the MIDI key.",
+    "Levels" : {
+      "press" : "Key press event on the MIDI keyboard.",
+      "release" : "Key release event on the MIDI keyboard."
+    }
+  },
+  "TaskDescription" : "This fMRI task investigated brain activation in novice pianists playing musical excerpts from their course curriculum. The task employed alternating \"Listen\" and \"Playback\" conditions. During the \"Listen\" condition, participants heard a music stimulus which was an excerpt from one of the stimuli they learned to play in the piano training course. The participants were instructed to attend to the stimulus and recognise it from their curriculum. The \"Playback\" condition required participants to immediately reproduce the preceding excerpt stimulus on a commercially available MRI-compatible keyboard, either unimanually (right hand) or bimanually, as indicated by a visual cue. The participants were instructed to complete playing the fragment even if they made a mistake or they exceeded the time window allotted for the playback. Each musical piece was presented in two consecutive excerpt stimuli (listen1-playback1-listen2-playback2) under the same hand condition. At baseline (TP1), the simplest musical piece from the curriculum was played 16 times (8 unimanual, 8 bimanual). Task difficulty increased as training progressed, with more complex musical pieces and fewer repetitions, but always within 32 trials (16 listen and 16 playback). Stimuli were presented and played during the ‘silent’ TRs of an interleaved silent steady-state (ISSS) sequence (5 TRs image acquisition [7.75s], 4 TRs ‘silent’ [6.2s]). The order of musical pieces was pseudo-randomized and counterbalanced across participants. Behavioural data collected during the task encompassed the pressed key numbers of the MRI-compatible keyboard, and the timing of pressing and releasing the keys.",
+  "Instructions" : "The instructions were delivered in Polish; the text below is a translation. Your task will be to play what you hear. Instructions will appear on the screen, so please pay close attention to them. When a cue with an ear and music-note symbols appears, you will hear a short melody fragment that you already know how to play. It may be played with the right hand only or with both hands. The scanner will then start, and it will become loud. During this part of the study, try not to press any keys on the instrument. If a cue with a keyboard symbol and one dot on the right side appears, play the fragment you heard earlier with your right hand. If a cue with a keyboard symbol and two dots appears, play the fragment you heard earlier with both hands. If you make a mistake or run out of time, do not worry and keep playing. Play only the fragment of the piece that you just heard. The scanner will then start again. Remember to try not to move your head and to look at the screen rather than at your hands.",
+  "StimulusPresentation" : {
+    "OperatingSystem" : "Windows 10 Pro 22H2",
+    "ScreenOrigin" : [
+      "center",
+      "center"
+    ],
+    "ScreenRefreshRate" : 120,
+    "ScreenResolution" : [
+      1920,
+      1080
+    ],
+    "ScreenSize" : [
+      0.698,
+      0.392
+    ],
+    "SoftwareName" : "Presentation",
+    "SoftwareRRID" : "RRID:SCR_002521",
+    "SoftwareVersion" : "v 23.1 build 09.29.22"
+  }
+}

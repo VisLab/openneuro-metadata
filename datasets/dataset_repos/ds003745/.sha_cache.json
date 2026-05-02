@@ -1,0 +1,17 @@
+{
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "README": "1300f426582f19da78f3b81f9bf885118650abdc",
+  "task-ultimatum_bold.json": "51b53daa39cffb774c7aa256f0e25cb02aea52ea",
+  "CHANGES": "345824979fa0e3821e71a662aebaacc606c1d114",
+  "dataset_description.json": "e99de748cb0b6156db65d7ead26a6b8fee46561c",
+  "task-sharedreward_bold.json": "a8aa0e401660cf706706d72c395676cc5d44d954",
+  "task-trust_bold.json": "92ce8d0be833e7c3e3e726269ad559e805297452",
+  "participants.tsv": "d084a83166cf603441f5354db9a2535ed7db7b51",
+  "sub-106/func/sub-106_task-trust_run-03_events.tsv": "06caf7ceea9a98a9c4b3d73735ef83738fbec54a",
+  "sub-106/func/sub-106_task-sharedreward_run-01_events.tsv": "d25a209ab555af0ba1791e5d81a775cede106955",
+  "sub-106/func/sub-106_task-sharedreward_run-02_events.tsv": "2a79b3f8ea6c12c526b8a15ee5acd7c19c31119d",
+  "sub-106/func/sub-106_task-trust_run-01_events.tsv": "a7db9ad97644925366d5398ddf7b25e9748f08f3",
+  "sub-106/func/sub-106_task-trust_run-02_events.tsv": "c5e4ea05c7c350c96fda8d014c5b209e2fc52b41",
+  "sub-106/func/sub-106_task-ultimatum_run-02_events.tsv": "9454b26f9f2ce4766cb450a64cde649ab31005a4",
+  "sub-106/func/sub-106_task-ultimatum_run-01_events.tsv": "033bd16d6a3a03672787631f5578ae71ea989d32"
+}

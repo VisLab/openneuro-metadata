@@ -1,0 +1,27 @@
+{
+	"trial_type": {
+		"LongName": "Trial Type",
+		"Description": "Trial condition labels",
+		"Levels": {
+			"Faces": "Dynamic face videos",
+			"Objects": "Dynamic object videos",
+			"Scenes": "Dynamic scene videos"
+		}
+	},
+	"trial_type_id": {
+		"LongName": "Trial Type ID",
+		"Description": "Trial condition IDs",
+		"Levels": {
+			"1": "Faces",
+			"2": "Objects",
+			"3": "Scenes"
+		}
+	},
+	"StimulusPresentation": {
+		"OperatingSystem": "Mac OS 10.14.6",
+		"SoftwareName": "Psychtoolbox",
+		"SoftwareRRID": "SCR_002881",
+		"SoftwareVersion": "3.0.16",
+		"Code": "https://osf.io/5yjgh/"
+	}
+}

@@ -1,0 +1,14 @@
+1.1.1 2021-04-28
+  - Added .TRC files
+1.1.0 2021-04-28
+  - Added patient with epilepsy
+1.0.2 2021-02-26
+  - updated description
+1.0.1 2021-02-26
+  - Added preprocessed EEG
+0.1	2018-12-06
+	- Initial snapshot
+0.2	2019-03-05
+	- Moved preproc to derivatives
+	- EEG now follows BEP006
+	- Added json description for events

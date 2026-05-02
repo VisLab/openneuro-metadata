@@ -1,0 +1,25 @@
+{
+    "stimulus": {
+        "CSnegFt": {"Description": "conditioned stimulus negative [CS+]; picture of FACE associated with shock [Unconditioned stimulus, US]. Target --> never actually reinforced"},
+        "CSnegHt": {"Description": "conditioned stimulus negative [CS+]; picture of HOUSE associated with shock [Unconditioned stimulus, US]. Target --> never actually reinforced"},
+        "CSminFt":{"Description": "conditioned stimulus safe [CS-]; picture of FACE never followed by shock [Unconditioned stimulus, US]. Target"},
+        "CSminHt": {"Description": "conditioned stimulus safe [CS-]; picture of HOUSE never followed by shock [Unconditioned stimulus, US]. Target"},
+        "CSnegFf":{"Description": "conditioned stimulus negative [CS+]; picture of FACE associated with shock [Unconditioned stimulus, US]. Filler  --> reinforced"},
+        "CSnegHf":{"Description": "conditioned stimulus negative [CS+]; picture of HOUSE associated with shock [Unconditioned stimulus, US]. Filler --> reinforced"},
+        "CSminFf":{"Description": "conditioned stimulus safe [CS-] picture of FACE never followed by shock [Unconditioned stimulus, US]. Filler"},
+        "CSminHf":{"Description": "conditioned stimulus safe [CS-] picture of HOUSE never followed by shock [Unconditioned stimulus, US]. Filler"},
+        "USneg":{"Description": "shock [negative Unconditioned Stimulus, US]"},
+        "GenPCSnegF":{"Description": "generalisation test, conditioned stimulus negative [CS+ gen]; picture of FACE associated with shock, presented in different colour"},
+        "GenPCSnegH":{"Description": "generalisation test, conditioned stimulus negative [CS+ gen]; picture of HOUSE associated with shock, presented in different colour"},
+        "GenPCSminF":{"Description": "generalisation test, conditioned stimulus safe [CS- gen]; picture of FACE never followed by shock, presented in different colour"},
+        "GenPCSminH":{"Description": "generalisation test, conditioned stimulus safe [CS- gen]; picture of HOUSE never followed by shock, presented in different colour"}
+        },
+    "onset": {
+        "Description": "onset of the stimulus",
+        "Unit": "seconds"
+    },
+    "duration": {
+        "Description": "duration of the stimulus",
+        "Unit": "seconds"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "participants.json": "a66d4cf4bea1f19ff86672a3c01ddb64df8c3f3f",
+  "dataset_description.json": "af25473e9e4f31772754b88ce56e4b0d42b2e51b",
+  "CHANGES": "78d3578af4fe226cd807270cf01a0575df3f74e9",
+  "participants.tsv": "9f729e3be421c8718f4c9797e03d3041ae50aebe",
+  "task-motion_events.json": "b022ff39ac7b0ab52196047530fc184936eada49",
+  "README": "909d88f41d6d0468e3c3bbe2d41e8187c36a99df",
+  "sub-001/eeg/sub-001_task-motion_run-13_events.tsv": "a093b982436aaed5bdf15de2f59525e75f3b1188",
+  "sub-001/eeg/sub-001_task-motion_run-4_events.tsv": "867b7f9a2c7d94243064262fb9eaa718683f5c39",
+  "sub-001/eeg/sub-001_task-motion_run-10_events.tsv": "727ce5fb90b4a102c98f40a26d74bbeec22600b0",
+  "sub-001/eeg/sub-001_task-motion_run-11_events.tsv": "e89aa27cab89121880377d081ba2b66a7e8c39f4",
+  "sub-001/eeg/sub-001_task-motion_run-5_events.tsv": "ec3fdd839c9d15fcee9c0950a4a0454f03d6d195",
+  "sub-001/eeg/sub-001_task-motion_run-14_events.tsv": "8e2df903af2877cee72e7c9ed0813c91d3778711",
+  "sub-001/eeg/sub-001_task-motion_run-12_events.tsv": "26e8f469c6648805cf59ffb7cc3e646c0219d00b",
+  "sub-001/eeg/sub-001_task-motion_run-3_events.tsv": "a8f0b7a2a8548a082d228ce56c8b5e46c4c4d7fa",
+  "sub-001/eeg/sub-001_task-motion_run-1_events.tsv": "4ccf52bc8495b27ff4facf6c4e9c6a237bdfa031",
+  "sub-001/eeg/sub-001_task-motion_run-2_events.tsv": "34c41ab301685284c916ac22142ab85d1e8f167f",
+  "sub-001/eeg/sub-001_task-motion_run-8_events.tsv": "ae904d3a288a488cf4e80862eb8a325808a6dfe3",
+  "sub-001/eeg/sub-001_task-motion_run-6_events.tsv": "dee980f0fea49f0e8e415fe05a40c9181d719482",
+  "sub-001/eeg/sub-001_task-motion_run-7_events.tsv": "d4921fda36f24473538a2a1b93f5241977ce000b",
+  "sub-001/eeg/sub-001_task-motion_run-9_events.tsv": "9580cc539c8ef39a5af93311a3658e1d2e09093d"
+}

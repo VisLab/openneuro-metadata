@@ -1,0 +1,29 @@
+{
+    "Name": "The interplay of central insulin and menstrual cycle on functional brain networks and neural food cue reactivity in women",
+    "BIDSVersion": "v1.9.0",
+    "License": "CC0",
+    "Authors": [
+        "Julia Hummel",
+        "Sixiu Zhao",
+        "Sarah Sobotta",
+        "Ralf Veit",
+        "Leontine Sandforth",
+        "Andreas L. Birkenfeld",
+        "Andreas Fritsche",
+        "Robert Wagner",
+        "Andreas Peter",
+        "Hubert Preissl",
+        "Martin Heni",
+        "Stephanie Kullmann"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetType": "raw",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006893.v1.0.3"
+}

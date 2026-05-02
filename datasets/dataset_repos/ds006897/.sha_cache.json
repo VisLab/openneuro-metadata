@@ -1,0 +1,8 @@
+{
+  "dataset_description.json": "70d78367ca796125fddb92152a9f6a45790b774b",
+  "participants.tsv": "9b47239e3663de15bafdd4b0a61ced2ac8b2483d",
+  "CHANGES": "f99a7b8197a44be62c3068dbc08a532af0ad12e1",
+  "README.md": "0d902112d244f9e1d91f98565cbc092f380ffb08",
+  "datacite.yml": "cb2ae3f7828dcc4961a9d63165b31b822159702e",
+  "sub-012/eeg/sub-012_task-eegsvr_events.tsv": "eb4f069ffd778e380963050dbd1bc11aee29d52c"
+}

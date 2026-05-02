@@ -1,0 +1,11 @@
+Comments added by OpenNeuro Curators
+==================================
+  
+Known Issues
+------------
+N/A
+      
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure deindentification of subjects. The code 
+can be found at https://github.com/poldracklab/pydeface 

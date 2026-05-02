@@ -1,0 +1,32 @@
+1.2.4 2023-03-12
+  - Small corrections in readme
+1.2.3 2023-03-12
+  - Updated article reference
+1.2.2 2023-02-24
+  - updated article in which this dataset is used
+1.2.1 2023-02-23
+  - updated acknowledgements in readme
+1.2.0 2022-11-18
+  - Removed a run with incorrect onsets, one with rhythmic activity and one with excessive noise
+  - Removed trials with artifacts from events files
+1.1.1 2022-11-03
+  - Removed false trial (sub-ccepAgeUMCU07 run-021752)
+1.1.0 2022-11-03
+  - Corrected type on depth electrodes
+  - Removed runs with only depth electrodes or with excessive artifacts
+  - Corrected and removed trials & stim-pairs with artifacts in events files
+  - Marked some additional channels as bad
+  - Updated ccepData_*.mat accordingly and added ccepAverage.mat
+1.0.3 2022-10-13
+  - Corrected the electrode names and channel names in run-011648 for sub-ccepAgeUMCU04 to match the other two runs
+  - Marked some channels on frontal lesion as bad (excluded) in sub-ccepAgeUMCU52
+  - Updated N1 detection to exclude bad stimulation electrodes
+  - Included distances between the native electrode positions
+1.0.2 2022-10-05
+  - Updated the essential information files (ccepData_*.mat)
+  - Removed ... entries from _channels.tsv in sub-ccepAgeUMCU57
+  - Added Yeh atlas files as sourcedata
+1.0.1 2022-10-03
+  - removed other stimuli than SPES from events file of subject 1
+1.0.0 2022-09-29
+  - initial upload (also resolving warning for bids compatibility

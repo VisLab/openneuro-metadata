@@ -1,0 +1,304 @@
+onset	duration	trial_type	modality	stimulus	word	operation	recalled	rt
+1	10000	Volume1	n/a	n/a	n/a	n/a	NaN	NaN
+10001	10000	Volume2	n/a	n/a	n/a	n/a	NaN	NaN
+20001	10000	Volume3	n/a	n/a	n/a	n/a	NaN	NaN
+30001	10000	Volume4	n/a	n/a	n/a	n/a	NaN	NaN
+35380	15000	Stimulus Onset	Visual	BIKE	PEAR	retrieval	1	1.90968468135316
+40001	10000	Volume5	n/a	n/a	n/a	n/a	NaN	NaN
+50001	10000	Volume6	n/a	n/a	n/a	n/a	NaN	NaN
+60001	10000	Volume7	n/a	n/a	n/a	n/a	NaN	NaN
+70001	10000	Volume8	n/a	n/a	n/a	n/a	NaN	NaN
+80001	10000	Volume9	n/a	n/a	n/a	n/a	NaN	NaN
+85533	15000	Stimulus Onset	Visual	WATERMILL	TORNADO	retrieval	0	NaN
+90001	10000	Volume10	n/a	n/a	n/a	n/a	NaN	NaN
+100001	10000	Volume11	n/a	n/a	n/a	n/a	NaN	NaN
+110001	10000	Volume12	n/a	n/a	n/a	n/a	NaN	NaN
+120001	10000	Volume13	n/a	n/a	n/a	n/a	NaN	NaN
+130001	10000	Volume14	n/a	n/a	n/a	n/a	NaN	NaN
+135593	15000	Stimulus Onset	Visual	UNDERWATER	CEREAL	retrieval	0	2.21936531787696
+140001	10000	Volume15	n/a	n/a	n/a	n/a	NaN	NaN
+150001	10000	Volume16	n/a	n/a	n/a	n/a	NaN	NaN
+160001	10000	Volume17	n/a	n/a	n/a	n/a	NaN	NaN
+170001	10000	Volume18	n/a	n/a	n/a	n/a	NaN	NaN
+180001	10000	Volume19	n/a	n/a	n/a	n/a	NaN	NaN
+185742	15000	Stimulus Onset	Visual	FARM	PIG	retrieval	1	2.55424071749258
+190001	10000	Volume20	n/a	n/a	n/a	n/a	NaN	NaN
+200001	10000	Volume21	n/a	n/a	n/a	n/a	NaN	NaN
+210001	10000	Volume22	n/a	n/a	n/a	n/a	NaN	NaN
+220001	10000	Volume23	n/a	n/a	n/a	n/a	NaN	NaN
+230001	10000	Volume24	n/a	n/a	n/a	n/a	NaN	NaN
+235808	15000	Stimulus Onset	Visual	UNDERWATER	STOMACH	retrieval	1	2.00856990809461
+240001	10000	Volume25	n/a	n/a	n/a	n/a	NaN	NaN
+250001	10000	Volume26	n/a	n/a	n/a	n/a	NaN	NaN
+260001	10000	Volume27	n/a	n/a	n/a	n/a	NaN	NaN
+270001	10000	Volume28	n/a	n/a	n/a	n/a	NaN	NaN
+280001	10000	Volume29	n/a	n/a	n/a	n/a	NaN	NaN
+285958	15000	Stimulus Onset	Visual	UNDERWATER	CORKSCREW	retrieval	1	1.01227937942667
+290001	10000	Volume30	n/a	n/a	n/a	n/a	NaN	NaN
+300001	10000	Volume31	n/a	n/a	n/a	n/a	NaN	NaN
+310001	10000	Volume32	n/a	n/a	n/a	n/a	NaN	NaN
+320001	10000	Volume33	n/a	n/a	n/a	n/a	NaN	NaN
+330001	10000	Volume34	n/a	n/a	n/a	n/a	NaN	NaN
+336034	15000	Stimulus Onset	Visual	FARM	TOMATO	retrieval	1	1.57085893172416
+340001	10000	Volume35	n/a	n/a	n/a	n/a	NaN	NaN
+350001	10000	Volume36	n/a	n/a	n/a	n/a	NaN	NaN
+360001	10000	Volume37	n/a	n/a	n/a	n/a	NaN	NaN
+370001	10000	Volume38	n/a	n/a	n/a	n/a	NaN	NaN
+380001	10000	Volume39	n/a	n/a	n/a	n/a	NaN	NaN
+386173	15000	Stimulus Onset	Visual	BIKE	BELLY	retrieval	1	1.26447302053111
+390001	10000	Volume40	n/a	n/a	n/a	n/a	NaN	NaN
+400001	10000	Volume41	n/a	n/a	n/a	n/a	NaN	NaN
+410001	10000	Volume42	n/a	n/a	n/a	n/a	NaN	NaN
+420001	10000	Volume43	n/a	n/a	n/a	n/a	NaN	NaN
+430001	10000	Volume44	n/a	n/a	n/a	n/a	NaN	NaN
+436239	15000	Stimulus Onset	Visual	WATERMILL	CASKET	retrieval	1	1.61481778191774
+440001	10000	Volume45	n/a	n/a	n/a	n/a	NaN	NaN
+450001	10000	Volume46	n/a	n/a	n/a	n/a	NaN	NaN
+460001	10000	Volume47	n/a	n/a	n/a	n/a	NaN	NaN
+470001	10000	Volume48	n/a	n/a	n/a	n/a	NaN	NaN
+480001	10000	Volume49	n/a	n/a	n/a	n/a	NaN	NaN
+486305	15000	Stimulus Onset	Visual	FARM	SNOW	retrieval	1	1.35924217997035
+490001	10000	Volume50	n/a	n/a	n/a	n/a	NaN	NaN
+500001	10000	Volume51	n/a	n/a	n/a	n/a	NaN	NaN
+510001	10000	Volume52	n/a	n/a	n/a	n/a	NaN	NaN
+520001	10000	Volume53	n/a	n/a	n/a	n/a	NaN	NaN
+530001	10000	Volume54	n/a	n/a	n/a	n/a	NaN	NaN
+536454	15000	Stimulus Onset	Visual	FARM	BREAD	retrieval	0	2.37898940224386
+540001	10000	Volume55	n/a	n/a	n/a	n/a	NaN	NaN
+550001	10000	Volume56	n/a	n/a	n/a	n/a	NaN	NaN
+560001	10000	Volume57	n/a	n/a	n/a	n/a	NaN	NaN
+570001	10000	Volume58	n/a	n/a	n/a	n/a	NaN	NaN
+580001	10000	Volume59	n/a	n/a	n/a	n/a	NaN	NaN
+586535	15000	Stimulus Onset	Visual	UNDERWATER	MATTRESS	retrieval	0	NaN
+590001	10000	Volume60	n/a	n/a	n/a	n/a	NaN	NaN
+600001	10000	Volume61	n/a	n/a	n/a	n/a	NaN	NaN
+610001	10000	Volume62	n/a	n/a	n/a	n/a	NaN	NaN
+620001	10000	Volume63	n/a	n/a	n/a	n/a	NaN	NaN
+630001	10000	Volume64	n/a	n/a	n/a	n/a	NaN	NaN
+636604	15000	Stimulus Onset	Visual	WATERMILL	WIG	retrieval	0	NaN
+640001	10000	Volume65	n/a	n/a	n/a	n/a	NaN	NaN
+650001	10000	Volume66	n/a	n/a	n/a	n/a	NaN	NaN
+660001	10000	Volume67	n/a	n/a	n/a	n/a	NaN	NaN
+670001	10000	Volume68	n/a	n/a	n/a	n/a	NaN	NaN
+680001	10000	Volume69	n/a	n/a	n/a	n/a	NaN	NaN
+686736	15000	Stimulus Onset	Visual	WATERMILL	LIMOUSINE	retrieval	1	1.8088289583261
+690001	10000	Volume70	n/a	n/a	n/a	n/a	NaN	NaN
+700001	10000	Volume71	n/a	n/a	n/a	n/a	NaN	NaN
+710001	10000	Volume72	n/a	n/a	n/a	n/a	NaN	NaN
+720001	10000	Volume73	n/a	n/a	n/a	n/a	NaN	NaN
+730001	10000	Volume74	n/a	n/a	n/a	n/a	NaN	NaN
+736885	15000	Stimulus Onset	Visual	WATERMILL	TEETH	retrieval	1	1.96728275867054
+740001	10000	Volume75	n/a	n/a	n/a	n/a	NaN	NaN
+750001	10000	Volume76	n/a	n/a	n/a	n/a	NaN	NaN
+760001	10000	Volume77	n/a	n/a	n/a	n/a	NaN	NaN
+770001	10000	Volume78	n/a	n/a	n/a	n/a	NaN	NaN
+780001	10000	Volume79	n/a	n/a	n/a	n/a	NaN	NaN
+786960	15000	Stimulus Onset	Visual	FARM	NOSE	retrieval	1	1.51161485008015
+790001	10000	Volume80	n/a	n/a	n/a	n/a	NaN	NaN
+800001	10000	Volume81	n/a	n/a	n/a	n/a	NaN	NaN
+810001	10000	Volume82	n/a	n/a	n/a	n/a	NaN	NaN
+820001	10000	Volume83	n/a	n/a	n/a	n/a	NaN	NaN
+830001	10000	Volume84	n/a	n/a	n/a	n/a	NaN	NaN
+837100	15000	Stimulus Onset	Visual	UNDERWATER	NECKLACE	retrieval	1	0.87839218611316
+840001	10000	Volume85	n/a	n/a	n/a	n/a	NaN	NaN
+850001	10000	Volume86	n/a	n/a	n/a	n/a	NaN	NaN
+860001	10000	Volume87	n/a	n/a	n/a	n/a	NaN	NaN
+870001	10000	Volume88	n/a	n/a	n/a	n/a	NaN	NaN
+880001	10000	Volume89	n/a	n/a	n/a	n/a	NaN	NaN
+887166	15000	Stimulus Onset	Visual	FARM	TELEPHONE	retrieval	1	1.54772823934309
+890001	10000	Volume90	n/a	n/a	n/a	n/a	NaN	NaN
+900001	10000	Volume91	n/a	n/a	n/a	n/a	NaN	NaN
+910001	10000	Volume92	n/a	n/a	n/a	n/a	NaN	NaN
+920001	10000	Volume93	n/a	n/a	n/a	n/a	NaN	NaN
+930001	10000	Volume94	n/a	n/a	n/a	n/a	NaN	NaN
+937315	15000	Stimulus Onset	Visual	FARM	STONE	retrieval	0	NaN
+940001	10000	Volume95	n/a	n/a	n/a	n/a	NaN	NaN
+950001	10000	Volume96	n/a	n/a	n/a	n/a	NaN	NaN
+960001	10000	Volume97	n/a	n/a	n/a	n/a	NaN	NaN
+970001	10000	Volume98	n/a	n/a	n/a	n/a	NaN	NaN
+980001	10000	Volume99	n/a	n/a	n/a	n/a	NaN	NaN
+987381	15000	Stimulus Onset	Visual	FARM	NIGHTGOWN	retrieval	1	0.889953457288357
+990001	10000	Volume100	n/a	n/a	n/a	n/a	NaN	NaN
+1000001	10000	Volume101	n/a	n/a	n/a	n/a	NaN	NaN
+1010001	10000	Volume102	n/a	n/a	n/a	n/a	NaN	NaN
+1020001	10000	Volume103	n/a	n/a	n/a	n/a	NaN	NaN
+1030001	10000	Volume104	n/a	n/a	n/a	n/a	NaN	NaN
+1037465	15000	Stimulus Onset	Visual	WATERMILL	BLOUSE	retrieval	0	2.94931677086151
+1040001	10000	Volume105	n/a	n/a	n/a	n/a	NaN	NaN
+1050001	10000	Volume106	n/a	n/a	n/a	n/a	NaN	NaN
+1060001	10000	Volume107	n/a	n/a	n/a	n/a	NaN	NaN
+1070001	10000	Volume108	n/a	n/a	n/a	n/a	NaN	NaN
+1080001	10000	Volume109	n/a	n/a	n/a	n/a	NaN	NaN
+1087597	15000	Stimulus Onset	Visual	BIKE	MALLET	retrieval	1	1.20301001759526
+1090001	10000	Volume110	n/a	n/a	n/a	n/a	NaN	NaN
+1100001	10000	Volume111	n/a	n/a	n/a	n/a	NaN	NaN
+1110001	10000	Volume112	n/a	n/a	n/a	n/a	NaN	NaN
+1120001	10000	Volume113	n/a	n/a	n/a	n/a	NaN	NaN
+1130001	10000	Volume114	n/a	n/a	n/a	n/a	NaN	NaN
+1137746	15000	Stimulus Onset	Visual	BIKE	COLLAR	retrieval	1	0.814779386218106
+1140001	10000	Volume115	n/a	n/a	n/a	n/a	NaN	NaN
+1150001	10000	Volume116	n/a	n/a	n/a	n/a	NaN	NaN
+1160001	10000	Volume117	n/a	n/a	n/a	n/a	NaN	NaN
+1170001	10000	Volume118	n/a	n/a	n/a	n/a	NaN	NaN
+1180001	10000	Volume119	n/a	n/a	n/a	n/a	NaN	NaN
+1187895	15000	Stimulus Onset	Visual	FARM	CANCER	retrieval	0	1.36756728529417
+1190001	10000	Volume120	n/a	n/a	n/a	n/a	NaN	NaN
+1200001	10000	Volume121	n/a	n/a	n/a	n/a	NaN	NaN
+1210001	10000	Volume122	n/a	n/a	n/a	n/a	NaN	NaN
+1220001	10000	Volume123	n/a	n/a	n/a	n/a	NaN	NaN
+1230001	10000	Volume124	n/a	n/a	n/a	n/a	NaN	NaN
+1237961	15000	Stimulus Onset	Visual	WATERMILL	SHEEP	retrieval	0	1.38296420234883
+1240001	10000	Volume125	n/a	n/a	n/a	n/a	NaN	NaN
+1250001	10000	Volume126	n/a	n/a	n/a	n/a	NaN	NaN
+1260001	10000	Volume127	n/a	n/a	n/a	n/a	NaN	NaN
+1270001	10000	Volume128	n/a	n/a	n/a	n/a	NaN	NaN
+1280001	10000	Volume129	n/a	n/a	n/a	n/a	NaN	NaN
+1288110	15000	Stimulus Onset	Visual	FARM	SLEIGH	retrieval	1	1.14080234334506
+1290001	10000	Volume130	n/a	n/a	n/a	n/a	NaN	NaN
+1300001	10000	Volume131	n/a	n/a	n/a	n/a	NaN	NaN
+1310001	10000	Volume132	n/a	n/a	n/a	n/a	NaN	NaN
+1320001	10000	Volume133	n/a	n/a	n/a	n/a	NaN	NaN
+1330001	10000	Volume134	n/a	n/a	n/a	n/a	NaN	NaN
+1338176	15000	Stimulus Onset	Visual	BIKE	BULLDOG	retrieval	1	0.985015414122699
+1340001	10000	Volume135	n/a	n/a	n/a	n/a	NaN	NaN
+1350001	10000	Volume136	n/a	n/a	n/a	n/a	NaN	NaN
+1360001	10000	Volume137	n/a	n/a	n/a	n/a	NaN	NaN
+1370001	10000	Volume138	n/a	n/a	n/a	n/a	NaN	NaN
+1380001	10000	Volume139	n/a	n/a	n/a	n/a	NaN	NaN
+1388325	15000	Stimulus Onset	Visual	UNDERWATER	ROCKET	retrieval	1	2.11975654953039
+1390001	10000	Volume140	n/a	n/a	n/a	n/a	NaN	NaN
+1400001	10000	Volume141	n/a	n/a	n/a	n/a	NaN	NaN
+1410001	10000	Volume142	n/a	n/a	n/a	n/a	NaN	NaN
+1420001	10000	Volume143	n/a	n/a	n/a	n/a	NaN	NaN
+1430001	10000	Volume144	n/a	n/a	n/a	n/a	NaN	NaN
+1438474	15000	Stimulus Onset	Visual	BIKE	FIREWOOD	retrieval	1	1.57253632876154
+1440001	10000	Volume145	n/a	n/a	n/a	n/a	NaN	NaN
+1450001	10000	Volume146	n/a	n/a	n/a	n/a	NaN	NaN
+1460001	10000	Volume147	n/a	n/a	n/a	n/a	NaN	NaN
+1470001	10000	Volume148	n/a	n/a	n/a	n/a	NaN	NaN
+1480001	10000	Volume149	n/a	n/a	n/a	n/a	NaN	NaN
+1488543	15000	Stimulus Onset	Visual	FARM	OWL	retrieval	1	1.03988534416249
+1490001	10000	Volume150	n/a	n/a	n/a	n/a	NaN	NaN
+1500001	10000	Volume151	n/a	n/a	n/a	n/a	NaN	NaN
+1510001	10000	Volume152	n/a	n/a	n/a	n/a	NaN	NaN
+1520001	10000	Volume153	n/a	n/a	n/a	n/a	NaN	NaN
+1530001	10000	Volume154	n/a	n/a	n/a	n/a	NaN	NaN
+1538690	15000	Stimulus Onset	Visual	WATERMILL	GOAT	retrieval	1	2.3567054074847
+1540001	10000	Volume155	n/a	n/a	n/a	n/a	NaN	NaN
+1550001	10000	Volume156	n/a	n/a	n/a	n/a	NaN	NaN
+1560001	10000	Volume157	n/a	n/a	n/a	n/a	NaN	NaN
+1570001	10000	Volume158	n/a	n/a	n/a	n/a	NaN	NaN
+1580001	10000	Volume159	n/a	n/a	n/a	n/a	NaN	NaN
+1588839	15000	Stimulus Onset	Visual	WATERMILL	THUMB	retrieval	0	NaN
+1590001	10000	Volume160	n/a	n/a	n/a	n/a	NaN	NaN
+1600001	10000	Volume161	n/a	n/a	n/a	n/a	NaN	NaN
+1610001	10000	Volume162	n/a	n/a	n/a	n/a	NaN	NaN
+1620001	10000	Volume163	n/a	n/a	n/a	n/a	NaN	NaN
+1630001	10000	Volume164	n/a	n/a	n/a	n/a	NaN	NaN
+1638988	15000	Stimulus Onset	Visual	BIKE	BALL	retrieval	1	1.69909362604221
+1640001	10000	Volume165	n/a	n/a	n/a	n/a	NaN	NaN
+1650001	10000	Volume166	n/a	n/a	n/a	n/a	NaN	NaN
+1660001	10000	Volume167	n/a	n/a	n/a	n/a	NaN	NaN
+1670001	10000	Volume168	n/a	n/a	n/a	n/a	NaN	NaN
+1680001	10000	Volume169	n/a	n/a	n/a	n/a	NaN	NaN
+1689138	15000	Stimulus Onset	Visual	WATERMILL	CLARINET	retrieval	0	NaN
+1690001	10000	Volume170	n/a	n/a	n/a	n/a	NaN	NaN
+1700001	10000	Volume171	n/a	n/a	n/a	n/a	NaN	NaN
+1710001	10000	Volume172	n/a	n/a	n/a	n/a	NaN	NaN
+1720001	10000	Volume173	n/a	n/a	n/a	n/a	NaN	NaN
+1730001	10000	Volume174	n/a	n/a	n/a	n/a	NaN	NaN
+1739211	15000	Stimulus Onset	Visual	BIKE	SHIP	retrieval	1	0.729284659740642
+1740001	10000	Volume175	n/a	n/a	n/a	n/a	NaN	NaN
+1750001	10000	Volume176	n/a	n/a	n/a	n/a	NaN	NaN
+1760001	10000	Volume177	n/a	n/a	n/a	n/a	NaN	NaN
+1770001	10000	Volume178	n/a	n/a	n/a	n/a	NaN	NaN
+1780001	10000	Volume179	n/a	n/a	n/a	n/a	NaN	NaN
+1789353	15000	Stimulus Onset	Visual	BIKE	JAW	retrieval	0	NaN
+1790001	10000	Volume180	n/a	n/a	n/a	n/a	NaN	NaN
+1800001	10000	Volume181	n/a	n/a	n/a	n/a	NaN	NaN
+1810001	10000	Volume182	n/a	n/a	n/a	n/a	NaN	NaN
+1820001	10000	Volume183	n/a	n/a	n/a	n/a	NaN	NaN
+1830001	10000	Volume184	n/a	n/a	n/a	n/a	NaN	NaN
+1839419	15000	Stimulus Onset	Visual	UNDERWATER	JACKET	retrieval	0	2.86529357768541
+1840001	10000	Volume185	n/a	n/a	n/a	n/a	NaN	NaN
+1850001	10000	Volume186	n/a	n/a	n/a	n/a	NaN	NaN
+1860001	10000	Volume187	n/a	n/a	n/a	n/a	NaN	NaN
+1870001	10000	Volume188	n/a	n/a	n/a	n/a	NaN	NaN
+1880001	10000	Volume189	n/a	n/a	n/a	n/a	NaN	NaN
+1889485	15000	Stimulus Onset	Visual	UNDERWATER	BRA	retrieval	1	0.75076270702948
+1890001	10000	Volume190	n/a	n/a	n/a	n/a	NaN	NaN
+1900001	10000	Volume191	n/a	n/a	n/a	n/a	NaN	NaN
+1910001	10000	Volume192	n/a	n/a	n/a	n/a	NaN	NaN
+1920001	10000	Volume193	n/a	n/a	n/a	n/a	NaN	NaN
+1930001	10000	Volume194	n/a	n/a	n/a	n/a	NaN	NaN
+1939551	15000	Stimulus Onset	Visual	BIKE	PHONE	retrieval	1	2.63011659675249
+1940001	10000	Volume195	n/a	n/a	n/a	n/a	NaN	NaN
+1950001	10000	Volume196	n/a	n/a	n/a	n/a	NaN	NaN
+1960001	10000	Volume197	n/a	n/a	n/a	n/a	NaN	NaN
+1970001	10000	Volume198	n/a	n/a	n/a	n/a	NaN	NaN
+1980001	10000	Volume199	n/a	n/a	n/a	n/a	NaN	NaN
+1989617	15000	Stimulus Onset	Visual	WATERMILL	LIQUOR	retrieval	1	1.08354203951785
+1990001	10000	Volume200	n/a	n/a	n/a	n/a	NaN	NaN
+2000001	10000	Volume201	n/a	n/a	n/a	n/a	NaN	NaN
+2010001	10000	Volume202	n/a	n/a	n/a	n/a	NaN	NaN
+2020001	10000	Volume203	n/a	n/a	n/a	n/a	NaN	NaN
+2030001	10000	Volume204	n/a	n/a	n/a	n/a	NaN	NaN
+2039686	15000	Stimulus Onset	Visual	UNDERWATER	OX	retrieval	1	1.42611951989693
+2040001	10000	Volume205	n/a	n/a	n/a	n/a	NaN	NaN
+2050001	10000	Volume206	n/a	n/a	n/a	n/a	NaN	NaN
+2060001	10000	Volume207	n/a	n/a	n/a	n/a	NaN	NaN
+2070001	10000	Volume208	n/a	n/a	n/a	n/a	NaN	NaN
+2080001	10000	Volume209	n/a	n/a	n/a	n/a	NaN	NaN
+2089832	15000	Stimulus Onset	Visual	UNDERWATER	CATFISH	retrieval	1	1.33880884586233
+2090001	10000	Volume210	n/a	n/a	n/a	n/a	NaN	NaN
+2100001	10000	Volume211	n/a	n/a	n/a	n/a	NaN	NaN
+2110001	10000	Volume212	n/a	n/a	n/a	n/a	NaN	NaN
+2120001	10000	Volume213	n/a	n/a	n/a	n/a	NaN	NaN
+2130001	10000	Volume214	n/a	n/a	n/a	n/a	NaN	NaN
+2139898	15000	Stimulus Onset	Visual	UNDERWATER	CLOWN	retrieval	1	0.936114626859762
+2140001	10000	Volume215	n/a	n/a	n/a	n/a	NaN	NaN
+2150001	10000	Volume216	n/a	n/a	n/a	n/a	NaN	NaN
+2160001	10000	Volume217	n/a	n/a	n/a	n/a	NaN	NaN
+2170001	10000	Volume218	n/a	n/a	n/a	n/a	NaN	NaN
+2180001	10000	Volume219	n/a	n/a	n/a	n/a	NaN	NaN
+2189964	15000	Stimulus Onset	Visual	BIKE	GLASS	retrieval	1	1.11143204791233
+2190001	10000	Volume220	n/a	n/a	n/a	n/a	NaN	NaN
+2200001	10000	Volume221	n/a	n/a	n/a	n/a	NaN	NaN
+2210001	10000	Volume222	n/a	n/a	n/a	n/a	NaN	NaN
+2220001	10000	Volume223	n/a	n/a	n/a	n/a	NaN	NaN
+2230001	10000	Volume224	n/a	n/a	n/a	n/a	NaN	NaN
+2240001	10000	Volume225	n/a	n/a	n/a	n/a	NaN	NaN
+2240030	15000	Stimulus Onset	Visual	BIKE	TAIL	retrieval	1	1.15704324134549
+2250001	10000	Volume226	n/a	n/a	n/a	n/a	NaN	NaN
+2260001	10000	Volume227	n/a	n/a	n/a	n/a	NaN	NaN
+2270001	10000	Volume228	n/a	n/a	n/a	n/a	NaN	NaN
+2280001	10000	Volume229	n/a	n/a	n/a	n/a	NaN	NaN
+2290001	10000	Volume230	n/a	n/a	n/a	n/a	NaN	NaN
+2290113	15000	Stimulus Onset	Visual	FARM	SOFA	retrieval	1	1.70539118486658
+2300001	10000	Volume231	n/a	n/a	n/a	n/a	NaN	NaN
+2310001	10000	Volume232	n/a	n/a	n/a	n/a	NaN	NaN
+2320001	10000	Volume233	n/a	n/a	n/a	n/a	NaN	NaN
+2330001	10000	Volume234	n/a	n/a	n/a	n/a	NaN	NaN
+2340001	10000	Volume235	n/a	n/a	n/a	n/a	NaN	NaN
+2340245	15000	Stimulus Onset	Visual	WATERMILL	PIE	retrieval	1	1.77794336090938
+2350001	10000	Volume236	n/a	n/a	n/a	n/a	NaN	NaN
+2360001	10000	Volume237	n/a	n/a	n/a	n/a	NaN	NaN
+2370001	10000	Volume238	n/a	n/a	n/a	n/a	NaN	NaN
+2380001	10000	Volume239	n/a	n/a	n/a	n/a	NaN	NaN
+2390001	10000	Volume240	n/a	n/a	n/a	n/a	NaN	NaN
+2390311	15000	Stimulus Onset	Visual	UNDERWATER	LION	retrieval	0	NaN
+2400001	10000	Volume241	n/a	n/a	n/a	n/a	NaN	NaN
+2410001	10000	Volume242	n/a	n/a	n/a	n/a	NaN	NaN
+2420001	10000	Volume243	n/a	n/a	n/a	n/a	NaN	NaN
+2430001	10000	Volume244	n/a	n/a	n/a	n/a	NaN	NaN
+2440001	10000	Volume245	n/a	n/a	n/a	n/a	NaN	NaN
+2450001	10000	Volume246	n/a	n/a	n/a	n/a	NaN	NaN
+2460001	10000	Volume247	n/a	n/a	n/a	n/a	NaN	NaN
+2470001	10000	Volume248	n/a	n/a	n/a	n/a	NaN	NaN
+2480001	10000	Volume249	n/a	n/a	n/a	n/a	NaN	NaN
+2490001	10000	Volume250	n/a	n/a	n/a	n/a	NaN	NaN
+2500001	10000	Volume251	n/a	n/a	n/a	n/a	NaN	NaN
+2510001	10000	Volume252	n/a	n/a	n/a	n/a	NaN	NaN
+2520001	10000	Volume253	n/a	n/a	n/a	n/a	NaN	NaN
+2530001	10000	Volume254	n/a	n/a	n/a	n/a	NaN	NaN
+2540001	10000	Volume255	n/a	n/a	n/a	n/a	NaN	NaN

@@ -1,0 +1,14 @@
+{
+  "CHANGES": "f942f06ab333b1329683e51a1f93ff987794f373",
+  "task-beads_events.json": "d8ae953ad230fc004f7dad3b609a1c171751f111",
+  "participants.tsv": "1a7e878e42ba1c7f53dca4fa89519bc958dcc6df",
+  "dataset_description.json": "08b7da88d0ddd399404f3b4fe35c9a480aaa9e62",
+  "README": "02fcd3bc8e79d8e3dedd77bcf71f8b27a7da7690",
+  "T1w.json": "306aedddab5f520afaf6dbe325ba88e207092ba7",
+  "phasediff.json": "d1bca824341d6d8009508a56720791b75b971ea2",
+  "task-beads_bold.json": "8732ff6f333b2ec4229e0ef5e92d0e805b9900f3",
+  "sub-BA3550/func/sub-BA3550_task-beads_run-2_events.tsv": "ad4c18719cb1da20ce58a1d11b58ab74192fdb9f",
+  "sub-BA3550/func/sub-BA3550_task-beads_run-4_events.tsv": "d3d425449bd8c2ba6f5158ce4d00b44fcedbe75c",
+  "sub-BA3550/func/sub-BA3550_task-beads_run-1_events.tsv": "1344be16d2e437968fa864def13c075faecc10f4",
+  "sub-BA3550/func/sub-BA3550_task-beads_run-3_events.tsv": "a652451bc2d53bd802e09228cba63ea08300ec6c"
+}

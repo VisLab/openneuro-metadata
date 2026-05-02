@@ -1,0 +1,13 @@
+{
+    "trial_type": {
+        "Description": "Description for trial_type",
+        "HED": {
+            "easy": "(Label/trial_type, ID/easy)",
+            "hard": "(Label/trial_type, ID/hard)"
+        },
+        "Levels": {
+            "easy": "Here describe column value easy of column trial_type",
+            "hard": "Here describe column value hard of column trial_type"
+        }
+    }
+}

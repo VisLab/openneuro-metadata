@@ -1,0 +1,22 @@
+{
+    "Name": "Morphological Awareness in Readers With and Without Dyslexia",
+    "BIDSVersion": "1.8.0",
+    "License": "CC0",
+    "Authors": [
+        "Rebecca Marks",
+        "Erin Dickinson",
+        "Alex Kaminsky",
+        "Joanna Christodoulou",
+        "John Gabrieli"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "R01HD106122 (NICHD)",
+        "F32HD100967 (NICHD)"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006636.v1.0.0"
+}

@@ -1,0 +1,9 @@
+{
+  "participants.tsv": "d5ffacda08b57b6c2ed2c8394bd19f56f3419b92",
+  "README": "abe218f7d093e3c837c593849db64a5ff296d9b1",
+  "dataset_description.json": "581b7ed6c255bd225fb6b8ec51a257b8bc48dc75",
+  "participants.json": "15abcf37cccd6f77fc8086c9029bd1cde0504592",
+  "CHANGES": "a143de6caf54451c985ac622625e3912321b56e7",
+  "sub-001/eeg/sub-001_task-MovieMemory_events.json": "45a4d5b8017f992c11b163f681e9471a59675379",
+  "sub-001/eeg/sub-001_task-MovieMemory_events.tsv": "7cb3e89fb41642c6d183cc2dc15fa83b85e2794c"
+}

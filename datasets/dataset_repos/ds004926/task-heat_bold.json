@@ -1,0 +1,7 @@
+{
+    "TaskName": "Heat Pain Task",
+    "TaskDescription": "Participants were subjected to 1-second heat pain stimuli at 48 degrees Celsius applied to one of five patches on the left inner forearm. The task aimed to investigate the reliability of one heat pain evoked BOLD responses at a TE of 40ms across two consecutive days, as well as understand the effects of different TEs on the spinal cord BOLD signal.",
+    "Instructions": "Participants were instructed to keep their gaze on a fixation cross, otherwise to just lie still.",
+    "StimulusDuration": 1,
+    "StimulusTemperatureDegreesCelsius": 48
+}

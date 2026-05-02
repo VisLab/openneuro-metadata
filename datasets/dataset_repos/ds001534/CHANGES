@@ -1,0 +1,6 @@
+1.1.0 2019-07-29
+  - Updated events.json and events.tsv files to include both presented calories and accurate calories, as calorie labels viewed during the scan slightly under- or over-reported calories for a subset of the stimuli.
+
+1.0.0	2019-07-23
+
+	- Initial snapshot

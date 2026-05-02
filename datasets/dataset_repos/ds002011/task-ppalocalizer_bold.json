@@ -1,0 +1,9 @@
+{
+    "TaskName": "PPA/LOC functional Localizer",
+    "Description": "Participants view short blocks of scrambled, scene or object images. The purpose of this task is to enable localization of scene and object-category selective visual cortex. These image types are labeled in the Type column for the events",
+    "RepetitionTime": 2.0,
+    "EchoTime": 0.25,
+    "FlipAngle": 90,
+    "InstitutionName": "University of Southern California"
+
+}

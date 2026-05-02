@@ -1,0 +1,24 @@
+{
+    "onset": {
+        "Description": "onset of event in seconds",
+        "Type": "object",
+        "Units": "seconds"
+    },
+    "duration": {
+        "Description": "duration of event in seconds",
+        "Type": "object",
+        "Units": "seconds"
+    },
+    "nEvent": {
+        "Description": "the number of the event",
+        "Type": "object"
+    },
+    "EventType": {
+        "Description": "type of event (FR - Fast Ripple or Other)",
+        "Type": "object"
+    },
+    "channel": {
+        "Description": "channel involved in the event",
+        "Type": "object"
+    }
+}

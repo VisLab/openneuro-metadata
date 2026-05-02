@@ -1,0 +1,8 @@
+{
+  "CHANGES": "3d8ff2dc03f1cd035902cf2a9c59a69146f8ed23",
+  "participants.json": "01a6d3d2bd1053f4602af3b675a27a89494f4bdd",
+  "dataset_description.json": "3151aeae48cb7fa91cc51d03d8a5f9f0339f559f",
+  "README": "d9ec78b4c75b6ff96695da67e2d46748446900a4",
+  "participants.tsv": "3d05108dab2996b8b879dc7376e23a3d7e9bc818",
+  "sub-FFE001/ses-01/eeg/sub-FFE001_ses-01_task-IG_run-01_events.tsv": "94214688d6fb3384bc5fa6ea46c9e7f1e17b3f85"
+}

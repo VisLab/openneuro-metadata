@@ -1,0 +1,35 @@
+{
+    "onset": {
+        "Description": "Detected movement/press onset",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Not applicable for discrete keypress events",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Type of event",
+        "Levels": {
+            "movement_start": "Onset of button press from start-button-referenced parsing",
+            "movement_done": "Response button press when there is no start-button reference"
+        }
+    },
+    "stim_file": {
+        "Description": "Task has no external stimulus; set to 'n/a'"
+    },
+    "response_type": {
+        "Description": "Which response button was pressed",
+        "Levels": {
+            "left_button": "Left-side button",
+            "right_button": "Right-side button"
+        }
+    },
+    "response_time": {
+        "Description": "Latency if defined by paradigm; 'n/a' in current script",
+        "Units": "s"
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "n/a",
+        "SoftwareName": "n/a"
+    }
+}

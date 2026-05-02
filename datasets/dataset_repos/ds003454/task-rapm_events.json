@@ -1,0 +1,37 @@
+{
+    "accuracy": {
+	"Description": "Whether or not the Choice response was correct.",
+	"Levels": {
+	    "0": "correct response",
+	    "1": "incorrect reponse"
+	}
+    },
+    
+    "block": {
+	"Description": "the run the event belongs to"
+    },
+
+    "num_rules": {
+	"Description" : "the number of feature rules (i.e., relations) that need to be considered to solve the problem"
+    },
+
+    "rules" : {
+	"Description": "A categorical description of the number of rules needed to solve the problem",
+	"Levels": {
+	    "Low": "Low number of rules (1 or 2)",
+	    "High": "High number of rules (3 or 4)"
+	}
+    },
+
+    "logic" : {
+	"Description" : "Whether any of the rules is a logical rule (AND, OR, XOR)"
+    },
+
+    "phase" : {
+	"Description": "Phase of the event within a trial",
+	"Levels": {
+	    "Problem": "RAPM problem presentation, self-paced, up to 30s",
+	    "Choice": "Presentation of the possible solutions, self-paced up to 4s"
+	}
+    }
+}

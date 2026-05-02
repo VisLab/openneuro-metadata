@@ -1,0 +1,40 @@
+{
+  "trial_type": {
+    "LongName": "Trial type",
+    "Levels": {
+      "1": "CSplus1 minus theta",
+      "2": "CSplus1",
+      "3": "CSplus1 plus theta",
+      "4": "CSminus",
+      "5": "CSplus2 minus theta",
+      "6": "CSplus2",
+      "7": "CSplus2 plus theta"
+    }
+  },
+
+  "response": {
+    "LongName": "Participant response (avoid or not)",
+    "Levels": {
+      "0": "no avoid",
+      "1": "avoid"
+    }
+  },
+
+  "response_time": {
+    "LongName": "Reaction time (if avoided)"
+  },
+
+  "outcome": {
+    "LongName": "Trial outcome (pain or no pain)",
+    "Levels": {
+      "0": "no shock",
+      "1": "shock"
+    }
+  },
+
+  "outcome_time": {
+    "LongName": "Time of shock (if received)"
+  }
+
+
+}

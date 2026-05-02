@@ -1,0 +1,12 @@
+{
+    "Name": "FRESH Audio Dataset",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Robert Luke",
+        "Maureen Shader",
+        "David McAlpine"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005964.v1.0.0",
+    "License": "CC0"
+}

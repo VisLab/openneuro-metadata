@@ -1,0 +1,31 @@
+{
+    "trial_type": {
+        "Description": "Trial type",
+        "Levels": {
+            "CET": "Presentation of a target decision",
+            "dummy": "Presentation of a dummy decision"
+        }
+    },
+    "trial_code": {
+        "Description": "Trial code (unique identifier). In target trials, the trial code starts with `m` or `c`. If it starts with `m`, monetary bonus was presented on the left and CO2 emission on the right of the screen. If if starts with `c`, CO2 emission was presented on the left and monetary bonus on the right of the screen. In the dummy trials, the trial code starts with `dl` or `dr`. If it starts with `dl`, the participant was asked to select the option on the left of the screen. If it starts with `dr`, the participant was asked to select the option on the right of the screen."
+    },
+    "response": {
+        "Description": "Response selected by the participant",
+        "Levels": {
+            "LEFT": "Participant selected option on the left",
+            "RIGHT": "Participant selected option on the right"
+        }
+    },
+    "RT": {
+        "Description": "Response time, as measured from the onset of the trial",
+        "Units": "Seconds"
+    },
+    "money": {
+        "Description": "Monetary bonus that could be gained by the participant",
+        "Units": "Polish zloty"
+    },
+    "carbon": {
+        "Description": "Amount of CO2 emission that could be reduced by the participant",
+        "Units": "Kilograms (kg)"
+    }
+}

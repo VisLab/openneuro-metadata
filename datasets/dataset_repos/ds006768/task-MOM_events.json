@@ -1,0 +1,26 @@
+{
+    "block_n": {
+        "Description": "Block number (ranged from 1 to 7)"
+    },
+    "task_relevant": {
+        "Description": "Whether the dot was task-relevant for block"
+    },
+    "trial_type": {
+        "Levels": {
+            "event": "Dots that automatically deflected at the deflection point",
+            "target": "Task-relevant dots that went past the deflection point (response required)",
+            "distractor": "Task-irrelevant dots that went past the deflection point"}
+    },
+    "colour": {
+        "Description": "Colour of the dot"
+    },
+    "direction_of_approach": {
+        "Description": "Side of the screen that the dot onset on"
+    },
+    "critical_time": {
+        "Description": "How long after onset until a dot reached the deflection point (s)"
+    },
+    "outcome": {
+        "Description": "Behavioural outcome for each dot"
+    }
+}

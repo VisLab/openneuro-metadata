@@ -1,0 +1,12 @@
+{
+  "participants.json": "e38dbfadddd1f16e65355ef9c0a178b2cf5a6990",
+  "README": "aef58a1cf8f48fb3e602a902ffb1db991ce91961",
+  "dataset_description.json": "8eb6910b019c313887869204cff3f18665a1eb8b",
+  "CHANGES": "ef55401e4ae07fb5e82557bb4106383cb489cc2c",
+  "task-thetatACSWorkingMemory_events.json": "9d1da20dfcb169d4cb032d1ed27455e772589246",
+  "participants.tsv": "bdd064452c28aa3fd6ce0fef1952e43d8884c8e9",
+  "sub-02/ses-verum/eeg/sub-02_ses-verum_task-memory_events.tsv": "ea493b032b29e8c7ef88d4ce1d7df3177772c506",
+  "sub-02/ses-sham/eeg/sub-02_ses-sham_task-rest_events.tsv": "7a7df34cdcb70a4610a596e34905795202213378",
+  "sub-02/ses-sham/eeg/sub-02_ses-sham_task-memory_events.tsv": "bb70aeadecc8abb22c3c0e8b57015d9700ba26e1",
+  "sub-02/ses-verum/eeg/sub-02_ses-verum_task-rest_events.tsv": "ab8334074784451c916dea1cfe8775e197c56e04"
+}

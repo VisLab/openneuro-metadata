@@ -1,0 +1,37 @@
+{
+	"event_type": {
+		"Description": "Indicator of event type",
+		"Levels": {
+			"initial_beads": "Presentation of initial beads at the beginning of each trial",
+			"extra_bead": "Presentation of an extra bead",
+			"additional_draw_allowed": "When participants are allowed to press a button to draw additional beads or terminate drawing",
+			"additional_draw": "Button press to draw an additional bead. Participants could draw as many beads as they wanted within time limit. Mapping to a button (left or right) was randomized across trials",
+			"terminate_draw": "Button press to terminate drawing and proceed to the bet. Mapping to a button (left or right) was randomized across trials",
+			"bet": "Button press to bet on the high-reward or low-reward jar. The bet jar is indicated in bet_jar_type column (high or low). Mapping to buttons (left or right) was randomized across scanning runs"  
+		}
+	},
+	"num_beads_high": {
+		"Description": "The number of high-reward beads (beads majority in high-reward jar) drawn so far. Omitted for events extra_bead and additional_draw to avoid confusion"
+	},
+	"num_beads_low": {
+		"Description": "The number of low-reward beads (beads majority in low-reward jar) drawn so far. Omitted for events extra_bead and additional_draw to avoid confusion"
+	},
+	"points_high": {
+		"Description": "Reward for a correct bet on the high-reward jar. Randomized across trials. Either 170 or 70 in the first two scanning runs ('baseline block') and 70 or 7 in the last two scanning runs ('scale block'); see the paper for details"
+	},
+	"bead_type": {
+		"Description": "Bead drawn on the event, high- or low-reward bead"
+	},
+	"bet_jar_type": {
+		"Description": "Jar bet on, high- or low-reward jar"
+	},
+	"button": {
+		"Description": "Pressed button, left or right"
+	},
+	"initialVOI": {
+		"Description": "Estimated subjective value of information based on the initially presented beads"
+	},
+	"updatedVOI": {
+		"Description": "Estimated subjective value of information based on both the initial and extra beads"
+	}
+}

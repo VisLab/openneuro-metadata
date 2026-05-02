@@ -1,0 +1,20 @@
+{
+    "participant_id": {
+        "Description": "BIDS participant identifier."
+    },
+    "session_id": {
+        "Description": "BIDS session identifier",
+        "Levels": {
+            "ses-screening": "Tabular phenotypic data collection screening session for subject diagnosis.",
+            "ses-pre": "Magnetic Resonance Imaging (MRI) session prior to Cognitive Behavioral Therapy (CBT) treatment. Baseline session for Healthy Volunteer subjects.",
+            "ses-cbt03": "Tabular phenotypic data collection session after 3 weeks of Cognitive Behavioral Therapy (CBT).",
+            "ses-cbt08": "Tabular phenotypic data collection session after 8 weeks of Cognitive Behavioral Therapy (CBT).",
+            "ses-cbt12": "Tabular phenotypic data collection session after 12 weeks of Cognitive Behavioral Therapy (CBT).",
+            "ses-post": "Magnetic Resonance Imaging (MRI) session after Cognitive Behavioral Therapy (CBT) treatment for Anxiety group. Second MRI session for Healthy Volunteer subjects."
+        }
+    },
+    "age": {
+        "Description": "Participant age at time of session.",
+        "Units": "Years"
+    }
+}

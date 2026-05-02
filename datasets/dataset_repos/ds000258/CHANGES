@@ -1,0 +1,15 @@
+1.0.1 2023-08-01
+  - Added Suyash as author, for curation
+  - Documentation cleanups
+1.0.0 2019-09-25
+  - Restarted version numbering under new OpenNeuro backend
+  - Register DOI
+
+00002 (previously 2.0.0) 2018-04-09
+  - Renamed dataset name to same as OpenfMRI
+
+00001 (previously 1.0.0) 2018-04-09
+  - Initial OpenNeuro release
+
+1.0.0 2018-01-22
+  - Initial OpenFMRI release.

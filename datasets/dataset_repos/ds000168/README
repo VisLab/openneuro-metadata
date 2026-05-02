@@ -1,0 +1,31 @@
+Offline Processing in Associative Learning
+
+This is structural and functional MRI data from 35 healthy volunteers that accompanies 
+Bursley et al. (2015), "Awake, Offline Processing During Associative Learning." Subjects 
+encoded paired associates and then performed a distractor task before being probed on 
+associate pairs. Pattern analyses suggest that encoded memories were reactivated during 
+the distractor task, and performance of the distractor task led to superior recall for 
+the associate pairs, compared to a control condition in which no distractor task was 
+performed.
+
+
+Contact Information:
+Name: James K. Bursley
+Email: bursley@fas.harvard.edu
+
+
+Scan file headings:
+-FirstALDT: Subject's accuracy on the first iteration of the associative learning task in 
+the distractor task condition.
+-SecondALDT: Subject's accuracy on the second iteration of the associative learning task in 
+the distractor task condition.
+-ALIR: Subject's accuracy on the associative learning task in the immediate-recall 
+condition.
+-FirstALDTVoc: Subject's accuracy on the vocabulary distractor task during the first 
+iteration of the associative learning task.
+-SecondALDTVoc: Subject's accuracy on the vocabulary distractor task during the second 
+iteration of the associative learning task.
+-FirstALFloatVoc: Subject's accuracy on the first independent vocabulary task, occurring 
+outside of any associative learning task.
+-SecondALFloatVoc: Subject's accuracy on the second independent vocabulary task, occurring 
+outside of any associative learning task.

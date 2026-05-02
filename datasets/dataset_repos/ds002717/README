@@ -1,0 +1,18 @@
+functional:
+Each subject has two functional scans, separated by T1 anatomical scans. 
+Each functional scan started with a 4-sec emotional clip (to be excluded in the analysis as in the preprocessing we skip the first 8 TRs), 
+and next 12-sec-long video clips were presented: 20 clips of high emotional content and 20 landscape clips, in alternating order, with an ITI (fixation point) of 8-12 sec. Following each video clip, participants were asked to rate their emotional arousal, on a scale of 1 to 8, with 8 being the highest. Simultaneously with each video clip, body-odor or blank were delivered using a computer-controlled air-dilution olfactometer that embedded the odorant pulse within a constant stream of clean air at 1.5 liter per minute. 
+The two functional scans were identical except for the odor content. 
+The two conditions (blank vs. stranger body-odor) were counterbalanced for order between participants. 
+Participants were aware of the possibility of an odor being delivered, but were not told when. 
+
+In 4 subjects, the last event was excluded as the scan duration was too short: (total 39 events):
+sub-07 run1 trim: 4 Tr, total 442-4=438 TRs. 	
+sub-07 run2 trim: 5 Tr, total 442-5=437 TRs. 	
+sub-52 run1 trim: 4 Tr, total 442-4=438 TRs. 
+sub-34 run1 trim: 4 Tr, total 442-4=437 TRs. 
+	
+In sub-35 run2 due to technical problem, script stop before the last 4 events: 2 emotional and 2 landscape, thus include total 36 events,  trim: 60, (total 466-60=406 TRs). 
+
+Supplementary Materials on emotional arousal ratings (for parametric modulation analysis), response time and subjects identifiers to be matched with behaviour:
+https://www.weizmann.ac.il/neurobiology/worg/materials.html

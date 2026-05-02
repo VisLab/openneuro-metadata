@@ -1,0 +1,9 @@
+1.1.0 2026-01-13
+  - 1.1.0 (2026-01-13) - Derivative filenames updated to comply with BIDS Derivatives structure - Update to dataset_description.json for derivatives - Metadata included in derivatives directory
+1.1.0 (2026-01-13)
+- Derivative filenames updated to comply with BIDS Derivatives structure
+- Update to dataset_description.json for derivatives
+- Metadata included in derivatives directory
+
+1.0.0 (2025-11-13)
+- Initial upload of TRAMFIX dataset

@@ -1,0 +1,8 @@
+This dataset includes 8 sessions of medial prefrontal cortex continious rt-fmri biofeedback
+for six patients with mild and moderate depression.
+Each session consists of 2 runs. The first run contains 900 scans (TR=1 s.) with 15 blocks (60 s. duration). 
+Each block includes 20 s. ROI down-regulation and 40 s of up-regulation.
+The second run contains 600 scans (TR=1 s.) with 10 blocks (60 s. duration).
+In odd sessions, both parts is neurofeedback, while in even sessions the second part is a transfer session, 
+during which participants try to up- or downregulate the activity level of target area without feedback.
+A changeable column is used for representation of ROI activity. 

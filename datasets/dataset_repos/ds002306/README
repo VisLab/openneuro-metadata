@@ -1,0 +1,28 @@
+README 
+
+Over 100 Task fMRI Dataset by Tomoya Nakai and Shinji Nishimoto
+
+References:
+ Nakai & Nishimoto (bioRxiv 2019, doi: https://doi.org/10.1101/614081)
+ Nakai & Nishimoto (Nature Communications 2020, doi: https://doi.org/10.1038/s41467-020-14913-w) 
+
+We measured brain activity using functional MRI while six subjects (“sub-01”, …, “sub-06”) performed 103 cognitive tasks.
+
+The entire folder consists of subject-wise subfolders (“sub-01”,…). Each subject’s folder contains the following subfolders:
+1) anat: T1-weighted structural images
+2) func: functional signals (multi-band echo-planar images)
+
+Each subject performed 18 runs consisting of 12 training runs and 6 test runs. The training and test data were assigned with the following notations:
+ Training data: sub-0*_task-training_run-**_bold.json
+ Test data: sub-0*_task-test_run-**_bold.json
+
+Each *_event.tsv file contains following information:
+ ONSET: stimulus onset
+ DURATION: stimulus duration
+ TRIAL_TYPE: task type (out of 103 tasks)
+
+The analysis codes and preprocessed data that were used in the original article are available at Open Science Framework (OSF, https://osf.io/ea2jc/).
+
+***Caution***
+This dataset can be used for research purposes only. The data were anonymised, and users shall not perform analyses to re-identify individual subjects.
+

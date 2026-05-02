@@ -1,0 +1,5 @@
+In vivo 7T MRI dataset probing the auditory subcortical pathway (inferior colliculus and medial geniculate body). Collected by Michelle Moerel and Federico De Martino. 
+
+All participants have one MRI sessions where high-res anatomical MRI (T1w and PDw at 0.6 mm iso) was collected. In addition, short inversion time T1w (at 0.6 mm iso) is available for sub-04 and sub-06 (indicated by 'run-02_T1w'). Task functional MRI data (1.1 mm iso) was collected in 8 runs: 56 training sounds were presented once in the first 6 runs, while 28 testing sounds were presented three times in each of the two testing runs (run 7-8). 
+
+Each of the 84 natural sounds (56 training, 28 testing) was presented in one of 7 azimuthal locations (ranging from the left [-90 degrees; Loc1] to the right [+90 degrees; Loc7] of the subject in 30 degree steps). Sounds were the same across subjects, yet the location at which each sound was presented was randomized across subjects. Subjects were instructed to perform a one-back task, and were required to respond with a button press when two consecutive sounds were presented in the same azimuthal location. 

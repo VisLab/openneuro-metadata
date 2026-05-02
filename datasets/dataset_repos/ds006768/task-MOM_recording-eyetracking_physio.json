@@ -1,0 +1,22 @@
+{
+    "SamplingFrequency": 1000,
+    "StartTime": 0,
+    "Columns": ["xpos_left", "ypos_left", "pupil_left"],
+    "Manufacturer": "SR Research Ltd.",
+    "time":{
+        "Description": "timing of sample relative to EEG data",
+        "Units": "s"
+        },
+    "xpos_left": {
+        "Description": "left eye position along x-axis",
+        "Units": "px"
+        },
+    "ypos_left": {
+        "Description": "left eye position along y-axis",
+        "Units": "px"
+        },
+    "pupil_left": {
+        "Description": "left eye pupil diameter",
+        "Units": "a.u."
+        }
+}

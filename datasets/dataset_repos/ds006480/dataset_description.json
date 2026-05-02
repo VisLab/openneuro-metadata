@@ -1,0 +1,22 @@
+{
+    "Name": "Young Adult Resting State and Auditory Oddball Task EEG Data",
+    "License": "CC0",
+    "Authors": [
+        "Andy Jeesu Kim",
+        "Mara Mather",
+        "Santiago Morales",
+        "Joshua Senior"
+    ],
+    "ReferencesAndLinks": [
+        "Kim, A. J., Morales, S., Senior, J., & Mather, M. (2025). Electroencephalography, pupillometry, and behavioral evidence for locus coeruleus-noradrenaline system related tonic hyperactivity in older adults. Preprint: doi.org/10.1101/2025.10.02.680040"
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "bids-matlab-tools",
+            "Version": "10.2"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006480.v1.0.1"
+}

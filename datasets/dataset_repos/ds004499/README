@@ -1,0 +1,17 @@
+The dataset was created for the purpose of evaluation of multi-echo fMRI at various levels of acceleration (SMS or MB factors) and flip angles. It is suitable for testing and optimization of data processing pipelines and comparing characteristics of single-echo and/or multi-echo data for various acquisition settings. 
+Each subject’s data consists of structural scan (T1 MRAGE), field map (GRE), and seven functional runs with identical visual-motor tasks but different acquisition parameters. The block task consisted of alternating active and baseline blocks in the following manner: BABABABABABABAB, i.e. seven active blocks (duration 21.4 seconds) and eight baseline blocks (duration of 30 seconds except the first one with duration only 20 seconds). There was flickering checkerboard with frequency of 2 Hz covering whole field of view and the numbers 1 to 4 place in the center of screen. The numbers changed each second repeating the sequence from 1 to 4. Participants were asked to press one of four buttons by fingers of the right (dominant) hand based on the numbers (1 for index finger, 2 for middle finger, etc).
+The data were acquired at 3T Siemens Magnetom Prisma scanner placed at the Multimodal and Functional Imaging Laboratory (MAFIL, http://mafil.ceitec.cz), Central European Institute of Technology (CEITEC), Masaryk University. We acquired the seven BOLD runs (FCNI1 to FCNI7) with different acquisition parameters. fMRI protocols were based on the MB-EPI BOLD sequence obtained from the Centre for Magnetic Resonance Research (CMRR), University of Minnesota. The acquisition time of each run was 6 min, but different numbers of images were obtained in each run due to different TR values. Both field of view (FOV) (192 x 192 mm) and TE (17.00, 34.64, and 52.28 ms) were constant for all fMRI runs. The TR, MB factor, number of scans, and flip angle differed across the runs. There were two counterbalanced orders of runs to avoid the effect of order. First, going from FCNI1 to FCNI7, and second, starting with FCNI7 and finishing with FCNI1.
+Run	MBfactor	TR(s)	nscans	FA(degrees)
+FCNI1	1		3.05	120	80
+FCNI2	1		3.05	120	45
+FCNI3	4		0.8	450	45
+FCNI4	4		0.8	450	20
+FCNI5	6		0.6	600	45
+FCNI6	6		0.6	600	20
+FCNI7	8		0.4	900	20
+Acquisition matrix was 64x64 voxels, 48 transversal slices, voxel size 3x3x3.5 mm, PAT factor (GRAPPA) of 2. 64-channel head-neck coil was used for whole MRI acquisition.
+
+
+Funding and acknowledgement:
+The work was supported from the European Regional Development Fund project “National infrastructure for biological and medical imaging” (No. CZ.02.1.01/0.0/0.0/16_013/0001775).
+We acknowledge the core facility MAFIL of CEITEC supported by the Czech-BioImaging large RI project (LM2018129 and LM2023050 funded by MEYS CR) for their support in obtaining the scientific data presented in this paper.

@@ -1,0 +1,17 @@
+{
+  "CHANGES": "4ad58e3697707a486f50cdb389c0feb2507ce29b",
+  "dataset_description.json": "a28ac6abb6ccbbde553c86b7a2b4ffe606a7dd3b",
+  "inplaneT2.json": "6f6833cc80c22924ef1f25eff2b261f87fe61625",
+  "T1w.json": "c68d112d0b6b7d214c09a3e3796886d95f210753",
+  "task-stopmanual_bold.json": "5d150cac8a0859ca610416fad1538a6163625f5f",
+  "participants.tsv": "402b68f2a1b803365bb1fc41eb596d508e9617f2",
+  "task-stopvocal_bold.json": "0abb08a3795967f7490802cac8b436923ef20940",
+  "README": "60ceb4a86394e450ec4fa3031927534a069a2adb",
+  "task-stopword_bold.json": "a0665e240c078faa5c73afc57791eb883d1a6b1d",
+  "sub-01/func/sub-01_task-stopvocal_run-2_events.tsv": "358583f261476e92924105459fd3e77292be2b8a",
+  "sub-01/func/sub-01_task-stopword_run-1_events.tsv": "2cdb7377c210a2903be21c4edbb2f71a26a45b8a",
+  "sub-01/func/sub-01_task-stopvocal_run-1_events.tsv": "d74a8fe60951ddd3241b382e260ef2dda0411ad7",
+  "sub-01/func/sub-01_task-stopword_run-2_events.tsv": "22d6b2436a92f168e4df56779228fe3b3fbf94df",
+  "sub-01/func/sub-01_task-stopmanual_run-1_events.tsv": "c89ff395f699a05077de6f78b2e5503842cd62a6",
+  "sub-01/func/sub-01_task-stopmanual_run-2_events.tsv": "dd2b39db724cd7f5aeab0884b46aeb00fdc99d10"
+}

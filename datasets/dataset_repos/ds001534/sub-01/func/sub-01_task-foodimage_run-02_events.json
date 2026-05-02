@@ -1,0 +1,48 @@
+{
+"onset": {
+"LongName": "Runwise trial onset in seconds",
+"Description": "The time in seconds from the beginning of the run at which each trial began.",
+"Units": "seconds"
+},
+
+"duration": {
+"LongName": "Trial duration in seconds",
+"Description": "The duration of each trial in seconds.",
+"Units": "seconds"
+},
+
+"trial_type": {
+"LongName": "Trial type or experimental condition",
+"Description": "The condition or trial type: whether the image was presented with calories (calorie image) or without calories (food image).",
+"Levels": {
+"food-image": "Food images presented without calories",
+"calorie-image": "Food images presented with calories"}
+},
+
+"image_number": {
+"LongName": "Name of stimulus",
+"Description": "The name of the stimulus (or image number) presented in the trial. Because the same images occurred in both experimental conditions or trial types, this identifier can be used for item analyes."
+},
+
+"presented_calories": {
+"LongName": "Presented kilocalories of food in image",
+"Description": "The number of kilocalories presented to participants alongside the food image during the calorie condition. These calories were either accuate, 15% higher, or 15% lower than the actual calories and rounded to nearest tens place.",
+"Units": "kilocalories"
+},
+
+"actual_calories": {
+"LongName": "Actual kilocalories of food in image",
+"Description": "The actual number of kilocalories for the food presented in the image.",
+"Units": "kilocalories"
+},
+
+"text": {
+"LongName": "Text accompanying food image",
+"Description": "The text (e.g., food calories or arbitray image number) presented along with the stimulus image during the trial (which depended on the experimental condition or trial type)."
+},
+
+"food_rating": {
+"LongName": "Food preference rating",
+"Description": "Rating of preference to eat the food (1 -4) presented on each trial. Missing values mean interpolated.",
+"Units": "1 - 4 rating scale (1 = not at all, 4 = very much)"
+}}

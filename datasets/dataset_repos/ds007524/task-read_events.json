@@ -1,0 +1,10 @@
+{
+    "trial_type": {
+        "LongName": "trial type",
+        "Description": "all words!"
+    },
+    "stimulus": {
+	"LongName": "stimulus",
+	"Description": "word presented"
+    }
+}

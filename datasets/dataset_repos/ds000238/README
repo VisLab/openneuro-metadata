@@ -1,0 +1,46 @@
+
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+
+
+Defacing
+--------
+Pydeface was used on all anatomical images to ensure deindentification of subjects. The code
+can be found at https://github.com/poldracklab/pydeface
+
+Quality Control
+---------------
+Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/stable/
+
+Where to discuss the dataset
+----------------------------
+1) www.openfmri.org/dataset/ds000238/ See the comments section at the bottom of the dataset
+page.
+2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000238.
+3) Send an email to submissions@openfmri.org. Please include the accession number in
+your email.
+
+Known Issues
+------------
+N/A
+
+Validator Output:
+----------------
+
+1: Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)
+       		./sub-01/anat/sub-01_T1w.nii.gz
+       			 The most common resolution is: 1.00mm x 1.00mm x 1.00mm, This file has the resolution: 1.00mm x 0.94mm x 0.94mm.
+       		./sub-11/anat/sub-11_T1w.nii.gz
+       			 The most common set of dimensions is: 176,256,256 (voxels), This file has the dimensions: 176,224,256 (voxels).
+       		./sub-22/anat/sub-22_T2w.nii.gz
+       			 The most common set of dimensions is: 512,65,512 (voxels), This file has the dimensions: 512,60,512 (voxels).
+
+        Summary:                   Available Tasks:        Available Modalities:
+        1175 Files, 57.63GB        Med8                    T1w
+        35 - Subjects              Quick4n                 T2w
+        1 - Session                Quick6                  bold
+                                   Slow10
+                                   Slow12

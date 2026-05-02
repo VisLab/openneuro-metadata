@@ -1,0 +1,32 @@
+{
+    "onset": {
+        "Description": "The raw stimulus onset. According to Khoudary et al. 2022 that there were 5TRs before the first vignette was shown which is why the onset of the first event is at ca. 10 secs"
+    },
+    "duration": {
+        "Description": "The duration the vignette was on screen."
+    },
+    "sub_id": {
+        "Description": "participant_id"
+    },
+    "trail_type": {
+        "Description": "The mft foundation/mac category of the vignette."
+    },
+    "vigtext": {
+        "Description": "The specfic text that was shown on the vignette."
+    },
+    "cond_id": {
+        "Description": "The vignette number within its condition. This is useful for item-level analyses."
+    },
+    "vig_id": {
+        "Description": "The unique identifier for each vignette item"
+    },
+    "ITI_onset": {
+        "Description": "The raw onset of each inter-trial interval."
+    },
+    "ITI_duration": {
+        "Description": "The duration of the ITI task."
+    },
+    "trialstart_zeroed": {
+        "Description": "The onset of each vignette when deleting the dummy scans, provided by Khoudary."
+    }
+}

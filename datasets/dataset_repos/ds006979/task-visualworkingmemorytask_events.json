@@ -1,0 +1,63 @@
+{
+  "onset": {
+    "Description": "Onset time of the event, synchronized with the EEG recording clock.",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "Duration of the event. Zero (0) for instantaneous events.",
+    "Units": "seconds"
+  },
+  "sample": {
+    "Description": "Onset time of the event expressed in samples from the beginning of the recording.",
+    "Units": "samples"
+  },
+  "type": {
+    "Description": "The category of the recorded event marker.",
+    "Levels": {
+      "trigger": "TTL pulse sent by stimulus presentation software.",
+      "response": "A button press event recorded by the system."
+    }
+  },
+  "value": {
+    "Description": "The raw numerical code of the event marker, mapping to experimental conditions for N2pc, CDA, N2, and FN400 analysis.",
+    "Levels": {
+      "11": "Stimulus-locked: 2-UR, left cue, change, unrepeated probe",
+      "12": "Stimulus-locked: 3-UR, left cue, change, unrepeated probe",
+      "13": "Stimulus-locked: 3-RWP, left cue, change, unrepeated probe",
+      "14": "Stimulus-locked: 3-RSP, left cue, change, unrepeated probe",
+      "17": "Stimulus-locked: 3-RWP, left cue, change, repeated probe",
+      "18": "Stimulus-locked: 3-RSP, left cue, change, repeated probe",
+      "19": "Stimulus-locked: 2-UR, left cue, no-change, unrepeated probe",
+      "20": "Stimulus-locked: 3-UR, left cue, no-change, unrepeated probe",
+      "21": "Stimulus-locked: 3-RWP, left cue, no-change, unrepeated probe",
+      "22": "Stimulus-locked: 3-RSP, left cue, no-change, unrepeated probe",
+      "25": "Stimulus-locked: 3-RWP, left cue, no-change, repeated probe",
+      "26": "Stimulus-locked: 3-RSP, left cue, no-change, repeated probe",
+      "27": "Stimulus-locked: 2-UR, right cue, change, unrepeated probe",
+      "28": "Stimulus-locked: 3-UR, right cue, change, unrepeated probe",
+      "29": "Stimulus-locked: 3-RWP, right cue, change, unrepeated probe",
+      "30": "Stimulus-locked: 3-RSP, right cue, change, unrepeated probe",
+      "33": "Stimulus-locked: 3-RWP, right cue, change, repeated probe",
+      "34": "Stimulus-locked: 3-RSP, right cue, change, repeated probe",
+      "35": "Stimulus-locked: 2-UR, right cue, no-change, unrepeated probe",
+      "36": "Stimulus-locked: 3-UR, right cue, no-change, unrepeated probe",
+      "37": "Stimulus-locked: 3-RWP, right cue, no-change, unrepeated probe",
+      "38": "Stimulus-locked: 3-RSP, right cue, no-change, unrepeated probe",
+      "41": "Stimulus-locked: 3-RWP, right cue, no-change, repeated probe",
+      "42": "Stimulus-locked: 3-RSP, right cue, no-change, repeated probe",
+      "51": "Probe-locked: 2-UR, left cue",
+      "52": "Probe-locked: 3-UR, left cue",
+      "53": "Probe-locked: 3-RWP, left cue",
+      "54": "Probe-locked: 3-RSP, left cue",
+      "55": "Probe-locked: 2-UR, right cue",
+      "56": "Probe-locked: 3-UR, right cue",
+      "57": "Probe-locked: 3-RWP, right cue",
+      "58": "Probe-locked: 3-RSP, right cue",
+      "120": "Response: Correct",
+      "121": "Response: Incorrect",
+      "254": "Technical marker / Sync pulse",
+      "111": "Technical marker / Sync pulse",
+      "101": "Technical marker / Sync pulse"
+    }
+  }
+}

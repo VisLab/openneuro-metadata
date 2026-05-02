@@ -1,0 +1,147 @@
+# Penn LEAD: Penn Longitudinal Executive functioning in Adolescent Development
+
+Penn LEAD is a longitudinal dataset consisting of clinical, cognitive, and multimodal neuroimaging data from 132 adolescents, designed to investigate transdiagnostic executive function during development.
+
+Note that in some cases, there may be more runs than expected or noted in dataset contents below if a run was repeated. If a run was repeated, there might be an extra run in the dataset. Additionally, in cases where the data from one of the runs was poor quality, there might be a second and third run but no first run.
+
+Any variant to the metadata that might differ from what is described below will be flagged in the file name for that scan in the acquisition entity (i.e., `sub-\*_ses-\*_acq-VARIANT{variant_description}_run-\*_\*.*`)
+
+## Dataset contents
+
+### Structural MRI
+
+Each participant has one T1-weighted normalized scan (176 slices, TR = 2500 ms, TE = 2.9 ms), one T2-weighted (not normalized) scan (176 slices, TR = 3200 ms, TE = 565 ms), and one T2-weighted normalized scan, all with the AP phase encoding direction. T1 scans are refaced and T2 scans are defaced. The processed sMRI data derivatives can be found [here](https://openneuro.org/datasets/ds006732).
+
+### Functional MRI
+
+Each participant has two resting-state fMRI runs (522 volumes and 383 volumes, TR = 800 ms, TE = 30 ms, 60 slices) and one n-back task fMRI run with fractal images (522 volumes, TR = 800 ms, TE = 30 ms, 60 slices). The processed fMRI data derivatives can be found [here](https://openneuro.org/datasets/ds006741) and [here](https://openneuro.org/datasets/ds006779).
+
+Note that for one subject, they had to re-run the resting-state fMRI, since in the first run, a movie was accidentally playing in the first run. Hence, the task entity was renamed to `task-restfilm`.
+
+### Diffusion MRI
+
+One 103-volume multi-shell (MB = 3), single spin-echo DWI run was acquired for all participants using a monopolar sampling scheme (TR = 4200 ms, TE = 89 ms, voxel size = 1.7 mm isotropic). The processed DWI data derivatives can be found [here](https://openneuro.org/datasets/ds006739) and [here](https://openneuro.org/datasets/ds006740).
+
+### Perfusion MRI
+
+One background-suppressed, unbalanced, 3D stack of spirals PCASL scan was acquired for all participants (labeling duration = 1500 ms, TR = 4298 ms, TE = 10 ms). The processed ASL data derivatives can be found [here](https://openneuro.org/datasets/ds006744).
+
+A reference scan was also acquired to assist in ASL calibration, consisting of an M0 scan that is retained in the perfusion folder with the `m0scan` suffix.
+
+### MEGRE
+We acquired a multi-echo gradient-echo sequence with four echos, for use in quantitative susceptibility mapping (QSM), at 1.5 mm isotropic resolution (TR = 35 ms, voxel size = 1.5 * 1.5 * 1.5 mm).
+
+Note that we did not curate or preprocess the MEGRE data, but raw data can be found in the dataset.
+
+### Field maps
+
+For distortion correction, pairs of field maps with opposite phase-encoding polarity (anterior to
+posterior and posterior to
+anterior) were acquired for both diffusion-weighted and fMRI scans.
+
+### Phenotypic Data
+
+Clinical diagnostic data can be found in the `participants.tsv` file.
+
+### Cognitive Data
+
+Participants completed a number of cognitive tasks from the Penn CNB. These included:
+
+- Penn Abstraction, Inhibition and Working Memory Task
+- Penn Face Memory Test
+- Children's Penn Word Memory Test
+- Short Computerized Finger-Tapping Task
+- Penn Emotion Recognition Task for Children
+- Digit Symbol Test
+- Short Letter N-Back (2 back)
+- Measured Emotion Differentiation Test
+- Motor Praxis Test
+- Penn Conditional Exclusion Task for Children
+- Short Penn Continuous Performance Test - Number and Letter Version
+- Penn Matrix Reasoning Test
+- Variable Short Penn Line Orientation Test
+- Children's Verbal Reasoning Test
+- Short Visual Object Learning Test
+- Trailmaking A
+- Trailmaking B
+- Effort Discounting Task
+- Delayed Discounting Task
+- Risk Discounting Task
+- Age Differentiation Test
+
+The following subjects/sessions are missing cognitive data:
+- sub-21161, ses-1
+- sub-22510, ses-2
+- sub-22617, ses-2
+- sub-22618, ses-2
+- sub-23582, ses-1
+- sub-20812, ses-2 had a session 1 that was started, but incomplete, and a session 2 that began a couple of days later. As such, we only have CNB data from ses-1, and ses-3, but ses-2 did not have a separate CNB administered.
+
+### Self-report data
+
+Participants completed a number of self-report scales. These included:
+- Adverse Life Experiences Scale (ALES)
+- Affective Lability Scale (ALS-18)
+- Affective Reactivity Index (ARI)
+- Altman Self-Rating Mania Scale (ASRM)
+- Beck Depression Inventory (modified - child, no suicide question) (BDI-1A)
+- Behavioral Inhibition/Activation System (child version) (BIS-BAS Child)
+- Extended Strengths and Weaknesses Assessment of ADHD Symptoms and Normal Behavior (E-SWAN ADHD)
+- Extended Stengths and Weaknesses Assessment of DMDD Symptoms and Normal Behavior (E-SWAN DMDD)
+- The Motivation and Pleasure Scale - Self-Report (MAPS-SR)
+- Positive and Negative Affect Schedule (child version) (PANAS)
+- PROMIS Pediatric Anxiety (PPA)
+- PRIME Screen (Self-Report)
+- Revised Physical Anhedonia Scale (RPAS)
+- Revised Social Anhedonia Scale (RSAS)
+- Substance Use Questionnaire
+- Tanner Developmental Stages Scale - Boys
+- Tanner Developmental Stages Scale - Girls
+- Wolf Intrinsic Motivation/Extrinsic Motivation Scale (short version) (Wolf IM/EM)
+- State-Trait Anxiety Inventory (STAI) (before the scan, each participant took the entire STAI, and after the scan, each participant took the state anxiety items of the scale)
+
+Due to complexities in how puberty is staged, we do not include summary scores and only include item-level data for the Tanner Developmental Stages scales (Girl and Boy). Due to the lack of participants that endorsed drug use, and the complexity of substance use, we also do not include summary scores and only include item-level data for the Substance Use Questionnaire.
+
+See below for a summary of self-report data that is missing. Note that for sub-20812, ses-2 is a continuation of ses-1 that occurred a few days after ses-1, so we only have data from ses-1 and ses-3 for this participant, as expected.
+- The following subjects are missing entirely from the pre-scan STAI scale: sub-20410
+- The following sessions are missing entirely from the pre-scan STAI scale: sub-21118, ses-1; sub-20310, ses-1
+- The following sessions are incomplete in the pre-scan STAI scale: sub-21035, ses-3
+
+- The following subjects are missing entirely from the post-scan STAI scale: sub-20125, sub-20410, sub-20448, sub-20612
+- The following sessions are missing entirely from the post-scan STAI scale: sub-20139, ses-1; sub-20238, ses-2; sub-20252, ses-2; sub-20310, ses-1; sub-20310, ses-2;  sub-20691, ses-2; sub-20818, ses-2; sub-20923, ses-1; sub-21118, ses-1; sub-21141, ses-1; sub-21161, ses-1
+- The following sessions are incomplete in the post-scan STAI scale:  sub-20124, ses-1; sub-20214, ses-2; sub-20427, ses-1; sub-20923, ses-2; sub-21554, ses-2; sub-21560, ses-2; sub-21580, ses-2; sub-22617, ses-2; sub-22618, ses-2; sub-22653, ses-1; sub-22670, ses-1; sub-23113, ses-1; sub-23582, ses-1
+
+- The following session is missing entirely from the main self-report scale battery: sub-20936, ses-2
+
+Given the large amount of self-report data, due to logistical constraints not every subject completed every scale at each session. Please see below for a summary of the percentage of sessions that are missing each scale:
+- PPA: 22.4%
+- PRIME: 0%
+- ALES: 22.4%
+- PANAS: 41.7%
+- Tanner Boys: 64.1%
+- Tanner Girls: 64.1%
+- Substance Use Questionnaire: 39.9%
+- ARI: 0.9%
+- E-SWAN ADHD: 1.8%
+- BDI: 1.3%
+- MAPSSR: 1.3%
+- ASRM: 20.6%
+- E-SWAN DMDD: 21.9%
+- BIS-BAS: 4.9%
+- RPAS: 25.1%
+- RSAS: 24.7%
+- ALS-18: 25.1%
+- Wolf IM/EM: 10.3% 
+
+There are a few scales with missing data due to protocol changes:
+- For the Altman Self-Rating Mania Scale, at the beginning of the study, most participants completed the scale only at the first session and third session, but not at the second session. As the study went on, almost all of the participants at later enrollments completed this scale at the second session as well.
+- For the Positive and Negative Affect Schedule, at the beginning of the study, most participants completed the scale only at the third session. As the study progressed, many of the participants at later enrollments completed this scale at session 1 and session 2 as well.
+- For the Revised Physical Anhedonia Scale and the Revised Social Anhedonia Scale, at the beginning of the study, most participants completed the scale only at the first session and third session, but not at the second session. As the study went on, almost all of the participants at later enrollments completed this scale at the second session as well.
+
+### Other data
+
+The acquisition date and time for each session was rounded to the 15th of the month and the nearest hour, and stored in the `*_sessions.tsv` files.
+
+### Additional notes
+
+Note that sub-20812 has two sessions (ses-1 and ses-2) that are only a few days apart. Ses-1 contains incomplete data and thus the scans were repeated a few days later for ses-2.

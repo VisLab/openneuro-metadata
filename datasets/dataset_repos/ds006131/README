@@ -1,0 +1,84 @@
+# PAFIN: PennLINC AFfective INstability
+
+PAFIN is an ongoing study acquiring a wide range of imaging and phenotypic data in a sample of 100 participants.
+
+The first release of the dataset contains data from the first 49 participants in the study, along with two pilot subjects.
+
+## Dataset contents
+
+### Structural MRI
+
+Each participant has one T1-weighted and one T2-weighted structural scan.
+Additionally, we acquired a 5-echo MEGRE scan with magnitude and phase reconstruction for quantitative susceptibility mapping.
+
+### Functional MRI
+
+Each participant has two fMRI runs: one with an AP phase encoding direction while watching the Pixar short "Bao"
+and one with a PA phase encoding direction while watching the Pixar short "Your Friend the Rat".
+
+One of the pilot subjects has a resting-state run instead of a "Bao" run.
+
+Each run includes 5 echoes and magnitude+phase reconstruction.
+
+Concurrent physiological recordings were acquired using a respiration belt and a pulse oximeter,
+although we have not performed quality control on these recordings yet.
+
+### Diffusion MRI
+
+One 92-direction compressed sensing diffusion spectrum imaging (CS-DSI) run was acquired for all participants.
+Magnitude and phase reconstruction was enabled in order to improve denoising.
+
+### Perfusion MRI
+
+One single-delay, background-suppressed PCASL scan was acquired for all participants
+(post-labeling delay = 1.8 s, labeling duration = 1.8 s).
+
+A reference scan was also acquired to assist in ASL calibration.
+This reference scan includes two volumes: an M0 scan and a presaturated inversion recovery volume.
+The M0 volume is retained in the perfusion folder with the `m0scan` suffix,
+and a copy of the M0 volume, along with the inversion recovery volume,
+are retained in the `anat` folder with the `TDP` suffix.
+This type of scan is not supported in BIDS, so we used the custom `TDP` suffix (transit delay prescan).
+We may change this in the future if BIDS starts supporting this type of scan.
+
+### Field maps
+
+Multi-echo field gradient echo PEpolar-style field maps (`acq-func+meepi`) were acquired for all participants.
+For each acquisition, we have created a copy of the first echo (`acq-func`) as the primary field map.
+
+Field maps were also acquired for the diffusion data (`acq-dwi`) with the opposite phase encoding direction as the CS-DSI scans.
+
+### Phenotypic data
+
+A number of self-report measures were collected from participants.
+These measures include the following:
+
+- Accountable Health Communities Health-Related Social Needs Screening Tool (`phenotype/ahc_hrsn`)
+- Affective Reactivity Index (`phenotype/ari`)
+- Borderline Evaluation of Severity over Time (`phenotype/best`)
+- BIS/BAS Reward Subscale Child (`phenotype/bisbas_reward_child`)
+- Child and Adolescent Trauma Screen (`phenotype/cats`)
+- Difficulties in Emotion Regulation Scale (`phenotype/ders`)
+- Emotion Regulation Questionnaire - Short Form (`phenotype/erq_s`)
+- Extended Strengths and Weaknesses Assessment of ADHD Symptoms and Normal Behavior (`phenotype/eswan_adhd`)
+- Extended Strengths and Weaknesses Assessment of DMDD Symptoms and Normal Behavior (`phenotype/eswan_dmdd`)
+- Ultra-Short Munich Chronotype Questionnaire (`phenotype/mctq_us`)
+- Neighborhood Community Cohesion Short-Form (`phenotype/ncc`)
+- Neighborhood Safety and Crime Short-Form (`phenotype/nsc`)
+- Patient Health Questionnaire 8-Item (`phenotype/phq8`)
+- PRIME Screen Revised 5-Item (PRIME-5-SR) (`phenotype/prime5_sr`)
+- PROMIS Pediatric Sleep Disturbance [Short Form 4a] (`phenotype/promis_sleepdis_ped_4a`)
+- Perceived Stress Scale (PSS-4) (`phenotype/pss4`)
+- Socioeconomics (self-report) (`phenotype/ses_sr`)
+- Sleep Reduction Screening Questionnaire (`phenotype/srsq`)
+
+
+### Actigraphy
+
+Anonymized binary actigraphy files are stored in `sourcedata/actigraphy`.
+GGIR outputs are stored in `derivatives/ggir`.
+
+### Other data
+
+The acquisition date and time for each session was rounded to the 15th of the month and the nearest hour,
+and stored in the `*_sessions.tsv` files.

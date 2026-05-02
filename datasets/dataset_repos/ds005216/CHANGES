@@ -1,0 +1,6 @@
+1.1.0 2024-07-05
+  - T1w, brainmask and skullstrip of sub-55_ses-1 have been erroneously copied to sub-3_ses-3, sub-60_ses-2 and sub-62_ses-2. These duplicates have been removed and were replaced with the correct files.
+1.0.1 2024-06-03
+  - Fix README duplicate
+1.0.0 2024-06-03
+  - Adding README and changing license name from CC0 1.0 to CC0

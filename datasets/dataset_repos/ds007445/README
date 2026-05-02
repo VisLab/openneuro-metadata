@@ -1,0 +1,12 @@
+We investigated thalamocortical network dynamics using intracranial EEG (iEEG) recordings with thalamic sampling from 19 patients with focal epilepsy (1). The iEEG dataset analyzed in this study is publicly shared here.
+
+BIDS converstion was performed according to references (2) and (3). 
+
+References
+
+(1) Panchavati S, Daida A, Kanai S, Oana S, Ono H, Izumi M, Kaneko K, Fallah A, Qiao JX, Salamon N, Sankar R, Arnold C, Speier W, Nariai H (2026). Distinct Spectral and Directional Thalamocortical Network Dynamics Define Focal Seizure Evolution. medRxiv, 2026 Feb 4:2026.02.03.26345480. doi: 10.64898/2026.02.03.26345480.
+
+(2) Appelhoff, S., Sanderson, M., Brooks, T., Vliet, M., Quentin, R., Holdgraf, C., Chaumon, M., Mikulan, E., Tavabi, K., Höchenberger, R., Welke, D., Brunner, C., Rockhill, A., Larson, E., Gramfort, A. and Jas, M. (2019). MNE-BIDS: Organizing electrophysiological data into the BIDS format and facilitating their analysis. Journal of Open Source Software 4: (1896).https://doi.org/10.21105/joss.01896
+
+(3) Holdgraf, C., Appelhoff, S., Bickel, S., Bouchard, K., D'Ambrosio, S., David, O., … Hermes, D. (2019). iEEG-BIDS, extending the Brain Imaging Data Structure specification to human intracranial electrophysiology. Scientific Data, 6, 102. https://doi.org/10.1038/s41597-019-0105-7
+

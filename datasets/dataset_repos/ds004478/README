@@ -1,0 +1,3 @@
+This dataset contains raw 3T fMRI data from 6 subjects who completed a visual task viewing a flickering radial checkerboard. 
+
+1 clean pre-processed occipital EEG channel is available from each run collected during simultaneous EEG-fMRI.  Gradient artifact correction and ballistocardiogram artifact correction have already been performed.

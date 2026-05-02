@@ -1,0 +1,9 @@
+{
+	"SamplingFrequency": 100.0,
+	"StartTime": 0,
+	"Columns": ["sniff_airflow"],
+	"sniff_airflow": {
+		"Description": "Amplified nasal airflow signal measured via a nasal mask attached to a pneumotachograph and subsequently to a spirometer",
+		"Units": "Liters/minute"
+		}
+}

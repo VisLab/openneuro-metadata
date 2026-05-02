@@ -1,0 +1,54 @@
+{
+    "Authors": [
+        "Brooke L. Sevchik",
+        "Golia Shafiei",
+        "Kristin Murtha",
+        "Sophia Linguiti",
+        "Lia Brodrick",
+        "Juliette B.H. Brook",
+        "Matt Cieslak",
+        "Elizabeth Flook",
+        "Kahini Mehta",
+        "Steven L. Meisler",
+        "Kosha Ruparel",
+        "Sage Rush",
+        "Taylor Salo",
+        "S. Parker Singleton",
+        "Tien T. Tong",
+        "Mrugank Salunke",
+        "Dani S. Bassett",
+        "Monica E. Calkins",
+        "Mark A. Elliott",
+        "Raquel E. Gur",
+        "Ruben C. Gur",
+        "Tyler M. Moore",
+        "J. Cobb Scott",
+        "Russell T. Shinohara",
+        "M. Dylan Tisdall",
+        "Daniel H. Wolf",
+        "David R. Roalf",
+        "Theodore D. Satterthwaite"
+    ],
+    "Name": "Penn LEAD: Penn Longitudinal Executive functioning in Adolescent Development - ASLPrep Derivatives",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "ASLPrep",
+            "Version": "0.7.5",
+            "CodeURL": "https://github.com/PennLinc/aslprep.git/archive/0.7.5.tar.gz"
+        }
+    ],
+    "BIDSVersion": "1.9.0",
+    "PipelineDescription": {
+        "Name": "ASLPrep",
+        "Version": "0.7.5",
+        "CodeURL": "https://github.com/PennLINC/aslprep/archive/0.7.5.tar.gz"
+    },
+    "CodeURL": "https://github.com/PennLINC/aslprep",
+    "HowToAcknowledge": "Please cite our paper and include the generated citation boilerplate within the Methods section of the text.",
+    "SourceDatasetsURLs": [
+        "https://doi.org/TODO: eventually a DOI for the dataset"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006744.v1.0.0"
+}

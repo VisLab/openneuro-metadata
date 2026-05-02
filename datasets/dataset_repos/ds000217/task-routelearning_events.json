@@ -1,0 +1,47 @@
+{
+	"trial_type": {
+		"LongName": "Trial Type",
+		"Description": "Trial type",
+		"Levels": {
+			"study_trial": "On study trials participants viewed the route in full",
+			"catch_trial": "Catch trials were instereted to ensure participants were paying actively learning. On catch trials the route would stop at a given picture number (see test_picture) and participants would be tested on the route (see test_type)"
+		}
+	},
+	"route_number": {
+		"LongName": "Route number",
+		"Description": "The route-unique number. In each experiment two sets of routes were used across participants. Group 1 subjects learned routes 1-4 and Group 2 subjects learned routes 5-8. See participant list for each subjects group number."
+	},
+	"destination": {
+		"LongName": "Route Destination",
+		"Description": "The destination of the route."			
+	},
+	"test_type": {
+		"LongName": "Catch trial test type",
+		"Description": "On catch trials subjects were tested about the destination of the route or the direction of the next turn.",
+		"Levels": {
+			"direction": "On direction test trials participants selected the direction of the upcoming turn (left or right)",
+			"destination": "On destination test trials participants selected the destination name of the current route"
+		}			
+	}, 
+	"test_picture": {
+		"LongName": "Catch trial test picutre",
+		"Description": "For catch trial this value represents the picture number in the route on which the trial stopped for the test."			
+	},
+	"test_response": {
+		"LongName": "Catch trial test response",
+		"Description": "Participants response to the catch trial."			
+	},
+	"test_RT": {
+		"LongName": "Catch trial test response time",
+		"Description": "Participants response time to the catch trial. If blank participants did not respond",
+		"Units": "seconds"			
+	},
+	"test_correct": {
+		"LongName": "Catch trial hits",
+		"Description": "Binary value representing wether the participant correctly answered the catch trial quesiton",
+		"Levels": {
+			"0": "Incorrect",
+			"1": "Correct"
+		}			
+	}
+}

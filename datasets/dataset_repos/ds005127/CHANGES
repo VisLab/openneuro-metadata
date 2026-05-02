@@ -1,0 +1,15 @@
+2.0.0 2025-12-11
+  - Updated naming scheme of virtually all files to be more in compliance with BIDS, and identical to sleep2 (doi:10.18112/openneuro.ds006163.v1.0.0).
+  - The derivatives folder now also contains physio_prepro, like sleep2.
+1.0.4 2024-10-24
+    - Now really with code/ included...
+1.0.3 2024-10-24
+    - Added code/ folder that contains functions to read AMRI's .svd file format
+      for IDL, Matlab and python.
+1.0.2 2024-08-07
+    - Added derivatives: EEG-derived sleep scoring; gradient artifact and
+      cardioballistic artifact corrected EEG data; preprocessed fMRI data.
+1.0.1 2024-08-06
+    - Updated study information.
+1.0.0 2024-05-07
+    - Initial release of 'sleep1', aka the sleep pilot study.

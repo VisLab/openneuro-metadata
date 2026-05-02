@@ -1,0 +1,14 @@
+1.2.2 2021-06-02
+  - fix special characters in dataset description
+1.2.1 2021-06-02
+  - fix author typo in dataset description
+1.2.0 2021-03-15
+  - added 'Psychiatric Research: Neuroimaging' paper in How to Acknowledge section of README
+1.1.0 2021-03-15
+  - updated README
+  - updated `dataset_description.json`
+  - added `participants.tsv` and `participants.json`
+
+1.0.0	2020-07-13
+
+	- Initial snapshot

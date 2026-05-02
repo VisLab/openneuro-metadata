@@ -1,0 +1,9 @@
+{
+  "CHANGES": "3a9036d63570e839ba9e44fe73b267b1d1537302",
+  "task-FacePerception_events.json": "08f610cb368b7d299b8e0facd84ff02ef9cef8be",
+  "README": "65ef49da8068124297809dc9203e55f002e4326b",
+  "dataset_description.json": "b452d128e0c2f308dff0dc75432509810927693c",
+  "participants.json": "1cb474a11c31370b0dae1befca2d60c6074686b6",
+  "participants.tsv": "71aab36ca74507bb02ea72dae88c77c6f98be2ff",
+  "sub-1001/eeg/sub-1001_task-FacePerception_events.tsv": "daeb34c47c1b4259ba04cb234701af21c86bcd6b"
+}

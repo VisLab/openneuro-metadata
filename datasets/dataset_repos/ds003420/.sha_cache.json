@@ -1,0 +1,15 @@
+{
+  "dataset_description.json": "c07f1c019571b9ddd4d40a491ef613ae08b5fd07",
+  "participants.tsv": "4469861b1b3f74e9ad7ff358f41b24138367cc8f",
+  "README": "b93dba14a27d78592f31e369051a12547dc862b6",
+  "CHANGES": "eab21071d091a06ca4c78002fc908d960e7e0fdc",
+  "participants.json": "f48302a031d13a04c12fda95a56d96c26e266047",
+  "sub-01/ses-naming/eeg/sub-01_ses-naming_run-1_events.json": "7df94eca424b8e967e8c052642771b5d64a42b80",
+  "sub-01/ses-naming/eeg/sub-01_ses-naming_run-2_events.tsv": "3a90b0475113647f058fb970df3e11d717beb1a0",
+  "sub-01/ses-naming/eeg/sub-01_ses-naming_run-2_events.json": "7df94eca424b8e967e8c052642771b5d64a42b80",
+  "sub-01/ses-spelling/eeg/sub-01_ses-spelling_run-1_events.json": "7df94eca424b8e967e8c052642771b5d64a42b80",
+  "sub-01/ses-spelling/eeg/sub-01_ses-spelling_run-2_events.json": "7df94eca424b8e967e8c052642771b5d64a42b80",
+  "sub-01/ses-spelling/eeg/sub-01_ses-spelling_run-1_events.tsv": "d21ce70b70c695bf9cc3b6881a83e9f18772806e",
+  "sub-01/ses-naming/eeg/sub-01_ses-naming_run-1_events.tsv": "b796006b41eee111478ed172d29d3f26c31d71dd",
+  "sub-01/ses-spelling/eeg/sub-01_ses-spelling_run-2_events.tsv": "1200fff363e91e7638d4066148f2a1a017a866aa"
+}

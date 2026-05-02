@@ -1,0 +1,2 @@
+1.0.0 2025-11-17
+  - Initial public release of the IACKD dataset. Includes raw EEG (BrainVision), Leap Motion behavioral data, and preprocessed MATLAB derivatives.

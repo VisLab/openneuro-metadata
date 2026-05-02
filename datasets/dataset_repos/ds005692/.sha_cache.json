@@ -1,0 +1,8 @@
+{
+  "README": "1bf89ca59cc5d85fd41db219bc08c90afeff3f3a",
+  "participants.tsv": "3f27a958c62a6d837a4f7c3cefa47bb29b56c949",
+  "CHANGES": "ecb3bac29fa7eaad345a0dac4b6cce25c0910800",
+  "dataset_description.json": "5c5dafb28de381bc3ca8df6ffe5f15156f86cfd0",
+  "sub-01/ses-2/eeg/sub-01_ses-2_task-countingDeviants_events.tsv": "a7585b885a7a7e5d078ca001c6e7b6cc3872f61c",
+  "sub-01/ses-1/eeg/sub-01_ses-1_task-countingDeviants_events.tsv": "3ccde403c7d29c83618b9a2c53930a968a38bebe"
+}

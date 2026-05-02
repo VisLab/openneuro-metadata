@@ -1,0 +1,11 @@
+This dataset contains the raw volumes and manually drawn brain masks (derivates/manual-masks/) from the WSU dataset that were used to train a convolutional neural network to segment the fetal brain from adult tissue using resting-state functional MRI data. We share this data with the hope that others may build upon our foundational model and further improve model performance. For example, this may include 3D CNN training and additional augmentations (cropping, zero-padding).
+
+In order to comply with BIDS standards, the 3D (raw and mask) volumes were merged into a 4D time series file.
+ However, these time series do not represent temporally connected volumes. Masks were drawn on a single volume from a period of fetal stillness. For further methods details on the prior manual preprocessing methods used please refer to the methods section of
+ this paper: 
+https://www.jneurosci.org/content/jneuro/39/49/9716.full.pdf. These data provided are not intended for connectomic analyses due to missing volumes in the time series. Please contact Moriah Thomason (Moriah dot Thomason at nyulangone dot org) for additional
+ information on full time series data access. 
+
+For further information about the train/validation/test split please see our preprint:
+https://www.biorxiv.org/content/10.1101/525386v2 or our github page: 
+https://github.com/saigerutherford/fetal-code. The github page also includes a tutorial (https://github.com/saigerutherford/fetal-code/blob/master/fetal_mask_tutorial.ipynb)

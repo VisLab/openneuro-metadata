@@ -1,0 +1,10 @@
+{
+  "CHANGES": "fa11a2633ab8f36ef6a10959e7af489f2bee566c",
+  "dataset_description.json": "eb72da70d6ccf0c3c602f782dc2e8bb81737bd52",
+  "task-GuardDuty_eeg.json": "e7392ed052671d1813a8941962da992cced135a2",
+  "task-GuardDuty_events.json": "8f9faa98b837498abd2fbb893471f0f026084c78",
+  "README": "5930c2ab8ced55ba5010eb3aaa106761aab699ae",
+  "participants.json": "61666090fa285ac7fbd5d95510cfed3b21b7c520",
+  "participants.tsv": "faa9f458d57f2d640cfc73c9c57f1dc43947b8be",
+  "sub-01/ses-01/eeg/sub-01_ses-01_task-GuardDuty_run-1_events.tsv": "d07e2501e423680512a0243d449174c474a0bd87"
+}

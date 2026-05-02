@@ -1,0 +1,16 @@
+{
+    "Name": "Dataset of emotion recognition using validated video stimuli with large-scale behavioral survey and MEG recordings",
+    "BIDSVersion": "TBD",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Moon-A Yoo",
+        "Dong-Uk Kim",
+        "Soo-In Choi",
+        "Min-Young Kim",
+        "Sung-Phil Kim"
+    ],
+    "Acknowledgements": "This research was supported by the Challengeable Future Defense Technology Research and Development Program through the Agency For Defense Development (ADD) funded by the Defense Acquisition Program Administration (DAPA) in 2022-2025(No.915061201)",
+    "HowToAcknowledge": "TBD (Paper Citation)",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007640.v1.0.0"
+}

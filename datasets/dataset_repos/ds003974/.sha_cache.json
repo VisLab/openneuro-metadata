@@ -1,0 +1,15 @@
+{
+  "dwi.json": "8a8841db23b51b81f2667c34ed519d1f8c52f3e4",
+  "T1w.json": "82eb6a670e86d9199851c747aa34096b298435d2",
+  "README": "1826085fb50432737bac5f7f9d72cf30c5d6a822",
+  "dir-AP_epi.json": "66a02f630a7f1785896da9b7fecc78c0953cd518",
+  "dataset_description.json": "2baa91b94abb5ae31f7fda285c72d506b2c6af95",
+  "L1_Adult_Eyetracking.xlsx": "11f1352270ae7d89b21c979252343db16c39d921",
+  "CHANGES": "c682731d9f6c829f3685205e9a35a0a333a9e113",
+  "L1_Adults_demographics.tsv": "096327327c03a8bbaa268f5c3861ed251bf062ed",
+  "dir-PA_epi.json": "880f0f901ae819790f0ae649cd760f11915fd6b2",
+  "L1_Adults_RBQ.tsv": "4616b5db6e73d281d84599303c7b7c73e7f34f21",
+  "task-read_bold.json": "e4592a2ac9d5efdf1a6c263c7b28e299c65407f8",
+  "task-rest_bold.json": "58af28906a4dccb40671afc1a0e3f6aeab26277c",
+  "text_data.xlsx": "a73e5f5f2cb3e16fcad89b46e3a199bdfa032fbf"
+}

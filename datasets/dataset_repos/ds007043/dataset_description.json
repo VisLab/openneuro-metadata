@@ -1,0 +1,17 @@
+{
+    "Name": "After-effects of parieto-occipital gamma transcranial alternating current stimulation on behavioral performance and neural activity in visuo-spatial attention task",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Description": "This dataset contains EEG and behavior data of 18 healthy adults. During the experiment, participants were presented with visual stimuli while their brain activity was recorded using a 32-channel EEG system. The behavioral data includes reaction times and accuracy for a series of cognitive tasks designed to assess visual attention.",
+    "Authors": [
+        "Tianyi Zheng",
+        "Yunshan Huang",
+        "Masato Sugino",
+        "Kenta Shimba",
+        "Yasuhiko Jimbo",
+        "Kiyoshi Kotani"
+    ],
+    "License": "CC0",
+    "Acknowledgements": "We thank all participants who took part in this study.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007043.v1.0.0"
+}

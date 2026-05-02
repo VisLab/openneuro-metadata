@@ -1,0 +1,5 @@
+Diffusion MRI data acquired on a cohort of rats with intracerebroventricular injection of streptozotocin (STZ) for Alzheimer's disease-like pathology, and a cohort of controls (sham injection). 
+Aim: to investigate the changes in brain microstructure during pathology progression, in a preclinical setting. Animals underwent scanning session at four time-points: 2, 6, 13 and 21 weeks (ses-1,2,3 and 4) after injection.
+Diffusion MRI data include 3 b-values up to b=2000 s/mm^2 and are suitable for DKI analysis and any version of the Standard Model of diffusion in white matter. 
+Some rats are missing data from the last timepoint. Data were acquired across two scanner consoles, with an initial cohort acquired on a Varian console and a second cohort acquired on a Bruker console (rats with ID from 5541 to 5548). This information is available in the json file of each dataset.
+Resting state fMRI data acquired on the same cohort of rats can be found following the link: https://openneuro.org/datasets/ds003520

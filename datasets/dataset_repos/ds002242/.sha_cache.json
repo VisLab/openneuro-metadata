@@ -1,0 +1,14 @@
+{
+  "task-stt_bold.json": "e5395dedd2b52a0314a0480a06066467d5c5bbc7",
+  "README": "c3402fcc03c0c2cae4812e2f05832727bb65f1fb",
+  "dataset_description.json": "183c132bd53894ccfaaedf465eb2d5b73174c29e",
+  "CHANGES": "dab793e346891198079b726c2fa5c1dcc6a3251a",
+  "participants.tsv": "3672440154dbfdb62e55c7a71963828610daa5cc",
+  "sub-1295/func/sub-1295_task-stt_run-7_events.tsv": "0a20cd16042714e7da8c165dbb330341b17d7d8b",
+  "sub-1295/func/sub-1295_task-stt_run-4_events.tsv": "f4ca906772e63bb989260664dc3da6cce6ff3f65",
+  "sub-1295/func/sub-1295_task-stt_run-3_events.tsv": "17ef217079caf6dad03e25d4a2881cdce8877cba",
+  "sub-1295/func/sub-1295_task-stt_run-5_events.tsv": "7baedbc3be3767f09a2ade88c083525da2460369",
+  "sub-1295/func/sub-1295_task-stt_run-6_events.tsv": "e94fb948e56dbacf2e211cfa1c47f45fd4a6ee62",
+  "sub-1295/func/sub-1295_task-stt_run-1_events.tsv": "462b23ce61c2aca23645ff038c4cfcd669697ea3",
+  "sub-1295/func/sub-1295_task-stt_run-2_events.tsv": "be427f4662287bb165495aa65c67a291e6166a48"
+}

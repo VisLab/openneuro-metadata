@@ -1,0 +1,45 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Antonio Moreno
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Manon Pietrantoni
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Severine Becuwe
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Christophe Pallier
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+    creators:
+      - name: Antonio Moreno
+        nameType: Personal
+      - name: Manon Pietrantoni
+        nameType: Personal
+      - name: Severine Becuwe
+        nameType: Personal
+      - name: Christophe Pallier
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

@@ -1,0 +1,13 @@
+{
+  "CHANGES": "6f10213ce4cc92c3e0bacc05c3ab38fe021ab6ba",
+  "participants.tsv": "e0b454c53d8bbbcd0819f22286b52001b7c7293e",
+  "task-prospection_bold.json": "84af3231766fd6a49c3a6664607edd93160e6bed",
+  "README": "bdff6c848a31e02c0af51f83309c0f475e542623",
+  "dataset_description.json": "768aae7037e51922ee65dd82aa6932b5eef45b4d",
+  "T1w.json": "69b15321b33bc8c19fdaadd0562f06dd4e4ea5a3",
+  "task-prospection_events.json": "22eef94f648bb5e1c678ce6de79e3421917306d2",
+  "sub-0217/func/sub-0217_task-prospection_run-2_events.tsv": "c48e193a10caec12dcd16f01e3b8c532016a77f4",
+  "sub-0217/func/sub-0217_task-prospection_run-4_events.tsv": "2398fe17670077cbc8aafabaa78384c49e2f71f7",
+  "sub-0217/func/sub-0217_task-prospection_run-3_events.tsv": "271678fe40740a8d27c8f774079ee36247b83a9a",
+  "sub-0217/func/sub-0217_task-prospection_run-1_events.tsv": "3f69d5fb5fd5e18797f00cd18e64560a4e29ed66"
+}

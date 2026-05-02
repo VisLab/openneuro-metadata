@@ -1,0 +1,18 @@
+{
+    "Acknowledgements": "We thank Tiana Duong, Gene Park, Everett Tai and Hyunwoo Hong for assistance with data collection. This work was supported by National Science Foundation Grant 2440390 to M.A.T.",
+    "Authors": [
+        "TODO:",
+        "First1 Last1",
+        "First2 Last2",
+        "..."
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007394.v1.0.0",
+    "Funding": [
+        "National Science Foundation Grant 2440390 to M.A.T."
+    ],
+    "HowToAcknowledge": "OSF: https://doi.org/10.17605/OSF.IO/8BQGW",
+    "License": "CC0",
+    "Name": "Internal Narratives fMRI Dataset",
+    "ReferencesAndLinks": []
+}

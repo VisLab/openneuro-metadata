@@ -1,0 +1,22 @@
+# Multivariate Assessment of Inhibitory Control in Youth: Links with Psychopathology and Brain Function Dataset
+
+A comprehensive dataset for the data included in the manuscript entitled “Multivariate Assessment of Inhibitory Control in Youth: Links with Psychopathology and Brain Funciton”. This dataset contains demographic variables, parent-reported clinical symptoms, behavior from four canonical cognitive function neuropsychological tests, along with structural and resting state functional magnetic resonance imaging (MRI) data.
+
+## Participant Eligibility
+Participants included youth ages 8 – 18 years. To be eligible for the study, participants needed to be able to read, speak, and understand English and meet diagnostic criteria for either a primary diagnosis of an anxiety disorder (generalized, social, and/or separation anxiety disorder), disruptive mood dysregulation disorder (DMDD), or ADHD. In addition, youth were included with clinically-significant irritability not meeting the threshold for DMDD (ie. significant irritability but only in one setting) and youth with no psychiatric diagnosis (as assessed by a clinical using the Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime version (KSADS-PL). Participants were excluded for: IQ<70; diagnosis of autism spectrum disorder, past and/or current posttraumatic stress disorder, schizophrenia, or major depression; substance use within the past three months; and neurological disorder. Parents and youth completed written informed consent and assent, respectively. Families received monetary compensation. 
+
+Of the 246 participants included in analyses, only 220 consented to share their data publicly. Thus, exact replication of analyses from this manuscript will not be possible. 
+
+## Clinical Measures
+All symptoms were assessed by the parent-report questionnaires. Anxiety symptoms were assessed using the Screen for Child Anxiety Related Emotional Disorders (SCARED). Five subscale scores (Generalized Anxiety, Panic, Social Anxiety, Separation Anxiety, School Anxiety) were calculated. Irritability symptoms were assessed using the Affective Reactivity Index (ARI). Item-level responses to the six items included in the total score were extracted. ADHD symptoms were assessed using the Conners Comprehensive Behavior Rating Scale (CBRS). Six items from the DSM-IV ADHD Total raw score were selected (three inattention and three hyperactivity/impulsivity items with the highest factor loadings on an ADHD latent variable). 
+
+Eligible also participants completed four canonical cognitive function neuropsychological tests: Anti-Saccade Task, AX Continuous Performance Task (AX-CPT), Flanker Task, & Stop Signal Delay Task. A measure of inhibitory control was extracted from each of the four tasks. For Anti-Saccade, we calculated the percentage of correct anti-saccade trials across all anti-saccade trials. For AX-CPT, we calculated d’ context. For Flanker task, we calculated the reaction time difference between correct responses to incongruent vs. congruent trials. And for the Stop Signal Delay Task we calculated stop-signal reaction time.
+
+## Biological and Physiological measures
+No biological or physiological measures were included in any analyses.
+
+## Imaging Studies
+Participants were given the option to additionally participant in optional magnetic resonance imaging (MRI). Structural data was acquired using a T1-weighted magnetization-prepared, rapid-acquisition gradient echo (MPRAGE) sequence (TE=min full, TI=425, flip angle=7°, FoV=256 mm3, 1mm3 voxels). Resting state functional connectivity data was acquired while participants were asked to view a white fixation-cross on a black background for 12 minutes. We measured blood-oxygen-level-dependent (BOLD) changes with a multi-echo planar imaging sequence (TR=2000 msec, TE1/2/3=14.8/28.4/42.0msec, flip angle 77°, matrix size 64×64, 34 axial interleaved slices, slice thickness 3.8mm, bandwidth=7812.5 Hz/Pixel).
+
+
+ 

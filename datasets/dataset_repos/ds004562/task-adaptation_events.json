@@ -1,0 +1,31 @@
+{
+	"onset": {
+		"Description": "trial onset"
+	},
+	"duration": {
+		"Description": "trial duration"
+	},
+	"session_number": {
+		"Description":"the number of experimental block (1 through 15). Session indicates experimental block, not day 1 or day 2."
+	},
+	"session_type": {
+		"Description":"type of experimental block. Session indicates the experimental block, not day 1 or day 2.",
+		"Levels": {
+			"rotation+90": "the direction in which the cursor moves is rotated 90 degrees clockwise compared to the direction in which the hand moves.",
+			"rotation-90": "The direction in which the cursor moves is rotated 90 degrees counter-clockwise compared to the direction in which the hand moves.",
+			"mirror": "The horizontal movement of the cursor is reversed"
+		}
+	},
+	"stimulus_direction": {
+		"Description":"direction of a given straight line, i.e., direction to move the cursor to erase",
+		"Levels": {
+			"leftward": "leftward",
+			"rightward": "rightward",
+			"upward": "upward",
+			"downward": "downward"
+		}
+	},
+	"number_ErasedDot": {
+		"Description":"a number of erased dot during the trial"
+	}
+}

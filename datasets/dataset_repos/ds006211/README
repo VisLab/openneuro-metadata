@@ -1,0 +1,11 @@
+fMRI dataset accompanying the preprint "Brain bases for navigating acoustic features" (https://doi.org/10.1101/2025.02.10.636597).
+
+Last update: 7 May 2025.
+
+The following subjects’ data were not uploaded or analysed for reasons given in the manuscript: sub-06,  sub-10, sub-17, sub-25, sub-28.
+
+Event files contain trial onsets (secs), durations (secs) and conditions (MA=memory adjustment, MP=memory parity, NA=non-memory adjustment, NP=non-memory parity).
+
+For further information please contact the first author, Alexander J. Billig, at a.billig@ucl.ac.uk or ajbillig@gmail.com.
+
+This dataset was converted using ezBIDS (https://brainlife.io/ezbids).

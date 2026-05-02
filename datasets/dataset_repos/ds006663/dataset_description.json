@@ -1,0 +1,45 @@
+{
+    "Name": "Longitudinal in vivo MRI of C57BL6J mice: T1w, RARE T2w, PDw, MTw, DWI, BOLD rsfMRI",
+    "BIDSVersion": "1.10.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Hanna Lemmik",
+        "Eugene Kim",
+        "Eilidh MacNicol",
+        "Davide Maselli",
+        "Michel Bernanos",
+        "Zhuoni Li",
+        "Dauda Abdullahi",
+        "Esther Walters",
+        "Maria Elisa Serrano Navacerrada",
+        "Wuding Zhou",
+        "Aleksandar Ivetic",
+        "Diana Cash",
+        "Laura Westacott"
+    ],
+    "Keywords": [
+        "C3ar1",
+        "innate immunity",
+        "magnetization transfer weighted",
+        "T1 weighted",
+        "RARE T2 weighted",
+        "proton density weightedBOLD rsfMRI",
+        "diffusion"
+    ],
+    "Acknowledgements": "Special thanks to Eugene Kim for developing imaging pipelines and formatting this dataset in BIDS.",
+    "HowToAcknowledge": "Please cite this manuscript: Hanna Lemmik, Eugene Kim, Eilidh MacNicol, Davide Maselli, Michel Bernanos, Zhuoni Li, Dauda Abdullahi, Esther Walters, Maria Elisa Serrano Navacerrada, Wuding Zhou, Aleksandar Ivetic, Diana Cash, Laura Westacott, Complement receptor C3ar1 deficiency does not alter brain structure or functional connectivity across early life development, Brain Communications, 2025; fcaf422, https://doi.org/10.1093/braincomms/fcaf422",
+    "Funding": [
+        "This work was funded by the MRC grant “Complement C3aR in adolescent synaptic pruning and risk for anxiety” (MR/W004607/1)",
+        "Hanna Lemmik was funded by the Wellcome Trust as part of the “Neuro-Immune Interactions in Health & Disease” Wellcome Trust PhD Programme (218452/Z/19/Z)"
+    ],
+    "EthicsApprovals": [
+        "All procedures complied with the UK Animals and Scientific Procedures Act 1986 and were approved by the local ethical committee at King’s College London"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1101/2025.04.24.650541",
+        "Lemmik H, Kim E, MacNicol E, et al. Complement receptor C3ar1 deficiency does not alter brain structure or functional connectivity across early life development. bioRxiv. Published online April 26, 2025:2025.04.24.650541",
+        "Hanna Lemmik, Eugene Kim, Eilidh MacNicol, Davide Maselli, Michel Bernanos, Zhuoni Li, Dauda Abdullahi, Esther Walters, Maria Elisa Serrano Navacerrada, Wuding Zhou, Aleksandar Ivetic, Diana Cash, Laura Westacott, Complement receptor C3ar1 deficiency does not alter brain structure or functional connectivity across early life development, Brain Communications, 2025;, fcaf422, https://doi.org/10.1093/braincomms/fcaf422"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006663.v1.0.3"
+}

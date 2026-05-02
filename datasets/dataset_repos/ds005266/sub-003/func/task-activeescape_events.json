@@ -1,0 +1,31 @@
+{
+    "trial_type": {
+        "LongName": "Type of trial",
+        "Description": "Describes the trial epoch of the data.",
+        "Levels": {
+            "countdown": "The countdown epoch in which participants are viewing a descending countdown from 18 - 1, which precedes the motor epoch.",
+            "go_cue": "The motor epoch in which participants are making the time-sensitive motor response using the joystick."
+        }
+    },
+    "condition_code": {
+        "LongName": "Type of condition per trial",
+        "Description": "Describes the task condition of the trial.",
+        "Levels": {
+            "1": "Controllable Unpleasant - an unpleasant shock is avoidable if participants make a successful motor response.",
+            "2": "Controllable Mild - movement goal is to push the joystick away from yourself on the current trial.",
+            "3": "Uncontrollable Unpleasant - movement goal is to push the joystick away from yourself on the current trial.",
+            "4": "Uncontrollable Mild - movement goal is to push the joystick away from yourself on the current trial."
+        }
+    },
+    "target_code": {
+        "LongName": "Location of target circle",
+        "Description": "Corner of the screen where the target circle is located during the motor epoch.",
+        "Levels": {
+            "1": "Top left corner of the screen.",
+            "2": "Top right corner of the screen.",
+            "3": "Bottom right corner of the screen.",
+            "4": "Bottom left corner of the screen."
+        }
+    }
+}
+

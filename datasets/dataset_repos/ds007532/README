@@ -1,0 +1,50 @@
+# Spatial and Semantic Sequence Memory fMRI Dataset
+
+## Overview
+
+This dataset contains high-resolution fMRI and eye-tracking data collected to investigate how spatial and semantic memory organize along the hippocampal long axis. The study is described in:
+
+> Jordan AG, Voss JL, Kragel JE. Spatial and semantic memory reorganize a hippocampal long-axis gradient. *Proceedings of the National Academy of Sciences* (2026). https://doi.org/10.1073/pnas.2525724123
+
+## Dataset Summary
+
+- **Participants:** 36 enrolled; 28 included in fMRI analyses (8 excluded due to task performance at or below chance for any condition)
+- **Sessions:** 2 fMRI sessions per participant (median inter-session interval: 2 days; range: 1–38 days)
+- **Runs per session:** 8 functional runs
+- **Task:** Visual sequence mismatch detection (VISSEQ) — participants learned five-object sequences defined by spatial and semantic transitions, then judged whether test sequences were intact or contained object, location, or combined swaps at near or far mismatch distances
+- **Eye tracking:** EyeLink 1000 Plus (500 Hz); used to measure predictive fixations (spatial memory) and first-fixation durations (semantic memory)
+
+## MRI Acquisition
+
+Data were collected on a Philips Ingenia 3 Tesla scanner at the University of Chicago MRI Research Center.
+
+- **Structural:** T1-weighted 3D MPRAGE (1.0 × 1.0 × 1.0 mm isotropic)
+- **Functional:** MultiBand 3 EPI (TR = 2 s, TE = 20 ms, flip angle = 80°, 1.625 × 1.625 × 1.8 mm, 81 slices)
+
+## Task Design
+
+The VISSEQ task manipulated sequence memory in a 2 × 2 design:
+
+- **Swap type:** Object swap (semantic mismatch), Location swap (spatial mismatch), Both swap (combined mismatch), or Intact
+- **Mismatch magnitude:** Near or Far, based on semantic embedding distance (object swaps) or angular separation on the circular grid (location swaps)
+
+Each participant completed 256 sequences across 16 blocks. Object stimuli were drawn from the THINGS dataset (Hebart et al., 2020, *Nature Human Behaviour*).
+
+## Participants
+
+Participants were healthy adults with normal or corrected-to-normal vision, no neuropsychiatric history, no psychotropic drug use, and no MRI contraindications. The research protocol was approved by the University of Chicago Biological Sciences Division Institutional Review Board. All participants provided informed written consent and were compensated $30/hour.
+
+See `participants.tsv` for individual participant metadata (age, sex, inclusion status).
+
+## License
+
+This dataset is released under the **Creative Commons Zero (CC0)** license. You are free to use, modify, and distribute this data without restriction.
+
+## Funding
+
+This research was supported by the National Institutes of Health grant **R01MH128552**.
+
+## Contact
+
+James E. Kragel — jkragel@uchicago.edu  
+Department of Neurology, University of Chicago, Chicago IL 60637, USA

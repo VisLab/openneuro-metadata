@@ -1,0 +1,130 @@
+onset	duration	task_event	rt_in_ms	task_novelty	logic_rule	sensory_rule	motor_rule	performance	task_id	motor_response	stimulus1_color	stimulus1_orientation	stimulus1_pitch	stimulus1_continuity	stimulus2_color	stimulus2_orientation	stimulus2_pitch	stimulus2_continuity
+0.0	3.9250000000000003	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+3.9250000000000003	3.9250000000000003	encoding	n/a	Novel	**BOTH**	VERTICAL	RIGHT*MIDDLE	n/a	15.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+7.8500000000000005	3.14	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+10.99	2.355	trial	1796.0	Novel	**BOTH**	VERTICAL	RIGHT*MIDDLE	Correct	15.0	right_index_finger	red	horizontal	low	alarm	red	vertical	low	alarm
+13.345	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+14.915000000000001	2.355	trial	2035.0	Novel	**BOTH**	VERTICAL	RIGHT*MIDDLE	Correct	15.0	right_index_finger	red	horizontal	high	alarm	blue	vertical	low	constant
+17.27	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+18.84	2.355	trial	1573.0	Novel	**BOTH**	VERTICAL	RIGHT*MIDDLE	Correct	15.0	right_index_finger	blue	horizontal	high	alarm	red	vertical	high	constant
+21.195	10.99	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+32.185	3.9250000000000003	encoding	n/a	Novel	*EITHER*	VERTICAL	*LEFT*INDEX*	n/a	46.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+36.11	6.28	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+42.39	2.355	trial	3099.0	Novel	*EITHER*	VERTICAL	*LEFT*INDEX*	Correct	46.0	left_middle_finger	red	horizontal	low	alarm	blue	horizontal	high	alarm
+44.745	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+46.315	2.355	trial	2885.0	Novel	*EITHER*	VERTICAL	*LEFT*INDEX*	Correct	46.0	left_middle_finger	red	horizontal	high	constant	red	horizontal	high	alarm
+48.669999999999995	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+50.239999999999995	2.355	trial	2015.0	Novel	*EITHER*	VERTICAL	*LEFT*INDEX*	Correct	46.0	left_middle_finger	red	horizontal	high	constant	blue	horizontal	low	alarm
+52.59499999999999	7.85	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+60.44499999999999	3.9250000000000003	encoding	n/a	Novel	*EITHER*	VERTICAL	RIGHT*INDEX*	n/a	48.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+64.36999999999999	3.925	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+68.29499999999999	2.355	trial	1824.0	Novel	*EITHER*	VERTICAL	RIGHT*INDEX*	Wrong Hand	48.0	left_middle_finger	blue	horizontal	high	alarm	blue	horizontal	high	alarm
+70.64999999999999	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+72.21999999999998	2.355	trial	1867.0	Novel	*EITHER*	VERTICAL	RIGHT*INDEX*	Wrong Hand	48.0	left_index_finger	red	horizontal	high	constant	red	vertical	low	alarm
+74.57499999999999	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+76.14499999999998	2.355	trial	1409.0	Novel	*EITHER*	VERTICAL	RIGHT*INDEX*	Wrong Hand	48.0	left_index_finger	blue	vertical	low	constant	blue	horizontal	high	alarm
+78.49999999999999	10.205	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+88.70499999999998	3.9250000000000003	encoding	n/a	Novel	*EITHER*	**RED***	RIGHT*INDEX*	n/a	44.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+92.62999999999998	3.14	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+95.76999999999998	2.355	trial	2838.0	Novel	*EITHER*	**RED***	RIGHT*INDEX*	Correct	44.0	right_index_finger	red	vertical	low	constant	red	vertical	low	constant
+98.12499999999999	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+99.69499999999998	2.355	trial	1854.0	Novel	*EITHER*	**RED***	RIGHT*INDEX*	Correct	44.0	right_middle_finger	blue	horizontal	low	alarm	blue	vertical	high	constant
+102.04999999999998	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+103.61999999999998	2.355	trial	1501.0	Novel	*EITHER*	**RED***	RIGHT*INDEX*	Correct	44.0	right_middle_finger	blue	horizontal	high	constant	blue	horizontal	low	constant
+105.97499999999998	10.99	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+116.96499999999997	3.9250000000000003	encoding	n/a	Novel	NOT*BOTH	CONSTANT	LEFT*MIDDLE*	n/a	21.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+120.88999999999997	1.57	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+122.45999999999997	2.355	trial	0.0	Novel	NOT*BOTH	CONSTANT	LEFT*MIDDLE*	No Response	21.0	no_response	red	horizontal	low	alarm	blue	vertical	low	alarm
+124.81499999999997	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+126.38499999999996	2.355	trial	1286.0	Novel	NOT*BOTH	CONSTANT	LEFT*MIDDLE*	Wrong	21.0	left_middle_finger	red	horizontal	low	constant	blue	horizontal	high	constant
+128.73999999999995	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+130.30999999999995	2.355	trial	0.0	Novel	NOT*BOTH	CONSTANT	LEFT*MIDDLE*	No Response	21.0	no_response	red	horizontal	low	alarm	red	horizontal	low	alarm
+132.66499999999994	12.56	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+145.22499999999994	3.9250000000000003	encoding	n/a	Novel	*EITHER*	VERTICAL	LEFT*MIDDLE*	n/a	45.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+149.14999999999995	3.925	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+153.07499999999996	2.355	trial	1525.0	Novel	*EITHER*	VERTICAL	LEFT*MIDDLE*	Correct	45.0	left_middle_finger	red	vertical	low	constant	red	horizontal	low	alarm
+155.42999999999995	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+156.99999999999994	2.355	trial	1315.0	Novel	*EITHER*	VERTICAL	LEFT*MIDDLE*	Correct	45.0	left_middle_finger	blue	vertical	high	constant	blue	vertical	high	constant
+159.35499999999993	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+160.92499999999993	2.355	trial	1862.0	Novel	*EITHER*	VERTICAL	LEFT*MIDDLE*	Correct	45.0	left_index_finger	red	horizontal	low	alarm	red	horizontal	high	constant
+163.27999999999992	10.205	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+173.48499999999993	3.9250000000000003	encoding	n/a	Novel	NOT*BOTH	HI*PITCH	LEFT*MIDDLE*	n/a	17.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+177.40999999999994	4.71	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+182.11999999999995	2.355	trial	1652.0	Novel	NOT*BOTH	HI*PITCH	LEFT*MIDDLE*	Correct	17.0	left_middle_finger	red	horizontal	low	alarm	blue	horizontal	low	alarm
+184.47499999999994	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+186.04499999999993	2.355	trial	2788.0	Novel	NOT*BOTH	HI*PITCH	LEFT*MIDDLE*	Correct	17.0	left_index_finger	red	horizontal	high	alarm	blue	horizontal	high	constant
+188.39999999999992	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+189.9699999999999	2.355	trial	0.0	Novel	NOT*BOTH	HI*PITCH	LEFT*MIDDLE*	No Response	17.0	no_response	blue	horizontal	high	alarm	red	horizontal	high	constant
+192.3249999999999	9.42	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+201.7449999999999	3.9250000000000003	encoding	n/a	Novel	**BOTH**	CONSTANT	*LEFT*INDEX*	n/a	6.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+205.6699999999999	5.495	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+211.1649999999999	2.355	trial	1993.0	Novel	**BOTH**	CONSTANT	*LEFT*INDEX*	Correct	6.0	left_middle_finger	blue	vertical	high	alarm	blue	horizontal	high	alarm
+213.5199999999999	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+215.0899999999999	2.355	trial	2102.0	Novel	**BOTH**	CONSTANT	*LEFT*INDEX*	Correct	6.0	left_middle_finger	red	vertical	high	constant	blue	horizontal	high	alarm
+217.44499999999988	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+219.01499999999987	2.355	trial	1615.0	Novel	**BOTH**	CONSTANT	*LEFT*INDEX*	Correct	6.0	left_middle_finger	red	vertical	high	alarm	blue	horizontal	high	constant
+221.36999999999986	8.635	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+230.00499999999985	3.9250000000000003	encoding	n/a	Novel	**BOTH**	CONSTANT	LEFT*MIDDLE*	n/a	5.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+233.92999999999986	2.355	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+236.28499999999985	2.355	trial	2105.0	Novel	**BOTH**	CONSTANT	LEFT*MIDDLE*	Wrong	5.0	left_middle_finger	blue	vertical	low	alarm	blue	vertical	low	constant
+238.63999999999984	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+240.20999999999984	2.355	trial	1825.0	Novel	**BOTH**	CONSTANT	LEFT*MIDDLE*	Wrong	5.0	left_middle_finger	red	horizontal	low	alarm	red	vertical	low	alarm
+242.56499999999983	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+244.13499999999982	2.355	trial	0.0	Novel	**BOTH**	CONSTANT	LEFT*MIDDLE*	No Response	5.0	no_response	red	vertical	high	constant	red	vertical	high	alarm
+246.4899999999998	11.775	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+258.2649999999998	3.9250000000000003	encoding	n/a	Novel	NEITHER*	HI*PITCH	*LEFT*INDEX*	n/a	50.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+262.1899999999998	1.57	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+263.7599999999998	2.355	trial	2865.0	Novel	NEITHER*	HI*PITCH	*LEFT*INDEX*	Correct	50.0	left_index_finger	blue	horizontal	low	constant	red	horizontal	low	constant
+266.11499999999984	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+267.68499999999983	2.355	trial	2544.0	Novel	NEITHER*	HI*PITCH	*LEFT*INDEX*	Wrong Hand	50.0	right_index_finger	blue	horizontal	low	alarm	blue	vertical	low	alarm
+270.03999999999985	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+271.60999999999984	2.355	trial	0.0	Novel	NEITHER*	HI*PITCH	*LEFT*INDEX*	No Response	50.0	no_response	red	vertical	low	constant	red	horizontal	high	constant
+273.96499999999986	12.56	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+286.52499999999986	3.9250000000000003	encoding	n/a	Novel	*EITHER*	CONSTANT	RIGHT*INDEX*	n/a	40.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+290.4499999999999	2.355	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+292.8049999999999	2.355	trial	2543.0	Novel	*EITHER*	CONSTANT	RIGHT*INDEX*	Wrong	40.0	right_middle_finger	red	vertical	low	alarm	red	vertical	low	constant
+295.1599999999999	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+296.7299999999999	2.355	trial	2380.0	Novel	*EITHER*	CONSTANT	RIGHT*INDEX*	Wrong	40.0	right_index_finger	blue	horizontal	low	alarm	blue	horizontal	low	alarm
+299.0849999999999	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+300.6549999999999	2.355	trial	2143.0	Novel	*EITHER*	CONSTANT	RIGHT*INDEX*	Wrong	40.0	right_middle_finger	blue	vertical	low	constant	blue	vertical	high	alarm
+303.00999999999993	11.775	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+314.7849999999999	3.9250000000000003	encoding	n/a	Novel	NEITHER*	CONSTANT	LEFT*MIDDLE*	n/a	53.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+318.7099999999999	6.28	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+324.9899999999999	2.355	trial	3267.0	Novel	NEITHER*	CONSTANT	LEFT*MIDDLE*	Wrong	53.0	left_index_finger	blue	horizontal	low	alarm	blue	horizontal	low	alarm
+327.3449999999999	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+328.9149999999999	2.355	trial	3299.0	Novel	NEITHER*	CONSTANT	LEFT*MIDDLE*	Correct	53.0	left_index_finger	red	vertical	low	constant	red	horizontal	low	constant
+331.2699999999999	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+332.8399999999999	2.355	trial	0.0	Novel	NEITHER*	CONSTANT	LEFT*MIDDLE*	No Response	53.0	no_response	blue	vertical	low	alarm	red	horizontal	high	alarm
+335.19499999999994	7.85	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+343.04499999999996	3.9250000000000003	encoding	n/a	Novel	NOT*BOTH	VERTICAL	*LEFT*INDEX*	n/a	30.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+346.96999999999997	4.71	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+351.67999999999995	2.355	trial	2729.0	Novel	NOT*BOTH	VERTICAL	*LEFT*INDEX*	Correct	30.0	left_middle_finger	red	vertical	high	alarm	blue	vertical	high	alarm
+354.03499999999997	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+355.60499999999996	2.355	trial	2741.0	Novel	NOT*BOTH	VERTICAL	*LEFT*INDEX*	Correct	30.0	left_middle_finger	red	vertical	low	constant	red	vertical	high	constant
+357.96	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+359.53	2.355	trial	0.0	Novel	NOT*BOTH	VERTICAL	*LEFT*INDEX*	No Response	30.0	no_response	red	vertical	high	constant	red	horizontal	low	constant
+361.885	9.42	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+371.305	3.9250000000000003	encoding	n/a	Prac	*EITHER*	CONSTANT	RIGHT*MIDDLE	n/a	39.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+375.23	3.925	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+379.15500000000003	2.355	trial	3023.0	Prac	*EITHER*	CONSTANT	RIGHT*MIDDLE	Wrong	39.0	right_middle_finger	red	horizontal	low	alarm	blue	horizontal	low	alarm
+381.51000000000005	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+383.08000000000004	2.355	trial	2246.0	Prac	*EITHER*	CONSTANT	RIGHT*MIDDLE	Correct	39.0	right_middle_finger	red	vertical	high	constant	red	vertical	low	alarm
+385.43500000000006	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+387.00500000000005	2.355	trial	1489.0	Prac	*EITHER*	CONSTANT	RIGHT*MIDDLE	Correct	39.0	right_index_finger	red	horizontal	high	alarm	blue	vertical	high	alarm
+389.36000000000007	10.205	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+399.56500000000005	3.9250000000000003	encoding	n/a	Novel	NEITHER*	VERTICAL	RIGHT*INDEX*	n/a	64.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+403.49000000000007	4.71	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+408.20000000000005	2.355	trial	3405.0	Novel	NEITHER*	VERTICAL	RIGHT*INDEX*	Correct	64.0	right_middle_finger	red	horizontal	high	constant	blue	vertical	low	alarm
+410.55500000000006	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+412.12500000000006	2.355	trial	3506.0	Novel	NEITHER*	VERTICAL	RIGHT*INDEX*	Correct	64.0	right_index_finger	blue	horizontal	low	alarm	red	horizontal	high	constant
+414.4800000000001	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+416.05000000000007	2.355	trial	0.0	Novel	NEITHER*	VERTICAL	RIGHT*INDEX*	No Response	64.0	no_response	red	vertical	high	constant	red	horizontal	low	constant
+418.4050000000001	9.42	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+427.8250000000001	3.9250000000000003	encoding	n/a	Novel	**BOTH**	VERTICAL	*LEFT*INDEX*	n/a	14.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+431.7500000000001	2.355	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+434.10500000000013	2.355	trial	2303.0	Novel	**BOTH**	VERTICAL	*LEFT*INDEX*	Correct	14.0	left_middle_finger	red	vertical	high	alarm	red	horizontal	low	constant
+436.46000000000015	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+438.03000000000014	2.355	trial	1774.0	Novel	**BOTH**	VERTICAL	*LEFT*INDEX*	Correct	14.0	left_index_finger	blue	vertical	low	constant	blue	vertical	low	alarm
+440.38500000000016	1.57	ITI	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+441.95500000000015	2.355	trial	1634.0	Novel	**BOTH**	VERTICAL	*LEFT*INDEX*	Correct	14.0	left_index_finger	blue	vertical	low	alarm	blue	vertical	high	constant
+444.3100000000002	11.775	delay	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a

@@ -1,0 +1,24 @@
+participant_id	age	height	weight	gender	handedness	vision	diet	session_order	date_session1	date_session2	hunger_condition_session1	hunger_condition_session2	hunger_session1	thirst_session1	fatigue_session1	time_last_meal_session1	time_last_food_session1	hunger_session2	thirst_session2	fatigue_session2	time_last_meal_session2	time_last_food_session2
+sub-01	22	163	58	F	R	C	None	1	9/6/2023	14/6/2023	H	S	64	50	26	9	9	9	27	4	0	0
+sub-02	62	189	80	M	R	N	Gluten free	1	13/6/2023	27/6/2023	H	S	32	43	4	14	13	3	19	7	1	1
+sub-03	21	169	60	F	R	N	None	2	15/6/2023	29/6/2023	S	H	20	36	9	9	1	70	70	60	14	14
+sub-04	18	177	69	M	R	N	None	1	16/6/2023	23/6/2023	H	S	60	25	60	13	13	10	50	40	1	1
+sub-05	21	158	53	F	R	N	None	1	19/6/2023	22/6/2023	H	S	70	35	30	11	11	5	15	25	2	2
+sub-06	23	185	85	M	L	N	Intermittent fasting	1	19/6/2023	23/6/2023	H	S	76	10	30	16	15	15	40	20	1	1
+sub-07	21	157	50	F	R	N	None	2	20/6/2023	30/6/2023	S	H	40	60	23	11	3	80	30	39	13	13
+sub-08	20	162	55	F	R	C	None	2	21/6/2023	26/6/2023	S	H	65	60	70	1	1	65	27	37	16	9
+sub-09	21	163	70	M	L	C	None	2	21/6/2023	29/6/2023	S	H	35	36	49	1	1	85	50	25	18	12
+sub-10	21	156	50	F	R	C	None	1	18/7/2023	25/7/2023	H	S	75	56	21	13	13	20	10	20	2	2
+sub-11	22	174	59	F	L	N	None	2	18/7/2023	25/7/2023	S	H	5	17	43	2	2	83	5	59	13	13
+sub-12	23	190	101	M	R	C	None	1	20/7/2023	27/7/2023	H	S	80	60	40	10	10	57	40	30	1	1
+sub-13	21	163	59	F	R	N	None	2	21/7/2023	4/8/2023	S	H	14	15	28	2	1	25	18	51	14	11
+sub-14	22	188	69	M	R	N	None	1	24/7/2023	31/7/2023	H	S	35	55	20	18	18	20	30	33	17	0
+sub-15	20	163	46	F	R	N	None	2	26/7/2023	2/8/2023	S	H	25	58	75	1	1	90	61	54	19	13
+sub-17	21	169	66	F	R	C	None	1	1/8/2023	7/8/2023	H	S	65	30	84	16	16	40	57	32	3	3
+sub-18	20	180	68	M	R	C	None	2	2/8/2023	7/8/2023	S	H	11	58	72	3	1	30	54	47	19	17
+sub-19	22	177	57	F	R	N	None	2	3/8/2023	7/8/2023	S	H	0	5	41	1	1	33	6	20	11	11
+sub-20	22	162	55	F	R	C	None	2	4/8/2023	10/8/2023	S	H	0	8	50	1	1	70	18	0	15	15
+sub-21	21	167	62	F	R	C	pescatarian	1	15/8/2023	18/8/2023	H	S	60	61	30	13	13	29	49	57	2	2
+sub-22	22	172	80	F	R	N	None	1	15/8/2023	22/8/2023	H	S	100	8	8	16	16	10	10	0	2	2
+sub-23	18	172	58	M	R	C	None	2	16/8/2023	23/8/2023	S	H	21	10	30	2	2	41	24	53	12	12
+sub-24	21	182	77	M	R	C	None	2	22/8/2023	29/8/2023	S	H	0	10	10	1	1	100	50	30	12	12

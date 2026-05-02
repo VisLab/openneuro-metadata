@@ -1,0 +1,56 @@
+The Audio Cartography project investigated the influence of temporal arrangement on the interpretation of information from a simple spatial data set.  I designed and implemented three auditory map types (audio types), and evaluated differences in the responses to those audio types.
+
+The three audio types represented simplified raster data (eight rows x eight columns). First, a "sequential" representation read values one at a time from each cell of the raster, following an English reading order, and encoded the data value as loudness of a single fixed-duration and fixed-frequency note.  Second, an augmented-sequential ("augmented") representation used the same reading order, but encoded the data value as volume, the row as frequency, and the column as the rate of the notes play (constant total cell duration).  Third, a "concurrent" representation used the same encoding as the augmented type, but allowed the notes to overlap in time.  
+
+Participants completed a training session in a computer-lab setting, where they were introduced to the audio types and practiced making a comparison between data values at two locations within the display based on what they heard.  The training sessions, including associated paperwork, lasted up to one hour.  In a second study session, participants listened to the auditory maps and made decisions about the data they represented while the fMRI scanner recorded digital brain images.
+
+The task consisted of listening to an auditory representation of geospatial data ("map"), and then making a decision about the relative values of data at two specified locations.  After listening to the map ("listen"), a graphic depicted two locations within a square (white background).  Each location was marked with a small square (size: 2x2 grid cells); one square had a black solid outline and transparent black fill, the other had a red dashed outline and transparent red fill.  The decision ("response") was made under one of two conditions.  Under the active listening condition ("active") the map was played a second time while participants made their decision; in the memory condition ("memory"), a decision was made in relative quiet (general scanner noises and intermittent acquisition noise persisted).  During the initial map listening, participants were aware of neither the locations of the response options within the map extent, nor the response conditions under which they would make their decision.  Participants could respond any time after the graphic was displayed; once a response was entered, the playback stopped (active response condition only) and the presentation continued to the next trial.
+
+Data was collected in accordance with a protocol approved by the Institutional Review Board at the University of Oregon.
+
+- Additional details about the specific maps used in this are available through University of Oregon's [ScholarsBank](https://scholarsbank.uoregon.edu/xmlui/handle/1794/25122) (DOI [10.7264/3b49-tr85](https://doi.org/10.7264/3b49-tr85)).
+
+- Details of the design process and evaluation are provided in the associated dissertation, which is available from [ProQuest](https://pqdtopen.proquest.com/pubnum/13420194.html) and University of Oregon's [ScholarsBank](https://scholarsbank.uoregon.edu/xmlui/handle/1794/24538).
+
+- Scripts that created the experimental stimuli and automated processing are available through University of Oregon's [ScholarsBank](https://scholarsbank.uoregon.edu/xmlui/handle/1794/25122) (DOI [10.7264/3b49-tr85](https://doi.org/10.7264/3b49-tr85)).
+
+
+### Preparation of fMRI Data
+Conversion of the DICOM files produced by the scanner to NiFTi format was performed by MRIConvert (LCNI).  Orientation to standard axes was performed and recorded in the NiFTi header (FMRIB, fslreorient2std).  The excess slices in the anatomical images that represented tissue in the next were trimmed (FMRIB, robustfov).  Participant identity was protected through automated defacing of the anatomical data (FreeSurfer, mri_deface), with additional post-processing to ensure that no brain voxels were erroneously removed from the image (FMRIB, BET; brain mask dilated with three iterations "fslmaths -dilM"). 
+
+### Preparation of Metadata
+The dcm2niix tool (Rorden) was used to create draft JSON sidecar files with metadata extracted from the DICOM headers. The draft sidecar file were revised to augment the JSON elements with additional tags (e.g., "Orientation" and "TaskDescription") and to make a more human-friendly version of tag contents (e.g., "InstitutionAddress" and "DepartmentName").  The device serial number was constant throughout the data collection (i.e., all data collection was conducted on the same scanner), and the respective metadata values were replaced with an anonymous identifier: "Scanner1".  
+
+### Preparation of Behavioral Data
+The stimuli consisted of eighteen auditory maps.  Spatial data were generated with the rgeos, sp, and spatstat libraries in R; auditory maps were rendered with the Pyo (Belanger) library for Python and prepared for presentation in Audacity.  Stimuli were presented using PsychoPy (Peirce, 2007), which produced log files from which event details were extracted.  The log files included timestamped entries for stimulus timing and trigger pulses from the scanner. 
+
+- Log files are available in "sourcedata/behavioral".
+- Extracted event details accompany BOLD images in "sub-NN/func/*events.tsv".
+- Three column explanatory variable files are in "derivatives/ev/sub-NN".
+
+
+References
+===========
+Audacity® software is copyright © 1999-2018 Audacity Team. Web site: https://audacityteam.org/. The name Audacity® is a registered trademark of Dominic Mazzoni.
+
+FMRIB (Functional Magnetic Resonance Imaging of the Brain). FMRIB Software Library (FSL; fslreorient2std, robustfov, BET).  Oxford, v5.0.9, Available: https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
+	
+FreeSurfer (mri_deface). Harvard, v1.22, Available: https://surfer.nmr.mgh.harvard.edu/fswiki/AutomatedDefacingTools)
+
+LCNI (Lewis Center for Neuroimaging). MRIConvert (mcverter), v2.1.0 build 440, Available: https://lcni.uoregon.edu/downloads/mriconvert/mriconvert-and-mcverter
+
+Peirce, JW. PsychoPy–psychophysics software in Python. Journal of Neuroscience Methods, 162(1–2):8 – 13, 2007. Software Available: http://www.psychopy.org/
+
+Python software is copyright © 2001-2015 Python Software Foundation. Web site: https://www.python.org
+
+Pyo software is copyright © 2009-2015 Olivier Belanger. Web site: http://ajaxsoundstudio.com/software/pyo/.
+
+R Core Team (2016). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. Available: https://www.R-project.org/.
+
+rgeos software is copyright © 2016 Bivand and Rundel. Web site: https://CRAN.R-project.org/package=rgeos
+
+Rorden, C. dcm2niix, v1.0.20171215, Available: https://github.com/rordenlab/dcm2niix
+
+spatstat software is copyright © 2016 Baddeley, Rubak, and Turner. Web site: https://CRAN.R-project.org/package=spatstat
+
+sp software is copyright © 2016 Pebesma and Bivand. Web site: https://CRAN.R-project.org/package=sp

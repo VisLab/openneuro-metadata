@@ -1,0 +1,48 @@
+{
+    "fix_direction": {
+        "Description": "Direction of the gaze",
+        "Levels": {
+            "1": "row1-col1",
+            "10": "row2-col5",
+            "11": "row3-col1",
+            "12": "row3-col2",
+            "13": "row3-col3",
+            "14": "row3-col4",
+            "15": "row3-col5",
+            "16": "row4-col1",
+            "17": "row4-col2",
+            "18": "row4-col3",
+            "19": "row4-col4",
+            "2": "row1-col2",
+            "20": "row4-col5",
+            "21": "row5-col1",
+            "22": "row5-col2",
+            "23": "row5-col3",
+            "24": "row5-col4",
+            "25": "row5-col5",
+            "3": "row1-col3",
+            "4": "row1-col4",
+            "5": "row1-col5",
+            "6": "row2-col1",
+            "7": "row2-col2",
+            "8": "row2-col3",
+            "9": "row2-col4"
+        },
+        "LongName": "Direction of fixation"
+    },
+    "run_number": {
+        "Description": "Indicated the number of the run",
+        "LongName": "Number of the run"
+    },
+    "task_condition": {
+        "Description": "Indicated the type of task of the run",
+        "Levels": {
+            "2": "main task 25 points to fixate in lines startin up-left and ending bottom right"
+        },
+        "LongName": "Type of task"
+    },
+    "trial_number": {
+        "Description": "Indicated the number of the trial",
+        "LongName": "Number of the trial"
+    }
+}

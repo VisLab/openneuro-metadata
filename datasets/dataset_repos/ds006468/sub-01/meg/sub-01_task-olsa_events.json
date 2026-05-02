@@ -1,0 +1,58 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event from the beginning of the first datapoint. Negative onsets account for events before the first stored data point.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": {
+            "LongName": "Event duration",
+            "Description": "Duration of the sentence in seconds from onset.",
+            "Units": "s"
+        }
+    },
+    "sample": {
+        "Description": "The event onset time in number of sampling points.First sample is 0."
+    },
+    "value": {
+        "Description": "The event code (also known as trigger code or event ID) associated with the event."
+    },
+    "trial_type": {
+        "Description": {
+            "LongName": "Event category",
+            "Description": "Provides some details about the current sentence presented. In the Oldenburg Sentence Test (OLSA), sentences are organized into multiple lists, each containing 20 sentences.",
+            "Levels": {
+                "list index": "Corresponding list number.",
+                "sentence": "Corresponding sentence number 1-20."
+            }
+        }
+    },
+    "sentence": {
+        "Description": {
+            "Description": "Sentence presented to the participant."
+        }
+    },
+    "stim_file": {
+        "Description": {
+            "LongName": "Stimulus filename",
+            "Description": "Relative path of clean speech audio file corresponding to the sentence heard by the participant. Clean audio files may not be provided."
+        }
+    },
+    "intelligibility": {
+        "Description": {
+            "LongName": "Speech Intelligibilty",
+            "Description": "Speech intelligibility of the presented sentences was defined and computed based on the corresponding SNR values using individual psychometric functions."
+        }
+    },
+    "SNR": {
+        "Description": {
+            "LongName": "Signal-to-noise ratio",
+            "Description": "Signal-to-noise ratio (SNR) of the presented sentence"
+        }
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "Windows 10",
+        "SoftwareName": "Matlab, SoundMexPro",
+        "rrid": "Matlab: n/a  / SoundMexPro: n/a / pypixxlib: n/a",
+        "SoftwareVersion": "Matlab: n/a / SoundMexPro n/a"
+    }
+}

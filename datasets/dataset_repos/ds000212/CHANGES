@@ -1,0 +1,26 @@
+1.0.0	2019-03-04
+
+	- Fixed validator error by removing EchoTime from json files
+	- Transformed events.tsv files from volume space to second space by multiplying by 2 to the onset and duration
+
+1.0.0	2019-03-04
+
+	- Fixed validator error by removing EchoTime from json files
+	- Transformed events.tsv files from volume space to second space by multiplying by 2 to the onset and duration
+
+2.0.0	2018-04-09
+
+	- Renamed dataset name to same as OpenfMRI
+
+1.0.0	2018-04-09
+
+	- Initial publish
+
+Revision history for OpenfMRI dataset ds000212
+1.0.1 2017-10-11
+
+     - Added BIDSVersion to dataset_description.json
+
+1.0.0 2016-12-01
+
+     - Initial release

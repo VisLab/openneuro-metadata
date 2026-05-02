@@ -1,0 +1,17 @@
+{
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "task-hybrid_bold.json": "234c4e19cd3da8485074af8b7cce4efff912f937",
+  "README": "4ea4df338a2fd3becd0994b243674e1c1bde596a",
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "CHANGES": "62fd9fd6f3e8ab60c421be18ae30a8c0f9bc7955",
+  "dataset_description.json": "f1250a08bc1e2d1a6ce2422924bbc09e2d788cbe",
+  "participants.tsv": "1011b8d9a645040b960982982b2a7f6443cd2ea1",
+  "sub-01/func/sub-01_task-hybrid_run-1_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/func/sub-01_task-hybrid_run-2_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/func/sub-01_task-hybrid_run-6_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/func/sub-01_task-hybrid_run-3_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/func/sub-01_task-hybrid_run-5_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/func/sub-01_task-hybrid_run-4_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/func/sub-01_task-hybrid_run-7_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5",
+  "sub-01/func/sub-01_task-hybrid_run-8_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5"
+}

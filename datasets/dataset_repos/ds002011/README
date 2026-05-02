@@ -1,0 +1,19 @@
+These pupil, behavioral, functional and structural MRI data have been published in:
+
+Clewett, D. V., Huang, R., Velasco, R., Lee, T. H., & Mather, M. (2018). Locus coeruleus activity strengthens prioritized memories under arousal. Journal of Neuroscience.
+
+
+A ‘participants’ text file indicates each participant’s age group and sex.
+
+There are folders for each participant with their subject number (e.g., “sub-22”). Within each folder are two folders:
+
+1) anat - T1-weighted structural scan
+
+2) func - contains five total functional scans. Four of these scans are different runs of the Overlap task. One of these scans is the PPA localizer task. Included in this folder are the trial-by-trial timing, behavioral, and summary pupil data in the tabular .tsv event files associated with each functional scan. The columns headers of the .tsv tabular files for the Overlap and PPA localizer scans are described in the json files, /task-Overlap_events.json and /task-ppalocalizer_events.json respectively. Note that for parametric analyses, the pupil values should be mean-centered prior to analysis in FSL.
+
+Missing slice timing info and some other fields in sub-05 ppalocalizer bids sidecar.
+
+sub-02 overlap scans have more volumes than normal because of piloting; scans were stopped manually, but additional time was fixation cross.
+
+Behavioral data and stimulation code associated with the project can be found at the project OSF page osf.io/x3kqv/
+

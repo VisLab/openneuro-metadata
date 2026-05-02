@@ -1,0 +1,20 @@
+{
+  "dataset_description.json": "3fc6d9370e8bd60d168cd54c06a198688bc779a1",
+  "CHANGES": "f07660a9569d2c6e43f49dbde8c1267bdfbdbdc6",
+  "nih_toolbox_data.csv": "9750dc2d286a1a01b0b22598f856732b9d624dfd",
+  "task-500daysofsummer_bold.json": "8e99c5f732ff89cf5c430cbc5e4f507f316b13b3",
+  "participants.tsv": "3ac6bb55bbeb1515593142b845e497c768745d27",
+  "task-12yearsaslave_bold.json": "71ebc74863509a8cff08571855a76873b714995a",
+  "nih_toolbox_demographics.csv": "c5fabeb78366d52cae8dfe4467330dcbf2ed70e6",
+  "nih_toolbox_scores.csv": "0f566f92cec6e7b9480bc1867e0a1e45797a0e31",
+  "participants.json": "152c3bb1b8133a87904d42391ad963fdc4f7d4ec",
+  "README": "6a46ec0bf42e35e339cb02ea037dc3fe3353667f",
+  "task-backtothefuture_bold.json": "5d90a8f8395acc02c94ace167548e4a186950a0b",
+  "task-citizenfour_bold.json": "dea34535ff958dc5ab6e126de2177c0bb6c4fb45",
+  "task-littlemisssunshine_bold.json": "587a2a32a001def8b613cc7df53e488cdf3e9c23",
+  "task-split_bold.json": "13d40eca6ea55e68e1b19631b3564e88c4faa712",
+  "task-pulpfiction_bold.json": "c839b70aab073ecedd0fc0aa15d7a8477dbd99c3",
+  "task-theprestige_bold.json": "a217d8138406ca40f63fde41ec45057d3ab478f1",
+  "task-theshawshankredemption_bold.json": "f8b6393991d10a5a202a3974e79afb042f8743c9",
+  "task-theusualsuspects_bold.json": "1b1f1f6d69afb89f25885b5a9a396c09749796b5"
+}

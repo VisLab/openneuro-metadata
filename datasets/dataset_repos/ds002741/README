@@ -1,0 +1,91 @@
+OpenNeuro curator note: This dataset was previously accessible at ds002509. The dataset was reuploaded due to privacy considerations. 
+
+Participants in caricature runs viewed an animated head model with movements caricatured at four levels along expression trajectories. Movements could be caricatured (e.g., a surprise expression with exaggerated distinctiveness), anticaricatured (e.g., a surprise expression with a relatively average movement), antimovement anticaricatured (an anti-surprise expression, where the movement is distinctive in the opposite ways as suprise, but the movement is relatively average ) or antimovement caricatured (an anti-surprise movement, where the movement is distinctive in the opposite ways as suprise, but the movement distinctiveness is exaggerated).
+
+Animations bear the pixel maps (and therefore appearance) of individuals in the BU-4DFE video set (Yin et al., 2008 and http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html) but otherwise have standardized head shapes and sizes and feature movement ranges across stimuli. 
+
+Participants in localizer runs viewed dynamic and static faces and objects.
+
+The scanning used a high-resolution (2 x 2 x 2 mm) multiband EPI sequence with 1.2 s TR on a 3T Tim Trio MR scanner.
+
+Analysis code for the submitted/unpublished paper, including behavioral data and analysis code for two closely related behavioral validation studies is available for review purposes on Dropbox at https://www.dropbox.com/sh/87bsb74t0lpakr2/AADFvJs7G3uzYP80pL2QLGKxa?dl=0. Please bear with us and note the download date, as this code is subject to reformatting in the near future. It is not currently BIDS compliant and will require modification of paths in code to operate on any new file system. The code may also be added to as we respond to reviewer comments during submission. We also hope to improve embedded instructions documents over time. This code archive also includes the code used to collect the data and generate the data files for the fMRI study. 
+
+Although we have included the full animated stimulus set here used in our behavioral and fMRI studies, we are not licensed to distribute the original BU-4DFE videos from which the motion parameters and pixel maps were derived for out videos. Also we cannot distribute the materials used to produce data for behavioral study 1, as it uses these videos (although an interested party may still participate in the study). Check the bottom of this document for more information about the BU-4DFE set and its licensing.
+
+Note that there are 30 subjects archived here yet the analysis code numbers 2-31 (where 1 was an excluded pilot participant). The analysis participant numbers are shown in the analysis_id field of participants.tsv.
+
+One participant (number 8) is missing the events data for the second localizer run (due to technical error).
+
+Key to codes in caricature run onsets files:
+
+onset refers to the time in seconds from when the first dummy scan began. There are six dummy scans, which are included with this dataset. So onsets can be used with the full dataset or, if dummy scans removed, (6*1.2) should be subtracted from each onset.
+
+duration refers to the time between the video or image starting and stopping, as measured empirically during data collection. 
+
+identity (animated version of face code in BU-4DFE video set).
+1: F024
+2: F028
+3: F036
+4: M002
+5: M017
+6: M030
+
+expression
+1: angry
+2: disgust
+3: fear
+4: happy
+5: surprise
+
+caric_cond 
+1: anticaricatures
+2: ant-movement anticaricatures
+3: antimovement caricatures
+4: caricatures
+
+button pushed
+The task involved pressing a button box key (code 28) when a target was detected (a white plus sign). Variable can be 28 for trials (rows) where button was pressed or NaN for trials where no button was pressed.
+
+stim_name
+File name of stimulus
+
+Key to codes in localizer run onsets files:
+Dynamic face videos taken from Van der Schalk et al., 2011 and static faces taken from final frame of these videos. 
+Dynamic object vidoes taken from Fox et al., 2009 and static objects taken from final frame of these videos. 
+
+onset is as in caricature onset files (see above)
+
+duration is as in caricature onset files (see above)
+
+face_or_object
+1: face
+2: object
+
+dyn_or_static
+1: dynamic
+2: static
+
+button_pushed
+The task involved pressing a button box key (code 28) when a target was detected (a red dot superimposed on the stimulus). Variable can be 28 for trials (rows) where button was pressed or NaN for trials where no button was pressed.
+
+stim_name
+File name of stimulus
+
+Fox CJ, Iaria G, Barton JJ. 2009. Defining the face processing network: optimization of the functional localizer in fMRI. Hum Brain Mapp 30:1637ñ1651. 
+
+Van der Schalk J, Hawk ST, Fischer AH, Doosje BJ. 2011. Moving faces, looking places: The Amsterdam Dynamic Facial Expressions Set (ADFES). Emotion 11:907ñ920. 
+
+Yin L, Chen X, Sun Y, Worm T, Reale M. 2008. A high-resolution 3D dynamic facial expression database. Proceedings of the 8th IEEE International Conference on Automatic Face and Gesture Recognition. 
+
+We acknowledge and thank the makers of the BU-4DFE video set for their contribution. More information about the set and information for acquition and licensing can be obtained from the author:
+http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html) 
+Lijun Yin
+Professor 
+Department of Computer Science
+Q18, Thomas J. Watson School of Engineering and Applied Science
+Binghamton University
+State University of New York
+Binghamton, NY 13902
+Tel: (607)-777-5484
+Fax: (607)-777-4729
+lijun@cs.binghamton.edu

@@ -1,0 +1,15 @@
+3T MRI data from 3 young adults.
+
+The session folders are numerated such that: 
+
+ses-01, ses-02, ses-03, ses-04 were the quantitative MRI sessions. These sessions can also be found under derivates. This folder includes qT1 maps that were used to find LGN anatomically. 
+
+ses-05 was the fMRI session used as an LGN localizer. Ss were presented with the visual stimulus on each visual hemifield alternately. The visual stimulus was a black and white checkerboard, hemifield radius of 8.5°, flicking at 4 Hz on a neutral gray background. The GLM results were used to adjust the anatomically created LGN masks for functionally significant activation. The contrast for the right vs left hemifield was used for the left LGN and vice versa for the right LGN.
+
+ses-06 was the fMRI session to segregate the eye-specific signals in a monocular fashion. Ss were presented with the visual stimulus while they closed each eye alternately. The visual stimulus was the full-field 4 Hz flickering checkerboard (17° diameter, 0.5° central gap).
+
+ses-07 was the fMRI session to segregate the eye-specific signals in a dichoptic fashion. Ss wore circularly polarized eyeglasses, synched with a circularly polarized filter, so that the stimulus was presented to each eye alternately while the other eye was presented with blank. The visual stimulus was the full-field 4 Hz flickering checkerboard (12.5° diameter, 0.5° central gap).
+
+The FSL and MATLAB codes can be found at https://github.com/yirem/LGN_layers.
+	 
+More information will be found Yildirim, I., Hekmatyar, K., & Schneider, K. A. (under revision). Evaluating quantitative and functional MRI as potential techniques to identify the subdivisions in the human lateral geniculate nucleus. Invited resubmission to NeuroImage in September 2022.

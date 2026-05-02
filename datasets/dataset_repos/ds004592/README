@@ -1,0 +1,3 @@
+Large-scale neural dynamics in a shared low-dimensional state space reflect cognitive and attentional dynamics. Hayoung Song, Won Mok Shim, Monica D. Rosenberg.
+
+Raw functional MRI data of the SitcOm, Nature documentary, Gradual-onset continuous performance task (SONG) dataset is available here. The associated behavioral data, processed fMRI output, and main analysis codes are published in Github [https://github.com/hyssong/neuraldynamics]. For additional inquiries, please contact Hayoung Song (hyssong@uchicago.edu).

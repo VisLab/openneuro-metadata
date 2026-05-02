@@ -1,0 +1,76 @@
+# Adolescent Health Risk Behavior Study: Monetary Incentive Delay (MID) task data
+
+Structural: T1w and T2w
+
+Functional: Monetary Incentive Delay task BOLD
+
+## Data Published/Curated by
+Michael Demidenko in relation to the project on the [analytic impacts on test-retest reliability]( https://doi.org/10.1162/imag_a_00262)
+
+## Provenance
+Collected at the University of Michigan under the grant: R01HD075806. Imaging data collected between 2017 and 2021.
+Original Owners and curators: Daniel P. Keating, PhD, and Edward D. Huntley, PhD. 
+Data transferred from University of Michigan to Stanford University July 2022.
+
+Relevant descriptions of datasets:
+- [NIH Reporter](https://reporter.nih.gov/project-details/9497809)
+- [Pub 1](https://doi.org/10.1007/s10964-019-01057-4)
+- [Pub 2](https://doi.org/10.1016/j.dcn.2020.100798)
+
+## Access Restrictions
+No specific restrictions but data were shared under the authorization from Dr. Daniel Keating. Associated phenotype/behavioral data for the longitudinal dataset can be accessed from Dr. Keating with BIDS ID to SID file.
+
+## Data Notes
+Converted with in-house mids2bids at University of Michigan with the help of Krisanne Litinas
+
+### Preprocessing notes:
+- Discarded values for physio: Per Krisanne Litinas at the University of Michigan MRI lab, the MB fMRI protocol collects a 30-second buffer period plus 12 discarded volumes (9.6 seconds). So the physio files contained in each subject's ./func folder have the first 30 seconds (buffer period) + 9.6 (12 additional volumes for calibration) that are already discarded. Hence, the start time in physio files is zero. The calculation used: retained all values after ({30 secs physio buffer} + {9.6 secs calibration vols}) * {Hz}. For example, Hz for respiratory is 25 and Hz for Cardiac is 100. The values after 990 ((30+12)*25) are retained for respiratory .tsv files and after 3960 ((30+ 12)*100) are retained for cardiac .tsv files. Note, in some instances, there was a failure in collecting phyio data so physio files are not present. This occurred for:
+
+- Discarded calibration volumes: the protocol included collection of calibration volumes for each MID run. For fMRI data, an additional 12 volumes were collected. These have been removed from each .nii.gz file, 407 = MID volumes. There is an AP-PA associated fieldmap for each run, in one instance this is missing due to technical error.
+
+- Several participants have missing runs/folders.
+  - Sub-66 session 1: missing fieldmap
+
+- There are several notable participant notes:
+  - Sub-103 session 2: participant very particular about vision correction but could see screen. Left to use restroom before resting state scan
+
+
+Command used for fMRIPrep v23.1.4:
+
+```html
+singularity run --cleanenv \
+        -B ${DATA_DIR}:/data:ro -B ${DATA_OUT}:/out 
+        ${SIMG_DIR}/fmriprep-23.1.4.simg 
+        /data /out participant 
+        --participant-label sub-${subj} 
+        --ignore slicetiming 
+        --fs-license-file ${FS_LICENSE} 
+        --fd-spike-threshold .9 
+        --use-syn-sdc 
+        --force-syn 
+        --output-space MNI152NLin2009cAsym:res-2 
+        --project-goodvoxels 
+        --cifti-output 91k 
+        --work-dir ${SCRATCH}
+```
+
+Command used for MRIQC v23.1.0:
+
+```html
+singularity run --cleanenv
+        -B $OAK:$OAK 
+        -B $OAK/data/templateflow:/opt/templateflow  
+        -B ${L_SCRATCH}:/tmp ${GROUP_HOME}/singularity_images/mriqc_23.1.0rc0.simg 
+        ${BIDS_DIR} ${OUTPUT_DIR} participant 
+        --participant-label ${sub} 
+        --ants-nthreads 8 
+        --nprocs 12 
+        --mem_gb 30 
+        -vv --dsname AHRB 
+        --verbose-reports 
+        -w /tmp/work -m bold T1w T2w
+```
+
+Command used for taskdescribe_v1.0:
+
+For each session and run, there is a derivatives folder summarizing the behavioral data in an JSON or PNG image. These were calculated based the associated events.tsv files. The PNG files are meant to be used as a quick summary of the behavioral performance throughout the task/run/session

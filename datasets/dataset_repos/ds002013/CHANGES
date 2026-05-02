@@ -1,0 +1,14 @@
+1.0.3 2022-11-04
+  - "dataset_description.json": added Soch & Haynes (2022) to references
+  - "participants.tsv/json/mat": added age and gender as covariates
+  - "task-CircCon_bold.json": clarified task description
+  - "task-CircRun_bold.json": clarified task description
+  - "README/CHANGES": done minor changes
+1.0.2 2019-10-10
+  - "sub-X/func/sub-X_task-CircCon_events.tsv/mat/xls": corrected logfiles
+  - "sub-X/func/sub-X_task-CircRun_run-Y_events.tsv/mat/xls": corrected logfiles
+
+1.0.1 2019-08-20
+  - "dataset_description.json": replaced non-readable characters
+  - "task-CircCon_bold.json": added task name
+  - "README": replaced "*" by "X"/"Y"/"Z"

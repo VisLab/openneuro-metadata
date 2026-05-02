@@ -1,0 +1,11 @@
+{
+  "response": {
+    "Description": "the participants response druing the experiment. 1 stands for a key press"
+  },
+  "response_time": {
+    "Description": "the participants response time druing the experiment"
+  },
+  "condition": {
+    "Description": "the names of images used in the experiment"
+  }
+}

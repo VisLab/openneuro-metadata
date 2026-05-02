@@ -1,0 +1,48 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Juan Sánchez-Fernández
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0001-6725-920X
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 1
+      - name: Luis Alberto Casado-Aranda
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0000-0002-2725-492X
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 2
+      - name: Juan Sánchez-Fernández
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_2
+          - nameIdentifier: https://orcid.org/0000-0001-6725-920X
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 3
+    creators:
+      - name: Juan Sánchez-Fernández
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: Luis Alberto Casado-Aranda
+        nameType: Personal
+        nameIdentifiers: *ref_1
+      - name: Juan Sánchez-Fernández
+        nameType: Personal
+        nameIdentifiers: *ref_2
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

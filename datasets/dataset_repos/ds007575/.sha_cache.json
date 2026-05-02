@@ -1,0 +1,14 @@
+{
+  "CHANGES": "24ebcae8bb3e8eb8fec3e2af4b07335a2889c560",
+  "dir-pa_epi.json": "cde9ed9fb83251aac927903d31a21bafac94645e",
+  "dir-ap_epi.json": "1113d42599c248c2303af70fd2739154a1474efc",
+  "participants.tsv": "9ae3dcdc48e4f4fac4d6a7b4461d8b03909ad87e",
+  "dataset_description.json": "e442b83377268d6f4fd665247a4157a9da9b4a9a",
+  "README": "70a7444733278f040ebb97c83b5860f86614c6c3",
+  "datacite.yml": "d7b783127f5e519d4afa1b03f64aba33232fba7c",
+  "sub-01/func/sub-01_task-mathlang_run-04_events.tsv": "f8f6efae851546ca4d2c2418935286cc139726d9",
+  "sub-01/func/sub-01_task-mathlang_run-05_events.tsv": "0004c02f9d38f8537ab06621dd2c3b88fce8928d",
+  "sub-01/func/sub-01_task-mathlang_run-03_events.tsv": "e7ce8ba097bb361a1c901034b59c7081edfe562b",
+  "sub-01/func/sub-01_task-mathlang_run-01_events.tsv": "bc31e4b9c94485fb5cff971d3e761b06923db401",
+  "sub-01/func/sub-01_task-mathlang_run-02_events.tsv": "517f65dc72833e9fcd7723faee27f6af11373aee"
+}

@@ -1,0 +1,7 @@
+{
+  "TaskName": "HSR",
+  "RepetitionTime": 1.8,
+  "EchoTime": 0.03,
+  "PhaseEncodingDirection": "j-",
+  "EffectiveEchoSpacing": 0.000612
+}

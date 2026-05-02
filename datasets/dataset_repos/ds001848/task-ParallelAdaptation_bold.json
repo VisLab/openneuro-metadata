@@ -1,0 +1,18 @@
+{
+	"Modality": "MR",
+	"TaskName": "ParallelAdaptation",
+	"MagneticFieldStrength": 3,
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Prisma_fit",
+	"InstitutionName": "Robarts_Research_Institute",
+	"InstitutionalDepartmentName": "CFMM",
+	"InstitutionAddress": "Perth_Drive_100_London_Ontario_CA_N6A_5K8",
+	"DeviceSerialNumber": "67007",
+	"StationName": "MRC35368",
+	"BodyPartExamined": "BRAIN",
+	"PatientPosition": "HFS",
+	"SoftwareVersions": "syngo_MR_E11",
+	"MRAcquisitionType": "2D",
+	"SliceThickness": 2.5,
+	"RepetitionTime": 1
+}

@@ -1,0 +1,22 @@
+{
+    "Name": "SV2A quantification using 18F-SynVesT-1 and 18F-UCB-J PET in 17M heterozygous zQ175DN mice and wild-type littermates (intra-animal tracer comparison).",
+    "BIDSVersion": "1.6.0",
+    "EthicsApprovals": [
+        "University of Antwerp ECD 2023-39"
+    ],
+    "Authors": [
+        "Liesbeth Everix",
+        "Alan Miranda",
+        "Jordy Akkermans",
+        "Vinod Khetarpal",
+        "Longbin Liu",
+        "Jonathan Bard",
+        "Steven Staelens",
+        "Daniele Bertoglio"
+    ],
+    "Funding": [
+        "CHDI foundation"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006402.v1.0.0"
+}

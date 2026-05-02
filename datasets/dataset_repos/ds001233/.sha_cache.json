@@ -1,0 +1,20 @@
+{
+  "README": "0282841ccdb840496287188e92ea600f44863974",
+  "CHANGES": "6e1156f277f01486976f9420a9d50befb7ae9435",
+  "participants.tsv": "56f2cad2840ec5d5e7d4dbd2e80afece14aa3944",
+  "dataset_description.json": "475f2badcd0fbcf1fc0ced310bf97b2624f338f4",
+  "task-cuedSFM_bold.json": "c2dce184cb244aa61c5d0c6f8ce312cefebaae03",
+  "task_video.mp4": "a1dd51067279e75c9f16a85403df77a1e73e9fb9",
+  "sub-01/ses-pre/func/sub-01_ses-pre_task-cuedSFM_run-01_events.tsv": "84b7f41826647a7fb1d051b0f6ae9a2698425164",
+  "sub-01/ses-post/func/sub-01_ses-post_task-cuedSFM_run-02_events.tsv": "0abe189028f09cb13dc478dcf4a50d0ae6f5116d",
+  "sub-01/ses-pre/func/sub-01_ses-pre_task-cuedSFM_run-02_events.tsv": "3f02d7a7e960750d6ac2fd974269c64ef5c68be8",
+  "sub-01/ses-post/func/sub-01_ses-post_task-cuedSFM_run-06_events.tsv": "a2640559190f1e22afecd5e3e13116808565e263",
+  "sub-01/ses-post/func/sub-01_ses-post_task-cuedSFM_run-04_events.tsv": "4d3cd580d4deda282f243c5405592676b8cae013",
+  "sub-01/ses-post/func/sub-01_ses-post_task-cuedSFM_run-01_events.tsv": "bbfa1af83b76b3bbdfdb5d92d25b5fa7307674da",
+  "sub-01/ses-pre/func/sub-01_ses-pre_task-cuedSFM_run-03_events.tsv": "dbdcde779258875bd3729a5247dfb570661c3415",
+  "sub-01/ses-pre/func/sub-01_ses-pre_task-cuedSFM_run-04_events.tsv": "1e068a0c5edfff8b062c43c5a159fb98459b6bd3",
+  "sub-01/ses-post/func/sub-01_ses-post_task-cuedSFM_run-03_events.tsv": "e1badeed1ec4821e451dd3df445c1ae6e966a4a5",
+  "sub-01/ses-post/func/sub-01_ses-post_task-cuedSFM_run-05_events.tsv": "47ff5cd759d15df6eb6d20dbc9d11c858731f306",
+  "sub-01/ses-pre/func/sub-01_ses-pre_task-cuedSFM_run-05_events.tsv": "2239b50d11bdad10aeddae216f540e45a8af9a80",
+  "sub-01/ses-pre/func/sub-01_ses-pre_task-cuedSFM_run-06_events.tsv": "80bcefbb3ead071c4982a424ea320824a642c67a"
+}

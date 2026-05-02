@@ -1,0 +1,2265 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+-0.0020000000	n/a	-0.5	STATUS	n/a	n/a	boundary
+1.2145000000	n/a	303.625	STATUS	n/a	n/a	M  1
+6.2145000000	n/a	1553.625	STATUS	n/a	n/a	M  1
+11.2125000000	n/a	2803.125	STATUS	n/a	n/a	M  1
+16.2105000000	n/a	4052.625	STATUS	n/a	n/a	M  1
+21.2085000000	n/a	5302.125	STATUS	n/a	n/a	M  1
+26.2065000000	n/a	6551.625	STATUS	n/a	n/a	M  1
+31.2045000000	n/a	7801.125	STATUS	n/a	n/a	M  1
+36.2025000000	n/a	9050.625	STATUS	n/a	n/a	M  1
+41.2005000000	n/a	10300.125	STATUS	n/a	n/a	M  1
+46.1985000000	n/a	11549.625	STATUS	n/a	n/a	M  1
+51.1965000000	n/a	12799.125	STATUS	n/a	n/a	M  1
+56.1945000000	n/a	14048.625	STATUS	n/a	n/a	M  1
+61.1925000000	n/a	15298.125	STATUS	n/a	n/a	M  1
+66.1905000000	n/a	16547.625	STATUS	n/a	n/a	M  1
+71.1885000000	n/a	17797.125	STATUS	n/a	n/a	M  1
+76.1865000000	n/a	19046.625	STATUS	n/a	n/a	M  1
+81.1845000000	n/a	20296.125	STATUS	n/a	n/a	M  1
+86.1805000000	n/a	21545.125	STATUS	n/a	n/a	M  1
+91.1785000000	n/a	22794.625	STATUS	n/a	n/a	M  1
+96.1765000000	n/a	24044.125	STATUS	n/a	n/a	M  1
+101.1725000000	n/a	25293.125	STATUS	n/a	n/a	M  1
+106.1705000000	n/a	26542.625	STATUS	n/a	n/a	M  1
+111.1665000000	n/a	27791.625	STATUS	n/a	n/a	M  1
+116.1645000000	n/a	29041.125	STATUS	n/a	n/a	M  1
+121.1605000000	n/a	30290.125	STATUS	n/a	n/a	M  1
+126.1585000000	n/a	31539.625	STATUS	n/a	n/a	M  1
+131.1545000000	n/a	32788.625	STATUS	n/a	n/a	M  1
+136.1525000000	n/a	34038.125	STATUS	n/a	n/a	M  1
+141.1505000000	n/a	35287.625	STATUS	n/a	n/a	M  1
+146.1465000000	n/a	36536.625	STATUS	n/a	n/a	M  1
+151.1445000000	n/a	37786.125	STATUS	n/a	n/a	M  1
+156.1425000000	n/a	39035.625	STATUS	n/a	n/a	M  1
+161.1385000000	n/a	40284.625	STATUS	n/a	n/a	M  1
+166.1365000000	n/a	41534.125	STATUS	n/a	n/a	M  1
+171.1345000000	n/a	42783.625	STATUS	n/a	n/a	M  1
+176.1325000000	n/a	44033.125	STATUS	n/a	n/a	M  1
+181.1305000000	n/a	45282.625	STATUS	n/a	n/a	M  1
+186.1285000000	n/a	46532.125	STATUS	n/a	n/a	M  1
+191.1265000000	n/a	47781.625	STATUS	n/a	n/a	M  1
+196.1225000000	n/a	49030.625	STATUS	n/a	n/a	M  1
+201.1205000000	n/a	50280.125	STATUS	n/a	n/a	M  1
+206.1185000000	n/a	51529.625	STATUS	n/a	n/a	M  1
+211.1165000000	n/a	52779.125	STATUS	n/a	n/a	M  1
+216.1145000000	n/a	54028.625	STATUS	n/a	n/a	M  1
+221.1125000000	n/a	55278.125	STATUS	n/a	n/a	M  1
+226.1085000000	n/a	56527.125	STATUS	n/a	n/a	M  1
+231.1065000000	n/a	57776.625	STATUS	n/a	n/a	M  1
+236.1045000000	n/a	59026.125	STATUS	n/a	n/a	M  1
+241.1025000000	n/a	60275.625	STATUS	n/a	n/a	M  1
+246.1005000000	n/a	61525.125	STATUS	n/a	n/a	M  1
+251.0965000000	n/a	62774.125	STATUS	n/a	n/a	M  1
+256.0945000000	n/a	64023.625	STATUS	n/a	n/a	M  1
+261.0925000000	n/a	65273.125	STATUS	n/a	n/a	M  1
+266.0905000000	n/a	66522.625	STATUS	n/a	n/a	M  1
+271.0865000000	n/a	67771.625	STATUS	n/a	n/a	M  1
+272.0060000000	n/a	68001.5	STATUS	n/a	n/a	boundary
+273.7345000000	n/a	68433.625	moving_serve	n/a	n/a	M  1
+274.0040000000	n/a	68501	moving_serve	n/a	n/a	Subject_hit
+276.4840000000	n/a	69121	moving_serve	n/a	n/a	Subject_hit
+278.4840000000	n/a	69621	moving_serve	n/a	n/a	Subject_hit
+278.7305000000	n/a	69682.625	moving_serve	n/a	n/a	M  1
+280.5960000000	n/a	70149	moving_serve	n/a	n/a	Subject_hit
+283.7265000000	n/a	70931.625	moving_serve	n/a	n/a	M  1
+284.6640000000	n/a	71166	moving_serve	n/a	n/a	Subject_hit
+286.7400000000	n/a	71685	moving_serve	n/a	n/a	Subject_hit
+288.7225000000	n/a	72180.625	moving_serve	n/a	n/a	M  1
+288.7480000000	n/a	72187	moving_serve	n/a	n/a	Subject_hit
+290.8960000000	n/a	72724	moving_serve	n/a	n/a	Subject_hit
+293.0560000000	n/a	73264	moving_serve	n/a	n/a	Subject_hit
+293.7185000000	n/a	73429.625	moving_serve	n/a	n/a	M  1
+297.2440000000	n/a	74311	moving_serve	n/a	n/a	Subject_hit
+298.7145000000	n/a	74678.625	moving_serve	n/a	n/a	M  1
+301.2160000000	n/a	75304	moving_serve	n/a	n/a	Subject_hit
+303.4320000000	n/a	75858	moving_serve	n/a	n/a	Subject_hit
+303.7105000000	n/a	75927.625	moving_serve	n/a	n/a	M  1
+305.5120000000	n/a	76378	moving_serve	n/a	n/a	Subject_hit
+307.7000000000	n/a	76925	moving_serve	n/a	n/a	Subject_hit
+308.7065000000	n/a	77176.625	moving_serve	n/a	n/a	M  1
+309.9760000000	n/a	77494	moving_serve	n/a	n/a	Subject_hit
+311.9280000000	n/a	77982	moving_serve	n/a	n/a	Subject_hit
+313.7025000000	n/a	78425.625	moving_serve	n/a	n/a	M  1
+313.7040000000	n/a	78426	moving_serve	n/a	n/a	Subject_hit
+316.2440000000	n/a	79061	moving_serve	n/a	n/a	Subject_hit
+317.9760000000	n/a	79494	moving_serve	n/a	n/a	Subject_hit
+318.6985000000	n/a	79674.625	moving_serve	n/a	n/a	M  1
+320.5360000000	n/a	80134	moving_serve	n/a	n/a	Subject_hit
+322.1960000000	n/a	80549	moving_serve	n/a	n/a	Subject_hit
+323.6945000000	n/a	80923.625	moving_serve	n/a	n/a	M  1
+324.6240000000	n/a	81156	moving_serve	n/a	n/a	Subject_hit
+328.6905000000	n/a	82172.625	moving_serve	n/a	n/a	M  1
+328.7080000000	n/a	82177	moving_serve	n/a	n/a	Subject_hit
+330.9000000000	n/a	82725	moving_serve	n/a	n/a	Subject_hit
+333.0720000000	n/a	83268	moving_serve	n/a	n/a	Subject_hit
+333.6865000000	n/a	83421.625	moving_serve	n/a	n/a	M  1
+334.7960000000	n/a	83699	moving_serve	n/a	n/a	Subject_hit
+337.3320000000	n/a	84333	moving_serve	n/a	n/a	Subject_hit
+338.6825000000	n/a	84670.625	moving_serve	n/a	n/a	M  1
+339.3040000000	n/a	84826	moving_serve	n/a	n/a	Subject_hit
+341.4760000000	n/a	85369	moving_serve	n/a	n/a	Subject_hit
+343.6805000000	n/a	85920.125	moving_serve	n/a	n/a	M  1
+345.4560000000	n/a	86364	moving_serve	n/a	n/a	Subject_hit
+347.5880000000	n/a	86897	moving_serve	n/a	n/a	Subject_hit
+348.6765000000	n/a	87169.125	moving_serve	n/a	n/a	M  1
+349.4240000000	n/a	87356	moving_serve	n/a	n/a	Subject_hit
+351.8520000000	n/a	87963	moving_serve	n/a	n/a	Subject_hit
+353.6725000000	n/a	88418.125	moving_serve	n/a	n/a	M  1
+353.7400000000	n/a	88435	moving_serve	n/a	n/a	Subject_hit
+356.1200000000	n/a	89030	moving_serve	n/a	n/a	Subject_hit
+358.6705000000	n/a	89667.625	moving_serve	n/a	n/a	M  1
+360.2520000000	n/a	90063	moving_serve	n/a	n/a	Subject_hit
+361.9200000000	n/a	90480	moving_serve	n/a	n/a	Subject_hit
+363.6665000000	n/a	90916.625	moving_serve	n/a	n/a	M  1
+364.3880000000	n/a	91097	moving_serve	n/a	n/a	Subject_hit
+366.6200000000	n/a	91655	moving_serve	n/a	n/a	Subject_hit
+368.5920000000	n/a	92148	moving_serve	n/a	n/a	Subject_hit
+368.6625000000	n/a	92165.625	moving_serve	n/a	n/a	M  1
+370.3840000000	n/a	92596	moving_serve	n/a	n/a	Subject_hit
+372.8680000000	n/a	93217	moving_serve	n/a	n/a	Subject_hit
+373.6585000000	n/a	93414.625	moving_serve	n/a	n/a	M  1
+376.8040000000	n/a	94201	moving_serve	n/a	n/a	Subject_hit
+378.6565000000	n/a	94664.125	moving_serve	n/a	n/a	M  1
+378.7680000000	n/a	94692	moving_serve	n/a	n/a	Subject_hit
+380.8400000000	n/a	95210	moving_serve	n/a	n/a	Subject_hit
+382.9640000000	n/a	95741	moving_serve	n/a	n/a	Subject_hit
+383.6525000000	n/a	95913.125	moving_serve	n/a	n/a	M  1
+384.9760000000	n/a	96244	moving_serve	n/a	n/a	Subject_hit
+387.0560000000	n/a	96764	moving_serve	n/a	n/a	Subject_hit
+388.6485000000	n/a	97162.125	moving_serve	n/a	n/a	M  1
+388.8760000000	n/a	97219	moving_serve	n/a	n/a	Subject_hit
+391.0600000000	n/a	97765	moving_serve	n/a	n/a	Subject_hit
+393.5720000000	n/a	98393	moving_serve	n/a	n/a	Subject_hit
+393.6465000000	n/a	98411.625	moving_serve	n/a	n/a	M  1
+395.0920000000	n/a	98773	moving_serve	n/a	n/a	Subject_hit
+397.6080000000	n/a	99402	moving_serve	n/a	n/a	Subject_hit
+398.6425000000	n/a	99660.625	moving_serve	n/a	n/a	M  1
+399.6920000000	n/a	99923	moving_serve	n/a	n/a	Subject_hit
+401.7360000000	n/a	100434	moving_serve	n/a	n/a	Subject_hit
+403.6405000000	n/a	100910.125	moving_serve	n/a	n/a	M  1
+403.8360000000	n/a	100959	moving_serve	n/a	n/a	Subject_hit
+406.0000000000	n/a	101500	moving_serve	n/a	n/a	Subject_hit
+408.0200000000	n/a	102005	moving_serve	n/a	n/a	Subject_hit
+408.6365000000	n/a	102159.125	moving_serve	n/a	n/a	M  1
+410.1760000000	n/a	102544	moving_serve	n/a	n/a	Subject_hit
+413.6345000000	n/a	103408.625	moving_serve	n/a	n/a	M  1
+413.7800000000	n/a	103445	moving_serve	n/a	n/a	Subject_hit
+416.3360000000	n/a	104084	moving_serve	n/a	n/a	Subject_hit
+418.2880000000	n/a	104572	moving_serve	n/a	n/a	Subject_hit
+418.6305000000	n/a	104657.625	moving_serve	n/a	n/a	M  1
+420.2840000000	n/a	105071	moving_serve	n/a	n/a	Subject_hit
+422.4440000000	n/a	105611	moving_serve	n/a	n/a	Subject_hit
+423.6285000000	n/a	105907.125	moving_serve	n/a	n/a	M  1
+424.4520000000	n/a	106113	moving_serve	n/a	n/a	Subject_hit
+426.4580000000	n/a	106614.5	STATUS	n/a	n/a	boundary
+428.4560000000	n/a	107114	stationary_serve	n/a	n/a	Subject_hit
+430.5845000000	n/a	107646.125	stationary_serve	n/a	n/a	M  1
+430.8200000000	n/a	107705	stationary_serve	n/a	n/a	Subject_hit
+432.9600000000	n/a	108240	stationary_serve	n/a	n/a	Subject_hit
+434.9440000000	n/a	108736	stationary_serve	n/a	n/a	Subject_hit
+435.5805000000	n/a	108895.125	stationary_serve	n/a	n/a	M  1
+438.9520000000	n/a	109738	stationary_serve	n/a	n/a	Subject_hit
+440.5785000000	n/a	110144.625	stationary_serve	n/a	n/a	M  1
+440.9280000000	n/a	110232	stationary_serve	n/a	n/a	Subject_hit
+445.0760000000	n/a	111269	stationary_serve	n/a	n/a	Subject_hit
+445.5745000000	n/a	111393.625	stationary_serve	n/a	n/a	M  1
+447.1960000000	n/a	111799	stationary_serve	n/a	n/a	Subject_hit
+449.2280000000	n/a	112307	stationary_serve	n/a	n/a	Subject_hit
+450.5725000000	n/a	112643.125	stationary_serve	n/a	n/a	M  1
+451.2600000000	n/a	112815	stationary_serve	n/a	n/a	Subject_hit
+453.2600000000	n/a	113315	stationary_serve	n/a	n/a	Subject_hit
+454.9320000000	n/a	113733	stationary_serve	n/a	n/a	Subject_hit
+455.5685000000	n/a	113892.125	stationary_serve	n/a	n/a	M  1
+457.4080000000	n/a	114352	stationary_serve	n/a	n/a	Subject_hit
+459.4720000000	n/a	114868	stationary_serve	n/a	n/a	Subject_hit
+460.5665000000	n/a	115141.625	stationary_serve	n/a	n/a	M  1
+461.5600000000	n/a	115390	stationary_serve	n/a	n/a	Subject_hit
+465.4920000000	n/a	116373	stationary_serve	n/a	n/a	Subject_hit
+465.5625000000	n/a	116390.625	stationary_serve	n/a	n/a	M  1
+467.5480000000	n/a	116887	stationary_serve	n/a	n/a	Subject_hit
+470.5605000000	n/a	117640.125	stationary_serve	n/a	n/a	M  1
+471.4880000000	n/a	117872	stationary_serve	n/a	n/a	Subject_hit
+473.5160000000	n/a	118379	stationary_serve	n/a	n/a	Subject_hit
+475.5520000000	n/a	118888	stationary_serve	n/a	n/a	Subject_hit
+475.5565000000	n/a	118889.125	stationary_serve	n/a	n/a	M  1
+477.0880000000	n/a	119272	stationary_serve	n/a	n/a	Subject_hit
+480.5525000000	n/a	120138.125	stationary_serve	n/a	n/a	M  1
+481.4800000000	n/a	120370	stationary_serve	n/a	n/a	Subject_hit
+483.5000000000	n/a	120875	stationary_serve	n/a	n/a	Subject_hit
+485.5505000000	n/a	121387.625	stationary_serve	n/a	n/a	M  1
+485.5600000000	n/a	121390	stationary_serve	n/a	n/a	Subject_hit
+487.6560000000	n/a	121914	stationary_serve	n/a	n/a	Subject_hit
+489.6920000000	n/a	122423	stationary_serve	n/a	n/a	Subject_hit
+490.5465000000	n/a	122636.625	stationary_serve	n/a	n/a	M  1
+491.4840000000	n/a	122871	stationary_serve	n/a	n/a	Subject_hit
+495.5445000000	n/a	123886.125	stationary_serve	n/a	n/a	M  1
+495.6680000000	n/a	123917	stationary_serve	n/a	n/a	Subject_hit
+497.7080000000	n/a	124427	stationary_serve	n/a	n/a	Subject_hit
+499.5120000000	n/a	124878	stationary_serve	n/a	n/a	Subject_hit
+500.5405000000	n/a	125135.125	stationary_serve	n/a	n/a	M  1
+501.9920000000	n/a	125498	stationary_serve	n/a	n/a	Subject_hit
+503.7240000000	n/a	125931	stationary_serve	n/a	n/a	Subject_hit
+505.5365000000	n/a	126384.125	stationary_serve	n/a	n/a	M  1
+506.2440000000	n/a	126561	stationary_serve	n/a	n/a	Subject_hit
+508.2600000000	n/a	127065	stationary_serve	n/a	n/a	Subject_hit
+510.3080000000	n/a	127577	stationary_serve	n/a	n/a	Subject_hit
+510.5345000000	n/a	127633.625	stationary_serve	n/a	n/a	M  1
+511.9480000000	n/a	127987	stationary_serve	n/a	n/a	Subject_hit
+514.3400000000	n/a	128585	stationary_serve	n/a	n/a	Subject_hit
+515.5325000000	n/a	128883.125	stationary_serve	n/a	n/a	M  1
+516.4360000000	n/a	129109	stationary_serve	n/a	n/a	Subject_hit
+518.2000000000	n/a	129550	stationary_serve	n/a	n/a	Subject_hit
+520.5285000000	n/a	130132.125	stationary_serve	n/a	n/a	M  1
+520.5360000000	n/a	130134	stationary_serve	n/a	n/a	Subject_hit
+525.5265000000	n/a	131381.625	stationary_serve	n/a	n/a	M  1
+526.4200000000	n/a	131605	stationary_serve	n/a	n/a	Subject_hit
+528.4840000000	n/a	132121	stationary_serve	n/a	n/a	Subject_hit
+530.5245000000	n/a	132631.125	stationary_serve	n/a	n/a	M  1
+530.5400000000	n/a	132635	stationary_serve	n/a	n/a	Subject_hit
+532.5360000000	n/a	133134	stationary_serve	n/a	n/a	Subject_hit
+535.5225000000	n/a	133880.625	stationary_serve	n/a	n/a	M  1
+536.4720000000	n/a	134118	stationary_serve	n/a	n/a	Subject_hit
+538.5040000000	n/a	134626	stationary_serve	n/a	n/a	Subject_hit
+540.5205000000	n/a	135130.125	stationary_serve	n/a	n/a	M  1
+542.5600000000	n/a	135640	stationary_serve	n/a	n/a	Subject_hit
+544.2480000000	n/a	136062	stationary_serve	n/a	n/a	Subject_hit
+545.5165000000	n/a	136379.125	stationary_serve	n/a	n/a	M  1
+548.5000000000	n/a	137125	stationary_serve	n/a	n/a	Subject_hit
+550.1400000000	n/a	137535	stationary_serve	n/a	n/a	Subject_hit
+550.5145000000	n/a	137628.625	stationary_serve	n/a	n/a	M  1
+552.2240000000	n/a	138056	stationary_serve	n/a	n/a	Subject_hit
+554.6840000000	n/a	138671	stationary_serve	n/a	n/a	Subject_hit
+555.5125000000	n/a	138878.125	stationary_serve	n/a	n/a	M  1
+556.6480000000	n/a	139162	stationary_serve	n/a	n/a	Subject_hit
+558.6640000000	n/a	139666	stationary_serve	n/a	n/a	Subject_hit
+560.5105000000	n/a	140127.625	stationary_serve	n/a	n/a	M  1
+560.7520000000	n/a	140188	stationary_serve	n/a	n/a	Subject_hit
+562.7320000000	n/a	140683	stationary_serve	n/a	n/a	Subject_hit
+565.5085000000	n/a	141377.125	stationary_serve	n/a	n/a	M  1
+567.1160000000	n/a	141779	stationary_serve	n/a	n/a	Subject_hit
+568.5200000000	n/a	142130	stationary_serve	n/a	n/a	Subject_hit
+570.5045000000	n/a	142626.125	stationary_serve	n/a	n/a	M  1
+571.0600000000	n/a	142765	stationary_serve	n/a	n/a	Subject_hit
+572.8280000000	n/a	143207	stationary_serve	n/a	n/a	Subject_hit
+574.8400000000	n/a	143710	stationary_serve	n/a	n/a	Subject_hit
+575.5025000000	n/a	143875.625	stationary_serve	n/a	n/a	M  1
+579.1520000000	n/a	144788	stationary_serve	n/a	n/a	Subject_hit
+580.8480000000	n/a	145212	stationary_serve	n/a	n/a	Subject_hit
+582.8540000000	n/a	145713.5	STATUS	n/a	n/a	boundary
+584.8520000000	n/a	146213	moving_serve	n/a	n/a	Subject_hit
+586.8320000000	n/a	146708	moving_serve	n/a	n/a	Subject_hit
+586.9265000000	n/a	146731.625	moving_serve	n/a	n/a	M  1
+590.8960000000	n/a	147724	moving_serve	n/a	n/a	Subject_hit
+591.9245000000	n/a	147981.125	moving_serve	n/a	n/a	M  1
+594.7480000000	n/a	148687	moving_serve	n/a	n/a	Subject_hit
+596.9225000000	n/a	149230.625	moving_serve	n/a	n/a	M  1
+597.0200000000	n/a	149255	moving_serve	n/a	n/a	Subject_hit
+598.9320000000	n/a	149733	moving_serve	n/a	n/a	Subject_hit
+601.9205000000	n/a	150480.125	moving_serve	n/a	n/a	M  1
+602.9920000000	n/a	150748	moving_serve	n/a	n/a	Subject_hit
+605.1560000000	n/a	151289	moving_serve	n/a	n/a	Subject_hit
+606.9165000000	n/a	151729.125	moving_serve	n/a	n/a	M  1
+607.2040000000	n/a	151801	moving_serve	n/a	n/a	Subject_hit
+609.3360000000	n/a	152334	moving_serve	n/a	n/a	Subject_hit
+611.2720000000	n/a	152818	moving_serve	n/a	n/a	Subject_hit
+611.9125000000	n/a	152978.125	moving_serve	n/a	n/a	M  1
+613.4320000000	n/a	153358	moving_serve	n/a	n/a	Subject_hit
+615.5120000000	n/a	153878	moving_serve	n/a	n/a	Subject_hit
+616.9105000000	n/a	154227.625	moving_serve	n/a	n/a	M  1
+619.5720000000	n/a	154893	moving_serve	n/a	n/a	Subject_hit
+621.5400000000	n/a	155385	moving_serve	n/a	n/a	Subject_hit
+621.9085000000	n/a	155477.125	moving_serve	n/a	n/a	M  1
+623.6080000000	n/a	155902	moving_serve	n/a	n/a	Subject_hit
+626.9065000000	n/a	156726.625	moving_serve	n/a	n/a	M  1
+627.5160000000	n/a	156879	moving_serve	n/a	n/a	Subject_hit
+629.6600000000	n/a	157415	moving_serve	n/a	n/a	Subject_hit
+631.8120000000	n/a	157953	moving_serve	n/a	n/a	Subject_hit
+631.9025000000	n/a	157975.625	moving_serve	n/a	n/a	M  1
+633.8600000000	n/a	158465	moving_serve	n/a	n/a	Subject_hit
+635.6000000000	n/a	158900	moving_serve	n/a	n/a	Subject_hit
+636.9005000000	n/a	159225.125	moving_serve	n/a	n/a	M  1
+637.9240000000	n/a	159481	moving_serve	n/a	n/a	Subject_hit
+640.0560000000	n/a	160014	moving_serve	n/a	n/a	Subject_hit
+641.8920000000	n/a	160473	moving_serve	n/a	n/a	Subject_hit
+641.8985000000	n/a	160474.625	moving_serve	n/a	n/a	M  1
+643.7080000000	n/a	160927	moving_serve	n/a	n/a	Subject_hit
+646.2960000000	n/a	161574	moving_serve	n/a	n/a	Subject_hit
+646.8965000000	n/a	161724.125	moving_serve	n/a	n/a	M  1
+650.1840000000	n/a	162546	moving_serve	n/a	n/a	Subject_hit
+651.8925000000	n/a	162973.125	moving_serve	n/a	n/a	M  1
+652.3160000000	n/a	163079	moving_serve	n/a	n/a	Subject_hit
+654.3520000000	n/a	163588	moving_serve	n/a	n/a	Subject_hit
+656.8905000000	n/a	164222.625	moving_serve	n/a	n/a	M  1
+658.4400000000	n/a	164610	moving_serve	n/a	n/a	Subject_hit
+660.4240000000	n/a	165106	moving_serve	n/a	n/a	Subject_hit
+661.8885000000	n/a	165472.125	moving_serve	n/a	n/a	M  1
+664.3840000000	n/a	166096	moving_serve	n/a	n/a	Subject_hit
+666.5240000000	n/a	166631	moving_serve	n/a	n/a	Subject_hit
+666.8865000000	n/a	166721.625	moving_serve	n/a	n/a	M  1
+668.4480000000	n/a	167112	moving_serve	n/a	n/a	Subject_hit
+671.3680000000	n/a	167842	moving_serve	n/a	n/a	Subject_hit
+671.8845000000	n/a	167971.125	moving_serve	n/a	n/a	M  1
+672.6120000000	n/a	168153	moving_serve	n/a	n/a	Subject_hit
+675.0840000000	n/a	168771	moving_serve	n/a	n/a	Subject_hit
+676.8825000000	n/a	169220.625	moving_serve	n/a	n/a	M  1
+677.0200000000	n/a	169255	moving_serve	n/a	n/a	Subject_hit
+679.0760000000	n/a	169769	moving_serve	n/a	n/a	Subject_hit
+681.1560000000	n/a	170289	moving_serve	n/a	n/a	Subject_hit
+681.8805000000	n/a	170470.125	moving_serve	n/a	n/a	M  1
+683.2480000000	n/a	170812	moving_serve	n/a	n/a	Subject_hit
+685.4960000000	n/a	171374	moving_serve	n/a	n/a	Subject_hit
+686.8785000000	n/a	171719.625	moving_serve	n/a	n/a	M  1
+687.5080000000	n/a	171877	moving_serve	n/a	n/a	Subject_hit
+689.6200000000	n/a	172405	moving_serve	n/a	n/a	Subject_hit
+691.7320000000	n/a	172933	moving_serve	n/a	n/a	Subject_hit
+691.8765000000	n/a	172969.125	moving_serve	n/a	n/a	M  1
+693.7600000000	n/a	173440	moving_serve	n/a	n/a	Subject_hit
+695.8560000000	n/a	173964	moving_serve	n/a	n/a	Subject_hit
+696.8745000000	n/a	174218.625	moving_serve	n/a	n/a	M  1
+698.0200000000	n/a	174505	moving_serve	n/a	n/a	Subject_hit
+701.8725000000	n/a	175468.125	moving_serve	n/a	n/a	M  1
+701.9040000000	n/a	175476	moving_serve	n/a	n/a	Subject_hit
+703.9960000000	n/a	175999	moving_serve	n/a	n/a	Subject_hit
+705.7000000000	n/a	176425	moving_serve	n/a	n/a	Subject_hit
+706.8705000000	n/a	176717.625	moving_serve	n/a	n/a	M  1
+707.8640000000	n/a	176966	moving_serve	n/a	n/a	Subject_hit
+709.8800000000	n/a	177470	moving_serve	n/a	n/a	Subject_hit
+711.8685000000	n/a	177967.125	moving_serve	n/a	n/a	M  1
+714.4320000000	n/a	178608	moving_serve	n/a	n/a	Subject_hit
+716.4720000000	n/a	179118	moving_serve	n/a	n/a	Subject_hit
+716.8665000000	n/a	179216.625	moving_serve	n/a	n/a	M  1
+720.5840000000	n/a	180146	moving_serve	n/a	n/a	Subject_hit
+721.8665000000	n/a	180466.625	moving_serve	n/a	n/a	M  1
+722.6560000000	n/a	180664	moving_serve	n/a	n/a	Subject_hit
+724.9880000000	n/a	181247	moving_serve	n/a	n/a	Subject_hit
+726.8645000000	n/a	181716.125	moving_serve	n/a	n/a	M  1
+726.8800000000	n/a	181720	moving_serve	n/a	n/a	Subject_hit
+731.8625000000	n/a	182965.625	moving_serve	n/a	n/a	M  1
+732.7000000000	n/a	183175	moving_serve	n/a	n/a	Subject_hit
+734.6200000000	n/a	183655	moving_serve	n/a	n/a	Subject_hit
+736.8160000000	n/a	184204	moving_serve	n/a	n/a	Subject_hit
+736.8605000000	n/a	184215.125	moving_serve	n/a	n/a	M  1
+738.7960000000	n/a	184699	moving_serve	n/a	n/a	Subject_hit
+740.8800000000	n/a	185220	moving_serve	n/a	n/a	Subject_hit
+741.8585000000	n/a	185464.625	moving_serve	n/a	n/a	M  1
+743.0240000000	n/a	185756	moving_serve	n/a	n/a	Subject_hit
+745.0300000000	n/a	186257.5	STATUS	n/a	n/a	boundary
+746.6685000000	n/a	186667.125	cooperative	n/a	n/a	M  1
+747.0280000000	n/a	186757	cooperative	n/a	n/a	Subject_receive
+748.2600000000	n/a	187065	cooperative	n/a	n/a	Subject_hit
+748.9240000000	n/a	187231	cooperative	n/a	n/a	Subject_receive
+749.7200000000	n/a	187430	cooperative	n/a	n/a	Subject_hit
+750.2880000000	n/a	187572	cooperative	n/a	n/a	Subject_receive
+750.8920000000	n/a	187723	cooperative	n/a	n/a	Subject_hit
+751.4280000000	n/a	187857	cooperative	n/a	n/a	Subject_receive
+751.6665000000	n/a	187916.625	cooperative	n/a	n/a	M  1
+752.1200000000	n/a	188030	cooperative	n/a	n/a	Subject_hit
+752.8320000000	n/a	188208	cooperative	n/a	n/a	Subject_receive
+753.6600000000	n/a	188415	cooperative	n/a	n/a	Subject_hit
+754.2880000000	n/a	188572	cooperative	n/a	n/a	Subject_receive
+755.2200000000	n/a	188805	cooperative	n/a	n/a	Subject_hit
+756.2440000000	n/a	189061	cooperative	n/a	n/a	Subject_receive
+756.6645000000	n/a	189166.125	cooperative	n/a	n/a	M  1
+757.1080000000	n/a	189277	cooperative	n/a	n/a	Subject_hit
+757.7280000000	n/a	189432	cooperative	n/a	n/a	Subject_receive
+757.9480000000	n/a	189487	cooperative	n/a	n/a	Subject_hit
+758.9640000000	n/a	189741	cooperative	n/a	n/a	Subject_receive
+759.6080000000	n/a	189902	cooperative	n/a	n/a	Subject_hit
+760.1520000000	n/a	190038	cooperative	n/a	n/a	Subject_receive
+760.8560000000	n/a	190214	cooperative	n/a	n/a	Subject_hit
+761.4240000000	n/a	190356	cooperative	n/a	n/a	Subject_receive
+761.6625000000	n/a	190415.625	cooperative	n/a	n/a	M  1
+762.0640000000	n/a	190516	cooperative	n/a	n/a	Subject_hit
+762.5720000000	n/a	190643	cooperative	n/a	n/a	Subject_receive
+764.4440000000	n/a	191111	cooperative	n/a	n/a	Subject_receive
+765.1920000000	n/a	191298	cooperative	n/a	n/a	Subject_hit
+765.8360000000	n/a	191459	cooperative	n/a	n/a	Subject_receive
+766.6625000000	n/a	191665.625	cooperative	n/a	n/a	M  1
+768.1000000000	n/a	192025	cooperative	n/a	n/a	Subject_receive
+768.8200000000	n/a	192205	cooperative	n/a	n/a	Subject_hit
+769.4560000000	n/a	192364	cooperative	n/a	n/a	Subject_receive
+769.6640000000	n/a	192416	cooperative	n/a	n/a	Subject_hit
+770.5480000000	n/a	192637	cooperative	n/a	n/a	Subject_receive
+771.3680000000	n/a	192842	cooperative	n/a	n/a	Subject_hit
+771.6520000000	n/a	192913	cooperative	n/a	n/a	Subject_receive
+771.6605000000	n/a	192915.125	cooperative	n/a	n/a	M  1
+772.7760000000	n/a	193194	cooperative	n/a	n/a	Subject_hit
+773.3240000000	n/a	193331	cooperative	n/a	n/a	Subject_receive
+773.9680000000	n/a	193492	cooperative	n/a	n/a	Subject_hit
+774.4880000000	n/a	193622	cooperative	n/a	n/a	Subject_receive
+775.2720000000	n/a	193818	cooperative	n/a	n/a	Subject_hit
+775.3960000000	n/a	193849	cooperative	n/a	n/a	Subject_receive
+776.4080000000	n/a	194102	cooperative	n/a	n/a	Subject_hit
+776.5080000000	n/a	194127	cooperative	n/a	n/a	Subject_receive
+776.6605000000	n/a	194165.125	cooperative	n/a	n/a	M  1
+780.7040000000	n/a	195176	cooperative	n/a	n/a	Subject_hit
+780.9680000000	n/a	195242	cooperative	n/a	n/a	Subject_receive
+781.6585000000	n/a	195414.625	cooperative	n/a	n/a	M  1
+781.9560000000	n/a	195489	cooperative	n/a	n/a	Subject_hit
+782.4640000000	n/a	195616	cooperative	n/a	n/a	Subject_receive
+783.0920000000	n/a	195773	cooperative	n/a	n/a	Subject_hit
+783.6120000000	n/a	195903	cooperative	n/a	n/a	Subject_receive
+784.4920000000	n/a	196123	cooperative	n/a	n/a	Subject_hit
+785.0040000000	n/a	196251	cooperative	n/a	n/a	Subject_receive
+785.6160000000	n/a	196404	cooperative	n/a	n/a	Subject_hit
+786.0800000000	n/a	196520	cooperative	n/a	n/a	Subject_receive
+786.3520000000	n/a	196588	cooperative	n/a	n/a	Subject_hit
+786.6565000000	n/a	196664.125	cooperative	n/a	n/a	M  1
+786.8760000000	n/a	196719	cooperative	n/a	n/a	Subject_receive
+790.1040000000	n/a	197526	cooperative	n/a	n/a	Subject_receive
+790.4720000000	n/a	197618	cooperative	n/a	n/a	Subject_hit
+791.5800000000	n/a	197895	cooperative	n/a	n/a	Subject_receive
+791.6565000000	n/a	197914.125	cooperative	n/a	n/a	M  1
+792.4440000000	n/a	198111	cooperative	n/a	n/a	Subject_hit
+793.1240000000	n/a	198281	cooperative	n/a	n/a	Subject_receive
+793.8000000000	n/a	198450	cooperative	n/a	n/a	Subject_hit
+794.3360000000	n/a	198584	cooperative	n/a	n/a	Subject_receive
+795.0200000000	n/a	198755	cooperative	n/a	n/a	Subject_hit
+795.5920000000	n/a	198898	cooperative	n/a	n/a	Subject_receive
+796.6545000000	n/a	199163.625	cooperative	n/a	n/a	M  1
+796.7360000000	n/a	199184	cooperative	n/a	n/a	Subject_hit
+797.3280000000	n/a	199332	cooperative	n/a	n/a	Subject_receive
+798.1240000000	n/a	199531	cooperative	n/a	n/a	Subject_hit
+798.2160000000	n/a	199554	cooperative	n/a	n/a	Subject_receive
+798.9640000000	n/a	199741	cooperative	n/a	n/a	Subject_hit
+799.9200000000	n/a	199980	cooperative	n/a	n/a	Subject_receive
+800.5840000000	n/a	200146	cooperative	n/a	n/a	Subject_hit
+801.0880000000	n/a	200272	cooperative	n/a	n/a	Subject_receive
+801.6525000000	n/a	200413.125	cooperative	n/a	n/a	M  1
+801.7080000000	n/a	200427	cooperative	n/a	n/a	Subject_hit
+802.1920000000	n/a	200548	cooperative	n/a	n/a	Subject_receive
+802.8560000000	n/a	200714	cooperative	n/a	n/a	Subject_hit
+803.4160000000	n/a	200854	cooperative	n/a	n/a	Subject_receive
+805.1200000000	n/a	201280	cooperative	n/a	n/a	Subject_receive
+806.3840000000	n/a	201596	cooperative	n/a	n/a	Subject_hit
+806.6525000000	n/a	201663.125	cooperative	n/a	n/a	M  1
+807.0000000000	n/a	201750	cooperative	n/a	n/a	Subject_receive
+809.3160000000	n/a	202329	cooperative	n/a	n/a	Subject_receive
+810.0800000000	n/a	202520	cooperative	n/a	n/a	Subject_hit
+810.6280000000	n/a	202657	cooperative	n/a	n/a	Subject_receive
+811.6505000000	n/a	202912.625	cooperative	n/a	n/a	M  1
+812.2480000000	n/a	203062	cooperative	n/a	n/a	Subject_receive
+813.0240000000	n/a	203256	cooperative	n/a	n/a	Subject_hit
+813.1480000000	n/a	203287	cooperative	n/a	n/a	Subject_receive
+814.1800000000	n/a	203545	cooperative	n/a	n/a	Subject_hit
+815.7760000000	n/a	203944	cooperative	n/a	n/a	Subject_hit
+816.0720000000	n/a	204018	cooperative	n/a	n/a	Subject_receive
+816.6505000000	n/a	204162.625	cooperative	n/a	n/a	M  1
+817.4120000000	n/a	204353	cooperative	n/a	n/a	Subject_hit
+817.9920000000	n/a	204498	cooperative	n/a	n/a	Subject_receive
+821.6485000000	n/a	205412.125	cooperative	n/a	n/a	M  1
+822.9240000000	n/a	205731	cooperative	n/a	n/a	Subject_hit
+823.6560000000	n/a	205914	cooperative	n/a	n/a	Subject_receive
+824.3080000000	n/a	206077	cooperative	n/a	n/a	Subject_hit
+825.2400000000	n/a	206310	cooperative	n/a	n/a	Subject_receive
+825.9520000000	n/a	206488	cooperative	n/a	n/a	Subject_hit
+826.5160000000	n/a	206629	cooperative	n/a	n/a	Subject_receive
+826.6465000000	n/a	206661.625	cooperative	n/a	n/a	M  1
+827.3160000000	n/a	206829	cooperative	n/a	n/a	Subject_hit
+827.8360000000	n/a	206959	cooperative	n/a	n/a	Subject_receive
+828.1640000000	n/a	207041	cooperative	n/a	n/a	Subject_hit
+828.6760000000	n/a	207169	cooperative	n/a	n/a	Subject_receive
+829.8120000000	n/a	207453	cooperative	n/a	n/a	Subject_hit
+830.3200000000	n/a	207580	cooperative	n/a	n/a	Subject_receive
+831.1400000000	n/a	207785	cooperative	n/a	n/a	Subject_hit
+831.2520000000	n/a	207813	cooperative	n/a	n/a	Subject_receive
+835.3400000000	n/a	208835	cooperative	n/a	n/a	Subject_hit
+836.0600000000	n/a	209015	cooperative	n/a	n/a	Subject_receive
+836.3480000000	n/a	209087	cooperative	n/a	n/a	Subject_hit
+836.6445000000	n/a	209161.125	cooperative	n/a	n/a	M  1
+837.2760000000	n/a	209319	cooperative	n/a	n/a	Subject_receive
+837.9640000000	n/a	209491	cooperative	n/a	n/a	Subject_hit
+838.4600000000	n/a	209615	cooperative	n/a	n/a	Subject_receive
+839.1200000000	n/a	209780	cooperative	n/a	n/a	Subject_hit
+839.6120000000	n/a	209903	cooperative	n/a	n/a	Subject_receive
+841.4920000000	n/a	210373	cooperative	n/a	n/a	Subject_receive
+841.6425000000	n/a	210410.625	cooperative	n/a	n/a	M  1
+842.2200000000	n/a	210555	cooperative	n/a	n/a	Subject_hit
+842.7960000000	n/a	210699	cooperative	n/a	n/a	Subject_receive
+843.6560000000	n/a	210914	cooperative	n/a	n/a	Subject_hit
+843.7720000000	n/a	210943	cooperative	n/a	n/a	Subject_receive
+844.8880000000	n/a	211222	cooperative	n/a	n/a	Subject_hit
+845.1000000000	n/a	211275	cooperative	n/a	n/a	Subject_receive
+846.2720000000	n/a	211568	cooperative	n/a	n/a	Subject_hit
+846.6405000000	n/a	211660.125	cooperative	n/a	n/a	M  1
+846.8440000000	n/a	211711	cooperative	n/a	n/a	Subject_receive
+847.6880000000	n/a	211922	cooperative	n/a	n/a	Subject_hit
+851.1960000000	n/a	212799	cooperative	n/a	n/a	Subject_hit
+851.6405000000	n/a	212910.125	cooperative	n/a	n/a	M  1
+851.8200000000	n/a	212955	cooperative	n/a	n/a	Subject_receive
+852.7960000000	n/a	213199	cooperative	n/a	n/a	Subject_hit
+853.3200000000	n/a	213330	cooperative	n/a	n/a	Subject_receive
+853.7880000000	n/a	213447	cooperative	n/a	n/a	Subject_hit
+854.3000000000	n/a	213575	cooperative	n/a	n/a	Subject_receive
+855.7040000000	n/a	213926	cooperative	n/a	n/a	Subject_hit
+856.2360000000	n/a	214059	cooperative	n/a	n/a	Subject_receive
+856.6385000000	n/a	214159.625	cooperative	n/a	n/a	M  1
+857.1440000000	n/a	214286	cooperative	n/a	n/a	Subject_hit
+857.6960000000	n/a	214424	cooperative	n/a	n/a	Subject_receive
+858.6840000000	n/a	214671	cooperative	n/a	n/a	Subject_hit
+859.3200000000	n/a	214830	cooperative	n/a	n/a	Subject_receive
+859.5800000000	n/a	214895	cooperative	n/a	n/a	Subject_hit
+860.0960000000	n/a	215024	cooperative	n/a	n/a	Subject_receive
+860.7680000000	n/a	215192	cooperative	n/a	n/a	Subject_hit
+861.6365000000	n/a	215409.125	cooperative	n/a	n/a	M  1
+861.7200000000	n/a	215430	cooperative	n/a	n/a	Subject_receive
+862.4080000000	n/a	215602	cooperative	n/a	n/a	Subject_hit
+862.9200000000	n/a	215730	cooperative	n/a	n/a	Subject_receive
+863.7880000000	n/a	215947	cooperative	n/a	n/a	Subject_hit
+864.3000000000	n/a	216075	cooperative	n/a	n/a	Subject_receive
+865.0880000000	n/a	216272	cooperative	n/a	n/a	Subject_hit
+865.5880000000	n/a	216397	cooperative	n/a	n/a	Subject_receive
+865.8880000000	n/a	216472	cooperative	n/a	n/a	Subject_hit
+866.6345000000	n/a	216658.625	cooperative	n/a	n/a	M  1
+866.7600000000	n/a	216690	cooperative	n/a	n/a	Subject_receive
+867.4160000000	n/a	216854	cooperative	n/a	n/a	Subject_hit
+867.8920000000	n/a	216973	cooperative	n/a	n/a	Subject_receive
+868.9320000000	n/a	217233	cooperative	n/a	n/a	Subject_hit
+869.4200000000	n/a	217355	cooperative	n/a	n/a	Subject_receive
+870.0480000000	n/a	217512	cooperative	n/a	n/a	Subject_hit
+870.5640000000	n/a	217641	cooperative	n/a	n/a	Subject_receive
+871.6305000000	n/a	217907.625	cooperative	n/a	n/a	M  1
+872.5880000000	n/a	218147	cooperative	n/a	n/a	Subject_hit
+873.0560000000	n/a	218264	cooperative	n/a	n/a	Subject_receive
+873.7040000000	n/a	218426	cooperative	n/a	n/a	Subject_hit
+876.6285000000	n/a	219157.125	cooperative	n/a	n/a	M  1
+876.9400000000	n/a	219235	cooperative	n/a	n/a	Subject_hit
+877.6560000000	n/a	219414	cooperative	n/a	n/a	Subject_receive
+878.0560000000	n/a	219514	cooperative	n/a	n/a	Subject_hit
+878.9800000000	n/a	219745	cooperative	n/a	n/a	Subject_receive
+879.7040000000	n/a	219926	cooperative	n/a	n/a	Subject_hit
+880.4880000000	n/a	220122	cooperative	n/a	n/a	Subject_receive
+881.6265000000	n/a	220406.625	cooperative	n/a	n/a	M  1
+882.2560000000	n/a	220564	cooperative	n/a	n/a	Subject_hit
+882.7840000000	n/a	220696	cooperative	n/a	n/a	Subject_receive
+883.5680000000	n/a	220892	cooperative	n/a	n/a	Subject_hit
+884.5120000000	n/a	221128	cooperative	n/a	n/a	Subject_receive
+885.5760000000	n/a	221394	cooperative	n/a	n/a	Subject_hit
+885.9200000000	n/a	221480	cooperative	n/a	n/a	Subject_receive
+886.6245000000	n/a	221656.125	cooperative	n/a	n/a	M  1
+886.9520000000	n/a	221738	cooperative	n/a	n/a	Subject_hit
+887.9040000000	n/a	221976	cooperative	n/a	n/a	Subject_receive
+888.4240000000	n/a	222106	cooperative	n/a	n/a	Subject_hit
+889.3040000000	n/a	222326	cooperative	n/a	n/a	Subject_receive
+890.0920000000	n/a	222523	cooperative	n/a	n/a	Subject_hit
+891.6225000000	n/a	222905.625	cooperative	n/a	n/a	M  1
+893.9160000000	n/a	223479	cooperative	n/a	n/a	Subject_hit
+894.2120000000	n/a	223553	cooperative	n/a	n/a	Subject_receive
+895.1640000000	n/a	223791	cooperative	n/a	n/a	Subject_hit
+895.6880000000	n/a	223922	cooperative	n/a	n/a	Subject_receive
+896.6205000000	n/a	224155.125	cooperative	n/a	n/a	M  1
+896.6880000000	n/a	224172	cooperative	n/a	n/a	Subject_hit
+896.9360000000	n/a	224234	cooperative	n/a	n/a	Subject_receive
+897.9080000000	n/a	224477	cooperative	n/a	n/a	Subject_hit
+898.5400000000	n/a	224635	cooperative	n/a	n/a	Subject_receive
+899.7640000000	n/a	224941	cooperative	n/a	n/a	Subject_hit
+900.3000000000	n/a	225075	cooperative	n/a	n/a	Subject_receive
+900.9760000000	n/a	225244	cooperative	n/a	n/a	Subject_hit
+901.0840000000	n/a	225271	cooperative	n/a	n/a	Subject_receive
+901.6185000000	n/a	225404.625	cooperative	n/a	n/a	M  1
+902.2640000000	n/a	225566	cooperative	n/a	n/a	Subject_hit
+902.8240000000	n/a	225706	cooperative	n/a	n/a	Subject_receive
+903.7160000000	n/a	225929	cooperative	n/a	n/a	Subject_hit
+904.4360000000	n/a	226109	cooperative	n/a	n/a	Subject_receive
+905.1800000000	n/a	226295	cooperative	n/a	n/a	Subject_hit
+906.6165000000	n/a	226654.125	cooperative	n/a	n/a	M  1
+908.1400000000	n/a	227035	cooperative	n/a	n/a	Subject_hit
+908.8480000000	n/a	227212	cooperative	n/a	n/a	Subject_receive
+909.5840000000	n/a	227396	cooperative	n/a	n/a	Subject_hit
+910.0920000000	n/a	227523	cooperative	n/a	n/a	Subject_receive
+910.5200000000	n/a	227630	cooperative	n/a	n/a	Subject_hit
+911.0080000000	n/a	227752	cooperative	n/a	n/a	Subject_receive
+911.6145000000	n/a	227903.625	cooperative	n/a	n/a	M  1
+912.1360000000	n/a	228034	cooperative	n/a	n/a	Subject_hit
+912.7080000000	n/a	228177	cooperative	n/a	n/a	Subject_receive
+913.4360000000	n/a	228359	cooperative	n/a	n/a	Subject_hit
+916.8040000000	n/a	229201	cooperative	n/a	n/a	Subject_receive
+917.5880000000	n/a	229397	cooperative	n/a	n/a	Subject_hit
+921.6105000000	n/a	230402.625	cooperative	n/a	n/a	M  1
+921.7680000000	n/a	230442	cooperative	n/a	n/a	Subject_receive
+922.5840000000	n/a	230646	cooperative	n/a	n/a	Subject_hit
+922.7560000000	n/a	230689	cooperative	n/a	n/a	Subject_receive
+924.0040000000	n/a	231001	cooperative	n/a	n/a	Subject_hit
+924.1800000000	n/a	231045	cooperative	n/a	n/a	Subject_receive
+925.0400000000	n/a	231260	cooperative	n/a	n/a	Subject_hit
+926.0440000000	n/a	231511	cooperative	n/a	n/a	Subject_receive
+926.6085000000	n/a	231652.125	cooperative	n/a	n/a	M  1
+926.7560000000	n/a	231689	cooperative	n/a	n/a	Subject_hit
+929.2240000000	n/a	232306	cooperative	n/a	n/a	Subject_hit
+929.8400000000	n/a	232460	cooperative	n/a	n/a	Subject_receive
+930.2560000000	n/a	232564	cooperative	n/a	n/a	Subject_hit
+930.8240000000	n/a	232706	cooperative	n/a	n/a	Subject_receive
+931.6045000000	n/a	232901.125	cooperative	n/a	n/a	M  1
+931.9320000000	n/a	232983	cooperative	n/a	n/a	Subject_hit
+932.3680000000	n/a	233092	cooperative	n/a	n/a	Subject_receive
+934.5360000000	n/a	233634	cooperative	n/a	n/a	Subject_hit
+935.2680000000	n/a	233817	cooperative	n/a	n/a	Subject_receive
+936.1440000000	n/a	234036	cooperative	n/a	n/a	Subject_hit
+936.6025000000	n/a	234150.625	cooperative	n/a	n/a	M  1
+937.4040000000	n/a	234351	cooperative	n/a	n/a	Subject_receive
+938.4160000000	n/a	234604	cooperative	n/a	n/a	Subject_hit
+939.3640000000	n/a	234841	cooperative	n/a	n/a	Subject_receive
+940.5680000000	n/a	235142	cooperative	n/a	n/a	Subject_hit
+941.3240000000	n/a	235331	cooperative	n/a	n/a	Subject_receive
+941.6005000000	n/a	235400.125	cooperative	n/a	n/a	M  1
+945.6120000000	n/a	236403	cooperative	n/a	n/a	Subject_receive
+946.2040000000	n/a	236551	cooperative	n/a	n/a	Subject_hit
+946.5985000000	n/a	236649.625	cooperative	n/a	n/a	M  1
+946.7640000000	n/a	236691	cooperative	n/a	n/a	Subject_receive
+947.6200000000	n/a	236905	cooperative	n/a	n/a	Subject_hit
+948.1840000000	n/a	237046	cooperative	n/a	n/a	Subject_receive
+949.0000000000	n/a	237250	cooperative	n/a	n/a	Subject_hit
+949.8840000000	n/a	237471	cooperative	n/a	n/a	Subject_receive
+950.3720000000	n/a	237593	cooperative	n/a	n/a	Subject_hit
+950.8560000000	n/a	237714	cooperative	n/a	n/a	Subject_receive
+951.5945000000	n/a	237898.625	cooperative	n/a	n/a	M  1
+952.1120000000	n/a	238028	cooperative	n/a	n/a	Subject_hit
+952.2520000000	n/a	238063	cooperative	n/a	n/a	Subject_receive
+953.1720000000	n/a	238293	cooperative	n/a	n/a	Subject_hit
+953.6960000000	n/a	238424	cooperative	n/a	n/a	Subject_receive
+954.5720000000	n/a	238643	cooperative	n/a	n/a	Subject_hit
+956.5925000000	n/a	239148.125	cooperative	n/a	n/a	M  1
+957.1040000000	n/a	239276	cooperative	n/a	n/a	Subject_hit
+957.4400000000	n/a	239360	cooperative	n/a	n/a	Subject_receive
+958.5840000000	n/a	239646	cooperative	n/a	n/a	Subject_hit
+959.2160000000	n/a	239804	cooperative	n/a	n/a	Subject_receive
+960.6760000000	n/a	240169	cooperative	n/a	n/a	Subject_hit
+961.3080000000	n/a	240327	cooperative	n/a	n/a	Subject_receive
+961.5905000000	n/a	240397.625	cooperative	n/a	n/a	M  1
+961.6760000000	n/a	240419	cooperative	n/a	n/a	Subject_hit
+962.1680000000	n/a	240542	cooperative	n/a	n/a	Subject_receive
+962.9320000000	n/a	240733	cooperative	n/a	n/a	Subject_hit
+963.4280000000	n/a	240857	cooperative	n/a	n/a	Subject_receive
+964.5520000000	n/a	241138	cooperative	n/a	n/a	Subject_hit
+965.0280000000	n/a	241257	cooperative	n/a	n/a	Subject_receive
+965.4440000000	n/a	241361	cooperative	n/a	n/a	Subject_hit
+966.5865000000	n/a	241646.625	cooperative	n/a	n/a	M  1
+968.7960000000	n/a	242199	cooperative	n/a	n/a	Subject_hit
+969.1840000000	n/a	242296	cooperative	n/a	n/a	Subject_receive
+969.8880000000	n/a	242472	cooperative	n/a	n/a	Subject_hit
+970.4240000000	n/a	242606	cooperative	n/a	n/a	Subject_receive
+971.2880000000	n/a	242822	cooperative	n/a	n/a	Subject_hit
+971.5845000000	n/a	242896.125	cooperative	n/a	n/a	M  1
+971.8800000000	n/a	242970	cooperative	n/a	n/a	Subject_receive
+973.0440000000	n/a	243261	cooperative	n/a	n/a	Subject_hit
+973.5640000000	n/a	243391	cooperative	n/a	n/a	Subject_receive
+973.9920000000	n/a	243498	cooperative	n/a	n/a	Subject_hit
+974.5760000000	n/a	243644	cooperative	n/a	n/a	Subject_receive
+975.8440000000	n/a	243961	cooperative	n/a	n/a	Subject_hit
+976.0960000000	n/a	244024	cooperative	n/a	n/a	Subject_receive
+976.5805000000	n/a	244145.125	cooperative	n/a	n/a	M  1
+976.7760000000	n/a	244194	cooperative	n/a	n/a	Subject_hit
+977.6360000000	n/a	244409	cooperative	n/a	n/a	Subject_receive
+978.6000000000	n/a	244650	cooperative	n/a	n/a	Subject_hit
+978.8000000000	n/a	244700	cooperative	n/a	n/a	Subject_receive
+979.5360000000	n/a	244884	cooperative	n/a	n/a	Subject_hit
+980.0560000000	n/a	245014	cooperative	n/a	n/a	Subject_receive
+980.7560000000	n/a	245189	cooperative	n/a	n/a	Subject_hit
+981.3880000000	n/a	245347	cooperative	n/a	n/a	Subject_receive
+981.5785000000	n/a	245394.625	cooperative	n/a	n/a	M  1
+982.3320000000	n/a	245583	cooperative	n/a	n/a	Subject_hit
+982.9160000000	n/a	245729	cooperative	n/a	n/a	Subject_receive
+983.7680000000	n/a	245942	cooperative	n/a	n/a	Subject_hit
+984.4880000000	n/a	246122	cooperative	n/a	n/a	Subject_receive
+985.7480000000	n/a	246437	cooperative	n/a	n/a	Subject_hit
+986.5745000000	n/a	246643.625	cooperative	n/a	n/a	M  1
+988.9200000000	n/a	247230	cooperative	n/a	n/a	Subject_hit
+989.2200000000	n/a	247305	cooperative	n/a	n/a	Subject_receive
+990.1320000000	n/a	247533	cooperative	n/a	n/a	Subject_hit
+990.7800000000	n/a	247695	cooperative	n/a	n/a	Subject_receive
+991.5725000000	n/a	247893.125	cooperative	n/a	n/a	M  1
+992.9960000000	n/a	248249	cooperative	n/a	n/a	Subject_hit
+993.6080000000	n/a	248402	cooperative	n/a	n/a	Subject_receive
+994.5760000000	n/a	248644	cooperative	n/a	n/a	Subject_hit
+995.0600000000	n/a	248765	cooperative	n/a	n/a	Subject_receive
+996.0280000000	n/a	249007	cooperative	n/a	n/a	Subject_hit
+996.5705000000	n/a	249142.625	cooperative	n/a	n/a	M  1
+1000.0200000000	n/a	250005	cooperative	n/a	n/a	Subject_hit
+1000.7840000000	n/a	250196	cooperative	n/a	n/a	Subject_receive
+1001.2440000000	n/a	250311	cooperative	n/a	n/a	Subject_hit
+1001.5665000000	n/a	250391.625	cooperative	n/a	n/a	M  1
+1001.7680000000	n/a	250442	cooperative	n/a	n/a	Subject_receive
+1002.3760000000	n/a	250594	cooperative	n/a	n/a	Subject_hit
+1002.8760000000	n/a	250719	cooperative	n/a	n/a	Subject_receive
+1003.6160000000	n/a	250904	cooperative	n/a	n/a	Subject_hit
+1004.1720000000	n/a	251043	cooperative	n/a	n/a	Subject_receive
+1004.9280000000	n/a	251232	cooperative	n/a	n/a	Subject_hit
+1005.3880000000	n/a	251347	cooperative	n/a	n/a	Subject_receive
+1006.1960000000	n/a	251549	cooperative	n/a	n/a	Subject_hit
+1006.5625000000	n/a	251640.625	cooperative	n/a	n/a	M  1
+1006.7200000000	n/a	251680	cooperative	n/a	n/a	Subject_receive
+1007.4360000000	n/a	251859	cooperative	n/a	n/a	Subject_hit
+1008.6160000000	n/a	252154	cooperative	n/a	n/a	Subject_receive
+1009.8080000000	n/a	252452	cooperative	n/a	n/a	Subject_hit
+1010.1400000000	n/a	252535	cooperative	n/a	n/a	Subject_receive
+1011.5605000000	n/a	252890.125	cooperative	n/a	n/a	M  1
+1012.2480000000	n/a	253062	cooperative	n/a	n/a	Subject_hit
+1012.3400000000	n/a	253085	cooperative	n/a	n/a	Subject_receive
+1012.8960000000	n/a	253224	cooperative	n/a	n/a	Subject_hit
+1016.5565000000	n/a	254139.125	cooperative	n/a	n/a	M  1
+1017.2800000000	n/a	254320	cooperative	n/a	n/a	Subject_hit
+1017.9480000000	n/a	254487	cooperative	n/a	n/a	Subject_receive
+1018.7120000000	n/a	254678	cooperative	n/a	n/a	Subject_hit
+1019.2560000000	n/a	254814	cooperative	n/a	n/a	Subject_receive
+1019.8240000000	n/a	254956	cooperative	n/a	n/a	Subject_hit
+1020.3520000000	n/a	255088	cooperative	n/a	n/a	Subject_receive
+1021.1000000000	n/a	255275	cooperative	n/a	n/a	Subject_hit
+1021.5525000000	n/a	255388.125	cooperative	n/a	n/a	M  1
+1021.6480000000	n/a	255412	cooperative	n/a	n/a	Subject_receive
+1022.3000000000	n/a	255575	cooperative	n/a	n/a	Subject_hit
+1022.7240000000	n/a	255681	cooperative	n/a	n/a	Subject_receive
+1023.4640000000	n/a	255866	cooperative	n/a	n/a	Subject_hit
+1023.9280000000	n/a	255982	cooperative	n/a	n/a	Subject_receive
+1024.7160000000	n/a	256179	cooperative	n/a	n/a	Subject_hit
+1025.2640000000	n/a	256316	cooperative	n/a	n/a	Subject_receive
+1025.9960000000	n/a	256499	cooperative	n/a	n/a	Subject_hit
+1026.5000000000	n/a	256625	cooperative	n/a	n/a	Subject_receive
+1026.5505000000	n/a	256637.625	cooperative	n/a	n/a	M  1
+1030.1000000000	n/a	257525	cooperative	n/a	n/a	Subject_hit
+1030.7760000000	n/a	257694	cooperative	n/a	n/a	Subject_receive
+1031.5465000000	n/a	257886.625	cooperative	n/a	n/a	M  1
+1031.5960000000	n/a	257899	cooperative	n/a	n/a	Subject_hit
+1032.3360000000	n/a	258084	cooperative	n/a	n/a	Subject_receive
+1033.2880000000	n/a	258322	cooperative	n/a	n/a	Subject_hit
+1036.5445000000	n/a	259136.125	cooperative	n/a	n/a	M  1
+1037.4600000000	n/a	259365	cooperative	n/a	n/a	Subject_hit
+1038.0960000000	n/a	259524	cooperative	n/a	n/a	Subject_receive
+1038.8200000000	n/a	259705	cooperative	n/a	n/a	Subject_hit
+1039.3200000000	n/a	259830	cooperative	n/a	n/a	Subject_receive
+1040.1200000000	n/a	260030	cooperative	n/a	n/a	Subject_hit
+1041.5405000000	n/a	260385.125	cooperative	n/a	n/a	M  1
+1043.3840000000	n/a	260846	cooperative	n/a	n/a	Subject_receive
+1044.2000000000	n/a	261050	cooperative	n/a	n/a	Subject_hit
+1044.8080000000	n/a	261202	cooperative	n/a	n/a	Subject_receive
+1045.5440000000	n/a	261386	cooperative	n/a	n/a	Subject_hit
+1046.0680000000	n/a	261517	cooperative	n/a	n/a	Subject_receive
+1046.5365000000	n/a	261634.125	cooperative	n/a	n/a	M  1
+1046.7640000000	n/a	261691	cooperative	n/a	n/a	Subject_hit
+1047.2720000000	n/a	261818	cooperative	n/a	n/a	Subject_receive
+1047.9680000000	n/a	261992	cooperative	n/a	n/a	Subject_hit
+1048.3960000000	n/a	262099	cooperative	n/a	n/a	Subject_receive
+1049.0520000000	n/a	262263	cooperative	n/a	n/a	Subject_hit
+1049.5320000000	n/a	262383	cooperative	n/a	n/a	Subject_receive
+1051.5325000000	n/a	262883.125	cooperative	n/a	n/a	M  1
+1053.1120000000	n/a	263278	cooperative	n/a	n/a	Subject_receive
+1053.9200000000	n/a	263480	cooperative	n/a	n/a	Subject_hit
+1054.3920000000	n/a	263598	cooperative	n/a	n/a	Subject_receive
+1055.2200000000	n/a	263805	cooperative	n/a	n/a	Subject_hit
+1055.6840000000	n/a	263921	cooperative	n/a	n/a	Subject_receive
+1056.3360000000	n/a	264084	cooperative	n/a	n/a	Subject_hit
+1056.5305000000	n/a	264132.625	cooperative	n/a	n/a	M  1
+1056.9280000000	n/a	264232	cooperative	n/a	n/a	Subject_receive
+1057.6000000000	n/a	264400	cooperative	n/a	n/a	Subject_hit
+1058.1920000000	n/a	264548	cooperative	n/a	n/a	Subject_receive
+1059.1280000000	n/a	264782	cooperative	n/a	n/a	Subject_hit
+1059.9800000000	n/a	264995	cooperative	n/a	n/a	Subject_receive
+1060.7000000000	n/a	265175	cooperative	n/a	n/a	Subject_hit
+1061.2480000000	n/a	265312	cooperative	n/a	n/a	Subject_receive
+1061.5265000000	n/a	265381.625	cooperative	n/a	n/a	M  1
+1062.3080000000	n/a	265577	cooperative	n/a	n/a	Subject_hit
+1062.9800000000	n/a	265745	cooperative	n/a	n/a	Subject_receive
+1063.9720000000	n/a	265993	cooperative	n/a	n/a	Subject_hit
+1066.5225000000	n/a	266630.625	cooperative	n/a	n/a	M  1
+1067.3320000000	n/a	266833	cooperative	n/a	n/a	Subject_hit
+1067.9760000000	n/a	266994	cooperative	n/a	n/a	Subject_receive
+1068.6600000000	n/a	267165	cooperative	n/a	n/a	Subject_hit
+1069.2440000000	n/a	267311	cooperative	n/a	n/a	Subject_receive
+1070.0600000000	n/a	267515	cooperative	n/a	n/a	Subject_hit
+1070.5240000000	n/a	267631	cooperative	n/a	n/a	Subject_receive
+1071.4680000000	n/a	267867	cooperative	n/a	n/a	Subject_hit
+1071.5185000000	n/a	267879.625	cooperative	n/a	n/a	M  1
+1071.9680000000	n/a	267992	cooperative	n/a	n/a	Subject_receive
+1072.9360000000	n/a	268234	cooperative	n/a	n/a	Subject_hit
+1073.3520000000	n/a	268338	cooperative	n/a	n/a	Subject_receive
+1074.3560000000	n/a	268589	cooperative	n/a	n/a	Subject_hit
+1074.8120000000	n/a	268703	cooperative	n/a	n/a	Subject_receive
+1075.6160000000	n/a	268904	cooperative	n/a	n/a	Subject_hit
+1076.2040000000	n/a	269051	cooperative	n/a	n/a	Subject_receive
+1076.5165000000	n/a	269129.125	cooperative	n/a	n/a	M  1
+1077.0760000000	n/a	269269	cooperative	n/a	n/a	Subject_hit
+1077.9160000000	n/a	269479	cooperative	n/a	n/a	Subject_receive
+1078.3640000000	n/a	269591	cooperative	n/a	n/a	Subject_hit
+1078.8560000000	n/a	269714	cooperative	n/a	n/a	Subject_receive
+1079.7760000000	n/a	269944	cooperative	n/a	n/a	Subject_hit
+1080.7040000000	n/a	270176	cooperative	n/a	n/a	Subject_receive
+1081.0600000000	n/a	270265	cooperative	n/a	n/a	Subject_hit
+1081.5125000000	n/a	270378.125	cooperative	n/a	n/a	M  1
+1081.8800000000	n/a	270470	cooperative	n/a	n/a	Subject_receive
+1082.1640000000	n/a	270541	cooperative	n/a	n/a	Subject_hit
+1082.6080000000	n/a	270652	cooperative	n/a	n/a	Subject_receive
+1083.3040000000	n/a	270826	cooperative	n/a	n/a	Subject_hit
+1083.7040000000	n/a	270926	cooperative	n/a	n/a	Subject_receive
+1085.6080000000	n/a	271402	cooperative	n/a	n/a	Subject_receive
+1086.3120000000	n/a	271578	cooperative	n/a	n/a	Subject_hit
+1086.5085000000	n/a	271627.125	cooperative	n/a	n/a	M  1
+1086.8520000000	n/a	271713	cooperative	n/a	n/a	Subject_receive
+1087.4400000000	n/a	271860	cooperative	n/a	n/a	Subject_hit
+1087.8680000000	n/a	271967	cooperative	n/a	n/a	Subject_receive
+1088.6120000000	n/a	272153	cooperative	n/a	n/a	Subject_hit
+1091.1760000000	n/a	272794	cooperative	n/a	n/a	Subject_hit
+1091.5045000000	n/a	272876.125	cooperative	n/a	n/a	M  1
+1092.0240000000	n/a	273006	cooperative	n/a	n/a	Subject_receive
+1093.3080000000	n/a	273327	cooperative	n/a	n/a	Subject_hit
+1095.2880000000	n/a	273822	cooperative	n/a	n/a	Subject_receive
+1096.0280000000	n/a	274007	cooperative	n/a	n/a	Subject_hit
+1096.5025000000	n/a	274125.625	cooperative	n/a	n/a	M  1
+1096.9440000000	n/a	274236	cooperative	n/a	n/a	Subject_receive
+1097.6520000000	n/a	274413	cooperative	n/a	n/a	Subject_hit
+1097.8440000000	n/a	274461	cooperative	n/a	n/a	Subject_receive
+1098.5920000000	n/a	274648	cooperative	n/a	n/a	Subject_hit
+1099.1240000000	n/a	274781	cooperative	n/a	n/a	Subject_receive
+1100.2320000000	n/a	275058	cooperative	n/a	n/a	Subject_receive
+1101.4985000000	n/a	275374.625	cooperative	n/a	n/a	M  1
+1101.5880000000	n/a	275397	cooperative	n/a	n/a	Subject_hit
+1102.2960000000	n/a	275574	cooperative	n/a	n/a	Subject_receive
+1103.0720000000	n/a	275768	cooperative	n/a	n/a	Subject_hit
+1103.7360000000	n/a	275934	cooperative	n/a	n/a	Subject_receive
+1104.8040000000	n/a	276201	cooperative	n/a	n/a	Subject_hit
+1105.2640000000	n/a	276316	cooperative	n/a	n/a	Subject_receive
+1106.3680000000	n/a	276592	cooperative	n/a	n/a	Subject_hit
+1106.4945000000	n/a	276623.625	cooperative	n/a	n/a	M  1
+1106.8720000000	n/a	276718	cooperative	n/a	n/a	Subject_receive
+1108.1240000000	n/a	277031	cooperative	n/a	n/a	Subject_hit
+1109.2720000000	n/a	277318	cooperative	n/a	n/a	Subject_receive
+1110.2200000000	n/a	277555	cooperative	n/a	n/a	Subject_hit
+1111.0040000000	n/a	277751	cooperative	n/a	n/a	Subject_receive
+1111.4905000000	n/a	277872.625	cooperative	n/a	n/a	M  1
+1112.6120000000	n/a	278153	cooperative	n/a	n/a	Subject_hit
+1113.2400000000	n/a	278310	cooperative	n/a	n/a	Subject_receive
+1114.5800000000	n/a	278645	cooperative	n/a	n/a	Subject_hit
+1115.1440000000	n/a	278786	cooperative	n/a	n/a	Subject_receive
+1116.4885000000	n/a	279122.125	cooperative	n/a	n/a	M  1
+1120.7000000000	n/a	280175	cooperative	n/a	n/a	Subject_hit
+1121.3200000000	n/a	280330	cooperative	n/a	n/a	Subject_receive
+1121.4845000000	n/a	280371.125	cooperative	n/a	n/a	M  1
+1122.1760000000	n/a	280544	cooperative	n/a	n/a	Subject_hit
+1122.6520000000	n/a	280663	cooperative	n/a	n/a	Subject_receive
+1123.5080000000	n/a	280877	cooperative	n/a	n/a	Subject_hit
+1123.9840000000	n/a	280996	cooperative	n/a	n/a	Subject_receive
+1124.6800000000	n/a	281170	cooperative	n/a	n/a	Subject_hit
+1125.2080000000	n/a	281302	cooperative	n/a	n/a	Subject_receive
+1125.9480000000	n/a	281487	cooperative	n/a	n/a	Subject_hit
+1126.3440000000	n/a	281586	cooperative	n/a	n/a	Subject_receive
+1126.4805000000	n/a	281620.125	cooperative	n/a	n/a	M  1
+1127.5000000000	n/a	281875	cooperative	n/a	n/a	Subject_hit
+1127.9960000000	n/a	281999	cooperative	n/a	n/a	Subject_receive
+1128.3640000000	n/a	282091	cooperative	n/a	n/a	Subject_hit
+1128.8000000000	n/a	282200	cooperative	n/a	n/a	Subject_receive
+1129.5160000000	n/a	282379	cooperative	n/a	n/a	Subject_hit
+1130.3280000000	n/a	282582	cooperative	n/a	n/a	Subject_receive
+1130.7760000000	n/a	282694	cooperative	n/a	n/a	Subject_hit
+1131.4765000000	n/a	282869.125	cooperative	n/a	n/a	M  1
+1134.2800000000	n/a	283570	cooperative	n/a	n/a	Subject_hit
+1134.5920000000	n/a	283648	cooperative	n/a	n/a	Subject_receive
+1135.3440000000	n/a	283836	cooperative	n/a	n/a	Subject_hit
+1135.8000000000	n/a	283950	cooperative	n/a	n/a	Subject_receive
+1136.4725000000	n/a	284118.125	cooperative	n/a	n/a	M  1
+1136.5640000000	n/a	284141	cooperative	n/a	n/a	Subject_hit
+1137.3480000000	n/a	284337	cooperative	n/a	n/a	Subject_receive
+1140.3120000000	n/a	285078	cooperative	n/a	n/a	Subject_hit
+1141.1320000000	n/a	285283	cooperative	n/a	n/a	Subject_receive
+1141.4705000000	n/a	285367.625	cooperative	n/a	n/a	M  1
+1141.9520000000	n/a	285488	cooperative	n/a	n/a	Subject_hit
+1142.4560000000	n/a	285614	cooperative	n/a	n/a	Subject_receive
+1143.4320000000	n/a	285858	cooperative	n/a	n/a	Subject_hit
+1143.9440000000	n/a	285986	cooperative	n/a	n/a	Subject_receive
+1145.7640000000	n/a	286441	cooperative	n/a	n/a	Subject_hit
+1146.2440000000	n/a	286561	cooperative	n/a	n/a	Subject_receive
+1146.4665000000	n/a	286616.625	cooperative	n/a	n/a	M  1
+1147.2000000000	n/a	286800	cooperative	n/a	n/a	Subject_hit
+1150.5880000000	n/a	287647	cooperative	n/a	n/a	Subject_hit
+1150.8400000000	n/a	287710	cooperative	n/a	n/a	Subject_receive
+1151.4625000000	n/a	287865.625	cooperative	n/a	n/a	M  1
+1151.7240000000	n/a	287931	cooperative	n/a	n/a	Subject_hit
+1152.2800000000	n/a	288070	cooperative	n/a	n/a	Subject_receive
+1153.0000000000	n/a	288250	cooperative	n/a	n/a	Subject_hit
+1153.4200000000	n/a	288355	cooperative	n/a	n/a	Subject_receive
+1154.1680000000	n/a	288542	cooperative	n/a	n/a	Subject_hit
+1154.5840000000	n/a	288646	cooperative	n/a	n/a	Subject_receive
+1156.4605000000	n/a	289115.125	cooperative	n/a	n/a	M  1
+1156.6200000000	n/a	289155	cooperative	n/a	n/a	Subject_receive
+1157.3920000000	n/a	289348	cooperative	n/a	n/a	Subject_hit
+1157.8080000000	n/a	289452	cooperative	n/a	n/a	Subject_receive
+1158.4680000000	n/a	289617	cooperative	n/a	n/a	Subject_hit
+1158.9560000000	n/a	289739	cooperative	n/a	n/a	Subject_receive
+1161.3880000000	n/a	290347	cooperative	n/a	n/a	Subject_hit
+1161.4565000000	n/a	290364.125	cooperative	n/a	n/a	M  1
+1162.1040000000	n/a	290526	cooperative	n/a	n/a	Subject_receive
+1162.8920000000	n/a	290723	cooperative	n/a	n/a	Subject_hit
+1163.4360000000	n/a	290859	cooperative	n/a	n/a	Subject_receive
+1166.4525000000	n/a	291613.125	cooperative	n/a	n/a	M  1
+1168.1640000000	n/a	292041	cooperative	n/a	n/a	Subject_hit
+1168.4920000000	n/a	292123	cooperative	n/a	n/a	Subject_receive
+1169.3840000000	n/a	292346	cooperative	n/a	n/a	Subject_hit
+1169.7640000000	n/a	292441	cooperative	n/a	n/a	Subject_receive
+1170.9640000000	n/a	292741	cooperative	n/a	n/a	Subject_hit
+1171.4505000000	n/a	292862.625	cooperative	n/a	n/a	M  1
+1174.4720000000	n/a	293618	cooperative	n/a	n/a	Subject_hit
+1175.0320000000	n/a	293758	cooperative	n/a	n/a	Subject_receive
+1175.8080000000	n/a	293952	cooperative	n/a	n/a	Subject_hit
+1176.3480000000	n/a	294087	cooperative	n/a	n/a	Subject_receive
+1176.4465000000	n/a	294111.625	cooperative	n/a	n/a	M  1
+1177.0440000000	n/a	294261	cooperative	n/a	n/a	Subject_hit
+1180.7160000000	n/a	295179	cooperative	n/a	n/a	Subject_hit
+1181.0880000000	n/a	295272	cooperative	n/a	n/a	Subject_receive
+1181.4445000000	n/a	295361.125	cooperative	n/a	n/a	M  1
+1181.9000000000	n/a	295475	cooperative	n/a	n/a	Subject_hit
+1182.4360000000	n/a	295609	cooperative	n/a	n/a	Subject_receive
+1183.3160000000	n/a	295829	cooperative	n/a	n/a	Subject_hit
+1183.8080000000	n/a	295952	cooperative	n/a	n/a	Subject_receive
+1184.4880000000	n/a	296122	cooperative	n/a	n/a	Subject_hit
+1184.9960000000	n/a	296249	cooperative	n/a	n/a	Subject_receive
+1185.7360000000	n/a	296434	cooperative	n/a	n/a	Subject_hit
+1186.2280000000	n/a	296557	cooperative	n/a	n/a	Subject_receive
+1186.4405000000	n/a	296610.125	cooperative	n/a	n/a	M  1
+1186.9560000000	n/a	296739	cooperative	n/a	n/a	Subject_hit
+1187.4360000000	n/a	296859	cooperative	n/a	n/a	Subject_receive
+1188.1480000000	n/a	297037	cooperative	n/a	n/a	Subject_hit
+1188.6440000000	n/a	297161	cooperative	n/a	n/a	Subject_receive
+1189.3360000000	n/a	297334	cooperative	n/a	n/a	Subject_hit
+1189.8160000000	n/a	297454	cooperative	n/a	n/a	Subject_receive
+1190.4240000000	n/a	297606	cooperative	n/a	n/a	Subject_hit
+1190.9200000000	n/a	297730	cooperative	n/a	n/a	Subject_receive
+1191.4365000000	n/a	297859.125	cooperative	n/a	n/a	M  1
+1191.5960000000	n/a	297899	cooperative	n/a	n/a	Subject_hit
+1192.0640000000	n/a	298016	cooperative	n/a	n/a	Subject_receive
+1192.7800000000	n/a	298195	cooperative	n/a	n/a	Subject_hit
+1193.3680000000	n/a	298342	cooperative	n/a	n/a	Subject_receive
+1196.4325000000	n/a	299108.125	cooperative	n/a	n/a	M  1
+1197.0680000000	n/a	299267	cooperative	n/a	n/a	Subject_hit
+1197.6680000000	n/a	299417	cooperative	n/a	n/a	Subject_receive
+1198.4320000000	n/a	299608	cooperative	n/a	n/a	Subject_hit
+1198.8840000000	n/a	299721	cooperative	n/a	n/a	Subject_receive
+1199.6880000000	n/a	299922	cooperative	n/a	n/a	Subject_hit
+1200.1480000000	n/a	300037	cooperative	n/a	n/a	Subject_receive
+1200.9800000000	n/a	300245	cooperative	n/a	n/a	Subject_hit
+1201.4305000000	n/a	300357.625	cooperative	n/a	n/a	M  1
+1201.6320000000	n/a	300408	cooperative	n/a	n/a	Subject_receive
+1202.1960000000	n/a	300549	cooperative	n/a	n/a	Subject_hit
+1202.6320000000	n/a	300658	cooperative	n/a	n/a	Subject_receive
+1203.6560000000	n/a	300914	cooperative	n/a	n/a	Subject_hit
+1203.7760000000	n/a	300944	cooperative	n/a	n/a	Subject_receive
+1204.4880000000	n/a	301122	cooperative	n/a	n/a	Subject_hit
+1204.9920000000	n/a	301248	cooperative	n/a	n/a	Subject_receive
+1205.6840000000	n/a	301421	cooperative	n/a	n/a	Subject_hit
+1206.1480000000	n/a	301537	cooperative	n/a	n/a	Subject_receive
+1206.4265000000	n/a	301606.625	cooperative	n/a	n/a	M  1
+1206.8520000000	n/a	301713	cooperative	n/a	n/a	Subject_hit
+1207.2640000000	n/a	301816	cooperative	n/a	n/a	Subject_receive
+1207.9160000000	n/a	301979	cooperative	n/a	n/a	Subject_hit
+1208.4000000000	n/a	302100	cooperative	n/a	n/a	Subject_receive
+1209.0480000000	n/a	302262	cooperative	n/a	n/a	Subject_hit
+1209.5200000000	n/a	302380	cooperative	n/a	n/a	Subject_receive
+1210.2480000000	n/a	302562	cooperative	n/a	n/a	Subject_hit
+1210.7920000000	n/a	302698	cooperative	n/a	n/a	Subject_receive
+1211.4225000000	n/a	302855.625	cooperative	n/a	n/a	M  1
+1211.6360000000	n/a	302909	cooperative	n/a	n/a	Subject_hit
+1212.0800000000	n/a	303020	cooperative	n/a	n/a	Subject_receive
+1212.7920000000	n/a	303198	cooperative	n/a	n/a	Subject_hit
+1213.2920000000	n/a	303323	cooperative	n/a	n/a	Subject_receive
+1214.0440000000	n/a	303511	cooperative	n/a	n/a	Subject_hit
+1216.4185000000	n/a	304104.625	cooperative	n/a	n/a	M  1
+1218.0920000000	n/a	304523	cooperative	n/a	n/a	Subject_hit
+1218.6400000000	n/a	304660	cooperative	n/a	n/a	Subject_receive
+1219.4600000000	n/a	304865	cooperative	n/a	n/a	Subject_hit
+1219.9600000000	n/a	304990	cooperative	n/a	n/a	Subject_receive
+1220.6440000000	n/a	305161	cooperative	n/a	n/a	Subject_hit
+1221.1120000000	n/a	305278	cooperative	n/a	n/a	Subject_receive
+1221.4165000000	n/a	305354.125	cooperative	n/a	n/a	M  1
+1223.7040000000	n/a	305926	cooperative	n/a	n/a	Subject_receive
+1224.6440000000	n/a	306161	cooperative	n/a	n/a	Subject_hit
+1225.2480000000	n/a	306312	cooperative	n/a	n/a	Subject_receive
+1226.4145000000	n/a	306603.625	cooperative	n/a	n/a	M  1
+1227.3320000000	n/a	306833	cooperative	n/a	n/a	Subject_receive
+1228.1480000000	n/a	307037	cooperative	n/a	n/a	Subject_hit
+1228.5160000000	n/a	307129	cooperative	n/a	n/a	Subject_receive
+1229.2160000000	n/a	307304	cooperative	n/a	n/a	Subject_hit
+1229.6920000000	n/a	307423	cooperative	n/a	n/a	Subject_receive
+1230.4880000000	n/a	307622	cooperative	n/a	n/a	Subject_hit
+1231.4105000000	n/a	307852.625	cooperative	n/a	n/a	M  1
+1235.0600000000	n/a	308765	cooperative	n/a	n/a	Subject_hit
+1235.6440000000	n/a	308911	cooperative	n/a	n/a	Subject_receive
+1236.4085000000	n/a	309102.125	cooperative	n/a	n/a	M  1
+1236.4880000000	n/a	309122	cooperative	n/a	n/a	Subject_hit
+1241.4065000000	n/a	310351.625	cooperative	n/a	n/a	M  1
+1242.4280000000	n/a	310607	cooperative	n/a	n/a	Subject_hit
+1243.0200000000	n/a	310755	cooperative	n/a	n/a	Subject_receive
+1243.7840000000	n/a	310946	cooperative	n/a	n/a	Subject_hit
+1244.3480000000	n/a	311087	cooperative	n/a	n/a	Subject_receive
+1245.1760000000	n/a	311294	cooperative	n/a	n/a	Subject_hit
+1245.7240000000	n/a	311431	cooperative	n/a	n/a	Subject_receive
+1246.4025000000	n/a	311600.625	cooperative	n/a	n/a	M  1
+1246.6640000000	n/a	311666	cooperative	n/a	n/a	Subject_hit
+1247.1360000000	n/a	311784	cooperative	n/a	n/a	Subject_receive
+1247.8960000000	n/a	311974	cooperative	n/a	n/a	Subject_hit
+1248.5240000000	n/a	312131	cooperative	n/a	n/a	Subject_receive
+1249.1600000000	n/a	312290	cooperative	n/a	n/a	Subject_hit
+1249.6920000000	n/a	312423	cooperative	n/a	n/a	Subject_receive
+1250.4000000000	n/a	312600	cooperative	n/a	n/a	Subject_hit
+1250.9520000000	n/a	312738	cooperative	n/a	n/a	Subject_receive
+1251.4005000000	n/a	312850.125	cooperative	n/a	n/a	M  1
+1251.6160000000	n/a	312904	cooperative	n/a	n/a	Subject_hit
+1252.1560000000	n/a	313039	cooperative	n/a	n/a	Subject_receive
+1253.1760000000	n/a	313294	cooperative	n/a	n/a	Subject_hit
+1254.0520000000	n/a	313513	cooperative	n/a	n/a	Subject_receive
+1254.7960000000	n/a	313699	cooperative	n/a	n/a	Subject_hit
+1256.3965000000	n/a	314099.125	cooperative	n/a	n/a	M  1
+1257.6200000000	n/a	314405	cooperative	n/a	n/a	Subject_hit
+1258.2760000000	n/a	314569	cooperative	n/a	n/a	Subject_receive
+1259.3480000000	n/a	314837	cooperative	n/a	n/a	Subject_hit
+1260.1080000000	n/a	315027	cooperative	n/a	n/a	Subject_receive
+1261.0440000000	n/a	315261	cooperative	n/a	n/a	Subject_hit
+1261.3925000000	n/a	315348.125	cooperative	n/a	n/a	M  1
+1262.0520000000	n/a	315513	cooperative	n/a	n/a	Subject_hit
+1262.8800000000	n/a	315720	cooperative	n/a	n/a	Subject_receive
+1265.3000000000	n/a	316325	cooperative	n/a	n/a	Subject_receive
+1266.2720000000	n/a	316568	cooperative	n/a	n/a	Subject_hit
+1266.3885000000	n/a	316597.125	cooperative	n/a	n/a	M  1
+1266.8480000000	n/a	316712	cooperative	n/a	n/a	Subject_receive
+1267.7880000000	n/a	316947	cooperative	n/a	n/a	Subject_hit
+1268.3200000000	n/a	317080	cooperative	n/a	n/a	Subject_receive
+1269.1240000000	n/a	317281	cooperative	n/a	n/a	Subject_hit
+1269.6560000000	n/a	317414	cooperative	n/a	n/a	Subject_receive
+1270.5160000000	n/a	317629	cooperative	n/a	n/a	Subject_hit
+1271.3865000000	n/a	317846.625	cooperative	n/a	n/a	M  1
+1275.1440000000	n/a	318786	cooperative	n/a	n/a	Subject_hit
+1275.8360000000	n/a	318959	cooperative	n/a	n/a	Subject_receive
+1276.3825000000	n/a	319095.625	cooperative	n/a	n/a	M  1
+1276.7280000000	n/a	319182	cooperative	n/a	n/a	Subject_hit
+1277.4240000000	n/a	319356	cooperative	n/a	n/a	Subject_receive
+1278.4160000000	n/a	319604	cooperative	n/a	n/a	Subject_hit
+1279.2080000000	n/a	319802	cooperative	n/a	n/a	Subject_receive
+1280.0520000000	n/a	320013	cooperative	n/a	n/a	Subject_hit
+1281.3785000000	n/a	320344.625	cooperative	n/a	n/a	M  1
+1284.0400000000	n/a	321010	cooperative	n/a	n/a	Subject_hit
+1284.9920000000	n/a	321248	cooperative	n/a	n/a	Subject_receive
+1285.3200000000	n/a	321330	cooperative	n/a	n/a	Subject_hit
+1286.1800000000	n/a	321545	cooperative	n/a	n/a	Subject_receive
+1286.3765000000	n/a	321594.125	cooperative	n/a	n/a	M  1
+1287.5680000000	n/a	321892	cooperative	n/a	n/a	Subject_hit
+1288.4760000000	n/a	322119	cooperative	n/a	n/a	Subject_receive
+1289.8000000000	n/a	322450	cooperative	n/a	n/a	Subject_hit
+1290.4080000000	n/a	322602	cooperative	n/a	n/a	Subject_receive
+1291.2400000000	n/a	322810	cooperative	n/a	n/a	Subject_hit
+1291.3725000000	n/a	322843.125	cooperative	n/a	n/a	M  1
+1291.8680000000	n/a	322967	cooperative	n/a	n/a	Subject_receive
+1292.8280000000	n/a	323207	cooperative	n/a	n/a	Subject_hit
+1293.3320000000	n/a	323333	cooperative	n/a	n/a	Subject_receive
+1294.0760000000	n/a	323519	cooperative	n/a	n/a	Subject_hit
+1294.6120000000	n/a	323653	cooperative	n/a	n/a	Subject_receive
+1296.3705000000	n/a	324092.625	cooperative	n/a	n/a	M  1
+1298.4520000000	n/a	324613	cooperative	n/a	n/a	Subject_hit
+1299.0800000000	n/a	324770	cooperative	n/a	n/a	Subject_receive
+1299.8360000000	n/a	324959	cooperative	n/a	n/a	Subject_hit
+1300.5160000000	n/a	325129	cooperative	n/a	n/a	Subject_receive
+1301.3665000000	n/a	325341.625	cooperative	n/a	n/a	M  1
+1301.4680000000	n/a	325367	cooperative	n/a	n/a	Subject_hit
+1302.2560000000	n/a	325564	cooperative	n/a	n/a	Subject_receive
+1304.8680000000	n/a	326217	cooperative	n/a	n/a	Subject_receive
+1305.8520000000	n/a	326463	cooperative	n/a	n/a	Subject_hit
+1306.3625000000	n/a	326590.625	cooperative	n/a	n/a	M  1
+1306.5280000000	n/a	326632	cooperative	n/a	n/a	Subject_receive
+1307.2600000000	n/a	326815	cooperative	n/a	n/a	Subject_hit
+1308.0080000000	n/a	327002	cooperative	n/a	n/a	Subject_receive
+1308.8400000000	n/a	327210	cooperative	n/a	n/a	Subject_hit
+1309.5600000000	n/a	327390	cooperative	n/a	n/a	Subject_receive
+1310.2920000000	n/a	327573	cooperative	n/a	n/a	Subject_hit
+1311.2080000000	n/a	327802	cooperative	n/a	n/a	Subject_receive
+1311.3605000000	n/a	327840.125	cooperative	n/a	n/a	M  1
+1311.8840000000	n/a	327971	cooperative	n/a	n/a	Subject_hit
+1312.6120000000	n/a	328153	cooperative	n/a	n/a	Subject_receive
+1313.4600000000	n/a	328365	cooperative	n/a	n/a	Subject_hit
+1316.1400000000	n/a	329035	cooperative	n/a	n/a	Subject_hit
+1316.3565000000	n/a	329089.125	cooperative	n/a	n/a	M  1
+1316.8560000000	n/a	329214	cooperative	n/a	n/a	Subject_receive
+1317.7840000000	n/a	329446	cooperative	n/a	n/a	Subject_hit
+1318.6080000000	n/a	329652	cooperative	n/a	n/a	Subject_receive
+1319.6520000000	n/a	329913	cooperative	n/a	n/a	Subject_hit
+1320.3000000000	n/a	330075	cooperative	n/a	n/a	Subject_receive
+1321.3545000000	n/a	330338.625	cooperative	n/a	n/a	M  1
+1321.4720000000	n/a	330368	cooperative	n/a	n/a	Subject_hit
+1322.0680000000	n/a	330517	cooperative	n/a	n/a	Subject_receive
+1323.7480000000	n/a	330937	cooperative	n/a	n/a	Subject_receive
+1324.7800000000	n/a	331195	cooperative	n/a	n/a	Subject_hit
+1325.2960000000	n/a	331324	cooperative	n/a	n/a	Subject_receive
+1326.3400000000	n/a	331585	cooperative	n/a	n/a	Subject_hit
+1326.3505000000	n/a	331587.625	cooperative	n/a	n/a	M  1
+1326.8080000000	n/a	331702	cooperative	n/a	n/a	Subject_receive
+1328.8140000000	n/a	332203.5	STATUS	n/a	n/a	boundary
+1330.8120000000	n/a	332703	competitive	n/a	n/a	Subject_hit
+1331.0345000000	n/a	332758.625	competitive	n/a	n/a	M  1
+1331.4680000000	n/a	332867	competitive	n/a	n/a	Subject_receive
+1332.1440000000	n/a	333036	competitive	n/a	n/a	Subject_hit
+1332.6640000000	n/a	333166	competitive	n/a	n/a	Subject_receive
+1336.0325000000	n/a	334008.125	competitive	n/a	n/a	M  1
+1336.0400000000	n/a	334010	competitive	n/a	n/a	Subject_hit
+1336.5920000000	n/a	334148	competitive	n/a	n/a	Subject_receive
+1337.3800000000	n/a	334345	competitive	n/a	n/a	Subject_hit
+1337.9280000000	n/a	334482	competitive	n/a	n/a	Subject_receive
+1341.0305000000	n/a	335257.625	competitive	n/a	n/a	M  1
+1342.8200000000	n/a	335705	competitive	n/a	n/a	Subject_hit
+1343.3760000000	n/a	335844	competitive	n/a	n/a	Subject_receive
+1344.1160000000	n/a	336029	competitive	n/a	n/a	Subject_hit
+1346.0285000000	n/a	336507.125	competitive	n/a	n/a	M  1
+1348.0000000000	n/a	337000	competitive	n/a	n/a	Subject_hit
+1348.5640000000	n/a	337141	competitive	n/a	n/a	Subject_receive
+1349.2640000000	n/a	337316	competitive	n/a	n/a	Subject_hit
+1349.6440000000	n/a	337411	competitive	n/a	n/a	Subject_receive
+1351.0265000000	n/a	337756.625	competitive	n/a	n/a	M  1
+1353.4240000000	n/a	338356	competitive	n/a	n/a	Subject_hit
+1354.0400000000	n/a	338510	competitive	n/a	n/a	Subject_receive
+1354.7760000000	n/a	338694	competitive	n/a	n/a	Subject_hit
+1355.1120000000	n/a	338778	competitive	n/a	n/a	Subject_receive
+1356.0240000000	n/a	339006	competitive	n/a	n/a	Subject_hit
+1356.0245000000	n/a	339006.125	competitive	n/a	n/a	M  1
+1361.0225000000	n/a	340255.625	competitive	n/a	n/a	M  1
+1362.2640000000	n/a	340566	competitive	n/a	n/a	Subject_receive
+1362.8760000000	n/a	340719	competitive	n/a	n/a	Subject_hit
+1366.0205000000	n/a	341505.125	competitive	n/a	n/a	M  1
+1368.5640000000	n/a	342141	competitive	n/a	n/a	Subject_receive
+1369.2120000000	n/a	342303	competitive	n/a	n/a	Subject_hit
+1369.7640000000	n/a	342441	competitive	n/a	n/a	Subject_receive
+1370.3400000000	n/a	342585	competitive	n/a	n/a	Subject_hit
+1371.0165000000	n/a	342754.125	competitive	n/a	n/a	M  1
+1373.9880000000	n/a	343497	competitive	n/a	n/a	Subject_receive
+1374.7240000000	n/a	343681	competitive	n/a	n/a	Subject_hit
+1374.9440000000	n/a	343736	competitive	n/a	n/a	Subject_receive
+1376.0145000000	n/a	344003.625	competitive	n/a	n/a	M  1
+1376.0800000000	n/a	344020	competitive	n/a	n/a	Subject_hit
+1376.5080000000	n/a	344127	competitive	n/a	n/a	Subject_receive
+1377.1000000000	n/a	344275	competitive	n/a	n/a	Subject_hit
+1377.5840000000	n/a	344396	competitive	n/a	n/a	Subject_receive
+1381.0125000000	n/a	345253.125	competitive	n/a	n/a	M  1
+1386.0105000000	n/a	346502.625	competitive	n/a	n/a	M  1
+1386.0600000000	n/a	346515	competitive	n/a	n/a	Subject_receive
+1386.7600000000	n/a	346690	competitive	n/a	n/a	Subject_hit
+1387.3480000000	n/a	346837	competitive	n/a	n/a	Subject_receive
+1387.9920000000	n/a	346998	competitive	n/a	n/a	Subject_hit
+1388.5240000000	n/a	347131	competitive	n/a	n/a	Subject_receive
+1389.0800000000	n/a	347270	competitive	n/a	n/a	Subject_hit
+1389.4880000000	n/a	347372	competitive	n/a	n/a	Subject_receive
+1390.1280000000	n/a	347532	competitive	n/a	n/a	Subject_hit
+1391.0065000000	n/a	347751.625	competitive	n/a	n/a	M  1
+1393.5880000000	n/a	348397	competitive	n/a	n/a	Subject_receive
+1394.1920000000	n/a	348548	competitive	n/a	n/a	Subject_hit
+1394.6720000000	n/a	348668	competitive	n/a	n/a	Subject_receive
+1396.0045000000	n/a	349001.125	competitive	n/a	n/a	M  1
+1398.2400000000	n/a	349560	competitive	n/a	n/a	Subject_hit
+1398.8200000000	n/a	349705	competitive	n/a	n/a	Subject_receive
+1401.0025000000	n/a	350250.625	competitive	n/a	n/a	M  1
+1401.6040000000	n/a	350401	competitive	n/a	n/a	Subject_hit
+1402.1760000000	n/a	350544	competitive	n/a	n/a	Subject_receive
+1402.9560000000	n/a	350739	competitive	n/a	n/a	Subject_hit
+1403.4720000000	n/a	350868	competitive	n/a	n/a	Subject_receive
+1404.1720000000	n/a	351043	competitive	n/a	n/a	Subject_hit
+1406.0005000000	n/a	351500.125	competitive	n/a	n/a	M  1
+1409.3840000000	n/a	352346	competitive	n/a	n/a	Subject_hit
+1410.0920000000	n/a	352523	competitive	n/a	n/a	Subject_receive
+1410.9985000000	n/a	352749.625	competitive	n/a	n/a	M  1
+1411.1600000000	n/a	352790	competitive	n/a	n/a	Subject_hit
+1414.4360000000	n/a	353609	competitive	n/a	n/a	Subject_hit
+1414.9920000000	n/a	353748	competitive	n/a	n/a	Subject_receive
+1415.7520000000	n/a	353938	competitive	n/a	n/a	Subject_hit
+1415.9965000000	n/a	353999.125	competitive	n/a	n/a	M  1
+1416.1680000000	n/a	354042	competitive	n/a	n/a	Subject_receive
+1416.9840000000	n/a	354246	competitive	n/a	n/a	Subject_hit
+1417.3200000000	n/a	354330	competitive	n/a	n/a	Subject_receive
+1418.0640000000	n/a	354516	competitive	n/a	n/a	Subject_hit
+1418.4000000000	n/a	354600	competitive	n/a	n/a	Subject_receive
+1420.9945000000	n/a	355248.625	competitive	n/a	n/a	M  1
+1425.9925000000	n/a	356498.125	competitive	n/a	n/a	M  1
+1435.9885000000	n/a	358997.125	competitive	n/a	n/a	M  1
+1438.5520000000	n/a	359638	competitive	n/a	n/a	Subject_hit
+1439.1960000000	n/a	359799	competitive	n/a	n/a	Subject_receive
+1440.0040000000	n/a	360001	competitive	n/a	n/a	Subject_hit
+1440.9865000000	n/a	360246.625	competitive	n/a	n/a	M  1
+1445.3200000000	n/a	361330	competitive	n/a	n/a	Subject_receive
+1445.9080000000	n/a	361477	competitive	n/a	n/a	Subject_hit
+1445.9845000000	n/a	361496.125	competitive	n/a	n/a	M  1
+1446.3800000000	n/a	361595	competitive	n/a	n/a	Subject_receive
+1447.0160000000	n/a	361754	competitive	n/a	n/a	Subject_hit
+1447.0600000000	n/a	361765	competitive	n/a	n/a	Subject_receive
+1450.9825000000	n/a	362745.625	competitive	n/a	n/a	M  1
+1451.9280000000	n/a	362982	competitive	n/a	n/a	Subject_receive
+1452.5960000000	n/a	363149	competitive	n/a	n/a	Subject_hit
+1453.1800000000	n/a	363295	competitive	n/a	n/a	Subject_receive
+1453.8520000000	n/a	363463	competitive	n/a	n/a	Subject_hit
+1455.9805000000	n/a	363995.125	competitive	n/a	n/a	M  1
+1458.5760000000	n/a	364644	competitive	n/a	n/a	Subject_receive
+1459.2040000000	n/a	364801	competitive	n/a	n/a	Subject_hit
+1459.6480000000	n/a	364912	competitive	n/a	n/a	Subject_receive
+1460.2600000000	n/a	365065	competitive	n/a	n/a	Subject_hit
+1460.6800000000	n/a	365170	competitive	n/a	n/a	Subject_receive
+1460.9785000000	n/a	365244.625	competitive	n/a	n/a	M  1
+1461.4600000000	n/a	365365	competitive	n/a	n/a	Subject_hit
+1461.8280000000	n/a	365457	competitive	n/a	n/a	Subject_receive
+1462.5360000000	n/a	365634	competitive	n/a	n/a	Subject_hit
+1465.9765000000	n/a	366494.125	competitive	n/a	n/a	M  1
+1470.7960000000	n/a	367699	competitive	n/a	n/a	Subject_receive
+1470.9745000000	n/a	367743.625	competitive	n/a	n/a	M  1
+1471.5160000000	n/a	367879	competitive	n/a	n/a	Subject_hit
+1472.0160000000	n/a	368004	competitive	n/a	n/a	Subject_receive
+1472.7600000000	n/a	368190	competitive	n/a	n/a	Subject_hit
+1473.2160000000	n/a	368304	competitive	n/a	n/a	Subject_receive
+1473.8800000000	n/a	368470	competitive	n/a	n/a	Subject_hit
+1474.4360000000	n/a	368609	competitive	n/a	n/a	Subject_receive
+1475.2960000000	n/a	368824	competitive	n/a	n/a	Subject_hit
+1475.9725000000	n/a	368993.125	competitive	n/a	n/a	M  1
+1480.8760000000	n/a	370219	competitive	n/a	n/a	Subject_receive
+1480.9705000000	n/a	370242.625	competitive	n/a	n/a	M  1
+1481.4760000000	n/a	370369	competitive	n/a	n/a	Subject_hit
+1481.9440000000	n/a	370486	competitive	n/a	n/a	Subject_receive
+1485.9685000000	n/a	371492.125	competitive	n/a	n/a	M  1
+1486.6000000000	n/a	371650	competitive	n/a	n/a	Subject_hit
+1487.2400000000	n/a	371810	competitive	n/a	n/a	Subject_receive
+1487.9200000000	n/a	371980	competitive	n/a	n/a	Subject_hit
+1488.4400000000	n/a	372110	competitive	n/a	n/a	Subject_receive
+1489.2480000000	n/a	372312	competitive	n/a	n/a	Subject_hit
+1489.6840000000	n/a	372421	competitive	n/a	n/a	Subject_receive
+1490.6560000000	n/a	372664	competitive	n/a	n/a	Subject_hit
+1490.9645000000	n/a	372741.125	competitive	n/a	n/a	M  1
+1491.1360000000	n/a	372784	competitive	n/a	n/a	Subject_receive
+1491.9320000000	n/a	372983	competitive	n/a	n/a	Subject_hit
+1492.3800000000	n/a	373095	competitive	n/a	n/a	Subject_receive
+1495.9625000000	n/a	373990.625	competitive	n/a	n/a	M  1
+1497.0920000000	n/a	374273	competitive	n/a	n/a	Subject_hit
+1497.6520000000	n/a	374413	competitive	n/a	n/a	Subject_receive
+1498.6640000000	n/a	374666	competitive	n/a	n/a	Subject_hit
+1499.2240000000	n/a	374806	competitive	n/a	n/a	Subject_receive
+1500.0360000000	n/a	375009	competitive	n/a	n/a	Subject_hit
+1500.3840000000	n/a	375096	competitive	n/a	n/a	Subject_receive
+1500.9605000000	n/a	375240.125	competitive	n/a	n/a	M  1
+1501.1480000000	n/a	375287	competitive	n/a	n/a	Subject_hit
+1503.9120000000	n/a	375978	competitive	n/a	n/a	Subject_hit
+1504.5200000000	n/a	376130	competitive	n/a	n/a	Subject_receive
+1505.1720000000	n/a	376293	competitive	n/a	n/a	Subject_hit
+1505.7280000000	n/a	376432	competitive	n/a	n/a	Subject_receive
+1505.9680000000	n/a	376492	competitive	n/a	n/a	Subject_hit
+1506.4360000000	n/a	376609	competitive	n/a	n/a	Subject_receive
+1507.6320000000	n/a	376908	competitive	n/a	n/a	Subject_hit
+1508.0040000000	n/a	377001	competitive	n/a	n/a	Subject_receive
+1510.9545000000	n/a	377738.625	competitive	n/a	n/a	M  1
+1513.1760000000	n/a	378294	competitive	n/a	n/a	Subject_hit
+1513.7560000000	n/a	378439	competitive	n/a	n/a	Subject_receive
+1515.9525000000	n/a	378988.125	competitive	n/a	n/a	M  1
+1516.6440000000	n/a	379161	competitive	n/a	n/a	Subject_hit
+1517.7480000000	n/a	379437	competitive	n/a	n/a	Subject_receive
+1517.9640000000	n/a	379491	competitive	n/a	n/a	Subject_hit
+1518.8040000000	n/a	379701	competitive	n/a	n/a	Subject_receive
+1519.6040000000	n/a	379901	competitive	n/a	n/a	Subject_hit
+1520.0160000000	n/a	380004	competitive	n/a	n/a	Subject_receive
+1520.8360000000	n/a	380209	competitive	n/a	n/a	Subject_hit
+1520.9485000000	n/a	380237.125	competitive	n/a	n/a	M  1
+1525.9465000000	n/a	381486.625	competitive	n/a	n/a	M  1
+1530.9425000000	n/a	382735.625	competitive	n/a	n/a	M  1
+1531.7720000000	n/a	382943	competitive	n/a	n/a	Subject_receive
+1532.4120000000	n/a	383103	competitive	n/a	n/a	Subject_hit
+1535.7000000000	n/a	383925	competitive	n/a	n/a	Subject_receive
+1535.9405000000	n/a	383985.125	competitive	n/a	n/a	M  1
+1536.4280000000	n/a	384107	competitive	n/a	n/a	Subject_hit
+1539.8600000000	n/a	384965	competitive	n/a	n/a	Subject_receive
+1540.9365000000	n/a	385234.125	competitive	n/a	n/a	M  1
+1540.9800000000	n/a	385245	competitive	n/a	n/a	Subject_hit
+1545.3480000000	n/a	386337	competitive	n/a	n/a	Subject_receive
+1545.9345000000	n/a	386483.625	competitive	n/a	n/a	M  1
+1545.9560000000	n/a	386489	competitive	n/a	n/a	Subject_hit
+1546.5160000000	n/a	386629	competitive	n/a	n/a	Subject_receive
+1547.5960000000	n/a	386899	competitive	n/a	n/a	Subject_hit
+1550.9325000000	n/a	387733.125	competitive	n/a	n/a	M  1
+1553.4800000000	n/a	388370	competitive	n/a	n/a	Subject_hit
+1554.0640000000	n/a	388516	competitive	n/a	n/a	Subject_receive
+1554.8360000000	n/a	388709	competitive	n/a	n/a	Subject_hit
+1555.9305000000	n/a	388982.625	competitive	n/a	n/a	M  1
+1558.6440000000	n/a	389661	competitive	n/a	n/a	Subject_hit
+1559.2640000000	n/a	389816	competitive	n/a	n/a	Subject_receive
+1560.0080000000	n/a	390002	competitive	n/a	n/a	Subject_hit
+1560.4120000000	n/a	390103	competitive	n/a	n/a	Subject_receive
+1560.9285000000	n/a	390232.125	competitive	n/a	n/a	M  1
+1561.3440000000	n/a	390336	competitive	n/a	n/a	Subject_hit
+1561.4520000000	n/a	390363	competitive	n/a	n/a	Subject_receive
+1564.2640000000	n/a	391066	competitive	n/a	n/a	Subject_hit
+1564.8400000000	n/a	391210	competitive	n/a	n/a	Subject_receive
+1565.9265000000	n/a	391481.625	competitive	n/a	n/a	M  1
+1568.2840000000	n/a	392071	competitive	n/a	n/a	Subject_hit
+1568.9800000000	n/a	392245	competitive	n/a	n/a	Subject_receive
+1569.7400000000	n/a	392435	competitive	n/a	n/a	Subject_hit
+1570.0800000000	n/a	392520	competitive	n/a	n/a	Subject_receive
+1570.7680000000	n/a	392692	competitive	n/a	n/a	Subject_hit
+1570.9245000000	n/a	392731.125	competitive	n/a	n/a	M  1
+1571.0680000000	n/a	392767	competitive	n/a	n/a	Subject_receive
+1571.8040000000	n/a	392951	competitive	n/a	n/a	Subject_hit
+1572.3000000000	n/a	393075	competitive	n/a	n/a	Subject_receive
+1573.4640000000	n/a	393366	competitive	n/a	n/a	Subject_hit
+1575.9225000000	n/a	393980.625	competitive	n/a	n/a	M  1
+1577.5320000000	n/a	394383	competitive	n/a	n/a	Subject_hit
+1578.2320000000	n/a	394558	competitive	n/a	n/a	Subject_receive
+1579.1640000000	n/a	394791	competitive	n/a	n/a	Subject_hit
+1579.4360000000	n/a	394859	competitive	n/a	n/a	Subject_receive
+1580.5160000000	n/a	395129	competitive	n/a	n/a	Subject_hit
+1580.9205000000	n/a	395230.125	competitive	n/a	n/a	M  1
+1584.7280000000	n/a	396182	competitive	n/a	n/a	Subject_receive
+1585.3240000000	n/a	396331	competitive	n/a	n/a	Subject_hit
+1585.8600000000	n/a	396465	competitive	n/a	n/a	Subject_receive
+1585.9165000000	n/a	396479.125	competitive	n/a	n/a	M  1
+1586.3680000000	n/a	396592	competitive	n/a	n/a	Subject_hit
+1586.8320000000	n/a	396708	competitive	n/a	n/a	Subject_receive
+1587.4400000000	n/a	396860	competitive	n/a	n/a	Subject_hit
+1587.8480000000	n/a	396962	competitive	n/a	n/a	Subject_receive
+1588.4240000000	n/a	397106	competitive	n/a	n/a	Subject_hit
+1588.4880000000	n/a	397122	competitive	n/a	n/a	Subject_receive
+1589.4240000000	n/a	397356	competitive	n/a	n/a	Subject_hit
+1590.9145000000	n/a	397728.625	competitive	n/a	n/a	M  1
+1593.7480000000	n/a	398437	competitive	n/a	n/a	Subject_receive
+1594.3360000000	n/a	398584	competitive	n/a	n/a	Subject_hit
+1594.9800000000	n/a	398745	competitive	n/a	n/a	Subject_receive
+1595.9125000000	n/a	398978.125	competitive	n/a	n/a	M  1
+1600.9105000000	n/a	400227.625	competitive	n/a	n/a	M  1
+1601.6880000000	n/a	400422	competitive	n/a	n/a	Subject_receive
+1602.3080000000	n/a	400577	competitive	n/a	n/a	Subject_hit
+1605.9085000000	n/a	401477.125	competitive	n/a	n/a	M  1
+1606.2000000000	n/a	401550	competitive	n/a	n/a	Subject_receive
+1606.7680000000	n/a	401692	competitive	n/a	n/a	Subject_hit
+1607.2360000000	n/a	401809	competitive	n/a	n/a	Subject_receive
+1610.9045000000	n/a	402726.125	competitive	n/a	n/a	M  1
+1615.9025000000	n/a	403975.625	competitive	n/a	n/a	M  1
+1620.9005000000	n/a	405225.125	competitive	n/a	n/a	M  1
+1622.1880000000	n/a	405547	competitive	n/a	n/a	Subject_receive
+1622.8720000000	n/a	405718	competitive	n/a	n/a	Subject_hit
+1625.8985000000	n/a	406474.625	competitive	n/a	n/a	M  1
+1627.9760000000	n/a	406994	competitive	n/a	n/a	Subject_receive
+1628.5960000000	n/a	407149	competitive	n/a	n/a	Subject_hit
+1629.0720000000	n/a	407268	competitive	n/a	n/a	Subject_receive
+1630.1240000000	n/a	407531	competitive	n/a	n/a	Subject_hit
+1630.4840000000	n/a	407621	competitive	n/a	n/a	Subject_receive
+1630.8965000000	n/a	407724.125	competitive	n/a	n/a	M  1
+1635.8945000000	n/a	408973.625	competitive	n/a	n/a	M  1
+1636.5720000000	n/a	409143	competitive	n/a	n/a	Subject_receive
+1637.1920000000	n/a	409298	competitive	n/a	n/a	Subject_hit
+1637.3880000000	n/a	409347	competitive	n/a	n/a	Subject_receive
+1638.3960000000	n/a	409599	competitive	n/a	n/a	Subject_hit
+1638.7880000000	n/a	409697	competitive	n/a	n/a	Subject_receive
+1640.8945000000	n/a	410223.625	competitive	n/a	n/a	M  1
+1642.5160000000	n/a	410629	competitive	n/a	n/a	Subject_receive
+1643.2240000000	n/a	410806	competitive	n/a	n/a	Subject_hit
+1643.7320000000	n/a	410933	competitive	n/a	n/a	Subject_receive
+1644.4560000000	n/a	411114	competitive	n/a	n/a	Subject_hit
+1644.9040000000	n/a	411226	competitive	n/a	n/a	Subject_receive
+1645.8925000000	n/a	411473.125	competitive	n/a	n/a	M  1
+1648.1840000000	n/a	412046	competitive	n/a	n/a	Subject_receive
+1648.8680000000	n/a	412217	competitive	n/a	n/a	Subject_hit
+1650.8905000000	n/a	412722.625	competitive	n/a	n/a	M  1
+1652.5040000000	n/a	413126	competitive	n/a	n/a	Subject_hit
+1653.1120000000	n/a	413278	competitive	n/a	n/a	Subject_receive
+1654.2280000000	n/a	413557	competitive	n/a	n/a	Subject_hit
+1654.4520000000	n/a	413613	competitive	n/a	n/a	Subject_receive
+1655.6680000000	n/a	413917	competitive	n/a	n/a	Subject_hit
+1655.8905000000	n/a	413972.625	competitive	n/a	n/a	M  1
+1660.8885000000	n/a	415222.125	competitive	n/a	n/a	M  1
+1663.3560000000	n/a	415839	competitive	n/a	n/a	Subject_hit
+1663.9760000000	n/a	415994	competitive	n/a	n/a	Subject_receive
+1664.6280000000	n/a	416157	competitive	n/a	n/a	Subject_hit
+1665.0680000000	n/a	416267	competitive	n/a	n/a	Subject_receive
+1665.8160000000	n/a	416454	competitive	n/a	n/a	Subject_hit
+1665.8885000000	n/a	416472.125	competitive	n/a	n/a	M  1
+1670.5200000000	n/a	417630	competitive	n/a	n/a	Subject_hit
+1670.8865000000	n/a	417721.625	competitive	n/a	n/a	M  1
+1671.1080000000	n/a	417777	competitive	n/a	n/a	Subject_receive
+1673.9200000000	n/a	418480	competitive	n/a	n/a	Subject_hit
+1674.4960000000	n/a	418624	competitive	n/a	n/a	Subject_receive
+1675.8845000000	n/a	418971.125	competitive	n/a	n/a	M  1
+1676.4520000000	n/a	419113	competitive	n/a	n/a	Subject_hit
+1677.0520000000	n/a	419263	competitive	n/a	n/a	Subject_receive
+1677.6840000000	n/a	419421	competitive	n/a	n/a	Subject_hit
+1680.8825000000	n/a	420220.625	competitive	n/a	n/a	M  1
+1685.8805000000	n/a	421470.125	competitive	n/a	n/a	M  1
+1686.6800000000	n/a	421670	competitive	n/a	n/a	Subject_receive
+1687.2280000000	n/a	421807	competitive	n/a	n/a	Subject_hit
+1687.7880000000	n/a	421947	competitive	n/a	n/a	Subject_receive
+1688.4200000000	n/a	422105	competitive	n/a	n/a	Subject_hit
+1688.9920000000	n/a	422248	competitive	n/a	n/a	Subject_receive
+1689.6440000000	n/a	422411	competitive	n/a	n/a	Subject_hit
+1689.7560000000	n/a	422439	competitive	n/a	n/a	Subject_receive
+1690.8600000000	n/a	422715	competitive	n/a	n/a	Subject_hit
+1690.8785000000	n/a	422719.625	competitive	n/a	n/a	M  1
+1691.2960000000	n/a	422824	competitive	n/a	n/a	Subject_receive
+1691.8880000000	n/a	422972	competitive	n/a	n/a	Subject_hit
+1692.3680000000	n/a	423092	competitive	n/a	n/a	Subject_receive
+1693.0840000000	n/a	423271	competitive	n/a	n/a	Subject_hit
+1693.6360000000	n/a	423409	competitive	n/a	n/a	Subject_receive
+1695.8765000000	n/a	423969.125	competitive	n/a	n/a	M  1
+1697.5120000000	n/a	424378	competitive	n/a	n/a	Subject_receive
+1698.2120000000	n/a	424553	competitive	n/a	n/a	Subject_hit
+1700.8745000000	n/a	425218.625	competitive	n/a	n/a	M  1
+1702.2960000000	n/a	425574	competitive	n/a	n/a	Subject_receive
+1702.9080000000	n/a	425727	competitive	n/a	n/a	Subject_hit
+1703.3840000000	n/a	425846	competitive	n/a	n/a	Subject_receive
+1704.0640000000	n/a	426016	competitive	n/a	n/a	Subject_hit
+1705.8725000000	n/a	426468.125	competitive	n/a	n/a	M  1
+1708.7080000000	n/a	427177	competitive	n/a	n/a	Subject_receive
+1709.2680000000	n/a	427317	competitive	n/a	n/a	Subject_hit
+1709.3920000000	n/a	427348	competitive	n/a	n/a	Subject_receive
+1710.3520000000	n/a	427588	competitive	n/a	n/a	Subject_hit
+1710.8680000000	n/a	427717	competitive	n/a	n/a	Subject_receive
+1710.8705000000	n/a	427717.625	competitive	n/a	n/a	M  1
+1715.0480000000	n/a	428762	competitive	n/a	n/a	Subject_receive
+1715.7840000000	n/a	428946	competitive	n/a	n/a	Subject_hit
+1715.8685000000	n/a	428967.125	competitive	n/a	n/a	M  1
+1716.2880000000	n/a	429072	competitive	n/a	n/a	Subject_receive
+1717.0880000000	n/a	429272	competitive	n/a	n/a	Subject_hit
+1717.1560000000	n/a	429289	competitive	n/a	n/a	Subject_receive
+1717.8200000000	n/a	429455	competitive	n/a	n/a	Subject_hit
+1718.3360000000	n/a	429584	competitive	n/a	n/a	Subject_receive
+1719.6280000000	n/a	429907	competitive	n/a	n/a	Subject_hit
+1720.2280000000	n/a	430057	competitive	n/a	n/a	Subject_receive
+1720.6280000000	n/a	430157	competitive	n/a	n/a	Subject_hit
+1720.8665000000	n/a	430216.625	competitive	n/a	n/a	M  1
+1721.4080000000	n/a	430352	competitive	n/a	n/a	Subject_receive
+1724.6440000000	n/a	431161	competitive	n/a	n/a	Subject_hit
+1725.2320000000	n/a	431308	competitive	n/a	n/a	Subject_receive
+1725.8645000000	n/a	431466.125	competitive	n/a	n/a	M  1
+1726.4240000000	n/a	431606	competitive	n/a	n/a	Subject_hit
+1730.8625000000	n/a	432715.625	competitive	n/a	n/a	M  1
+1732.1160000000	n/a	433029	competitive	n/a	n/a	Subject_hit
+1732.7560000000	n/a	433189	competitive	n/a	n/a	Subject_receive
+1735.8605000000	n/a	433965.125	competitive	n/a	n/a	M  1
+1735.9240000000	n/a	433981	competitive	n/a	n/a	Subject_hit
+1736.4800000000	n/a	434120	competitive	n/a	n/a	Subject_receive
+1737.6440000000	n/a	434411	competitive	n/a	n/a	Subject_hit
+1738.1280000000	n/a	434532	competitive	n/a	n/a	Subject_receive
+1740.8585000000	n/a	435214.625	competitive	n/a	n/a	M  1
+1741.2200000000	n/a	435305	competitive	n/a	n/a	Subject_hit
+1741.8240000000	n/a	435456	competitive	n/a	n/a	Subject_receive
+1742.5360000000	n/a	435634	competitive	n/a	n/a	Subject_hit
+1745.8545000000	n/a	436463.625	competitive	n/a	n/a	M  1
+1746.3680000000	n/a	436592	competitive	n/a	n/a	Subject_hit
+1747.5400000000	n/a	436885	competitive	n/a	n/a	Subject_receive
+1747.7800000000	n/a	436945	competitive	n/a	n/a	Subject_hit
+1748.6720000000	n/a	437168	competitive	n/a	n/a	Subject_receive
+1749.3280000000	n/a	437332	competitive	n/a	n/a	Subject_hit
+1749.4320000000	n/a	437358	competitive	n/a	n/a	Subject_receive
+1750.5880000000	n/a	437647	competitive	n/a	n/a	Subject_hit
+1750.8525000000	n/a	437713.125	competitive	n/a	n/a	M  1
+1750.9720000000	n/a	437743	competitive	n/a	n/a	Subject_receive
+1752.3640000000	n/a	438091	competitive	n/a	n/a	Subject_hit
+1753.1000000000	n/a	438275	competitive	n/a	n/a	Subject_receive
+1753.8600000000	n/a	438465	competitive	n/a	n/a	Subject_hit
+1753.9800000000	n/a	438495	competitive	n/a	n/a	Subject_receive
+1755.1440000000	n/a	438786	competitive	n/a	n/a	Subject_hit
+1755.5640000000	n/a	438891	competitive	n/a	n/a	Subject_receive
+1755.8505000000	n/a	438962.625	competitive	n/a	n/a	M  1
+1756.3000000000	n/a	439075	competitive	n/a	n/a	Subject_hit
+1760.8465000000	n/a	440211.625	competitive	n/a	n/a	M  1
+1764.1400000000	n/a	441035	competitive	n/a	n/a	Subject_receive
+1764.8080000000	n/a	441202	competitive	n/a	n/a	Subject_hit
+1765.2720000000	n/a	441318	competitive	n/a	n/a	Subject_receive
+1765.8445000000	n/a	441461.125	competitive	n/a	n/a	M  1
+1767.6920000000	n/a	441923	competitive	n/a	n/a	Subject_receive
+1768.4160000000	n/a	442104	competitive	n/a	n/a	Subject_hit
+1770.8425000000	n/a	442710.625	competitive	n/a	n/a	M  1
+1772.7200000000	n/a	443180	competitive	n/a	n/a	Subject_receive
+1773.6800000000	n/a	443420	competitive	n/a	n/a	Subject_hit
+1774.2280000000	n/a	443557	competitive	n/a	n/a	Subject_receive
+1774.9720000000	n/a	443743	competitive	n/a	n/a	Subject_hit
+1775.4480000000	n/a	443862	competitive	n/a	n/a	Subject_receive
+1775.8405000000	n/a	443960.125	competitive	n/a	n/a	M  1
+1779.5960000000	n/a	444899	competitive	n/a	n/a	Subject_receive
+1780.2800000000	n/a	445070	competitive	n/a	n/a	Subject_hit
+1780.7640000000	n/a	445191	competitive	n/a	n/a	Subject_receive
+1785.8365000000	n/a	446459.125	competitive	n/a	n/a	M  1
+1787.8400000000	n/a	446960	competitive	n/a	n/a	Subject_receive
+1788.5960000000	n/a	447149	competitive	n/a	n/a	Subject_hit
+1789.1840000000	n/a	447296	competitive	n/a	n/a	Subject_receive
+1790.1320000000	n/a	447533	competitive	n/a	n/a	Subject_hit
+1793.3720000000	n/a	448343	competitive	n/a	n/a	Subject_hit
+1793.9600000000	n/a	448490	competitive	n/a	n/a	Subject_receive
+1794.7040000000	n/a	448676	competitive	n/a	n/a	Subject_hit
+1795.8305000000	n/a	448957.625	competitive	n/a	n/a	M  1
+1798.8840000000	n/a	449721	competitive	n/a	n/a	Subject_hit
+1799.4560000000	n/a	449864	competitive	n/a	n/a	Subject_receive
+1799.9800000000	n/a	449995	competitive	n/a	n/a	Subject_hit
+1800.6080000000	n/a	450152	competitive	n/a	n/a	Subject_receive
+1800.8285000000	n/a	450207.125	competitive	n/a	n/a	M  1
+1805.8265000000	n/a	451456.625	competitive	n/a	n/a	M  1
+1810.7680000000	n/a	452692	competitive	n/a	n/a	Subject_hit
+1810.8245000000	n/a	452706.125	competitive	n/a	n/a	M  1
+1811.6680000000	n/a	452917	competitive	n/a	n/a	Subject_receive
+1812.3400000000	n/a	453085	competitive	n/a	n/a	Subject_hit
+1815.8225000000	n/a	453955.625	competitive	n/a	n/a	M  1
+1816.3640000000	n/a	454091	competitive	n/a	n/a	Subject_hit
+1816.9560000000	n/a	454239	competitive	n/a	n/a	Subject_receive
+1820.8205000000	n/a	455205.125	competitive	n/a	n/a	M  1
+1821.7240000000	n/a	455431	competitive	n/a	n/a	Subject_hit
+1822.4040000000	n/a	455601	competitive	n/a	n/a	Subject_receive
+1823.1080000000	n/a	455777	competitive	n/a	n/a	Subject_hit
+1825.8165000000	n/a	456454.125	competitive	n/a	n/a	M  1
+1828.9720000000	n/a	457243	competitive	n/a	n/a	Subject_receive
+1829.5360000000	n/a	457384	competitive	n/a	n/a	Subject_hit
+1830.8165000000	n/a	457704.125	competitive	n/a	n/a	M  1
+1833.3880000000	n/a	458347	competitive	n/a	n/a	Subject_receive
+1833.9520000000	n/a	458488	competitive	n/a	n/a	Subject_hit
+1835.8145000000	n/a	458953.625	competitive	n/a	n/a	M  1
+1837.7440000000	n/a	459436	competitive	n/a	n/a	Subject_receive
+1838.8080000000	n/a	459702	competitive	n/a	n/a	Subject_hit
+1840.8105000000	n/a	460202.625	competitive	n/a	n/a	M  1
+1842.3520000000	n/a	460588	competitive	n/a	n/a	Subject_receive
+1842.9720000000	n/a	460743	competitive	n/a	n/a	Subject_hit
+1844.9780000000	n/a	461244.5	STATUS	n/a	n/a	boundary
+1846.3185000000	n/a	461579.625	cooperative	n/a	n/a	M  1
+1846.9760000000	n/a	461744	cooperative	n/a	n/a	Subject_receive
+1847.8480000000	n/a	461962	cooperative	n/a	n/a	Subject_hit
+1848.4800000000	n/a	462120	cooperative	n/a	n/a	Subject_receive
+1849.3360000000	n/a	462334	cooperative	n/a	n/a	Subject_hit
+1849.9440000000	n/a	462486	cooperative	n/a	n/a	Subject_receive
+1850.7320000000	n/a	462683	cooperative	n/a	n/a	Subject_hit
+1851.2640000000	n/a	462816	cooperative	n/a	n/a	Subject_receive
+1851.3165000000	n/a	462829.125	cooperative	n/a	n/a	M  1
+1852.0160000000	n/a	463004	cooperative	n/a	n/a	Subject_hit
+1852.6680000000	n/a	463167	cooperative	n/a	n/a	Subject_receive
+1853.4320000000	n/a	463358	cooperative	n/a	n/a	Subject_hit
+1853.9800000000	n/a	463495	cooperative	n/a	n/a	Subject_receive
+1854.7160000000	n/a	463679	cooperative	n/a	n/a	Subject_hit
+1855.3000000000	n/a	463825	cooperative	n/a	n/a	Subject_receive
+1855.9680000000	n/a	463992	cooperative	n/a	n/a	Subject_hit
+1856.3145000000	n/a	464078.625	cooperative	n/a	n/a	M  1
+1856.5040000000	n/a	464126	cooperative	n/a	n/a	Subject_receive
+1857.1960000000	n/a	464299	cooperative	n/a	n/a	Subject_hit
+1857.7320000000	n/a	464433	cooperative	n/a	n/a	Subject_receive
+1861.3105000000	n/a	465327.625	cooperative	n/a	n/a	M  1
+1862.3280000000	n/a	465582	cooperative	n/a	n/a	Subject_hit
+1863.1520000000	n/a	465788	cooperative	n/a	n/a	Subject_receive
+1863.9200000000	n/a	465980	cooperative	n/a	n/a	Subject_hit
+1864.7360000000	n/a	466184	cooperative	n/a	n/a	Subject_receive
+1865.8520000000	n/a	466463	cooperative	n/a	n/a	Subject_hit
+1866.3085000000	n/a	466577.125	cooperative	n/a	n/a	M  1
+1866.4880000000	n/a	466622	cooperative	n/a	n/a	Subject_receive
+1867.4080000000	n/a	466852	cooperative	n/a	n/a	Subject_hit
+1868.0000000000	n/a	467000	cooperative	n/a	n/a	Subject_receive
+1868.8480000000	n/a	467212	cooperative	n/a	n/a	Subject_hit
+1869.4160000000	n/a	467354	cooperative	n/a	n/a	Subject_receive
+1870.6000000000	n/a	467650	cooperative	n/a	n/a	Subject_hit
+1871.2240000000	n/a	467806	cooperative	n/a	n/a	Subject_receive
+1871.3065000000	n/a	467826.625	cooperative	n/a	n/a	M  1
+1875.5840000000	n/a	468896	cooperative	n/a	n/a	Subject_hit
+1876.3045000000	n/a	469076.125	cooperative	n/a	n/a	M  1
+1876.3160000000	n/a	469079	cooperative	n/a	n/a	Subject_receive
+1876.9800000000	n/a	469245	cooperative	n/a	n/a	Subject_hit
+1877.2000000000	n/a	469300	cooperative	n/a	n/a	Subject_receive
+1878.3720000000	n/a	469593	cooperative	n/a	n/a	Subject_hit
+1878.5720000000	n/a	469643	cooperative	n/a	n/a	Subject_receive
+1879.6880000000	n/a	469922	cooperative	n/a	n/a	Subject_hit
+1880.2400000000	n/a	470060	cooperative	n/a	n/a	Subject_receive
+1881.3005000000	n/a	470325.125	cooperative	n/a	n/a	M  1
+1881.3240000000	n/a	470331	cooperative	n/a	n/a	Subject_hit
+1881.9040000000	n/a	470476	cooperative	n/a	n/a	Subject_receive
+1882.6680000000	n/a	470667	cooperative	n/a	n/a	Subject_hit
+1882.8640000000	n/a	470716	cooperative	n/a	n/a	Subject_receive
+1884.0320000000	n/a	471008	cooperative	n/a	n/a	Subject_hit
+1884.5840000000	n/a	471146	cooperative	n/a	n/a	Subject_receive
+1885.4520000000	n/a	471363	cooperative	n/a	n/a	Subject_hit
+1885.9600000000	n/a	471490	cooperative	n/a	n/a	Subject_receive
+1886.2985000000	n/a	471574.625	cooperative	n/a	n/a	M  1
+1886.7320000000	n/a	471683	cooperative	n/a	n/a	Subject_hit
+1887.2960000000	n/a	471824	cooperative	n/a	n/a	Subject_receive
+1888.5280000000	n/a	472132	cooperative	n/a	n/a	Subject_hit
+1889.1640000000	n/a	472291	cooperative	n/a	n/a	Subject_receive
+1889.5400000000	n/a	472385	cooperative	n/a	n/a	Subject_hit
+1890.5200000000	n/a	472630	cooperative	n/a	n/a	Subject_receive
+1890.9920000000	n/a	472748	cooperative	n/a	n/a	Subject_hit
+1891.2965000000	n/a	472824.125	cooperative	n/a	n/a	M  1
+1891.9160000000	n/a	472979	cooperative	n/a	n/a	Subject_receive
+1896.2945000000	n/a	474073.625	cooperative	n/a	n/a	M  1
+1901.2925000000	n/a	475323.125	cooperative	n/a	n/a	M  1
+1906.2885000000	n/a	476572.125	cooperative	n/a	n/a	M  1
+1910.1000000000	n/a	477525	cooperative	n/a	n/a	Subject_hit
+1910.8480000000	n/a	477712	cooperative	n/a	n/a	Subject_receive
+1911.2845000000	n/a	477821.125	cooperative	n/a	n/a	M  1
+1911.5000000000	n/a	477875	cooperative	n/a	n/a	Subject_hit
+1912.0320000000	n/a	478008	cooperative	n/a	n/a	Subject_receive
+1912.9520000000	n/a	478238	cooperative	n/a	n/a	Subject_hit
+1913.9120000000	n/a	478478	cooperative	n/a	n/a	Subject_receive
+1914.8400000000	n/a	478710	cooperative	n/a	n/a	Subject_hit
+1915.3400000000	n/a	478835	cooperative	n/a	n/a	Subject_receive
+1916.1480000000	n/a	479037	cooperative	n/a	n/a	Subject_hit
+1916.2825000000	n/a	479070.625	cooperative	n/a	n/a	M  1
+1916.3320000000	n/a	479083	cooperative	n/a	n/a	Subject_receive
+1917.6880000000	n/a	479422	cooperative	n/a	n/a	Subject_hit
+1918.2480000000	n/a	479562	cooperative	n/a	n/a	Subject_receive
+1919.0480000000	n/a	479762	cooperative	n/a	n/a	Subject_hit
+1919.2120000000	n/a	479803	cooperative	n/a	n/a	Subject_receive
+1920.2960000000	n/a	480074	cooperative	n/a	n/a	Subject_hit
+1920.7480000000	n/a	480187	cooperative	n/a	n/a	Subject_receive
+1921.2805000000	n/a	480320.125	cooperative	n/a	n/a	M  1
+1921.5240000000	n/a	480381	cooperative	n/a	n/a	Subject_hit
+1921.7080000000	n/a	480427	cooperative	n/a	n/a	Subject_receive
+1922.9760000000	n/a	480744	cooperative	n/a	n/a	Subject_hit
+1923.5400000000	n/a	480885	cooperative	n/a	n/a	Subject_receive
+1923.7920000000	n/a	480948	cooperative	n/a	n/a	Subject_hit
+1924.2640000000	n/a	481066	cooperative	n/a	n/a	Subject_receive
+1925.2440000000	n/a	481311	cooperative	n/a	n/a	Subject_hit
+1925.3480000000	n/a	481337	cooperative	n/a	n/a	Subject_receive
+1926.2765000000	n/a	481569.125	cooperative	n/a	n/a	M  1
+1926.3760000000	n/a	481594	cooperative	n/a	n/a	Subject_hit
+1927.0120000000	n/a	481753	cooperative	n/a	n/a	Subject_receive
+1927.8080000000	n/a	481952	cooperative	n/a	n/a	Subject_hit
+1928.3200000000	n/a	482080	cooperative	n/a	n/a	Subject_receive
+1929.0680000000	n/a	482267	cooperative	n/a	n/a	Subject_hit
+1931.2745000000	n/a	482818.625	cooperative	n/a	n/a	M  1
+1932.1200000000	n/a	483030	cooperative	n/a	n/a	Subject_hit
+1932.4440000000	n/a	483111	cooperative	n/a	n/a	Subject_receive
+1933.7400000000	n/a	483435	cooperative	n/a	n/a	Subject_hit
+1933.9000000000	n/a	483475	cooperative	n/a	n/a	Subject_receive
+1935.1680000000	n/a	483792	cooperative	n/a	n/a	Subject_hit
+1935.6400000000	n/a	483910	cooperative	n/a	n/a	Subject_receive
+1936.2725000000	n/a	484068.125	cooperative	n/a	n/a	M  1
+1936.4960000000	n/a	484124	cooperative	n/a	n/a	Subject_hit
+1936.9400000000	n/a	484235	cooperative	n/a	n/a	Subject_receive
+1937.7720000000	n/a	484443	cooperative	n/a	n/a	Subject_hit
+1938.2920000000	n/a	484573	cooperative	n/a	n/a	Subject_receive
+1939.5480000000	n/a	484887	cooperative	n/a	n/a	Subject_hit
+1941.2705000000	n/a	485317.625	cooperative	n/a	n/a	M  1
+1942.8240000000	n/a	485706	cooperative	n/a	n/a	Subject_hit
+1943.5000000000	n/a	485875	cooperative	n/a	n/a	Subject_receive
+1944.2400000000	n/a	486060	cooperative	n/a	n/a	Subject_hit
+1944.7520000000	n/a	486188	cooperative	n/a	n/a	Subject_receive
+1945.5720000000	n/a	486393	cooperative	n/a	n/a	Subject_hit
+1946.0520000000	n/a	486513	cooperative	n/a	n/a	Subject_receive
+1946.2685000000	n/a	486567.125	cooperative	n/a	n/a	M  1
+1946.6360000000	n/a	486659	cooperative	n/a	n/a	Subject_hit
+1947.1880000000	n/a	486797	cooperative	n/a	n/a	Subject_receive
+1948.2920000000	n/a	487073	cooperative	n/a	n/a	Subject_hit
+1948.7800000000	n/a	487195	cooperative	n/a	n/a	Subject_receive
+1949.2840000000	n/a	487321	cooperative	n/a	n/a	Subject_hit
+1950.2800000000	n/a	487570	cooperative	n/a	n/a	Subject_receive
+1951.0840000000	n/a	487771	cooperative	n/a	n/a	Subject_hit
+1951.2240000000	n/a	487806	cooperative	n/a	n/a	Subject_receive
+1951.2665000000	n/a	487816.625	cooperative	n/a	n/a	M  1
+1952.4200000000	n/a	488105	cooperative	n/a	n/a	Subject_hit
+1953.0720000000	n/a	488268	cooperative	n/a	n/a	Subject_receive
+1954.9680000000	n/a	488742	cooperative	n/a	n/a	Subject_receive
+1955.7600000000	n/a	488940	cooperative	n/a	n/a	Subject_hit
+1956.0000000000	n/a	489000	cooperative	n/a	n/a	Subject_receive
+1956.2645000000	n/a	489066.125	cooperative	n/a	n/a	M  1
+1957.2440000000	n/a	489311	cooperative	n/a	n/a	Subject_hit
+1957.7440000000	n/a	489436	cooperative	n/a	n/a	Subject_receive
+1958.5440000000	n/a	489636	cooperative	n/a	n/a	Subject_hit
+1959.0440000000	n/a	489761	cooperative	n/a	n/a	Subject_receive
+1960.1400000000	n/a	490035	cooperative	n/a	n/a	Subject_hit
+1960.7200000000	n/a	490180	cooperative	n/a	n/a	Subject_receive
+1961.2625000000	n/a	490315.625	cooperative	n/a	n/a	M  1
+1961.6600000000	n/a	490415	cooperative	n/a	n/a	Subject_hit
+1961.8760000000	n/a	490469	cooperative	n/a	n/a	Subject_receive
+1963.0720000000	n/a	490768	cooperative	n/a	n/a	Subject_hit
+1963.5880000000	n/a	490897	cooperative	n/a	n/a	Subject_receive
+1964.5000000000	n/a	491125	cooperative	n/a	n/a	Subject_hit
+1965.0120000000	n/a	491253	cooperative	n/a	n/a	Subject_receive
+1965.5480000000	n/a	491387	cooperative	n/a	n/a	Subject_hit
+1966.0840000000	n/a	491521	cooperative	n/a	n/a	Subject_receive
+1966.2605000000	n/a	491565.125	cooperative	n/a	n/a	M  1
+1967.3360000000	n/a	491834	cooperative	n/a	n/a	Subject_hit
+1967.8240000000	n/a	491956	cooperative	n/a	n/a	Subject_receive
+1968.7440000000	n/a	492186	cooperative	n/a	n/a	Subject_hit
+1969.2480000000	n/a	492312	cooperative	n/a	n/a	Subject_receive
+1970.1720000000	n/a	492543	cooperative	n/a	n/a	Subject_hit
+1970.7200000000	n/a	492680	cooperative	n/a	n/a	Subject_receive
+1972.4800000000	n/a	493120	cooperative	n/a	n/a	Subject_receive
+1973.3520000000	n/a	493338	cooperative	n/a	n/a	Subject_hit
+1973.4960000000	n/a	493374	cooperative	n/a	n/a	Subject_receive
+1974.6400000000	n/a	493660	cooperative	n/a	n/a	Subject_hit
+1975.1640000000	n/a	493791	cooperative	n/a	n/a	Subject_receive
+1976.1000000000	n/a	494025	cooperative	n/a	n/a	Subject_hit
+1976.2565000000	n/a	494064.125	cooperative	n/a	n/a	M  1
+1976.2720000000	n/a	494068	cooperative	n/a	n/a	Subject_receive
+1977.5640000000	n/a	494391	cooperative	n/a	n/a	Subject_hit
+1980.3600000000	n/a	495090	cooperative	n/a	n/a	Subject_hit
+1981.0440000000	n/a	495261	cooperative	n/a	n/a	Subject_receive
+1981.2545000000	n/a	495313.625	cooperative	n/a	n/a	M  1
+1982.5200000000	n/a	495630	cooperative	n/a	n/a	Subject_hit
+1983.1440000000	n/a	495786	cooperative	n/a	n/a	Subject_receive
+1983.8920000000	n/a	495973	cooperative	n/a	n/a	Subject_hit
+1984.4040000000	n/a	496101	cooperative	n/a	n/a	Subject_receive
+1984.7240000000	n/a	496181	cooperative	n/a	n/a	Subject_hit
+1985.6240000000	n/a	496406	cooperative	n/a	n/a	Subject_receive
+1986.2525000000	n/a	496563.125	cooperative	n/a	n/a	M  1
+1986.4920000000	n/a	496623	cooperative	n/a	n/a	Subject_hit
+1987.0080000000	n/a	496752	cooperative	n/a	n/a	Subject_receive
+1987.8840000000	n/a	496971	cooperative	n/a	n/a	Subject_hit
+1988.4360000000	n/a	497109	cooperative	n/a	n/a	Subject_receive
+1991.2505000000	n/a	497812.625	cooperative	n/a	n/a	M  1
+1992.8440000000	n/a	498211	cooperative	n/a	n/a	Subject_receive
+1993.7840000000	n/a	498446	cooperative	n/a	n/a	Subject_hit
+1994.3600000000	n/a	498590	cooperative	n/a	n/a	Subject_receive
+1995.2920000000	n/a	498823	cooperative	n/a	n/a	Subject_hit
+1995.8400000000	n/a	498960	cooperative	n/a	n/a	Subject_receive
+1996.2505000000	n/a	499062.625	cooperative	n/a	n/a	M  1
+1997.0200000000	n/a	499255	cooperative	n/a	n/a	Subject_hit
+2000.3520000000	n/a	500088	cooperative	n/a	n/a	Subject_hit
+2000.9800000000	n/a	500245	cooperative	n/a	n/a	Subject_receive
+2001.2485000000	n/a	500312.125	cooperative	n/a	n/a	M  1
+2001.9800000000	n/a	500495	cooperative	n/a	n/a	Subject_hit
+2005.4080000000	n/a	501352	cooperative	n/a	n/a	Subject_hit
+2006.0280000000	n/a	501507	cooperative	n/a	n/a	Subject_receive
+2006.2485000000	n/a	501562.125	cooperative	n/a	n/a	M  1
+2006.9600000000	n/a	501740	cooperative	n/a	n/a	Subject_hit
+2007.5760000000	n/a	501894	cooperative	n/a	n/a	Subject_receive
+2008.4720000000	n/a	502118	cooperative	n/a	n/a	Subject_hit
+2009.0160000000	n/a	502254	cooperative	n/a	n/a	Subject_receive
+2009.7960000000	n/a	502449	cooperative	n/a	n/a	Subject_hit
+2010.4080000000	n/a	502602	cooperative	n/a	n/a	Subject_receive
+2011.2465000000	n/a	502811.625	cooperative	n/a	n/a	M  1
+2011.5960000000	n/a	502899	cooperative	n/a	n/a	Subject_hit
+2011.7960000000	n/a	502949	cooperative	n/a	n/a	Subject_receive
+2012.9480000000	n/a	503237	cooperative	n/a	n/a	Subject_hit
+2013.4760000000	n/a	503369	cooperative	n/a	n/a	Subject_receive
+2016.2445000000	n/a	504061.125	cooperative	n/a	n/a	M  1
+2019.1680000000	n/a	504792	cooperative	n/a	n/a	Subject_hit
+2019.7840000000	n/a	504946	cooperative	n/a	n/a	Subject_receive
+2020.7160000000	n/a	505179	cooperative	n/a	n/a	Subject_hit
+2021.2425000000	n/a	505310.625	cooperative	n/a	n/a	M  1
+2025.0640000000	n/a	506266	cooperative	n/a	n/a	Subject_hit
+2025.6720000000	n/a	506418	cooperative	n/a	n/a	Subject_receive
+2026.3840000000	n/a	506596	cooperative	n/a	n/a	Subject_hit
+2026.8360000000	n/a	506709	cooperative	n/a	n/a	Subject_receive
+2028.4120000000	n/a	507103	cooperative	n/a	n/a	Subject_hit
+2029.0600000000	n/a	507265	cooperative	n/a	n/a	Subject_receive
+2029.7920000000	n/a	507448	cooperative	n/a	n/a	Subject_hit
+2030.3480000000	n/a	507587	cooperative	n/a	n/a	Subject_receive
+2031.2365000000	n/a	507809.125	cooperative	n/a	n/a	M  1
+2031.8680000000	n/a	507967	cooperative	n/a	n/a	Subject_hit
+2032.4040000000	n/a	508101	cooperative	n/a	n/a	Subject_receive
+2033.2560000000	n/a	508314	cooperative	n/a	n/a	Subject_hit
+2033.8240000000	n/a	508456	cooperative	n/a	n/a	Subject_receive
+2034.6320000000	n/a	508658	cooperative	n/a	n/a	Subject_hit
+2035.1880000000	n/a	508797	cooperative	n/a	n/a	Subject_receive
+2035.7000000000	n/a	508925	cooperative	n/a	n/a	Subject_hit
+2036.1880000000	n/a	509047	cooperative	n/a	n/a	Subject_receive
+2036.2365000000	n/a	509059.125	cooperative	n/a	n/a	M  1
+2037.0360000000	n/a	509259	cooperative	n/a	n/a	Subject_hit
+2037.9440000000	n/a	509486	cooperative	n/a	n/a	Subject_receive
+2038.7760000000	n/a	509694	cooperative	n/a	n/a	Subject_hit
+2039.2840000000	n/a	509821	cooperative	n/a	n/a	Subject_receive
+2040.1320000000	n/a	510033	cooperative	n/a	n/a	Subject_hit
+2040.6400000000	n/a	510160	cooperative	n/a	n/a	Subject_receive
+2041.2345000000	n/a	510308.625	cooperative	n/a	n/a	M  1
+2041.5360000000	n/a	510384	cooperative	n/a	n/a	Subject_hit
+2042.0560000000	n/a	510514	cooperative	n/a	n/a	Subject_receive
+2043.0800000000	n/a	510770	cooperative	n/a	n/a	Subject_hit
+2043.1960000000	n/a	510799	cooperative	n/a	n/a	Subject_receive
+2044.4960000000	n/a	511124	cooperative	n/a	n/a	Subject_hit
+2046.2325000000	n/a	511558.125	cooperative	n/a	n/a	M  1
+2047.0240000000	n/a	511756	cooperative	n/a	n/a	Subject_hit
+2047.6560000000	n/a	511914	cooperative	n/a	n/a	Subject_receive
+2048.9120000000	n/a	512228	cooperative	n/a	n/a	Subject_hit
+2049.4160000000	n/a	512354	cooperative	n/a	n/a	Subject_receive
+2050.2600000000	n/a	512565	cooperative	n/a	n/a	Subject_hit
+2050.3560000000	n/a	512589	cooperative	n/a	n/a	Subject_receive
+2051.4160000000	n/a	512854	cooperative	n/a	n/a	Subject_hit
+2051.5360000000	n/a	512884	cooperative	n/a	n/a	Subject_receive
+2052.6200000000	n/a	513155	cooperative	n/a	n/a	Subject_hit
+2052.8000000000	n/a	513200	cooperative	n/a	n/a	Subject_receive
+2053.5040000000	n/a	513376	cooperative	n/a	n/a	Subject_hit
+2054.0000000000	n/a	513500	cooperative	n/a	n/a	Subject_receive
+2055.3840000000	n/a	513846	cooperative	n/a	n/a	Subject_hit
+2056.2285000000	n/a	514057.125	cooperative	n/a	n/a	M  1
+2057.6880000000	n/a	514422	cooperative	n/a	n/a	Subject_receive
+2058.6560000000	n/a	514664	cooperative	n/a	n/a	Subject_hit
+2059.1560000000	n/a	514789	cooperative	n/a	n/a	Subject_receive
+2059.9040000000	n/a	514976	cooperative	n/a	n/a	Subject_hit
+2060.4080000000	n/a	515102	cooperative	n/a	n/a	Subject_receive
+2061.2285000000	n/a	515307.125	cooperative	n/a	n/a	M  1
+2061.4560000000	n/a	515364	cooperative	n/a	n/a	Subject_hit
+2061.9520000000	n/a	515488	cooperative	n/a	n/a	Subject_receive
+2062.8000000000	n/a	515700	cooperative	n/a	n/a	Subject_hit
+2063.3040000000	n/a	515826	cooperative	n/a	n/a	Subject_receive
+2063.7440000000	n/a	515936	cooperative	n/a	n/a	Subject_hit
+2064.5600000000	n/a	516140	cooperative	n/a	n/a	Subject_receive
+2066.2265000000	n/a	516556.625	cooperative	n/a	n/a	M  1
+2067.3760000000	n/a	516844	cooperative	n/a	n/a	Subject_hit
+2068.4200000000	n/a	517105	cooperative	n/a	n/a	Subject_receive
+2068.8720000000	n/a	517218	cooperative	n/a	n/a	Subject_hit
+2069.3160000000	n/a	517329	cooperative	n/a	n/a	Subject_receive
+2070.6720000000	n/a	517668	cooperative	n/a	n/a	Subject_hit
+2070.8360000000	n/a	517709	cooperative	n/a	n/a	Subject_receive
+2071.2245000000	n/a	517806.125	cooperative	n/a	n/a	M  1
+2071.5680000000	n/a	517892	cooperative	n/a	n/a	Subject_hit
+2072.4440000000	n/a	518111	cooperative	n/a	n/a	Subject_receive
+2073.1920000000	n/a	518298	cooperative	n/a	n/a	Subject_hit
+2073.3040000000	n/a	518326	cooperative	n/a	n/a	Subject_receive
+2074.4720000000	n/a	518618	cooperative	n/a	n/a	Subject_hit
+2074.6320000000	n/a	518658	cooperative	n/a	n/a	Subject_receive
+2075.7640000000	n/a	518941	cooperative	n/a	n/a	Subject_hit
+2075.8360000000	n/a	518959	cooperative	n/a	n/a	Subject_receive
+2076.2245000000	n/a	519056.125	cooperative	n/a	n/a	M  1
+2076.6400000000	n/a	519160	cooperative	n/a	n/a	Subject_hit
+2077.5280000000	n/a	519382	cooperative	n/a	n/a	Subject_receive
+2078.1880000000	n/a	519547	cooperative	n/a	n/a	Subject_hit
+2080.8640000000	n/a	520216	cooperative	n/a	n/a	Subject_hit
+2081.2225000000	n/a	520305.625	cooperative	n/a	n/a	M  1
+2081.8200000000	n/a	520455	cooperative	n/a	n/a	Subject_receive
+2082.6120000000	n/a	520653	cooperative	n/a	n/a	Subject_hit
+2082.6960000000	n/a	520674	cooperative	n/a	n/a	Subject_receive
+2083.9000000000	n/a	520975	cooperative	n/a	n/a	Subject_hit
+2083.9720000000	n/a	520993	cooperative	n/a	n/a	Subject_receive
+2085.0960000000	n/a	521274	cooperative	n/a	n/a	Subject_hit
+2085.1600000000	n/a	521290	cooperative	n/a	n/a	Subject_receive
+2086.2205000000	n/a	521555.125	cooperative	n/a	n/a	M  1
+2086.4720000000	n/a	521618	cooperative	n/a	n/a	Subject_hit
+2086.5640000000	n/a	521641	cooperative	n/a	n/a	Subject_receive
+2087.7480000000	n/a	521937	cooperative	n/a	n/a	Subject_hit
+2087.7880000000	n/a	521947	cooperative	n/a	n/a	Subject_receive
+2088.9960000000	n/a	522249	cooperative	n/a	n/a	Subject_hit
+2089.2040000000	n/a	522301	cooperative	n/a	n/a	Subject_receive
+2090.4880000000	n/a	522622	cooperative	n/a	n/a	Subject_hit
+2090.9320000000	n/a	522733	cooperative	n/a	n/a	Subject_receive
+2091.2205000000	n/a	522805.125	cooperative	n/a	n/a	M  1
+2091.9360000000	n/a	522984	cooperative	n/a	n/a	Subject_hit
+2092.4120000000	n/a	523103	cooperative	n/a	n/a	Subject_receive
+2093.3240000000	n/a	523331	cooperative	n/a	n/a	Subject_hit
+2093.4280000000	n/a	523357	cooperative	n/a	n/a	Subject_receive
+2094.6960000000	n/a	523674	cooperative	n/a	n/a	Subject_hit
+2095.2200000000	n/a	523805	cooperative	n/a	n/a	Subject_receive
+2095.5920000000	n/a	523898	cooperative	n/a	n/a	Subject_hit
+2096.0240000000	n/a	524006	cooperative	n/a	n/a	Subject_receive
+2096.2185000000	n/a	524054.625	cooperative	n/a	n/a	M  1
+2097.5280000000	n/a	524382	cooperative	n/a	n/a	Subject_hit
+2097.6640000000	n/a	524416	cooperative	n/a	n/a	Subject_receive
+2098.4920000000	n/a	524623	cooperative	n/a	n/a	Subject_hit
+2099.6960000000	n/a	524924	cooperative	n/a	n/a	Subject_receive
+2100.3200000000	n/a	525080	cooperative	n/a	n/a	Subject_hit
+2101.4240000000	n/a	525356	cooperative	n/a	n/a	Subject_receive
+2101.9680000000	n/a	525492	cooperative	n/a	n/a	Subject_hit
+2102.4080000000	n/a	525602	cooperative	n/a	n/a	Subject_receive
+2103.8560000000	n/a	525964	cooperative	n/a	n/a	Subject_hit
+2104.0240000000	n/a	526006	cooperative	n/a	n/a	Subject_receive
+2104.9840000000	n/a	526246	cooperative	n/a	n/a	Subject_hit
+2105.8760000000	n/a	526469	cooperative	n/a	n/a	Subject_receive
+2106.2165000000	n/a	526554.125	cooperative	n/a	n/a	M  1
+2107.2120000000	n/a	526803	cooperative	n/a	n/a	Subject_hit
+2107.8360000000	n/a	526959	cooperative	n/a	n/a	Subject_receive
+2109.3560000000	n/a	527339	cooperative	n/a	n/a	Subject_hit
+2109.4600000000	n/a	527365	cooperative	n/a	n/a	Subject_receive
+2110.9640000000	n/a	527741	cooperative	n/a	n/a	Subject_hit
+2111.1520000000	n/a	527788	cooperative	n/a	n/a	Subject_receive
+2111.2145000000	n/a	527803.625	cooperative	n/a	n/a	M  1
+2112.3560000000	n/a	528089	cooperative	n/a	n/a	Subject_hit
+2112.5200000000	n/a	528130	cooperative	n/a	n/a	Subject_receive
+2113.6920000000	n/a	528423	cooperative	n/a	n/a	Subject_hit
+2114.1560000000	n/a	528539	cooperative	n/a	n/a	Subject_receive
+2114.9480000000	n/a	528737	cooperative	n/a	n/a	Subject_hit
+2115.4000000000	n/a	528850	cooperative	n/a	n/a	Subject_receive
+2116.2145000000	n/a	529053.625	cooperative	n/a	n/a	M  1
+2116.2880000000	n/a	529072	cooperative	n/a	n/a	Subject_hit
+2116.3600000000	n/a	529090	cooperative	n/a	n/a	Subject_receive
+2118.5480000000	n/a	529637	cooperative	n/a	n/a	Subject_receive
+2119.9200000000	n/a	529980	cooperative	n/a	n/a	Subject_hit
+2120.4520000000	n/a	530113	cooperative	n/a	n/a	Subject_receive
+2121.2125000000	n/a	530303.125	cooperative	n/a	n/a	M  1
+2121.4320000000	n/a	530358	cooperative	n/a	n/a	Subject_hit
+2121.9720000000	n/a	530493	cooperative	n/a	n/a	Subject_receive
+2123.9600000000	n/a	530990	cooperative	n/a	n/a	Subject_receive
+2124.4960000000	n/a	531124	cooperative	n/a	n/a	Subject_hit
+2125.3400000000	n/a	531335	cooperative	n/a	n/a	Subject_receive
+2126.0480000000	n/a	531512	cooperative	n/a	n/a	Subject_hit
+2126.2125000000	n/a	531553.125	cooperative	n/a	n/a	M  1
+2126.5680000000	n/a	531642	cooperative	n/a	n/a	Subject_receive
+2126.9520000000	n/a	531738	cooperative	n/a	n/a	Subject_hit
+2127.8080000000	n/a	531952	cooperative	n/a	n/a	Subject_receive
+2128.7160000000	n/a	532179	cooperative	n/a	n/a	Subject_hit
+2128.7880000000	n/a	532197	cooperative	n/a	n/a	Subject_receive
+2130.1800000000	n/a	532545	cooperative	n/a	n/a	Subject_hit
+2130.3680000000	n/a	532592	cooperative	n/a	n/a	Subject_receive
+2131.2105000000	n/a	532802.625	cooperative	n/a	n/a	M  1
+2131.5440000000	n/a	532886	cooperative	n/a	n/a	Subject_hit
+2131.6680000000	n/a	532917	cooperative	n/a	n/a	Subject_receive
+2132.9720000000	n/a	533243	cooperative	n/a	n/a	Subject_hit
+2135.1120000000	n/a	533778	cooperative	n/a	n/a	Subject_receive
+2135.9560000000	n/a	533989	cooperative	n/a	n/a	Subject_hit
+2136.0880000000	n/a	534022	cooperative	n/a	n/a	Subject_receive
+2136.2105000000	n/a	534052.625	cooperative	n/a	n/a	M  1
+2137.3040000000	n/a	534326	cooperative	n/a	n/a	Subject_hit
+2137.8240000000	n/a	534456	cooperative	n/a	n/a	Subject_receive
+2138.5800000000	n/a	534645	cooperative	n/a	n/a	Subject_hit
+2141.2085000000	n/a	535302.125	cooperative	n/a	n/a	M  1
+2141.4080000000	n/a	535352	cooperative	n/a	n/a	Subject_hit
+2142.0080000000	n/a	535502	cooperative	n/a	n/a	Subject_receive
+2143.1000000000	n/a	535775	cooperative	n/a	n/a	Subject_hit
+2143.1800000000	n/a	535795	cooperative	n/a	n/a	Subject_receive
+2144.4440000000	n/a	536111	cooperative	n/a	n/a	Subject_hit
+2144.5120000000	n/a	536128	cooperative	n/a	n/a	Subject_receive
+2145.6920000000	n/a	536423	cooperative	n/a	n/a	Subject_hit
+2145.7800000000	n/a	536445	cooperative	n/a	n/a	Subject_receive
+2146.2085000000	n/a	536552.125	cooperative	n/a	n/a	M  1
+2146.4480000000	n/a	536612	cooperative	n/a	n/a	Subject_hit
+2147.2920000000	n/a	536823	cooperative	n/a	n/a	Subject_receive
+2147.6160000000	n/a	536904	cooperative	n/a	n/a	Subject_hit
+2148.1000000000	n/a	537025	cooperative	n/a	n/a	Subject_receive
+2149.2680000000	n/a	537317	cooperative	n/a	n/a	Subject_hit
+2149.7360000000	n/a	537434	cooperative	n/a	n/a	Subject_receive
+2150.5600000000	n/a	537640	cooperative	n/a	n/a	Subject_hit
+2151.2085000000	n/a	537802.125	cooperative	n/a	n/a	M  1
+2151.2160000000	n/a	537804	cooperative	n/a	n/a	Subject_receive
+2152.4160000000	n/a	538104	cooperative	n/a	n/a	Subject_hit
+2152.8400000000	n/a	538210	cooperative	n/a	n/a	Subject_receive
+2154.8460000000	n/a	538711.5	STATUS	n/a	n/a	boundary
+2156.8440000000	n/a	539211	stationary_serve	n/a	n/a	Subject_hit
+2157.3185000000	n/a	539329.625	stationary_serve	n/a	n/a	M  1
+2158.8920000000	n/a	539723	stationary_serve	n/a	n/a	Subject_hit
+2160.9760000000	n/a	540244	stationary_serve	n/a	n/a	Subject_hit
+2163.0280000000	n/a	540757	stationary_serve	n/a	n/a	Subject_hit
+2165.0840000000	n/a	541271	stationary_serve	n/a	n/a	Subject_hit
+2167.1200000000	n/a	541780	stationary_serve	n/a	n/a	Subject_hit
+2167.3145000000	n/a	541828.625	stationary_serve	n/a	n/a	M  1
+2169.2240000000	n/a	542306	stationary_serve	n/a	n/a	Subject_hit
+2171.2120000000	n/a	542803	stationary_serve	n/a	n/a	Subject_hit
+2172.3145000000	n/a	543078.625	stationary_serve	n/a	n/a	M  1
+2172.9280000000	n/a	543232	stationary_serve	n/a	n/a	Subject_hit
+2175.3720000000	n/a	543843	stationary_serve	n/a	n/a	Subject_hit
+2177.3125000000	n/a	544328.125	stationary_serve	n/a	n/a	M  1
+2177.4040000000	n/a	544351	stationary_serve	n/a	n/a	Subject_hit
+2179.4360000000	n/a	544859	stationary_serve	n/a	n/a	Subject_hit
+2181.5360000000	n/a	545384	stationary_serve	n/a	n/a	Subject_hit
+2182.3105000000	n/a	545577.625	stationary_serve	n/a	n/a	M  1
+2183.5880000000	n/a	545897	stationary_serve	n/a	n/a	Subject_hit
+2185.5840000000	n/a	546396	stationary_serve	n/a	n/a	Subject_hit
+2187.3105000000	n/a	546827.625	stationary_serve	n/a	n/a	M  1
+2187.6080000000	n/a	546902	stationary_serve	n/a	n/a	Subject_hit
+2189.6440000000	n/a	547411	stationary_serve	n/a	n/a	Subject_hit
+2191.7040000000	n/a	547926	stationary_serve	n/a	n/a	Subject_hit
+2192.3085000000	n/a	548077.125	stationary_serve	n/a	n/a	M  1
+2193.8040000000	n/a	548451	stationary_serve	n/a	n/a	Subject_hit
+2195.8600000000	n/a	548965	stationary_serve	n/a	n/a	Subject_hit
+2197.9680000000	n/a	549492	stationary_serve	n/a	n/a	Subject_hit
+2200.0720000000	n/a	550018	stationary_serve	n/a	n/a	Subject_hit
+2202.0920000000	n/a	550523	stationary_serve	n/a	n/a	Subject_hit
+2204.0600000000	n/a	551015	stationary_serve	n/a	n/a	Subject_hit
+2206.1160000000	n/a	551529	stationary_serve	n/a	n/a	Subject_hit
+2207.3045000000	n/a	551826.125	stationary_serve	n/a	n/a	M  1
+2208.1920000000	n/a	552048	stationary_serve	n/a	n/a	Subject_hit
+2211.8240000000	n/a	552956	stationary_serve	n/a	n/a	Subject_hit
+2212.3045000000	n/a	553076.125	stationary_serve	n/a	n/a	M  1
+2214.2440000000	n/a	553561	stationary_serve	n/a	n/a	Subject_hit
+2216.2080000000	n/a	554052	stationary_serve	n/a	n/a	Subject_hit
+2217.3025000000	n/a	554325.625	stationary_serve	n/a	n/a	M  1
+2218.2680000000	n/a	554567	stationary_serve	n/a	n/a	Subject_hit
+2220.2640000000	n/a	555066	stationary_serve	n/a	n/a	Subject_hit
+2222.3005000000	n/a	555575.125	stationary_serve	n/a	n/a	M  1
+2224.3440000000	n/a	556086	stationary_serve	n/a	n/a	Subject_hit
+2226.4880000000	n/a	556622	stationary_serve	n/a	n/a	Subject_hit
+2227.2985000000	n/a	556824.625	stationary_serve	n/a	n/a	M  1
+2228.5480000000	n/a	557137	stationary_serve	n/a	n/a	Subject_hit
+2230.7240000000	n/a	557681	stationary_serve	n/a	n/a	Subject_hit
+2232.2965000000	n/a	558074.125	stationary_serve	n/a	n/a	M  1
+2232.7280000000	n/a	558182	stationary_serve	n/a	n/a	Subject_hit
+2234.7560000000	n/a	558689	stationary_serve	n/a	n/a	Subject_hit
+2236.8560000000	n/a	559214	stationary_serve	n/a	n/a	Subject_hit
+2237.2945000000	n/a	559323.625	stationary_serve	n/a	n/a	M  1
+2238.9000000000	n/a	559725	stationary_serve	n/a	n/a	Subject_hit
+2240.9680000000	n/a	560242	stationary_serve	n/a	n/a	Subject_hit
+2242.2925000000	n/a	560573.125	stationary_serve	n/a	n/a	M  1
+2243.1520000000	n/a	560788	stationary_serve	n/a	n/a	Subject_hit
+2245.2040000000	n/a	561301	stationary_serve	n/a	n/a	Subject_hit
+2247.2560000000	n/a	561814	stationary_serve	n/a	n/a	Subject_hit
+2247.2905000000	n/a	561822.625	stationary_serve	n/a	n/a	M  1
+2249.3920000000	n/a	562348	stationary_serve	n/a	n/a	Subject_hit
+2251.4360000000	n/a	562859	stationary_serve	n/a	n/a	Subject_hit
+2255.5840000000	n/a	563896	stationary_serve	n/a	n/a	Subject_hit
+2257.2885000000	n/a	564322.125	stationary_serve	n/a	n/a	M  1
+2257.6040000000	n/a	564401	stationary_serve	n/a	n/a	Subject_hit
+2261.6440000000	n/a	565411	stationary_serve	n/a	n/a	Subject_hit
+2263.6800000000	n/a	565920	stationary_serve	n/a	n/a	Subject_hit
+2267.2845000000	n/a	566821.125	stationary_serve	n/a	n/a	M  1
+2267.8240000000	n/a	566956	stationary_serve	n/a	n/a	Subject_hit
+2269.8280000000	n/a	567457	stationary_serve	n/a	n/a	Subject_hit
+2271.9000000000	n/a	567975	stationary_serve	n/a	n/a	Subject_hit
+2274.0960000000	n/a	568524	stationary_serve	n/a	n/a	Subject_hit
+2280.2480000000	n/a	570062	stationary_serve	n/a	n/a	Subject_hit
+2282.3120000000	n/a	570578	stationary_serve	n/a	n/a	Subject_hit
+2284.4240000000	n/a	571106	stationary_serve	n/a	n/a	Subject_hit
+2286.4400000000	n/a	571610	stationary_serve	n/a	n/a	Subject_hit
+2287.2785000000	n/a	571819.625	stationary_serve	n/a	n/a	M  1
+2288.4320000000	n/a	572108	stationary_serve	n/a	n/a	Subject_hit
+2290.5240000000	n/a	572631	stationary_serve	n/a	n/a	Subject_hit
+2292.2785000000	n/a	573069.625	stationary_serve	n/a	n/a	M  1
+2292.6640000000	n/a	573166	stationary_serve	n/a	n/a	Subject_hit
+2294.7520000000	n/a	573688	stationary_serve	n/a	n/a	Subject_hit
+2296.8440000000	n/a	574211	stationary_serve	n/a	n/a	Subject_hit
+2297.2765000000	n/a	574319.125	stationary_serve	n/a	n/a	M  1
+2298.9680000000	n/a	574742	stationary_serve	n/a	n/a	Subject_hit
+2300.9920000000	n/a	575248	stationary_serve	n/a	n/a	Subject_hit
+2302.2745000000	n/a	575568.625	stationary_serve	n/a	n/a	M  1
+2302.9980000000	n/a	575749.5	STATUS	n/a	n/a	boundary
+2304.9960000000	n/a	576249	moving_serve	n/a	n/a	Subject_hit
+2307.9185000000	n/a	576979.625	moving_serve	n/a	n/a	M  1
+2310.9840000000	n/a	577746	moving_serve	n/a	n/a	Subject_hit
+2312.9165000000	n/a	578229.125	moving_serve	n/a	n/a	M  1
+2312.9480000000	n/a	578237	moving_serve	n/a	n/a	Subject_hit
+2315.0560000000	n/a	578764	moving_serve	n/a	n/a	Subject_hit
+2317.2120000000	n/a	579303	moving_serve	n/a	n/a	Subject_hit
+2319.1240000000	n/a	579781	moving_serve	n/a	n/a	Subject_hit
+2321.2440000000	n/a	580311	moving_serve	n/a	n/a	Subject_hit
+2322.9145000000	n/a	580728.625	moving_serve	n/a	n/a	M  1
+2323.5440000000	n/a	580886	moving_serve	n/a	n/a	Subject_hit
+2325.4600000000	n/a	581365	moving_serve	n/a	n/a	Subject_hit
+2327.6280000000	n/a	581907	moving_serve	n/a	n/a	Subject_hit
+2327.9125000000	n/a	581978.125	moving_serve	n/a	n/a	M  1
+2329.6800000000	n/a	582420	moving_serve	n/a	n/a	Subject_hit
+2331.7160000000	n/a	582929	moving_serve	n/a	n/a	Subject_hit
+2332.9105000000	n/a	583227.625	moving_serve	n/a	n/a	M  1
+2335.8440000000	n/a	583961	moving_serve	n/a	n/a	Subject_hit
+2337.8320000000	n/a	584458	moving_serve	n/a	n/a	Subject_hit
+2337.9085000000	n/a	584477.125	moving_serve	n/a	n/a	M  1
+2340.0080000000	n/a	585002	moving_serve	n/a	n/a	Subject_hit
+2342.1880000000	n/a	585547	moving_serve	n/a	n/a	Subject_hit
+2344.3560000000	n/a	586089	moving_serve	n/a	n/a	Subject_hit
+2346.1080000000	n/a	586527	moving_serve	n/a	n/a	Subject_hit
+2347.9065000000	n/a	586976.625	moving_serve	n/a	n/a	M  1
+2348.5320000000	n/a	587133	moving_serve	n/a	n/a	Subject_hit
+2350.6360000000	n/a	587659	moving_serve	n/a	n/a	Subject_hit
+2352.6600000000	n/a	588165	moving_serve	n/a	n/a	Subject_hit
+2352.9045000000	n/a	588226.125	moving_serve	n/a	n/a	M  1
+2354.8160000000	n/a	588704	moving_serve	n/a	n/a	Subject_hit
+2356.9480000000	n/a	589237	moving_serve	n/a	n/a	Subject_hit
+2357.9025000000	n/a	589475.625	moving_serve	n/a	n/a	M  1
+2358.8840000000	n/a	589721	moving_serve	n/a	n/a	Subject_hit
+2361.0640000000	n/a	590266	moving_serve	n/a	n/a	Subject_hit
+2362.9025000000	n/a	590725.625	moving_serve	n/a	n/a	M  1
+2363.1560000000	n/a	590789	moving_serve	n/a	n/a	Subject_hit
+2367.1920000000	n/a	591798	moving_serve	n/a	n/a	Subject_hit
+2369.1840000000	n/a	592296	moving_serve	n/a	n/a	Subject_hit
+2371.2600000000	n/a	592815	moving_serve	n/a	n/a	Subject_hit
+2372.9005000000	n/a	593225.125	moving_serve	n/a	n/a	M  1
+2373.3520000000	n/a	593338	moving_serve	n/a	n/a	Subject_hit
+2375.2800000000	n/a	593820	moving_serve	n/a	n/a	Subject_hit
+2377.3360000000	n/a	594334	moving_serve	n/a	n/a	Subject_hit
+2377.8985000000	n/a	594474.625	moving_serve	n/a	n/a	M  1
+2379.4760000000	n/a	594869	moving_serve	n/a	n/a	Subject_hit
+2381.3960000000	n/a	595349	moving_serve	n/a	n/a	Subject_hit
+2382.8965000000	n/a	595724.125	moving_serve	n/a	n/a	M  1
+2383.4960000000	n/a	595874	moving_serve	n/a	n/a	Subject_hit
+2385.6840000000	n/a	596421	moving_serve	n/a	n/a	Subject_hit
+2387.7040000000	n/a	596926	moving_serve	n/a	n/a	Subject_hit
+2387.8945000000	n/a	596973.625	moving_serve	n/a	n/a	M  1
+2389.8840000000	n/a	597471	moving_serve	n/a	n/a	Subject_hit
+2391.8520000000	n/a	597963	moving_serve	n/a	n/a	Subject_hit
+2392.8925000000	n/a	598223.125	moving_serve	n/a	n/a	M  1
+2393.7840000000	n/a	598446	moving_serve	n/a	n/a	Subject_hit
+2395.8400000000	n/a	598960	moving_serve	n/a	n/a	Subject_hit
+2397.8640000000	n/a	599466	moving_serve	n/a	n/a	Subject_hit
+2397.8905000000	n/a	599472.625	moving_serve	n/a	n/a	M  1
+2399.8720000000	n/a	599968	moving_serve	n/a	n/a	Subject_hit
+2401.9880000000	n/a	600497	moving_serve	n/a	n/a	Subject_hit
+2402.8905000000	n/a	600722.625	moving_serve	n/a	n/a	M  1
+2403.9920000000	n/a	600998	moving_serve	n/a	n/a	Subject_hit
+2406.1280000000	n/a	601532	moving_serve	n/a	n/a	Subject_hit
+2407.8885000000	n/a	601972.125	moving_serve	n/a	n/a	M  1
+2409.9240000000	n/a	602481	moving_serve	n/a	n/a	Subject_hit
+2411.9360000000	n/a	602984	moving_serve	n/a	n/a	Subject_hit
+2412.8865000000	n/a	603221.625	moving_serve	n/a	n/a	M  1
+2413.9160000000	n/a	603479	moving_serve	n/a	n/a	Subject_hit
+2416.3200000000	n/a	604080	moving_serve	n/a	n/a	Subject_hit
+2418.0440000000	n/a	604511	moving_serve	n/a	n/a	Subject_hit
+2419.9240000000	n/a	604981	moving_serve	n/a	n/a	Subject_hit
+2421.9160000000	n/a	605479	moving_serve	n/a	n/a	Subject_hit
+2422.8845000000	n/a	605721.125	moving_serve	n/a	n/a	M  1
+2424.1040000000	n/a	606026	moving_serve	n/a	n/a	Subject_hit
+2428.1320000000	n/a	607033	moving_serve	n/a	n/a	Subject_hit
+2430.3200000000	n/a	607580	moving_serve	n/a	n/a	Subject_hit
+2432.8805000000	n/a	608220.125	moving_serve	n/a	n/a	M  1
+2434.3640000000	n/a	608591	moving_serve	n/a	n/a	Subject_hit
+2436.5440000000	n/a	609136	moving_serve	n/a	n/a	Subject_hit
+2437.8785000000	n/a	609469.625	moving_serve	n/a	n/a	M  1
+2438.6200000000	n/a	609655	moving_serve	n/a	n/a	Subject_hit
+2440.6720000000	n/a	610168	moving_serve	n/a	n/a	Subject_hit
+2442.6000000000	n/a	610650	moving_serve	n/a	n/a	Subject_hit
+2442.8765000000	n/a	610719.125	moving_serve	n/a	n/a	M  1
+2444.6360000000	n/a	611159	moving_serve	n/a	n/a	Subject_hit
+2446.7720000000	n/a	611693	moving_serve	n/a	n/a	Subject_hit
+2447.8765000000	n/a	611969.125	moving_serve	n/a	n/a	M  1
+2448.6720000000	n/a	612168	moving_serve	n/a	n/a	Subject_hit
+2450.8360000000	n/a	612709	moving_serve	n/a	n/a	Subject_hit
+2452.8200000000	n/a	613205	moving_serve	n/a	n/a	Subject_hit
+2454.8200000000	n/a	613705	moving_serve	n/a	n/a	Subject_hit
+2456.9080000000	n/a	614227	moving_serve	n/a	n/a	Subject_hit
+2457.8745000000	n/a	614468.625	moving_serve	n/a	n/a	M  1
+2458.7600000000	n/a	614690	moving_serve	n/a	n/a	Subject_hit
+2460.6840000000	n/a	615171	moving_serve	n/a	n/a	Subject_hit
+2462.8725000000	n/a	615718.125	moving_serve	n/a	n/a	M  1
+2463.1960000000	n/a	615799	moving_serve	n/a	n/a	Subject_hit
+2465.1960000000	n/a	616299	moving_serve	n/a	n/a	Subject_hit
+2467.2280000000	n/a	616807	moving_serve	n/a	n/a	Subject_hit
+2467.8725000000	n/a	616968.125	moving_serve	n/a	n/a	M  1
+2469.2340000000	n/a	617308.5	STATUS	n/a	n/a	boundary
+2469.5705000000	n/a	617392.625	stationary_serve	n/a	n/a	M  1
+2471.2320000000	n/a	617808	stationary_serve	n/a	n/a	Subject_hit
+2473.6760000000	n/a	618419	stationary_serve	n/a	n/a	Subject_hit
+2474.5705000000	n/a	618642.625	stationary_serve	n/a	n/a	M  1
+2475.6880000000	n/a	618922	stationary_serve	n/a	n/a	Subject_hit
+2479.5685000000	n/a	619892.125	stationary_serve	n/a	n/a	M  1
+2479.7640000000	n/a	619941	stationary_serve	n/a	n/a	Subject_hit
+2481.8200000000	n/a	620455	stationary_serve	n/a	n/a	Subject_hit
+2483.9040000000	n/a	620976	stationary_serve	n/a	n/a	Subject_hit
+2484.5665000000	n/a	621141.625	stationary_serve	n/a	n/a	M  1
+2485.9440000000	n/a	621486	stationary_serve	n/a	n/a	Subject_hit
+2487.9440000000	n/a	621986	stationary_serve	n/a	n/a	Subject_hit
+2489.5665000000	n/a	622391.625	stationary_serve	n/a	n/a	M  1
+2491.8960000000	n/a	622974	stationary_serve	n/a	n/a	Subject_hit
+2493.9280000000	n/a	623482	stationary_serve	n/a	n/a	Subject_hit
+2494.5645000000	n/a	623641.125	stationary_serve	n/a	n/a	M  1
+2497.9760000000	n/a	624494	stationary_serve	n/a	n/a	Subject_hit
+2499.9520000000	n/a	624988	stationary_serve	n/a	n/a	Subject_hit
+2503.9640000000	n/a	625991	stationary_serve	n/a	n/a	Subject_hit
+2506.1320000000	n/a	626533	stationary_serve	n/a	n/a	Subject_hit
+2509.5605000000	n/a	627390.125	stationary_serve	n/a	n/a	M  1
+2510.1880000000	n/a	627547	stationary_serve	n/a	n/a	Subject_hit
+2512.3920000000	n/a	628098	stationary_serve	n/a	n/a	Subject_hit
+2514.5585000000	n/a	628639.625	stationary_serve	n/a	n/a	M  1
+2516.3840000000	n/a	629096	stationary_serve	n/a	n/a	Subject_hit
+2518.4240000000	n/a	629606	stationary_serve	n/a	n/a	Subject_hit
+2519.5565000000	n/a	629889.125	stationary_serve	n/a	n/a	M  1
+2520.4680000000	n/a	630117	stationary_serve	n/a	n/a	Subject_hit
+2522.5080000000	n/a	630627	stationary_serve	n/a	n/a	Subject_hit
+2524.5545000000	n/a	631138.625	stationary_serve	n/a	n/a	M  1
+2524.6720000000	n/a	631168	stationary_serve	n/a	n/a	Subject_hit
+2526.7640000000	n/a	631691	stationary_serve	n/a	n/a	Subject_hit
+2528.9040000000	n/a	632226	stationary_serve	n/a	n/a	Subject_hit
+2529.5545000000	n/a	632388.625	stationary_serve	n/a	n/a	M  1
+2530.9560000000	n/a	632739	stationary_serve	n/a	n/a	Subject_hit
+2534.9480000000	n/a	633737	stationary_serve	n/a	n/a	Subject_hit
+2536.9120000000	n/a	634228	stationary_serve	n/a	n/a	Subject_hit
+2538.9480000000	n/a	634737	stationary_serve	n/a	n/a	Subject_hit
+2541.1200000000	n/a	635280	stationary_serve	n/a	n/a	Subject_hit
+2543.1240000000	n/a	635781	stationary_serve	n/a	n/a	Subject_hit
+2544.5505000000	n/a	636137.625	stationary_serve	n/a	n/a	M  1
+2545.1280000000	n/a	636282	stationary_serve	n/a	n/a	Subject_hit
+2547.1760000000	n/a	636794	stationary_serve	n/a	n/a	Subject_hit
+2549.1880000000	n/a	637297	stationary_serve	n/a	n/a	Subject_hit
+2549.5485000000	n/a	637387.125	stationary_serve	n/a	n/a	M  1
+2553.2520000000	n/a	638313	stationary_serve	n/a	n/a	Subject_hit
+2555.2720000000	n/a	638818	stationary_serve	n/a	n/a	Subject_hit
+2559.3400000000	n/a	639835	stationary_serve	n/a	n/a	Subject_hit
+2561.3560000000	n/a	640339	stationary_serve	n/a	n/a	Subject_hit
+2563.4000000000	n/a	640850	stationary_serve	n/a	n/a	Subject_hit
+2564.5405000000	n/a	641135.125	stationary_serve	n/a	n/a	M  1
+2565.4120000000	n/a	641353	stationary_serve	n/a	n/a	Subject_hit
+2567.5000000000	n/a	641875	stationary_serve	n/a	n/a	Subject_hit
+2569.5385000000	n/a	642384.625	stationary_serve	n/a	n/a	M  1
+2571.5320000000	n/a	642883	stationary_serve	n/a	n/a	Subject_hit
+2573.5720000000	n/a	643393	stationary_serve	n/a	n/a	Subject_hit
+2574.5365000000	n/a	643634.125	stationary_serve	n/a	n/a	M  1
+2575.6440000000	n/a	643911	stationary_serve	n/a	n/a	Subject_hit
+2577.7360000000	n/a	644434	stationary_serve	n/a	n/a	Subject_hit
+2579.5345000000	n/a	644883.625	stationary_serve	n/a	n/a	M  1
+2579.7640000000	n/a	644941	stationary_serve	n/a	n/a	Subject_hit
+2581.8040000000	n/a	645451	stationary_serve	n/a	n/a	Subject_hit
+2583.8600000000	n/a	645965	stationary_serve	n/a	n/a	Subject_hit
+2584.5325000000	n/a	646133.125	stationary_serve	n/a	n/a	M  1
+2585.9120000000	n/a	646478	stationary_serve	n/a	n/a	Subject_hit
+2587.9920000000	n/a	646998	stationary_serve	n/a	n/a	Subject_hit
+2589.5305000000	n/a	647382.625	stationary_serve	n/a	n/a	M  1
+2590.0640000000	n/a	647516	stationary_serve	n/a	n/a	Subject_hit
+2591.9840000000	n/a	647996	stationary_serve	n/a	n/a	Subject_hit
+2594.5285000000	n/a	648632.125	stationary_serve	n/a	n/a	M  1
+2596.1720000000	n/a	649043	stationary_serve	n/a	n/a	Subject_hit
+2598.2280000000	n/a	649557	stationary_serve	n/a	n/a	Subject_hit
+2599.5265000000	n/a	649881.625	stationary_serve	n/a	n/a	M  1
+2602.2720000000	n/a	650568	stationary_serve	n/a	n/a	Subject_hit
+2604.2880000000	n/a	651072	stationary_serve	n/a	n/a	Subject_hit
+2604.5265000000	n/a	651131.625	stationary_serve	n/a	n/a	M  1
+2606.3280000000	n/a	651582	stationary_serve	n/a	n/a	Subject_hit
+2608.2440000000	n/a	652061	stationary_serve	n/a	n/a	Subject_hit
+2609.5245000000	n/a	652381.125	stationary_serve	n/a	n/a	M  1
+2610.3240000000	n/a	652581	stationary_serve	n/a	n/a	Subject_hit
+2614.5245000000	n/a	653631.125	stationary_serve	n/a	n/a	M  1
+2615.8000000000	n/a	653950	stationary_serve	n/a	n/a	Subject_hit
+2618.1840000000	n/a	654546	stationary_serve	n/a	n/a	Subject_hit
+2620.2720000000	n/a	655068	stationary_serve	n/a	n/a	Subject_hit
+2622.2720000000	n/a	655568	stationary_serve	n/a	n/a	Subject_hit
+2623.9920000000	n/a	655998	stationary_serve	n/a	n/a	Subject_hit
+2624.5205000000	n/a	656130.125	stationary_serve	n/a	n/a	M  1
+2626.3680000000	n/a	656592	stationary_serve	n/a	n/a	Subject_hit
+2628.3760000000	n/a	657094	stationary_serve	n/a	n/a	Subject_hit
+2629.5205000000	n/a	657380.125	stationary_serve	n/a	n/a	M  1
+2630.1080000000	n/a	657527	stationary_serve	n/a	n/a	Subject_hit
+2632.1140000000	n/a	658028.5	STATUS	n/a	n/a	boundary
+2633.9365000000	n/a	658484.125	moving_serve	n/a	n/a	M  1
+2634.1120000000	n/a	658528	moving_serve	n/a	n/a	Subject_hit
+2636.1480000000	n/a	659037	moving_serve	n/a	n/a	Subject_hit
+2638.1480000000	n/a	659537	moving_serve	n/a	n/a	Subject_hit
+2638.9345000000	n/a	659733.625	moving_serve	n/a	n/a	M  1
+2640.1120000000	n/a	660028	moving_serve	n/a	n/a	Subject_hit
+2642.1720000000	n/a	660543	moving_serve	n/a	n/a	Subject_hit
+2643.9345000000	n/a	660983.625	moving_serve	n/a	n/a	M  1
+2648.0520000000	n/a	662013	moving_serve	n/a	n/a	Subject_hit
+2648.9325000000	n/a	662233.125	moving_serve	n/a	n/a	M  1
+2649.9920000000	n/a	662498	moving_serve	n/a	n/a	Subject_hit
+2651.9680000000	n/a	662992	moving_serve	n/a	n/a	Subject_hit
+2655.8600000000	n/a	663965	moving_serve	n/a	n/a	Subject_hit
+2657.9480000000	n/a	664487	moving_serve	n/a	n/a	Subject_hit
+2660.0720000000	n/a	665018	moving_serve	n/a	n/a	Subject_hit
+2663.9285000000	n/a	665982.125	moving_serve	n/a	n/a	M  1
+2664.0000000000	n/a	666000	moving_serve	n/a	n/a	Subject_hit
+2666.0560000000	n/a	666514	moving_serve	n/a	n/a	Subject_hit
+2667.9880000000	n/a	666997	moving_serve	n/a	n/a	Subject_hit
+2668.9285000000	n/a	667232.125	moving_serve	n/a	n/a	M  1
+2670.1760000000	n/a	667544	moving_serve	n/a	n/a	Subject_hit
+2672.1880000000	n/a	668047	moving_serve	n/a	n/a	Subject_hit
+2673.9265000000	n/a	668481.625	moving_serve	n/a	n/a	M  1
+2676.3120000000	n/a	669078	moving_serve	n/a	n/a	Subject_hit
+2678.2760000000	n/a	669569	moving_serve	n/a	n/a	Subject_hit
+2682.2600000000	n/a	670565	moving_serve	n/a	n/a	Subject_hit
+2683.9245000000	n/a	670981.125	moving_serve	n/a	n/a	M  1
+2684.3360000000	n/a	671084	moving_serve	n/a	n/a	Subject_hit
+2686.4640000000	n/a	671616	moving_serve	n/a	n/a	Subject_hit
+2688.5080000000	n/a	672127	moving_serve	n/a	n/a	Subject_hit
+2688.9225000000	n/a	672230.625	moving_serve	n/a	n/a	M  1
+2690.4840000000	n/a	672621	moving_serve	n/a	n/a	Subject_hit
+2693.9205000000	n/a	673480.125	moving_serve	n/a	n/a	M  1
+2694.4560000000	n/a	673614	moving_serve	n/a	n/a	Subject_hit
+2696.5000000000	n/a	674125	moving_serve	n/a	n/a	Subject_hit
+2698.9185000000	n/a	674729.625	moving_serve	n/a	n/a	M  1
+2700.5120000000	n/a	675128	moving_serve	n/a	n/a	Subject_hit
+2702.5280000000	n/a	675632	moving_serve	n/a	n/a	Subject_hit
+2703.9185000000	n/a	675979.625	moving_serve	n/a	n/a	M  1
+2708.6200000000	n/a	677155	moving_serve	n/a	n/a	Subject_hit
+2708.9165000000	n/a	677229.125	moving_serve	n/a	n/a	M  1
+2712.7240000000	n/a	678181	moving_serve	n/a	n/a	Subject_hit
+2713.9145000000	n/a	678478.625	moving_serve	n/a	n/a	M  1
+2714.9040000000	n/a	678726	moving_serve	n/a	n/a	Subject_hit
+2716.8920000000	n/a	679223	moving_serve	n/a	n/a	Subject_hit
+2718.9145000000	n/a	679728.625	moving_serve	n/a	n/a	M  1
+2718.9200000000	n/a	679730	moving_serve	n/a	n/a	Subject_hit
+2721.0080000000	n/a	680252	moving_serve	n/a	n/a	Subject_hit
+2722.9400000000	n/a	680735	moving_serve	n/a	n/a	Subject_hit
+2725.0640000000	n/a	681266	moving_serve	n/a	n/a	Subject_hit
+2727.3200000000	n/a	681830	moving_serve	n/a	n/a	Subject_hit
+2729.2880000000	n/a	682322	moving_serve	n/a	n/a	Subject_hit
+2731.5720000000	n/a	682893	moving_serve	n/a	n/a	Subject_hit
+2733.5200000000	n/a	683380	moving_serve	n/a	n/a	Subject_hit
+2737.5320000000	n/a	684383	moving_serve	n/a	n/a	Subject_hit
+2739.4840000000	n/a	684871	moving_serve	n/a	n/a	Subject_hit
+2741.4920000000	n/a	685373	moving_serve	n/a	n/a	Subject_hit
+2743.5600000000	n/a	685890	moving_serve	n/a	n/a	Subject_hit
+2743.9085000000	n/a	685977.125	moving_serve	n/a	n/a	M  1
+2745.4680000000	n/a	686367	moving_serve	n/a	n/a	Subject_hit
+2747.5240000000	n/a	686881	moving_serve	n/a	n/a	Subject_hit
+2748.9085000000	n/a	687227.125	moving_serve	n/a	n/a	M  1
+2751.2240000000	n/a	687806	moving_serve	n/a	n/a	Subject_hit
+2753.7760000000	n/a	688444	moving_serve	n/a	n/a	Subject_hit
+2753.9065000000	n/a	688476.625	moving_serve	n/a	n/a	M  1
+2755.4160000000	n/a	688854	moving_serve	n/a	n/a	Subject_hit
+2759.7880000000	n/a	689947	moving_serve	n/a	n/a	Subject_hit
+2761.7320000000	n/a	690433	moving_serve	n/a	n/a	Subject_hit
+2763.4840000000	n/a	690871	moving_serve	n/a	n/a	Subject_hit
+2763.9045000000	n/a	690976.125	moving_serve	n/a	n/a	M  1
+2767.7920000000	n/a	691948	moving_serve	n/a	n/a	Subject_hit
+2769.8320000000	n/a	692458	moving_serve	n/a	n/a	Subject_hit
+2771.9320000000	n/a	692983	moving_serve	n/a	n/a	Subject_hit
+2773.8960000000	n/a	693474	moving_serve	n/a	n/a	Subject_hit
+2776.1160000000	n/a	694029	moving_serve	n/a	n/a	Subject_hit
+2778.0960000000	n/a	694524	moving_serve	n/a	n/a	Subject_hit
+2778.9005000000	n/a	694725.125	moving_serve	n/a	n/a	M  1
+2780.0840000000	n/a	695021	moving_serve	n/a	n/a	Subject_hit
+2782.4080000000	n/a	695602	moving_serve	n/a	n/a	Subject_hit
+2783.8985000000	n/a	695974.625	moving_serve	n/a	n/a	M  1
+2783.9600000000	n/a	695990	moving_serve	n/a	n/a	Subject_hit
+2786.4760000000	n/a	696619	moving_serve	n/a	n/a	Subject_hit

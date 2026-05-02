@@ -1,0 +1,11 @@
+2.0.0 2023-04-25
+  - In this version, we uploaded all the fMRI data.
+1.0.1 2023-03-24
+  - Add code files
+1.0.0 2022-09-04
+  - The initial version
+0.0.1  Initial data acquired
+TODOs:
+	- verify and possibly extend information in participants.tsv (see for example http://datasets.datalad.org/?dir=/openfmri/ds000208)
+	- fill out dataset_description.json, README, sourcedata/README (if present)
+	- provide _events.tsv file for each _bold.nii.gz with onsets of events (see  '8.5 Task events'  of BIDS specification)

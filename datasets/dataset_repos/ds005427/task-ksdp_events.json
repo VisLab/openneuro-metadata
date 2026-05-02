@@ -1,0 +1,110 @@
+{
+    "trial_number": {
+      "description": "Overall trial number",
+      "HED": "Experimental-trial/#"
+    },
+    "instance_id": {
+      "description": "Instance ID within the project.",
+      "HED": "ID/#"
+    },
+    "values": {
+      "description": "Ordered vector of the values of the items in the instance.",
+      "HED": "Task-property, Experimental-stimulus"
+    },
+    "weights": {
+      "description": "Ordered vector of the weights of the items in the instance.",
+      "HED": "Task-property, Experimental-stimulus"
+    },
+    "target_profit": {
+      "description": "The target value of the instance.",
+      "HED": "Task-property, Experimental-stimulus"
+    },
+    "target_capacity": {
+      "description": "The maximum weight capacity of the instance.",
+      "HED": "Task-property, Experimental-stimulus"
+    },
+    "instance_number": {
+      "description": "Instance ID2 within the project.",
+      "HED": "ID/#"
+    },
+    "response_type": {
+      "description": "Response by the participant.",
+      "HED": "Agent-action, Participant-response",
+      "Levels": {"Yes":"Yes", "No":"No"}
+    },
+    "response_correct": {
+      "description": "Was the response correct?",
+      "HED": "Agent-action, Participant-response",
+      "Levels": {"correct":"Correct response", "incorrect":"Incorrect response"}
+    },
+    "response_time": {
+      "description": "Response time of participant from onset of response_screen. Takes a value of up to two seconds.",
+      "HED": "Agent-action, Participant-response, Time-value"
+    },
+    "xyCoordinates": {
+      "description": "Coordinate location of each of the items."
+    },
+    "error": {
+      "description": "Software-related errors."
+    },
+    "instance_type": {
+      "description": "Instance properties.",
+      "Levels": {
+        "1": "unsatisfiable/highTCC/lowPropagations",
+        "2": "satisfiable/highTCC/lowPropagations",
+        "3": "unsatisfiable/highTCC/highPropagations",
+        "4": "satisfiable/highTCC/highPropagations",
+        "5": "unsatisfiable/lowTCC",
+        "6": "satisfiable/lowTCC"
+      }
+    },
+    "solution": {
+      "description": "The correct solution to the instance.",
+      "HED": "Task-property",
+      "Levels": {"Yes":"Correct solution to the instance is yes", "No":"Correct solution to the instance is no"}
+    },
+    "instance_complexity": {
+      "description": "Typical-case complexity.",
+      "HED": "Task-property",
+      "Levels": {"High":"High TCC", "Low": "Low TCC"}
+    },
+    "propagations_MZN": {
+      "description": "Number of propagations performed by the Gecode solver before arriving to the solution. Proxy of compute-time of the solver.",
+      "HED": "Task-property"
+    },
+    "decisions_SAT": {
+      "description": "Number of decision performed by the minisat solver before arriving to the solution. Proxy of compute-time of the solver.",
+      "HED": "Task-property"
+    },
+    "sum_values": {
+      "description": "The sum of all item values.",
+      "HED": "Task-property"
+    },
+    "sum_weights": {
+      "description": "The sum of all item weights.",
+      "HED": "Task-property"
+    },
+    "nSolutions": {
+      "description": "Number of item subsets (i.e., witnesses) that satisfy the constraints.",
+      "HED": "Task-property"
+    },
+    "IC_expost_lin": {
+      "description": "Instance complexity (IC metric).",
+      "HED": "Task-property"
+    },
+    "lat_highest_vw_ratio": {
+      "description": "Laterality of the item with the highest v/w ratio."
+    },
+    "eventType": {
+      "description": "Trial type ID number."
+    },
+    "response_button": {
+      "description": "Laterality of the response button pressed.",
+      "HED": "Agent-action, Participant-response"
+    },
+    "instance_region": {
+      "description": "Constrainedness of the instance.",
+      "Levels": {"Underconstrained":"Underconstrained", "Overconstrained": "Overconstrained", "Phase-transition":"Phase-transition"}
+    }
+  }
+  

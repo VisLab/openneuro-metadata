@@ -1,0 +1,17 @@
+{
+    "BIDSVersion": "1.0.0",
+    "License": "CC0",
+    "Name": "Mental Imagery-based Fear Extinction",
+    "ReferenceAndLink": [
+        "tbd"
+    ],
+    "Authors": [
+        "Xinrui Jiang",
+        "Steven Greening"
+    ],
+    "Funding": [
+        "An NSERC Discovery Grant (S.G.G.) "
+    ],
+    "HowToAcknowledge": "tbd",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004407.v1.0.1"
+}

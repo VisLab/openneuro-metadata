@@ -1,0 +1,7 @@
+## Deep Extensive Imaging of Person in Pain (DEIPP) dataset
+
+This dataset contains the raw MRI data for the following reference:
+
+Jae-Joong Lee, Seongwoo Jo, Sungkun Cho, Choong-Wan Woo, Personalized Brain Decoding of Spontaneous Pain in Individuals With Chronic Pain, in revision
+
+For more information about preprocessing and analysis code accompanying the data, please visit the following repository: [https://github.com/cocoanlab/DEIPP](https://github.com/cocoanlab/DEIPP)

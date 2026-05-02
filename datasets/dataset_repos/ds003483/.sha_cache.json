@@ -1,0 +1,7 @@
+{
+  "CHANGES": "edb38ee1072a4812383727530ca3d3a94c7e4899",
+  "dataset_description.json": "786ae142e1753da5c62a574c3c8b755944cd4d7d",
+  "participants.tsv": "8b7444d34380e30151acbe54445fc4dd1d488d76",
+  "sub-009/ses-1/meg/sub-009_ses-1_task-induction_run-1_events.tsv": "3c7793fe3b444889b50479ef2b3798d8b77b5a9d",
+  "sub-009/ses-1/meg/sub-009_ses-1_task-deduction_run-1_events.tsv": "0624fde8564ffea7c62aa0ec68bbf746a58b13f2"
+}

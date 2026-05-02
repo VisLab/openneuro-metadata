@@ -1,0 +1,9 @@
+{
+    "RepetitionTime": 2.0,
+    "TaskName": "Emotion regulation", 
+    "Manufacturer": "GE",
+    "ManufacturersModelName": "Signa Twin Speed Excite HD scanne",
+    "MagneticFieldStrength": 1.5,
+    "EchoTime": 0.04,
+    "FlipAngle": 60
+}

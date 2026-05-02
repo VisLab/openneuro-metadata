@@ -1,0 +1,22 @@
+{
+  "participants.tsv": "8fabb0fc2b11890a2c297cc7e04c4f41b06da27b",
+  "dwi.json": "26478d4f72f686fd798993d42898a51957dbb9e9",
+  "CHANGES": "8df6e4263a643dab6e7f4cb1dbcb46738987cb88",
+  "task-CHECKERBOARD_acq-645_bold.json": "bd25a73dcf28c17edc758998b46506ffb8dcf8f6",
+  "dataset_description.json": "45feca8d7b0d7ca0e7c0785ccb8ab9363dcccb97",
+  "task-CHECKERBOARD_acq-1400_bold.json": "db8523823a67e507a5458d167892e0bcc0e2082e",
+  "README": "8bc1b807e898c7f75cc542822fe23d2bdb2d3332",
+  "T1w.json": "4d658dcb879ec27bf6042ba8fc2dfe447d3d1576",
+  "phasediff.json": "e35503ed2b1e542fe9cf3a833ca9d7d80ce691e4",
+  "task-BREATHHOLD_acq-1400_bold.json": "e9d75371bd6084b1811281e8bfdf899c1bcca9da",
+  "task-DMNTRACKINGTEST_bold.json": "f1f472f6ea2664c94f019af65301bf1d6ae32c28",
+  "task-DMNTRACKINGTRAIN_bold.json": "0b8f594e85933fa5310b18c183c4bab8b88c041d",
+  "task-MORALDILEMMA_bold.json": "caee964bf09c2b57d615cd2d19976afee33f9386",
+  "task-MASK_bold.json": "ee709bb8c49446515e44a2f66e36d1f7e68d07ca",
+  "task-PEER2_bold.json": "0475137761085b89e3846ab85e9143ff25e529cc",
+  "task-MSIT_bold.json": "3616718170d5e27444541892e58103edbb1138f7",
+  "task-PEER1_bold.json": "258adb7180de11f7b7c5c2aa188a57c655c80737",
+  "task-rest_acq-1400_bold.json": "503560e0178f272cdec1ad37b6cfd60554d5773e",
+  "task-rest_acq-645_bold.json": "f7c8d4bc5df1bf5ea8a3ed0ba968884bc689cdfe",
+  "task-rest_acq-CAP_bold.json": "224fb56daef99b4ad81d3514064609cc6ff91e45"
+}

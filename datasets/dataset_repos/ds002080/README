@@ -1,0 +1,40 @@
+Brain Tumor Connectomics Data
+
+Post-operative data of 7 glioma patients, 12 meningioma patients (1 [sub-PAT11] with bad data quality) and 10 control subjects.
+Out of the 11 glioma patients, 14 meningioma patients, and 11 healthy controls that were included pre-surgically ("BTC_preop, ds001226" on OpenNeuro), 7 glioma patients (1 drop-out, 1 no resection, 2 end of study), 12 meningioma patients (1 drop-out, 1 MRI not possible because of cochlear implant), and 10 healthy controls (1 drop-out) agreed to participate post-operatively. 
+
+Data used in the papers
+
+Aerts H, Schirner M, Jeurissen B, Van Roost D, Achten E, Ritter P, Marinazzo D. Modeling Brain Dynamics in Brain Tumor Patients Using the Virtual Brain. eNeuro. 2018 Jun 4;5(3):ENEURO.0083-18.2018. doi: 10.1523/ENEURO.0083-18.2018. PMID: 29911173; PMCID: PMC6001263.
+
+and
+
+Aerts H, Schirner M, Dhollander T, Jeurissen B, Achten E, Van Roost D, Ritter P, Marinazzo D. Modeling brain dynamics after tumor resection using The Virtual Brain. Neuroimage. 2020 Jun;213:116738. doi: 10.1016/j.neuroimage.2020.116738. Epub 2020 Mar 16. PMID: 32194282.
+
+Contact information:
+Name: Hannelore Aerts & Daniele Marinazzo
+Email: daniele.marinazzo@ugent.be
+
+Compared to the initial database, 6 patients were excluded: 2 because of glioma grade 4, 3 because of subtentorial tumor, 1 because of absence of MRI data (subdural grid).
+
+Of all subjects the following data were acquired:
+- T1w MPRAGE anatomical scan (anat)
+- resting-state fMRI (func)
+- multi-shell HARDI diffusion-weighted MRI (dwi, acq=AP)
+- short DWI with reverse phase encoding directions (dwi, acq=PA)
+- cognitive assessment using the Cambridge Neuropsychological Test Automated Battery (CANTAB): MOT, RVP, RTI, SSP & SOC
+- questionnaires assessing demographic information, lifestyle habits & emotional functioning
+
+The "derivatives" folder contains
+
+- tumor masks, obtained with a combination of manual delineation and disconnectome
+- time series, structural and functional connectivity matrices, and resting state HRF for each ROI.
+- rsHRF parameters obtained with the rsHRF toolbox described here Wu GR, Colenbier N, Van Den Bossche S, Clauw K, Johri A, Tandon M, Marinazzo D. rsHRF: A toolbox for resting-state HRF estimation and deconvolution. Neuroimage. 2021 Dec 1;244:118591. doi: 10.1016/j.neuroimage.2021.118591. Epub 2021 Sep 21. PMID: 34560269.
+- fMRI quality control: Esteban O, Birman D, Schaer M, Koyejo OO, Poldrack RA, Gorgolewski KJ; MRIQC: Advancing the Automatic Prediction of Image Quality in MRI from Unseen Sites; PLOS ONE 12(9):e0184661; doi:10.1371/journal.pone.0184661.
+- diffusion quality control using
+Bastiani M, Cottaar M, Fitzgibbon SP, Suri S, Alfaro-Almagro F, Sotiropoulos SN, Jbabdi S, Andersson JLR. Automated quality control for within and between studies diffusion MRI data using a non-parametric framework for movement and distortion correction. Neuroimage. 2019 Jan 1;184:801-812. doi: 10.1016/j.neuroimage.2018.09.073. Epub 2018 Sep 26. PMID: 30267859; PMCID: PMC6264528.
+G. Theaud and M. Descoteaux, dMRIQCpy: a python-based toolbox for diffusion MRI quality control and beyond, International Symposium in Magnetic Resonance in Medicine (ISMRM 2022).
+The structural connectivity (SC) is derived with the TVB pipeline (https://github.com/BrainModes/TVB-empirical-data-pipeline) with manual segmentation when necessary.
+The regions are according to the Desikan-Killiany atlas.
+
+A companion dataset, containing the preoperatory data, is accessible at https://openneuro.org/datasets/ds001226

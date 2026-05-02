@@ -1,0 +1,37 @@
+{
+    "TaskName": "acti",
+    "SamplingFrequency": 100,
+    "StartTime": 0,
+    "Columns": [
+        "Times (datenum)",
+        "xacc",
+        "yacc",
+        "zacc",
+        "light",
+        "temp",
+        "buttonPress"
+    ],
+    "Times": {
+        "description": "Times of each sample, in matlab datenum, meaning number of days since start of year 0."
+    },
+    "xacc": {
+        "description": "Acceleration in x-axis direction"
+    },
+    "yacc": {
+        "description": "Acceleration in y-axis direction"
+    },
+    "zacc": {
+        "description": "Acceleration in z-axis direction"
+    },
+    "light": {
+        "description": "Reading of the light sensor"
+    },
+    "temp": {
+        "description": "Reading of the temperature sensor, i celsius"
+    },
+    "buttonPress": {
+        "description": "Trigger channel, indicating whether the casing of the watch itself was being squeezed by the user"
+    },
+    "Manufacturer": "Activinsights",
+    "ManufacturersModelName": "GENEactiv"
+}

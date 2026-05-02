@@ -1,0 +1,11 @@
+{
+	"RepetitionTime": 2.5,
+	"TaskName": "Olfactory",
+	"Manufacturer": "Siemens",
+	"ManufacturerModelName": "Area",
+	"MagneticFieldStrength": 1.5,
+	"ScanningSequence": "2D EP",
+	"SequenceName": "2D EP",
+	"EchoTime": 0.050,
+	"FlipAngle": 90.0
+}

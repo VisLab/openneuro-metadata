@@ -1,0 +1,22 @@
+{
+  "participants.tsv": "411acbe338758d973578b94838f967124e1f9874",
+  "README": "747a98b443295af7735214a674defd06ffd8f067",
+  "dataset_description.json": "a786c385bd1812410d01177affb6ce834d85facd",
+  "CHANGES": "e89abf9c4d42dd9ab15ec1aada5d532a782ac8ff",
+  "sub-01/ses-01/func/sub-01_ses-01_task-localizer_run-02_events.tsv": "c640fb41a710b1d086a21672a2dce02590bd9aac",
+  "sub-01/ses-02/func/sub-01_ses-02_task-main_run-01_events.tsv": "52ed33fcce1f98612e5bfae4ba807f4aee7af8b0",
+  "sub-01/ses-02/func/sub-01_ses-02_task-localizer_run-02_events.tsv": "0b996516bf4e631e07fbcf9b2dd42c01e565bc38",
+  "sub-01/ses-02/func/sub-01_ses-02_task-localizer_run-01_events.tsv": "e393d53f2a54724f6530ce260647a6e998ea40d9",
+  "sub-01/ses-03/func/sub-01_ses-03_task-localizer_run-01_events.tsv": "e82886eba434b605bbeb59f1043ef25e21c93feb",
+  "sub-01/ses-03/func/sub-01_ses-03_task-localizer_run-02_events.tsv": "0e755ab4014461eb95b77ca26c49112e381c49e0",
+  "sub-01/ses-01/func/sub-01_ses-01_task-main_run-02_events.tsv": "bdf111fa4edb021f46e3dd43a4251fecd89fb73a",
+  "sub-01/ses-01/func/sub-01_ses-01_task-localizer_run-01_events.tsv": "773dd538b302fb3bcf6fd9983c5dc5c3d568afbd",
+  "sub-01/ses-02/func/sub-01_ses-02_task-main_run-02_events.tsv": "54d912770cf41151cf520ae88189e22574df35d2",
+  "sub-01/ses-01/func/sub-01_ses-01_task-main_run-01_events.tsv": "a3253fbde91181addda19a561206395ec5f04ad6",
+  "sub-01/ses-03/func/sub-01_ses-03_task-main_run-01_events.tsv": "1708db4303d01078cce141cf5b3c4888e356a33f",
+  "sub-01/ses-04/func/sub-01_ses-04_task-main_run-02_events.tsv": "31393b3bee7cd201cd039e940cc4abd966b96f45",
+  "sub-01/ses-04/func/sub-01_ses-04_task-localizer_run-01_events.tsv": "83d8501946ec280595808d7f0ab65fcdd503a5bd",
+  "sub-01/ses-03/func/sub-01_ses-03_task-main_run-02_events.tsv": "18d09ccdb95eb87900ece1b1b4312a7f7e049abc",
+  "sub-01/ses-04/func/sub-01_ses-04_task-localizer_run-02_events.tsv": "6877ece80a91b57fc16e481149032b908da81e3e",
+  "sub-01/ses-04/func/sub-01_ses-04_task-main_run-01_events.tsv": "a031c85819bebf3e75c215e3ec6c656d4da530a7"
+}

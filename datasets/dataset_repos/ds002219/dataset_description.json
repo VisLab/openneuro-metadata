@@ -1,0 +1,18 @@
+{
+    "Name": "L1_STORIES_SENTENCES",
+    "Description": "This study investigated processing of conventional metaphorical vs literal sentences as well as short stories during silent reading in native speakers of German. The study was divided in 4 consecutive runs or scanning sessions. The first two runs correspond to sentence reading; the third and fourth runs correspond to short story reading. The sentence runs can be compared to a dataset on L2 speakers named L2_SENTENCES (proficient speakers of German whose native language is Italian), whereas the story runs have only been collected in native speakers. In L1_STORIES_SENTENCES participants were asked to read sentences and short stories silently for comprehension and no response was required. Occasional comprehension questions required yes/no answers to make sure participants were engaging in the task. Therefore the only task performed is silent reading. The data on story processing have been published in NeuroImage (first reference below), while the data on sentence processing have been published in Neuropsychologia (second reference below) together with the data on L2 speakers available in the dataset L2_SENTENCES.",
+    "BIDSVersion": "1.1.rc4",
+    "Authors": [
+        "Francesca M M Citron",
+        "Jeremie G\u00fcsten",
+        "Nora Michaelis",
+        "Adele E Goldberg"
+    ],
+    "Acknowledgements": "fMRI data acquisition was funded by an Einstein Visiting Fellowship awarded to Professor Adele Goldberg. Data analysis was funded by the Psychology Department, Lancaster University, UK.",
+    "ReferencesAndLinks": [
+        "STORY READING IN NATIVE SPEAKERS: Citron, F.M.M., G\u00fcsten, J., Michaelis, N., Goldberg, A.E. (2016). Conventional metaphors in longer passages evoke affective brain response. NeuroImage, 139, 218-230, doi: 10.1016/j.neuroimage.2016.06.020.",
+        "SENTENCE READING IN NATIVE SPEAKERS: Citron, F.M.M., Michaelis, N., Goldberg, A.E. (2019). Metaphorical language processing and amygdala activation in L1 and L2. Neuropsychologia. Volume, pages, and DOI to be provided."
+    ],
+    "DatasetDOI": "mockDOI",
+    "License": "CC0"
+}

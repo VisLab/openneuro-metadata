@@ -1,0 +1,4 @@
+1.0.2 2021-08-03
+  - Added new reconstructions after the first paper revision. We updated the intermodal regisitrations of the graph by using the method in Casamitjana et al.,  Synth-by-Reg (SbR): Contrastive learning for synthesis-based registration of paired images (2021)
+1.0.1 2021-06-07
+  - Added funding, link to code and how to acknowledge

@@ -1,0 +1,10 @@
+{
+  "participants.json": "f16a2d5555db799af337e68d139b31257b023c3b",
+  "task-WordPR_events.json": "c94cb5daad0d77122bb9e54d69bcb106b2956e84",
+  "CHANGES": "d5ad0f1526aed4466784cba6c946a2f520c21985",
+  "README": "5760b2bfb3218a2349fcc341476e45d1a567c5aa",
+  "dataset_description.json": "4a5ec0db6585a116914797751ac6df5fee0e73a3",
+  "datacite.yml": "1ef1b25d12e0ab7d063bceb965596001f5f1d67e",
+  "participants.tsv": "a29cfb15a4307ff9057051e4985a52e89f4e2920",
+  "sub-1001/eeg/sub-1001_task-WordPR_events.tsv": "51f4c7c60babc9b25559607ffadab29013c0da23"
+}

@@ -1,0 +1,10 @@
+2.0.0 2016-10-28
+
+    - Deleted duplicate files from derivatives/mriqc
+
+2.0.0 20160329
+    - Converted to BIDS format from original format
+
+1.0.0 20160129
+    - Initially published in raw format.
+

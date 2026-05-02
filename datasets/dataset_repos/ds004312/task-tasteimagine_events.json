@@ -1,0 +1,16 @@
+{
+    "run": {
+        "LongName": "Run",
+        "Description": "Which run this timing segment corresponds to"
+    },
+    "trial_type": {
+        "LongName": "Type of Trials",
+        "Description": "What type of event is occuring at this moment during the task",
+        "Levels": {
+            "sugar": "Participants imagine the taste of a spoonfull of sugar on their tongue.",
+            "lemon": "Participants imagine the taste of a spoonfull of lemon juice on their tongue.",
+            "salt": "Participants imagine the taste of a spoonfull of salt on their tongue.",
+            "water": "Participants imagine the taste of a spoonfull of water on their tongue."
+        }
+    }
+}

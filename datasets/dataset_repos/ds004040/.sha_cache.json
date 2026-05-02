@@ -1,0 +1,10 @@
+{
+  "participants.tsv": "2d5039571013b4098a547d8bf1ed20bbe24107a9",
+  "CHANGES": "40a0e40c4a017c147aaef101b8036ef2345d98fc",
+  "dataset_description.json": "3f6f1a0aecf4bd0d62b6fde8ba083a099774b200",
+  "README": "b2669aa71ae4d44817c41c0f14ad87dcdca33b70",
+  "sub-001/ses-02/eeg/sub-001_ses-02_task-trance_events.tsv": "099604d17e227e5fb26c8a9eb87c2424288e6c07",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-trance_events.tsv": "667b5a8f331c604641474aed07c9dc97e034d4dd",
+  "sub-001/ses-02/eeg/sub-001_ses-02_task-trance_events.json": "e57f8bb05726bada9b1622f0b84b9b6ea7a4e7f7",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-trance_events.json": "e57f8bb05726bada9b1622f0b84b9b6ea7a4e7f7"
+}

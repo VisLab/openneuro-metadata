@@ -1,0 +1,26 @@
+{
+    "Name": "VR-Compassion Cultivation Training",
+    "BIDSVersion": "v1.10.0",
+    "License": "CC0",
+    "DatasetType": "derivative",
+    "Authors": [
+        "Ying Wu",
+        "Enrique Carrillosulub",
+        "Leon Lange",
+        "Chloe Tanega",
+        "Nicole Wells",
+        "Erik Virre",
+        "Cassandra Vieten"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "EEG-BIDS",
+            "Version": "10.3"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007006.v1.0.0"
+}

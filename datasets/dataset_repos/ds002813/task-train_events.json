@@ -1,0 +1,17 @@
+{
+    "trial_type": {
+        "LongName": "Trial type",
+        "Description": "Which category item belongs to, 1=category 1, 2 = category 2"
+    },
+    "prot1distance": {
+        "LongName": "Distance from category 1 prototype",
+        "Description": "Number of features differing from category 1 prototype",
+        "Units": "Number of features (0-8)"
+    },
+    "stim_idx": {
+        "LongName": "Stimulus index"
+    },
+    "idx": {
+        "Description": "A single number denoting which of the 8 training items this is"
+    }
+}

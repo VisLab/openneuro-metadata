@@ -1,0 +1,11 @@
+{
+  "participants.json": "bdb2a22604766adf35236f269aa91960f5be9fab",
+  "README": "60d8f221e59bfe432fc41277dbe19e59c038fc92",
+  "participants.tsv": "144afa3e0bb8e6ab0d5cdc2112a0c7180fa59b03",
+  "CHANGES": "c0168141f192f30531f5a732afb45e9c332a2397",
+  "dataset_description.json": "896d1f886535657ca69390e17227d167d6aa832b",
+  "sub-01/eeg/sub-01_task-motion_events.json": "58ffd99065f3189b3086aa529de202a5ead470d1",
+  "sub-01/eeg/sub-01_task-faces_events.json": "786d6dd947ec2a464ecad37b56f420f4142f4a51",
+  "sub-01/eeg/sub-01_task-faces_events.tsv": "e8928b03e03fb9ad0c1c6f41767fb33f52c8f42a",
+  "sub-01/eeg/sub-01_task-motion_events.tsv": "6ada566cc3839f3c3b2d7aaaddcb1c6ee9b1ab72"
+}

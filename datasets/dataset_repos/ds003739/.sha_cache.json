@@ -1,0 +1,15 @@
+{
+  "dataset_description.json": "9b41bbb134fc8b6f25a1c77347ed495a84184b6c",
+  "participants.tsv": "042479617471b5dd148df54dcf82982045b9d684",
+  "participants.json": "80f865483effe5d2833c2fcd45b9a7245615c439",
+  "README": "b5d7b2c897a42eb46639ec3171b3ea355913bb58",
+  "CHANGES": "34b6e958a8dbba55545eb292391c0e02e0c491fc",
+  "sub-001/ses-02/eeg/sub-001_ses-02_task-pullwalk_events.json": "59981e43087734bdb8ce8575a419b0f623f6bfb1",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-pullstand_events.json": "59981e43087734bdb8ce8575a419b0f623f6bfb1",
+  "sub-001/ses-04/eeg/sub-001_ses-04_task-rotatewalk_events.json": "59981e43087734bdb8ce8575a419b0f623f6bfb1",
+  "sub-001/ses-03/eeg/sub-001_ses-03_task-rotatestand_events.json": "59981e43087734bdb8ce8575a419b0f623f6bfb1",
+  "sub-001/ses-03/eeg/sub-001_ses-03_task-rotatestand_events.tsv": "8ecd3a6444ff333d28fd2f20251bd29b5e47ff35",
+  "sub-001/ses-01/eeg/sub-001_ses-01_task-pullstand_events.tsv": "c2acdd94bee99ba9a1445f9e256468312611593f",
+  "sub-001/ses-04/eeg/sub-001_ses-04_task-rotatewalk_events.tsv": "2e40349c6fdf4746e568b79194b0ec371d4ca5ea",
+  "sub-001/ses-02/eeg/sub-001_ses-02_task-pullwalk_events.tsv": "d00ff7c8c60d35aea36c395895d2558a107ff28b"
+}

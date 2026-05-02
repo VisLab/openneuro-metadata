@@ -1,0 +1,25 @@
+# Structural MRI dataset from NIMH: Clinical and Translational Neuroscience Branch and Behavioral Endocrinology Branch
+
+This dataset is comprised of T1-weighted and T2-weighted structural MRI scans acquired from two different National Institute of Mental Health (NIMH) Intramural Research Program (IRP) protocols:
+	1) [00-M-0085](https://clinicalstudies.info.nih.gov/protocoldetails.aspx?id=00-M-0085&&query=M)
+	2) [11-M-0251](https://clinicalstudies.info.nih.gov/ProtocolDetails.aspx?id=11-M-0251)
+
+These data were acquired between October, 2018 and September, 2023 at NIMH in Bethesda, Maryland.
+
+## Dataset summary
+
+The dataset contains a total of 135 participants and 244 sessions. Every participant has a minimum of 1 session and maximum of 6 sessions. On average, each participant has about 2 sessions of data. 
+
+The youngest participant is aged 8 years old and the oldest is aged 55 years. The median age of participants in the dataset is 16 years. 
+
+### Subjects
+
+Participants were screened for eligibility based on history and physical examination by a clinician, by routine laboratory testing, and by a radiologist-reviewed MRI examination. Participants 18 or older and parents of minor participants provided written informed consent, and minor children provided assent.
+
+### Apparatus
+
+These data were acquired on a GE MR-750 3T MRI scanner on the NIH main campus at Bethesda, MD.
+
+For more information regarding this dataset, please contact Dr.Karen Berman, [bermank@mail.nih.gov](mailto:bermank@mail.nih.gov) , https://orcid.org/0000-0002-3715-2978
+
+

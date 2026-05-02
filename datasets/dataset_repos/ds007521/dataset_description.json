@@ -1,0 +1,17 @@
+{
+    "Name": "The effect of hunger and state preferences on the neural processing of food images",
+    "BIDSVersion": "1.0.2",
+    "License": "CC0",
+    "Authors": [
+        "Moerel, Denise",
+        "Chenh, Cecilia",
+        "Bowman, Sophie",
+        "Carlson, Thomas"
+    ],
+    "Acknowledgements": "The authors acknowledge the University of Sydney HPC service for providing High Performance Computing resources.",
+    "Funding": [
+        "ARC DP200101787 (TAC)"
+    ],
+    "HowToAcknowledge": "Moerel, D., Chenh, C., Bowman, S. A., & Carlson, T. A. (2025). The effect of hunger and state preferences on the neural processing of food images. bioRxiv, 2025-09.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007521.v1.0.1"
+}

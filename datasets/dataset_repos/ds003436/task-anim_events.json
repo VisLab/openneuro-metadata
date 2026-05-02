@@ -1,0 +1,16 @@
+{
+  "rt": {
+    "Description": "reaction times",
+	"Units": "ms"
+  },
+  "response": {
+    "Description": "response selected: mental/random/notsure"
+  },
+  "acc": {
+    "Description": "accuracy",
+    "Levels": {"1": "correct", "0": "incorrect"}
+  },
+  "type": {
+    "Description": "animation type: mental/random"
+  }
+}

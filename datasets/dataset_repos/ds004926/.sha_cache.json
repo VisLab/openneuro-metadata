@@ -1,0 +1,23 @@
+{
+  "README": "488b772aa59ff3f53824eda1c307926aa917cb02",
+  "CHANGES": "cc65c9edea48bba3219867df1a9225bb213c8066",
+  "task-heat_bold.json": "59e7077cf9807db3537fd34826d3533b2828fc29",
+  "dataset_description.json": "f6683d05fdb9cda28ed7c3f0e273dafbf9ba5d0b",
+  "participants.tsv": "9c83767c07ed48e51e8f294709af396d9ad24266",
+  "sub-01/ses-01/func/sub-01_ses-01_task-heat_acq-te25_run-04_events.json": "7c8dd6255fc04e72cc5c790c5e43fc9d26dcaab4",
+  "sub-01/ses-01/func/sub-01_ses-01_task-heat_acq-te40ReliabilityRun_run-01_events.json": "7c8dd6255fc04e72cc5c790c5e43fc9d26dcaab4",
+  "sub-01/ses-01/func/sub-01_ses-01_task-heat_acq-te25_run-04_events.tsv": "a6c1a88d6a6ea530d76a2728003b416ea9e0e839",
+  "sub-01/ses-01/func/sub-01_ses-01_task-heat_acq-te50_run-02_events.tsv": "fac62a927818ff00707c7cb195da33f7bc8c6f8f",
+  "sub-01/ses-01/func/sub-01_ses-01_task-heat_acq-te35_run-05_events.tsv": "91aac21d8fc1a8bfabb8378efe881855ca24186b",
+  "sub-01/ses-01/func/sub-01_ses-01_task-heat_acq-te45_run-03_events.json": "7c8dd6255fc04e72cc5c790c5e43fc9d26dcaab4",
+  "sub-01/ses-01/func/sub-01_ses-01_task-heat_acq-te50_run-02_events.json": "7c8dd6255fc04e72cc5c790c5e43fc9d26dcaab4",
+  "sub-01/ses-01/func/sub-01_ses-01_task-heat_acq-te45_run-03_events.tsv": "b0e79bca62faca8a894e2489e98d016d7a973ceb",
+  "sub-01/ses-01/func/sub-01_ses-01_task-heat_acq-te35_run-05_events.json": "7c8dd6255fc04e72cc5c790c5e43fc9d26dcaab4",
+  "sub-01/ses-01/func/sub-01_ses-01_task-heat_acq-te40ReliabilityRun_run-01_events.tsv": "04d37f9d122d535c7b5fe787b864f65ad4844da9",
+  "sub-01/ses-02/func/sub-01_ses-02_task-heat_acq-te30_run-04_events.json": "7c8dd6255fc04e72cc5c790c5e43fc9d26dcaab4",
+  "sub-01/ses-02/func/sub-01_ses-02_task-heat_acq-te40ReliabilityRun_run-01_events.json": "7c8dd6255fc04e72cc5c790c5e43fc9d26dcaab4",
+  "sub-01/ses-02/func/sub-01_ses-02_task-heat_acq-te55_run-03_events.json": "7c8dd6255fc04e72cc5c790c5e43fc9d26dcaab4",
+  "sub-01/ses-02/func/sub-01_ses-02_task-heat_acq-te55_run-03_events.tsv": "6588e0c5fb7de5448a8f4e81335c6da419750bbe",
+  "sub-01/ses-02/func/sub-01_ses-02_task-heat_acq-te30_run-04_events.tsv": "e9bd4868e48a3bc9ad1c232235061b99e5e5987c",
+  "sub-01/ses-02/func/sub-01_ses-02_task-heat_acq-te40ReliabilityRun_run-01_events.tsv": "e531846e7c06cd02f2a4f56d11f0bb6f560e76a2"
+}

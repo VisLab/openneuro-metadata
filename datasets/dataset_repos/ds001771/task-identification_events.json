@@ -1,0 +1,6 @@
+{
+    "file": "File name of the stimuli",
+    "answer": "Answer given by the subject using the keyboard",
+    "expected_answer": "Expected answer",
+    "reaction_time": "Time between end of the stimuli and answer of the subject"
+}

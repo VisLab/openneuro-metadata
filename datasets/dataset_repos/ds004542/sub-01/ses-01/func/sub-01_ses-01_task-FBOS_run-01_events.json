@@ -1,0 +1,27 @@
+{
+    "onset": {
+        "LongName": "Stimulus onset time",
+        "Description": "Time of the stimulus onset in seconds relative to the beginning of the experiment t=0."
+    },
+    "duration": {
+        "LongName": "Stimulus duration",
+        "Description": "Duration of the stimulus presentation in seconds."
+    },
+    "trial_type": {
+        "LongName": "Stimulus condition type",
+        "Description": "The condition of the stimulus being presented in a given block",
+        "Levels": {
+            "Faces": "Videos of faces of children making different expressions.",
+            "Bodies": "Videos of the bodies of children as they move.",
+            "Objects": "Videos of toys moving.",
+            "Scenes": "Videos of scenes with movement from panning or motion in the scene."
+        }
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "Version 10.0 (Build 19043)",
+        "SoftwareName": "Psychtoolbox",
+        "SoftwareRRID": "SCR_002881",
+        "SoftwareVersion": "3.0.17",
+        "MATLABVersion": "9.10.0.1710957 (R2021a) Update 4"
+    }
+}

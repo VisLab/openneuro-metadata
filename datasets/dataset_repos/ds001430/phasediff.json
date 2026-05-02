@@ -1,0 +1,10 @@
+{
+	"EchoTime1": 0.00437,
+	"EchoTime2": 0.00683,
+	"PhaseEncodingLines": 64,
+	"BandwidthPerPixelPhaseEncode": 40.064,
+	"EffectiveEchoSpacing": 0.000390001,
+	"TotalReadoutTime": 0.0241801,
+	"AccelFactPE": 2,
+	"TrueEchoSpacing": 0.000780002
+}

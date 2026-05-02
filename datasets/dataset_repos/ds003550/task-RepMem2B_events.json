@@ -1,0 +1,36 @@
+{
+    "stimulus": {
+            "CSnegFt": {"Description": "conditioned stimulus negative [CS+]; picture of FACE associated with shock [Unconditioned stimulus, US]. Target --> never actually reinforced"},
+            "CSnegHt": {"Description": "conditioned stimulus negative [CS+]; picture of HOUSE associated with shock [Unconditioned stimulus, US]. Target --> never actually reinforced"},
+            "CSminFt": {"Description": "conditioned stimulus safe [CS-]; picture of FACE never followed by shock [Unconditioned stimulus, US]. Target"},
+            "CSminHt": {"Description": "conditioned stimulus safe [CS-]; picture of HOUSE never followed by shock [Unconditioned stimulus, US]. Target"},
+            "CSnegFf": {"Description": "conditioned stimulus negative [CS+]; picture of FACE associated with shock [Unconditioned stimulus, US]. Filler  --> reinforced"},
+            "CSnegHf": {"Description": "conditioned stimulus negative [CS+]; picture of HOUSE associated with shock [Unconditioned stimulus, US]. Filler --> reinforced"},
+            "CSminFf": {"Description": "conditioned stimulus safe [CS-] picture of FACE never followed by shock [Unconditioned stimulus, US]. Filler"},
+            "CSminHf": {"Description": "conditioned stimulus safe [CS-] picture of HOUSE never followed by shock [Unconditioned stimulus, US]. Filler"},
+            "USneg": {"Description": "shock [negative Unconditioned Stimulus, US]"},
+            "CSneutFt": {
+                "Description": "conditioned stimulus neutral [CS+neut]; picture of FACE associated with neutral sound [neutral Unconditioned stimulus, USneut]. Target --> never actually reinforced"
+            },
+            "CSneutHt": {
+                "Description": "conditioned stimulus neutral [CS+neut]; picture of HOUSE associated with neutral sound [neutral Unconditioned stimulus, USneut]. Target --> never actually reinforced"
+            },
+            "CSneutFf": {
+                "Description": "conditioned stimulus neutral [CS+neut]; picture of FACE associated with neutral sound [neutral Unconditioned stimulus, USneut]. Target --> Filler --> reinforced"
+            },
+            "CSneutHf": {
+                "Description": "conditioned stimulus neutral [CS+neut]; picture of HOUSE associated with neutral sound [neutral Unconditioned stimulus, USneut]. Target --> Filler --> reinforced"
+            },
+            "USneut": {
+                "Description": "neutral sound [neutral Unconditioned Stimulus, USneut]"
+            }
+        },
+    "onset": {
+        "Description": "onset of the stimulus",
+        "Unit": "seconds"
+        },
+    "duration": {
+        "Description": "duration of the stimulus",
+        "Unit": "seconds"
+        }
+}

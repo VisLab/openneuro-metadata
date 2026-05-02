@@ -1,0 +1,27 @@
+{
+    "Name": "A densely sampled fMRI dataset for investigating food valuation",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Michiyo Sugawara",
+        "Yoko Mano",
+        "Yuhi Aoki",
+        "Koki Nakaya",
+        "Yuma Matsuda",
+        "Asako Toyama",
+        "Shinsuke Suzuki"
+    ],
+    "HowToAcknowledge": "Please cite the paper https://www.biorxiv.org/content/10.64898/2026.02.12.705636v1",
+    "GeneratedBy": [
+        {
+            "Name": "dcm2bids",
+            "Version": "3.2.0"
+        }
+    ],
+    "SourceDatasets": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007267.v1.0.1",
+    "Funding": [
+        "Test"
+    ]
+}

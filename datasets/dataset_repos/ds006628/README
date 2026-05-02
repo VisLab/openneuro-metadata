@@ -1,0 +1,17 @@
+This dataset contains structural (T1w) and functional MRI data from participants performing three tasks:
+- Response task
+- Feature task
+- Dimension task
+
+Acquisition parameters:
+- Scanner: Siemens Magnetom Prisma 3T
+- Functional TR: 2.0s, voxel size: 3mm isotropic
+- T1w: 1mm isotropic
+
+Participants:
+- Healthy young adults (N = 53)
+- Excluded 11 participants from the analysis (final N = 42)
+
+Notes:
+- Localizer scans were excluded from the BIDS dataset.
+- All functional runs used the AP phase-encoding direction.

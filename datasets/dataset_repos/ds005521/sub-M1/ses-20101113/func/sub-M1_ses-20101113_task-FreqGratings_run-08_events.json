@@ -1,0 +1,24 @@
+{
+  "onset": {
+    "Description": "The onset of the event.",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "The duration of the event.",
+    "Units": "seconds"
+  },
+  "colors": {
+    "Description": "The colors shown during the event.",
+    "Levels": {
+      "Gray": "Gray",
+      "Red Green": "Red Green",
+      "Blue Yellow": "Blue Yellow",
+      "Black White": "Black White high",
+      "Black White low": "Black White low"
+    }
+  },
+  "frequency": {
+    "Description": "The gratings frequency of the colors shown.",
+    "Units": "Cycles per degree"
+  }
+}

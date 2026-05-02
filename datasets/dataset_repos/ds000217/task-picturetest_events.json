@@ -1,0 +1,49 @@
+{
+
+	"route_number": {
+		"LongName": "Route number",
+		"Description": "The route-unique number. In each experiment two sets of routes were used across participants. Group 1 subjects learned routes 1-4 and Group 2 subjects learned routes 5-8. See participant list for each subjects group number."
+	},	 
+	"destination": {
+		"LongName": "Route Destination",
+		"Description": "The destination of the route."
+	},	 
+	"pic_num": {
+		"LongName": "Picture Number",
+		"Description": "The picture number tested"
+	}, 
+	"segment": {
+		"LongName": "Route segment",
+		"Description": "The segment number of each route to which the picture belonged. Each route contained an initial segment that was shared with another route (Segment 1), and a later segment, including the destination, that was route-specific (Segment 2).",
+		"Levels": {
+			"1": "Pictures in the route that occured before or during the third turn in the route.",
+			"2": "Pictures in the route that occured after the third turn in the route."
+		}
+	},	 
+	"response": {
+		"LongName": "Response",
+		"Description": "The participants selection of the destination for that trial"
+	},
+	"response_time": {
+		"LongName": "Response time",
+		"Description": "Participants response time. Participants had unlimited time to respond.",
+		"Units": "seconds"
+	},
+	"response_type": {
+		"LongName": "Response type",
+		"Description": "Responses on each trial were categorized based on the subjects destination choice.",
+		"Levels": {
+			"target": "correct selection of the destination",
+			"competitor": "selection of the overlapping route's destination",
+			"other": "selection of one of the non-overlapping routes' destinations."
+		}	
+	}, 
+	"hits": {
+		"LongName": "Hits",
+		"Description": "Binary value representing wether the participant correctly selected the route's destination",
+		"Levels": {
+			"0": "Incorrect",
+			"1": "Correct"
+		}
+	}
+}

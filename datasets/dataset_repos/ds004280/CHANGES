@@ -1,0 +1,4 @@
+1.0.1 2022-12-14
+  - The problem with the files sub-01_task-hyper_run03_bold.nii and sub-01_task-hyper_run07_bold.nii is now fixed.
+1.0.0 2022-09-27
+  - First version

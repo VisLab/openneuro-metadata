@@ -1,0 +1,7 @@
+Each trial began with a fixation dot presented for a jittered intertrial interval (ITI) between 600 and 1000 ms.
+The first memory screen (1000 ms) showed two objects on one lateral side that participants were instructed to memorize (indicated by a wedge cue), and two objects on the opposite side to balance visual input.
+Depending on the block condition, the to-be-memorized objects on the first screen could be studied (learned in the learning phase) or novel/unstudied.
+After a 1400 ms interstimulus interval, a second memory screen (1000 ms) presented additional items vertically around fixation (one above and one below fixation); these items were always novel/unstudied and were placed near fixation to avoid influencing lateral EEG indices from the first screen.
+In the extra-load expectation condition, additional second-screen items appeared on 80% of trials (and were omitted on 20% of trials), whereas in the low-load expectation condition this probability was reversed (20% appear, 80% omitted).
+After a 400 ms interstimulus interval, a probe from either the first or second memory screen was presented and participants reported the probed object's color by moving the mouse; the probe color updated continuously along an invisible color wheel whose orientation was randomly rotated on each trial.
+After the response, absolute angular error feedback was displayed for 400 ms; for studied objects, if the error exceeded 40°, the correct color was displayed for 1000 ms as corrective feedback.

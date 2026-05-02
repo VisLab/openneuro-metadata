@@ -1,0 +1,27 @@
+{
+    "onset": {
+        "LongName": "",
+        "Description": "Onset of the syntactic decision stimulus sequence. There are 8 stimuli per sequence, and a response is requested at the end of the sequence. There are three stimulus sequences per block. The onset of each sequence is recorded.",
+        "Units": "seconds"
+    },
+    "duration": {
+        "LongName": "",
+        "Description": "Duration of the syntactic decision stimulus sequence",
+        "Units": "seconds"
+    },
+    "RT": {
+        "LongName": "reaction time",
+        "Description": "Time taken from presentation of ? at the end of the sequence to button press response",
+        "Units": "seconds"
+    }
+    ,
+    "accuracy": {
+        "LongName": "",
+        "Description": "Accuracy of response",
+        "Levels": {
+            "1": "correct",
+            "0": "incorrect",
+            "NaN": "no response detected"
+        }
+    }
+}

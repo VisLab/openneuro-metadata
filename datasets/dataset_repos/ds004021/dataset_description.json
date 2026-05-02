@@ -1,0 +1,13 @@
+{
+    "BIDSVersion": "1.2.0",
+    "Name": "Visuomotor Rotation Adaptation Experiment",
+    "Authors": [
+        "Dominic Standage",
+        "Joseph Y. Nashed",
+        "J. Randall Flanagan",
+        "Jason. P Gallivan"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004021.v1.0.1",
+    "License": "CC0",
+    "HowToAcknowledge": "Standage, D., Nashed, J.Y., Flanagan, J.R., and Gallivan J.P.,  (2022). Visuomotor Rotation Adaptation Experiment. OpenNeuro. [Dataset] doi:10.18112/openneuro.ds004021.v1.0.0"
+}

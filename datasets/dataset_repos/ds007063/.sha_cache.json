@@ -1,0 +1,14 @@
+{
+  "participants.json": "91d8952da11d019f2ceaa391098f78cdb46a7d0a",
+  "dataset_description.json": "d1ffc38566b758ca364772d9f087e17a880cc989",
+  "CHANGES": "4f78650ae65b78cdff7d62458ce34b66b3f1dd4b",
+  "participants.tsv": "3ecaf73c0aec59c3f421aa341aee43ad21dea089",
+  "task-expo_bold.json": "ff0d0af3470d09a2198b31c37e03a280bc1ef54f",
+  "task-expo_events.json": "414a3fc3e77680c10cc1cce9d0efb35d8db557d5",
+  "dcm2bids_config.json": "9b9d388fde35d325a74f253640e23505c66d7401",
+  "README": "cedb44d185c005756c30b4e598a00764beaa0acd",
+  "sub-1/func/sub-1_task-expo_run-3_events.tsv": "6dcafecfbc0b4a322675232c2fba624f2a0bcd3b",
+  "sub-1/func/sub-1_task-expo_run-4_events.tsv": "3e58dc58d68d440ed70353dd99c0714c5bda7a17",
+  "sub-1/func/sub-1_task-expo_run-1_events.tsv": "506aa0599ca69bf8dd86e4a3bdd2188647586043",
+  "sub-1/func/sub-1_task-expo_run-2_events.tsv": "b08446a6e8b12fc80e7da5d9c78c3c6d0e62294f"
+}

@@ -1,0 +1,75 @@
+{
+  "trial_type" : {
+    "Description" : "Category of the trial presented to the participant.",
+    "Levels" : {
+      "FIXCROSS" : "Fixation cross display; no stimuli were presented and the participant remained passive.",
+      "RESPONSE" : "Event marking the participant’s behavioral response, during which they indicated the perceived color or meaning depending on task instructions.",
+      "ITI" : "Inter-trial interval during which a blank screen was presented between the participant’s response and the onset of the fixation cross announcing the next trial.",
+      "INK" : "Participant was instructed to report the color of the displayed word or character string, regardless of its semantic content.",
+      "COLOR_NAME" : "Participant was instructed to report the meaning (semantic content) of the displayed word, regardless of its color.",
+      "FEEDBACK" : "Feedback presented after the participant’s response, indicating correctness; these trials were shown only during the training phase.",
+      "T_INK" : "Training trial for the INK condition, in which the participant reported the color of the displayed word or character string.",
+      "T_COLOR_NAME" : "Training trial for the COLOR_NAME condition, in which the participant reported the semantic meaning of the displayed word."
+    }
+  },
+  "trial_number" : {
+    "Description" : "Index of the trial within the task (starting at 1)."
+  },
+  "stroop_condition" : {
+    "Description" : "Condition type in the Stroop task describing the relationship between the color and semantic content of the stimulus.",
+    "Levels" : {
+      "Congruent" : "The color of the word matched its semantic meaning.",
+      "Incongruent" : "The color of the word conflicted with its semantic meaning.",
+      "Neutral" : "Control condition where the word is printed in black ink (INK condition) or there is no color name but a series of Xs (color name condition)"
+    }
+  },
+  "stim_text(PL)" : {
+    "Description" : "Text content of the stimulus presented, in the participant’s native language (Polish)."
+  },
+  "stim_text(eng)" : {
+    "Description" : "Text content of the stimulus presented, translated into English."
+  },
+  "stim_color(PL)" : {
+    "Description" : "Name of the color in which the stimulus text was displayed, in the participant’s native language (Polish)."
+  },
+  "stim_color(eng)" : {
+    "Description" : "Name of the color in which the stimulus text was displayed, translated into English.."
+  },
+  "response_type" : {
+    "Description" : "Classification of the participant’s behavioral response.",
+    "Levels" : {
+      "incorrect" : "Participant’s response did not match the correct color or semantic meaning according to task instructions.",
+      "hit" : "Participant responded correctly according to task instructions.",
+      "miss" : "Participant did not respond."
+    }
+  },
+  "response_color" : {
+    "Description" : "Color indicated by the participant as their response."
+  },
+  "TaskName" : "Stroop task",
+  "CogAtlasID" : "https://www.cognitiveatlas.org/id/tsk_4a57abb949e27",
+  "TaskDescription" : "The task was based on the Stroop task available in the Presentation software. It consisted of two distinct block types: ink blocks and colour name blocks. In the ink blocks, participants were instructed to identify the ink colour of the presented stimuli. In contrast, during colour name blocks, the participant’s task was to identify the written colour name itself. Stimuli were presented using four target colours (red, green, blue, or yellow). Control stimuli in ink blocks consisted of strings of Xs instead of words, whereas control stimuli in colour name blocks were written in black ink. The experiment comprised six blocks in total—three ink blocks and three colour name blocks—presented alternately. Each block consisted of 72 trials, evenly divided into incongruent and neutral conditions. Individual trials began with a fixation cross displayed for 500 ms, followed by the stimulus presented until a response was given or until a maximum duration of 5000 ms elapsed. Trials were separated by an empty inter-trial interval of 1000 ms. Before the main experimental phase, participants completed a practice run containing 12 trials per block type, during which feedback was provided.",
+  "Instructions" : "The instructions were delivered in Polish; the text below is a translation. Ink Instructions: In this part of the experiment, your task is to identify the color of the letters in the word displayed on the screen. In each trial, a word will appear in the center of the screen in one of four possible colors. Your task is to identify the color and press the corresponding button. Be careful: sometimes the displayed words will themselves name a color. Always ignore the meaning of the words. Your only task is to recognize the COLOR of the letters presented (not their meaning). The sequence of events in a single trial will be as follows: a small fixation cross will appear in the center of the screen; after a short pause, letters will appear on the screen. As quickly as you can, identify the COLOR of the letters presented: If the color is red, press the red button. If the color is green, press the green button. If the color is blue, press the blue button. If the color is yellow, press the yellow button. When you are ready, press the middle button to begin. Complete a few practice trials first. Color name Instructions: In this part of the experiment, your task will be to identify the meaning of the WORD. In each trial, you will see in the center of the screen a word naming a color. Your task is to identify which color the word refers to and press the corresponding button on the keypad. Be careful: sometimes the words may be presented in different colors. Always ignore the color in which the word is displayed. Your only task is to identify the meaning of the word formed by the letters. The sequence of events in a single trial will be as follows: a small fixation cross will appear in the center of the screen; after a short pause, letters will appear on the screen. As quickly as you can, identify the meaning of the WORD. If the word is red, press the red button. If the word is green, press the green button. If the word is blue, press the blue button. If the word is yellow, press the yellow button. When you are ready, press the middle button to begin.",
+  "StimulusPresentation" : {
+    "OperatingSystem" : "Windows 10 Pro ",
+    "ScreenOrigin" : [
+      "center",
+      "center"
+    ],
+    "ScreenRefreshRate" : 60,
+    "ScreenResolution" : [
+      1920,
+      1080
+    ],
+    "ScreenSize" : [
+      0.596,
+      0.335
+    ],
+    "SoftwareName" : "Presentation",
+    "SoftwareRRID" : "RRID:SCR_002521",
+    "SoftwareVersion" : "v 23.1 build 09.29.22"
+  },
+  "InstitutionName" : "Nencki Institute of Experimental Biology PAS",
+  "InstitutionalDepartmentName" : "Laboratory of Brain Imaging",
+  "InstitutionAddress" : "3 Pasteur street, 02-093 Warsaw, Poland"
+}

@@ -1,0 +1,56 @@
+{
+  "cue_type": {
+    "Description": "What type of cue is bing presented"
+  },
+  "current_mean_accuracy": {
+    "Description": "Accuracy as of the end of this trial as a fraction between 0 and 1"
+  },
+  "duration": {
+    "Description": "Time in miliseconds that this phase of the trial is presented"
+  },
+  "duration_error": {
+    "Description": "Milliseconds of error in the duration"
+  },
+  "is_hit": {
+    "Description": "Did the subject respond in time on this trial"
+  },
+  "isi_adjusted": {
+    "Description": "Calculated ISI to follow this trial"
+  },
+  "onset": {
+    "Description": "Time the draw command on the monitor starts in miliseconds"
+  },
+  "onset_delay": {
+    "Description": "Difference between onset time and intended display time."
+  },
+  "response": {
+    "Description": "Value of the key response. 5.0 during the Feedback phase represents the scanner sync pulse."
+  },
+  "response_type": {
+    "Description": "How was their response categorized. One of ['NoResponse', 'GoodResponse', 'PrematurePress', 'LatePress']"
+  },
+  "reward": {
+    "Description": "Number of points recieved in this trial"
+  },
+  "rt": {
+    "Description": "Reaction time in miliseconds. During the Feedback phase this is the time between the start of the phase and receiving the next sync pulse"
+  },
+  "rt_time": {
+    "Description": "Time of the response in miliseconds since the start of the scan"
+  },
+  "total_reward": {
+    "Description": "Total reward in points as of the end of this trial."
+  },
+  "trial_type": {
+    "Description": "Categorization of the trial on the basis of the cue type and the result"
+  },
+  "trial_phase": {
+    "Description": "Which phase of the trial does this event represent"
+  },
+  "trial_number": {
+    "Description": "Trial number this event is related to"
+  },
+  "one_press": {
+    "Description": "Did the participant hit the button once and only once during this trial"
+  }
+}

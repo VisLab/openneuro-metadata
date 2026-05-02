@@ -1,0 +1,14 @@
+{
+  "task-visualoddballwithbuttonresponsetotargetstimuli_bold.json": "3d283ace917a8283bea217cae81d4bfd61d62802",
+  "CHANGES": "d1194f02b2d0aa9177a9bae3115c15b33b94cbda",
+  "task-auditoryoddballwithbuttonresponsetotargetstimuli_bold.json": "aa2ec70ae25bade3cf3f7ff7cc5e6f4e8f1d54f5",
+  "participants.tsv": "8416c781b5e86158e7122e5cabf4f83ba126f0b1",
+  "README": "5d0b79a45156e364a38c83b577784bb6b21e4f49",
+  "dataset_description.json": "0404c8dd28ff903eb83438f568470c69c64afebd",
+  "sub-01/func/sub-01_task-visualoddballwithbuttonresponsetotargetstimuli_run-02_events.tsv": "cc68dc557881541ea30d5cda8fbccb652a2a0bd6",
+  "sub-01/func/sub-01_task-auditoryoddballwithbuttonresponsetotargetstimuli_run-01_events.tsv": "5fc3a7ba611a11c26f639c37871253a69ab7bbac",
+  "sub-01/func/sub-01_task-visualoddballwithbuttonresponsetotargetstimuli_run-01_events.tsv": "fd801bfeee568fabdc59c16e5431b7c02482de7a",
+  "sub-01/func/sub-01_task-auditoryoddballwithbuttonresponsetotargetstimuli_run-03_events.tsv": "25b81ae17e0288bba4b140eca80f3a76e27e556b",
+  "sub-01/func/sub-01_task-visualoddballwithbuttonresponsetotargetstimuli_run-03_events.tsv": "4179344fa87b314358c58505ce07f13b783fdad5",
+  "sub-01/func/sub-01_task-auditoryoddballwithbuttonresponsetotargetstimuli_run-02_events.tsv": "5444f31595b332b267bf7710952a7198a424f8de"
+}

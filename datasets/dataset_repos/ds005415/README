@@ -1,0 +1,1 @@
+Welcome to the numbers dataset. These data were collected using stereoelectroencephalography recordings of epilepsy patients while they were waiting on the epilepsy monitoring unit to have seizures at Oregon Health & Science University. They were shown auditory and visual numbers that were symbolic (Arabic + spoken) or non-symbolic (dots + beeps).

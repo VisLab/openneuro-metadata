@@ -1,0 +1,59 @@
+{
+    "onset": {
+        "LongName": "Trial onset time.",
+        "Description": "Trial onset time in seconds, relative to first data point stored in this file. For Stroop task trials, the first trial starts after a 2 second pre-run ramp up period. Likewise, there was a 10 second cool down period at the end of the scan (after the last trial). Additionally, there was a 2.5 second delay period to start every trial (fixation). Depending on research question, these timings should be considered when linking with fMRI data (e.g., may want to drop first 2.5 TRs and last 12.5 TRs of neuroimaging data). Lastly, varISI is built into duration such that any time remaining after response_time is based on varISI."
+    },
+    "duration": {
+        "LongName": "Duration of trial.",
+        "Description": "Duration of the given trial in seconds."
+    },
+    "accuracy_binarized": {
+        "LongName": "Performance accuracy.",
+        "Description": "Performance accuracy for the given trial, binarized. Note that 0 indicates error, which is either incorrect or non-response. See NaNs in response_time column for non-responses.",
+        "Levels": {
+            "0": "Error trial. Either incorrect or non-response.",
+            "1": "Correct trial."
+        }
+    },
+    "response_time": {
+        "LongName": "Response time.",
+        "Description": "Response time to the given trial in seconds, relative to trial onset. NaN indicates non-responses."
+    },
+    "stimulus_color": {
+        "LongName": "Color of stroop stimuli.",
+        "Description": "Color of the word shown on the given trial (sometimes called ink color).",
+        "Levels": {
+            "blue": "The word shown in blue ink.",
+            "green": "The word shown in green ink.",
+            "red": "The word shown in red ink."
+        }
+    },
+    "stimulus_text": {
+        "LongName": "Text of stroop stimuli.",
+        "Description": "Word that is written out on the given trial.",
+        "Levels": {
+            "blue": "The word blue written out.",
+            "green": "The word green written out.",
+            "red": "The word red written out."
+        }
+    },
+    "tr_seconds": {
+        "LongName": "Repetition time (TR).",
+        "Description": "TR for this scan, which should be the same for every trial. Useful for mapping between fMRI data (given in TRs) and task event data in corresponding tsv (given in s)."
+    },
+    "trial_type": {
+        "LongName": "Stroop condition.",
+        "Description": "Whether the word-text and word-color shown on the given trial are congruent (con) or incongruent (inc).",
+        "Levels": {
+            "con1": "Congruent condition 1: red word-text written in red color ink.",
+            "con2": "Congruent condition 2: green word-text written in green color ink.",
+            "con3": "Congruent condition 3: blue word-text written in blue color ink.",
+            "inc1": "Incongruent condition 1: green word-text written in red color ink.",
+            "inc2": "Incongruent condition 2: blue word-text written in red color ink.",
+            "inc3": "Incongruent condition 3: red word-text written in green color ink.",
+            "inc4": "Incongruent condition 4: blue word-text written in green color ink.",
+            "inc5": "Incongruent condition 5: red word-text written in blue color ink.",
+            "inc6": "Incongruent condition 6: green word-text written in blue color ink."
+        }
+    }
+}

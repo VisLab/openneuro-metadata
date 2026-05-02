@@ -1,0 +1,29 @@
+## Developmental Dataset
+
+This dataset accompanies the developmental dataset titled "Reward and Working Memory in Attention Deficit Hyperactivity Disorder (ADHD)" located at
+https://openneuro.org/datasets/ds002424 DOI: 10.18112/openneuro.ds002424.v1.1.0
+
+## Experimental Design
+
+This experiment was implemented in E-prime following the design described in the
+task-<task>_bold.json files
+
+## Known Issues
+
+* The following scans contained different timing for fixation cross trials, 1200 ms black cross, 600 ms red or black cross, 200 ms black cross:
+    * sub-1501_task-SLD
+    * sub-1501_task-SLI
+    * sub-1501_task-SSD
+    * sub-1501_task-SSI
+    * sub-1501_task-VLD
+    * sub-1501_task-VLI
+    * sub-1501_task-VSD
+    * sub-1501_task-VSI
+    * sub-1503_task-SLD
+    * sub-1505_task-SLD
+
+* Fixation blocks for sub-1501 contained 24 trials each rather than the typical 12
+
+## Defacing
+
+Anatomical images were defaced according to procedure described in Lytle, McNorgan, & Booth (2019) (https://doi.org/10.1038/s41597-019-0338-5)

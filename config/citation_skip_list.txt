@@ -1,0 +1,77 @@
+# Citation skip-list — patterns matched as case-insensitive substrings
+# against the lowered raw link.  A link matching any pattern below is
+# classified as `not_a_citation` and never receives a `pub_id`.
+#
+# Lines beginning with `#` are comments.  Blank lines are ignored.
+# One pattern per line.  Patterns are case-insensitive substrings.
+#
+# Source: src/collect_citations.py inline list, externalised
+# 2026-05-03 (Phase 2 Session 2A).  Spec:
+# .status/citation_id_design_v2.md §2.4 and v1 §B.2.
+#
+# When adding a pattern: prefer the most specific substring that
+# distinguishes the host from real citation hosts.  Avoid overly
+# generic patterns (e.g. ".org") that would over-match.
+
+# OpenNeuro itself + dataset-DOI prefix (the dataset DOIs are not
+# the publication DOIs; we don't want them in the publication catalog).
+openneuro.org/datasets/ds
+doi:10.18112/openneuro.
+openneuro.org
+nemar.org
+
+# Code/data hosting and version control
+github.com
+raw.githubusercontent.com
+figshare.com
+datasets.datalad.org
+
+# HED tooling
+hedtags.org
+
+# Neuroimaging tools, software, and toolboxes
+fieldtriptoolbox.org
+surfer.nmr.mgh.harvard.edu
+biosemi.com
+www.psychopy.org
+www.bci2000.org
+fmriprep.org
+www.lead-dbs.org
+conn-toolbox.org
+neuroimage.usc.edu
+www.neurobs.com
+
+# Computing / cluster providers
+hpc.nih.gov
+cbrain.ca
+computecanada.com
+tacc.utexas.edu
+anaconda.com
+
+# Generic license/legal/anchor pages
+/licenses/
+/norms/
+/publicdomain/
+/#donors
+
+# Misc data sources / project pages (not publication URLs)
+openfmri.org
+nda.nih.gov
+image-net.org
+studyforrest.org
+masslifesciences.com
+vpnl.stanford.edu
+ninds.nih.gov
+ctss.nih.gov
+
+# Software/language ecosystems
+r-project.org
+mathworks.com
+
+# Misc forums, video, support pages
+www.neurostars.org
+youtu.be
+youtube.com
+cancta.net
+bugzilla
+nwo.nl

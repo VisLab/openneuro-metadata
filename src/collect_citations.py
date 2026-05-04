@@ -61,53 +61,18 @@ def should_skip_link(link):
     Returns:
         bool: True if the link should be skipped, False otherwise.
     """
-    skip_patterns = [
-        'openneuro.org/datasets/ds',
-        'doi:10.18112/openneuro.',
-        'nemar.org',
-        'github.com',
-        'figshare.com',
-        'hedtags.org',
-        'fieldtriptoolbox.org',
-        'youtu.be',
-        'surfer.nmr.mgh.harvard.edu',
-        'biosemi.com',
-        'raw.githubusercontent.com',
-        'openfmri.org',
-        '/licenses/',
-        '/norms/',
-        'www.neurostars.org',
-        'hpc.nih.gov',
-        'datasets.datalad.org',
-        '/#donors',
-        'www.bci2000.org',
-        'cancta.net',
-        'nda.nih.gov',
-        'www.psychopy.org',
-        'r-project.org',
-        'openneuro.org',
-        'mathworks.com',
-        'image-net.org',
-        'neuroimage.usc.edu',
-        'bugzilla',
-        'anaconda.com',
-        'studyforrest.org',
-        'cbrain.ca',
-        'computecanada.com',
-        '/publicdomain/',
-        'conn-toolbox.org',
-        'nwo.nl',
-        'tacc.utexas.edu',
-        'fmriprep.org',
-        'youtube.com',
-        'www.lead-dbs.org',
-        'ctss.nih.gov',
-        'vpnl.stanford.edu',
-        'ninds.nih.gov',
-        'www.neurobs.com',
-        'masslifesciences.com'
-    ]
-    
+    # TODO Phase 2C: load skip-list from config/citation_skip_list.txt via
+    # citation_normalize.load_skip_list() and use citation_normalize.is_junk_link.
+    # See .status/instructions/phase2_citation_redesign.md Session 2C.
+    #
+    # The inline skip-list was externalised on 2026-05-03 (Phase 2 Session 2A);
+    # the patterns now live in config/citation_skip_list.txt.  Until Session
+    # 2C wires up the file load, this function is a no-op (returns False for
+    # every link), which means dataset_citations.tsv produced in this gap
+    # will include the junk URLs the skip-list normally drops.  Do not run
+    # collect_citations.py on production data between Sessions 2A and 2C.
+    skip_patterns = []
+
     for pattern in skip_patterns:
         if pattern in link.lower():
             return True

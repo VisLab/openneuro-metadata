@@ -281,62 +281,49 @@ python sort_datasets.py
 
 ---
 
-### Step 8 — Collect and process citation links
+### Step 8 — Collect and assign citation IDs
 
-These steps build a deduplicated catalogue of publication links for every dataset.
+These two steps build a deduplicated catalogue of publication links for every dataset.
+Run them from the **repo root** (not from `src/`).
 
-#### 8a — Collect citation links
+#### 8a — Collect raw citation links
 
-**Script:** `collect_citations.py`
+**Script:** `src/collect_citations.py`
 
 Scans the locally downloaded `dataset_description.json` and README files for URLs and
-DOIs, filtering out known non-citation links (OpenNeuro, GitHub, HED tooling sites,
-etc.).
+DOIs, filtering out known non-citation links via `config/citation_skip_list.txt`.
+Writes raw links only — no IDs are assigned in this step.
 
 ```bash
-python collect_citations.py
+python src/collect_citations.py --write-back
 ```
 
 **Output:** `datasets/dataset_summaries/dataset_citations.tsv`
 
+| Column | Description |
+|--------|-------------|
+| `dataset_id` | `ds######` |
+| `citation_id` | Empty at this stage; filled in by Step 8b |
+| `raw_link` | URL/DOI exactly as found in the source file |
+| `UnlinkedAck` | `yes` if `HowToAcknowledge` has text but no links |
+
 #### 8b — Assign stable citation IDs
 
-**Script:** `add_citation_ids.py`
+**Script:** `src/assign_citation_ids.py`
 
-Assigns a unique `cit_######` identifier to each distinct citation URL.  Identical URLs
-shared across datasets receive the same ID.
-
-```bash
-python add_citation_ids.py
-```
-
-**Output:** `datasets/dataset_summaries/dataset_citations_updated.tsv`
-
-#### 8c — Sort citations to match dataset order
-
-**Script:** `sort_citations.py`
-
-Reorders the citations file to mirror the dataset ordering in
-`dataset_summary_sorted.tsv`.
+Reads the citation registry and the mapping file, assigns the next free `cit_######`
+to any raw link whose canonical key is not yet in the registry, and writes both files
+back.  Re-running on an already-complete registry is a no-op (idempotent).
 
 ```bash
-python sort_citations.py
+python src/assign_citation_ids.py --write-back
 ```
 
-**Output:** `datasets/dataset_summaries/dataset_citations_sorted.tsv`
+**Outputs updated in place:**
 
-#### 8d — Deduplicate citations
-
-**Script:** `eliminate_citation_duplicates.py`
-
-Removes duplicate rows that share the same `citation_id`, keeping only the first
-occurrence.
-
-```bash
-python eliminate_citation_duplicates.py
-```
-
-**Output:** `datasets/dataset_summaries/dataset_citations_deduplicated.tsv`
+- `datasets/dataset_summaries/citation_registry.tsv` — one row per unique publication;
+  new entries are appended with `status = auto` (DOI) or `needs_review` (URL-only).
+- `datasets/dataset_summaries/dataset_citations.tsv` — `citation_id` column filled in.
 
 ---
 
@@ -350,10 +337,9 @@ python eliminate_citation_duplicates.py
 | `dataset_summary.tsv` | `extract_summary_info.py` | Per-dataset statistics template |
 | `dataset_summary_updated.tsv` | `update_summary.py` | Summary enriched with titles, HED versions, link counts |
 | `dataset_summary_sorted.tsv` | `sort_datasets.py` | Summary sorted by HED → links → events → name |
-| `dataset_citations.tsv` | `collect_citations.py` | Raw citation URLs per dataset |
-| `dataset_citations_updated.tsv` | `add_citation_ids.py` | Citations with stable `cit_######` IDs |
-| `dataset_citations_sorted.tsv` | `sort_citations.py` | Citations ordered to match summary |
-| `dataset_citations_deduplicated.tsv` | `eliminate_citation_duplicates.py` | Unique citations only |
+| `dataset_citations.tsv` | `collect_citations.py` + `assign_citation_ids.py` | Raw citation links per dataset with stable `cit_######` IDs |
+| `citation_registry.tsv` | `assign_citation_ids.py` | Citation catalogue — one row per unique publication |
+| `citation_id_collisions.tsv` | `migrate_citations.py` *(one-shot)* | Audit log of IDs collapsed during migration |
 | `download_failures.json` | `sync_local_files.py` | Failed file downloads (set `skip:true` to ignore permanently) |
 
 All files live under `datasets/dataset_summaries/`.  The locally cached dataset files
@@ -372,10 +358,12 @@ are under `datasets/dataset_repos/<repo>/`.
 | `extract_summary_info.py` | Build `dataset_summary.tsv` from `repo_files.json` |
 | `update_summary.py` | Enrich summary with titles, HED versions, and link counts |
 | `sort_datasets.py` | Sort summary by HED → links → events → name |
-| `collect_citations.py` | Extract citation URLs from READMEs and description files |
-| `add_citation_ids.py` | Assign stable `cit_######` IDs to citation URLs |
-| `sort_citations.py` | Reorder citations to match sorted dataset summary |
-| `eliminate_citation_duplicates.py` | Remove duplicate citation rows |
+| `collect_citations.py` | Extract raw citation links from READMEs and description files |
+| `assign_citation_ids.py` | Assign stable `cit_######` IDs; update registry (idempotent) |
+| `migrate_citations.py` | *(One-shot)* Migration from the pre-v2 citation schema |
+| `add_citation_ids.py` | *(Superseded by `assign_citation_ids.py`)* |
+| `sort_citations.py` | *(Superseded by `assign_citation_ids.py`)* |
+| `eliminate_citation_duplicates.py` | *(Superseded by `assign_citation_ids.py`)* |
 | `convert_pdfs.py` | Convert downloaded citation PDFs to Markdown text |
 | `get_repo_files.py` | *(Legacy)* Per-repo REST API file listing |
 | `download_repo_files.py` | *(Legacy)* Download selected files by pattern |

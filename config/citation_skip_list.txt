@@ -26,6 +26,13 @@ raw.githubusercontent.com
 figshare.com
 datasets.datalad.org
 
+# Documentation hosting platforms and documentation URL paths
+readthedocs.io
+github.io
+gitbook.io
+docs.scipy.org
+/documentation
+
 # HED tooling
 hedtags.org
 
@@ -67,6 +74,38 @@ ctss.nih.gov
 # Software/language ecosystems
 r-project.org
 mathworks.com
+
+# Neuroimaging data repositories
+neurovault.org
+balsa.wustl.edu
+gin.g-node.org
+brainlife.io
+search.kg.ebrains.eu
+connectome2.martinos.org
+
+# Grant and clinical registries
+reporter.nih.gov
+grantome.com
+clinicaltrials.gov
+ppmi-info.org
+
+# More neuroimaging tools and software
+afni.nimh.nih.gov
+fsl.fmrib.ox.ac.uk
+mne.tools
+sccn.ucsd.edu
+bids.neuroimaging.io
+histopath.nmr.mgh.harvard.edu
+
+# Additional code hosting
+gitlab.com
+git.fmrib.ox.ac.uk
+pypi.python.org
+pypi.org
+
+# Government / placeholder
+hhs.gov
+example.com
 
 # Misc forums, video, support pages
 www.neurostars.org

@@ -115,7 +115,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.status
+.status/
+.scratch/
 .vscode/settings.json
 
 # Spyder project settings

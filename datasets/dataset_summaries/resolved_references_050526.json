@@ -610,26 +610,26 @@
   {
     "citation_id": "cit_000863",
     "url": "https://osf.io/qxcu8",
-    "status": "supplement",
-    "doi": null,
-    "resolved_url": null,
-    "notes": "OSF repository."
+    "status": "journal_article",
+    "doi": "10.1523/JNEUROSCI.0114-21.2021",
+    "resolved_url": "https://www.jneurosci.org/content/42/3/435",
+    "notes": "OSF repository for article."
   },
   {
     "citation_id": "cit_000871",
     "url": "https://osf.io/z4c62",
-    "status": "supplement",
-    "doi": null,
-    "resolved_url": null,
-    "notes": "OSF repository."
+    "status": "journal_article",
+    "doi": "10.1523/JNEUROSCI.0677-21.2021",
+    "resolved_url": "https://www.jneurosci.org/content/41/40/8375",
+    "notes": "OSF repository for article."
   },
   {
     "citation_id": "cit_000900",
     "url": "https://biorxiv.org/content/early/2023/01/09/2023.01.09.523096",
-    "status": "preprint_only",
-    "doi": null,
-    "resolved_url": null,
-    "notes": ""
+    "status": "journal_article",
+    "doi": "10.1016/j.neuroimage.2023.120222",
+    "resolved_url": "https://www.sciencedirect.com/science/article/pii/S1053811923003737?via%3Dihub",
+    "notes": "OSF repository for article."
   },
   {
     "citation_id": "cit_000902",

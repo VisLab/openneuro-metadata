@@ -1,0 +1,13 @@
+{
+  "DOI": "10.1038/s41597-022-01407-x",
+  "title": ["OpenNeuro: An open resource for sharing of neuroimaging data"],
+  "author": [
+    {"family": "Markiewicz", "given": "Christopher J.", "sequence": "first"},
+    {"family": "Gorgolewski", "given": "Krzysztof J.", "sequence": "additional"}
+  ],
+  "published": {"date-parts": [[2021, 12, 6]]},
+  "published-print": {"date-parts": [[2021, 12, 6]]},
+  "type": "journal-article",
+  "container-title": ["Scientific Data"],
+  "deposited": {"date-time": "2021-12-06T00:00:00Z"}
+}

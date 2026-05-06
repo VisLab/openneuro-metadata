@@ -234,3 +234,49 @@ def test_new_id_follows_existing_max(tmp_path: Path) -> None:
     assert new_count == 1
     new_row = next(r for r in registry if r["doi"] == "10.9999/new")
     assert new_row["citation_id"] == "cit_000043"
+
+
+# ---------------------------------------------------------------------------
+# Test — source_link secondary index (Phase 2D DOI upgrade scenario)
+# ---------------------------------------------------------------------------
+
+def test_source_link_fallback_after_doi_upgrade(tmp_path: Path) -> None:
+    """Registry entry upgraded from URL-only to DOI still matches original raw_link.
+
+    Simulates Phase 2D: a curator added doi='10.1234/xyz' to a registry row
+    that was originally URL-only (url='https://example.com/paper').  The
+    primary key is now ('doi', '10.1234/xyz'); the url column is empty.
+    A mapping row still carries the original raw URL.  Without the source_link
+    secondary index this would be treated as a new link and assigned a
+    duplicate cit_id.
+    """
+    registry_path = tmp_path / "registry.tsv"
+    citations_path = tmp_path / "citations.tsv"
+    skip_path = tmp_path / "skip.txt"
+
+    # Registry entry: doi added post-creation; url cleared; source_link is
+    # the original raw URL that the mapping row still references.
+    _write_registry(registry_path, [{
+        "citation_id": "cit_000001",
+        "doi": "10.1234/xyz",
+        "url": "",
+        "source_link": "https://example.com/paper",
+        "status": "auto",
+        "pub_id": "", "first_author_family": "", "year": "", "title": "",
+        "metadata_source": "", "verified_on": "", "notes": "",
+    }])
+    # Mapping row still has the original URL as raw_link.
+    _write_citations(citations_path, [
+        {"dataset_id": "ds001", "citation_id": "",
+         "raw_link": "https://example.com/paper", "UnlinkedAck": "no"},
+    ])
+    _write_skip_list(skip_path, [])
+
+    registry, mapping, new_count = assign(registry_path, citations_path, skip_path)
+
+    # Must be a no-op: no new ID should be assigned.
+    assert new_count == 0, (
+        "Expected 0 new IDs — source_link fallback should match cit_000001"
+    )
+    assert len(registry) == 1, "Registry should still have exactly 1 row"
+    assert mapping[0]["citation_id"] == "cit_000001"

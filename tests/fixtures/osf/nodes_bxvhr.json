@@ -1,0 +1,20 @@
+{
+  "data": {
+    "type": "nodes",
+    "id": "bxvhr",
+    "attributes": {
+      "title": "Network Neuroscience dataset - Huskey et al.",
+      "description": "Data for: Huskey et al. (2022). Dynamic network centrality distinguishes within- and between-person variability in subjective experience. Journal of Communication.\nhttps://doi.org/10.1093/joc/jqac025\nSee also https://doi.org/10.17605/OSF.IO/BXVHR for the project DOI.",
+      "tags": ["fMRI", "network", "EEG"],
+      "date_created": "2021-05-01T00:00:00.000Z",
+      "public": true
+    },
+    "relationships": {
+      "contributors": {
+        "links": {
+          "related": {"href": "https://api.osf.io/v2/nodes/bxvhr/contributors/"}
+        }
+      }
+    }
+  }
+}

@@ -1,6 +1,7 @@
 {
   "permissions": {
     "allow": [
+      "PowerShell(cd \"i:\\\\RepositoryMetadata\\\\openneuro-metadata\"*)",
       "Bash(claude *)",
       "Read(//mnt/i/RepositoryMetadata/**)",
       "Bash(python -m pytest tests/test_assign_citation_ids.py -v)",
@@ -21,7 +22,8 @@
       "WebSearch",
       "WebFetch(domain:cercor.oxfordjournals.org)",
       "WebFetch(domain:psycnet.apa.org)",
-      "WebFetch(domain:pubmed.ncbi.nlm.nih.gov)"
+      "WebFetch(domain:pubmed.ncbi.nlm.nih.gov)",
+      "PowerShell(cd \"i:\\\\RepositoryMetadata\\\\openneuro-metadata\"; $reg = Import-Csv datasets\\\\dataset_summaries\\\\citation_registry.tsv -Delimiter \"`t\"; \"Registry rows: $\\($reg.Count\\)\"; $reg | Group-Object status | Select-Object Name, Count | Sort-Object Name)"
     ]
   }
 }

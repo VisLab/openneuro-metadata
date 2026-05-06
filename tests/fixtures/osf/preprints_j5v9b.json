@@ -1,0 +1,21 @@
+{
+  "data": {
+    "type": "preprints",
+    "id": "j5v9b",
+    "attributes": {
+      "title": "Open data for brain-behavior analysis across multiple datasets",
+      "doi": "10.31219/osf.io/j5v9b",
+      "date_created": "2022-03-01T00:00:00.000Z",
+      "description": "A preprint describing methods for integrating open neuroimaging datasets.",
+      "is_published": true,
+      "public": true
+    },
+    "relationships": {
+      "contributors": {
+        "links": {
+          "related": {"href": "https://api.osf.io/v2/preprints/j5v9b/contributors/"}
+        }
+      }
+    }
+  }
+}

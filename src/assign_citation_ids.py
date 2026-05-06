@@ -97,22 +97,41 @@ def assign(
     registry_rows = read_tsv(registry_path)
     mapping_rows = read_tsv(citations_path)
 
-    # Build lookup: canonical_key → index in registry_rows
+    # Build lookup: canonical_key → index in registry_rows.
+    # Primary key: ("doi", doi) when doi is set; ("url", url) otherwise.
+    # Secondary key: the source_link canonical URL, added when Phase 2D has
+    # since resolved a DOI for a previously URL-only entry.  This means the
+    # primary key is now a DOI key, but the mapping still holds the original
+    # raw URL.  Without the secondary index those rows would appear as new
+    # and receive duplicate cit_######.
     key_to_idx: dict[tuple[str, str], int] = {}
     for idx, row in enumerate(registry_rows):
         doi = (row.get("doi") or "").strip()
         url = (row.get("url") or "").strip()
+        source_link = (row.get("source_link") or "").strip()
         if doi:
             key_to_idx[("doi", doi)] = idx
         elif url:
             key_to_idx[("url", url)] = idx
+        # Secondary: canonical URL of source_link (only when source_link is
+        # a URL, i.e. extract_doi returns None for it).
+        if source_link and not extract_doi(source_link):
+            secondary = ("url", canonicalize_url(source_link))
+            if secondary not in key_to_idx:
+                key_to_idx[secondary] = idx
+
+    # Tertiary fallback: if canonical-key lookup fails, honour an already-
+    # assigned citation_id in the mapping row (migration output is trusted).
+    # This catches entries where Phase 2D added a DOI but cleared source_link,
+    # so neither the primary key (doi) nor the secondary key (source_link URL)
+    # can be recovered from the registry row alone.
+    valid_cit_ids: set[str] = {
+        r["citation_id"] for r in registry_rows
+        if _CIT_ID_RE.match(r.get("citation_id", ""))
+    }
 
     # Determine next free counter from the max existing number
-    existing_nums = [
-        cit_id_num(r["citation_id"])
-        for r in registry_rows
-        if _CIT_ID_RE.match(r.get("citation_id", ""))
-    ]
+    existing_nums = [cit_id_num(c) for c in valid_cit_ids]
     next_num = (max(existing_nums) + 1) if existing_nums else 1
 
     new_count = 0
@@ -128,9 +147,16 @@ def assign(
             map_row["citation_id"] = ""
             continue
 
+        existing_id = (map_row.get("citation_id") or "").strip()
+
         if key in key_to_idx:
-            # Already in registry — fill citation_id (no-op if already set)
+            # Primary/secondary: found by canonical key (or source_link fallback)
             map_row["citation_id"] = registry_rows[key_to_idx[key]]["citation_id"]
+        elif existing_id and existing_id in valid_cit_ids:
+            # Tertiary: canonical key lookup failed but mapping already has a
+            # valid registry ID from the migration — reuse it without creating
+            # a duplicate registry entry.
+            map_row["citation_id"] = existing_id
         else:
             # New canonical key — assign next ID
             new_cit_id = make_cit_id(next_num)

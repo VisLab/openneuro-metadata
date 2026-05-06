@@ -1,0 +1,20 @@
+{
+  "data": {
+    "type": "files",
+    "id": "abc123",
+    "attributes": {
+      "name": "stimuli.zip",
+      "kind": "file",
+      "size": 104857600,
+      "date_modified": "2021-06-01T00:00:00.000Z"
+    },
+    "relationships": {
+      "target": {
+        "data": {"type": "nodes", "id": "bxvhr"},
+        "links": {
+          "related": {"href": "https://api.osf.io/v2/nodes/bxvhr/"}
+        }
+      }
+    }
+  }
+}

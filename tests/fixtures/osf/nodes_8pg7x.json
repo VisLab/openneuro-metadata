@@ -1,0 +1,20 @@
+{
+  "data": {
+    "type": "nodes",
+    "id": "8pg7x",
+    "attributes": {
+      "title": "Resting state fMRI dataset",
+      "description": "Data collected at XYZ University, 2019. Participants underwent resting-state fMRI scanning.",
+      "tags": ["resting-state", "fMRI"],
+      "date_created": "2019-09-15T00:00:00.000Z",
+      "public": true
+    },
+    "relationships": {
+      "contributors": {
+        "links": {
+          "related": {"href": "https://api.osf.io/v2/nodes/8pg7x/contributors/"}
+        }
+      }
+    }
+  }
+}

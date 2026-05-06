@@ -1,0 +1,19 @@
+{
+  "id": "https://openalex.org/W2234567890",
+  "doi": "https://doi.org/10.1016/j.neuroimage.2021.118411",
+  "title": "A unified framework for the study of mind, brain, and behavior",
+  "authorships": [
+    {
+      "author": {
+        "id": "https://openalex.org/A1234567890",
+        "display_name": "Kirstie Whitaker",
+        "orcid": null
+      },
+      "author_position": "first",
+      "raw_author_name": "Kirstie J. Whitaker"
+    }
+  ],
+  "publication_year": 2022,
+  "type": "article",
+  "updated_date": "2022-06-01"
+}

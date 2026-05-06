@@ -1,0 +1,16 @@
+{
+  "pmid": "35722095",
+  "doi": "10.1016/j.neuron.2022.05.021",
+  "title": "Neural correlates of cognitive control in the human brain",
+  "authorList": {
+    "author": [
+      {"lastName": "Cohen", "firstName": "Jonathan D.", "initials": "JD"},
+      {"lastName": "Botvinick", "firstName": "Matthew", "initials": "M"}
+    ]
+  },
+  "firstPublicationDate": "2022-06-15",
+  "journalInfo": {
+    "journal": {"title": "Neuron"}
+  },
+  "source": "MED"
+}

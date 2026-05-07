@@ -151,6 +151,9 @@ Desktop.ini
 # Linux
 *~
 
+# Claude local settings (machine-specific permissions)
+.claude/settings.local.json
+
 # IDEs
 .vscode/
 .idea/

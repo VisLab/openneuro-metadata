@@ -408,6 +408,170 @@ def test_is_url_shaped_invalid():
 # Test: write_registry round-trip
 # ---------------------------------------------------------------------------
 
+# ---------------------------------------------------------------------------
+# Tests: manual_fill sub-object schema (new in Session 2.5D)
+# ---------------------------------------------------------------------------
+# These test the new manual_fill field that generate_review_queue.py emits.
+# When manual_fill is not None, it takes precedence over top-level fields.
+
+def _mf_entry(cit: str, manual_fill: dict | None, *, doi: str | None = None,
+               status: str = "needs_review") -> dict:
+    """Build a review-queue-style entry with a manual_fill sub-object."""
+    return {
+        "citation_id": cit,
+        "url": "https://osf.io/test",
+        "status": status,
+        "doi": doi,
+        "resolved_url": None,
+        "notes": "",
+        "manual_fill": manual_fill,
+    }
+
+
+def test_manual_fill_doi_sets_doi_and_status_manual():
+    """manual_fill {"doi": "..."} → row.doi set, row.status="manual"."""
+    reg = _reg(_row("cit_000001"))
+    warns: list[str] = []
+    stats = apply_fills(
+        [_mf_entry("cit_000001", {"doi": "10.1000/mftest"})],
+        reg, TODAY, warns,
+    )
+    r = reg["cit_000001"]
+    assert r["doi"] == "10.1000/mftest"
+    assert r["status"] == "manual"
+    assert r["verified_on"] == TODAY
+    assert "cit_000001" in stats["applied_doi"]
+    assert not warns
+
+
+def test_manual_fill_doi_overrides_top_level_doi():
+    """manual_fill.doi takes precedence over the entry's top-level doi field."""
+    reg = _reg(_row("cit_000001"))
+    warns: list[str] = []
+    # top-level doi is "10.1000/old", manual_fill has "10.1000/new"
+    entry = {
+        "citation_id": "cit_000001",
+        "url": "https://example.com",
+        "status": "needs_review",
+        "doi": "10.1000/old",      # top-level (pre-filled from registry)
+        "resolved_url": None,
+        "notes": "",
+        "manual_fill": {"doi": "10.1000/new"},
+    }
+    apply_fills([entry], reg, TODAY, warns)
+    assert reg["cit_000001"]["doi"] == "10.1000/new"
+
+
+def test_manual_fill_family_year_title_sets_metadata_fields():
+    """manual_fill with family/year/title writes fields for resolver Pass 1."""
+    reg = _reg(_row("cit_000001"))
+    warns: list[str] = []
+    stats = apply_fills(
+        [_mf_entry("cit_000001", {"family": "Smith", "year": 2021,
+                                   "title": "A Study of Memory"})],
+        reg, TODAY, warns,
+    )
+    r = reg["cit_000001"]
+    assert r["first_author_family"] == "Smith"
+    assert r["year"] == "2021"
+    assert r["title"] == "A Study of Memory"
+    assert r["verified_on"] == TODAY
+    # doi and status should NOT be changed by this path
+    assert r["doi"] == ""
+    assert r["status"] == "auto"  # unchanged from _row default
+    assert "cit_000001" in stats["applied_manual_fill_meta"]
+    assert not warns
+
+
+def test_manual_fill_rejected_sets_status_and_notes():
+    """manual_fill {"rejected": "reason"} → status=rejected, notes prefixed."""
+    reg = _reg(_row("cit_000001"))
+    warns: list[str] = []
+    stats = apply_fills(
+        [_mf_entry("cit_000001", {"rejected": "no associated paper found"})],
+        reg, TODAY, warns,
+    )
+    r = reg["cit_000001"]
+    assert r["status"] == "rejected"
+    assert "manual-reject: no associated paper found" in r["notes"]
+    assert r["verified_on"] == TODAY
+    assert "cit_000001" in stats["applied_rejected"]
+    assert not warns
+
+
+def test_manual_fill_none_falls_through_to_legacy_logic():
+    """manual_fill=None uses the existing top-level doi/status logic."""
+    reg = _reg(_row("cit_000001"))
+    warns: list[str] = []
+    stats = apply_fills(
+        [_mf_entry("cit_000001", None, doi="10.1000/legacy",
+                   status="journal_article")],
+        reg, TODAY, warns,
+    )
+    # Legacy path: top-level doi is used
+    assert reg["cit_000001"]["doi"] == "10.1000/legacy"
+    assert reg["cit_000001"]["status"] == "manual"
+    assert "cit_000001" in stats["applied_doi"]
+
+
+def test_manual_fill_multiple_keys_warns_and_applies_priority():
+    """Multiple manual_fill keys warn; doi > family > rejected priority applies."""
+    reg = _reg(_row("cit_000001"))
+    warns: list[str] = []
+    stats = apply_fills(
+        [_mf_entry("cit_000001", {"doi": "10.1000/win", "rejected": "reason"})],
+        reg, TODAY, warns,
+    )
+    # doi wins over rejected
+    assert reg["cit_000001"]["doi"] == "10.1000/win"
+    assert reg["cit_000001"]["status"] == "manual"
+    # A warning was emitted about the multiple keys
+    assert len(warns) == 1
+    assert "multiple" in warns[0].lower() or "keys" in warns[0].lower()
+    assert "cit_000001" in stats["applied_doi"]
+
+
+def test_manual_fill_doi_idempotency():
+    """Applying manual_fill doi twice leaves the registry byte-identical."""
+    reg = _reg(_row("cit_000001"))
+    entry = _mf_entry("cit_000001", {"doi": "10.1000/idem"})
+
+    apply_fills([entry], reg, TODAY, [])
+    import copy
+    snap1 = copy.deepcopy(reg["cit_000001"])
+
+    apply_fills([entry], reg, TODAY, [])
+    snap2 = copy.deepcopy(reg["cit_000001"])
+
+    assert snap1 == snap2
+
+
+def test_manual_fill_family_idempotency():
+    """Applying manual_fill family/year/title twice leaves the registry unchanged."""
+    reg = _reg(_row("cit_000001"))
+    entry = _mf_entry("cit_000001", {"family": "Jones", "year": 2020,
+                                      "title": "Test Title"})
+    apply_fills([entry], reg, TODAY, [])
+    import copy
+    snap1 = copy.deepcopy(reg["cit_000001"])
+    apply_fills([entry], reg, TODAY, [])
+    assert reg["cit_000001"] == snap1
+
+
+def test_manual_fill_family_incomplete_warns_and_skips():
+    """Incomplete family/year/title (missing year) → warning, no change."""
+    reg = _reg(_row("cit_000001"))
+    warns: list[str] = []
+    apply_fills(
+        [_mf_entry("cit_000001", {"family": "Jones", "title": "Some Title"})],
+        reg, TODAY, warns,
+    )
+    # Row unchanged
+    assert reg["cit_000001"]["first_author_family"] == ""
+    assert len(warns) == 1
+    assert "cit_000001" in warns[0]
+
+
 def test_write_registry_round_trip(tmp_path: Path):
     """write_registry produces a file that load_registry reads back identically."""
     reg = _reg(

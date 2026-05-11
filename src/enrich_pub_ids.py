@@ -256,6 +256,46 @@ def _extract_journal_doi_from_openalex(oa_data: dict) -> str | None:
 
 
 # ---------------------------------------------------------------------------
+# DOI canonicalization
+# ---------------------------------------------------------------------------
+
+_DOI_SUFFIX_PATS = [
+    re.compile(r'\.full\.pdf$', re.IGNORECASE),
+    re.compile(r'/full$', re.IGNORECASE),
+    re.compile(r'/meta$', re.IGNORECASE),
+    re.compile(r'/abstract$', re.IGNORECASE),
+    re.compile(r'v\d+(\.\w+)?$', re.IGNORECASE),
+]
+_SDATA_RE = re.compile(r'^10\.1038/sdata(\d{4})(\d+)$')
+
+
+def _canonicalise_doi(doi: str) -> str:
+    """Normalize a DOI: lowercase, strip decoration/version suffixes, fix Sci Data.
+
+    Patterns stripped in order (loop until stable):
+      .full.pdf      bioRxiv PDF link suffix
+      /full          Frontiers full-text suffix
+      /meta          IOP metadata suffix
+      /abstract      occasional abstract suffix
+      v\\d+(.\\w+)?  bioRxiv version suffix (e.g. v1, v2, v1.abstract, v1.full)
+
+    Also corrects 10.1038/sdataYYYYNNN -> 10.1038/sdata.YYYY.NNN.
+    """
+    doi = doi.strip().lower()
+    changed = True
+    while changed:
+        changed = False
+        for pat in _DOI_SUFFIX_PATS:
+            stripped = pat.sub('', doi)
+            if stripped != doi:
+                doi = stripped
+                changed = True
+                break
+    doi = _SDATA_RE.sub(r'10.1038/sdata.\1.\2', doi)
+    return doi
+
+
+# ---------------------------------------------------------------------------
 # URL → DOI synthesis (new Path B patterns)
 # ---------------------------------------------------------------------------
 
@@ -340,6 +380,8 @@ def _resolve_path_a(
         family, year, title, metadata_source, notes, _chase_via
     """
     doi = doi.strip().lower()
+    if _depth == 0:
+        doi = _canonicalise_doi(doi)
 
     # --- Primary lookup ---
     cr_data = crossref.lookup_by_doi(doi, cache_dir=cache_dir)
@@ -357,7 +399,7 @@ def _resolve_path_a(
 
     # One hop only — no relation chase on the journal version.
     if _depth > 0:
-        return {**meta, "metadata_source": source, "notes": "", "_chase_via": ""}
+        return {**meta, "metadata_source": source, "notes": "", "_chase_via": "", "_canon_doi": doi}
 
     # --- Relation chase ---
     journal_doi: str | None = None
@@ -389,6 +431,7 @@ def _resolve_path_a(
                 **j_result,
                 "_chase_via": chase_via,
                 "notes": f"preprint-chained to {journal_doi} via {chase_via}",
+                "_canon_doi": doi,  # canonical preprint DOI (not the journal DOI)
             }
         elif j_result:
             warnings.append(
@@ -409,7 +452,7 @@ def _resolve_path_a(
             f"(chase to {journal_doi} via {chase_via} failed sanity check)"
         )
 
-    return {**meta, "metadata_source": source, "notes": notes, "_chase_via": ""}
+    return {**meta, "metadata_source": source, "notes": notes, "_chase_via": "", "_canon_doi": doi}
 
 
 # ---------------------------------------------------------------------------
@@ -622,6 +665,9 @@ def _process_pass2(
         if not resolved and "A" in paths_enabled and doi:
             result = _resolve_path_a(doi, cache_dir, today, warnings, cit_id)
             if result and _apply_resolution(row, result, today):
+                canon_doi = (result.get("_canon_doi") or "").strip()
+                if canon_doi and canon_doi != doi:
+                    row["doi"] = canon_doi
                 _classify_path_a(stats, cit_id, result)
                 resolved = True
 

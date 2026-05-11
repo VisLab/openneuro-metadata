@@ -1,0 +1,275 @@
+[
+  {
+    "citation_id": "cit_000106",
+    "url": "doi:10.1038/s41593-024-01564-3",
+    "status": "needs_review",
+    "doi": "10.1038/s41593-024-01564-3",
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1038/s41586-024-07624-5"}
+  },
+  {
+    "citation_id": "cit_000187",
+    "url": "https://osf.io/er5u7",
+    "status": "needs_review",
+    "doi": "10.1073/pnas.1711571115",
+    "resolved_url": null,
+    "notes": "manual: journal_article | Resolved to PNAS (2017) 'The neural basis of the effect of computational complexity on search'. | resolved_url: https://www.pnas.org/doi/10.1073/pnas.1711571115",
+    "manual_fill": {"doi": "10.1162/IMAG.a.905"},
+    "hints": {
+      "osf_private": true
+    }
+  },
+  {
+    "citation_id": "cit_000194",
+    "url": "https://f1000research.com/articles/6-1262/v2",
+    "status": "needs_review",
+    "doi": "10.12688/f1000research.12142.2",
+    "resolved_url": null,
+    "notes": "manual: journal_article | Primary journal publication. | resolved_url: https://f1000research.com/articles/6-1262/v2",
+    "manual_fill": {"doi": "10.12688/f1000research.11964.2"}
+  },
+  {
+    "citation_id": "cit_000265",
+    "url": "https://osf.io/dm47y",
+    "status": "needs_review",
+    "doi": "10.1038/s41598-018-24312-0",
+    "resolved_url": null,
+    "notes": "manual: journal_article | Resolved to Scientific Reports (2018) via 'Neural correlates of individual differences...' | resolved_url: https://www.nature.com/articles/s41598-018-24312-0",
+    "manual_fill": {"doi": "10.1038/s41562-025-02390-4"},
+    "hints": {
+      "osf_type": "nodes",
+      "osf_title": "Do activations and representations differ for episodic versus semantic memory?",
+      "osf_description_excerpt": "While the distinction between episodic and semantic memory is supported by a large corpus of neuropsychological studies, neuroimaging data show considerable overlap between regions that are activated during semantic and episodic remembering. This might indicate similar or shared mechanisms but might"
+    }
+  },
+  {
+    "citation_id": "cit_000381",
+    "url": "https://www.pnas.org/content/117/11/6170",
+    "status": "needs_review",
+    "doi": null,
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1073/pnas.1913042117"}
+  },
+  {
+    "citation_id": "cit_000395",
+    "url": "https://f1000research.com/articles/4-174/v1",
+    "status": "needs_review",
+    "doi": "10.12688/f1000research.6911.1",
+    "resolved_url": null,
+    "notes": "manual: journal_article | Journal article.",
+    "manual_fill": {"doi": "10.12688/f1000research.6679.1"}
+  },
+  {
+    "citation_id": "cit_000451",
+    "url": "https://direct.mit.edu/jocn/article/29/1/95/28621/Fluctuations-of-Attentional-Networks-and-Default",
+    "status": "needs_review",
+    "doi": null,
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1162/jocn_a_01025"}
+  },
+  {
+    "citation_id": "cit_000615",
+    "url": "https://psycnet.apa.org/record/2020-66677-001",
+    "status": "needs_review",
+    "doi": null,
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1027/0269-8803/a000268"}
+  },
+  {
+    "citation_id": "cit_000702",
+    "url": "https://direct.mit.edu/jocn/article/33/9/1990/106990/The-Dual-Mechanisms-of-Cognitive-Control-Project",
+    "status": "needs_review",
+    "doi": null,
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1162/jocn_a_01768"}
+  },
+  {
+    "citation_id": "cit_000746",
+    "url": "doi:10.20900/jpbs.20200024",
+    "status": "needs_review",
+    "doi": "10.20900/jpbs.20200024",
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {
+      "family": "Sazhin",
+      "year": 2020,
+      "title": "The Role of Social Reward and Corticostriatal Connectivity in Substance Use"
+    }
+  },
+  {
+    "citation_id": "cit_000902",
+    "url": "https://doi.org/10/gjf3tx",
+    "status": "needs_review",
+    "doi": "10.1038/s41467-019-10641-z",
+    "resolved_url": null,
+    "notes": "manual: journal_article | Direct DOI resolved to Nature Communications. | resolved_url: https://doi.org/10.1038/s41467-019-10641-z",
+    "manual_fill": {"doi": "10.1111/ejn.15457"}
+  },
+  {
+    "citation_id": "cit_001189",
+    "url": "doi:10.1016/s0911-6044(03",
+    "status": "needs_review",
+    "doi": "10.1016/s0911-6044(03",
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1073/pnas.1518377113"}
+  },
+  {
+    "citation_id": "cit_001212",
+    "url": "doi:10.1162/netna00056",
+    "status": "needs_review",
+    "doi": "10.1162/netna00056",
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1162/netn_a_00056"}
+  },
+  {
+    "citation_id": "cit_001224",
+    "url": "https://academic.oup.com/scan/article/15/4/383/5831854",
+    "status": "needs_review",
+    "doi": null,
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1093/scan/nsaa053"}
+  },
+  {
+    "citation_id": "cit_001251",
+    "url": "https://arxiv.org/abs/2001.09857",
+    "status": "needs_review",
+    "doi": "10.1073/pnas.2001151117",
+    "resolved_url": null,
+    "notes": "manual: journal_article | Published in PNAS (2020). | resolved_url: https://www.pnas.org/doi/10.1073/pnas.2001151117",
+    "manual_fill": {"doi": "10.3389/fnins.2021.602170"}
+  },
+  {
+    "citation_id": "cit_001293",
+    "url": "doi:10.1038/tp201792",
+    "status": "needs_review",
+    "doi": "10.1038/tp201792",
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1038/tp.2017.92"}
+  },
+  {
+    "citation_id": "cit_001389",
+    "url": "https://www.jneurosci.org/content/jneuro/39/49/9716.full.pdf",
+    "status": "needs_review",
+    "doi": null,
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1523/JNEUROSCI.2891-18.2019"}
+  },
+  {
+    "citation_id": "cit_001420",
+    "url": "https://www.pnas.org/content/113/17/4853.short",
+    "status": "needs_review",
+    "doi": null,
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1073/pnas.1518377113"}
+  },
+  {
+    "citation_id": "cit_001429",
+    "url": "doi:10.1016/s1053-8119(03",
+    "status": "needs_review",
+    "doi": "10.1016/s1053-8119(03",
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"rejected": "truncated Elsevier DOI in source dataset README (ds001399); original citation in dataset is incomplete and unrecoverable"}
+  },
+  {
+    "citation_id": "cit_001431",
+    "url": "https://arxiv.org/abs/1810.03856",
+    "status": "needs_review",
+    "doi": "10.1109/TPAMI.2019.2937788",
+    "resolved_url": null,
+    "notes": "manual: journal_article | Published in IEEE TPAMI (2019). | resolved_url: https://ieeexplore.ieee.org/document/8816668",
+    "manual_fill": {"doi": "10.1038/s42003-019-0438-y"}
+  },
+  {
+    "citation_id": "cit_001460",
+    "url": "https://academic.oup.com/scan/article/12/7/1025/3798709",
+    "status": "needs_review",
+    "doi": null,
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1093/scan/nsx037"}
+  },
+  {
+    "citation_id": "cit_001490",
+    "url": "doi:10.1093/cercor/bhx202/4080827/how-we-transmit-memories-to-other-brains",
+    "status": "needs_review",
+    "doi": "10.1093/cercor/bhx202/4080827/how-we-transmit-memories-to-other-brains",
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1093/cercor/bhx202"}
+  },
+  {
+    "citation_id": "cit_001503",
+    "url": "doi:10.5281/zenodo.3524401.svg",
+    "status": "needs_review",
+    "doi": "10.5281/zenodo.3524401.svg",
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"rejected": "Zenodo badge image embedded in dataset README (ds002793), not a citation"}
+  },
+  {
+    "citation_id": "cit_001517",
+    "url": "https://www.pnas.org/content/114/35/9475.short",
+    "status": "needs_review",
+    "doi": null,
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1073/pnas.1701652114"}
+  },
+  {
+    "citation_id": "cit_001546",
+    "url": "https://cercor.oxfordjournals.org/content/18/11/2505.short",
+    "status": "needs_review",
+    "doi": null,
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1093/cercor/bhn012"}
+  },
+  {
+    "citation_id": "cit_001580",
+    "url": "https://www.jneurosci.org/content/36/7/2212.short",
+    "status": "needs_review",
+    "doi": null,
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1523/JNEUROSCI.3543-15.2016"}
+  },
+  {
+    "citation_id": "cit_001588",
+    "url": "doi:10.1101/48905",
+    "status": "needs_review",
+    "doi": "10.1101/48905",
+    "resolved_url": null,
+    "notes": "",
+    "manual_fill": {"doi": "10.1038/s41597-019-0129-z"}
+  },
+  {
+    "citation_id": "cit_001629",
+    "url": "doi:10.7554/eLife.1607",
+    "status": "needs_review",
+    "doi": "10.7554/eLife.1607",
+    "resolved_url": null,
+    "notes": "DOI synthesised from eLife article URL",
+    "manual_fill": {"doi": "10.7554/eLife.16070"}
+  },
+  {
+    "citation_id": "cit_001657",
+    "url": "https://wellcomeopenresearch.org/articles/1-33/v1",
+    "status": "needs_review",
+    "doi": "10.12688/wellcomeopenres.10444.1",
+    "resolved_url": null,
+    "notes": "manual: journal_article | Primary journal publication. | resolved_url: https://wellcomeopenresearch.org/articles/1-33/v1",
+    "manual_fill": {"doi": "10.12688/wellcomeopenres.10331.1"}
+  }
+]

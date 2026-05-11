@@ -103,6 +103,105 @@ def write_registry(path: Path, rows: dict[str, dict], columns: list[str]) -> Non
 # Core algorithm
 # ---------------------------------------------------------------------------
 
+def _apply_manual_fill(
+    cit: str,
+    manual_fill: dict,
+    r: dict,
+    today: str,
+    warnings_out: list[str],
+    stats: dict[str, list[str]],
+) -> None:
+    """Apply a manual_fill sub-object to a registry row in-place.
+
+    Three accepted shapes (exactly one of doi/family/rejected must be present):
+      {"doi": "10.xxxx/yyyy"}               → set row.doi, row.status="manual"
+      {"family": "...", "year": int,
+       "title": "..."}                       → set metadata fields for Pass-1 resolver
+      {"rejected": "reason text"}            → set row.status="rejected"
+
+    Multiple keys raise a validation warning; only the highest-priority key
+    (doi > family > rejected) is applied.
+    """
+    has_doi = bool((manual_fill.get("doi") or "").strip())
+    has_family = "family" in manual_fill
+    has_rejected = "rejected" in manual_fill
+
+    key_count = sum([has_doi, has_family, has_rejected])
+    if key_count > 1:
+        warnings_out.append(
+            f"{cit}: manual_fill has multiple shape keys {sorted(manual_fill.keys())!r}; "
+            f"applying in priority order doi > family > rejected"
+        )
+
+    if not key_count:
+        warnings_out.append(
+            f"{cit}: manual_fill present but has no recognised keys "
+            f"(expected doi, family, or rejected); skipping"
+        )
+        return
+
+    if has_doi:
+        json_doi = manual_fill["doi"].strip()
+        reg_doi = r.get("doi", "").strip()
+
+        # Idempotency: already applied in a prior run.
+        if reg_doi == json_doi and r.get("status", "").strip() == "manual":
+            stats["skipped_already_resolved"].append(cit)
+            return
+
+        if reg_doi and reg_doi != json_doi:
+            warnings_out.append(
+                f"{cit}: registry doi={reg_doi!r}, manual_fill doi={json_doi!r}; "
+                f"preferring manual_fill (curator decision)"
+            )
+
+        r["doi"] = json_doi
+        r["status"] = "manual"
+        existing_notes = (r.get("notes") or "").strip()
+        mf_note = "manual_fill: doi"
+        r["notes"] = (existing_notes + " | " + mf_note) if existing_notes else mf_note
+        r["verified_on"] = today
+        stats["applied_doi"].append(cit)
+
+    elif has_family:
+        family = str(manual_fill.get("family") or "").strip()
+        year_raw = manual_fill.get("year")
+        title = str(manual_fill.get("title") or "").strip()
+
+        if not family or year_raw is None or not title:
+            warnings_out.append(
+                f"{cit}: manual_fill family/year/title shape is incomplete "
+                f"(family={family!r}, year={year_raw!r}, title={title!r}); skipping"
+            )
+            return
+
+        try:
+            year_str = str(int(year_raw))
+        except (TypeError, ValueError):
+            warnings_out.append(f"{cit}: manual_fill year={year_raw!r} is not an integer; skipping")
+            return
+
+        # Idempotency: already applied in a prior run.
+        if (r.get("first_author_family", "").strip() == family
+                and r.get("year", "").strip() == year_str
+                and r.get("title", "").strip() == title):
+            stats["skipped_already_resolved"].append(cit)
+            return
+
+        r["first_author_family"] = family
+        r["year"] = year_str
+        r["title"] = title
+        r["verified_on"] = today
+        stats["applied_manual_fill_meta"].append(cit)
+
+    else:  # has_rejected
+        reason = str(manual_fill.get("rejected") or "").strip()
+        r["status"] = "rejected"
+        r["notes"] = f"manual-reject: {reason}"
+        r["verified_on"] = today
+        stats["applied_rejected"].append(cit)
+
+
 def apply_fills(
     json_entries: list[dict],
     registry: dict[str, dict],
@@ -111,12 +210,18 @@ def apply_fills(
 ) -> dict[str, list[str]]:
     """Apply curator JSON entries to the registry dict in-place.
 
+    Supports both the legacy top-level-field schema
+    (resolved_references_050526.json) and the new manual_fill sub-object
+    schema (manual_review_<date>.json).  When manual_fill is present and
+    non-null it takes precedence; otherwise the legacy path is used.
+
     Returns a stats dict with lists of citation_ids per outcome category.
     No I/O — all data passed in; caller handles reading and writing.
     """
     stats: dict[str, list[str]] = {
         "applied_doi": [],
         "applied_rejected": [],
+        "applied_manual_fill_meta": [],
         "skipped_already_resolved": [],
         "skipped_not_in_registry": [],
         "deferred_no_intent": [],
@@ -155,6 +260,13 @@ def apply_fills(
             stats["skipped_already_resolved"].append(cit)
             continue
 
+        # --- New schema: manual_fill sub-object takes precedence ---
+        manual_fill = entry.get("manual_fill")
+        if manual_fill is not None:
+            _apply_manual_fill(cit, manual_fill, r, today, warnings_out, stats)
+            continue
+
+        # --- Legacy schema: use top-level doi / status / notes / resolved_url ---
         json_doi = (entry.get("doi") or "").strip()
         json_status = (entry.get("status") or "").strip().lower()
         json_notes = (entry.get("notes") or "").strip()
@@ -261,6 +373,7 @@ def format_report(
         "|---|---|",
         f"| Applied (DOI set, status=manual) | {len(stats['applied_doi'])} |",
         f"| Applied (rejected) | {len(stats['applied_rejected'])} |",
+        f"| Applied (manual_fill: family/year/title set) | {len(stats.get('applied_manual_fill_meta', []))} |",
         f"| Deferred (status-only, no curator intent) | {len(stats['deferred_no_intent'])} |",
         f"| Skipped (already resolved) | {len(stats['skipped_already_resolved'])} |",
         f"| Skipped (cit_id not in registry) | {len(stats['skipped_not_in_registry'])} |",
@@ -279,6 +392,8 @@ def format_report(
 
     _section("Applied (DOI set, status=manual)", stats["applied_doi"])
     _section("Applied (rejected)", stats["applied_rejected"])
+    _section("Applied (manual_fill: family/year/title set for resolver Pass 1)",
+             stats.get("applied_manual_fill_meta", []))
     _section("Deferred (status-only, no curator intent → resolver should attempt)",
              stats["deferred_no_intent"])
     _section("Skipped (already resolved)", stats["skipped_already_resolved"])

@@ -51,6 +51,12 @@ def update_title_and_hed(summary_df, datasets_base_dir="../datasets/dataset_repo
     if 'title' not in updated_df.columns:
         updated_df['title'] = ''
     
+    # Convert string columns to object dtype to avoid pandas dtype errors
+    # when assigning strings to columns that were inferred as numeric
+    for col in ['title', 'HED', 'tasks', 'modalities', 'contact', 'notes']:
+        if col in updated_df.columns:
+            updated_df[col] = updated_df[col].astype(object)
+    
     print(f"Updating title and HED information for {len(updated_df)} datasets...")
     
     for idx, row in updated_df.iterrows():

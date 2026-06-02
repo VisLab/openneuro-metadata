@@ -1,3 +1,43 @@
+"""
+extract_summary_info.py
+
+Reads repo_contents.json (produced by sync_repo_contents.py) and extracts
+per-dataset statistics to build a summary TSV:
+  - Subject count (number of top-level sub-* directories)
+  - Presence of README files
+  - Presence of *events.json files
+  - Task names extracted from filenames (task-<name> pattern)
+
+The output TSV provides a template for manual curation; the title, links,
+modalities, contact, and notes columns are filled by subsequent scripts or
+human reviewers.
+
+Input:
+    datasets/dataset_summaries/repo_contents.json
+    Schema:
+        {
+          "ds000001": {
+            "synced_at": "2026-06-01T21:19:43Z",
+            "entries": [
+              {"name": "README", "type": "blob", "size": 1175, "sha": "abc123"},
+              {"name": "sub-01", "type": "tree"},
+              ...
+            ]
+          },
+          ...
+        }
+
+Output:
+    datasets/dataset_summaries/dataset_summary.tsv
+    Columns: name, subjs, links, readme, events, title, tasks, modalities, contact, notes
+
+Usage:
+    python extract_summary_info.py
+
+The script expects repo_contents.json to exist. If you have not yet run
+sync_repo_contents.py, this script will exit with an error.
+"""
+
 import json
 import os
 import pandas as pd
@@ -79,29 +119,42 @@ def check_has_readme(file_list):
             return 'yes'
     return 'no'
 
-def extract_dataset_info(repo_files_json_path):
+def extract_dataset_info(repo_contents_json_path):
     """
-    Extract dataset information from repo_files.json.
+    Extract dataset information from repo_contents.json.
 
     Args:
-        repo_files_json_path (str): Path to the repo_files.json file.
+        repo_contents_json_path (str): Path to the repo_contents.json file
+                                       (produced by sync_repo_contents.py).
 
     Returns:
         list: List of dictionaries containing dataset information.
     """
-    # Load the repository files data
+    # Load the repository contents data
     try:
-        with open(repo_files_json_path, 'r', encoding='utf-8') as f:
+        with open(repo_contents_json_path, 'r', encoding='utf-8') as f:
             repo_data = json.load(f)
-        print(f"Loaded data for {len(repo_data)} repositories from {repo_files_json_path}")
+        print(f"Loaded data for {len(repo_data)} repositories from {repo_contents_json_path}")
     except Exception as e:
         print(f"Error reading JSON file: {e}")
         return []
 
     dataset_info = []
     
-    for dataset_name, file_list in repo_data.items():
+    for dataset_name, dataset_entry in repo_data.items():
         print(f"Processing dataset: {dataset_name}")
+        
+        # Extract the list of entry names from the new repo_contents.json format
+        # repo_contents.json has structure: {"ds000001": {"synced_at": "...", "entries": [...]}}
+        if isinstance(dataset_entry, dict) and "entries" in dataset_entry:
+            # New format from sync_repo_contents.py
+            file_list = [entry["name"] for entry in dataset_entry.get("entries", [])]
+        elif isinstance(dataset_entry, list):
+            # Legacy format from get_repo_files.py (list of strings)
+            file_list = dataset_entry
+        else:
+            print(f"  Warning: unexpected format for {dataset_name}, skipping")
+            continue
         
         # Extract information
         subjs = count_subjects(file_list)
@@ -191,20 +244,31 @@ if __name__ == "__main__":
     load_dotenv()
 
     # Configuration
-    repo_files_json_path = "../datasets/dataset_summaries/repo_files.json"
+    repo_contents_json_path = "../datasets/dataset_summaries/repo_contents.json"
+    # Fallback to legacy repo_files.json if repo_contents.json doesn't exist
+    legacy_path = "../datasets/dataset_summaries/repo_files.json"
     output_file = "../datasets/dataset_summaries/dataset_summary.tsv"
     
-    print("Extracting dataset information from repo files...")
-    print(f"Input file: {os.path.abspath(repo_files_json_path)}")
-    print(f"Output file: {os.path.abspath(output_file)}")
+    print("Extracting dataset information from repo contents...")
     
-    # Check if repo_files.json exists
-    if not os.path.exists(repo_files_json_path):
-        print(f"Error: {repo_files_json_path} not found. Please run get_repo_files.py first.")
+    # Check which file exists
+    input_path = None
+    if os.path.exists(repo_contents_json_path):
+        input_path = repo_contents_json_path
+        print(f"Using current pipeline output: {os.path.abspath(input_path)}")
+    elif os.path.exists(legacy_path):
+        input_path = legacy_path
+        print(f"Using legacy output: {os.path.abspath(input_path)}")
+        print("Warning: repo_files.json is from the legacy pipeline. Consider running sync_repo_contents.py.")
+    else:
+        print(f"Error: Neither {repo_contents_json_path} nor {legacy_path} found.")
+        print("Please run sync_repo_contents.py first (or get_repo_files.py for legacy pipeline).")
         exit(1)
     
+    print(f"Output file: {os.path.abspath(output_file)}")
+    
     # Extract dataset information
-    dataset_info = extract_dataset_info(repo_files_json_path)
+    dataset_info = extract_dataset_info(input_path)
     
     if dataset_info:
         save_dataset_summary(dataset_info, output_file)

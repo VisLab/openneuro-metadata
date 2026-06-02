@@ -1,4 +1,5 @@
 name	subjs	links	readme	events	title	tasks	modalities	contact	notes
+ds000001	16		yes	no		balloonanalogrisktask			
 ds005371	14		yes	no					
 ds003823	193		yes	yes		NIHcognition,emotionRegulation,labHRV,practice,recall,recognition,sart,stress,ultimatumGame,ultimatumGame-older,ultimatumGame-younger			
 ds005329	25		yes	no		namingtodefinitions,namingtosounds			
@@ -12,11 +13,10 @@ ds006444	13		yes	no
 ds005795	34		yes	yes		learning,rest			
 ds004973	20		yes	no					
 ds004504	88		yes	no					
-ds006480	68		no	yes		oddball			
+ds006480	68		yes	yes		oddball			
 ds006395	91		yes	no					
 ds005346	60		yes	no					
 ds006472	40		yes	yes		multi,pRF			
-ds006391	127		yes	no					
 ds005525	11		yes	no		ab,cd,rest			
 ds005479	37		yes	no					
 ds006462	100		yes	no					
@@ -30,7 +30,7 @@ ds004856	464		yes	yes		Scenes,VentralVisual,Words
 ds005776	11		no	no					
 ds005777	14		yes	no					
 ds005929	7		no	no					
-ds005930	12		no	no					
+ds005930	0		no	no					
 ds006460	17		no	no					
 ds006459	17		no	no					
 ds005280	223		yes	yes		223ByBP			
@@ -39,1432 +39,1996 @@ ds005291	65		yes	yes		65ByANT
 ds005289	39		yes	yes		39ByBP			
 ds005286	30		yes	yes		30ByANT			
 ds005285	29		yes	yes		29ByANT			
-ds005473	29		yes	yes		29ByBP			
-ds005284	26		yes	yes		26ByBiosemi			
-ds005293	0		no	no					
-ds005642	21		yes	yes		faceobj			
-ds005063	3		no	no					
-ds004146	417		yes	no					
-ds006446	29		yes	no					
-ds006437	9		yes	yes		hypnotherapy			
-ds005883	39		yes	yes		pain			
-ds005884	22		yes	yes		motorL,motorR			
-ds005107	21		yes	no					
-ds005448	13		yes	no					
-ds006401	14		no	no					
-ds005551	47		yes	yes					
-ds005700	40		yes	no					
-ds006394	33		yes	no					
-ds006373	2		yes	no					
-ds006392	1		yes	no					
-ds006370	56		yes	yes		DelayedMatchtoSampleTask			
-ds006367	52		yes	yes		DelayedMatchtoSampleTask			
-ds005503	6		yes	yes		multivariate,prf,univariate			
+ds000002	17		yes	no		deterministicclassification,mixedeventrelatedprobe,probabilisticclassification			
+ds000003	13		yes	no		rhymejudgment			
+ds000005	16		yes	no		mixedgamblestask			
+ds000008	14		yes	no		conditionalstopsignal,stopsignal			
+ds000011	14		yes	no		Classificationprobewithoutfeedback,Dualtaskweatherprediction,Singletaskweatherprediction,tonecounting			
+ds000051	13		yes	no		abstractconcretejudgment			
+ds000052	13		yes	no		reversalweatherprediction,weatherprediction			
+ds000101	21		yes	no		simon			
+ds000102	26		yes	no		flanker			
+ds000105	6		yes	no		objectviewing			
+ds000107	49		yes	no		onebacktask			
+ds000109	36		no	no		theoryofmindwithmanualresponse			
+ds000017	8		yes	no		probabilisticclassification,selectivestopsignaltask			
+ds000122	17		yes	no		visualattentiontask			
+ds001037	1		no	no					
+ds001110	37		yes	no		MerlinAudio,MerlinFreerecall,MerlinMovie,SherlockAudio,SherlockFreerecall,SherlockMovie			
+ds001105	28		no	no		mentalstates			
+ds001131	54		yes	no		milky,scrambled,synonyms,vodka			
+ds001132	16		yes	no		freerecall,sherlockPart1,sherlockPart2			
+ds001145	24		yes	no		watchmovie			
+ds001178	23		no	no					
+ds001247	43		no	no					
+ds001299	19		yes	no					
+ds001306	17		yes	no		vissearch			
+ds000208	76		yes	no		rest			
+ds000248	2		yes	no					
+ds000138	16		yes	no		postheatstimulation,preheatstimulation			
+ds000236	18		yes	no		rest			
+ds000174	42		yes	no					
 ds000116	17		yes	no		auditoryoddballwithbuttonresponsetotargetstimuli,visualoddballwithbuttonresponsetotargetstimuli			
-ds006377	115		no	no					
-ds006366	92		yes	yes		sleep			
-ds004796	79		yes	yes		msit,rest,sternberg			
-ds001705	5		yes	no					
-ds004103	66		yes	yes		OTCG			
-ds004621	42		yes	yes		msit,oddball,rest,srt			
-ds004199	170		yes	no					
-ds005602	542		yes	no					
-ds004670	7		yes	no					
-ds006243	54		yes	no					
-ds005815	20		yes	no					
-ds006239	83		yes	yes		LocalASL,LocalEng,LocalSR0,LocalSem,ReadMean,ReadPhon			
-ds004669	8		yes	no					
-ds006067	118		yes	no		thinkaloud			
-ds004624	3		yes	no					
-ds006334	30		yes	no					
-ds005530	18		yes	no					
-ds006266	20		yes	no					
-ds006265	20		yes	no					
-ds006072	11		yes	no					
-ds006318	86		yes	no					
-ds006317	2		yes	no					
-ds005589	32		yes	yes		lowSpeed,rsvp			
-ds006111	100		no	no					
-ds004516	43		yes	no					
-ds005137	22		yes	no					
-ds006303	149		yes	yes		TAU1,TAU2,rest			
-ds005215	65		yes	no					
-ds004952	10		yes	no					
-ds005096	63		yes	no					
-ds003020	9		yes	no		AudioMotorLocalizer,AuditoryLocalizer,CategoryLocalizer1,CategoryLocalizer2,CategoryLocalizer3,MotorLocalizer,adollshouse,adventuresinsayingyes,afatherscover,againstthewind,alternateithicatom,avatar,backsideofthestorm,becomingindian,beneaththemushroomcloud,birthofanation,bluehope,breakingupintheageofgoogle,buck,catfishingstrangerstofindmyself,cautioneating,christmas1940,cocoonoflove,comingofageondeathrow,exorcism,eyespy,firetestforlove,food,forgettingfear,fromboyhoodtofatherhood,gangstersandcookies,goingthelibertyway,goldiethegoldfish,golfclubbing,gpsformylostidentity,hangtime,haveyoumethimyet,howtodraw,ifthishaircouldtalk,inamoment,itsabox,jugglingandjesus,kiksuya,leavingbaghdad,legacy,life,lifeanddeathontheoregontrail,lifereimagined,listo,mayorofthefreaks,metsmagic,mybackseatviewofagreatromance,myfathershands,myfirstdaywiththeyankees,naked,notontheusualtour,odetostepfather,onlyonewaytofindout,penpal,quietfire,reachingoutbetweenthebars,shoppinginchina,singlewomanseekingmanwich,sloth,souls,stagefright,stumblinginthedark,superheroesjustforeachother,sweetaspie,swimmingwithastronauts,thatthingonmyarm,theadvancedbeginner,theclosetthatateeverything,thecurse,thefreedomridersandme,theinterview,thepostmanalwayscalls,theshower,thetiniestbouquet,thetriangleshirtwaistconnection,threemonths,thumbsup,tildeath,treasureisland,undertheinfluence,vixenandtheussr,waitingtogo,whenmothersbullyback,wheretheressmoke,wildwomenanddancingqueens			
-ds005455	77		yes	no		CognitiveControl,LanguageControl			
-ds006269	24		yes	no					
-ds006260	76		yes	yes		SmartickDataset			
-ds006128	3		yes	no		pRF			
-ds006142	27		yes	no					
-ds006267	24		yes	no					
-ds006039	31		yes	no					
-ds005407	25		yes	yes		peakysnr			
-ds004837	60		yes	no					
-ds005841	48		yes	yes					
-ds006018	127		yes	no					
-ds006131	12		yes	yes		bao,rat,rest			
-ds005555	128		yes	no					
-ds005431	42		yes	no					
-ds006159	61		yes	no					
-ds005540	60		yes	no					
-ds006234	119		yes	no					
-ds006233	108		yes	no					
-ds006187	0		no	no					
-ds001787	24		yes	yes		meditation			
-ds006248	50		yes	no					
-ds004148	60		yes	no					
-ds006169	80		yes	no					
-ds006138	1		yes	no					
-ds005520	23		yes	no					
-ds005226	65		yes	yes		image			
-ds006185	24		no	no					
-ds006218	138		yes	no					
-ds006192	24		no	no					
-ds006190	12		no	no					
-ds006184	11		no	no					
-ds006188	22		no	no					
-ds006189	24		no	no					
-ds006143	66		no	no		bao,rat,rest			
-ds006182	11		no	no					
-ds006191	12		no	no					
-ds006224	27		yes	no					
-ds006036	88		yes	yes		photomark			
-ds004173	148		yes	no					
-ds006156	64		no	no					
-ds005261	17		yes	no					
-ds004158	20		yes	yes		rest			
-ds003626	10		yes	no					
-ds006033	3		yes	no					
-ds006095	71		yes	yes		flat			
-ds006211	25		yes	no					
-ds006209	3		no	no					
-ds005947	48		yes	no					
-ds006207	1		no	no					
-ds005385	608		yes	no					
-ds006104	24		yes	no					
-ds004141	20		yes	no		auditoryfeedback,faceexplocalizer,nofeedback,visualfeedback			
-ds005811	19		yes	no					
-ds005810	31		yes	no					
-ds006193	1		no	no		bao,rat			
-ds004572	52		yes	no					
-ds005616	59		yes	no					
-ds004539	10		yes	no					
-ds004889	990		yes	no					
-ds006181	1		yes	no					
-ds004902	71		yes	no					
-ds006179	40		yes	no		ebavwfa,effloc,eploc,foss,lang,speech,spwm			
-ds006171	36		no	no					
-ds006145	12		no	no					
-ds005574	9		yes	no					
-ds003653	87		yes	no					
-ds002687	24		yes	yes		SLD,SLI,SSD,SSI,VLD,VLI,VSD,VSI			
-ds000030	272		yes	no		bart,bht,pamenc,pamret,rest,scap,stopsignal,taskswitch			
-ds004466	127		yes	no		rest			
-ds005545	106		yes	no					
-ds005978	1		yes	no					
-ds005345	26		yes	no					
-ds005413	45		yes	yes		expectpercept,visuallocalizer			
-ds006126	5		yes	no					
-ds006123	1		yes	no					
-ds005460	160		yes	yes		cet,stories			
-ds005028	11		yes	no					
-ds005648	1		yes	no					
-ds005481	60		yes	no					
-ds005747	90		yes	no					
+ds000255	2		yes	no		viewFigure,viewRandom			
+ds000157	30		yes	no		passiveimageviewing			
+ds000202	95		yes	no					
+ds000240	63		yes	no					
+ds000231	9		yes	no		flavor			
+ds000235	4		yes	no		rest			
+ds000219	21		yes	no		RPflavourtask			
+ds000200	14		yes	no		olfactory			
+ds000218	19		yes	no		ONSflavourtask			
+ds000234	5		yes	no		motorphotic			
+ds000144	45		yes	no		emotionalfaces			
+ds000120	26		yes	no		antisaccadetaskwithfixedorder			
+ds000168	35		yes	no		OP			
+ds000205	11		yes	no		functionallocalizer,view			
+ds000237	13		yes	no		MemorySpan			
+ds000245	45		yes	no		rest			
+ds000164	28		yes	yes		stroop			
+ds000222	79		yes	no					
+ds000229	15		yes	no		flavor			
+ds000254	13		yes	no		bilateralfingertapping			
+ds000214	36		yes	yes		Cyberball			
+ds000246	2		yes	no					
+ds000213	26		yes	no		socialcomparison			
+ds000239	3		yes	no					
+ds001338	22		yes	no		story1,story2,story3			
+ds001339	14		no	no		iaps			
+ds001344	15		yes	no		eyemovement,workingmemory			
+ds000114	10		no	no		covertverbgeneration,fingerfootlips,linebisection,overtverbgeneration,overtwordrepetition			
+ds001357	18		no	no		familiarity,viewing			
+ds001365	35		no	no					
 ds001378	25		yes	no					
-ds005450	51		yes	no					
-ds005737	1		no	no					
-ds003927	7		yes	no					
-ds003900	1		yes	no					
-ds003892	34		yes	no					
-ds003877	79		yes	no					
-ds003358	35		yes	no					
-ds005047	5		yes	yes		face			
-ds005980	24		no	no					
-ds005087	20		yes	yes		rsvp			
-ds004996	50		yes	yes		conversation			
-ds004873	75		yes	no					
-ds004851	66		yes	yes		HID			
-ds005048	35		yes	yes		40HzAuditoryEntrainment			
-ds005360	22		yes	no					
-ds004635	48		yes	yes		resting			
-ds004630	49		yes	yes					
-ds004261	57		yes	no		memoryTest,originalEvent,postEvent			
-ds004192	3		yes	yes		things			
-ds005341	49		yes	no					
-ds004091	8		yes	yes		AttendFixGazeCenter,AttendFixGazeCenterFS,AttendFixGazeLeft,AttendFixGazeRight,AttendStimGazeCenter,AttendStimGazeCenterFS,AttendStimGazeLeft,AttendStimGazeRight			
-ds005899	0		yes	no		csst			
-ds004495	40		yes	no					
-ds003612	51		yes	no		execution,imagery			
-ds006107	166		no	no					
-ds003846	19		yes	yes		PredictionError			
+ds001386	42		no	no					
+ds001399	6		yes	yes		CuedtsPro,delay,reward			
+ds001420	2		yes	no					
+ds001421	1		yes	no					
+ds001419	1		yes	no					
+ds001450	2		no	no					
+ds001021	1		yes	no		BREATHHOLD,CHECKERBOARD,DMNTRACKINGTEST,DMNTRACKINGTRAIN,MASK,MORALDILEMMA,MSIT,PEER1,PEER2,rest			
+ds001454	24		yes	no		rest,satellite			
+ds000201	86		yes	no		PVT,arrows,faces,hands,rest,sleepiness,workingmemorytest			
+ds001246	5		yes	no		imagery,perception			
+ds001506	3		yes	no					
+ds001511	13		yes	no		CMIYC,scrambled			
+ds001510	31		yes	no		perception,recall,schemarecall			
+ds001499	4		yes	yes		5000scenes,localizer			
+ds001486	132		yes	no		Mult,Num,Rhyming,Sub			
+ds000244	12		yes	no		ArchiEmotional,ArchiSocial,ArchiSpatial,ArchiStandard,ClipsTrn01,ClipsTrn02,ClipsTrn03,ClipsTrn04,ClipsTrn05,ClipsTrn06,ClipsTrn07,ClipsTrn08,ClipsTrn09,ClipsTrn10,ClipsTrn11,ClipsTrn12,ClipsVal01,ClipsVal02,ClipsVal03,ClipsVal04,ClipsVal05,ClipsVal06,ClipsVal07,ClipsVal08,ClipsVal09,ContRing,ExpRing,HcpEmotion,HcpGambling,HcpLanguage,HcpMotor,HcpRelational,HcpSocial,HcpWm,RSVPLanguage00,RSVPLanguage01,RSVPLanguage02,RSVPLanguage03,RSVPLanguage04,RSVPLanguage05,WedgeAnti,WedgeClock			
+ds001517	24		yes	no		pred,shape			
+ds001525	17		yes	no		localizer,repetition			
+ds000117	17		yes	yes		facerecognition			
+ds001529	38		no	no					
+ds001545	30		yes	no		movie			
+ds001534	42		no	no		calorieimage,foodimage			
+ds001547	5		yes	no					
+ds001553	3		yes	yes		checkerboard			
+ds001555	3		yes	no		FullFovAttentionTask,FullFovNoAttentionTask,HalfFovNoTask			
+ds001551	34		no	no		trust			
+ds001566	1		no	no					
+ds001576	36		no	no		dnms,learn			
+ds001583	21		no	no		proactive,reactive			
+ds001591	2		yes	no					
+ds000228	155		yes	no		pixar			
+ds001595	1		no	no		rest			
+ds001597	20		yes	yes		cuedMFM			
+ds001541	16		yes	no					
+ds001600	1		yes	no		rest			
+ds001461	81		yes	no					
+ds001497	10		yes	no					
+ds001607	32		no	no		learn,loc,test			
+ds000233	12		yes	no		beh,tax			
+ds000241	12		yes	no					
+ds001612	24		no	no		loc,main			
+ds001614	31		no	no		learn,localizer,respTrain,test			
+ds001618	36		no	no		autobio,nback,self			
+ds001621	20		yes	no		commstruc			
+ds001439	18		yes	no					
+ds001354	28		yes	no					
+ds001635	16		yes	no					
+ds001634	19		yes	no					
+ds001168	22		yes	no		rest			
+ds001652	8		no	no					
+ds001720	255		no	no					
+ds001722	19		yes	no					
+ds001728	1		yes	no					
+ds001740	25		no	yes		convers			
+ds001745	24		no	no		ImageLoc,StudyTest,loc			
+ds001743	12		no	no					
+ds001748	62		yes	no					
+ds001705	5		yes	no					
+ds000220	26		yes	no					
+ds001762	31		no	no		forage			
+ds001715	34		no	no		dts			
+ds001761	4		yes	no					
+ds001232	21		yes	no		phase1,phase2			
+ds001554	23		no	no		listening			
+ds001521	41		yes	no		localizer,study			
+ds001771	40		yes	yes		identification,localizer			
+ds001775	24		no	no		RP,restudy			
+ds000212	39		yes	no					
+ds001590	32		yes	yes		loc,ser,sim			
+ds001229	27		yes	no		em,wm			
+ds001868	1		yes	no					
+ds001875	9		yes	no		rest			
+ds000224	10		yes	no		glasslexical,memoryfaces,memoryscenes,memorywords,motor,rest			
+ds000172	13		yes	no		rest			
+ds001890	30		yes	no					
+ds001769	16		yes	no		movie			
+ds001907	46		yes	no		ANT,rest			
+ds001734	108		yes	no		MGT			
+ds001919	254		yes	no					
+ds001921	15		yes	no		forage			
+ds001923	14		yes	no		forage			
+ds000148	49		yes	no		figure2backwith1backlures			
+ds001912	17		yes	no					
+ds001927	23		yes	no					
+ds001894	188		yes	yes		AANonWord,AAWord,AVNonWord,AVWord,VVNonWord,VVWord			
+ds001926	32		yes	no		localizer,post,study,test			
+ds001019	35		no	no		navlearn			
+ds001945	34		yes	no					
+ds001810	47		yes	yes		attentionalblink			
+ds001882	20		yes	no					
+ds001883	21		yes	no					
+ds000158	217		yes	no		passivelistening			
+ds001242	52		yes	no					
+ds001966	29		yes	no		doubleauction			
+ds001971	20		yes	yes		AudioCueWalkingStudy			
+ds001978	14		yes	no					
+ds001972	33		yes	no					
+ds001984	15		yes	no					
+ds002000	21		yes	no					
+ds002001	11		yes	no					
+ds002006	30		no	no		ColorDots,FoodChoice,Memory			
+ds001408	52		yes	no					
+ds002011	22		yes	yes		Overlap,ppalocalizer			
+ds002016	4		yes	no					
+ds001818	50		no	no		localizer,probe,responsetostim,training			
+ds002033	43		no	yes		ChangeDetection			
+ds002040	1		no	no					
+ds001840	24		no	yes		viewclips			
+ds001608	21		no	yes		viewclips			
+ds001653	29		no	no					
+ds001784	14		yes	no		afmsit,rest			
+ds002013	4		yes	yes		CircCon,CircRun			
+ds002080	29		yes	no					
+ds002041	25		yes	yes		TD,rest			
+ds002087	1		yes	no					
+ds002094	20		no	no					
+ds001946	24		yes	no		actions,loc			
+ds001849	20		no	no		tmseegrest			
+ds002034	14		yes	no					
+ds001725	40		no	no					
+ds002154	24		no	no					
+ds002076	13		yes	no					
+ds002156	1		yes	no		rest			
+ds002155	20		no	no					
+ds002153	1		no	no					
+ds002149	20		yes	no		condassoc			
+ds002179	1		yes	no					
+ds001981	24		yes	no		efs			
+ds001482	33		yes	no		vocal			
+ds002207	7		yes	no					
+ds001563	1		yes	no					
+ds000216	7		yes	no		rest			
+ds002218	18		yes	yes		Experiment			
+ds002237	16		no	no		loc,postmemory,prememory,rsvp			
+ds001928	40		yes	no					
+ds002242	35		yes	no		stt			
+ds002250	20		yes	no					
+ds002014	1		yes	no		languageproduction			
+ds002293	1		yes	no					
+ds002311	23		no	no		loc,mot,postmemory,prememory			
+ds002307	19		yes	no					
+ds000210	31		yes	no		cuedSGT,rest			
+ds002316	36		yes	no		Beast,epi,rest,reward			
+ds002320	82		yes	no					
+ds002322	26		yes	no					
+ds002328	1		yes	no					
+ds001345	12		yes	no		memory			
+ds002336	10		yes	no		MIpost,MIpre,eegNF,eegfmriNF,fmriNF,motorloc			
+ds002338	17		yes	no		1dNF,2dNF,MIpost,MIpre			
+ds002345	345		yes	no					
+ds000030	272		yes	no		bart,bht,pamenc,pamret,rest,scap,stopsignal,taskswitch			
+ds002278	5		yes	yes		EIRT,PST,SORPF,arithmetic,localizerDetection,localizerEstimation,rest,strangerthings			
+ds001787	24		yes	yes		meditation			
+ds000006	14		yes	yes		livingnonlivingdecisionwithplainormirrorreversedtext			
+ds000007	20		yes	no		stopmanual,stopvocal,stopword			
+ds000009	24		yes	no		balloonanalogrisktask,discounting,emotionalregulation,stopsignal			
+ds000031	1		yes	yes		breathhold,dots,language,nback,objects,rest,retinotopy,spatialwm			
+ds000053	59		yes	no		baseline,posttest,training			
+ds000108	34		yes	no		Emotionregulation			
+ds000110	18		yes	no		IncidentalencodingtaskusingPosnercueingparadigmwithobjectvgreeblejudgment			
+ds000113	37		yes	no		auditoryperception,coverage,movie,movielocalizer,objectcategories,orientation,retmapccw,retmapclw,retmapcon,retmapexp			
+ds000115	99		yes	no		letter0backtask,letter1backtask,letter2backtask			
+ds000119	73		yes	no		visualguidedsaccade			
+ds000121	28		yes	no		incentiveantisaccade			
+ds000133	26		yes	no		rest			
+ds000140	33		yes	no		heatpainwithregulationandratings			
+ds000170	15		yes	no		TrainedHandTrainedSequence,TrainedHandUntrainedSequence,UntrainedHandTrainedSequence,UntrainedHandUntrainedSequence			
+ds000171	39		yes	no		music,nonmusic			
+ds000203	26		yes	no		visualimageryfalsememory			
+ds000206	6		yes	no					
+ds000217	41		yes	yes		localizer,picturetest,routelearning			
+ds000221	318		yes	no					
+ds000223	19		yes	yes		mag			
+ds000238	35		yes	no		med8,quick4n,quick6,slow10,slow12			
+ds000243	120		yes	no		rest			
+ds000247	6		yes	no					
+ds000249	26		yes	yes		genInstrAv			
+ds000253	20		yes	no		localizer,run1,run2,run3,run4			
+ds000256	24		yes	no		restbaseline,restfixationadaptive,restfixationfixed,restfixationnofeedback,restmovieadaptive,restmoviefixed,restmovienofeedback			
+ds000258	89		yes	no		rest			
+ds001107	0		no	no					
+ds001167	40		yes	no		effortmixedgambles,efforttraining,probabilitymixedgambles			
+ds001218	30		no	no		mentalstates			
+ds001226	36		yes	no					
+ds001228	24		yes	no		collaborativetask			
+ds001233	18		yes	no		cuedSFM			
+ds001235	12		yes	no		1back			
+ds001241	24		yes	no					
+ds001293	7		no	no					
+ds001297	33		no	no		faceidentityoddball			
+ds001302	23		no	no					
+ds001417	36		yes	no		probe,responsetosnacks			
+ds001430	31		yes	no		loc,phase1,phase2,phase3			
+ds001491	20		yes	no		FlavorRun1,FlavorRun2,FlavorRun3,FlavorRun4,images			
+ds002165	1		no	no					
+ds002181	226		yes	no					
+ds002232	6		yes	no					
+ds002236	91		yes	yes		AudRhyme,AudSem,AudSpell,VisRhyme,VisSem,VisSpell			
+ds002270	19		yes	no		viewingfoodhighres,viewingfoodlowres			
+ds002274	1		yes	no					
+ds002355	29		no	no		localizer,masscolor,massfriction,masstask			
+ds002358	1		yes	no					
+ds002330	66		no	no		rest			
+ds002367	1		yes	no					
+ds002372	1		yes	no					
+ds002374	1		yes	no					
+ds002366	34		yes	yes		emoregRun1,emoregRun2,emoregRun3,emoregRun4			
+ds002393	19		yes	no					
+ds002380	143		yes	no					
+ds002363	22		no	no					
+ds002422	46		no	no					
+ds001353	29		yes	no					
+ds002419	48		yes	yes		taste1,taste2			
+ds002306	6		yes	no					
+ds002411	29		yes	yes		ProgramCategorization			
+ds002522	48		yes	yes		CRF			
+ds002547	26		yes	no					
+ds002513	65		no	no					
+ds002543	49		yes	no		RLlearningphase,RLtestphase,Stopsignal,ppaffalomapper			
+ds002549	1		no	no					
+ds002574	3		yes	no		prf			
+ds002551	7		yes	no					
+ds002578	2		yes	yes					
+ds002596	19		yes	no		d1,d2			
+ds002683	30		yes	no		1back,effort			
+ds002685	13		yes	no		ArchiEmotional,ArchiSocial,ArchiSpatial,ArchiStandard,Attention,Audi,Audio,Bang,ClipsTrn,ClipsVal,ColumbiaCards,ContRing,Discount,DotPatterns,Enumeration,ExpRing,HcpEmotion,HcpGambling,HcpLanguage,HcpMotor,HcpRelational,HcpSocial,HcpWm,Lec1,Lec2,MCSE,MTTNS,MTTWE,MVEB,MVIS,Moto,PreferenceFaces,PreferenceFood,PreferenceHouses,PreferencePaintings,RSVPLanguage,Raiders,RestingState,SelectiveStopSignal,Self,StopSignal,Stroop,TwoByTwo,VSTM,Visu,WardAndAllport,WedgeAnti,WedgeClock			
+ds002687	24		yes	yes		SLD,SLI,SSD,SSI,VLD,VLI,VSD,VSI			
+ds002691	20		yes	yes					
+ds002680	14		yes	yes					
+ds002655	35		yes	no					
+ds002294	40		no	no		roletrait			
+ds002702	11		yes	no		floc,ring			
+ds002711	15		yes	no		smiley			
+ds002715	8		no	no					
+ds002712	25		yes	no					
+ds002717	59		yes	no					
+ds002718	18		yes	yes		FaceRecognition			
+ds002732	30		no	no		rating			
+ds002723	8		yes	no					
+ds002720	18		yes	no					
+ds002722	19		yes	no					
+ds002721	31		yes	no					
+ds002724	10		yes	no					
+ds002725	21		yes	no					
+ds002750	3		yes	no					
+ds002749	29		yes	no		rest			
+ds002770	86		no	no					
+ds002734	22		yes	no		main			
+ds002727	23		yes	no		silentreading			
+ds002778	31		yes	no		rest			
+ds002773	19		yes	no		localizer,retrieval,updating			
+ds002614	1		yes	no					
+ds002609	49		yes	no		rest			
+ds002105	24		yes	no					
+ds002776	26		yes	yes		motorseq			
+ds002168	48		yes	no		mst			
+ds002797	22		yes	no		Main			
+ds002793	28		yes	no					
+ds002295	7		yes	no		checkerboard,fixation,prf			
+ds002743	3		yes	no					
+ds002737	1		yes	no					
+ds002733	1		yes	no		rest			
+ds002739	24		yes	no		main			
+ds002726	29		yes	no					
+ds002735	11		yes	no		rest			
+ds002731	59		yes	no					
+ds002809	17		no	no		loc,varyingISI			
+ds002790	226		yes	yes		emomatching,restingstate,stopsignal,workingmemory			
+ds002785	216		yes	yes		anticipation,emomatching,faces,gstroop,restingstate,workingmemory			
+ds002844	6		yes	no					
+ds002837	86		yes	no		12yearsaslave,500daysofsummer,backtothefuture,citizenfour,littlemisssunshine,pulpfiction,split,theprestige,theshawshankredemption,theusualsuspects			
+ds002868	16		no	no					
+ds002870	132		no	no					
+ds002848	5		yes	no					
+ds002842	22		yes	no		silentreading			
+ds002841	29		yes	no		localizer,masscolor,massfriction,masstask			
+ds001619	11		yes	no					
+ds002873	1		no	no					
+ds001348	28		no	no		effort1,effort2			
+ds002886	56		yes	yes		Syllogisms,Transitive			
+ds002879	32		yes	yes		AANonWord,AAWord,VVNonWord,VVWord			
+ds002872	39		yes	yes		illusion			
+ds002766	3		yes	no					
+ds002894	18		yes	yes		languagelocalizer,maindesign			
+ds002896	38		yes	no		rest			
+ds002898	27		yes	no					
+ds002862	71		yes	no		read			
+ds002912	2		no	no					
+ds002885	2		yes	no					
+ds002939	2		no	no					
+ds002938	30		yes	no		1back,effort			
+ds002940	24		yes	no					
+ds002941	26		yes	yes		Mult,Num,Rhyming,Sub			
+ds002982	2		yes	no					
+ds002893	49		yes	yes		AuditoryVisualShift			
+ds002995	18		yes	yes		tastemap			
+ds003004	34		yes	no					
+ds003007	29		yes	no		rest			
+ds002748	72		yes	no		rest			
+ds002799	26		yes	no					
+ds001832	16		no	no		rest			
+ds003017	25		yes	no		movie			
+ds003012	29		yes	no		doubleauction			
+ds002351	25		yes	yes		LDT			
+ds002994	56		no	no		fLoc,fribBids			
+ds002791	23		no	no					
+ds002833	20		no	no					
+ds003023	39		no	no		happy,rest,sadln,sadsh			
+ds002905	18		yes	yes		languagelocalizer,maindesign			
+ds002990	20		yes	no					
+ds001747	92		yes	no					
+ds003059	15		yes	no					
+ds003047	11		yes	no					
+ds000149	15		no	no		picturemanualresponse,picturenback			
+ds001415	21		yes	yes		maplistening			
+ds003027	23		no	no					
+ds003076	17		no	yes		Syllogisms,Transitive			
+ds003028	26		yes	yes		Mult,Num,Rhyming,Sub			
+ds002936	3		yes	no					
+ds003037	53		yes	no					
+ds003078	6		yes	no					
+ds003089	20		yes	no					
+ds003098	1		no	no					
+ds003103	30		yes	no					
+ds003104	1		yes	no					
+ds003090	159		yes	no		rest			
+ds003085	39		no	no		happy,rest,sadln,sadsh			
+ds003083	26		yes	yes		Mult,Num,Rhyming,Sub			
+ds003151	20		yes	no					
+ds003145	147		yes	no		verbgen			
+ds003126	58		yes	no		read			
+ds003114	49		yes	no					
+ds003148	60		yes	no					
+ds003146	33		yes	no		vocal			
+ds003136	25		yes	yes		affect,infant			
+ds002878	35		yes	no		soccer			
+ds003095	38		yes	no		run1,run2,run3,run4			
+ds003190	19		yes	no					
+ds003216	3		yes	no					
+ds003171	17		yes	no					
+ds003233	25		yes	no					
+ds003242	96		yes	yes		CIC,midloc			
+ds003195	10		yes	no					
+ds003194	15		yes	no					
+ds003325	33		yes	no					
+ds003170	16		yes	no		changepoint			
+ds003342	19		yes	yes		grasp,localiser			
+ds003340	20		yes	yes		foodpicture,tastemap			
+ds003345	75		yes	no					
+ds003346	144		yes	no					
+ds003338	20		yes	no		None,recall,view			
+ds003367	0		no	no					
+ds003374	9		yes	no					
+ds003343	20		yes	no					
+ds003380	12		yes	no					
+ds003061	13		yes	yes		P300			
+ds003082	2		yes	no					
+ds001839	6		yes	no					
+ds001838	53		no	yes		Adaptation			
+ds001796	64		yes	no					
+ds002169	33		no	no		CCD,loca			
+ds001847	32		no	no		photo			
+ds002382	61		yes	no					
+ds002134	31		yes	no					
+ds003029	35		yes	no					
+ds003097	928		yes	no		moviewatching			
+ds002241	31		yes	no		drawing,recognition			
+ds003416	97		yes	no					
+ds003417	18		yes	no					
+ds001751	20		no	no					
+ds001814	35		yes	yes		ARC			
+ds002647	91		yes	yes		IHG,Oddball			
+ds002602	56		yes	no		read,rest			
+ds002672	5		yes	no		locLREye			
+ds002634	20		yes	yes		ArtVoc,Factorial			
+ds002674	1		yes	no					
+ds001780	1		no	no					
+ds002608	41		yes	no		rest			
+ds002158	20		yes	yes		main,rest			
+ds003392	12		yes	no					
+ds003420	23		yes	no					
+ds003421	20		yes	no					
+ds003192	7		no	no		breathhold			
+ds002116	57		no	yes		Adaptation			
+ds003424	28		yes	no		resting,taste			
+ds002813	38		yes	yes		fintest,imtest,train			
+ds003433	18		yes	no					
+ds003434	18		yes	no					
+ds003438	1		yes	no					
+ds003439	1		yes	no					
+ds003440	1		yes	no					
+ds003441	2		yes	no					
+ds003443	1		yes	no					
+ds003442	1		yes	no					
+ds003444	1		yes	no					
+ds003445	1		yes	no					
+ds003446	1		yes	no					
+ds003452	13		yes	no					
+ds003430	7		yes	no					
+ds003454	24		no	yes		rapm			
+ds003437	12		yes	no					
+ds003455	1		yes	no					
+ds003453	39		yes	no					
+ds003458	23		yes	no					
+ds003459	34		yes	yes		audortho,audphono,audsem,audsynt,visortho,visphono,vissem,vissynt			
+ds003463	22		yes	no					
+ds003464	18		yes	no		bold			
+ds003470	20		yes	no					
+ds003478	122		yes	no					
+ds003466	21		yes	no		motor,rest			
+ds003481	145		yes	no					
+ds003483	21		no	no					
+ds003490	50		yes	no					
+ds003465	55		yes	yes		Axcpt,Cuedts,Stern,Stroop			
+ds003495	24		yes	yes		emomatching,restingstate			
+ds002835	26		yes	yes		prospection			
+ds003506	56		yes	no					
+ds003474	122		yes	no					
+ds003507	21		yes	no					
+ds003509	56		yes	no					
+ds003516	25		yes	no					
+ds003468	26		yes	no					
+ds003517	17		yes	no					
+ds003518	110		yes	no					
+ds003469	81		yes	no					
+ds003519	27		yes	no					
+ds003521	35		yes	no		movie			
+ds003522	96		yes	no					
+ds003523	91		yes	no					
+ds003524	13		yes	no		movie			
+ds003542	34		yes	no					
+ds003545	24		yes	no					
+ds003540	32		yes	no		rest			
+ds003520	17		yes	no					
+ds003548	16		yes	no		emotionalfaces,rest			
+ds003500	38		yes	yes		Conj19Sel,Conj1Inh,Conj9Inh,Feat19Sel,Feat1Inh,Feat9Inh			
+ds001785	19		yes	yes		adapt,thrdown,thrup			
+ds003552	19		yes	no					
+ds003436	55		yes	yes		anim			
+ds003382	10		yes	no		fullchecker,halfchecker,rest			
+ds003555	30		yes	no		hfo			
+ds003511	40		yes	yes		Recall			
+ds003498	20		yes	no					
+ds003505	20		yes	no					
+ds003563	1		yes	no					
+ds003565	156		yes	no					
+ds003011	4		yes	no		rest			
+ds003568	51		yes	no					
+ds003569	25		yes	yes		LDT			
+ds003570	40		yes	no					
+ds002424	79		yes	yes		SLD,SLI,SSD,SSI,VLD,VLI,VSD,VSI			
+ds003574	18		yes	yes		game,rest			
+ds003590	1		yes	no					
+ds002814	21		yes	no		categorySelectivity			
+ds000204	1		no	no					
+ds002425	5		yes	no					
+ds000232	10		yes	no					
+ds002385	149		yes	no					
+ds002675	24		yes	no		language			
+ds002684	4		no	no					
+ds002761	25		yes	yes		loc,mem			
+ds003176	34		yes	no		EyeMag			
+ds003352	18		yes	no					
+ds003357	32		yes	no		rest			
+ds003381	21		no	no					
+ds003427	4		yes	no		checkerboard			
 ds003484	20		yes	no					
 ds003508	57		yes	no					
-ds006105	75		yes	no					
-ds003404	20		yes	no					
+ds002603	23		yes	yes		wm			
+ds002606	10		yes	no		locAPepi3d,locAPsms16iso,locPAepi3d5vol,locPAsms16iso5vol			
+ds002908	13		no	no					
+ds003043	1		yes	no					
+ds003096	31		no	no		pinf			
+ds001371	47		no	no					
+ds001848	52		no	yes		ParallelAdaptation			
+ds001942	10		yes	no		auditory,rest			
+ds002144	36		no	no		pair,random			
+ds002185	22		yes	yes		odors			
+ds002550	22		yes	no					
+ds002738	36		yes	yes		epi,rest,reward			
+ds002741	30		yes	no		caricatures,localizer			
 ds003052	25		yes	no					
-ds003039	19		yes	no					
-ds002425	5		yes	no					
-ds002385	149		yes	no					
-ds002345	345		yes	no					
-ds005894	25		no	no		Encode,Item,Loci,Retrieve,test			
-ds002232	6		yes	no					
-ds001907	46		yes	no		ANT,rest			
-ds005381	50		yes	yes		DET			
-ds005623	68		yes	no					
-ds005059	72		yes	no					
-ds004789	280		yes	no					
-ds004787	5		yes	no					
-ds004044	62		yes	no		motor			
-ds004230	16		yes	no					
-ds004024	13		yes	no					
-ds004011	22		yes	no					
+ds003599	133		no	no					
+ds003606	29		yes	no					
+ds003612	51		yes	no		execution,imagery			
+ds003626	10		yes	no					
+ds003094	16		yes	no		analogy			
+ds003620	44		yes	no					
+ds003604	322		yes	yes		Gram,Phon,Plaus,Sem			
+ds001161	2		no	no		effortmixedgambles,efforttraining,probabilitymixedgambles			
+ds003642	3		yes	no					
+ds003639	29		yes	no					
+ds003487	24		yes	yes		PIT,hedonic,instrulearning,pavconditioning			
+ds003647	34		yes	no		whiskerasl,whiskerepi			
+ds002843	166		yes	yes		itc,rest,risk			
+ds003633	12		yes	no					
+ds003655	156		yes	no					
+ds003645	19		yes	yes		FacePerception,FaceRecognition			
+ds003669	47		no	no		detectdiscrim			
+ds003643	112		yes	no					
+ds003682	28		yes	no					
+ds003419	47		yes	no					
+ds003690	75		yes	no					
+ds003688	63		yes	no					
+ds003702	47		yes	no					
+ds003701	96		yes	no		cpro,rest			
+ds003703	34		yes	yes		listeningToSpeech			
+ds003708	1		yes	yes		ccep			
+ds003707	36		yes	no		obj,scene			
+ds003709	51		yes	no					
+ds003714	1		no	no					
+ds003653	87		yes	no					
+ds003711	35		no	yes					
+ds003670	25		yes	no					
+ds003710	13		yes	no					
+ds003716	1		yes	no					
+ds003694	28		no	no					
+ds003722	10		yes	yes		MIvsRest			
+ds003553	19		yes	yes		FacesHousesTE27			
+ds003554	41		yes	yes		RepYo1,RepYo2			
+ds003550	38		yes	yes		RepMem1,RepMem2B			
+ds003739	30		yes	no					
+ds003745	98		yes	no		sharedreward,trust,ultimatum			
+ds003752	3		no	no					
+ds003661	5		yes	no					
+ds003646	77		yes	no					
+ds003751	40		yes	no					
+ds003397	15		yes	no		checkerboard			
+ds003764	60		yes	yes		categorization			
+ds003720	5		yes	no					
+ds003763	62		yes	no					
+ds003721	35		yes	yes		BI,Film,React			
+ds003768	33		yes	no					
+ds003758	15		yes	yes		beads			
+ds003766	31		yes	no					
+ds003770	8		yes	no		emnfb			
+ds003772	32		yes	yes		changepoint			
+ds003673	27		yes	no					
+ds003499	90		yes	yes		freq1,freq2,freqreports1,freqreports2,memtest1,memtest2,pairedassociates1,pairedassociates2			
+ds003774	20		yes	no					
+ds003775	111		yes	no					
+ds003826	136		yes	no					
+ds003821	284		yes	no					
+ds003777	4		no	no		locAPSTARC,locAPSTARCps,locAPSTARCtsm,locAPcovSoS,locPASoS5vol			
+ds003787	44		yes	no					
+ds003778	32		yes	no					
+ds003782	40		no	no		effortmixedgambles,efforttraining,probabilitymixedgambles			
+ds003791	49		no	no		PSAP			
+ds003799	48		yes	no					
+ds003816	48		yes	no					
+ds003812	12		yes	yes					
+ds003810	10		yes	yes		MIvsRest			
+ds003800	13		yes	no					
+ds003830	37		no	no					
+ds003844	6		yes	no					
+ds003822	25		yes	no					
+ds003825	50		yes	yes		rsvp			
+ds003846	19		yes	yes		PredictionError			
+ds003805	1		yes	no					
+ds003849	92		yes	no					
+ds003850	1		yes	no		vis			
+ds003858	12		yes	yes		MID			
+ds003838	86		yes	no					
+ds003425	13		yes	no					
+ds003974	52		yes	no		read,rest			
+ds003989	3		yes	no					
+ds003990	6		yes	no					
+ds003798	117		no	no					
+ds003592	301		yes	no					
+ds003949	284		yes	no					
+ds004000	43		yes	no					
+ds004007	25		no	no		listen			
+ds004006	41		no	no		pair,random			
 ds003947	61		yes	no					
 ds003944	82		yes	no					
-ds003367	0		no	no					
-ds005920	31		yes	no					
-ds000114	10		no	no		covertverbgeneration,fingerfootlips,linebisection,overtverbgeneration,overtwordrepetition			
-ds000258	89		yes	no		rest			
-ds000208	76		yes	no		rest			
-ds000109	36		no	no		theoryofmindwithmanualresponse			
-ds006092	60		yes	no					
-ds004698	12		yes	no					
-ds004514	12		yes	no					
-ds004517	7		yes	no					
-ds005892	55		yes	no					
-ds005857	33		yes	no					
-ds006065	7		yes	no					
-ds004194	14		yes	yes		prf,sixcatlocdiffisi,sixcatlocisidiff,sixcatloctemporal,soc,spatialpattern,temporalpattern			
-ds005166	103		yes	yes		AXCPT,SST,flanker			
-ds003642	3		yes	no					
-ds006071	1		yes	no					
-ds006040	28		yes	no					
-ds005896	262		yes	no					
-ds005901	120		yes	no					
-ds006035	5		yes	no					
-ds005256	117		yes	yes		alignvideo,faces,fractional,narratives,shortvideo,social			
-ds005875	43		yes	no					
-ds004392	58		yes	no					
-ds004663	34		yes	no		commpost,commpre,tv			
-ds001105	28		no	no		mentalstates			
-ds003643	112		yes	no					
-ds005873	125		yes	yes					
-ds005917	58		yes	no		rest			
-ds003645	19		yes	yes		FacePerception,FaceRecognition			
-ds005664	9		yes	no					
-ds006012	21		yes	no					
-ds006010	42		yes	no					
-ds005863	127		yes	no					
-ds004507	10		yes	no					
-ds006005	12		yes	yes		0p05,0p10,0p20			
-ds005960	41		yes	no					
-ds006001	7		yes	no					
-ds005516	430		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,surroundSupp,symbolSearch			
-ds005515	533		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,surroundSupp,symbolSearch			
-ds005511	381		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
-ds005514	295		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
-ds005512	257		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
-ds005510	135		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
-ds005509	330		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
-ds005508	324		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
-ds005507	184		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
-ds005506	150		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
-ds004869	27		yes	no					
-ds005590	7		yes	no					
-ds005619	7		yes	no					
-ds004712	20		yes	no					
-ds004458	2		yes	no		tapping			
-ds005505	136		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
-ds005931	8		yes	no					
-ds002312	19		no	no					
-ds005964	17		yes	no					
-ds005963	10		yes	no					
-ds005356	85		yes	no					
-ds004265	5		yes	no					
-ds005498	152		no	no		stim			
-ds005106	42		yes	yes		fix			
-ds004840	9		yes	no					
-ds005178	10		yes	yes		sleep			
-ds005953	2		yes	no					
-ds005017	39		yes	no					
-ds005486	159		no	no					
-ds005343	43		yes	yes		resting			
-ds005946	39		yes	no					
-ds003676	22		yes	no					
-ds004784	1		yes	yes		phantom			
-ds005366	156		yes	no					
-ds005429	15		yes	no					
-ds005003	42		yes	no					
-ds005752	251		yes	no					
-ds002336	10		yes	no		MIpost,MIpre,eegNF,eegfmriNF,fmriNF,motorloc			
-ds004892	30		no	no					
-ds005935	21		no	no					
-ds004774	14		no	no					
-ds004718	52		yes	no					
-ds005237	241		yes	no					
-ds005927	2		yes	no					
-ds005926	1		no	no					
-ds005521	2		yes	yes		meridianmapper			
-ds005880	20		yes	no					
-ds005907	53		yes	yes		ThreeArmedBandit			
-ds000001	16		yes	no		balloonanalogrisktask			
-ds004350	24		yes	yes					
-ds005405	101		yes	no					
-ds005874	59		yes	no					
-ds005903	6		no	no					
-ds005203	20		no	no					
-ds005754	220		yes	yes		StopSignal,antisaccade,axcpt,flanker,rest			
-ds005895	25		yes	no					
-ds005851	138		no	no					
-ds005882	23		yes	no					
-ds005717	3		yes	no		bao,float,laluna,lifted,partlycloudy,piper,presto,sintel,theblueumbrella,toystory2,up,walle,wind			
-ds005891	21		yes	no		releasesuppression			
-ds005185	20		yes	yes		ASSR,comfort,electrodeTestLab,sleep			
-ds005143	397		yes	no		rest			
-ds005839	25		yes	no		rest			
-ds005849	14		yes	no					
-ds000113	37		yes	no		auditoryperception,coverage,movie,movielocalizer,objectcategories,orientation,retmapccw,retmapclw,retmapcon,retmapexp			
-ds005876	29		yes	yes		songfamiliarity			
-ds005262	12		yes	no					
-ds005868	48		yes	yes		flankersFAR			
-ds005866	60		yes	yes		FlankerNEAR			
-ds004348	9		yes	no					
-ds005850	68		yes	no					
-ds002837	86		yes	no		12yearsaslave,500daysofsummer,backtothefuture,citizenfour,littlemisssunshine,pulpfiction,split,theprestige,theshawshankredemption,theusualsuspects			
-ds005733	33		yes	no					
-ds004868	10		yes	no					
-ds005787	19		yes	no					
-ds004798	15		yes	no					
-ds000117	17		yes	yes		facerecognition			
-ds005577	70		yes	yes		read,rhyme,wgen			
-ds005783	16		yes	no		EXP,LOC			
-ds005779	19		yes	no					
-ds005731	114		no	no					
-ds005416	23		yes	no					
-ds005713	217		yes	no					
-ds005304	35		yes	no					
-ds005170	5		yes	no					
-ds005250	8		yes	yes		fracback,rest			
-ds005699	4		yes	no					
-ds005687	38		yes	no		rest			
-ds005684	35		yes	no					
-ds005697	51		yes	yes		PerceiveImagine			
-ds005704	25		yes	no		pathvideo,recall,roomobjectvideo,roomvideo			
-ds005234	75		yes	no					
-ds005625	1		yes	no					
-ds004332	22		yes	no					
-ds005040	50		yes	no		clip,pm			
-ds005692	30		yes	no					
-ds005672	3		yes	yes		PerceiveImagine			
-ds005688	20		yes	no					
-ds005691	8		yes	no					
-ds002848	5		yes	no					
-ds004515	54		yes	no					
-ds005397	26		yes	yes		tectonic			
-ds004279	56		yes	no					
-ds005670	2		yes	no					
-ds004935	0		no	no					
-ds004215	0		no	no					
-ds005639	49		yes	no		bar1,bar2,bar3,wedgering1,wedgering2,wedgering3			
-ds005468	24		yes	no					
-ds002799	26		yes	no					
-ds005340	15		yes	yes		peakypitch			
-ds005635	18		yes	no					
-ds005636	78		yes	no					
-ds002778	31		yes	no		rest			
-ds005630	51		yes	no					
-ds004134	36		yes	no		ExpSamp			
-ds000221	318		yes	no					
-ds005128	40		yes	yes		deception			
-ds005628	102		yes	yes		Edzna			
-ds005594	16		yes	no					
-ds005598	45		yes	no		RLbaseline,RLlearning,leftbaseline,lefttransfer,rest,rightbaseline,rightlearning			
-ds005581	24		yes	no					
-ds005571	29		no	yes		gnga,gngb,msit			
-ds005624	24		yes	no					
-ds005596	31		yes	no					
-ds005620	21		yes	no					
-ds005605	18		yes	no					
-ds003974	52		yes	no		read,rest			
-ds004457	5		yes	yes		ccep			
-ds005531	6		yes	no					
-ds005025	21		no	no					
-ds005586	23		yes	yes		PassiveViewing			
-ds005604	49		no	no		bar1,bar2,bar3,wedgering1,wedgering2,wedgering3			
-ds004381	18		yes	no					
-ds005603	8		no	no					
-ds005090	7		no	no					
-ds005600	59		yes	no		ThalHi			
-ds005595	200		yes	no					
-ds005415	13		yes	no					
-ds005597	4		yes	no					
-ds004395	364		yes	no					
-ds005127	16		yes	no					
-ds005165	10		yes	yes		localizer,test,train			
-ds005588	40		yes	no					
-ds005576	25		yes	no					
-ds005472	58		yes	no					
-ds005115	1		yes	no		rest			
-ds005295	17		yes	no		catLoc,langLoc,vwfate			
-ds005518	50		yes	yes		narrative			
-ds005565	24		yes	yes		SemanticCategorization			
-ds004884	230		yes	no		naming40,rest			
-ds003848	6		yes	no					
-ds001386	42		no	no					
-ds005573	16		yes	no		rest			
+ds004009	33		no	no					
+ds004010	24		yes	yes		MultisensoryDetectionTask			
+ds003020	9		yes	no		AudioMotorLocalizer,AuditoryLocalizer,CategoryLocalizer1,CategoryLocalizer2,CategoryLocalizer3,MotorLocalizer,adollshouse,adventuresinsayingyes,afatherscover,againstthewind,alternateithicatom,avatar,backsideofthestorm,becomingindian,beneaththemushroomcloud,birthofanation,bluehope,breakingupintheageofgoogle,buck,catfishingstrangerstofindmyself,cautioneating,christmas1940,cocoonoflove,comingofageondeathrow,exorcism,eyespy,firetestforlove,food,forgettingfear,fromboyhoodtofatherhood,gangstersandcookies,goingthelibertyway,goldiethegoldfish,golfclubbing,gpsformylostidentity,hangtime,haveyoumethimyet,howtodraw,ifthishaircouldtalk,inamoment,itsabox,jugglingandjesus,kiksuya,leavingbaghdad,legacy,life,lifeanddeathontheoregontrail,lifereimagined,listo,mayorofthefreaks,metsmagic,mybackseatviewofagreatromance,myfathershands,myfirstdaywiththeyankees,naked,notontheusualtour,odetostepfather,onlyonewaytofindout,penpal,quietfire,reachingoutbetweenthebars,shoppinginchina,singlewomanseekingmanwich,sloth,souls,stagefright,stumblinginthedark,superheroesjustforeachother,sweetaspie,swimmingwithastronauts,thatthingonmyarm,theadvancedbeginner,theclosetthatateeverything,thecurse,thefreedomridersandme,theinterview,thepostmanalwayscalls,theshower,thetiniestbouquet,thetriangleshirtwaistconnection,threemonths,thumbsup,tildeath,treasureisland,undertheinfluence,vixenandtheussr,waitingtogo,whenmothersbullyback,wheretheressmoke,wildwomenanddancingqueens			
+ds003987	23		yes	no					
+ds003967	60		no	no					
+ds003972	8		yes	no		bodymotor			
+ds003950	42		no	no					
+ds003969	98		yes	no					
+ds003959	6		yes	no					
+ds004011	22		yes	no					
+ds003988	56		yes	no		read,rest			
+ds004018	16		yes	yes		rsvp			
+ds004019	62		yes	no					
+ds004024	13		yes	no					
 ds004022	7		yes	no					
-ds005559	42		yes	no					
-ds005557	18		yes	no					
-ds005558	9		yes	no					
-ds005523	22		yes	no					
-ds005386	52		yes	no					
-ds005534	191		yes	no					
-ds005494	20		yes	no					
-ds005469	43		yes	no					
-ds005529	186		yes	no					
-ds005522	58		yes	no					
-ds005464	29		yes	no					
-ds005504	68		no	no					
-ds004323	32		yes	no		gameplay			
-ds005497	19		yes	no					
-ds005496	6		yes	no					
-ds004771	61		yes	yes		PY			
-ds005489	38		yes	no					
-ds005449	122		yes	no					
-ds005492	35		no	no					
-ds005491	19		yes	no					
-ds003826	136		yes	no					
-ds004469	66		yes	no					
-ds004604	50		yes	no		gas			
-ds004998	20		yes	no					
-ds005186	16		yes	no					
-ds005467	24		yes	no					
-ds004661	17		yes	yes		nback			
-ds004645	15		yes	no		breathhold,checker,rest			
-ds005443	0		no	no					
-ds005454	5		yes	yes		mixed,rest			
-ds005126	35		yes	no					
-ds005420	37		yes	no					
-ds004616	26		yes	no					
-ds004569	58		yes	no					
-ds005238	11		yes	no					
-ds005410	81		yes	yes		conditioning			
-ds005427	20		yes	yes		ksdp			
-ds005422	1		yes	no					
-ds005418	35		yes	no		gas			
-ds005264	21		yes	no					
-ds005307	7		yes	no					
-ds004388	40		yes	no					
-ds004389	26		yes	no					
-ds005412	1		yes	no					
-ds005398	185		yes	no					
-ds005411	48		yes	no					
-ds004470	32		yes	no					
-ds005012	60		yes	yes		mid			
-ds005027	81		yes	yes		reward			
-ds005236	59		yes	no					
+ds004038	31		yes	no					
+ds004040	13		yes	no					
+ds004043	20		yes	no		tempex			
+ds003965	1		yes	yes		face,flocBLOCKED			
+ds003831	74		yes	no		identify1,identify2,modulate1,modulate2,rest			
+ds004044	62		yes	no		motor			
+ds004056	29		yes	no					
+ds003993	2		yes	no					
+ds004067	80		yes	no		sjt			
+ds004021	32		yes	no		rest,rotation,washout			
+ds004075	29		no	no					
+ds004015	36		yes	no					
+ds004092	27		yes	no		heat			
+ds004073	51		yes	yes		PD,SC,SD,SG,WC,WG			
+ds003401	35		yes	no		asrt			
+ds004091	8		yes	yes		AttendFixGazeCenter,AttendFixGazeCenterFS,AttendFixGazeLeft,AttendFixGazeRight,AttendStimGazeCenter,AttendStimGazeCenterFS,AttendStimGazeLeft,AttendStimGazeRight			
+ds003717	60		yes	no					
+ds004042	20		yes	no		movie,recall			
+ds003929	9		yes	no					
+ds004078	12		yes	no					
+ds003696	30		yes	no		affordance,localizer			
+ds004033	18		yes	no					
+ds004101	9		yes	no					
+ds004102	32		yes	no					
+ds004097	8		yes	no		MID,SST,nback,rest			
+ds004107	9		yes	no					
+ds004109	31		yes	no					
+ds004116	209		yes	no		rest			
+ds004114	646		yes	no		rest			
+ds004106	27		yes	yes		GuardDuty			
+ds003922	14		yes	no					
+ds004121	21		yes	yes		DriveWithTaskAudio			
+ds004123	29		yes	yes		DriveWithComplexity			
+ds004122	32		yes	yes		Drive			
+ds004120	109		yes	yes		DriveWithSpeedChange			
+ds004119	21		yes	yes		GuardDuty			
+ds004118	156		yes	yes		Drive			
+ds004105	17		yes	yes		DriveRandomSound			
+ds004086	58		yes	yes		RecogConf			
+ds003039	19		yes	no					
+ds004094	37		yes	yes		group,induct,learn,parse,struct			
+ds003404	20		yes	no					
+ds001379	1		yes	no		encode,forget,loci,recall			
+ds004128	32		yes	yes		DG			
+ds004103	66		yes	yes		OTCG			
+ds004134	36		yes	no		ExpSamp			
+ds004141	20		yes	no		auditoryfeedback,faceexplocalizer,nofeedback,visualfeedback			
+ds004146	417		yes	no					
+ds004129	1090		yes	no					
+ds004144	66		yes	no					
+ds004147	12		yes	no					
+ds004131	1		yes	no					
+ds004130	1		yes	no					
+ds004148	60		yes	no					
+ds004142	10		yes	no		loc,nf			
+ds004152	21		yes	no					
+ds004151	57		yes	no					
+ds004158	20		yes	yes		rest			
+ds004161	24		yes	no					
+ds003848	6		yes	no					
+ds004117	23		yes	yes		WorkingMemory			
+ds004166	71		yes	no					
+ds004068	48		yes	no		onevol,rest			
+ds003999	29		yes	no					
+ds004065	20		yes	no		lum			
+ds004187	3		yes	no					
+ds004194	14		yes	yes		prf,sixcatlocdiffisi,sixcatlocisidiff,sixcatloctemporal,soc,spatialpattern,temporalpattern			
+ds003789	32		yes	no		encoding,retrieval			
+ds004200	20		yes	yes		temporalscaling			
+ds004217	67		no	no		mentalstates			
+ds004219	10		no	no					
+ds004226	28		no	no		sitrep			
+ds003354	10		yes	no		empatom			
+ds003602	118		yes	no					
+ds004228	70		no	yes		piper			
+ds004229	2		yes	no					
+ds004230	16		yes	no					
+ds003876	39		yes	no					
+ds004081	35		no	no		unequalVariance			
+ds002643	80		no	no					
+ds004252	16		yes	yes		rsvp			
+ds004145	49		yes	no					
+ds004254	15		yes	no					
+ds004127	8		yes	no					
+ds003836	35		no	no		tsl			
+ds004259	64		no	no		numrisk			
+ds004256	53		yes	no					
+ds004262	21		yes	no					
+ds004264	21		yes	no					
+ds004265	5		yes	no					
+ds002989	40		yes	yes		DDbid			
 ds004100	57		yes	no					
-ds005406	29		yes	no					
-ds005123	114		yes	no		doors,sharedreward,socialdoors,trust,ugr			
-ds004054	42		yes	no					
-ds004627	130		yes	no		rest			
-ds005403	32		yes	no					
-ds005075	31		yes	no					
-ds005402	34		yes	no		rest			
-ds005258	2		no	no					
-ds003775	111		yes	no					
-ds005383	30		yes	no					
-ds005131	58		yes	no					
-ds005374	43		yes	no		1,loc			
-ds005363	43		yes	no					
-ds002761	25		yes	yes		loc,mem			
-ds005375	58		yes	no					
-ds005365	1		yes	no		rest			
-ds005364	100		no	yes		rl			
-ds004305	32		yes	no					
-ds004957	18		yes	no		naming			
-ds004848	73		yes	no					
-ds004306	12		yes	no					
-ds004640	3		yes	no					
-ds005357	45		no	no					
-ds005355	12		yes	no					
-ds005134	1		yes	no		rest			
-ds005342	32		yes	yes		sitstand			
-ds004693	29		yes	no		localizer,main			
-ds005274	22		no	no					
-ds005216	78		yes	no					
-ds005305	165		yes	yes		restingstate			
-ds005279	30		yes	no					
-ds004980	17		no	yes		DefaultTask			
-ds005239	4		yes	no					
-ds005079	1		yes	yes		biofieldtherapy			
-ds005299	1		yes	no					
-ds005296	62		yes	yes		sentencesemanticandsyntacticviolations			
-ds004587	103		yes	no					
-ds004737	20		yes	no					
-ds004489	15		yes	no					
-ds005273	33		no	no					
-ds005270	158		yes	yes					
-ds005230	44		yes	no		RLbaseline,RLlearning,rest			
-ds005267	21		yes	no					
-ds005266	68		yes	no					
-ds005265	78		yes	no					
-ds005263	68		yes	no					
-ds005189	30		yes	no					
-ds003814	10		yes	yes		dyloc,famepisodic,famsemantic,famvisual,langloc,tomloc2			
-ds003816	48		yes	no					
-ds005241	24		yes	no					
-ds004855	1		yes	yes		nback			
-ds005016	147		no	no					
+ds004278	30		yes	no					
+ds004280	2		yes	no		hyper			
+ds004283	4		yes	no					
+ds004173	148		yes	no					
+ds004276	19		yes	no					
+ds004213	5		yes	no					
+ds003659	3		no	no					
+ds004295	26		yes	yes		task			
+ds004301	11		yes	no					
+ds004299	123		yes	no		extinction,reacquisition,rest,training			
+ds003638	57		yes	no					
+ds003753	25		yes	no					
+ds003801	20		yes	no					
+ds003885	24		yes	no		movement			
+ds003887	24		yes	no		movement			
+ds004315	50		yes	no					
+ds004317	50		yes	no					
+ds004302	71		yes	yes		speech			
+ds004286	23		yes	no					
+ds004330	30		yes	no					
+ds004331	30		yes	no		localizer,main			
+ds004332	22		yes	no					
+ds004339	2		yes	no					
+ds004347	24		yes	no					
 ds004346	1		yes	no					
-ds004582	73		yes	no					
-ds005233	13		yes	no					
-ds004666	1		yes	no					
-ds004928	10		yes	yes		tones			
-ds005207	20		yes	yes		sleep			
-ds005194	8		yes	no					
-ds005056	25		yes	no					
-ds005191	6		yes	no					
+ds004348	9		yes	no					
+ds004349	57		yes	yes		expo,rest			
+ds004350	24		yes	yes					
+ds004359	57		yes	no					
+ds004356	22		yes	yes		MusicvsSpeech			
+ds002979	1		no	no					
+ds004367	40		yes	yes		rdk			
+ds004368	39		yes	yes		task			
 ds004362	109		yes	yes		motion			
-ds004917	53		yes	yes		pdm			
-ds005169	20		yes	no					
-ds003745	98		yes	no		sharedreward,trust,ultimatum			
-ds005138	5		yes	no					
+ds004192	3		yes	yes		things			
+ds004285	78		yes	no					
+ds004401	1		yes	no					
+ds004393	32		yes	no					
+ds004392	58		yes	no					
+ds004400	25		yes	yes		NumberComparison			
+ds004408	19		yes	no					
+ds004398	1		yes	yes		loc,post,rew,struct			
+ds004440	49		yes	no					
+ds004306	12		yes	no					
+ds004441	24		yes	no					
+ds004444	30		yes	yes		smrbmi			
+ds004446	30		yes	yes		smrbmi			
+ds004447	22		yes	yes		smrbmi			
+ds004448	56		yes	yes		smrbmi			
+ds004443	9		no	no					
+ds004455	94		yes	no					
+ds004406	23		no	no		HSR			
+ds004458	2		yes	no		tapping			
+ds004460	20		yes	yes		Rotation			
+ds004369	41		yes	no					
+ds004466	127		yes	no		rest			
+ds004470	32		yes	no					
+ds004471	40		yes	no					
+ds004473	8		yes	no		SlowFast			
+ds004477	9		yes	no					
+ds004489	15		yes	no					
+ds004199	170		yes	no					
+ds004498	1		no	no					
+ds004502	48		no	no					
+ds004312	20		yes	yes		foodpicture,tasteimagine			
+ds004450	3		yes	no					
+ds004496	30		yes	yes		coco,floc,imagenet,prf			
+ds004509	20		yes	no					
+ds004510	3		yes	no		AttendFemaleSpeaker,AttendMaleSpeaker,ImaginedSpeech,laluna,partlycloudy,presto,sintel			
+ds004080	74		yes	yes					
+ds004511	45		yes	no					
+ds004493	16		yes	no					
+ds004484	20		yes	no					
+ds004478	6		yes	no					
+ds004519	40		yes	yes		ProAntiCue			
+ds004488	30		yes	yes		action			
+ds004520	33		yes	yes		Retrocue			
+ds004516	43		yes	no					
+ds004521	34		yes	yes		Postcues			
+ds004507	10		yes	no					
+ds004360	52		no	no					
+ds004529	34		yes	no		frapps,localizer			
+ds004513	20		yes	no					
+ds004532	110		yes	yes		PST			
+ds004017	21		yes	no					
+ds004539	10		yes	no					
+ds004261	57		yes	no		memoryTest,originalEvent,postEvent			
+ds003691	29		yes	no		bars,ecc,feedBES,polar,retmap,sensoryT,tarmap			
+ds004505	25		yes	no					
+ds004544	38		no	no					
+ds004381	18		yes	no					
+ds004465	15		yes	no					
+ds004551	114		yes	no					
+ds004552	1		yes	no					
+ds004271	2		yes	yes		AttendFixGazeCenterFS,AttendStimGazeCenterFS,Calib,GazeCCW,GazeCW,GazeColumns,GazeLines			
+ds004553	50		yes	no		nonsoc,social			
+ds004554	16		yes	yes		picturenaming			
+ds004556	53		yes	yes		feedback			
+ds004557	35		yes	yes		feedback			
+ds004357	16		yes	yes		rsvp			
+ds004560	2		yes	no					
+ds004196	4		yes	no					
+ds004386	48		yes	no		rest			
+ds004561	23		yes	no					
+ds004564	2		yes	no					
+ds004457	5		yes	yes		ccep			
+ds004574	146		yes	yes		Oddball			
+ds004572	52		yes	no					
+ds004577	103		yes	no					
+ds004579	139		yes	yes		IntervalTiming			
+ds004580	147		yes	yes		Simon			
+ds004395	364		yes	no					
+ds004588	42		yes	yes		unnamed			
+ds004590	4		yes	no					
+ds004584	149		yes	yes		Rest			
+ds004515	54		yes	no					
+ds004603	37		yes	no					
+ds004597	27		yes	no					
+ds004284	18		yes	no					
+ds004305	32		yes	no					
+ds004592	27		yes	yes		documentary,gradCPTface,gradCPTscene,sitcomep1,sitcomep2			
+ds004620	8		yes	no					
+ds004624	3		yes	no					
+ds004563	40		yes	yes		touchdecoding			
+ds004598	9		no	no					
+ds004483	19		yes	no					
+ds004482	23		yes	no					
+ds004627	130		yes	no		mid,rest			
+ds004631	38		yes	no		listen			
+ds004327	47		yes	no		odor			
+ds004632	11		yes	no					
+ds004635	48		yes	yes		resting			
+ds004640	3		yes	no					
+ds004616	26		yes	no					
+ds004644	24		yes	no					
+ds004645	15		yes	no		breathhold,checker,rest			
+ds004602	182		yes	yes		flanker,gonogo,stroop			
+ds004647	44		yes	no		gng,wmgng			
+ds004595	53		yes	no					
+ds004642	10		yes	no					
+ds004650	1		yes	no					
+ds004648	88		yes	no		rest			
+ds004475	30		yes	yes		task			
+ds004341	28		yes	yes		semenc			
+ds004279	56		yes	no					
+ds004656	15		yes	no					
+ds004657	24		yes	yes		Drive			
+ds004660	21		yes	yes		P300			
+ds004661	17		yes	yes		nback			
+ds004662	8		yes	no					
+ds004626	52		yes	yes		DotProbe			
+ds004604	50		yes	no		gas			
+ds004533	45		no	no		ironiavev,rest			
+ds004692	30		yes	yes		study,test			
+ds004698	12		yes	no					
+ds004693	29		yes	no		localizer,main			
+ds004696	8		yes	no					
+ds004697	84		yes	no					
+ds004589	99		yes	no					
+ds004663	34		yes	no		commpost,commpre,tv			
+ds004703	10		yes	no					
+ds004711	187		yes	no		bart,delaydiscounting			
+ds004706	34		yes	no					
+ds004469	66		yes	no					
+ds004717	42		yes	no					
+ds004720	2		yes	no					
+ds004738	4		yes	no					
+ds004742	1		no	no					
+ds004744	17		yes	no					
+ds004743	19		yes	no					
+ds004725	87		yes	no		rest			
+ds004745	6		yes	yes		unnamed			
+ds004737	20		yes	no					
+ds004562	23		yes	yes		adaptation			
+ds004752	15		yes	no					
+ds004324	26		yes	no					
+ds004467	18		yes	no		langloc,litlong,litshort,tom			
+ds004767	55		yes	no					
+ds004746	395		yes	yes		paingen			
+ds004594	20		yes	no		matchjudgment			
+ds004670	7		yes	no					
+ds004770	10		yes	no					
+ds004771	61		yes	yes		PY			
+ds004775	28		yes	no					
+ds004710	2		yes	no		visual			
 ds004636	111		yes	yes		ANT,CCTHot,DPX,WATT3,discountFix,motorSelectiveStop,rest,stopSignal,stroop,surveyMedley,twoByTwo			
-ds005148	16		no	no					
-ds005077	14		yes	no					
-ds005139	27		yes	no		djyg,djyy,lsbg,lsby,mlg,mly			
-ds004977	4		yes	yes		ccep			
-ds005093	11		yes	no					
-ds005088	27		yes	no					
-ds004865	49		yes	no					
+ds004776	1		yes	no					
+ds004785	17		yes	yes		unnamed			
+ds004786	40		yes	no					
+ds004787	5		yes	no					
+ds004789	280		yes	no					
+ds004621	42		yes	yes		msit,oddball,rest,srt			
+ds004798	15		yes	no					
+ds004808	24		yes	no					
+ds004802	38		yes	yes		roddball			
 ds004809	258		yes	no					
-ds000246	2		yes	no					
-ds000247	6		yes	no					
+ds004542	4		no	no					
+ds004791	68		yes	no					
+ds004817	20		yes	yes		rsvp			
+ds004816	20		yes	yes		rsvp			
+ds004819	1		yes	no					
+ds004814	6		yes	no					
+ds004783	26		yes	no		movie			
+ds004718	52		yes	no					
+ds004835	6		yes	no					
+ds004829	30		yes	no					
+ds004837	60		yes	no					
+ds004569	58		yes	no		movie			
+ds004274	33		yes	no		PSAP			
+ds003138	53		yes	no					
+ds004715	11		yes	no					
+ds004712	20		yes	no					
+ds004840	9		yes	no					
+ds004841	20		yes	yes		DriveOnMission			
+ds004842	14		yes	yes		DriveOnMission			
+ds004843	14		yes	yes		VisualSituationalAwareness			
+ds004844	17		yes	yes		Drive			
+ds004849	1		yes	yes		nback			
+ds004850	1		yes	yes		nback			
+ds004851	66		yes	yes		HID			
+ds004852	1		yes	yes		nback			
+ds004853	1		yes	yes		nback			
+ds004854	1		yes	yes		nback			
+ds004855	1		yes	yes		nback			
+ds004848	73		yes	no					
+ds004859	7		no	no					
+ds004860	31		yes	yes		HarmN400			
+ds004865	49		yes	no					
+ds004866	5		yes	no					
+ds004495	40		yes	no					
+ds004666	1		yes	no					
+ds004902	71		yes	no					
+ds004784	1		yes	yes		phantom			
+ds004884	230		yes	no		naming40,rest			
+ds004883	172		yes	yes		FFERN			
+ds004012	30		yes	yes		auditorystimuli			
+ds004654	28		yes	no					
+ds004730	10		yes	no					
+ds004731	35		yes	no					
+ds004733	18		yes	no					
+ds004906	5		yes	no					
+ds004909	29		yes	no		RDMcolor,RDMlocalizer,RDMmotion			
+ds004913	9		yes	no					
+ds004499	50		yes	no		FCNI1,FCNI2,FCNI3,FCNI4,FCNI5,FCNI6,FCNI7			
+ds004920	59		yes	no		doors,mid,sharedreward,socialdoors,ugdg			
+ds004926	40		yes	no		heat			
+ds004910	20		yes	no					
+ds004934	44		yes	no		DOTS,Motion,VOE,spWM			
+ds003834	14		yes	yes		fam1back,localizer,str1back			
+ds002620	82		yes	yes		emoregRun1,emoregRun2,emoregRun3,emoregRun4			
+ds003872	56		yes	no		read,rest			
+ds003835	24		yes	yes					
+ds003684	22		yes	yes		dsp			
+ds003928	10		yes	no					
+ds003871	62		yes	no					
+ds003851	44		yes	yes		train			
+ds003715	20		yes	no		viewing			
+ds004937	22		yes	no		cesd,demographics			
+ds004943	5		yes	no		stimulation			
+ds004944	22		yes	no					
+ds004625	32		yes	yes		UnevenTerrain			
+ds004946	103		no	no					
+ds004795	148		yes	no					
+ds004945	1		yes	no					
+ds004630	49		yes	yes					
+ds004894	49		yes	yes					
+ds004952	10		yes	no					
+ds004959	10		yes	no					
+ds004956	15		yes	no		letters,localizer			
+ds004951	11		yes	no					
+ds004962	28		yes	no					
+ds004958	34		yes	no					
+ds004796	79		yes	yes		msit,rest,sternberg			
+ds004942	62		yes	yes		SpatialMemory			
+ds004993	3		yes	no					
+ds004872	44		no	no					
+ds004892	30		no	no					
+ds004995	20		yes	no					
+ds004996	50		yes	yes		conversation			
+ds005003	42		yes	no					
+ds004370	7		yes	no					
+ds004605	132		yes	no					
+ds004965	133		yes	no					
+ds004998	20		yes	no					
+ds005007	40		no	no					
+ds005012	60		yes	yes		mid			
+ds005021	36		yes	yes		tiltillusion			
+ds005026	82		no	no					
+ds005027	81		yes	yes		reward			
+ds005016	147		yes	no					
+ds005017	39		yes	no					
+ds004581	30		yes	no					
+ds005050	40		yes	no		videos			
+ds005034	25		yes	yes		thetatACSWorkingMemory			
+ds005038	58		yes	no					
+ds005040	50		yes	no		clip,pm			
+ds005028	11		yes	no					
+ds004765	71		yes	no		rest			
+ds005048	35		yes	yes		40HzAuditoryEntrainment			
+ds005059	72		yes	no					
+ds005069	1		yes	no					
+ds005072	1		yes	no					
+ds005065	21		yes	no					
+ds005077	14		yes	no					
+ds005079	1		yes	yes		biofieldtherapy			
+ds005083	60		yes	no					
+ds005047	5		yes	yes		face			
+ds005085	10		yes	no		sharedreward			
+ds004182	50		yes	no					
+ds005073	31		yes	no					
+ds005025	21		no	no					
+ds004797	10		no	no					
 ds004611	73		yes	no					
-ds003425	13		yes	no					
+ds005009	15		yes	no		lefthand,rightfoot,righthand			
+ds004869	27		yes	no					
+ds005089	36		no	no					
+ds005093	11		yes	no					
+ds004868	10		yes	no					
+ds005088	27		yes	no					
+ds005095	48		yes	no					
+ds005096	63		yes	no					
+ds005106	42		yes	yes		fix			
 ds005114	91		yes	no					
-ds002278	5		yes	yes		EIRT,PST,SORPF,arithmetic,localizerDetection,localizerEstimation,rest,strangerthings			
+ds005115	1		yes	no		rest			
 ds005118	1		yes	no		rest			
 ds005121	34		yes	no					
 ds005125	34		no	no		int,loc,pred			
 ds004125	15		yes	no					
-ds005095	48		yes	no					
-ds000102	26		yes	no		flanker			
-ds005089	36		no	no					
-ds002718	18		yes	yes		FaceRecognition			
-ds005009	15		yes	no		lefthand,rightfoot,righthand			
-ds004797	10		no	no					
-ds005073	31		yes	no					
-ds004182	50		yes	no					
-ds005085	10		yes	no		sharedreward			
-ds005083	60		yes	no					
-ds005065	21		yes	no					
-ds005072	1		yes	no					
-ds005069	1		yes	no					
-ds004765	71		yes	no		rest			
-ds005038	58		yes	no					
-ds005034	25		yes	yes		thetatACSWorkingMemory			
-ds005050	40		yes	no		videos			
-ds004581	30		yes	no					
-ds005026	82		no	no					
-ds005021	36		yes	yes		tiltillusion			
-ds005007	40		no	no					
-ds004965	133		yes	no					
-ds004605	132		yes	no					
-ds004370	7		yes	no					
-ds003838	86		yes	no					
-ds004995	20		yes	no					
-ds004872	44		no	no					
-ds004993	3		yes	no					
-ds004942	62		yes	yes		SpatialMemory			
-ds004958	34		yes	no					
-ds004962	28		yes	no					
-ds004951	11		yes	no					
-ds004956	15		yes	no		letters,localizer			
-ds004959	10		yes	no					
-ds004460	20		yes	yes		Rotation			
-ds004894	49		yes	yes					
-ds004945	1		yes	no					
-ds004795	148		yes	no					
-ds004946	103		no	no					
-ds004625	32		yes	yes		UnevenTerrain			
-ds004944	22		yes	no					
-ds004943	5		yes	no		stimulation			
-ds004147	12		yes	no					
-ds004937	22		yes	no		cesd,demographics			
-ds001420	2		yes	no					
-ds003382	10		yes	no		fullchecker,halfchecker,rest			
-ds003715	20		yes	no		viewing			
-ds003766	31		yes	no					
-ds003096	31		no	no		pinf			
-ds003043	1		yes	no					
-ds003851	44		yes	yes		train			
-ds003871	62		yes	no					
-ds003928	10		yes	no					
-ds003620	44		yes	no					
-ds003470	20		yes	no					
-ds002144	36		no	no		pair,random			
-ds001226	36		yes	no					
-ds003770	8		yes	no		emnfb			
-ds003684	22		yes	yes		dsp			
-ds003835	24		yes	yes					
-ds003171	17		yes	no					
-ds003872	56		yes	no		read,rest			
-ds001751	20		no	no					
-ds002620	82		yes	yes		emoregRun1,emoregRun2,emoregRun3,emoregRun4			
-ds002236	91		yes	yes		AudRhyme,AudSem,AudSpell,VisRhyme,VisSem,VisSpell			
-ds002080	29		yes	no					
-ds003834	14		yes	yes		fam1back,localizer,str1back			
-ds003465	55		yes	yes		Axcpt,Cuedts,Stern,Stroop			
-ds000224	10		yes	no		glasslexical,memoryfaces,memoryscenes,memorywords,motor,rest			
-ds002013	4		yes	yes		CircCon,CircRun			
-ds002878	35		yes	no		soccer			
-ds003763	62		yes	no					
-ds003673	27		yes	no					
-ds003764	60		yes	yes		categorization			
-ds001306	17		yes	no		vissearch			
-ds004356	22		yes	yes		MusicvsSpeech			
-ds004934	44		yes	no		DOTS,Motion,VOE,spWM			
-ds004929	12		no	no					
-ds004906	5		yes	no					
-ds004926	40		yes	no		heat			
-ds003844	6		yes	no					
-ds004752	15		yes	no					
-ds004910	20		yes	no					
-ds004920	59		yes	no		doors,mid,sharedreward,socialdoors,ugdg			
-ds004499	50		yes	no		FCNI1,FCNI2,FCNI3,FCNI4,FCNI5,FCNI6,FCNI7			
-ds004913	9		yes	no					
-ds004909	29		yes	no		RDMcolor,RDMlocalizer,RDMmotion			
-ds004733	18		yes	no					
-ds004654	28		yes	no					
-ds004731	35		yes	no					
-ds004730	10		yes	no					
-ds004012	30		yes	yes		auditorystimuli			
-ds004883	172		yes	yes		FFERN			
-ds004697	84		yes	no					
-ds004866	5		yes	no					
-ds004860	31		yes	yes		HarmN400			
-ds003516	25		yes	no					
-ds004859	7		no	no					
-ds004854	1		yes	yes		nback			
-ds004853	1		yes	yes		nback			
-ds004852	1		yes	yes		nback			
-ds004850	1		yes	yes		nback			
-ds004849	1		yes	yes		nback			
-ds004844	17		yes	yes		Drive			
-ds004843	14		yes	yes		VisualSituationalAwareness			
-ds004842	14		yes	yes		DriveOnMission			
-ds004841	20		yes	yes		DriveOnMission			
-ds004715	11		yes	no					
-ds004620	8		yes	no					
-ds003138	53		yes	no					
-ds004274	33		yes	no		PSAP			
-ds004229	2		yes	no					
-ds001246	5		yes	no		imagery,perception			
-ds004829	30		yes	no					
-ds004835	6		yes	no					
-ds004477	9		yes	no					
-ds000201	86		yes	no		PVT,arrows,faces,hands,rest,sleepiness,workingmemorytest			
-ds004783	26		yes	no		movie			
-ds004814	6		yes	no					
-ds004817	20		yes	yes		rsvp			
-ds004816	20		yes	yes		rsvp			
-ds004819	1		yes	no					
-ds004791	68		yes	no					
-ds004542	4		no	no					
-ds004802	38		yes	yes		roddball			
-ds004808	24		yes	no					
-ds004078	12		yes	no					
-ds004786	40		yes	no					
-ds004785	17		yes	yes		unnamed			
-ds004776	1		yes	no					
-ds004746	395		yes	yes		paingen			
-ds004710	2		yes	no		visual			
-ds004775	28		yes	no					
-ds004455	94		yes	no					
-ds004770	10		yes	no					
-ds004073	51		yes	yes		PD,SC,SD,SG,WC,WG			
-ds004594	20		yes	no		matchjudgment			
-ds003507	21		yes	no					
-ds004767	55		yes	no					
-ds000002	17		yes	no		deterministicclassification,mixedeventrelatedprobe,probabilisticclassification			
-ds004467	18		yes	no		langloc,litlong,litshort,tom			
-ds004019	62		yes	no					
-ds004151	57		yes	no					
-ds004324	26		yes	no					
-ds004443	9		no	no					
-ds004562	23		yes	yes		adaptation			
-ds004745	6		yes	yes		unnamed			
-ds004725	87		yes	no		rest			
-ds004743	19		yes	no					
-ds004744	17		yes	no					
-ds004742	1		no	no					
-ds004738	4		yes	no					
-ds002001	11		yes	no					
-ds002034	14		yes	no					
-ds002094	20		no	no					
-ds002680	14		yes	yes					
-ds004720	2		yes	no					
-ds004602	182		yes	yes		ERNPsychometrics			
-ds004717	42		yes	no					
-ds004706	34		yes	no					
-ds004711	187		yes	no		bart,delaydiscounting			
-ds004703	10		yes	no					
-ds004589	99		yes	no					
-ds002691	20		yes	yes					
-ds002721	31		yes	no					
-ds003004	34		yes	no					
-ds004696	8		yes	no					
-ds002723	8		yes	no					
-ds004692	30		yes	yes		study,test			
-ds003717	60		yes	no					
-ds004533	45		no	no		ironiavev,rest			
-ds004626	52		yes	yes		DotProbe			
-ds004327	47		yes	no		odor			
-ds004662	8		yes	no					
-ds004660	21		yes	yes		P300			
-ds004657	24		yes	yes		Drive			
-ds004656	15		yes	no					
-ds004341	28		yes	yes		semenc			
-ds004475	30		yes	yes		task			
-ds004648	88		yes	no		rest			
-ds004650	1		yes	no					
-ds004642	10		yes	no					
-ds002748	72		yes	no		rest			
-ds004595	53		yes	no					
-ds004647	44		yes	no		gng,wmgng			
-ds004644	24		yes	no					
-ds004448	56		yes	yes		smrbmi			
-ds004447	22		yes	yes		smrbmi			
-ds004444	30		yes	yes		smrbmi			
-ds004446	30		yes	yes		smrbmi			
-ds004401	1		yes	no					
-ds003789	32		yes	no		encoding,retrieval			
-ds004632	11		yes	no					
-ds004631	38		yes	no		listen			
-ds004482	23		yes	no					
-ds004483	19		yes	no					
-ds004496	30		yes	yes		coco,floc,imagenet,prf			
-ds004187	3		yes	no					
-ds004598	9		no	no					
-ds004563	40		yes	yes		touchdecoding			
-ds003029	35		yes	no					
-ds002893	49		yes	yes		AuditoryVisualShift			
-ds004592	27		yes	yes		documentary,gradCPTface,gradCPTscene,sitcomep1,sitcomep2			
-ds004284	18		yes	no					
-ds004597	27		yes	no					
-ds004603	37		yes	no					
-ds004488	30		yes	yes		action			
-ds004584	149		yes	yes		Rest			
-ds001486	132		yes	no		Mult,Num,Rhyming,Sub			
-ds004590	4		yes	no					
-ds004588	42		yes	yes		unnamed			
-ds004511	45		yes	no					
-ds003655	156		yes	no					
-ds004580	147		yes	yes		Simon			
-ds004579	139		yes	yes		IntervalTiming			
-ds004577	103		yes	no					
-ds003216	3		yes	no					
-ds004574	146		yes	yes		Oddball			
-ds004196	4		yes	no					
-ds004564	2		yes	no					
-ds001510	31		yes	no		perception,recall,schemarecall			
-ds002338	17		yes	no		1dNF,2dNF,MIpost,MIpre			
-ds004532	110		yes	yes		PST			
-ds003670	25		yes	no					
-ds004295	26		yes	yes		task			
-ds004386	48		yes	no		rest			
-ds004471	40		yes	no					
-ds004561	23		yes	no					
-ds004513	20		yes	no					
-ds004510	3		yes	no		AttendFemaleSpeaker,AttendMaleSpeaker,ImaginedSpeech,laluna,partlycloudy,presto,sintel			
-ds004560	2		yes	no					
-ds004357	16		yes	yes		rsvp			
-ds004557	35		yes	yes		feedback			
-ds004556	53		yes	yes		feedback			
-ds004554	16		yes	yes		picturenaming			
-ds004271	2		yes	yes		AttendFixGazeCenterFS,AttendStimGazeCenterFS,Calib,GazeCCW,GazeCW,GazeColumns,GazeLines			
-ds004553	50		yes	no		nonsoc,social			
-ds004552	1		yes	no					
-ds004551	114		yes	no					
-ds004465	15		yes	no					
-ds004102	32		yes	no					
-ds003774	20		yes	no					
-ds004301	11		yes	no					
-ds004169	991		yes	no					
-ds004544	38		no	no					
-ds004505	25		yes	no					
-ds000105	6		yes	no		objectviewing			
-ds003691	29		yes	no		bars,ecc,feedBES,polar,retmap,sensoryT,tarmap			
-ds004017	21		yes	no					
-ds004440	49		yes	no					
-ds004349	57		yes	yes		expo,rest			
-ds004529	34		yes	no		frapps,localizer			
-ds004360	52		no	no					
-ds004521	34		yes	yes		Postcues			
-ds003468	26		yes	no					
-ds004520	33		yes	yes		Retrocue			
-ds004519	40		yes	yes		ProAntiCue			
-ds004478	6		yes	no					
-ds004484	20		yes	no					
-ds004493	16		yes	no					
-ds004080	74		yes	yes					
-ds004509	20		yes	no					
-ds004450	3		yes	no					
-ds004312	20		yes	yes		foodpicture,tasteimagine			
-ds004502	48		no	no					
-ds004498	1		no	no					
-ds002879	32		yes	yes		AANonWord,AAWord,VVNonWord,VVWord			
-ds004473	8		yes	no		SlowFast			
-ds004369	41		yes	no					
-ds004368	39		yes	yes		task			
-ds004406	23		no	no		HSR			
-ds004441	24		yes	no					
-ds004398	1		yes	yes		loc,post,rew,struct			
-ds004408	19		yes	no					
-ds004400	25		yes	yes		NumberComparison			
-ds004393	32		yes	no					
-ds004285	78		yes	no					
-ds004367	40		yes	yes		rdk			
-ds000011	14		yes	no		Classificationprobewithoutfeedback,Dualtaskweatherprediction,Singletaskweatherprediction,tonecounting			
-ds002979	1		no	no					
-ds004359	57		yes	no					
-ds004347	24		yes	no					
-ds003602	118		yes	no					
-ds004339	2		yes	no					
-ds000158	217		yes	no		passivelistening			
-ds003633	12		yes	no					
-ds004331	30		yes	no		localizer,main			
-ds004330	30		yes	no					
-ds004286	23		yes	no					
-ds001506	3		yes	no					
-ds002578	2		yes	yes					
-ds004302	71		yes	yes		speech			
-ds004317	50		yes	no					
-ds001832	16		no	no		rest			
-ds004315	50		yes	no					
-ds003887	24		yes	no		movement			
-ds003885	24		yes	no		movement			
-ds003801	20		yes	no					
-ds003753	25		yes	no					
-ds003710	13		yes	no					
-ds003638	57		yes	no					
-ds004299	123		yes	no		extinction,reacquisition,rest,training			
-ds000031	1		yes	yes		breathhold,dots,language,nback,objects,rest,retinotopy,spatialwm			
-ds003659	3		no	no					
-ds004213	5		yes	no					
-ds004276	19		yes	no					
-ds004283	4		yes	no					
-ds004280	2		yes	no		hyper			
-ds004278	30		yes	no					
-ds002989	40		yes	yes		DDbid			
-ds004264	21		yes	no					
-ds004262	21		yes	no					
-ds004256	53		yes	no					
-ds004259	64		no	no		numrisk			
-ds003836	35		no	no		tsl			
-ds004127	8		yes	no					
-ds004254	15		yes	no					
-ds004145	49		yes	no					
-ds004252	1		yes	no					
-ds002643	80		no	no					
-ds004081	35		no	no		unequalVariance			
-ds003876	39		yes	no					
-ds004228	70		no	yes		piper			
-ds004015	36		yes	no					
-ds002790	226		yes	yes		emomatching,restingstate,stopsignal,workingmemory			
-ds003354	10		yes	no		empatom			
-ds004226	28		no	no		sitrep			
-ds004219	10		no	no					
-ds004217	67		no	no		mentalstates			
-ds003570	40		yes	no					
-ds004186	992		yes	no					
-ds004200	20		yes	yes		temporalscaling			
-ds004065	20		yes	no		lum			
-ds003999	29		yes	no					
-ds004068	48		yes	no		onevol,rest			
-ds000248	2		yes	no					
-ds003688	63		yes	no					
-ds004166	71		yes	no					
-ds004117	23		yes	yes		WorkingMemory			
-ds004161	24		yes	no					
-ds004152	21		yes	no					
-ds003061	13		yes	yes		P300			
-ds004142	10		yes	no		loc,nf			
-ds004130	1		yes	no					
-ds004131	1		yes	no					
-ds001927	23		yes	no					
-ds004144	66		yes	no					
-ds004129	991		yes	no					
-ds004128	32		yes	yes		DG			
-ds001379	1		yes	no		encode,forget,loci,recall			
-ds004094	37		yes	yes		group,induct,learn,parse,struct			
-ds003233	25		yes	no					
-ds004086	58		yes	yes		RecogConf			
-ds004105	17		yes	yes		DriveRandomSound			
-ds004118	156		yes	yes		Drive			
-ds004119	21		yes	yes		GuardDuty			
-ds004120	109		yes	yes		DriveWithSpeedChange			
-ds004122	32		yes	yes		Drive			
-ds004123	29		yes	yes		DriveWithComplexity			
-ds004121	21		yes	yes		DriveWithTaskAudio			
-ds003922	14		yes	no					
-ds004106	27		yes	yes		GuardDuty			
-ds004114	646		yes	no		rest			
-ds004116	209		yes	no		rest			
-ds004109	31		yes	no					
-ds004107	9		yes	no					
-ds004097	8		yes	no		MID,SST,nback,rest			
-ds004101	9		yes	no					
-ds004033	18		yes	no					
-ds003696	30		yes	no		affordance,localizer			
-ds003929	9		yes	no					
-ds004042	20		yes	no		movie,recall			
-ds003401	35		yes	no		asrt			
-ds004092	27		yes	no		heat			
-ds002908	13		no	no					
-ds003352	18		yes	no					
-ds001499	4		yes	yes		5000scenes,localizer			
-ds004075	29		no	no					
-ds004021	32		no	no		rest,rotation,washout			
-ds003380	12		yes	no					
-ds003374	9		yes	no					
-ds004067	80		yes	no		sjt			
-ds003993	2		yes	no					
-ds001796	64		yes	no					
-ds004056	29		yes	no					
-ds003831	74		yes	no		identify1,identify2,modulate1,modulate2,rest			
-ds003965	1		yes	yes		face,flocBLOCKED			
-ds004043	20		yes	no		tempex			
-ds004040	13		yes	no					
-ds004038	31		yes	no					
-ds004018	16		yes	yes		rsvp			
-ds002606	10		yes	no		locAPepi3d,locAPsms16iso,locPAepi3d5vol,locPAsms16iso5vol			
-ds002603	23		yes	yes		wm			
-ds002550	22		yes	no					
-ds000204	1		no	no					
-ds000133	26		yes	no		rest			
-ds003988	56		yes	no		read,rest			
-ds003959	6		yes	no					
-ds003969	98		yes	no					
-ds003950	42		no	no					
-ds003972	8		yes	no		bodymotor			
-ds003967	60		no	no					
-ds003987	23		yes	no					
-ds003340	20		yes	yes		foodpicture,tastemap			
-ds002741	30		yes	no		caricatures,localizer			
-ds002675	24		yes	no		language			
-ds001848	52		no	yes		ParallelAdaptation			
-ds003427	4		yes	no		checkerboard			
-ds003381	21		no	no					
-ds003357	32		yes	no		rest			
-ds002738	36		yes	yes		epi,rest,reward			
-ds002684	4		no	no					
-ds003176	34		yes	no		EyeMag			
-ds001371	47		no	no					
-ds002169	33		no	no		CCD,loca			
-ds000232	10		yes	no					
-ds004010	24		yes	yes		MultisensoryDetectionTask			
-ds003521	35		yes	no		movie			
-ds004009	33		no	no					
-ds004006	41		no	no		pair,random			
-ds004007	25		no	no		listen			
-ds004000	43		yes	no					
-ds003949	284		yes	no					
-ds003592	301		yes	no					
-ds003798	117		no	no					
-ds003990	6		yes	no					
-ds003989	3		yes	no					
-ds003097	928		yes	no		moviewatching			
-ds001421	1		yes	no					
-ds003505	20		yes	no					
-ds003850	1		yes	no		vis			
-ds003555	30		yes	no		hfo			
-ds003858	12		yes	yes		MID			
-ds003849	92		no	no					
-ds003825	50		yes	yes		rsvp			
-ds003805	1		yes	no					
-ds003822	25		yes	no					
-ds003830	37		no	no					
-ds003800	13		yes	no					
-ds003810	10		yes	yes		MIvsRest			
-ds003799	48		yes	no					
-ds003812	12		yes	yes					
-ds003787	44		yes	no					
-ds003791	49		no	no		PSAP			
-ds003782	40		no	no		effortmixedgambles,efforttraining,probabilitymixedgambles			
-ds003821	284		yes	no					
-ds003778	32		yes	no					
-ds003777	4		no	no		locAPSTARC,locAPSTARCps,locAPSTARCtsm,locAPcovSoS,locPASoS5vol			
-ds003524	13		yes	no		movie			
-ds002814	21		yes	no		categorySelectivity			
-ds002873	1		no	no					
-ds003430	7		yes	no					
-ds003499	90		yes	yes		freq1,freq2,freqreports1,freqreports2,memtest1,memtest2,pairedassociates1,pairedassociates2			
-ds003772	32		yes	yes		changepoint			
-ds002843	166		yes	yes		itc,rest,risk			
-ds002835	26		yes	yes		prospection			
-ds003758	15		yes	yes		beads			
-ds003768	33		yes	no					
-ds003721	35		yes	yes		BI,Film,React			
-ds000240	63		yes	no					
-ds003751	40		yes	no					
-ds003720	5		yes	no					
-ds003459	34		yes	yes		audortho,audphono,audsem,audsynt,visortho,visphono,vissem,vissynt			
-ds002886	56		yes	yes		Syllogisms,Transitive			
-ds002424	79		yes	yes		SLD,SLI,SSD,SSI,VLD,VLI,VSD,VSI			
-ds003397	15		yes	no		checkerboard			
-ds003646	77		yes	no					
-ds003590	1		yes	no					
-ds003007	29		yes	no		rest			
-ds003739	30		yes	no					
-ds003661	5		yes	no					
-ds003752	3		no	no					
-ds001541	16		yes	no					
-ds003464	18		yes	no		bold			
-ds003416	97		yes	no					
-ds003550	38		yes	yes		RepMem1,RepMem2B			
-ds003554	41		yes	yes		RepYo1,RepYo2			
-ds003553	19		yes	yes		FacesHousesTE27			
-ds003722	10		yes	yes		MIvsRest			
-ds003694	28		no	no					
-ds003716	1		yes	no					
-ds003338	20		yes	no		None,recall,view			
-ds003711	35		no	yes					
-ds003714	1		no	no					
-ds003709	51		yes	no					
-ds003707	36		yes	no		obj,scene			
-ds003701	96		yes	no		cpro,rest			
-ds003708	1		yes	yes		ccep			
-ds003703	34		yes	yes		listeningToSpeech			
-ds003702	47		yes	no					
-ds002870	132		no	no					
-ds002868	16		no	no					
-ds003126	58		yes	no		read			
-ds003690	75		yes	no					
-ds003345	75		yes	no					
-ds003419	47		yes	no					
-ds003574	18		yes	yes		game,rest			
-ds003682	28		yes	no					
-ds003453	39		yes	no					
-ds003437	12		yes	no					
-ds003455	1		yes	no					
-ds003011	4		yes	no		rest			
-ds003669	47		no	no		detectdiscrim			
-ds003481	145		yes	no					
-ds003392	12		yes	no					
-ds003647	34		yes	no		whiskerasl,whiskerepi			
-ds003343	20		yes	no					
-ds003487	24		yes	yes		PIT,hedonic,instrulearning,pavconditioning			
-ds003639	29		yes	no					
-ds001785	19		yes	yes		adapt,thrdown,thrup			
-ds003604	322		yes	yes		Gram,Phon,Plaus,Sem			
-ds001161	2		no	no		effortmixedgambles,efforttraining,probabilitymixedgambles			
-ds003500	38		yes	yes		Conj19Sel,Conj1Inh,Conj9Inh,Feat19Sel,Feat1Inh,Feat9Inh			
-ds003094	16		yes	no		analogy			
-ds003498	20		yes	no					
-ds002328	1		yes	no					
-ds003606	29		yes	no					
-ds003520	17		yes	no					
-ds003548	16		yes	no		emotionalfaces,rest			
-ds003563	1		yes	no					
-ds003151	20		yes	no					
-ds003599	133		no	no					
-ds001942	10		yes	no		auditory,rest			
-ds002185	22		yes	yes		odors			
-ds003396	0		no	no					
-ds003017	25		yes	no		movie			
-ds002674	1		yes	no					
-ds001894	188		yes	yes		AANonWord,AAWord,AVNonWord,AVWord,VVNonWord,VVWord			
-ds003083	26		yes	yes		Mult,Num,Rhyming,Sub			
-ds003076	17		no	yes		Syllogisms,Transitive			
-ds003540	32		yes	no		rest			
-ds003568	51		yes	no					
-ds003569	25		yes	yes		LDT			
-ds003565	156		yes	no					
-ds003511	40		yes	yes		Recall			
-ds003436	55		yes	yes		anim			
-ds003552	19		yes	no					
-ds003037	53		yes	no					
-ds003346	145		yes	no					
-ds003545	24		yes	no					
-ds003542	34		yes	no					
-ds003523	91		yes	no					
-ds003522	96		yes	no					
-ds003519	27		yes	no					
-ds003469	81		yes	no					
-ds003518	110		yes	no					
-ds003517	17		yes	no					
-ds002366	34		yes	yes		emoregRun1,emoregRun2,emoregRun3,emoregRun4			
-ds003509	56		yes	no					
-ds002168	48		yes	no		mst			
-ds003474	122		yes	no					
-ds003506	56		yes	no					
-ds003495	24		yes	yes		emomatching,restingstate			
-ds003027	23		no	no					
-ds003454	24		no	yes		rapm			
-ds003490	50		yes	no					
-ds002307	19		yes	no					
-ds001353	29		yes	no					
-ds002995	18		yes	yes		tastemap			
-ds002685	13		yes	no		ArchiEmotional,ArchiSocial,ArchiSpatial,ArchiStandard,Attention,Audi,Audio,Bang,ClipsTrn,ClipsVal,ColumbiaCards,ContRing,Discount,DotPatterns,Enumeration,ExpRing,HcpEmotion,HcpGambling,HcpLanguage,HcpMotor,HcpRelational,HcpSocial,HcpWm,Lec1,Lec2,MCSE,MTTNS,MTTWE,MVEB,MVIS,Moto,PreferenceFaces,PreferenceFood,PreferenceHouses,PreferencePaintings,RSVPLanguage,Raiders,RestingState,SelectiveStopSignal,Self,StopSignal,Stroop,TwoByTwo,VSTM,Visu,WardAndAllport,WedgeAnti,WedgeClock			
-ds003483	21		no	no					
-ds003417	18		yes	no					
-ds003466	21		yes	no		motor,rest			
-ds003478	122		yes	no					
-ds003012	29		yes	no		doubleauction			
-ds003463	22		yes	no					
-ds002422	46		no	no					
-ds000231	9		yes	no		flavor			
-ds003458	23		yes	no					
-ds003452	13		yes	no					
-ds002634	20		yes	yes		ArtVoc,Factorial			
-ds003446	1		yes	no					
-ds003445	1		yes	no					
-ds003444	1		yes	no					
-ds003442	1		yes	no					
-ds003443	1		yes	no					
-ds003441	2		yes	no					
-ds003440	1		yes	no					
-ds003439	1		yes	no					
-ds003438	1		yes	no					
-ds003433	18		yes	no					
-ds003434	18		yes	no					
-ds002813	38		yes	yes		fintest,imtest,train			
-ds003424	28		yes	no		resting,taste			
-ds003192	7		no	no		breathhold			
-ds003421	20		yes	no					
-ds003420	23		yes	no					
-ds002116	57		no	yes		Adaptation			
-ds002158	20		yes	yes		main,rest			
-ds002608	41		yes	no		rest			
-ds001780	1		no	no					
-ds002672	5		yes	no		locLREye			
-ds002602	56		yes	no		read,rest			
-ds002647	91		yes	yes		IHG,Oddball			
-ds001814	35		yes	yes		ARC			
-ds002241	31		yes	no		drawing,recognition			
-ds002134	31		yes	no					
-ds002382	61		yes	no					
-ds001847	32		no	no		photo			
-ds001838	53		no	yes		Adaptation			
-ds001839	6		yes	no					
-ds003082	2		yes	no					
-ds001734	108		yes	no		MGT			
-ds003342	19		yes	yes		grasp,localiser			
-ds003170	16		yes	no		changepoint			
-ds003325	33		yes	no					
-ds003194	15		yes	no					
-ds003195	10		yes	no					
-ds003242	96		yes	yes		CIC,midloc			
-ds003190	19		yes	no					
-ds003095	38		yes	no		run1,run2,run3,run4			
-ds002549	1		no	no					
-ds001840	24		no	yes		viewclips			
-ds001241	24		yes	no					
-ds000217	41		yes	yes		localizer,picturetest,routelearning			
-ds002041	25		yes	yes		TD,rest			
-ds002735	11		yes	no		rest			
-ds003145	147		yes	no		verbgen			
-ds003136	25		yes	yes		affect,infant			
-ds003146	33		yes	no		vocal			
-ds003148	60		yes	no					
-ds003114	49		yes	no					
-ds002306	6		yes	no					
-ds002898	27		yes	no					
-ds003085	39		no	no		happy,rest,sadln,sadsh			
-ds003090	159		yes	no		rest			
-ds003104	1		yes	no					
-ds003103	30		yes	no					
-ds003098	1		no	no					
-ds003089	20		yes	no					
-ds003078	6		yes	no					
-ds001419	1		yes	no					
-ds000249	26		yes	yes		genInstrAv			
-ds001454	24		yes	no		rest,satellite			
-ds000254	13		yes	no		bilateralfingertapping			
-ds001545	30		yes	no		movie			
-ds000200	14		yes	no		olfactory			
-ds000157	30		yes	no		passiveimageviewing			
-ds000009	24		yes	no		balloonanalogrisktask,discounting,emotionalregulation,stopsignal			
-ds002936	3		yes	no					
-ds002785	216		yes	yes		anticipation,emomatching,faces,gstroop,restingstate,workingmemory			
-ds003028	26		yes	yes		Mult,Num,Rhyming,Sub			
-ds003008	0		no	no					
-ds001415	21		yes	yes		maplistening			
-ds000149	15		no	no		picturemanualresponse,picturenback			
-ds003047	11		yes	no					
-ds003059	15		yes	no					
-ds001747	92		yes	no					
-ds002990	20		yes	no					
-ds002766	3		yes	no					
-ds002609	49		yes	no		rest			
-ds001399	3		yes	no					
-ds001761	4		yes	no					
-ds002033	43		no	yes		ChangeDetection			
-ds001883	21		yes	no					
-ds001653	29		no	no					
-ds001417	36		yes	no		probe,responsetosnacks			
-ds000206	6		yes	no					
-ds001849	20		no	no		tmseegrest			
-ds002905	18		yes	yes		languagelocalizer,maindesign			
-ds003023	39		no	no		happy,rest,sadln,sadsh			
-ds002833	20		no	no					
-ds002791	23		no	no					
-ds002994	56		no	no		fLoc,fribBids			
-ds002351	25		yes	yes		LDT			
-ds002717	59		yes	no					
-ds002322	26		yes	no					
-ds001619	11		yes	no					
-ds002776	26		yes	yes		motorseq			
-ds003005	0		no	no					
-ds002982	2		yes	no					
-ds002941	26		yes	yes		Mult,Num,Rhyming,Sub			
-ds002940	24		yes	no					
-ds002938	30		yes	no		1back,effort			
-ds002939	2		no	no					
-ds002885	2		yes	no					
-ds002912	2		no	no					
-ds002862	71		yes	no		read			
-ds002711	15		yes	no		smiley			
-ds002156	1		yes	no		rest			
-ds001919	254		yes	no					
-ds002393	19		yes	no					
-ds002872	39		yes	yes		illusion			
-ds002363	22		no	no					
-ds002896	38		yes	no		rest			
-ds002894	18		yes	yes		languagelocalizer,maindesign			
-ds001348	28		no	no		effort1,effort2			
-ds002841	29		yes	no		localizer,masscolor,massfriction,masstask			
-ds002842	22		yes	no		silentreading			
-ds002844	6		yes	no					
-ds002809	17		no	no		loc,varyingISI			
-ds002770	86		no	no					
-ds002712	25		yes	no					
-ds002683	30		yes	no		1back,effort			
-ds002596	19		yes	no		d1,d2			
-ds002574	3		yes	no		prf			
-ds002551	7		yes	no					
-ds002547	26		yes	no					
-ds002543	49		yes	no		RLlearningphase,RLtestphase,Stopsignal,ppaffalomapper			
-ds002419	48		yes	yes		taste1,taste2			
-ds002411	29		yes	yes		ProgramCategorization			
-ds002380	143		yes	no					
-ds002330	66		no	no		rest			
-ds002320	82		yes	no					
-ds002311	23		no	no		loc,mot,postmemory,prememory			
-ds002294	40		no	no		roletrait			
-ds002250	20		yes	no					
-ds002237	16		no	no		loc,postmemory,prememory,rsvp			
-ds002149	20		yes	no		condassoc			
-ds002040	1		no	no					
-ds002014	1		yes	no		languageproduction			
-ds002006	30		no	no		ColorDots,FoodChoice,Memory			
-ds001981	24		yes	no		efs			
-ds001882	20		yes	no					
-ds001868	1		yes	no					
-ds001784	14		yes	no		afmsit,rest			
-ds001769	16		yes	no		movie			
-ds001614	31		no	no		learn,localizer,respTrain,test			
-ds001608	21		no	yes		viewclips			
-ds001583	21		no	no		proactive,reactive			
-ds001563	1		yes	no					
-ds001534	42		no	no		calorieimage,foodimage			
-ds001529	38		no	no					
-ds001525	17		yes	no		localizer,repetition			
-ds001517	24		yes	no		pred,shape			
-ds001511	13		yes	no		CMIYC,scrambled			
-ds001497	10		yes	no					
-ds001461	81		yes	no					
-ds001408	52		yes	no					
-ds001110	37		yes	no		MerlinAudio,MerlinFreerecall,MerlinMovie,SherlockAudio,SherlockFreerecall,SherlockMovie			
-ds001019	35		no	no		navlearn			
-ds000233	12		yes	no		beh,tax			
-ds000003	13		yes	no		rhymejudgment			
-ds002731	59		yes	no					
-ds002726	29		yes	no					
-ds002739	24		yes	no		main			
-ds002733	1		yes	no		rest			
-ds002737	1		yes	no					
-ds002743	3		yes	no					
-ds002295	7		yes	no		checkerboard,fixation,prf			
-ds002793	28		yes	no					
-ds002797	22		yes	no		Main			
-ds002105	24		yes	no					
-ds002614	1		yes	no					
-ds002773	19		yes	no		localizer,retrieval,updating			
-ds002727	23		yes	no		silentreading			
-ds002734	22		yes	no		main			
-ds002749	29		yes	no		rest			
-ds002750	3		yes	no					
-ds002725	21		yes	no					
-ds002724	10		yes	no					
-ds002722	19		yes	no					
-ds002720	18		yes	no					
-ds002732	30		no	no		rating			
-ds002715	8		no	no					
-ds002702	11		yes	no		floc,ring			
-ds002655	35		yes	no					
-ds002513	65		no	no					
-ds002522	48		yes	yes		CRF			
-ds001131	54		yes	no		milky,scrambled,synonyms,vodka			
-ds002374	1		yes	no					
-ds002372	1		yes	no					
-ds002367	1		yes	no					
-ds002358	1		yes	no					
-ds002355	29		no	no		localizer,masscolor,massfriction,masstask			
-ds002274	1		yes	no					
-ds002270	19		yes	no		viewingfoodhighres,viewingfoodlowres			
-ds002181	226		yes	no					
-ds002165	1		no	no					
-ds001491	20		yes	no		FlavorRun1,FlavorRun2,FlavorRun3,FlavorRun4,images			
-ds001430	31		yes	no		loc,phase1,phase2,phase3			
-ds001302	23		no	no					
-ds001297	33		no	no		faceidentityoddball			
-ds001293	7		no	no					
-ds001235	12		yes	no		1back			
-ds001233	18		yes	no		cuedSFM			
-ds001228	24		yes	no		collaborativetask			
-ds001218	30		no	no		mentalstates			
-ds001167	40		yes	no		effortmixedgambles,efforttraining,probabilitymixedgambles			
-ds001107	0		no	no					
-ds000256	24		yes	no		restbaseline,restfixationadaptive,restfixationfixed,restfixationnofeedback,restmovieadaptive,restmoviefixed,restmovienofeedback			
-ds000253	20		yes	no		localizer,run1,run2,run3,run4			
-ds000243	120		yes	no		rest			
-ds000238	35		yes	no		med8,quick4n,quick6,slow10,slow12			
-ds000223	19		yes	yes		mag			
-ds000203	26		yes	no		visualimageryfalsememory			
-ds000171	39		yes	no		music,nonmusic			
-ds000170	15		yes	no		TrainedHandTrainedSequence,TrainedHandUntrainedSequence,UntrainedHandTrainedSequence,UntrainedHandUntrainedSequence			
-ds000140	33		yes	no		heatpainwithregulationandratings			
-ds000121	28		yes	no		incentiveantisaccade			
-ds000119	73		yes	no		visualguidedsaccade			
-ds000115	99		yes	no		letter0backtask,letter1backtask,letter2backtask			
-ds000110	18		yes	no		IncidentalencodingtaskusingPosnercueingparadigmwithobjectvgreeblejudgment			
-ds000108	34		yes	no		Emotionregulation			
-ds000053	59		yes	no		baseline,posttest,training			
-ds000007	20		yes	no		stopmanual,stopvocal,stopword			
-ds000006	14		yes	yes		livingnonlivingdecisionwithplainormirrorreversedtext			
-ds000236	18		yes	no		rest			
-ds000235	4		yes	no		rest			
-ds000222	79		yes	no					
-ds001345	12		yes	no		memory			
-ds002316	36		yes	no		Beast,epi,rest,reward			
-ds000210	31		yes	no		cuedSGT,rest			
-ds002293	1		yes	no					
-ds001946	24		yes	no		actions,loc			
-ds001725	40		no	no					
-ds002179	1		yes	no					
-ds002154	24		no	no					
-ds002155	20		no	no					
-ds002076	13		yes	no					
-ds002153	1		no	no					
-ds001482	33		yes	no		vocal			
-ds002207	7		yes	no					
-ds002242	35		yes	no		stt			
-ds001928	40		yes	no					
-ds001439	18		yes	no					
-ds001722	19		yes	no					
-ds002218	18		yes	yes		Experiment			
-ds000216	7		yes	no		rest			
-ds002087	1		yes	no					
-ds001818	50		no	no		localizer,probe,responsetostim,training			
-ds002016	4		yes	no					
-ds001745	24		no	no		ImageLoc,StudyTest,loc			
-ds002011	22		yes	yes		Overlap,ppalocalizer			
-ds002000	21		yes	no					
-ds001972	33		yes	no					
-ds001890	30		yes	no					
-ds001720	255		no	no					
-ds001978	14		yes	no					
-ds001984	15		yes	no					
-ds001971	20		yes	yes		AudioCueWalkingStudy			
-ds001966	29		yes	no		doubleauction			
-ds001242	52		yes	no					
-ds001299	19		yes	no					
-ds001875	9		yes	no		rest			
-ds001810	47		yes	yes		attentionalblink			
-ds001945	34		yes	no					
-ds001926	32		yes	no		localizer,post,study,test			
-ds000174	42		yes	no					
-ds000172	13		yes	no		rest			
-ds000168	35		yes	no		OP			
-ds001912	17		yes	no					
-ds000148	49		yes	no		figure2backwith1backlures			
-ds000228	155		yes	no		pixar			
-ds001923	14		yes	no		forage			
-ds001921	15		yes	no		forage			
-ds001762	31		no	no		forage			
-ds000237	13		yes	no		MemorySpan			
-ds001132	16		yes	no		freerecall,sherlockPart1,sherlockPart2			
-ds001635	16		yes	no					
-ds001145	24		yes	no		watchmovie			
-ds001748	62		yes	no					
-ds001229	27		yes	no		em,wm			
-ds001740	25		no	yes		convers			
-ds001590	32		yes	yes		loc,ser,sim			
-ds001775	24		no	no		RP,restudy			
-ds000212	39		yes	no					
-ds001771	40		yes	yes		identification,localizer			
-ds001521	41		yes	no		localizer,study			
-ds001554	23		no	no		listening			
-ds001232	21		yes	no		phase1,phase2			
-ds001621	20		yes	no		commstruc			
-ds001715	34		no	no		dts			
-ds000220	26		yes	no					
-ds001743	12		no	no					
-ds001728	1		yes	no					
-ds001652	8		no	no					
-ds001168	22		yes	no		rest			
-ds001634	19		yes	no					
-ds001612	24		no	no		loc,main			
-ds001354	28		yes	no					
-ds001618	36		no	no		autobio,nback,self			
-ds000241	12		yes	no					
-ds001607	32		no	no		learn,loc,test			
-ds001600	1		yes	no		rest			
-ds001597	20		yes	yes		cuedMFM			
-ds001595	1		no	no		rest			
-ds001591	2		yes	no					
-ds001344	15		yes	no		eyemovement,workingmemory			
-ds001365	35		no	no					
-ds001576	36		no	no		dnms,learn			
-ds001566	1		no	no					
-ds001338	22		yes	no		story1,story2,story3			
-ds001551	34		no	no		trust			
-ds001555	3		yes	no		FullFovAttentionTask,FullFovNoAttentionTask,HalfFovNoTask			
-ds001553	3		yes	yes		checkerboard			
-ds001547	5		yes	no					
-ds000244	12		yes	no		ArchiEmotional,ArchiSocial,ArchiSpatial,ArchiStandard,ClipsTrn01,ClipsTrn02,ClipsTrn03,ClipsTrn04,ClipsTrn05,ClipsTrn06,ClipsTrn07,ClipsTrn08,ClipsTrn09,ClipsTrn10,ClipsTrn11,ClipsTrn12,ClipsVal01,ClipsVal02,ClipsVal03,ClipsVal04,ClipsVal05,ClipsVal06,ClipsVal07,ClipsVal08,ClipsVal09,ContRing,ExpRing,HcpEmotion,HcpGambling,HcpLanguage,HcpMotor,HcpRelational,HcpSocial,HcpWm,RSVPLanguage00,RSVPLanguage01,RSVPLanguage02,RSVPLanguage03,RSVPLanguage04,RSVPLanguage05,WedgeAnti,WedgeClock			
-ds001021	1		yes	no		BREATHHOLD,CHECKERBOARD,DMNTRACKINGTEST,DMNTRACKINGTRAIN,MASK,MORALDILEMMA,MSIT,PEER1,PEER2,rest			
-ds001450	2		no	no					
-ds001357	18		no	no		familiarity,viewing			
-ds001339	14		no	no		iaps			
-ds000239	3		yes	no					
-ds000213	26		yes	no		socialcomparison			
-ds000214	36		yes	yes		Cyberball			
-ds000229	15		yes	no		flavor			
-ds000164	28		yes	yes		stroop			
-ds000245	45		yes	no		rest			
-ds000205	11		yes	no		functionallocalizer,view			
-ds000120	26		yes	no		antisaccadetaskwithfixedorder			
-ds000144	45		yes	no		emotionalfaces			
-ds000234	5		yes	no		motorphotic			
-ds000218	19		yes	no		ONSflavourtask			
-ds000219	21		yes	no		RPflavourtask			
-ds000202	95		yes	no					
-ds000255	2		yes	no		viewFigure,viewRandom			
-ds000138	16		yes	no		postheatstimulation,preheatstimulation			
-ds001247	43		no	no					
-ds001178	23		no	no					
-ds001037	1		no	no					
-ds000122	17		yes	no		visualattentiontask			
-ds000017	8		yes	no		probabilisticclassification,selectivestopsignaltask			
-ds000107	49		yes	no		onebacktask			
-ds000101	21		yes	no		simon			
-ds000052	13		yes	no		reversalweatherprediction,weatherprediction			
-ds000051	13		yes	no		abstractconcretejudgment			
-ds000008	14		yes	no		conditionalstopsignal,stopsignal			
-ds000005	16		yes	no		mixedgamblestask			
+ds005126	35		yes	no					
+ds005131	58		yes	no					
+ds004977	4		yes	yes		ccep			
+ds005123	114		yes	no		doors,sharedreward,socialdoors,trust,ugr			
+ds005138	5		yes	no					
+ds005139	27		yes	no		djyg,djyy,lsbg,lsby,mlg,mly			
+ds005148	16		no	no					
+ds005169	20		yes	no					
+ds004917	53		yes	yes		pdm			
+ds005170	5		yes	no					
+ds005189	30		yes	no					
+ds005191	6		yes	no					
+ds005056	25		yes	no					
+ds005194	8		yes	no					
+ds005207	20		yes	yes		sleep			
+ds004957	18		yes	no		naming			
+ds004928	10		yes	yes		tones			
+ds005233	13		yes	no					
+ds004582	73		yes	no					
+ds005165	10		yes	yes		localizer,test,train			
+ds005234	74		yes	no					
+ds005216	78		yes	no					
+ds005215	65		yes	no					
+ds005241	24		yes	no					
+ds005143	397		yes	no		rest			
+ds003814	10		yes	yes		dyloc,famepisodic,famsemantic,famvisual,langloc,tomloc2			
+ds005262	12		yes	no					
+ds005237	241		yes	no					
+ds005263	68		yes	yes		incenreach			
+ds005264	28		yes	no					
+ds005265	78		yes	no					
+ds005266	68		yes	no					
+ds005250	8		yes	yes		fracback,rest			
+ds005267	21		yes	no					
+ds005230	44		yes	no		RLbaseline,RLlearning,rest			
+ds005270	158		yes	yes					
+ds005273	33		no	no					
+ds005258	2		no	no					
+ds005279	30		yes	no					
+ds005107	21		yes	no					
+ds004587	103		yes	no					
+ds005296	62		yes	yes		sentencesemanticandsyntacticviolations			
+ds005299	1		yes	no					
+ds005239	4		yes	no					
+ds004980	17		no	yes		DefaultTask			
+ds005304	35		yes	no					
+ds005305	165		yes	yes		restingstate			
+ds005274	22		no	no					
+ds005342	32		yes	yes		sitstand			
+ds005134	1		yes	no		rest			
+ds005355	12		yes	no					
+ds005357	45		no	no					
+ds005360	22		yes	no					
+ds003676	22		yes	no					
+ds005364	100		no	yes		rl			
+ds005365	1		yes	no		rest			
+ds005375	58		yes	no					
+ds005374	43		yes	no		1,loc			
+ds005363	43		yes	no					
+ds005383	30		yes	no					
+ds005366	156		yes	no					
+ds005385	608		yes	no					
+ds005397	26		yes	yes		tectonic			
+ds005402	34		yes	no		rest			
+ds005075	31		yes	no					
+ds005403	32		yes	no					
+ds005127	16		yes	no					
+ds004054	42		yes	no					
+ds005406	29		yes	no					
+ds005236	59		yes	no					
+ds005411	48		yes	no					
+ds005398	185		yes	no					
+ds005412	1		yes	no					
+ds004388	40		yes	no					
+ds004389	26		yes	no					
+ds005307	7		yes	no					
+ds005418	35		yes	no		gas			
+ds005422	1		yes	no					
+ds005427	20		yes	yes		ksdp			
+ds005410	81		yes	yes		conditioning			
+ds005420	37		yes	no					
+ds005238	11		yes	no					
+ds005454	5		yes	yes		mixed,rest			
+ds005455	77		yes	no		CognitiveControl,LanguageControl			
+ds005449	122		yes	no					
+ds005450	51		yes	no					
+ds005464	29		yes	no					
+ds005467	24		yes	no					
+ds005186	16		yes	no					
+ds005489	38		yes	no					
+ds005491	19		yes	no					
+ds005492	35		no	no					
+ds005494	20		yes	no					
+ds005503	6		yes	yes		multivariate,prf,univariate			
+ds005497	19		yes	no					
+ds005496	6		yes	no					
+ds004323	32		yes	no		gameplay			
+ds005504	68		yes	no					
+ds005520	23		yes	no					
+ds005522	58		yes	no					
+ds005523	22		yes	no					
+ds005529	186		yes	no					
+ds005469	43		yes	no					
+ds005429	15		yes	no					
+ds005295	17		yes	no		catLoc,langLoc,vwfate			
+ds005530	18		yes	no					
+ds005518	50		yes	yes		narrative			
+ds005534	191		yes	no					
+ds005386	52		yes	no					
+ds005498	152		no	no		stim			
+ds005555	128		yes	no					
+ds005531	6		yes	no					
+ds005505	136		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
+ds005506	150		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
+ds005507	184		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
+ds005508	324		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
+ds005509	330		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
+ds005510	135		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
+ds005512	257		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
+ds005514	295		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
+ds005511	381		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,seqLearning6target,seqLearning8target,surroundSupp,symbolSearch			
+ds005557	18		yes	no					
+ds005558	9		yes	no					
+ds005540	60		yes	no					
+ds005486	159		no	no					
+ds005261	17		yes	no					
+ds005559	42		yes	no					
+ds005565	24		yes	yes		SemanticCategorization			
+ds005573	16		yes	no		rest			
+ds005481	60		yes	no					
+ds005545	106		yes	no					
+ds005472	58		yes	no					
+ds005576	25		yes	no					
+ds005588	40		yes	no					
+ds005586	23		yes	yes		PassiveViewing			
+ds005597	4		yes	no					
+ds005415	13		yes	no					
+ds005595	200		yes	no					
+ds005571	29		no	yes		gnga,gngb,msit			
+ds005589	32		yes	yes		lowSpeed,rsvp			
+ds005600	59		yes	no		ThalHi			
+ds005090	7		no	no					
+ds005596	31		yes	no					
+ds005602	542		yes	no					
+ds005603	8		no	no					
+ds005604	49		no	no		bar1,bar2,bar3,wedgering1,wedgering2,wedgering3			
+ds005605	18		yes	no					
+ds005616	59		yes	no					
+ds005620	21		yes	no					
+ds005624	24		yes	no					
+ds005619	7		yes	no					
+ds005594	16		yes	no					
+ds005581	24		yes	no					
+ds005598	45		yes	no		RLbaseline,RLlearning,leftbaseline,lefttransfer,rest,rightbaseline,rightlearning			
+ds005381	50		yes	yes		DET			
+ds005628	102		yes	yes		Edzna			
+ds005087	20		yes	yes		rsvp			
+ds005128	40		yes	yes		deception			
+ds005630	51		yes	no					
+ds005635	18		yes	no					
+ds005636	78		yes	no					
+ds005468	24		yes	no					
+ds005340	15		yes	yes		peakypitch			
+ds005226	65		yes	yes		image			
+ds005639	49		yes	no		bar1,bar2,bar3,wedgering1,wedgering2,wedgering3			
+ds005670	2		yes	no					
+ds005691	8		yes	no					
+ds005688	20		yes	no					
+ds005672	3		yes	yes		PerceiveImagine			
+ds005692	30		yes	no					
+ds005697	51		yes	yes		PerceiveImagine			
+ds005700	40		yes	no					
+ds005625	1		yes	no					
+ds005704	25		yes	no		pathvideo,recall,roomobjectvideo,roomvideo			
+ds004873	75		yes	no					
+ds005684	35		yes	no					
+ds005687	38		yes	no		rest			
+ds005699	4		yes	no					
+ds005713	240		yes	no					
+ds005416	23		yes	no					
+ds005731	114		no	no					
+ds005747	90		yes	no					
+ds005779	19		yes	no					
+ds005783	16		yes	no		EXP,LOC			
+ds005577	70		yes	yes		read,rhyme,wgen			
+ds005574	9		yes	no					
+ds005623	68		yes	no					
+ds005733	33		yes	no					
+ds005815	20		yes	no					
+ds005811	19		yes	no					
+ds005356	85		yes	no					
+ds005849	14		yes	no					
+ds005345	26		yes	no					
+ds005850	68		yes	no					
+ds005863	127		yes	no					
+ds005810	31		yes	no					
+ds005866	60		yes	yes		FlankerNEAR			
+ds005868	48		yes	yes		flankersFAR			
+ds005876	29		yes	yes		songfamiliarity			
+ds005874	59		yes	no					
+ds005880	20		yes	no					
+ds005839	25		yes	no		rest			
+ds005185	20		yes	yes		ASSR,comfort,electrodeTestLab,sleep			
+ds005178	10		yes	yes		sleep			
+ds005891	21		yes	no		releasesuppression			
+ds005717	3		yes	no		bao,float,laluna,lifted,partlycloudy,piper,presto,sintel,theblueumbrella,toystory2,up,walle,wind			
+ds005882	23		yes	no					
+ds005873	125		yes	yes					
+ds005851	138		yes	no					
+ds005899	0		yes	no		csst			
+ds005754	220		yes	yes		StopSignal,antisaccade,axcpt,flanker,rest			
+ds005883	39		yes	yes		pain			
+ds005884	22		yes	yes		motorL,motorR			
+ds005895	25		yes	no					
+ds005203	20		no	no					
+ds005903	6		no	no					
+ds005405	101		yes	no					
+ds005907	53		yes	yes		ThreeArmedBandit			
+ds005920	31		yes	no					
+ds005521	2		yes	yes		meridianmapper			
+ds005926	1		no	no					
+ds005927	2		yes	no					
+ds004774	14		no	no					
+ds005935	21		no	no					
+ds005752	251		yes	no					
+ds005917	58		yes	no		dotprobe,emoeval,nback,rest			
+ds005946	39		yes	no					
+ds005343	43		yes	yes		resting			
+ds004514	12		yes	no					
+ds004517	7		yes	no					
+ds005953	2		yes	no					
+ds005516	430		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,surroundSupp,symbolSearch			
+ds005515	533		yes	yes		DespicableMe,DiaryOfAWimpyKid,FunwithFractals,RestingState,ThePresent,contrastChangeDetection,surroundSupp,symbolSearch			
+ds002312	19		no	no					
+ds005963	10		yes	no					
+ds005964	17		yes	no					
+ds005931	8		yes	no					
+ds005256	117		yes	yes		alignvideo,faces,fractional,narratives,shortvideo,social			
+ds005664	9		yes	no					
+ds005978	1		yes	no					
+ds005980	24		no	no					
+ds005875	43		yes	no					
+ds006001	7		yes	no					
+ds005960	41		yes	no					
+ds006005	12		yes	yes		0p05,0p10,0p20			
+ds006010	42		yes	no					
+ds006012	21		yes	no					
+ds006018	127		yes	no					
+ds005431	52		yes	no					
+ds006033	3		yes	no					
+ds006035	5		yes	no					
+ds006036	88		yes	yes		photomark			
+ds006039	31		yes	no					
+ds006040	28		yes	no					
+ds005901	120		yes	no					
+ds005896	262		yes	no					
+ds006071	1		yes	no					
+ds006072	11		yes	no					
+ds005166	103		yes	yes		AXCPT,SST,flanker			
+ds006065	7		yes	no					
+ds005857	33		yes	no					
+ds005892	55		yes	no					
+ds006092	60		yes	no					
+ds005894	25		no	no		Encode,Item,Loci,Retrieve,test			
+ds006104	24		yes	no					
+ds006105	75		yes	no					
+ds006107	166		no	no					
+ds005341	49		yes	no					
+ds003358	35		yes	no					
+ds003877	79		yes	no					
+ds003892	34		yes	no					
+ds003900	1		yes	no					
+ds003927	7		yes	no					
+ds005737	1		no	no					
+ds005648	21		yes	no					
+ds005460	160		yes	yes		cet,stories			
+ds006123	1		yes	no					
+ds004669	8		yes	no					
+ds006126	5		yes	no					
+ds005413	45		yes	yes		expectpercept,visuallocalizer			
+ds006156	64		no	no					
+ds006145	12		no	no					
+ds006171	36		no	no					
+ds006179	40		yes	no		ebavwfa,effloc,eploc,foss,lang,speech,spwm			
+ds006111	100		no	no					
+ds006181	1		yes	no					
+ds006193	1		no	no		bao,rat			
+ds006207	1		no	no					
+ds005947	48		yes	no					
+ds006209	3		no	no					
+ds006095	71		yes	yes		flat			
+ds006211	25		yes	no					
+ds006128	3		yes	no		pRF			
+ds006224	27		yes	no					
+ds006218	138		yes	no					
+ds006239	89		yes	yes		LocalASL,LocalEng,LocalSR0,LocalSem,ReadMean,ReadPhon			
+ds006192	24		no	no					
+ds006191	12		no	no					
+ds006189	24		no	no					
+ds006190	12		no	no					
+ds006188	22		no	no					
+ds006185	102		yes	no					
+ds006184	50		yes	no					
+ds006182	50		yes	no					
+ds006143	66		no	no		bao,rat,rest			
+ds006243	54		yes	no					
+ds006138	1		yes	no					
+ds006169	80		yes	no					
+ds006248	50		yes	no					
+ds006234	119		yes	no					
+ds006233	108		yes	no					
+ds006159	61		yes	no					
+ds006131	51		yes	yes		bao,rat,rest			
+ds005841	48		yes	yes					
+ds006260	76		yes	yes		SmartickDataset			
+ds006266	20		yes	no					
+ds006265	20		yes	no					
+ds006267	24		yes	no					
+ds006142	27		yes	no					
+ds006269	24		yes	no					
+ds006303	149		yes	yes		TAU1,TAU2,rest			
+ds005137	22		yes	no					
+ds006317	2		yes	no					
+ds006318	86		yes	no					
+ds006334	30		yes	no					
+ds006067	118		yes	no		thinkaloud			
+ds006367	52		yes	yes		DelayedMatchtoSampleTask			
+ds006366	92		yes	yes		sleep			
+ds006377	115		no	no					
+ds006370	56		yes	yes		DelayedMatchtoSampleTask			
+ds006392	1		yes	no					
+ds006394	33		yes	no					
+ds006373	2		yes	no					
+ds005551	47		yes	yes					
+ds006401	14		no	no					
+ds005448	13		yes	no					
+ds006437	9		yes	yes		hypnotherapy			
+ds006446	29		yes	no					
+ds005642	21		yes	yes		faceobj			
+ds005284	26		yes	yes		26ByBiosemi			
+ds005473	29		yes	yes		29ByBP			
+ds005293	95		yes	yes		95ByBP			
+ds006483	14		yes	no		hybrid			
+ds005658	36		yes	no					
+ds006319	5		yes	no					
+ds006512	8		yes	no					
+ds006407	60		yes	no					
+ds006519	21		yes	no					
+ds006525	34		yes	no					
+ds006521	47		no	no					
+ds005112	135		yes	no					
+ds004940	22		yes	yes		N400Active,N400Passive			
+ds006545	49		no	no					
+ds006547	31		yes	yes		visual			
+ds006468	24		yes	no					
+ds006554	47		yes	yes		SocialObservation			
+ds006557	23		yes	no					
+ds006556	30		yes	no					
+ds006563	12		yes	yes		DimensionDiscrimination			
+ds006212	23		yes	no					
+ds006564	43		yes	no					
+ds004974	29		yes	no					
+ds006592	1		yes	yes		multi			
+ds006593	21		yes	no					
+ds006598	10		yes	no					
+ds006566	20		yes	no		releasesuppressionmanip			
+ds006572	20		yes	no		releasesuppressionvisual			
+ds006594	20		yes	no		releasesuppressionfunc			
+ds006601	31		no	no		cueexposure			
+ds006583	43		no	no					
+ds006434	66		yes	no					
+ds006630	2		yes	no					
+ds006613	95		yes	no					
+ds006638	86		yes	no					
+ds006502	31		yes	no					
+ds006636	1		no	no					
+ds006491	4		yes	no					
+ds006661	13		yes	no					
+ds006374	36		yes	no					
+ds006670	38		yes	no					
+ds006676	47		no	no					
+ds006644	40		yes	no		rest			
+ds005933	28		yes	no					
+ds006673	17		no	no					
+ds006663	69		yes	no		rest			
+ds006693	48		yes	no		rest			
+ds006691	88		yes	no					
+ds006695	19		yes	no					
+ds006629	19		yes	no					
+ds004639	84		yes	no					
+ds006628	46		yes	no		dimension,feature,response			
+ds006642	40		yes	no		backtothefuture,retinotopy,somatotopy,tonotopy			
+ds005872	1		yes	no					
+ds005408	25		yes	yes		peakysnr			
+ds006707	4		yes	no		mid,rest,sharedreward			
+ds006729	28		yes	no					
+ds006721	1		yes	no					
+ds006731	39		yes	no					
+ds005424	21		yes	no					
+ds006735	27		yes	no					
+ds006746	24		yes	no					
+ds006533	105		yes	no					
+ds006761	31		yes	no					
+ds006648	47		yes	yes		readpoetry			
+ds006647	4		yes	yes		readpoetry			
+ds005483	33		yes	no					
+ds006756	33		yes	no					
+ds004402	10		yes	no					
+ds006777	121		yes	no					
+ds006780	139		yes	no					
+ds006801	21		yes	no					
+ds006803	63		yes	no					
+ds006798	6		yes	yes					
+ds006812	10		yes	no					
+ds006815	3		yes	no					
+ds006821	49		yes	no		Quantum			
+ds006826	20		yes	no					
+ds006465	20		yes	no					
+ds006768	30		yes	yes		MOM			
+ds005662	80		yes	yes		video			
+ds006848	30		yes	no					
+ds006817	35		yes	yes		CTP			
+ds006844	45		yes	no					
+ds006802	24		yes	yes		categorisation			
+ds006839	36		yes	yes		control,negative,positive,resting			
+ds006833	15		yes	yes		DeepMReyeCalib,DeepMReyeCalibTraining,DeepMReyeClosed,DeepMReyeClosedTraining			
+ds006850	63		yes	yes		UrbanAppraisal			
+ds006861	120		yes	yes		EmotionProcessingandRegulationtask			
+ds006866	148		yes	yes		EmotionProcessingandRegulationtask			
+ds006890	2		yes	no					
+ds006903	17		no	no					
+ds005932	29		yes	yes		PictureWordInterference			
+ds006623	26		yes	no					
+ds006902	42		yes	no					
+ds006917	7		yes	no					
+ds006779	26		yes	no					
+ds006923	140		yes	no					
+ds006744	230		yes	no					
+ds006926	83		yes	no		VOB,VisMot,rest			
+ds006935	1		yes	no					
+ds006910	121		yes	no					
+ds006914	110		yes	no					
+ds006720	24		yes	no					
+ds005354	20		yes	no					
+ds006840	15		yes	yes		ihc			
+ds006943	3		yes	no					
+ds006944	1		yes	no					
+ds006949	20		yes	no					
+ds006952	34		no	no		Video,rest,restaurative,stroop			
+ds006963	32		yes	yes		VisuomotorDelayedMatchToSampleWithInterference			
+ds006945	5		yes	no					
+ds006940	7		yes	no					
+ds006971	6		yes	no					
+ds006979	53		yes	yes		visualworkingmemorytask			
+ds007006	10		yes	yes		compTree,ivan,medBall,postbaseline,prebaseline			
+ds007020	94		yes	no					
+ds007022	60		yes	yes		DD6,FinTapp,LDTTactBra,Stroop,listening,nback,playback			
+ds006871	30		yes	no					
+ds007026	55		no	no		risk			
+ds007028	3		no	no					
+ds007034	11		yes	no					
+ds007043	18		no	no					
+ds007045	337		yes	no					
+ds007046	20		yes	no					
+ds007048	14		yes	no					
+ds007052	288		yes	yes		WordPR			
+ds007056	286		yes	yes		VisualOddball			
+ds007063	52		yes	yes		expo			
+ds007067	15		no	no					
+ds007069	281		yes	yes		AuditoryOddball			
+ds007070	234		yes	no					
+ds007081	41		yes	no					
+ds006893	15		yes	no					
+ds007088	252		yes	no					
+ds007089	262		yes	no					
+ds007090	128		yes	no					
+ds007091	128		yes	no					
+ds007095	8		yes	no					
+ds007096	292		yes	yes		FacePerception			
+ds007100	82		yes	no					
+ds007109	11		yes	no					
+ds006576	69		yes	yes		decision,familiarization,localizer,postfaces,postscenes,reward,study			
+ds006921	38		yes	no					
+ds007115	39		yes	no					
+ds007116	132		yes	no		nback,rest			
+ds007118	65		yes	no					
+ds007119	103		yes	no					
+ds007120	65		yes	no					
+ds007122	6		yes	no					
+ds007126	34		yes	no					
+ds007127	32		no	no					
+ds006905	84		yes	no		films,fix,inscapes			
+ds007135	25		yes	no					
+ds007137	294		yes	yes		VisualSearch			
+ds007139	292		yes	yes		Flanker			
+ds007156	14		yes	no		mempat			
+ds007162	34		yes	no					
+ds007169	18		yes	yes		nback			
+ds007172	100		yes	no					
+ds007175	41		yes	no					
+ds006148	266		yes	no					
+ds007176	45		yes	no					
+ds006805	30		yes	no		localizer,main			
+ds007180	25		yes	no					
+ds006577	100		yes	yes		TAU2			
+ds007181	66		yes	no		rest			
+ds007182	2		yes	yes		farmers,firstdates,fomo,interviews,poland,rest,royals			
+ds007185	61		yes	no					
+ds007195	1		no	no					
+ds007216	24		yes	no					
+ds007221	84		yes	no					
+ds007231	21		yes	no					
+ds007262	18		yes	yes		arithmetic			
+ds007267	31		yes	no					
+ds007272	6		yes	yes					
+ds007275	35		yes	no					
+ds007276	17		yes	no					
+ds007305	23		yes	no		foodlottery			
+ds007313	1		yes	no					
+ds007314	2		yes	yes		PictureNaming			
+ds007315	2		yes	yes		PictureNaming			
+ds007318	42		yes	yes		removal			
+ds007322	57		yes	no					
+ds007328	1		yes	no					
+ds007329	21		yes	yes		localizer,visualmemory			
+ds007335	46		yes	no		controlled,naturalistic			
+ds007338	1		yes	no					
+ds007342	31		yes	no					
+ds005563	7		yes	no					
+ds007345	60		yes	no					
+ds007347	5		yes	yes		resting			
+ds006136	13		yes	no					
+ds006883	126		yes	yes		pictures			
+ds007353	32		yes	no					
+ds007368	32		no	no					
+ds007369	12		yes	no					
+ds007376	18		yes	yes		ctask			
+ds007378	21		yes	no					
+ds007384	42		yes	no					
+ds007386	27		yes	no					
+ds007387	30		yes	no					
+ds007388	31		yes	no					
+ds007391	64		yes	no					
+ds007392	1		yes	no					
+ds006222	69		yes	yes		PVT			
+ds007394	28		yes	no		physical,send,stutterer			
+ds006654	7		yes	no					
+ds006386	30		yes	no					
+ds007398	61		yes	no					
+ds006021	24		yes	no					
+ds007401	542		yes	no					
+ds006559	35		yes	no		persuade			
+ds006568	37		yes	no		debate			
+ds007402	252		yes	no					
+ds007406	10		yes	yes		extremeversustraditionalvideos			
+ds007407	36		yes	no					
+ds007408	1		no	no					
+ds007418	4		yes	no					
+ds007420	12		no	no					
+ds007427	44		yes	no					
+ds007431	47		yes	yes		DelayedComparisonTask			
+ds007436	58		yes	no					
+ds007441	40		yes	no					
+ds007445	19		yes	no					
+ds006947	3		yes	no					
+ds006240	45		no	no					
+ds007446	119		yes	no					
+ds005906	10		yes	no		restOFF,restON			
+ds007454	42		yes	no					
+ds006686	64		yes	yes		cat			
+ds007456	2		no	no					
+ds007463	8		yes	no					
+ds007471	32		yes	no					
+ds007473	5		yes	no					
+ds007477	18		yes	no					
+ds005698	25		yes	no					
+ds007486	5		yes	no		SST,adview,trust			
+ds007508	30		yes	no					
+ds007521	23		yes	yes		food			
+ds007523	58		yes	yes		listen			
+ds007524	50		yes	yes		read			
+ds007526	144		yes	no					
+ds007532	36		yes	yes		visseq			
+ds007534	34		no	no					
+ds007535	56		yes	yes		SpeechHemi			
+ds007554	30		yes	yes		activemotor,full,mentalarithmetic,motorimagery,nback,nbackarithmetic,passivemotor			
+ds006506	26		yes	no		localizer,main			
+ds004407	28		yes	no					
+ds004541	8		yes	no					
+ds007558	67		yes	no					
+ds007561	20		yes	no					
+ds007575	31		yes	no					
+ds007584	167		no	no					
+ds007588	27		yes	no					
+ds007591	3		yes	yes					
+ds007602	3		yes	no		speechopen			
+ds007606	187		no	no					
+ds007609	51		yes	yes		rest			
+ds002219	25		no	no		silentreading			
+ds007615	69		yes	no					
+ds005339	223		yes	no					
+ds006402	39		yes	no					
+ds007629	1		yes	no					
+ds007630	3		yes	yes		listening,listeningcovert,speechopen			
+ds007640	23		yes	no					
+ds006897	41		yes	no					
+ds007645	22		yes	no					
+ds007647	40		yes	yes		differentdoors			
+ds004169	1202		yes	no					
+ds004186	0		no	no					
+ds004215	0		no	no					
+ds004889	0		no	no					
+ds004935	0		no	no					
+ds005063	0		no	no					
+ds005443	0		no	no					
+ds006187	0		no	no					
+ds006391	0		no	no					
+ds006948	0		no	no					
+ds006950	0		no	no					
+ds006951	0		no	no					
+ds006959	0		no	no					
+ds006962	0		no	no					
+ds006969	0		no	no					
+ds006978	0		no	no					
+ds006980	0		no	no					
+ds006995	0		no	no					
+ds006997	0		no	no					
+ds006998	0		no	no					
+ds006999	0		no	no					
+ds007000	0		no	no					
+ds007001	0		no	no					
+ds007002	0		no	no					
+ds007003	0		no	no					
+ds007004	0		no	no					
+ds007005	0		no	no					
+ds007007	0		no	no					
+ds007008	0		no	no					
+ds007009	0		no	no					
+ds007010	0		no	no					
+ds007011	0		no	no					
+ds007012	117		yes	yes		categorisation,gonogo,pairedchoice			
+ds007021	0		no	no					
+ds007023	0		no	no					
+ds007024	0		no	no					
+ds007025	0		no	no					
+ds007029	0		no	no					
+ds007030	0		no	no					
+ds007032	0		no	no					
+ds007036	33		yes	no					
+ds007038	0		no	no					
+ds007039	0		no	no					
+ds007051	0		no	no					
+ds007058	0		no	no					
+ds007060	0		no	no					
+ds007061	0		no	no					
+ds007062	0		no	no					
+ds007065	0		no	no					
+ds007068	0		no	no					
+ds007074	0		no	no					
+ds007082	0		no	no					
+ds007102	0		no	no					
+ds007111	0		no	no					
+ds007114	0		no	no					
+ds007123	0		no	no					
+ds007124	0		no	no					
+ds007125	0		no	no					
+ds007146	0		no	no					
+ds007157	0		no	no					
+ds007159	0		no	no					
+ds007160	0		no	no					
+ds007161	0		no	no					
+ds007170	0		no	no					
+ds007173	0		no	no					
+ds007179	48		yes	no					
+ds007183	0		no	no					
+ds007196	0		no	no					
+ds007207	0		no	no					
+ds007212	0		no	no					
+ds007222	15		yes	no					
+ds007234	0		no	no					
+ds007236	0		no	no					
+ds007238	0		no	no					
+ds007241	0		no	no					
+ds007242	0		no	no					
+ds007245	0		no	no					
+ds007248	0		no	no					
+ds007283	0		no	no					
+ds007284	0		no	no					
+ds007286	410		yes	no					
+ds007285	0		no	no					
+ds007292	0		no	no					
+ds007293	0		no	no					
+ds007300	0		no	no					
+ds007304	0		no	no					
+ds007325	0		no	no					
+ds007326	0		no	no					
+ds007327	0		no	no					
+ds007336	0		no	no					
+ds007339	0		no	no					
+ds007341	0		no	no					
+ds007348	0		no	no					
+ds007349	0		no	no					
+ds007350	0		no	no					
+ds007354	20		yes	no					
+ds006692	0		no	no					
+ds007357	0		no	no					
+ds007358	0		no	no					
+ds007366	0		no	no					
+ds007371	0		no	no					
+ds007373	0		no	no					
+ds007374	0		no	no					
+ds007377	0		no	no					
+ds007390	0		no	no					
+ds007393	39		yes	no					
+ds007396	0		no	no					
+ds007397	0		no	no					
+ds007410	0		no	no					
+ds007411	0		no	no					
+ds007422	0		no	no					
+ds007424	0		no	no					
+ds007425	0		no	no					
+ds007426	0		no	no					
+ds007437	0		no	no					
+ds007439	0		no	no					
+ds007440	0		no	no					
+ds007442	0		no	no					
+ds007447	0		no	no					
+ds007448	0		no	no					
+ds007449	0		no	no					
+ds007450	0		no	no					
+ds007451	0		no	no					
+ds007452	0		no	no					
+ds007455	0		no	no					
+ds007457	0		no	no					
+ds007468	24		yes	no		lexicaldecision			
+ds007469	0		no	no					
+ds007470	0		no	no					
+ds007472	0		no	no					
+ds007474	189		yes	no					
+ds007475	0		no	no					
+ds007476	0		no	no					
+ds007478	0		no	no					
+ds007479	0		no	no					
+ds007480	0		no	no					
+ds007481	0		no	no					
+ds007482	0		no	no					
+ds007485	0		no	no					
+ds007488	0		no	no					
+ds007489	0		no	no					
+ds007490	0		no	no					
+ds007492	0		no	no					
+ds007493	0		no	no					
+ds007494	0		no	no					
+ds007495	0		no	no					
+ds007497	0		no	no					
+ds007505	0		no	no					
+ds007507	0		no	no					
+ds007509	69		yes	yes		PVT			
+ds007510	0		no	no					
+ds007512	0		no	no					
+ds007513	0		no	no					
+ds007522	701		yes	no					
+ds007537	23		yes	no					
+ds007538	0		no	no					
+ds007539	0		no	no					
+ds007540	0		no	no					
+ds007541	32		yes	no					
+ds007542	0		no	no					
+ds007543	1		yes	no					
+ds007544	0		no	no					
+ds007546	0		no	no					
+ds007547	0		no	no					
+ds007549	0		no	no					
+ds007555	0		no	no					
+ds007556	0		no	no					
+ds007557	0		no	no					
+ds007574	0		no	no					
+ds007576	0		no	no					
+ds007586	0		no	no					
+ds007587	0		no	no					
+ds007611	0		no	no					
+ds007614	0		no	no					
+ds007616	0		no	no					
+ds007617	0		no	no					
+ds007618	0		no	no					
+ds007619	0		no	no					
+ds007621	0		no	no					
+ds007622	0		no	no					
+ds007623	0		no	no					
+ds007625	0		no	no					
+ds007626	0		no	no					
+ds007628	0		no	no					
+ds007631	0		no	no					
+ds007632	0		no	no					
+ds007633	0		no	no					
+ds007636	0		no	no					
+ds007637	8		yes	yes		fracback,rest			
+ds007638	0		no	no					
+ds007641	0		no	no					
+ds007643	0		no	no					
+ds007644	0		no	no					
+ds007646	0		no	no					
+ds007648	22		yes	no					
+ds007653	0		no	no					
+ds007655	32		yes	yes		dotcount,firstlast			
+ds007656	0		no	no					
+ds007659	0		no	no					
+ds007661	16		yes	no					
+ds007605	97		yes	yes		pvt			
+ds007663	27		yes	yes		crossmodal			
+ds007666	55		yes	no					
+ds007667	55		yes	no					
+ds007668	0		no	no					
+ds007669	0		no	no					
+ds007671	401		yes	no					
+ds006108	75		yes	no					
+ds005934	40		yes	no					
+ds006683	61		no	no					
+ds007677	5		yes	no					
+ds007679	0		no	no					
+ds007680	0		no	no					
+ds007683	0		no	no					
+ds007687	0		no	no					
+ds007688	44		yes	no					
+ds007690	0		no	no					
+ds007693	0		no	no					
+ds007694	139		yes	no		rest			
+ds007695	0		no	no					
+ds007696	0		no	no					
+ds007697	0		no	no					
+ds007703	0		no	no					
+ds007713	1		yes	no					
+ds007714	64		no	no					
+ds007719	65		no	no					
+ds007720	5		yes	no					
+ds007721	20		yes	no					
+ds006837	62		yes	no					
+ds007724	0		no	no					
+ds007725	0		no	no					
+ds007729	0		no	no					
+ds007730	0		no	no					
+ds007731	0		no	no					
+ds007738	38		yes	no					
+ds007739	2		yes	no					
+ds007740	0		no	no					
+ds007741	141		yes	no					
+ds007742	0		no	no					
+ds007745	0		no	no					
+ds007752	0		no	no					
+ds007753	0		no	no					
+ds007760	0		no	no					
+ds007761	15		yes	no					
+ds007762	0		no	no					
+ds007763	0		no	no					
+ds007764	0		no	no					
+ds007766	0		no	no					
+ds007767	0		no	no					
+ds007768	14		yes	no					
+ds007780	11		yes	no		auditory			
+ds007781	0		no	no					
+ds007782	0		no	no					
+ds007783	10		yes	no		rest			
+ds007784	0		no	no					
+ds007787	0		no	no					
+ds007788	7		yes	no					
+ds007789	23		yes	no					
+ds007790	0		no	no					
+ds007791	0		no	no					
+ds007792	0		no	no					
+ds007799	10		yes	no					
+ds007801	0		no	no					
+ds007802	0		no	no					
+ds007806	40		yes	no					
+ds007808	3		yes	yes		listening,listeningcovert,speechopen			
+ds007811	0		no	no					
+ds007812	0		no	no					
+ds007813	4		yes	no		gonogo			
+ds007816	0		no	no					
+ds007819	20		yes	no					
+ds007821	0		no	no					
+ds007822	33		yes	no					
+ds007823	169		yes	no					
+ds007824	0		no	no					
+ds007827	99		yes	no		ImageRatings			
+ds007830	0		no	no					
+ds007831	110		yes	no					
+ds007832	0		no	no					
+ds007833	0		no	no					
+ds007837	0		no	no					
+ds007845	0		no	no					
+ds007847	14		no	no					
+ds007849	0		no	no					
+ds007850	0		no	no					
+ds007851	0		no	no					
+ds007852	0		no	no					
+ds007853	0		no	no					
+ds006550	10		yes	yes		feedback,nofeedback,observation			
+ds007854	0		no	no					
+ds007855	0		no	no					
+ds007856	0		no	no					
+ds007857	0		no	no					
+ds007859	36		yes	no					
+ds007862	16		yes	no					
+ds007863	0		no	no					
+ds007864	45		yes	no					
+ds007865	24		yes	no					
+ds007870	0		no	no					
+ds007871	0		no	no					
+ds006110	65		yes	no		meditation,movie,music,rest,series			
+ds007872	0		no	no					
+ds007873	0		no	no					
+ds007874	0		no	no					
+ds005562	23		no	no					
+ds007875	0		no	no					
+ds007876	0		no	no					
+ds007877	0		no	no					
+ds007878	0		no	no					
+ds007879	0		no	no					
+ds007880	0		no	no					
+ds007881	0		no	no					
+ds007882	0		no	no					
+ds007883	0		no	no					

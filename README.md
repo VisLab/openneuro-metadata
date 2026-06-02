@@ -233,8 +233,12 @@ python sync_repo_file_contents.py
 
 **Script:** `extract_summary_info.py`
 
-Reads `repo_files.json` (produced by the legacy `get_repo_files.py`) and extracts
+Reads `repo_contents.json` (produced by `sync_repo_contents.py`) and extracts
 per-dataset statistics: subject count, presence of event files and README, and task names.
+
+**Note:** The script supports both the current `repo_contents.json` format and the legacy
+`repo_files.json` format for backward compatibility. It will automatically use whichever
+file is available, preferring the current format.
 
 ```bash
 python extract_summary_info.py

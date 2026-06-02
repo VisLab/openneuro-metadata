@@ -1,0 +1,165 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "group": {
+        "Description": "Group assignment based on UCLA Loneliness Scale score",
+        "Levels": {
+            "Lonely": "Participant met the loneliness cut-off on the UCLA Loneliness Scale",
+            "Non-Lonely": "Participant did not meet the loneliness cut-off on the UCLA Loneliness Scale"
+        }
+    },
+    "ucla-ls": {
+        "LongName": "UCLA Loneliness Scale total score",
+        "Description": "Total score on the UCLA Loneliness Scale (Version 3), a 20-item self-report measure of subjective feelings of loneliness and social isolation. Higher scores indicate greater loneliness.",
+        "TermURL": "https://doi.org/10.1207/s15327752jpa6601_2",
+        "Units": "score"
+    },
+    "age": {
+        "Description": "Age of the participant at the time of testing",
+        "Units": "years"
+    },
+    "gender": {
+        "Description": "Self-reported gender identity",
+        "Levels": {
+            "Woman": "Self-identifies as a woman",
+            "Man": "Self-identifies as a man",
+            "Non-binary": "Self-identifies as non-binary"
+        }
+    },
+    "handedness": {
+        "LongName": "Edinburgh Handedness Inventory laterality quotient",
+        "Description": "Laterality quotient computed from the Edinburgh Handedness Inventory, ranging from -1 (fully left-handed) to +1 (fully right-handed).",
+        "TermURL": "https://doi.org/10.1016/0028-3932(71)90067-4",
+        "Units": "laterality quotient"
+    },
+    "ses": {
+        "LongName": "Socioeconomic status (highest educational attainment)",
+        "Description": "Categorical indicator of socioeconomic status, operationalised here as years of completed education.",
+        "Levels": {
+            "9-12 years": "9 to 12 years of education",
+            "13-16 years": "13 to 16 years of education",
+            "17-20 years": "17 to 20 years of education",
+            "More than 20 years": "More than 20 years of education",
+            "Missing": "Educational attainment not reported"
+        }
+    },
+    "ethnicity": {
+        "Description": "Self-reported ethnic or geographic-cultural background based on birth continent of parents and grandparents. One or more of the following categories, separated by a comma when more than one applies (mixed background): 'Europe', 'East Asia', 'South-East Asia', 'South Asia', 'West Asia and North Africa', 'North America', 'South and Central America'."
+    },
+    "bsi53_somatisation": {
+        "LongName": "Brief Symptom Inventory-53 Somatisation subscale",
+        "Description": "Mean item score on the Somatisation subscale of the Brief Symptom Inventory (53 items). Items are rated on a 5-point scale (0 = not at all, 4 = extremely); higher scores indicate greater distress.",
+        "TermURL": "https://doi.org/10.1017/S0033291700048017",
+        "Units": "mean item score"
+    },
+    "bsi53_obsessive_compulsive": {
+        "LongName": "Brief Symptom Inventory-53 Obsessive-Compulsive subscale",
+        "Description": "Mean item score on the Obsessive-Compulsive subscale of the Brief Symptom Inventory (53 items). Higher scores indicate greater distress.",
+        "TermURL": "https://doi.org/10.1017/S0033291700048017",
+        "Units": "mean item score"
+    },
+    "bsi53_interpersonal_sensitivity": {
+        "LongName": "Brief Symptom Inventory-53 Interpersonal Sensitivity subscale",
+        "Description": "Mean item score on the Interpersonal Sensitivity subscale of the Brief Symptom Inventory (53 items). Higher scores indicate greater distress.",
+        "TermURL": "https://doi.org/10.1017/S0033291700048017",
+        "Units": "mean item score"
+    },
+    "bsi53_depression": {
+        "LongName": "Brief Symptom Inventory-53 Depression subscale",
+        "Description": "Mean item score on the Depression subscale of the Brief Symptom Inventory (53 items). Higher scores indicate greater distress.",
+        "TermURL": "https://doi.org/10.1017/S0033291700048017",
+        "Units": "mean item score"
+    },
+    "bsi53_anxiety": {
+        "LongName": "Brief Symptom Inventory-53 Anxiety subscale",
+        "Description": "Mean item score on the Anxiety subscale of the Brief Symptom Inventory (53 items). Higher scores indicate greater distress.",
+        "TermURL": "https://doi.org/10.1017/S0033291700048017",
+        "Units": "mean item score"
+    },
+    "bsi53_hostility": {
+        "LongName": "Brief Symptom Inventory-53 Hostility subscale",
+        "Description": "Mean item score on the Hostility subscale of the Brief Symptom Inventory (53 items). Higher scores indicate greater distress.",
+        "TermURL": "https://doi.org/10.1017/S0033291700048017",
+        "Units": "mean item score"
+    },
+    "bsi53_phobic_anxiety": {
+        "LongName": "Brief Symptom Inventory-53 Phobic Anxiety subscale",
+        "Description": "Mean item score on the Phobic Anxiety subscale of the Brief Symptom Inventory (53 items). Higher scores indicate greater distress.",
+        "TermURL": "https://doi.org/10.1017/S0033291700048017",
+        "Units": "mean item score"
+    },
+    "bsi53_paranoid_ideation": {
+        "LongName": "Brief Symptom Inventory-53 Paranoid Ideation subscale",
+        "Description": "Mean item score on the Paranoid Ideation subscale of the Brief Symptom Inventory (53 items). Higher scores indicate greater distress.",
+        "TermURL": "https://doi.org/10.1017/S0033291700048017",
+        "Units": "mean item score"
+    },
+    "bsi53_psychoticism": {
+        "LongName": "Brief Symptom Inventory-53 Psychoticism subscale",
+        "Description": "Mean item score on the Psychoticism subscale of the Brief Symptom Inventory (53 items). Higher scores indicate greater distress.",
+        "TermURL": "https://doi.org/10.1017/S0033291700048017",
+        "Units": "mean item score"
+    },
+    "bsi53_gsi": {
+        "LongName": "Brief Symptom Inventory-53 Global Severity Index",
+        "Description": "Global Severity Index from the Brief Symptom Inventory (53 items): mean item score across all 53 items. Higher scores indicate greater overall psychological distress.",
+        "TermURL": "https://doi.org/10.1017/S0033291700048017",
+        "Units": "mean item score"
+    },
+    "bsi53_psdi": {
+        "LongName": "Brief Symptom Inventory-53 Positive Symptom Distress Index",
+        "Description": "Positive Symptom Distress Index from the Brief Symptom Inventory (53 items): mean intensity of symptoms endorsed at non-zero levels. Higher scores indicate greater distress intensity.",
+        "TermURL": "https://doi.org/10.1017/S0033291700048017",
+        "Units": "mean item score"
+    },
+    "bsi53_pst": {
+        "LongName": "Brief Symptom Inventory-53 Positive Symptom Total",
+        "Description": "Positive Symptom Total from the Brief Symptom Inventory (53 items): number of items endorsed at a non-zero level.",
+        "TermURL": "https://doi.org/10.1017/S0033291700048017",
+        "Units": "count"
+    },
+    "lsns6_family": {
+        "LongName": "Lubben Social Network Scale-6 family subscale",
+        "Description": "Sum score for the family items of the abbreviated Lubben Social Network Scale (LSNS-6). Higher scores indicate stronger family social ties.",
+        "TermURL": "https://doi.org/10.1093/geront/46.4.503",
+        "Units": "score"
+    },
+    "lsns6_friends": {
+        "LongName": "Lubben Social Network Scale-6 friends subscale",
+        "Description": "Sum score for the friends items of the abbreviated Lubben Social Network Scale (LSNS-6). Higher scores indicate stronger friend social ties.",
+        "TermURL": "https://doi.org/10.1093/geront/46.4.503",
+        "Units": "score"
+    },
+    "lsns6_total": {
+        "LongName": "Lubben Social Network Scale-6 total score",
+        "Description": "Total sum score on the abbreviated Lubben Social Network Scale (LSNS-6). Scores range from 0 to 30; lower scores indicate greater risk of social isolation.",
+        "TermURL": "https://doi.org/10.1093/geront/46.4.503",
+        "Units": "score"
+    },
+    "gad7_total": {
+        "LongName": "Generalised Anxiety Disorder 7-item total score",
+        "Description": "Total score on the Generalised Anxiety Disorder 7-item scale (GAD-7). Scores range from 0 to 21; higher scores indicate more severe anxiety symptoms.",
+        "TermURL": "https://doi.org/10.1001/archinte.166.10.1092",
+        "Units": "score"
+    },
+    "pss10_total": {
+        "LongName": "Perceived Stress Scale 10-item total score",
+        "Description": "Total score on the 10-item Perceived Stress Scale (PSS-10). Scores range from 0 to 40; higher scores indicate greater perceived stress.",
+        "TermURL": "https://doi.org/10.2307/2136404",
+        "Units": "score"
+    },
+    "phq9_total": {
+        "LongName": "Patient Health Questionnaire 9-item total score",
+        "Description": "Total score on the Patient Health Questionnaire 9-item depression scale (PHQ-9). Scores range from 0 to 27; higher scores indicate more severe depressive symptoms.",
+        "TermURL": "https://doi.org/10.1046/j.1525-1497.2001.016009606.x",
+        "Units": "score"
+    },
+    "exclude": {
+        "Description": "Flag indicating whether the participant should be excluded from analyses (e.g., due to data quality or protocol deviations).",
+        "Levels": {
+            "TRUE": "Participant is flagged for exclusion",
+            "FALSE": "Participant is retained for analyses"
+        }
+    }
+}

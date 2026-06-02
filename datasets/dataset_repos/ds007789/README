@@ -1,0 +1,6 @@
+This dataset includes artificial T1-weighted images as well as whole-brain structural maps
+of VIP (volume of interacting proton) produced from the quantitative MRI software pipeline
+which can be found at https://github.com/mezera/mrQ. Data were collected at the Princeton
+Neuroscience Institute. qMRI and T1-weighted images are inherently aligned to one another 
+within a given participant. Information about the scan can be found at the publication 
+link here:

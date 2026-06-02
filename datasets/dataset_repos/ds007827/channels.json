@@ -1,0 +1,42 @@
+{
+    "name": {
+        "Description": "Label of the channel"
+    },
+    "type": {
+        "Description": "Type of channel",
+        "Levels": {
+            "EEG": "Electroencephalogram channel",
+            "EOG": "Electrooculogram channel",
+            "ECG": "Electrocardiogram channel",
+            "EMG": "Electromyogram channel",
+            "MISC": "Miscellaneous channel",
+            "TRIG": "Trigger channel",
+            "STIM": "Stimulus channel"
+        }
+    },
+    "units": {
+        "Description": "Physical unit of the value represented in this channel, specified according to the SI unit symbol and possibly prefix symbol (e.g. mV, V), or as a string if not a SI unit (e.g. n/a for the trigger channel)"
+    },
+    "sampling_frequency": {
+        "Description": "Sampling rate of the channel in Hz",
+        "Units": "Hz"
+    },
+    "low_cutoff": {
+        "Description": "Frequencies used for the high-pass filter applied to the channel in Hz. If no high-pass filter was applied, use n/a",
+        "Units": "Hz"
+    },
+    "high_cutoff": {
+        "Description": "Frequencies used for the low-pass filter applied to the channel in Hz. If no low-pass filter was applied, use n/a",
+        "Units": "Hz"
+    },
+    "reference": {
+        "Description": "Name of the reference electrode(s). This column is not needed when it is common to all channels. In that case the reference can be specified in *_eeg.json as EEGReference"
+    },
+    "status": {
+        "Description": "Data quality observed on the channel. A channel is considered bad if its data quality is compromised by excessive noise. Description of noise type SHOULD be provided in [status_description]",
+        "Levels": {
+            "good": "Channel is good and can be used for analysis",
+            "bad": "Channel is bad and should not be used for analysis"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Name": "Open data of VNfMRI",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Wei-Tang Chang",
+        "",
+        ""
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "",
+        "",
+        ""
+    ],
+    "EthicsApprovals": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        "",
+        "",
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007543.v1.0.1"
+}

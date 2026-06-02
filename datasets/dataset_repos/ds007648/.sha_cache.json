@@ -1,0 +1,9 @@
+{
+  "CHANGES": "1179a61c440bea724c5e6ccfeb5fff8c3e0d3222",
+  "dataset_description.json": "3b513f5442ac93da5e4c66031b114e82b02e4e3f",
+  "participants.json": "425e866bcb5a1d942b6d2135f3a11fd92148b428",
+  "participants.tsv": "287f8aaa78250bc738ad1c1ab5d7d90a9e0c0e77",
+  "README": "dcd4f613ad9c5ad39dea8fbe66d9328ed67471f3",
+  "sub-02/eeg/sub-02_task-CrossModal_events.json": "f6842c9086b1fd911c942d9580da462843c2c84b",
+  "sub-02/eeg/sub-02_task-CrossModal_events.tsv": "70c8e1fd2490e47e5c5a597e6a11762e156c09ab"
+}

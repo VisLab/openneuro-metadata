@@ -1,0 +1,20 @@
+{
+    "Authors": [
+        "Matthew Attokaren",
+        "Annabelle Singer"
+    ],
+    "Name": "1hrPVTdataset_allSubjects",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "EEG-BIDS",
+            "Version": "10.4"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007509.v1.0.3"
+}

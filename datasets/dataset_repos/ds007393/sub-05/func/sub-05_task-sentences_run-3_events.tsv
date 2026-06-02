@@ -1,0 +1,60 @@
+onset	duration	stim_type	sentence_id	stimulus_text	response_time	answer_index	question_response
+000.0308	006.2379	sentence	79	Over the weekend the lobbyist wrote a comprehensive report to the politician about the disgraced reporter.	n/a	n/a	n/a
+011.0128	003.1348	sentence	66	The father objected to the unpleasant smell of the dog.	n/a	n/a	n/a
+014.1566	005.0000	question	n/a	Who objected to the smell?	004.8106	C	c
+026.0693	003.6687	sentence	20	The psychologist often spoke to the secretary about the patient.	n/a	n/a	n/a
+032.0268	006.4892	sentence	108	In the back room the nosey customer watched over the goods display for the shopkeeper on the security monitor.	n/a	n/a	n/a
+038.5184	005.0000	question	n/a	Where did the customer watch the monitor?	004.8159	A	a
+046.2834	003.0759	sentence	65	The children objected to the dog's disagreeable smell.	n/a	n/a	n/a
+052.4077	002.6652	sentence	12	The director brought his cameraman a hot lunch.	n/a	n/a	n/a
+059.7150	006.1752	sentence	9	At dawn the industrious cameraman brought the essential equipment to the director in his downtown office.	n/a	n/a	n/a
+068.8389	003.1348	sentence	104	The customer watched over the model for the shopkeeper.	n/a	n/a	n/a
+078.1378	005.6145	sentence	25	The distinguished psychologist spoke in her office to the diligent secretary about her patients.	n/a	n/a	n/a
+090.3780	003.6687	sentence	46	The family blocked the purchase of the apartment by the company.	n/a	n/a	n/a
+099.9268	002.7236	sentence	3	A painter brought the equipment to the director.	n/a	n/a	n/a
+102.6514	005.0000	question	n/a	Who brought the equipment?	002.8302	A	a
+113.0505	003.0170	sentence	67	The children noticed the unpleasant smell of the dog.	n/a	n/a	n/a
+122.3157	003.1348	sentence	38	The company bought the apartment block from the family.	n/a	n/a	n/a
+129.4398	003.2529	sentence	30	The gardener spoke to the patient about her psychologist.	n/a	n/a	n/a
+138.6636	003.2529	sentence	64	The children objected to the unpleasant smell of the dog.	n/a	n/a	n/a
+145.1545	004.8151	sentence	60	The dog cautiously sniffed the mysterious object adjacent to the group of children.	n/a	n/a	n/a
+151.9704	006.8051	sentence	107	The unscrupulous customer greedily watched the display behind the shopkeeper's back during the busiest time of day.	n/a	n/a	n/a
+161.6276	003.9079	sentence	102	The surveillance camera watched over the display for the shopkeeper.	n/a	n/a	n/a
+170.5598	004.3897	sentence	62	The feral dog smelled a strange rusty object near the children at the beach.	n/a	n/a	n/a
+180.2587	003.0170	sentence	57	The cat smelled the strange object near the children.	n/a	n/a	n/a
+187.1660	003.1938	sentence	82	The reporter wrote to the lobbyist about the politician.	n/a	n/a	n/a
+193.4986	003.0170	sentence	32	The secretary spoke to the patient about the cleaner.	n/a	n/a	n/a
+200.5894	003.3121	sentence	83	The journalist wrote to the lobbyist about the politician.	n/a	n/a	n/a
+208.8300	004.6932	sentence	97	During busy periods the shopkeeper prominently displayed the watch for customers.	n/a	n/a	n/a
+217.7039	003.3121	sentence	19	The psychologist spoke to the secretary about the patient.	n/a	n/a	n/a
+226.5112	007.0590	sentence	80	The experienced lobbyist wrote a painstakingly detailed email to the politician about the reporter's recent activities.	n/a	n/a	n/a
+239.2598	005.3672	sentence	42	In a calculated manoeuvre the company swiftly purchased the apartment block from the family.	n/a	n/a	n/a
+244.6374	005.0000	question	n/a	How was the purchase made?	n/a	D	None
+253.9079	003.1938	sentence	2	The cameraman brought the new equipment to the director.	n/a	n/a	n/a
+263.5484	002.2581	sentence	59	The dog smelled smoke near the children.	n/a	n/a	n/a
+270.2641	005.4290	sentence	98	The incompetent shopkeeper foolishly displayed the watch to customers in an obscure location.	n/a	n/a	n/a
+278.1714	006.3006	sentence	88	The reporter regularly wrote to the lobbyist about the powerful politician via an encrypted message system.	n/a	n/a	n/a
+288.1787	003.3121	sentence	37	The company purchased the apartment block from the family.	n/a	n/a	n/a
+297.0858	002.8407	sentence	14	The director brought the painter to his equipment.	n/a	n/a	n/a
+302.1185	005.7386	sentence	52	The family from across town blocked the purchase of the modern apartment by the unpopular company.	n/a	n/a	n/a
+310.4258	003.0759	sentence	76	The lobbyist warned the politician about the reporter.	n/a	n/a	n/a
+318.6248	002.7822	sentence	4	The cameraman sold the equipment to the director.	n/a	n/a	n/a
+325.9573	002.8994	sentence	5	The cameraman brought a hot lunch for the director.	n/a	n/a	n/a
+333.6896	006.1752	sentence	90	Out of concern for the public the reporter wrote to the lobbyist about the politician's recent decisions.	n/a	n/a	n/a
+343.2801	006.8051	sentence	53	After a long court battle the family finally blocked the purchase of the apartment by the unscrupulous corporation.	n/a	n/a	n/a
+355.2953	004.5108	sentence	69	The children rarely objected to the unpleasant smell of their neighbour's dog.	n/a	n/a	n/a
+361.9111	006.7418	sentence	36	The concerned secretary spoke gently to the anxious patient in a private consultation room about the psychologist.	n/a	n/a	n/a
+371.0350	003.0170	sentence	40	The company leased the apartment block to the family.	n/a	n/a	n/a
+380.5839	006.0501	sentence	81	The lobbyist composed an eloquent message to the politician on behalf of his client about the reporter.	n/a	n/a	n/a
+390.1493	003.9079	sentence	50	The government blocked the purchase of the apartment by the company.	n/a	n/a	n/a
+399.8315	003.3121	sentence	28	The secretary spoke to the patient about the psychologist.	n/a	n/a	n/a
+407.5055	005.6765	sentence	87	On her new laptop the reporter wrote a short blog post for the lobbyist regarding the politician.	n/a	n/a	n/a
+416.7961	006.3634	sentence	34	The secretary at the desk spoke clearly with the disabled patient about their next psychologist appointment.	n/a	n/a	n/a
+426.9616	004.6323	sentence	24	The psychologist sometimes spoke to her secretary about the problematic patient.	n/a	n/a	n/a
+437.6519	003.3714	sentence	85	The reporter interviewed the lobbyist about the politician.	n/a	n/a	n/a
+441.0264	005.0000	question	n/a	Who wrote to the lobbyist?	004.1191	B	c
+452.3666	004.0279	sentence	86	The reporter wrote to the nonprofit organisation about the politician.	n/a	n/a	n/a
+459.0659	004.2084	sentence	47	The family blocked the purchase of the apartment building by the company.	n/a	n/a	n/a
+469.9897	004.1482	sentence	33	The secretary sometimes spoke rudely to patients about the psychologist.	n/a	n/a	n/a
+481.1382	002.9582	sentence	10	The director brought the cameraman to the equipment.	n/a	n/a	n/a
+490.9121	005.4290	sentence	78	In response to recent events the lobbyist quickly wrote to the politician about the reporter.	n/a	n/a	n/a

@@ -1,0 +1,100 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier",
+    "LongName": "Participant ID"
+  },
+  "Group": {
+    "Description": "Diagnostic group",
+    "Levels": {
+      "patient": "Glaucoma patient",
+      "control": "Healthy control"
+    }
+  },
+  "Glaucoma": {
+    "Description": "Glaucoma subtype diagnosis",
+    "Levels": {
+      "POAG": "Primary open-angle glaucoma",
+      "OAG": "Open-angle glaucoma",
+      "PACG": "Primary angle-closure glaucoma",
+      "ACG": "Angle-closure glaucoma",
+      "NTG": "Normal-tension glaucoma",
+      "Trauma": "Traumatic glaucoma",
+      "n/a": "Not applicable (control participants)"
+    }
+  },
+  "Ipsilateral eye": {
+    "Description": "Affected/recorded eye (ipsilateral to the more affected hemisphere)",
+    "Levels": {
+      "r": "Right eye",
+      "l": "Left eye",
+      "n/a": "Not applicable (control participants)"
+    }
+  },
+  "Age": {
+    "Description": "Participant age at MRI session",
+    "Units": "years"
+  },
+  "Sex": {
+    "Description": "Biological sex",
+    "Levels": {
+      "F": "Female",
+      "M": "Male"
+    }
+  },
+  "Duration (years)": {
+    "Description": "Years since glaucoma diagnosis at time of MRI",
+    "Units": "years"
+  },
+  "Diabetes": {
+    "Description": "Diabetes mellitus status",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "Hypertension": {
+    "Description": "Hypertension status",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "Treatment": {
+    "Description": "Currently under glaucoma treatment",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "Surgery": {
+    "Description": "History of glaucoma surgery",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "RNFL contra": {
+    "Description": "Retinal nerve fiber layer (RNFL) thickness for the contralateral eye from OCT",
+    "Units": "micrometers"
+  },
+  "RNFL ipsi": {
+    "Description": "Retinal nerve fiber layer (RNFL) thickness for the ipsilateral (more affected) eye from OCT",
+    "Units": "micrometers"
+  },
+  "vCD contra": {
+    "Description": "Vertical cup-to-disc ratio (contralateral eye)",
+    "Units": "arbitrary ratio"
+  },
+  "vCD ipsi": {
+    "Description": "Vertical cup-to-disc ratio (ipsilateral eye)",
+    "Units": "arbitrary ratio"
+  },
+  "VF-MD contra": {
+    "Description": "Visual field mean deviation (contralateral eye)",
+    "Units": "dB"
+  },
+  "VF-MD ipsi": {
+    "Description": "Visual field mean deviation (ipsilateral eye)",
+    "Units": "dB"
+  }
+}

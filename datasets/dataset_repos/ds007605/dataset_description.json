@@ -1,0 +1,29 @@
+{
+    "Acknowledgements": "n/a",
+    "Authors": [
+        "[\"Christian Neumann\"",
+        "\"Johanna Geritz\"",
+        "\"Julian Keil\"",
+        "\"Walter Maetzler\"",
+        "\"Julius Welzel\"]"
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007605.v1.0.0",
+    "DatasetType": "raw",
+    "Funding": [
+        "[\"COVIDOM and Neurogeriatrics\"]"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "FieldTrip",
+            "Version": "20250106",
+            "Description": "data2bids converter",
+            "URI": "https://www.fieldtriptoolbox.org"
+        }
+    ],
+    "License": "CC0",
+    "Name": "EPOC",
+    "ReferencesAndLinks": [
+        "n/a"
+    ]
+}

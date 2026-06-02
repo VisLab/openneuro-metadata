@@ -1,0 +1,25 @@
+{
+    "sex": {
+        "Description": "Biological sex of the rat",
+        "Levels": {
+            "male": "Male",
+            "female": "Female"
+        }
+    },
+    "wave_number": {
+        "Description": "The experimental cohort or batch that the animal was processed in."
+    },
+    "litter_id": {
+        "Description": "Unique identifier for the litter the animal was born into, used to control for sibling effects."
+    },
+    "puberty_onset_age_days": {
+        "Description": "Age in days at the onset of puberty, defined by the day of vaginal opening or prepuce separation.",
+        "Units": "days"
+    },
+    "date_of_birth": {
+        "Description": "Exact calendar date of birth (ISO8601 format)."
+    },
+    "date_of_puberty": {
+        "Description": "Exact calendar date of puberty onset (ISO8601 format)."
+    }
+}

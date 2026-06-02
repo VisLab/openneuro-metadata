@@ -1,0 +1,28 @@
+{
+    "Name": "Longitudinal whole-brain MRI of alpha-synuclein propagation following dorsal striatal injection in M83 hemizygous mice",
+    "BIDSVersion": "1.2.2",
+    "License": "CC0",
+    "Authors": [
+        "Stephanie Tullo PhD",
+        "Janice SH Park",
+        "Daniel Gallino MSc.",
+        "Megan Park",
+        "Kristie Mar",
+        "Gabriel A. Devenyi PhD",
+        "M. Mallar Chakravarty PhD"
+    ],
+    "Acknowledgements": "We acknowledge the support of the Government of Canada’s New Frontiers in Research Fund (NFRF), NFRFT-2022-00051.",
+    "HowToAcknowledge": "Please cite this: https://doi.org/10.1101/2025.07.18.665565",
+    "Funding": [
+        "Government of Canada’s New Frontiers in Research Fund: NFRFT-2022-00051",
+        "Healthy Brains, Healthy Lives",
+        "Fonds de Recherche du Québec - Santé (FRQS)",
+        "Canadian Institutes of Health Research (CIHR)",
+        "Natural Sciences and Engineering Research Council of Canada (NSERC)"
+    ],
+    "EthicApprovals": "All study procedures were performed in accordance with the Canadian Council on Animal Care and approved by the McGill University Animal Care Committee and the Douglas Research Center Animal Care Committee under the animal use protocol (AUP DOUG-8068)",
+    "ReferenceAndLinks": "",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007671.v1.0.2",
+    "RepositoryURL": "",
+    "AccessEmail": "stephanie.tullo@mail.mcgill.ca"
+}

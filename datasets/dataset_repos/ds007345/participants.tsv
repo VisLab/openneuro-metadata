@@ -26,13 +26,13 @@ sub-olf24	50	0	meningothelial	1	82300	6691	20	0.01	60	2	no
 sub-olf25	70	1	transitional	1	34990	73580	15	0.7	80	3	no
 sub-olf26	68	0	meningothelial	1	14110	6584	20	0.1	70	2	no
 sub-olf27	64	0	transitional	1	48780	113800	19	0.8	80	4	no
-sub-olf28	68	1	transitional	1	50420	72930	19	0.7	80	2	no
+sub-olf28	68	1	transitional	1	50420	72930	19	0.7	80	2	yes
 sub-olf29	44	0	atypical	2	17490	41130	20	1.0	90	3	no
 sub-olf30	57	0	meningothelial	1	79220	49190	14	0.7	70	4	no
 sub-olf31	64	0	transitional	1	47870	81620	19	0.1	70	2	no
 sub-olf32	44	0	atypical	2	97360	75520	21	0.02	70	1	no
-sub-olf33	73	0	atypical	2	104000	0	17	0.2	80	2	no
+sub-olf33	73	0	atypical	2	104000	0	17	0.2	80	2	yes
 sub-olf34	70	0	transitional	1	125500	0	18	0	70	2	yes
-sub-olf35	65	0	transitional	1	29190	172300	18	0.7	70	1	no
+sub-olf35	65	0	transitional	1	29190	172300	18	0.7	70	1	yes
 sub-olf36	54	1	atypical	2	78710	34810	21	0.4	80	3	yes
 sub-olf37	42	1	atypical	2	27520	95640	20	1.0	90	3	yes

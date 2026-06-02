@@ -77,3 +77,7 @@ dataset_description.json
 **Inbal Maidan, PhD**  
 Tel Aviv Sourasky Medical Center  
 Email: inbalm@tlvmc.gov.il
+
+**Daniel Vered, BSc**
+Tel Aviv Sourasky Medical Center  
+Email: vereddan@tlvmc.gov.il

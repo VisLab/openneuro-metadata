@@ -1,0 +1,27 @@
+{
+    "Name": "AVScenes Aphantasia",
+    "BIDSVersion": "1.8.0",
+    "License": "CC0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Belén M Montabes de la Cruz",
+        "Clement Abbatecola",
+        "Roberto S. Luciani",
+        "Angus T. Paton",
+        "Johanna Bergmann",
+        "Petra Vetter",
+        "Lucy S. Petro",
+        "Lars F. Muckli"
+    ],
+    "HowToAcknowledge": "Please cite this paper: Montabes de la Cruz, B.M., Abbatecola, C., Luciani, R.S., Paton, A.T., Bergmann, J., Vetter, P., Petro, L.S., Muckli, L.F. (2024). Decoding sound content in the early visual cortex of aphantasic participants . Current Biology",
+    "Funding": [
+        "European Research Council (ERC-StG-2012-311751 BrainReadFBPredCode)",
+        "European Union Horizon 2020 Framework Programme for Research and Innovation (720270, 785907, and 945539)",
+        "Human Brain Project SGA1, SGA2, and SGA3",
+        "Biotechnology and Biological Sciences Research Council (BBSRC, BBN010956/1)",
+        "Swiss National Science Foundation PRIMA grant (PR00P1_185918/1)",
+        "College of Medicine, Veterinary and Life Sciences doctoral training programme (MVLS DTP)"
+    ],
+    "HEDVersion": "8.2.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005562.v1.0.0"
+}

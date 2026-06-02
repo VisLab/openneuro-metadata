@@ -1,0 +1,15 @@
+participant_id	species	age	body_weight	sex	gender	handedness	drug_ses-01	drug_ses-02	blood_glucose_ses-01	blood_glucose_ses-02
+sub-HDP01	Homo sapiens	25.0	82.0	m	m	right	Placebo	Verum	4.7	4.7
+sub-HDP02	Homo sapiens	33.0	85.0	m	m	right	Verum	Placebo	4.7	4.6
+sub-HDP03	Homo sapiens	33.0	90.0	m	m	right	Verum	Placebo	4.3	5.0
+sub-HDP04	Homo sapiens	26.0	74.0	m	m	right	Placebo	Verum	4.5	4.8
+sub-HDP06	Homo sapiens	38.0	64.0	m	m	right	Verum	Placebo	5.9	5.75
+sub-HDP08	Homo sapiens	30.0	70.0	m	m	right	Verum	Placebo	5.85	5.0
+sub-HDP09	Homo sapiens	25.0	73.0	m	m	right	Verum	Placebo	5.35	4.4
+sub-HDP10	Homo sapiens	34.0	66.0	m	m	right	Verum	Placebo	4.8	5.0
+sub-HDP12	Homo sapiens	39.0	80.0	m	o	right	Placebo	Verum	4.85	4.4
+sub-HDP13	Homo sapiens	43.0	72.0	m	m	right	Verum	Placebo	4.8	4.7
+sub-HDP15	Homo sapiens	38.0	68.0	m	m	right	Placebo	Verum	4.55	5.2
+sub-HDP17	Homo sapiens	27.0	76.0	m	m	right	Placebo	Verum	4.65	4.85
+sub-HDP18	Homo sapiens	25.0	90.0	m	m	right	Verum	Placebo	6.1	5.15
+sub-HDP19	Homo sapiens	27.0	75.0	m	m	right	Placebo	Verum	4.6	5.05

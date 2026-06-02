@@ -1,0 +1,132 @@
+{
+  "participant_id": {
+    "Description": "BIDS subject identification number",
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:ParticipantID",
+        "Label": "Participant ID"
+      },
+      "VariableType": "Identifier"
+    }
+  },
+  "animal_ID": {
+    "Description": "mouse identification number"
+  },
+  "species": {
+    "Description": ""
+  },
+  "strainRRID": {
+    "Description": ""
+  },
+  "strain": {
+    "Description": ""
+  },
+  "cage": {
+    "Description": ""
+  },
+  "cohort": {
+    "Description": ""
+  },
+  "sex": {
+    "Description": "",
+    "Levels": {
+      "F": {
+        "Description": "Female",
+        "TermURL": "snomed:248152002"
+      },
+      "M": {
+        "Description": "Male",
+        "TermURL": "snomed:248153007"
+      }
+    },
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Sex",
+        "Label": "Sex"
+      },
+      "VariableType": "Categorical",
+      "Levels": {
+        "F": {
+          "TermURL": "snomed:248152002",
+          "Label": "Female"
+        },
+        "M": {
+          "TermURL": "snomed:248153007",
+          "Label": "Male"
+        }
+      }
+    }
+  },
+  "fur.colour": {
+    "Description": "",
+    "Levels": {
+      "agouti": {
+        "Description": ""
+      },
+      "black": {
+        "Description": ""
+      }
+    }
+  },
+  "genotype": {
+    "Description": "",
+    "Levels": {
+      "WT": {
+        "Description": "wild-type; having no copies of the human alpha-synuclein transgene"
+      },
+      "hemi": {
+        "Description": "hemizygous; having one copy of the human alpha-synuclein transgene"
+      }
+    }
+  },
+  "dad_ID_cage": {
+    "Description": "breeding cage identification"
+  },
+  "litter_size": {
+    "Description": "",
+    "Units": ""
+  },
+  "DOB": {
+    "Description": "date of birth"
+  },
+  "injection_date": {
+    "Description": "date of intracerebral injection"
+  },
+  "injection": {
+    "Description": "type of intracerebral injection inoculum received",
+    "Levels": {
+      "PBS": {
+        "Description": "phosphate-buffered saline"
+      },
+      "Ms-PFF": {
+        "Description": "mouse alpha-synuclein pre-formed fibrils"
+      },
+      "Hu-PFF": {
+        "Description": "human alpha-synuclein pre-formed fibrils"
+      },
+      "n/a": {
+        "Description": "did not receive injection; likley due to not making it to a post-injection scanning timepoint"
+      }
+    }
+  },
+  "PFF.batch": {
+    "Description": "batch of pre-formed fibrils",
+    "Levels": {
+      "n/a": {
+        "Description": "for PBS injection"
+      },
+      "m19L03s": {
+        "Description": ""
+      },
+      "19L03s": {
+        "Description": ""
+      },
+      "21D19s": {
+        "Description": ""
+      },
+      "m21D19s": {
+        "Description": ""
+      }
+    }
+  }
+}

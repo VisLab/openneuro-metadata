@@ -1,0 +1,76 @@
+{
+  "onset": {
+    "Description": "Onset of the event in seconds"
+  },
+  "duration": {
+    "Description": "Duration of the event in seconds"
+  },
+  "trial_type": {
+    "Description": "Which food attribute the participant categorised the food on",
+    "Levels": {
+      "health": "Health prompt asked",
+      "taste": "Taste prompt asked",
+      "decision": "Willingness to eat prompt asked"
+    }
+  },
+  "event_type": {
+    "Description": "Event during the trial/session",
+    "Levels": {
+      "blockStart": "Start of block: begin block screen displayed",
+      "trialStart": "Start of trial: fixation cross displayed",
+      "foodImageDisplay": "Food image displayed",
+      "choicePhaseStart": "Choice screen (response mapping & choice prompt) displayed",
+      "response": "Response made via keypress",
+      "blockEnd": "End of block: break screen displayed"
+    }
+  },
+  "block": {
+    "Description": "Block number (1-6)"
+  },
+  "trial_total": {
+    "Description": "Trial number across the whole session (1-360)"
+  },
+  "trial_in_block": {
+    "Description": "Trial number within the block (1-60)"
+  },
+  "food_image_code": {
+    "Description": "Food image code, 1-120 (e.g. \"foodImage.1\")"
+  },
+  "food_image_path": {
+    "Description": "Stim path to the food image file"
+  },
+  "button_position": {
+    "Description": "Mapping showing which of left/right keypress corresponds to yes/no",
+    "Levels": {
+      "YN": "Left key = yes, right key = no",
+      "NY": "Left key = no, right key = yes"
+    }
+  },
+  "resp_position": {
+    "Description": "Which key (left/right) was pressed",
+    "Levels": {
+      "Left": "Left key was pressed",
+      "Right": "Right key was pressed"
+    }
+  },
+  "resp_choice": {
+    "Description": "Whether participant responded with yes/no",
+    "Levels": {
+      "Yes": "Yes response",
+      "No": "No response"
+    }
+  },
+  "choice_rt": {
+    "Description": "Response time in seconds",
+    "Units": "seconds"
+  },
+  "resp_too_slow": {
+    "Description": "Whether the response exceeded 5 sec (0 = did not exceed, 1 = exceeded)"
+  },
+  "sample": {
+    "Description": "The sample within the EEG data at which the event occurred (1-based)"
+  },
+  "trigger": {
+    "Description": "Original hardware trigger number (numeric)"
+  }
+}

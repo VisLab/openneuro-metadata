@@ -1,0 +1,8 @@
+{
+  "CHANGES": "2ea63f70424dd8c0074f61c31fd63510693d2afb",
+  "participants.tsv": "67e18f4b997e65a8d0390cc08ad1211d96eccd87",
+  "README": "534dbac28d41209048fde28ad4f887ab44750909",
+  "dataset_description.json": "885d63b347e33d83d78dbd78dce278b7d5bec95d",
+  "sub-G1S001/ses-post/eeg/sub-G1S001_ses-post_task-Grupo1Postbids_events.tsv": "b6771bfd1f4a9022163d02c0195ecb38f2f91520",
+  "sub-G1S001/ses-pre/eeg/sub-G1S001_ses-pre_task-001_events.tsv": "26c3b1ff4bd37203e02ecac69d7c2d48e428e2bd"
+}

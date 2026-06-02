@@ -1,0 +1,35 @@
+This training repository contains 2 defaced datasets of in vivo diffusion MRI data acquired with a 72-channel in vivo head coil on the Connectome 2.0 scanner (Siemens MAGNETOM Connectom.X, Erlangen, Germany) at the MGH/HST Athinoula A. Martinos Center for Biomedical Imaging. This 3T MRI system is equipped with ultra-high gradients (gradient strength up to 500 mT/m) and advanced slew rates (slew rate up to 600 mT/m/s) for high fidelity microstructural imaging.
+
+These defaced training datasets include:
+
+- Raw diffusion weighted images (DWIs)
+- Metadata (b values, b vectors, json files)
+- T1-weighted anatomical scans
+
+All diffusion data was acquired with the following:
+
+- Pulse width: 6 ms
+
+- Diffusion times (D): 13 ms and 30 ms
+
+- At D= 13 ms, b values = 50, 350, 800, 1500, 2400, 3450, 4750, 6000 s/mm^2
+
+- At D = 30 ms, b values = 200, 950, 2300, 4250, 6750, 9850, 13500, 17800 s/mm^2
+
+- Number of directions: 32 for b < 2400 s/mm^2; 64 for b ≥ 2400 s/mm^2
+
+- Echo time: 53 ms
+
+- Voxel size: 2 mm isotropic
+
+- GRAPPA = 2
+
+- SMS = 2
+
+Our pre-processing pipeline for distribution can be found on our Connectome 2.0 GitHub page: https://github.com/Connectome20/Diffusion-PreProcessing-Pipeline-for-Distribution.
+
+Our first sample in vivo dataset (sub-01) includes raw and pre-processed files for reference, and can be found here: https://doi.org/10.18112/openneuro.ds006181.v1.0.0.
+
+For general information, visit our website: https://connectome2.martinos.org/.
+
+Data collection and dissemination are in strict compliance with Mass General Brigham institutional policies on subject privacy, HIPAA, and Institutional Review Board (IRB) requirements.

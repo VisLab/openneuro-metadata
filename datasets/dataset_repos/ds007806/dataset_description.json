@@ -1,0 +1,26 @@
+{
+    "Name": "SPfMRS Social Processing Dataset",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Talitha C. Ford",
+        "Duanghathai Pasanta",
+        "Nina-Francesca Parrella",
+        "Peter G. Enticott",
+        "Gemma Lamp",
+        "David J. White",
+        "Nicolaas A. Puts"
+    ],
+    "AuthorContributions": {
+        "David J. White": "senior author",
+        "Nicolaas A. Puts": "senior author"
+    },
+    "Acknowledgements": "The authors acknowledge the facilities and scientific and technical assistance of the National Imaging Facility, a National Collaborative Research Infrastructure Strategy (NCRIS) capability, at the Swinburne Neuroimaging (SNI) Facility, Swinburne University of Technology.",
+    "HowToAcknowledge": "Ford, T. C., Pasanta, D., Parrella, N.-F., Enticott, P. G., White, D. J., & Puts, N. A. (2026). Examining excitation-inhibition modulation during social processing using functional Magnetic Resonance Spectroscopy (p. 2025.12.03.691778). bioRxiv. https://doi.org/10.64898/2025.12.03.691778",
+    "Funding": [
+        "Swinburne Neuroimaging Access and Support Scheme Enhanced Capability Grant (2002-TFDW)",
+        "Simons SFARI Human Cognitive and Behavioral Science award (NP)"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007806.v2.0.0",
+    "License": "CC0"
+}

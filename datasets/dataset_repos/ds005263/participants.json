@@ -2,21 +2,18 @@
     "participant_id": {
         "Description": "Unique participant identifier"
     },
-    "Age": {
+    "age": {
         "Description": "Age of the participant",
-        "Units": "years",
-        "Levels": {
-            "n/a": "Not Available"
-        }
+        "Units": "years"
     },
-    "Handed": {
+    "handedness": {
         "Description": "Handedness of the participant",
         "Levels": {
             "R": "Right",
             "L": "Left"
         }
     },
-    "Gender": {
+    "sex": {
         "Description": "Gender of the participant",
         "Levels": {
             "M": "Male",
@@ -24,7 +21,7 @@
             "NB": "Nonbinary"
         }
     },
-    "Group": {
+    "group": {
         "Description": "Experimental group of the participant",
         "Levels": {
             "control": "Healthy control group",

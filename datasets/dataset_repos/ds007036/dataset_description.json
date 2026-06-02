@@ -1,0 +1,48 @@
+{
+    "Name": "Multimodal ultra-high-field MRI, clinical, cognitive, and genetic profiles across the ALS–FTD spectrum. ",
+    "BIDSVersion": "1.10.0",
+    "License": "CC0",
+    "Authors": [
+        "Thomas B Shaw",
+        "Aiman al Najjar",
+        "Markus Barth",
+        "Steffen Bollmann",
+        "Pierrick Bourgeat",
+        "Jeryn Chang",
+        "Harriet Dempsey-Jones",
+        "Amir Fazlollahi",
+        "Jurgen Fripp",
+        "Natalie Garden",
+        "Christine Guo",
+        "Robert D Henderson",
+        "Elaine Kuan",
+        "Jinglei Lv",
+        "Pamela A McCombe",
+        "Aswin Narayanan",
+        "Shyuan Ngo",
+        "Vinh Ngyuen",
+        "Kieran O'Brien",
+        "Gail Robinson",
+        "Simon Robinson",
+        "Olivier Salvado",
+        "Ashley Stewart",
+        "Frederik Steyn",
+        "Saskia Bollmann"
+    ],
+    "Acknowledgements": "We thank all participants for their contributions. The authors would like to thank Michael Breakspear, Nicole Atcheson, Gerard Byrne, and Amelia Ceslis for their contributions to this work. We also thank Naomi Wray, Anjali Henders, Giaan Hull, and the Sporadic ALS Australian Systems Genomics Consortium (SALSA-SGC) at The Institute for Molecular Biosciences at The University of Queensland for conducting the targeted genetic screening and variant validation. The authors thank MND clinical research nurses Susan Heggie and Simran Kaur Sarao at the Royal Brisbane and Women’s Hospital. We also thank the radiology, radiography, and professional staff at the UQ Centre for Clinical Research, and the Centre for Advanced Imaging. The authors acknowledge the facilities, and the scientific and technical assistance of the National Imaging Facility at the Centre for Advanced Imaging, Australian institute of Bioengineering and Nanotechnology University of Queensland. This research was undertaken with the assistance of resources and services from the Queensland Cyber Infrastructure Foundation (QCIF) and the UQ Research Computing Centre (RCC).",
+    "Funding": [
+        "TS is supported by a Motor Neurone Disease Research Australia (MNDRA) Postdoctoral Research Fellowship (PDF2112), NHMRC Ideas grant APP2029871, and a FightMND Early Career Fellowship grant ECR-202503-01848. JC is supported by the UQ Graduate School Scholarship (RTP) and the MNDRA PhD Scholarship Top-up Grant (TU2201). J. Lv is supported by Brain and Mind Centre Research Development Grant, USYD-Fudan Brain and Intelligence Science Alliance Flagship Research Program, Moyira Elizabeth Vine Fund for Research into Schizophrenia Program and ARC Discovery Project (DP240102161). STN acknowledges support through a FightMND Mid-Career Research Fellowship, and the Australian Institute for Bioengineering and Nanotechnology. GR acknowledges the support of an NHMRC Boosting Dementia Research Leadership Fellowship (APP1135769). HDJ is funded by an Australian Research Council Discovery Project grant (DP250103627). The authors acknowledge funding through an ARC Linkage grant (LP200301393). The financial support by the Austrian Federal Ministry for Digital and Economic Affairs, the National Foundation for Research, Technology and Development and the Christian Doppler Research Association is gratefully acknowledged. This research was funded in part by the Austrian Science Fund (FWF) 10.55776/PAT3786024. This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 794298. This work was funded in part by Australian Research Council grants (FT140100865, IC170100035, DP200103386, DP250103627). This research was supported by the National Health and Medical Research Council (APP 1088419, DP250103627)."
+    ],
+    "EthicsApprovals": [
+        "This study was approved by The Royal Brisbane and Women’s Hospital (RBWH, HREC/EC00172) HREC. Participants included in this dataset were aged between 40 and 77, provided written and informed consent to participate in the research and for deidentified data to be made available through publication, shared with other researchers, and for other research purposes. To protect the identities of the participants, pydeface (v2.02)45 was used to de-identify all anatomical images. All identifiable metadata-based information was redacted. "
+    ],
+    "DatasetLinks": {
+        "mriQC": "derivatives/mriQC",
+        "PhysIO": "derivatives/physIO",
+        "QSMxT": "derivatives/QSMxT",
+        "manual hypothalamus segmentations": "derivatives/hypothalamus-manual-segmentations"
+    },
+    "DatasetType": "raw",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007036.v1.1.3",
+    "HowToAcknowledge": "DOI of paper"
+}

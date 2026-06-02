@@ -1,0 +1,9 @@
+{
+  "CHANGES": "41a35824d9d50a399ad1bd3820b07b5a5b21d6fa",
+  "README": "0055f70a8b2d8ded6a0422787ffafb56e04c0087",
+  "participants.tsv": "201b25d0d4df8b594f8c93d1ed9a42cd5fd19773",
+  "dataset_description.json": "40e8379952359c3939fb46f1c98d1a138c0318cb",
+  "participants.json": "a269cbb6e936fa0de46c180b555e48013ad112a3",
+  "sub-P01/eeg/sub-P01_task-JustFaces_events.tsv": "bc4dfe1fa52fe107fd368e95a6edbf9c089a850d",
+  "sub-P01/eeg/sub-P01_task-StatementsFaces_events.tsv": "4aad7dee4f17c0028c939817be8aa1a6f9ee41d3"
+}

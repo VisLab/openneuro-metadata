@@ -1,0 +1,30 @@
+{
+  "Event": {
+    "LongName": "Event category",
+    "Description": "Used to generate task regressors",
+    "Levels": {
+      "Rest": "Rest with fixation",
+      "Worry": "Instructed worry, during which they view their personally-generated stimuli",
+      "Fixation": "3-second break between Worry and Disengagement period",
+      "Acceptance": "One of 3 disengagement strategies during the Disengagement period",
+      "FocusedAttention": "One of 3 disengagement strategies during the Disengagement period",
+      "Suppression": "One of 3 disengagement strategies during the Disengagement period",
+      "ThoughtProbe": "Thought probe response period following disengagement"
+    }
+  },
+  "TrialNum": {
+    "LongName": "Trial Number",
+    "Description": "Trial Number",
+    "Levels": {
+      "1-6": "1-6"
+    }
+  },
+  "WorryTrial": {
+    "LongName": "Worry Trial",
+    "Description": "Whether participants reported successful worry disengagement",
+    "Levels": {
+      "Yes": "Successful Disengagement",
+      "No": "Unsuccessful Disengagement"
+    }
+  }
+}

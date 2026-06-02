@@ -1,0 +1,13 @@
+{
+  "README.md": "c197a007bc4d0c92008cb82ed287d57ea970b458",
+  "CHANGES": "ecba75b05ebc39006c5f7d6837bf4146c5316818",
+  "dataset_description.json": "f5f3667e47bc2f4b492885d09f3949294196ec45",
+  "participants.tsv": "48d11c37f596e87b016f0abfc43f3c138b8fa766",
+  "sub-pnr102/ses-01/func/sub-pnr102_ses-01_task-localizer_dir-RL_run-01_events.tsv": "9fa7191008a8d0adf0cb5abd305584757abde06d",
+  "sub-pnr102/ses-01/func/sub-pnr102_ses-01_task-localizer_dir-RL_run-02_events.tsv": "f1c2403a2cc7535fa9a2e518633af4c0fbd50c3c",
+  "sub-pnr102/ses-01/func/sub-pnr102_ses-01_task-localizer_dir-RL_run-03_events.tsv": "048261fd2a28a2a7440cd8e83f18c40e78dd17fd",
+  "sub-pnr102/ses-01/func/sub-pnr102_ses-01_task-task_dir-RL_run-01_events.tsv": "906a26f8265a58e35c9ab774897d674982453af8",
+  "sub-pnr102/ses-01/func/sub-pnr102_ses-01_task-task_dir-RL_run-02_events.tsv": "30bc6270311d53442d7458f3a76685d3d52bb53c",
+  "sub-pnr102/ses-01/func/sub-pnr102_ses-01_task-task_dir-RL_run-03_events.tsv": "9f87ad7eb80b23a138cec7b2bf9f1bea7d27e120",
+  "sub-pnr102/ses-01/func/sub-pnr102_ses-01_task-task_dir-RL_run-04_events.tsv": "0fd0a4fcd3920373b4923d5d1444a9aacff47927"
+}

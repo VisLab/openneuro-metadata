@@ -1,0 +1,33 @@
+{
+    "Name": "Neural Responses to Error in Youth",
+    "BIDSVersion": "1.10.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Parmis Khosravi",
+        "Anjali Poe",
+        "Eleanor P Malone",
+        "Jessica L Bezek",
+        "Marisa L Meyer",
+        "Olivia Siegal",
+        "Elise M Cardinale",
+        "Katharina Kircanski",
+        "Melissa A Brotman",
+        "Simone P Haller",
+        "Daniel S Pine"
+    ],
+    "Curators": [
+        "Eric Earl",
+        "Dustin Moraczewski",
+        "Ashley Ptinis"
+    ],
+    "Acknowledgements": "Thanks to the NIMH Data Science & Sharing Team for their help curating this dataset. The BIDS fMRI data itself was created using the scripts in https://github.com/zugmana/xnat-access created by Andre Zugman.",
+    "Funding": [
+        "ZIA-MH002781",
+        "ZIA-MH002782"
+    ],
+    "EthicsApprovals": [
+        "All procedures of this study were approved by National Institute of Mental Health Institutional Review Board and certified that was study was performed in accordance with ethical standards as laid down in the 1964 Declaration of Helsinki. Consent and assent were obtained from parents and participants respectively. Recruitment involved community advertisements and monetary compensation for participation."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007179.v1.0.0"
+}

@@ -17,5 +17,6 @@
             "Version": "10.3"
         }
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds006963.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds006963.v1.0.1",
+    "HowToAcknowledge": "While using the dataset, please cite: Özdemir, Ş., Günseli, E., & Schneider, D. (2025). Motor control processes moderate visual working memory gating. The Journal of Neuroscience, 45(47), e0673252025. https://doi.org/10.1523/ JNEUROSCI.0673-25.2025"
 }

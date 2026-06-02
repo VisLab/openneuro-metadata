@@ -1,0 +1,32 @@
+{
+    "TaskName": "ImageRatings",
+    "Instructions": "Participants rated face stimuli on three SAM (Self-Assessment Manikin) dimensions: valence, arousal, and dominance.",
+    "stim_file": {
+        "Description": "Image presented on the trial."
+    },
+    "emotion": {
+        "Description": "Emotional expression of the face stimulus.",
+        "Levels": {
+            "happy": "Happy face",
+            "angry": "Angry face"
+        }
+    },
+    "dimension": {
+        "Description": "SAM dimension rated on this trial.",
+        "Levels": {
+            "valence": "How happy or unhappy does this image make you feel?",
+            "arousal": "How excited or calm does this image make you feel?",
+            "dominance": "How controlled or in control does this image make you feel?"
+        }
+    },
+    "rating": {
+        "Description": "Selected SAM manikin (1\u20135 Likert), parsed from PsychoPy mouse.clicked_name.",
+        "Levels": {
+            "1": "manikin 1",
+            "2": "manikin 2",
+            "3": "manikin 3",
+            "4": "manikin 4",
+            "5": "manikin 5"
+        }
+    }
+}

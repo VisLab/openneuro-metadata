@@ -12,5 +12,8 @@
     ],
     "Acknowledgements": "This research was supported by the Challengeable Future Defense Technology Research and Development Program through the Agency For Defense Development (ADD) funded by the Defense Acquisition Program Administration (DAPA) in 2022-2025(No.915061201)",
     "HowToAcknowledge": "TBD (Paper Citation)",
-    "DatasetDOI": "doi:10.18112/openneuro.ds007640.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds007640.v1.0.1",
+    "EthicsApprovals": [
+        "The research protocol and experimental design received approval from the Korea Research Institute of Standards and Science Institutional Review Board (KRISS-IRB-2025-03)"
+    ]
 }

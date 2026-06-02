@@ -9,11 +9,14 @@
         "Inbal Maidan (inbalm@tlvmc.gov.il)"
     ],
     "HowToAcknowledge": "Please contact the authors.",
-    "DatasetDOI": "doi:10.18112/openneuro.ds007526.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007526.v1.0.1",
     "GeneratedBy": [
         {
             "Name": "mne-bids",
             "Version": "0.18.0"
         }
+    ],
+    "ReferencesAndLinks": [
+        "Electroencephalography-Based Clustering Reveals Robust Neurophysiological Subtypes in Parkinson's Disease: https://doi.org/10.1002/mds.70348"
     ]
 }

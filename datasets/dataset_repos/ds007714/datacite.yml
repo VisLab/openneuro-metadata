@@ -1,0 +1,40 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Gemma Bale
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 1
+      - name: John O'Brien
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 2
+      - name: Emilia Butters
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0003-4409-8284
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: ProjectLeader
+        order: 3
+    creators:
+      - name: Gemma Bale
+        nameType: Personal
+      - name: John O'Brien
+        nameType: Personal
+      - name: Emilia Butters
+        nameType: Personal
+        nameIdentifiers: *ref_0
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

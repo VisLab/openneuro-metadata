@@ -18,7 +18,7 @@
     "Description": "Type of trial",
     "Levels": {
       "pain": "Thermal pain stimulus",
-      "rating": "Pain intensity or unoleasantness rating period"
+      "rating": "Pain intensity or unpleasantness rating period"
     }
   },
   "UpR": {

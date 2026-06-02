@@ -1,0 +1,76 @@
+name	type	units	description	original_ch_numbers
+EEG001	EEG	µV	g.SCARABEO scalp EEG electrode 001	0
+EEG002	EEG	µV	g.SCARABEO scalp EEG electrode 002	1
+EEG003	EEG	µV	g.SCARABEO scalp EEG electrode 003	2
+EEG004	EEG	µV	g.SCARABEO scalp EEG electrode 004	3
+EEG005	EEG	µV	g.SCARABEO scalp EEG electrode 005	4
+EEG006	EEG	µV	g.SCARABEO scalp EEG electrode 006	5
+EEG007	EEG	µV	g.SCARABEO scalp EEG electrode 007	6
+EEG008	EEG	µV	g.SCARABEO scalp EEG electrode 008	7
+EEG009	EEG	µV	g.SCARABEO scalp EEG electrode 009	8
+EEG010	EEG	µV	g.SCARABEO scalp EEG electrode 010	9
+EEG011	EEG	µV	g.SCARABEO scalp EEG electrode 011	10
+EEG012	EEG	µV	g.SCARABEO scalp EEG electrode 012	11
+EEG013	EEG	µV	g.SCARABEO scalp EEG electrode 013	12
+EEG014	EEG	µV	g.SCARABEO scalp EEG electrode 014	13
+EEG015	EEG	µV	g.SCARABEO scalp EEG electrode 015	14
+EEG016	EEG	µV	g.SCARABEO scalp EEG electrode 016	15
+EEG017	EEG	µV	g.SCARABEO scalp EEG electrode 017	16
+EEG018	EEG	µV	g.SCARABEO scalp EEG electrode 018	17
+EEG019	EEG	µV	g.SCARABEO scalp EEG electrode 019	18
+EEG020	EEG	µV	g.SCARABEO scalp EEG electrode 020	19
+EEG021	EEG	µV	g.SCARABEO scalp EEG electrode 021	20
+EEG022	EEG	µV	g.SCARABEO scalp EEG electrode 022	21
+EEG023	EEG	µV	g.SCARABEO scalp EEG electrode 023	22
+EEG024	EEG	µV	g.SCARABEO scalp EEG electrode 024	23
+EEG025	EEG	µV	g.SCARABEO scalp EEG electrode 025	24
+EEG026	EEG	µV	g.SCARABEO scalp EEG electrode 026	25
+EEG027	EEG	µV	g.SCARABEO scalp EEG electrode 027	26
+EEG028	EEG	µV	g.SCARABEO scalp EEG electrode 028	27
+EEG029	EEG	µV	g.SCARABEO scalp EEG electrode 029	28
+EEG030	EEG	µV	g.SCARABEO scalp EEG electrode 030	29
+EEG031	EEG	µV	g.SCARABEO scalp EEG electrode 031	30
+EEG032	EEG	µV	g.SCARABEO scalp EEG electrode 032	31
+EEG033	EEG	µV	g.SCARABEO scalp EEG electrode 033	32
+EEG034	EEG	µV	g.SCARABEO scalp EEG electrode 034	33
+EEG035	EEG	µV	g.SCARABEO scalp EEG electrode 035	34
+EEG036	EEG	µV	g.SCARABEO scalp EEG electrode 036	35
+EEG037	EEG	µV	g.SCARABEO scalp EEG electrode 037	36
+EEG038	EEG	µV	g.SCARABEO scalp EEG electrode 038	37
+EEG039	EEG	µV	g.SCARABEO scalp EEG electrode 039	38
+EEG040	EEG	µV	g.SCARABEO scalp EEG electrode 040	39
+EEG041	EEG	µV	g.SCARABEO scalp EEG electrode 041	40
+EEG042	EEG	µV	g.SCARABEO scalp EEG electrode 042	41
+EEG043	EEG	µV	g.SCARABEO scalp EEG electrode 043	42
+EEG044	EEG	µV	g.SCARABEO scalp EEG electrode 044	43
+EEG045	EEG	µV	g.SCARABEO scalp EEG electrode 045	44
+EEG046	EEG	µV	g.SCARABEO scalp EEG electrode 046	45
+EEG047	EEG	µV	g.SCARABEO scalp EEG electrode 047	46
+EEG048	EEG	µV	g.SCARABEO scalp EEG electrode 048	47
+EEG049	EEG	µV	g.SCARABEO scalp EEG electrode 049	48
+EEG050	EEG	µV	g.SCARABEO scalp EEG electrode 050	49
+EEG051	EEG	µV	g.SCARABEO scalp EEG electrode 051	50
+EEG052	EEG	µV	g.SCARABEO scalp EEG electrode 052	51
+EEG053	EEG	µV	g.SCARABEO scalp EEG electrode 053	52
+EEG054	EEG	µV	g.SCARABEO scalp EEG electrode 054	53
+EEG055	EEG	µV	g.SCARABEO scalp EEG electrode 055	54
+EEG056	EEG	µV	g.SCARABEO scalp EEG electrode 056	55
+EEG057	EEG	µV	g.SCARABEO scalp EEG electrode 057	56
+EEG058	EEG	µV	g.SCARABEO scalp EEG electrode 058	57
+EEG059	EEG	µV	g.SCARABEO scalp EEG electrode 059	58
+EEG060	EEG	µV	g.SCARABEO scalp EEG electrode 060	59
+EEG061	EEG	µV	g.SCARABEO scalp EEG electrode 061	60
+EEG062	EEG	µV	g.SCARABEO scalp EEG electrode 062	61
+EEG063	EEG	µV	Left mastoid electrode	62
+EEG064	EEG	µV	Right mastoid electrode	63
+EEG065	MISC	µV	Listening audio monitor channel 1	64
+EEG066	MISC	µV	Listening audio monitor channel 2	65
+EEG067	MISC	µV	Speaking microphone monitor channel 1	66
+EEG068	MISC	µV	Speaking microphone monitor channel 2	67
+EEG069	EOG	µV	EOG electrode positive/input 1	68
+EEG070	EOG	µV	EOG electrode negative/input 2	69
+EEG071	EMG	µV	Upper-lip EMG electrode positive/input 1	70
+EEG072	EMG	µV	Upper-lip EMG electrode negative/input 2	71
+EEG073	EMG	µV	Lower-lip EMG electrode positive/input 1	72
+EEG074	EMG	µV	Lower-lip EMG electrode negative/input 2	73
+EEG075	TRIG	n/a	Trigger channel	74

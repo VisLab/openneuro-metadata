@@ -138,6 +138,12 @@ There are a few scales with missing data due to protocol changes:
 - For the Positive and Negative Affect Schedule, at the beginning of the study, most participants completed the scale only at the third session. As the study progressed, many of the participants at later enrollments completed this scale at session 1 and session 2 as well.
 - For the Revised Physical Anhedonia Scale and the Revised Social Anhedonia Scale, at the beginning of the study, most participants completed the scale only at the first session and third session, but not at the second session. As the study went on, almost all of the participants at later enrollments completed this scale at the second session as well.
 
+### Derivative data
+
+`/derivatives/freesurfer-post` contains derivative outputs from running freesurfer-post. The DockerHub link for freesurfer-post can be found [here](https://hub.docker.com/r/pennlinc/freesurfer-post).
+
+All other folders in the `derivatives` folder are results from running task contrast GLMs. A summary of quality control/a list of scans that were included or excluded in the task contrast analyses can be found on GitHub [here](https://github.com/PennLINC/transdiagnostic_executive_function/tree/main/QC/qc_csvs/final_QC_csvs).
+
 ### Other data
 
 The acquisition date and time for each session was rounded to the 15th of the month and the nearest hour, and stored in the `*_sessions.tsv` files.

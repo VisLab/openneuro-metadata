@@ -1,5 +1,5 @@
 {
-    "Name": "LPP MEG Listen",
+    "Name": "LittlePrince_MEG_French_Listen_Pallier2025",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
@@ -8,6 +8,6 @@
         "Christophe Pallier",
         "Jean-Rémi King"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds007523.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007523.v1.0.1",
     "License": "CC0"
 }

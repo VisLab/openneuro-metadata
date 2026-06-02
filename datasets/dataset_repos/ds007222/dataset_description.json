@@ -1,0 +1,25 @@
+{
+    "Name": "Visual Occlusions with Treadmill Walking Speeds EEG",
+    "BIDSVersion": "1.10.0",
+    "HEDVersion": "8.2.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Jonel Morris",
+        "Kenneth Cruz",
+        "Raydeep Kainth",
+        "Daniel Ferris"
+    ],
+    "Acknowledgements": "We thank HNL lab members for help with data collection: Ryland Swearinger, Crosman Cruz, Gabriel Veliz, Sarah Scott, Wilson Huang, Braden Denny, Drew Johnson, Caleb Leimer, Abigail Pope, Alexus Nesbit, and Leela Zhou for extended assistance with data collection. We thank Chang Lui and Jacob Salminen for help with scripts for data preprocessing and analysis. We thank members of the HNL lab for feedback and intellectual support to improve methods of data analysis.",
+    "HowToAcknowledge": "Please cite 'Morris, Cruz, Kainth, Ferris, 2026' ",
+    "Funding": [
+        "The National Institutes of Health (R01NS104772)"
+    ],
+    "EthicsApprovals": [
+        "The University of Florida Institutional Review Board approved the protocol and all participants completed a written informed consent document. The study adhered to the principles outlined in the Declaration of Helsinki"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007222.v1.0.0"
+}

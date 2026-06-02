@@ -1,0 +1,7 @@
+This dataset contains data from 24 native English speaking adult participants who took part in multiple days of behavioural training on two novel writing systems, followed by an MRI scanning session (split over two days to ensure participants didn’t spend too long in the scanner). In total, the MRI session comprised 4 visual and 4 auditory runs (12 blocks of 16 trials per run). Within each run, blocks alternated between the two novel writing systems. At the start of each block a semantic category was cued. On each trial participants heard/saw a trained word, were asked to think of its meaning, and to press a button when the trained word was from the semantic category. 
+
+The raw MRI data are all provided here, excluding three runs from two participants (scan-to-scan movement >2 mm).
+
+Behavioural data are shared on the open science framework https://osf.io/nujm3/?view_only=41eab9e538f443d7a64f8d7859338769
+Here you can also find a file aap_prov.png which shows the neuroimaging analysis pipeline (which used Automatic Analysis, version 5). 
+

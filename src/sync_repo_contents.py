@@ -71,6 +71,30 @@ MIN_BATCH_SIZE = 1       # floor when auto-halving a batch on 5xx errors
 
 
 # ---------------------------------------------------------------------------
+# Windows-safe file replace
+# ---------------------------------------------------------------------------
+
+def _safe_replace(tmp_path: str, target_path: str, retries: int = 5, delay: float = 0.5) -> None:
+    """
+    Replace target_path with tmp_path, retrying on Windows permission errors.
+    
+    On Windows, os.replace() can fail with PermissionError if the target file
+    is open in an editor or locked by another process. This function retries
+    with exponential backoff.
+    """
+    for attempt in range(1, retries + 1):
+        try:
+            os.replace(tmp_path, target_path)
+            return
+        except PermissionError as exc:
+            if attempt >= retries:
+                raise  # exhausted retries
+            print(f"    File locked, retrying in {delay}s... (attempt {attempt}/{retries})")
+            time.sleep(delay)
+            delay *= 2  # exponential backoff
+
+
+# ---------------------------------------------------------------------------
 # GraphQL helpers
 # ---------------------------------------------------------------------------
 
@@ -289,7 +313,7 @@ def _save_failures(failures: dict, path: str) -> None:
     tmp = path + ".tmp"
     with open(tmp, "w", encoding="utf-8") as fh:
         json.dump(failures, fh, indent=2, ensure_ascii=False)
-    os.replace(tmp, path)
+    _safe_replace(tmp, path)
 
 
 def sync_repo_contents(
@@ -446,7 +470,7 @@ def _save_json(data: dict, path: str) -> None:
     tmp = path + ".tmp"
     with open(tmp, "w", encoding="utf-8") as fh:
         json.dump(data, fh, indent=2, ensure_ascii=False)
-    os.replace(tmp, path)
+    _safe_replace(tmp, path)
 
 
 # ---------------------------------------------------------------------------

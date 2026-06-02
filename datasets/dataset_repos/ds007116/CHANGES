@@ -1,3 +1,7 @@
+1.0.4 2026-05-28
+  - update README & fix task contrast outputs
+1.0.3 2026-05-13
+  - updated events.tsv files
 1.0.2 2026-04-03
   - Fix IntendedFor fields in fMRI fmap JSONs.
 1.0.1 2026-02-17

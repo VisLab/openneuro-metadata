@@ -1,0 +1,12 @@
+{
+    "Name": "A multimodal dataset of EEG, eye-tracking, and physiological signals during smartphone interaction",
+    "BIDSVersion": "1.0.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Prakash Mishra",
+        "Tapan K. Gandhi",
+        "Saurabh R. Gandhi"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007537.v1.0.0",
+    "License": "CC0"
+}

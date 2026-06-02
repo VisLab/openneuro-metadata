@@ -1,0 +1,189 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Anja Samardzija
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Xilin Shen
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Abigail S. Greene
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Saloni Mehta
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Santino Iannone
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Alexander J. Simon
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Flor Parra
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Wenjing Luo
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Sarah A. Cutts
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Kira Tang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 10
+      - name: Jagriti Arora
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 11
+      - name: Fuyuze Tokoglu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 12
+      - name: C. Alice Hahn
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 13
+      - name: Scott W. Woods
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 14
+      - name: Gerard Sanacora
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 15
+      - name: Rachel Katz
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 16
+      - name: Vinod Srihari
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 17
+      - name: Marisa N. Spann
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 18
+      - name: Dustin Scheinost
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 19
+      - name: R. Todd Constable
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 20
+    creators:
+      - name: Anja Samardzija
+        nameType: Personal
+      - name: Xilin Shen
+        nameType: Personal
+      - name: Abigail S. Greene
+        nameType: Personal
+      - name: Saloni Mehta
+        nameType: Personal
+      - name: Santino Iannone
+        nameType: Personal
+      - name: Alexander J. Simon
+        nameType: Personal
+      - name: Flor Parra
+        nameType: Personal
+      - name: Wenjing Luo
+        nameType: Personal
+      - name: Sarah A. Cutts
+        nameType: Personal
+      - name: Kira Tang
+        nameType: Personal
+      - name: Jagriti Arora
+        nameType: Personal
+      - name: Fuyuze Tokoglu
+        nameType: Personal
+      - name: C. Alice Hahn
+        nameType: Personal
+      - name: Scott W. Woods
+        nameType: Personal
+      - name: Gerard Sanacora
+        nameType: Personal
+      - name: Rachel Katz
+        nameType: Personal
+      - name: Vinod Srihari
+        nameType: Personal
+      - name: Marisa N. Spann
+        nameType: Personal
+      - name: Dustin Scheinost
+        nameType: Personal
+      - name: R. Todd Constable
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

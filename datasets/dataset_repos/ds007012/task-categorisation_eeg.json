@@ -1,0 +1,17 @@
+{
+    "TaskName": "categorisation",
+    "InstitutionName": "The University of Melbourne",
+    "InstitutionAddress": "Redmond Barry Building, University of Melbourne, VIC 3010, Australia",
+    "Manufacturer": "Biosemi",
+    "ManufacturersModelName": "Biosemi Active 2",
+    "PowerLineFrequency": 50,
+    "SamplingFrequency": 512,
+    "EEGChannelCount": 64,
+    "TriggerChannelCount": 1,
+    "EEGReference": "CMS/DRL",
+    "EEGPlacementScheme": "10-20",
+    "CapManufacturer": "Biosemi",
+    "RecordingType": "continuous",
+    "SoftwareFilters": "n/a"
+}
+

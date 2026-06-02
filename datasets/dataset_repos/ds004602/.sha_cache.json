@@ -1,11 +1,20 @@
 {
-  "CHANGES": "e97def347ea3f90e34b331630fe54ae1aec43d5e",
-  "dataset_description.json": "4477ee0987321f0b64ffae6f01b26632fa2d1d85",
+  "CHANGES": "556be22e1531c0eba9185426a19e809eb5eba3c7",
+  "dataset_description.json": "35ebb34c4ebcdf649512347d20c76b955c391567",
   "task-ERNPsychometrics_events.json": "25f3fe21581ad6405776749647c0a220bd6ea5d1",
-  "participants.tsv": "a2504b9ad2bb27ecd1f3af0c0ee2a96602567274",
-  "participants.json": "130373aaba93adabecad005b326e76c44481c1d1",
-  "README": "def5caf522d6aaba2909678068de45c3c1f31c1a",
+  "participants.tsv": "5a091c6a38f7717d7da065ba4d25040106b5a3fd",
+  "participants.json": "1a3e18bf04775427c74a96a4f198c600ffc260dd",
+  "README": "7efaa143c869fc6d59c601dda3150431b02713a1",
   "sub-001/eeg/sub-001_task-flanker_events.tsv": "1cfbd7d2b8989ae1f1aa073ec3eb4a00cca79575",
   "sub-001/eeg/sub-001_task-stroop_events.tsv": "b8cc5ef12aeb35f5dae509dd14279bf0b93b47f2",
-  "sub-001/eeg/sub-001_task-gonogo_events.tsv": "f1e2f69f297bf4da75f25bb89ef36e2382f4e34b"
+  "sub-001/eeg/sub-001_task-gonogo_events.tsv": "f1e2f69f297bf4da75f25bb89ef36e2382f4e34b",
+  "task-gonogo_events.json": "600bcf96922fe986246f79addf1b79d870b8e0ab",
+  "task-flanker_events.json": "f4e58b6c87d0d82c67e958d2cf744e0e72951567",
+  "task-stroop_events.json": "2a34b73cce9fe9bb592915f018b1fad50cfe2576",
+  "sub-1002/ses-1/eeg/sub-1002_ses-1_task-flanker_events.json": "ee3e1643e41ed7d6acc05f6f5f5ba8b22a756027",
+  "sub-1002/ses-1/eeg/sub-1002_ses-1_task-flanker_events.tsv": "739a24a75ed13e9061824167d0ef35158aab5dbc",
+  "sub-1002/ses-2/eeg/sub-1002_ses-2_task-stroop_events.json": "ee3e1643e41ed7d6acc05f6f5f5ba8b22a756027",
+  "sub-1002/ses-2/eeg/sub-1002_ses-2_task-stroop_events.tsv": "448b974f616feb5a9c101f770bc0fc876cd7fedc",
+  "sub-1002/ses-3/eeg/sub-1002_ses-3_task-gonogo_events.json": "ee3e1643e41ed7d6acc05f6f5f5ba8b22a756027",
+  "sub-1002/ses-3/eeg/sub-1002_ses-3_task-gonogo_events.tsv": "5c7b2e21108cbbf7776d982b80029dabe9290b5e"
 }

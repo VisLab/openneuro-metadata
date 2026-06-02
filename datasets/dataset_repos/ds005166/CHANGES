@@ -1,2 +1,6 @@
+1.0.1 2026-04-21
+  - Updated Authors in dataset_description.json
+  - Updated .bidsignore to exclude ignoring of the phenotype directory
+  - Updated phenotype files and participants.tsv row values where an additional ".0" was present in what should be integer values
 1.0.0 2024-05-21
   - Initial release

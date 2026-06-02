@@ -1,0 +1,17 @@
+participant_id	date	age	gender	handedness	normal_or_corrected_vision	note
+sub-01	26/2/2020	25	F	R	YES	
+sub-02	26/2/2020	20	F	R	YES	
+sub-03	27/2/2020	21	F	R	YES	
+sub-04	28/2/2020	20	F	R	YES	
+sub-05	28/2/2020	21	F	R	YES	
+sub-06	28/2/2020	21	F	R	YES	
+sub-07	2/3/2020	21	F	L	YES	
+sub-08	2/3/2020	21	M	R	NO	Strabismus
+sub-09	2/3/2020	23	F	R	YES	
+sub-10	3/3/2020	60	F	R	YES	
+sub-11	3/3/2020	26	F	L	YES	
+sub-12	3/3/2020	25	F	R	YES	
+sub-13	12/3/2020	19	F	R	YES	
+sub-14	13/3/2020	20	F	R	YES	
+sub-15	13/3/2020	31	F	R	YES	
+sub-16	13/3/2020	22	M	R	YES	

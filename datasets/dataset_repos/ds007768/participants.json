@@ -1,0 +1,61 @@
+{
+    "species": {
+        "Description": "Species that was imaged in this data set",
+        "Levels": {
+            "Homo sapiens": "human"
+        }
+    },
+    "age": {
+        "Description": "age of the participant",
+        "Units": "years"
+    },
+    "body_weight": {
+        "Description": "bodyweight of the participant",
+        "Units": "kg"
+    },
+    "sex": {
+        "Description": "sex of the participant as reported by the participant",
+        "Levels": {
+            "m": "male",
+            "f": "female",
+            "o": "other"
+        }
+    },
+    "gender": {
+        "Description": "gender of the participant as reported by the participant",
+        "Levels": {
+            "m": "male",
+            "f": "female",
+            "o": "other"
+        }
+    },
+    "handedness": {
+        "Description": "handedness of the participant as reported by the participant",
+        "Levels": {
+            "left": "left",
+            "right": "right"
+        }
+    },
+    "drug_ses-01": {
+        "Description": "Drug allocation of the participant at the first session",
+        "Levels": {
+            "Placebo": "Participant received placebo on the first study day.",
+            "Verum": "Participant received verum (90 mg DMT + 120 mg harmine) on the first study day."
+        }
+    },
+    "drug_ses-02": {
+        "Description": "Drug allocation of the participant at the second session",
+        "Levels": {
+            "Placebo": "Participant received placebo on the second study day.",
+            "Verum": "Participant received verum (90 mg DMT + 120 mg harmine) on the second study day."
+        }
+    },
+    "blood_glucose_ses-01": {
+        "Description": "Blood glucose level of the participant at the first session as average of 2 measurements (before and after the scan)",
+        "Units": "mmol/L"
+    },
+    "blood_glucose_ses-02": {
+        "Description": "Blood glucose level of the participant at the second session as average of 2 measurements (before and after the scan)",
+        "Units": "mmol/L"
+    }
+}

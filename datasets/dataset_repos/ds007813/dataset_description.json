@@ -1,0 +1,10 @@
+{
+    "Name": "EEG Practice Set",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Kähler, Asuka"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007813.v1.0.0",
+    "License": "CC0"
+}

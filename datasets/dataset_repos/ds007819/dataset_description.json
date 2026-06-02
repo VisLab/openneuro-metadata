@@ -1,0 +1,19 @@
+{
+    "Name": "BindingWM",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Anna Zier",
+        "Philipp Deutsch",
+        "Jochen Kaiser",
+        "Christoph Bledowski"
+    ],
+    "License": "CC0",
+    "GeneratedBy": [
+        {
+            "Name": "dcm2niix"
+        }
+    ],
+    "SourceDatasets": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007819.v1.0.0"
+}

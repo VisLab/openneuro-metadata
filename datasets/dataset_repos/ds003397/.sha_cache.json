@@ -1,9 +1,10 @@
 {
-  "dataset_description.json": "f309fdc669e23cf2f4b80820cbabff9922eb98c6",
-  "CHANGES": "a300b62dfc74181ac8f0b4001e8c0155e1a459c7",
+  "dataset_description.json": "59cb5aab2c32f5bdf9ca69f51d6f6d44bc400948",
+  "CHANGES": "91b3e637335fedb85330586d6c04dfd161ee2573",
   "README": "5f39a6d7e3fb9cc1904a52262ad18f70822d7309",
-  "participants.json": "487f4f78d83912e777f5d386d609ff1245109f0a",
-  "participants.tsv": "c65c4ec29b48352dde287e6b7c3ba7aff25da535",
+  "participants.json": "ac3d7ebe25182912cdb29fb6fef3098444b99ffa",
+  "participants.tsv": "c1184c91d1c23f9b8d3c6df78fba9e4f640523d3",
   "task-checkerboard_bold.json": "c83eea7f9593e02f9545c0be4c73c9c501db5266",
-  "sub-01/func/sub-01_task-checkerboard_run-1_events.tsv": "2be3700dafe5b35078b88ac481f766d4eb8acad3"
+  "sub-01/func/sub-01_task-checkerboard_run-1_events.tsv": "2be3700dafe5b35078b88ac481f766d4eb8acad3",
+  "LICENCE.md": "fee5356e4af07c4683988ac6e090530453bc9a66"
 }

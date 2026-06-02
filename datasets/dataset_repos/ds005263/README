@@ -1,5 +1,6 @@
 # Incentivized Reaching Task (incenreach) from the SKIP Dataset
 
+
 The Socal Kinesia and Incentivization for Parkinson's Disease (SKIP) dataset facilitates research across human sciences, focusing on human movement and the modulatory impact of incentivization, specifically in the context of Parkinson's Disease (PD).
 
 SKIP so far contains three task-based fMRI datasets and one resting-state fMRI dataset.
@@ -11,7 +12,7 @@ SKIP so far contains three task-based fMRI datasets and one resting-state fMRI d
   - Task design compares positive and negative incentive valence.
 
 **Current Version:** 1.0.1  
-**Note:** This version contains data from healthy controls only. Future updates will include data from PD patients and a broader range of assays in both healthy controls and PD subjects, such as cardiac-autonomic and pupillometry data.
+**Note:** This version contains raw data from healthy controls only. Future updates will include data from PD patients and a broader range of assays in both healthy controls and PD subjects, such as cardiac-autonomic and pupillometry data.
 
 Our goal for SKIP is to become the leading global resource as the world advances in its capacity for powerful and innovative analyses, allowing researchers free access to comprehensive physiological and behavioral assays of movement, and how incentives influence them, in the context of PD.
 
@@ -25,7 +26,10 @@ For more information, please visit:
 
 ## Citation
 Please cite the following:  
-Dundon, N. M., Rizor, E., Stasiak, J., Wang, J., Sabugo, K., Villaneuva, C., Barandon, P., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2024). Dissociation of novel open loop from ventral putamen to motor areas from classic closed loop in humans II: task-based function. bioRxiv, 2024-06.
+Dundon, N. M., Rizor, E.J., Stasiak, J.E., Wang, J., Li, T., Sabugo, K., Villanueva, C., Barandon, P., Babenko, V.,  Beverly-Aylwin, R., Stump, A., Santander, T., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2026). Incentive valence differentially engages open- and closed-loop basal ganglia circuits during movement initiation. *PNAS.*
+
+## Repository
+[See here for our code repository for the above publications.](https://github.com/ejrise/incentive-valence)
 
 ## other fMRI Tasks part of SKIP
 
@@ -43,7 +47,7 @@ Dundon, N. M., Rizor, E., Stasiak, J., Wang, J., Sabugo, K., Villaneuva, C., Bar
   - Task design creates controllable-mild, uncontrollable-mild, controllable-unpleasant, and uncontrollable-unpleasant conditions.
 
 ### Ultra-High Field Functional Connectivity / Network Mapping (highresFC)
-- **Description:** 21 participants undergoing ultra-high field (7T) multi-echo scans at rest.
+- **Description:** 28 participants undergoing ultra-high field (7T) multi-echo scans at rest.
   - Multi-echo imaging was used to reduce non-BOLD signals.
   - Ultra-high field imaging provides greater image resolution and reliability of functional connectivity network analyses.
   - Ideal for mapping network properties of small, deep subcortical nuclei, such as those in the basal ganglia.

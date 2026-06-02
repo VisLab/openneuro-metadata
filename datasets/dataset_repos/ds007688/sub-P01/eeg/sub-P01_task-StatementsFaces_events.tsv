@@ -1,0 +1,247 @@
+onset	duration	trial_type	value	stim_file	statement_text
+4.996	0.0	n/a	3	n/a	n/a
+8.432	0.0	n/a	3	n/a	n/a
+13.72	0.0	n/a	3	n/a	n/a
+19.576	0.0	n/a	3	n/a	n/a
+27.848	0.0	n/a	3	n/a	n/a
+35.988	0.0	n/a	3	n/a	n/a
+39.724	3.759354940854588	PVV/Agema/left/negative/Integration	81	PVV_Agema.jpg	Integratie eisen is racisme.
+44.16	4.538095802485606	GL/Timmermans/left/negative/Climate	41	GL_Timmermans.jpg	Onze kinderen hebben geen toekomst, stop klimaatverandering
+48.412	4.16965605290796	GL/Klaver/left/positive/EU	30	GL_Klaver.jpg	Meer Europa voor een vreedzame toekomst
+56.42	4.032881405374804	GL/Timmermans/right/neutral/Immigration	62	GL_Timmermans.jpg	Stop immigranten aan de grens
+60.304	3.7742287766149123	PVV/Wilders/right/neutral/Immigration	134	PVV_Wilders.jpg	Grenzen dicht voor immigranten
+69.08	4.589727818363813	PVV/Wilders/right/positive/Gender equality	145	PVV_Wilders.jpg	Het Gezin als hoeksteen, voor een stralende toekomst
+77.252	4.230124730681888	PVV/Agema/left/negative/Immigration	80	PVV_Agema.jpg	Stop de slechte behandeling van vluchtelingen
+81.404	4.216591806771572	GL/Timmermans/left/negative/Immigration	44	GL_Timmermans.jpg	Stop de slechte opvang van vluchtelingen
+89.212	3.851652104113501	GL/Klaver/left/negative/Integration	9	GL_Klaver.jpg	Stop bevooroordeelde culturele integratie
+92.78	3.551176380137438	PVV/Agema/left/neutral/Immigration	92	PVV_Agema.jpg	Vang vluchtelingen op
+96.916	4.146676446249187	PVV/Wilders/right/negative/EU	120	PVV_Wilders.jpg	Stap uit de totalitaire EU
+100.872	3.989338941076143	GL/Klaver/left/negative/Climate	5	GL_Klaver.jpg	Klimaatverandering neemt onze toekomst weg
+104.556	3.591447738441374	GL/Timmermans/left/neutral/Gender equality	55	GL_Timmermans.jpg	Meer gender gelijkheid
+112.78	4.28579018312096	PVV/Wilders/left/positive/Climate	137	PVV_Wilders.jpg	Voor een zonnige toekomst, stop klimaatverandering
+116.748	3.9839003421187105	GL/Timmermans/right/positive/Climate	71	GL_Timmermans.jpg	Ontspan, klimaatverandering is een grap
+120.62	3.8533276095771765	GL/Klaver/right/positive/Climate	35	GL_Klaver.jpg	Warmer klimaat, warmere stranden
+124.888	4.351622068101192	GL/Klaver/right/negative/Vegetarianism	16	GL_Klaver.jpg	Negeer de gekkies, eet een burger
+128.808	3.833962940247254	GL/Timmermans/right/negative/Climate	47	GL_Timmermans.jpg	Klimaatverandering is een complot
+136.296	3.4327696179819096	GL/Klaver/left/neutral/Climate	17	GL_Klaver.jpg	Stop klimaatverandering
+139.952	3.6698542314669753	PVV/Wilders/right/positive/Integration	147	PVV_Wilders.jpg	Nederlandse waarden eerst
+143.52	3.7260289802572437	PVV/Agema/left/neutral/Vegetarianism	94	PVV_Agema.jpg	Eet minder vlees
+148.224	4.623537387032819	GL/Timmermans/left/negative/Gender equality	43	GL_Timmermans.jpg	Verzet je tegen de norm, meer gender gelijkheid
+152.228	4.038128650379418	GL/Timmermans/left/positive/Immigration	68	GL_Timmermans.jpg	Een warm welkom voor vluchtelingen
+156.648	4.459256725517901	PVV/Agema/right/positive/EU	108	PVV_Agema.jpg	Maak ons rijker, weg uit de EU
+160.684	4.096601276207772	GL/Timmermans/right/neutral/Vegetarianism	64	GL_Timmermans.jpg	Een Hamburger voor elke burger
+164.32	3.5737827463029106	PVV/Wilders/right/negative/Integration	123	PVV_Wilders.jpg	Integreren of vertrekken
+172.308	3.992956454828632	PVV/Agema/right/neutral/EU	96	PVV_Agema.jpg	Nederland moet uit de EU
+180.632	3.7742287766149123	PVV/Wilders/right/neutral/Immigration	134	PVV_Wilders.jpg	Grenzen dicht voor immigranten
+188.588	4.1498617938906355	PVV/Agema/right/neutral/Immigration	98	PVV_Agema.jpg	Geen toegang voor illegale immigranten
+192.36	3.7882606374754433	GL/Klaver/right/neutral/Immigration	26	GL_Klaver.jpg	Immigranten stoppen, grenzen bewaken
+195.96	3.6459496461224092	GL/Timmermans/left/neutral/EU	54	GL_Timmermans.jpg	Meer Europese integratie
+200.248	4.181454731131796	PVV/Agema/right/negative/Vegetarianism	88	PVV_Agema.jpg	Weg met moralisme, vlees is beter
+204.468	4.256936465724646	PVV/Agema/left/positive/EU	102	PVV_Agema.jpg	Europa zorgt voor vrede in Europa
+209.02	3.8533276095771765	GL/Klaver/right/positive/Climate	35	GL_Klaver.jpg	Warmer klimaat, warmere stranden
+212.724	3.691382230475414	PVV/Agema/right/neutral/Climate	95	PVV_Agema.jpg	Klimaatverandering bestaat niet
+216.812	4.038128650379418	GL/Timmermans/left/positive/Immigration	68	GL_Timmermans.jpg	Een warm welkom voor vluchtelingen
+220.764	3.8533276095771765	GL/Klaver/right/positive/Climate	35	GL_Klaver.jpg	Warmer klimaat, warmere stranden
+224.584	4.038128650379418	GL/Timmermans/left/positive/Immigration	68	GL_Timmermans.jpg	Een warm welkom voor vluchtelingen
+228.42	3.830181884434866	PVV/Wilders/right/positive/Climate	143	PVV_Wilders.jpg	Klimaatverandering? Niet zo ernstig
+236.408	4.032881405374804	GL/Timmermans/right/neutral/Immigration	62	GL_Timmermans.jpg	Stop immigranten aan de grens
+240.012	3.5656212554833653	GL/Klaver/right/positive/Integration	39	GL_Klaver.jpg	Bewaar Nederlandse identiteit
+247.768	3.7633511578434886	GL/Klaver/right/negative/Integration	15	GL_Klaver.jpg	Integreer of ga terug
+251.62	3.8122525534751173	GL/Timmermans/right/negative/Immigration	50	GL_Timmermans.jpg	Deporteer nu alle immigranten
+255.408	3.7742287766149123	PVV/Wilders/right/neutral/Immigration	134	PVV_Wilders.jpg	Grenzen dicht voor immigranten
+259.244	3.790532264789158	GL/Timmermans/right/positive/Gender equality	73	GL_Timmermans.jpg	Het gezin is heilig
+263.18	3.866488740926653	GL/Timmermans/right/negative/EU	48	GL_Timmermans.jpg	Ontsnap uit de EU-fuik
+266.932	3.8927225195694373	PVV/Agema/left/positive/Immigration	104	PVV_Agema.jpg	Wees gastvrij naar vluchtelingen
+275.308	4.538095802485606	GL/Timmermans/left/negative/Climate	41	GL_Timmermans.jpg	Onze kinderen hebben geen toekomst, stop klimaatverandering
+279.428	3.9583526684340784	GL/Timmermans/left/neutral/Climate	53	GL_Timmermans.jpg	Tijd om klimaatverandering te stoppen
+283.212	3.897682841943392	GL/Klaver/right/neutral/Climate	23	GL_Klaver.jpg	Klimaatverandering is niet echt
+291.468	4.275646012877995	PVV/Agema/right/negative/Gender equality	85	PVV_Agema.jpg	Stop bedreigingen tegen het traditionele gezin
+299.676	4.038128650379418	GL/Timmermans/left/positive/Immigration	68	GL_Timmermans.jpg	Een warm welkom voor vluchtelingen
+308.216	3.4327696179819096	GL/Klaver/left/neutral/Climate	17	GL_Klaver.jpg	Stop klimaatverandering
+311.984	4.538095802485606	GL/Timmermans/left/negative/Climate	41	GL_Timmermans.jpg	Onze kinderen hebben geen toekomst, stop klimaatverandering
+320.292	3.7742287766149123	PVV/Wilders/right/neutral/Immigration	134	PVV_Wilders.jpg	Grenzen dicht voor immigranten
+324.58	4.247424293795811	GL/Klaver/left/positive/Gender equality	31	GL_Klaver.jpg	Met krachtige vrouwen, een rijkere maatschappij
+328.196	3.711334894316796	GL/Klaver/right/neutral/Gender equality	25	GL_Klaver.jpg	Bescherm het gezin
+332.152	3.989338941076143	GL/Klaver/left/negative/Climate	5	GL_Klaver.jpg	Klimaatverandering neemt onze toekomst weg
+336.136	3.759354940854588	PVV/Agema/left/negative/Integration	81	PVV_Agema.jpg	Integratie eisen is racisme.
+340.656	4.490128189283872	PVV/Wilders/left/negative/Vegetarianism	118	PVV_Wilders.jpg	De Aarde gaat kapot, eet minder vlees.
+344.76	4.066215891666008	PVV/Agema/left/positive/Climate	101	PVV_Agema.jpg	Stop klimaatverandering, red de wereld
+349.264	4.478242339953799	GL/Timmermans/right/neutral/Gender equality	61	GL_Timmermans.jpg	Het gezin als hoeksteen van de samenleving
+353.184	3.8146539753174515	PVV/Agema/left/neutral/Climate	89	PVV_Agema.jpg	We moeten klimaatverandering stoppen
+357.204	3.830181884434866	PVV/Wilders/right/positive/Climate	143	PVV_Wilders.jpg	Klimaatverandering? Niet zo ernstig
+364.776	3.5808937043502205	PVV/Wilders/left/neutral/EU	126	PVV_Wilders.jpg	Versterk Europese eenheid
+368.596	3.9286431427984017	PVV/Wilders/left/positive/Gender equality	139	PVV_Wilders.jpg	Positieve discriminatie voor vrouwen
+376.42	3.830181884434866	PVV/Wilders/right/positive/Climate	143	PVV_Wilders.jpg	Klimaatverandering? Niet zo ernstig
+384.376	4.032881405374804	GL/Timmermans/right/neutral/Immigration	62	GL_Timmermans.jpg	Stop immigranten aan de grens
+388.128	3.8267833432375125	PVV/Wilders/left/negative/Gender equality	115	PVV_Wilders.jpg	Werp het patriarchaat omver
+391.664	3.5536976827035485	PVV/Agema/left/neutral/Integration	93	PVV_Agema.jpg	Respecteer culturele verschillen
+395.316	3.726969674251033	PVV/Wilders/left/neutral/Gender equality	127	PVV_Wilders.jpg	Bevorder gender gelijkheid
+403.64	3.7260289802572437	PVV/Agema/left/neutral/Vegetarianism	94	PVV_Agema.jpg	Eet minder vlees
+407.592	3.9926523874595614	PVV/Agema/right/negative/Immigration	86	PVV_Agema.jpg	Weg ermee, geen immigranten toelaten
+411.628	3.9754935732219336	GL/Klaver/right/positive/Gender equality	37	GL_Klaver.jpg	Put kracht uit het gezin
+415.484	3.7502428358416666	PVV/Wilders/left/negative/Immigration	116	PVV_Wilders.jpg	Stop onrecht tegen vluchtelingen
+418.92	3.3858261624934247	PVV/Agema/left/negative/Gender equality	79	PVV_Agema.jpg	Stop vrouwenonderdrukking
+427.008	4.145419288801163	PVV/Wilders/left/positive/Immigration	140	PVV_Wilders.jpg	Een warm welkom voor vluchtelingen
+430.896	3.8063324668648137	PVV/Agema/right/negative/Climate	83	PVV_Agema.jpg	Klimaatverandering is een illusie
+434.516	3.595827117884639	PVV/Agema/right/positive/Integration	111	PVV_Agema.jpg	Koester Nederlandse waarden
+439.016	3.989338941076143	GL/Klaver/left/negative/Climate	5	GL_Klaver.jpg	Klimaatverandering neemt onze toekomst weg
+463.052	3.9839003421187105	GL/Timmermans/right/positive/Climate	71	GL_Timmermans.jpg	Ontspan, klimaatverandering is een grap
+467.14	3.7260289802572437	PVV/Agema/left/neutral/Vegetarianism	94	PVV_Agema.jpg	Eet minder vlees
+470.992	3.7742287766149123	PVV/Wilders/right/neutral/Immigration	134	PVV_Wilders.jpg	Grenzen dicht voor immigranten
+478.764	3.9279506931155366	GL/Klaver/left/neutral/Gender equality	19	GL_Klaver.jpg	Maak ruimte voor vrouwen
+482.92	4.222697807905786	GL/Klaver/left/positive/Vegetarianism	34	GL_Klaver.jpg	Red de wereld, eet minder vlees.
+490.924	4.032881405374804	GL/Timmermans/right/neutral/Immigration	62	GL_Timmermans.jpg	Stop immigranten aan de grens
+498.532	3.595827117884639	PVV/Agema/right/positive/Integration	111	PVV_Agema.jpg	Koester Nederlandse waarden
+502.452	3.7779247436105416	GL/Timmermans/right/positive/Vegetarianism	76	GL_Timmermans.jpg	Echte Nederlanders eten vlees
+510.74	4.270412855511583	PVV/Agema/left/negative/EU	78	PVV_Agema.jpg	Meer Europa in deze gevaarlijke wereld
+514.712	3.7260289802572437	PVV/Agema/left/neutral/Vegetarianism	94	PVV_Agema.jpg	Eet minder vlees
+518.612	3.7502428358416666	PVV/Wilders/left/negative/Immigration	116	PVV_Wilders.jpg	Stop onrecht tegen vluchtelingen
+522.916	3.7502428358416666	PVV/Wilders/left/negative/Immigration	116	PVV_Wilders.jpg	Stop onrecht tegen vluchtelingen
+527.236	3.7260289802572437	PVV/Agema/left/neutral/Vegetarianism	94	PVV_Agema.jpg	Eet minder vlees
+534.892	3.5992122701363964	PVV/Wilders/left/neutral/Vegetarianism	130	PVV_Wilders.jpg	Eet minder vlees
+539.18	4.192245229305358	GL/Klaver/right/negative/Immigration	14	GL_Klaver.jpg	Verwijder immigranten voor eens en altijd
+542.8	3.897682841943392	GL/Klaver/right/neutral/Climate	23	GL_Klaver.jpg	Klimaatverandering is niet echt
+547.136	4.183085646174609	GL/Klaver/right/neutral/Vegetarianism	28	GL_Klaver.jpg	Iedereen vlees, het is gewoon eten
+551.172	4.090495336413179	GL/Timmermans/right/negative/Gender equality	49	GL_Timmermans.jpg	Geen moderne fratsen, herbevestig familiewaarden
+559.928	4.5925612010959815	PVV/Agema/left/negative/Vegetarianism	82	PVV_Agema.jpg	Minder vlees is minder schade aan de natuur
+564.248	3.7502428358416666	PVV/Wilders/left/negative/Immigration	116	PVV_Wilders.jpg	Stop onrecht tegen vluchtelingen
+568.284	3.971623971006909	PVV/Wilders/left/negative/Integration	117	PVV_Wilders.jpg	Minder integratie, het is racisme
+571.972	3.5550179859297764	PVV/Wilders/right/negative/Climate	119	PVV_Wilders.jpg	Klimaatverandering is onzin
+575.976	4.538095802485606	GL/Timmermans/left/negative/Climate	41	GL_Timmermans.jpg	Onze kinderen hebben geen toekomst, stop klimaatverandering
+579.876	3.595827117884639	PVV/Agema/right/positive/Integration	111	PVV_Agema.jpg	Koester Nederlandse waarden
+583.732	3.8283340868312776	GL/Timmermans/left/positive/Climate	65	GL_Timmermans.jpg	Samen sterk tegen klimaatverandering
+587.932	4.256936465724646	PVV/Agema/left/positive/EU	102	PVV_Agema.jpg	Europa zorgt voor vrede in Europa
+595.888	4.0569803047692155	GL/Timmermans/right/positive/EU	72	GL_Timmermans.jpg	Nederland rijker zonder de EU
+604.164	4.288984315063538	GL/Timmermans/right/negative/Vegetarianism	52	GL_Timmermans.jpg	Weg met soja, vlees is koning
+612.584	3.989338941076143	GL/Klaver/left/negative/Climate	5	GL_Klaver.jpg	Klimaatverandering neemt onze toekomst weg
+616.356	4.032881405374804	GL/Timmermans/right/neutral/Immigration	62	GL_Timmermans.jpg	Stop immigranten aan de grens
+620.608	3.7742287766149123	PVV/Wilders/right/neutral/Immigration	134	PVV_Wilders.jpg	Grenzen dicht voor immigranten
+624.844	4.313223982769591	PVV/Agema/left/positive/Vegetarianism	106	PVV_Agema.jpg	Een groener bord, een beter wereld
+629.164	4.171845084901502	GL/Timmermans/left/positive/EU	66	GL_Timmermans.jpg	Straal vertrouwen uit, geef Europa vleugels
+633.068	3.7466602560376843	GL/Klaver/left/positive/Climate	29	GL_Klaver.jpg	Leefbaar leven, stop klimaatverandering
+637.056	4.038128650379418	GL/Timmermans/left/positive/Immigration	68	GL_Timmermans.jpg	Een warm welkom voor vluchtelingen
+641.176	3.7742287766149123	PVV/Wilders/right/neutral/Immigration	134	PVV_Wilders.jpg	Grenzen dicht voor immigranten
+645.028	3.4327696179819096	GL/Klaver/left/neutral/Climate	17	GL_Klaver.jpg	Stop klimaatverandering
+648.896	3.8410502306837957	PVV/Agema/right/positive/Immigration	110	PVV_Agema.jpg	Stel Nederlanders boven migranten
+653.0	3.9858663083819694	PVV/Agema/right/positive/Gender equality	109	PVV_Agema.jpg	Het traditionele gezin versterkt ons
+660.84	4.538095802485606	GL/Timmermans/left/negative/Climate	41	GL_Timmermans.jpg	Onze kinderen hebben geen toekomst, stop klimaatverandering
+664.692	3.8045059913418626	GL/Timmermans/right/neutral/Climate	59	GL_Timmermans.jpg	Er is geen klimaatverandering
+672.716	4.1171779662769215	PVV/Wilders/left/positive/Integration	141	PVV_Wilders.jpg	Culturele verschillen maken ons sterker
+676.688	3.989338941076143	GL/Klaver/left/negative/Climate	5	GL_Klaver.jpg	Klimaatverandering neemt onze toekomst weg
+681.024	4.203509020668138	GL/Klaver/left/neutral/EU	18	GL_Klaver.jpg	Bied stabiliteit, zet Europese koers voort
+685.444	4.538095802485606	GL/Timmermans/left/negative/Climate	41	GL_Timmermans.jpg	Onze kinderen hebben geen toekomst, stop klimaatverandering
+689.596	3.8533276095771765	GL/Klaver/right/positive/Climate	35	GL_Klaver.jpg	Warmer klimaat, warmere stranden
+693.4	3.879159549640091	GL/Timmermans/right/negative/Integration	51	GL_Timmermans.jpg	Geen ruimte voor diversiteit
+701.204	3.8533276095771765	GL/Klaver/right/positive/Climate	35	GL_Klaver.jpg	Warmer klimaat, warmere stranden
+705.424	4.347989056011844	PVV/Wilders/right/negative/Vegetarianism	124	PVV_Wilders.jpg	Voel je niet schuldig, eet vlees
+709.212	4.145419288801163	PVV/Wilders/left/positive/Immigration	140	PVV_Wilders.jpg	Een warm welkom voor vluchtelingen
+717.384	3.7260289802572437	PVV/Agema/left/neutral/Vegetarianism	94	PVV_Agema.jpg	Eet minder vlees
+725.576	4.275646012877995	PVV/Agema/right/negative/Gender equality	85	PVV_Agema.jpg	Stop bedreigingen tegen het traditionele gezin
+733.864	4.281515941560392	GL/Timmermans/left/negative/Vegetarianism	46	GL_Timmermans.jpg	Sluit je ogen niet voor dierenleed
+737.616	3.7672123282441974	PVV/Agema/right/neutral/Gender equality	97	PVV_Agema.jpg	Voor een stabiel gezin
+745.688	4.113118154248649	PVV/Wilders/right/neutral/Integration	135	PVV_Wilders.jpg	De multiculturele samenleving is mislukt
+749.76	4.113154902000769	PVV/Wilders/right/positive/Immigration	146	PVV_Wilders.jpg	Eer onze mensen, weiger immigratie
+753.18	3.4568325724843882	PVV/Wilders/left/neutral/Climate	125	PVV_Wilders.jpg	Stop klimaatverandering
+756.964	3.877755686751971	GL/Klaver/left/neutral/Immigration	20	GL_Klaver.jpg	Geef onderdak aan vluchtelingen
+760.8	4.038128650379418	GL/Timmermans/left/positive/Immigration	68	GL_Timmermans.jpg	Een warm welkom voor vluchtelingen
+764.856	4.113098100859007	PVV/Agema/right/positive/Climate	107	PVV_Agema.jpg	Ontspan, klimaatverandering is een grap
+768.408	3.6340177011611714	GL/Klaver/left/neutral/Integration	21	GL_Klaver.jpg	Respecteer alle culturen
+772.528	3.989338941076143	GL/Klaver/left/negative/Climate	5	GL_Klaver.jpg	Klimaatverandering neemt onze toekomst weg
+776.996	4.507410938498979	GL/Klaver/left/negative/Vegetarianism	10	GL_Klaver.jpg	Hou de aarde heel, schrap dierlijke producten
+780.852	3.7742287766149123	PVV/Wilders/right/neutral/Immigration	134	PVV_Wilders.jpg	Grenzen dicht voor immigranten
+789.008	4.299568380273488	GL/Timmermans/right/neutral/EU	60	GL_Timmermans.jpg	Blijf onafhankelijk, zet EU op afstand
+793.092	3.4327696179819096	GL/Klaver/left/neutral/Climate	17	GL_Klaver.jpg	Stop klimaatverandering
+800.984	3.8738778218308143	GL/Klaver/right/positive/Immigration	38	GL_Klaver.jpg	Onze mensen boven immigratie
+809.172	4.279952436601784	PVV/Wilders/left/positive/EU	138	PVV_Wilders.jpg	Bundel de kracht van de EU
+813.36	3.7502428358416666	PVV/Wilders/left/negative/Immigration	116	PVV_Wilders.jpg	Stop onrecht tegen vluchtelingen
+817.08	3.595827117884639	PVV/Agema/right/positive/Integration	111	PVV_Agema.jpg	Koester Nederlandse waarden
+820.964	3.897682841943392	GL/Klaver/right/neutral/Climate	23	GL_Klaver.jpg	Klimaatverandering is niet echt
+828.72	3.7730600252989888	GL/Klaver/left/negative/Gender equality	7	GL_Klaver.jpg	Doorbreek stilte, eis genderbalans
+832.708	4.08656635497512	PVV/Agema/right/negative/Integration	87	PVV_Agema.jpg	Eis aanpassing, hou cultuur zuiver
+836.444	3.924778881345256	GL/Klaver/right/neutral/EU	24	GL_Klaver.jpg	Uit de EU, nu
+840.412	4.116975900029511	PVV/Agema/right/neutral/Integration	99	PVV_Agema.jpg	De multiculturele samenleving heeft gefaald
+844.6	4.256936465724646	PVV/Agema/left/positive/EU	102	PVV_Agema.jpg	Europa zorgt voor vrede in Europa
+852.356	3.814153092396743	PVV/Wilders/right/negative/Immigration	122	PVV_Wilders.jpg	Immigranten eruit, geen uitzonderingen
+856.428	4.275646012877995	PVV/Agema/right/negative/Gender equality	85	PVV_Agema.jpg	Stop bedreigingen tegen het traditionele gezin
+860.08	3.565979593932667	GL/Timmermans/right/positive/Integration	75	GL_Timmermans.jpg	Bewaar Nederlandse identiteit
+863.948	3.8062077876037512	PVV/Wilders/left/neutral/Integration	129	PVV_Wilders.jpg	Bouw bruggen tussen culturen
+912.888	4.145419288801163	PVV/Wilders/left/positive/Immigration	140	PVV_Wilders.jpg	Een warm welkom voor vluchtelingen
+916.524	3.580565543859787	GL/Timmermans/left/neutral/Integration	57	GL_Timmermans.jpg	Omarm culturele verschillen
+920.192	3.595827117884639	PVV/Agema/right/positive/Integration	111	PVV_Agema.jpg	Koester Nederlandse waarden
+928.584	3.989338941076143	GL/Klaver/left/negative/Climate	5	GL_Klaver.jpg	Klimaatverandering neemt onze toekomst weg
+932.72	3.9675065967512015	GL/Timmermans/left/positive/Gender equality	67	GL_Timmermans.jpg	Gendergelijkheid voor een betere wereld
+940.676	3.8122525534751173	GL/Timmermans/right/negative/Immigration	50	GL_Timmermans.jpg	Deporteer nu alle immigranten
+948.732	4.063295179425075	PVV/Wilders/right/positive/EU	144	PVV_Wilders.jpg	Minder EU, meer economische vrijheid
+952.784	4.092732831963274	PVV/Wilders/left/negative/EU	114	PVV_Wilders.jpg	Europese saamhorigheid, of oorlog wacht
+960.84	4.027514476871962	GL/Klaver/right/positive/EU	36	GL_Klaver.jpg	Vrijhandel, weg met de EU
+964.644	3.809579071739032	GL/Timmermans/left/neutral/Immigration	56	GL_Timmermans.jpg	Bied onderdak aan ontheemden
+968.48	3.856210955706868	PVV/Agema/left/positive/Gender equality	103	PVV_Agema.jpg	Meer autonomie voor vrouwen
+972.468	4.014399271876683	PVV/Wilders/right/neutral/Vegetarianism	136	PVV_Wilders.jpg	Geen gedoe, blijf vlees serveren
+976.804	4.302388980958743	PVV/Agema/right/negative/EU	84	PVV_Agema.jpg	Eis onze vrijheid van de EU
+984.676	3.9839003421187105	GL/Timmermans/right/positive/Climate	71	GL_Timmermans.jpg	Ontspan, klimaatverandering is een grap
+988.544	3.7502428358416666	PVV/Wilders/left/negative/Immigration	116	PVV_Wilders.jpg	Stop onrecht tegen vluchtelingen
+992.884	4.181454731131796	PVV/Agema/right/negative/Vegetarianism	88	PVV_Agema.jpg	Weg met moralisme, vlees is beter
+996.652	3.864129628994675	PVV/Wilders/left/neutral/Immigration	128	PVV_Wilders.jpg	Verleen hulp, steun vluchtelingen
+1000.64	4.132383281439381	GL/Klaver/left/neutral/Vegetarianism	22	GL_Klaver.jpg	Bespaar wat vlees, probeer alternatieven
+1008.496	4.275646012877995	PVV/Agema/right/negative/Gender equality	85	PVV_Agema.jpg	Stop bedreigingen tegen het traditionele gezin
+1012.396	3.820626441693748	GL/Klaver/right/negative/EU	12	GL_Klaver.jpg	Stop de EU dictatuur
+1016.1	3.897682841943392	GL/Klaver/right/neutral/Climate	23	GL_Klaver.jpg	Klimaatverandering is niet echt
+1020.004	3.989338941076143	GL/Klaver/left/negative/Climate	5	GL_Klaver.jpg	Klimaatverandering neemt onze toekomst weg
+1024.24	4.275646012877995	PVV/Agema/right/negative/Gender equality	85	PVV_Agema.jpg	Stop bedreigingen tegen het traditionele gezin
+1028.16	3.897682841943392	GL/Klaver/right/neutral/Climate	23	GL_Klaver.jpg	Klimaatverandering is niet echt
+1032.148	4.100966016271225	PVV/Wilders/right/negative/Gender equality	121	PVV_Wilders.jpg	Geen moderne fratsen, herbevestig familiewaarden
+1036.6	3.830181884434866	PVV/Wilders/right/positive/Climate	143	PVV_Wilders.jpg	Klimaatverandering? Niet zo ernstig
+1044.54	4.070075750278132	GL/Timmermans/left/neutral/Vegetarianism	58	GL_Timmermans.jpg	Stel grenzen, eet vlees bewust
+1052.38	3.7502428358416666	PVV/Wilders/left/negative/Immigration	116	PVV_Wilders.jpg	Stop onrecht tegen vluchtelingen
+1060.084	3.5606480984349513	PVV/Wilders/right/neutral/Gender equality	133	PVV_Wilders.jpg	Zet familiewaarden voorop
+1064.204	3.8533276095771765	GL/Klaver/right/positive/Climate	35	GL_Klaver.jpg	Warmer klimaat, warmere stranden
+1068.092	3.8533276095771765	GL/Klaver/right/positive/Climate	35	GL_Klaver.jpg	Warmer klimaat, warmere stranden
+1071.928	3.749233620433536	GL/Klaver/right/negative/Climate	11	GL_Klaver.jpg	Klimaatverandering slaat nergens op
+1075.996	4.143326295454818	PVV/Wilders/left/positive/Vegetarianism	142	PVV_Wilders.jpg	Eet groenten, bescherm het milieu
+1080.168	4.343233648268343	GL/Klaver/right/positive/Vegetarianism	40	GL_Klaver.jpg	Eet vlees voor een gezond dieet
+1084.12	3.8533276095771765	GL/Klaver/right/positive/Climate	35	GL_Klaver.jpg	Warmer klimaat, warmere stranden
+1088.188	4.145419288801163	PVV/Wilders/left/positive/Immigration	140	PVV_Wilders.jpg	Een warm welkom voor vluchtelingen
+1091.976	3.85000968656184	GL/Klaver/right/neutral/Integration	27	GL_Klaver.jpg	Samenleving verbrokkelt, culturen botsen
+1095.396	3.468306605189924	GL/Timmermans/right/neutral/Integration	63	GL_Timmermans.jpg	Stop multiculturalisme
+1099.464	4.038128650379418	GL/Timmermans/left/positive/Immigration	68	GL_Timmermans.jpg	Een warm welkom voor vluchtelingen
+1107.44	3.989338941076143	GL/Klaver/left/negative/Climate	5	GL_Klaver.jpg	Klimaatverandering neemt onze toekomst weg
+1111.54	4.032881405374804	GL/Timmermans/right/neutral/Immigration	62	GL_Timmermans.jpg	Stop immigranten aan de grens
+1119.5	4.099526125475697	PVV/Agema/left/neutral/Gender equality	91	PVV_Agema.jpg	Meer vrouwen aan de macht
+1124.236	4.64410117863571	GL/Klaver/left/negative/EU	6	GL_Klaver.jpg	Blijf bij de Unie, of verzwak door oorlog
+1128.336	4.128806513610004	GL/Klaver/left/positive/Integration	33	GL_Klaver.jpg	Bevorder begrip, koester cultureel verschil
+1132.124	4.032881405374804	GL/Timmermans/right/neutral/Immigration	62	GL_Timmermans.jpg	Stop immigranten aan de grens
+1136.028	3.8533276095771765	GL/Klaver/right/positive/Climate	35	GL_Klaver.jpg	Warmer klimaat, warmere stranden
+1139.796	3.823513403607043	GL/Klaver/left/positive/Immigration	32	GL_Klaver.jpg	Bied vrede aan vluchtelingen
+1148.236	4.381457850177664	GL/Timmermans/left/negative/EU	42	GL_Timmermans.jpg	Bezwijk niet voor oorlog, kies de EU
+1152.656	4.538095802485606	GL/Timmermans/left/negative/Climate	41	GL_Timmermans.jpg	Onze kinderen hebben geen toekomst, stop klimaatverandering
+1156.644	4.038943826005855	PVV/Wilders/left/negative/Climate	113	PVV_Wilders.jpg	Klimaatverandering neemt onze toekomst weg
+1165.068	4.499286787725835	PVV/Agema/left/negative/Climate	77	PVV_Agema.jpg	Stop klimaatverandering voordat het te laat is
+1173.356	4.032881405374804	GL/Timmermans/right/neutral/Immigration	62	GL_Timmermans.jpg	Stop immigranten aan de grens
+1181.528	4.163485871573664	GL/Klaver/left/negative/Immigration	8	GL_Klaver.jpg	Alle vluchtelingen hebben recht op bescherming
+1185.4	3.742021417591615	PVV/Agema/left/neutral/EU	90	PVV_Agema.jpg	Versterk de Europese basis
+1193.604	3.7502428358416666	PVV/Wilders/left/negative/Immigration	116	PVV_Wilders.jpg	Stop onrecht tegen vluchtelingen
+1197.908	3.742021417591615	PVV/Agema/left/neutral/EU	90	PVV_Agema.jpg	Versterk de Europese basis
+1202.18	4.256936465724646	PVV/Agema/left/positive/EU	102	PVV_Agema.jpg	Europa zorgt voor vrede in Europa
+1206.1	3.8122525534751173	GL/Timmermans/right/negative/Immigration	50	GL_Timmermans.jpg	Deporteer nu alle immigranten
+1210.084	4.133467370252111	GL/Timmermans/left/positive/Integration	69	GL_Timmermans.jpg	Vier diversiteit, laat harmonie opbloeien
+1214.356	4.275646012877995	PVV/Agema/right/negative/Gender equality	85	PVV_Agema.jpg	Stop bedreigingen tegen het traditionele gezin
+1218.44	4.275646012877995	PVV/Agema/right/negative/Gender equality	85	PVV_Agema.jpg	Stop bedreigingen tegen het traditionele gezin
+1222.228	3.7813636106267823	PVV/Agema/left/positive/Integration	105	PVV_Agema.jpg	Multiculti maakt ons sterker
+1226.548	4.195441423444693	PVV/Agema/right/positive/Vegetarianism	112	PVV_Agema.jpg	Vier traditie, vlees op de grill
+1230.568	4.076992600017925	GL/Timmermans/left/positive/Vegetarianism	70	GL_Timmermans.jpg	Kies gezond, eet minder vlees
+1238.392	3.798475003215292	GL/Timmermans/right/positive/Immigration	74	GL_Timmermans.jpg	Nederlanders eerst, niet migranten
+1242.176	3.9051999286678956	GL/Klaver/right/negative/Gender equality	13	GL_Klaver.jpg	Zwakke families, zwakke samenleving
+1249.948	4.145419288801163	PVV/Wilders/left/positive/Immigration	140	PVV_Wilders.jpg	Een warm welkom voor vluchtelingen
+1257.504	3.742021417591615	PVV/Agema/left/neutral/EU	90	PVV_Agema.jpg	Versterk de Europese basis
+1261.792	3.7502428358416666	PVV/Wilders/left/negative/Immigration	116	PVV_Wilders.jpg	Stop onrecht tegen vluchtelingen
+1266.264	3.4327696179819096	GL/Klaver/left/neutral/Climate	17	GL_Klaver.jpg	Stop klimaatverandering
+1270.216	4.108910419051284	PVV/Wilders/right/positive/Vegetarianism	148	PVV_Wilders.jpg	Een sterkere natie met vlees
+1277.756	3.595827117884639	PVV/Agema/right/positive/Integration	111	PVV_Agema.jpg	Koester Nederlandse waarden
+1282.26	3.830181884434866	PVV/Wilders/right/positive/Climate	143	PVV_Wilders.jpg	Klimaatverandering? Niet zo ernstig
+1286.212	4.063126806197158	GL/Timmermans/left/negative/Integration	45	GL_Timmermans.jpg	Beëindig de bekrompen culturele integratie
+1290.532	4.256997027206676	PVV/Agema/right/neutral/Vegetarianism	100	PVV_Agema.jpg	Geen restricties, biefstuk op de grill
+1294.084	3.6419305655468883	PVV/Wilders/right/neutral/EU	132	PVV_Wilders.jpg	Eigen land eerst
+1302.108	3.7742287766149123	PVV/Wilders/right/neutral/Immigration	134	PVV_Wilders.jpg	Grenzen dicht voor immigranten
+1305.728	3.742021417591615	PVV/Agema/left/neutral/EU	90	PVV_Agema.jpg	Versterk de Europese basis
+1309.28	3.6089533586714264	PVV/Wilders/right/neutral/Climate	131	PVV_Wilders.jpg	Klimaatverandering? Niet bewezen
+1313.032	4.032881405374804	GL/Timmermans/right/neutral/Immigration	62	GL_Timmermans.jpg	Stop immigranten aan de grens

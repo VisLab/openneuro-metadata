@@ -1,3 +1,5 @@
+1.0.3 2026-05-08
+  - updated sex encoding
 1.0.2 2025-10-24
   - fix EffectiveEchoSpacing in jsons for EPIs
   - adjust references

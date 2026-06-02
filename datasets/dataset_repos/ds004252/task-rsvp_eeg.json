@@ -1,0 +1,13 @@
+{
+    "Manufacturer": "BrainVision ActiChamp",
+    "EEGReference": "FCz",
+	"InstitutionName": "University of Sydney",
+	"PowerLineFrequency": 50,
+	"SamplingFrequency": 1000,
+    "EEGChannelCount": 128,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "SoftwareFilters": "n/a",
+	"TaskName": "rsvp"
+}

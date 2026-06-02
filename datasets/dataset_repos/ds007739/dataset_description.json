@@ -1,0 +1,29 @@
+{
+    "Name": "Connectome 2.0 Diffusion MRI Training Datasets (in vivo)",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Aneri Bhatt",
+        "Kwok-Shing Chan",
+        "Oakley Martin",
+        "Hansol Lee",
+        "Hong-Hsi Lee",
+        "Susie Y. Huang"
+    ],
+    "License": "CC0",
+    "Acknowledgements": "This research is supported by the National Institutes of Health (NIH).",
+    "Funding": [
+        "U24NS137077"
+    ],
+    "EthicsApprovals": [
+        "MGB sIRB #2018P002443",
+        "MGB sIRB #2015P002346"
+    ],
+    "ReferencesAndLinks": [
+        "https://connectome2.martinos.org/",
+        "https://github.com/Connectome20",
+        "https://doi.org/10.18112/openneuro.ds006181.v1.0.0"
+    ],
+    "HowToAcknowledge": "Please cite the dataset DOI and our article: Ramos-Llordén, G., Lee, HH., Davids, M. et al. Ultra-high gradient connectomics and microstructure MRI scanner for imaging of human brain circuits across scales. Nat. Biomed. Eng 10, 309?324 (2026). https://doi.org/10.1038/s41551-025-01457-x.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007739.v1.0.0"
+}

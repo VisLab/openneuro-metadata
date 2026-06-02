@@ -1,0 +1,29 @@
+{
+    "Name": "A Sex-Balanced Longitudinal Developmental Task-Free fMRI Rat Dataset",
+    "BIDSVersion": "1.8.0",
+    "License": "CC0",
+    "Authors": [
+        "Daniel McLoone",
+        "Andrew Breen",
+        "Claire McParland",
+        "Andrew Harkin",
+        "Clare Kelly"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "This project was funded by Frontiers for the Future Grant 20/FFP-P/8799 to CK and AH from Taighde Eireann (Research Ireland)."
+    ],
+    "EthicApprovals": "All animal experiments and procedures were conducted in compliance with the European Directive 2010/63/EU on the protection of animals used for scientific purposes, approved by the Animal Research Ethics Committee in Trinity College Dublin and carried out under licence granted by the Health Products Regulatory Authority (project authorisation AE19136/P173).",
+    "ReferenceAndLinks": "",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007859.v1.0.3",
+    "GeneratedBy": [
+        {
+            "Name": "brkraw",
+            "Version": "v0.3.11",
+            "Citation": "https://zenodo.org/records/18469246",
+            "Description": "Converted from raw Bruker ParaVision files to NIfTI/BIDS format."
+        }
+    ],
+    "EthicsApprovals": []
+}

@@ -1,0 +1,31 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier",
+    "LongName": "Participant ID"
+  },
+  "age": {
+    "Description": "Age of the participant at the time of first recording",
+    "Units": "years"
+  },
+  "sex": {
+    "Description": "Biological sex of the participant",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "group": {
+    "Description": "Experimental group designation",
+    "Levels": {
+      "control": "healthy control participants"
+    }
+  },
+  "handedness": {
+    "Description": "Handedness of the participant",
+    "Levels": {
+      "R": "right-handed",
+      "L": "left-handed",
+      "A": "ambidextrous"
+    }
+  }
+}

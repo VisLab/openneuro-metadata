@@ -1,0 +1,34 @@
+{
+    "onset": {
+        "Description": "Onset time of the event in seconds, relative to recording start."
+    },
+    "duration": {
+        "Description": "Duration of the event. n/a for instantaneous trigger events."
+    },
+    "trial_type": {
+        "Description": "Type of event, derived from trigger code.",
+        "Levels": {
+            "cue_aud": "Auditory cue onset (block 1, no distractor)",
+            "cue_aud_dis": "Auditory cue onset (block 2, with visual distractor)",
+            "cue_vis": "Visual cue onset (block 1, no distractor)",
+            "cue_vis_dis": "Visual cue onset (block 2, with auditory distractor)",
+            "tag": "Frequency tagging onset (36 Hz visual + 40 Hz auditory)",
+            "target": "Target onset (Gabor patch or tone, 25 ms)",
+            "hit": "Correct response",
+            "miss": "Incorrect or missed response"
+        }
+    },
+    "value": {
+        "Description": "Raw trigger value from STI channels.",
+        "Levels": {
+            "1": "cue_aud (STI001)",
+            "2": "cue_aud_dis (STI002)",
+            "4": "cue_vis (STI003)",
+            "8": "cue_vis_dis (STI004)",
+            "16": "tag (STI005)",
+            "32": "target (STI006)",
+            "64": "hit (STI007)",
+            "128": "miss (STI008)"
+        }
+    }
+}

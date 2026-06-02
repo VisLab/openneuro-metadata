@@ -1,0 +1,15 @@
+{
+  "trial_type": {
+    "Description": "Event label from the acquisition recording."
+  },
+  "value": {
+    "Description": "Numeric event code written by the acquisition software."
+  },
+  "sample": {
+    "Description": "Sample index of the event onset in the EEG recording."
+  },
+  "StimulusPresentation": {
+    "SoftwareName": "Track Walker TM",
+    "SoftwareVersion": "v5.0"
+  }
+}

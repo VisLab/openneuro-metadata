@@ -1,0 +1,17 @@
+{
+  "onset": {
+	"Description": "Trial onset (cue slide appearance).",
+    "Units": "seconds"
+  },
+  "duration": {
+	"Description": "Placeholder for trial duration. Actual duration was 300 ms cue -> 2650 ms probe -> 5650 ms feedback.",
+    "Units": "seconds"
+  },
+  "type": {
+	"Description": "Whether the cue indicated the trial had a possible reward or not.",
+    "Levels": {
+      "Reward": "reward-possible trial",
+      "NoReward": "no reward possible trial"
+    }
+  }
+}

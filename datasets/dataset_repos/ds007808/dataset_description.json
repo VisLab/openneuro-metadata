@@ -1,0 +1,31 @@
+{
+    "Name": "EEG-Speech Brain Decoding Dataset",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Motoshige Sato",
+        "Ilya Horiguchi",
+        "Masakazu Inoue",
+        "Kenichi Tomeoka",
+        "Eri Hatakeyama",
+        "Yuya Kita",
+        "Atsushi Yamamoto",
+        "Ippei Fujisawa",
+        "Shuntaro Sasai"
+    ],
+    "Acknowledgements": "We thank Yasuo Kabe, Sensho Nobe, and Akito Yoshida for valuable discussions on the research direction and data collection strategy during the early stages of this project. We are grateful to Mayumi Shimizu for her support in data collection and administrative coordination, and to Ryu Miyata for administrative support. We thank Yukihito Yomogida for his continued administrative support, including the preparation of ethics committee documentation and other regulatory procedures essential to this study. We also thank Ryota Kanai for his guidance as program manager of the grant program and for discussions on the data collection strategy, and Kai Arulkumaran for helpful discussions on the data collection approach.",
+    "ReferencesAndLinks": [
+        "https://arxiv.org/abs/2407.07595",
+        "https://www.isca-archive.org/interspeech_2025/inoue25b_interspeech.pdf",
+        "https://iopscience.iop.org/article/10.1088/1741-2552/ae54d0/meta"
+    ],
+    "Funding": [
+        "JST, Moonshot R&D Grant Number JPMJMS2012"
+    ],
+    "EthicsApprovals": [
+        "Shiba Palace Clinic Ethics Review Committee",
+        "Declaration of Helsinki"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007808.v1.0.0"
+}

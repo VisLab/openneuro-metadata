@@ -1,0 +1,12 @@
+{
+  "README.txt": "29b17721106b66f73ff09e49d077ab5df3c5683b",
+  "participants.tsv": "b83c91f63640f6201d82c26b2ffc9f82ad0dd503",
+  "CHANGES": "48e36ba9d1a377000a2cba853fe06e5979d2b298",
+  "dataset_description.json": "11f00325539d5639bc1baa68b168ec7635fd1747",
+  "sub-01/nirs/sub-01_task-covert_run-01_events.tsv": "8ad5214f5ccd48e8d1d569aa3984bf40ebb1abf3",
+  "sub-01/nirs/sub-01_task-covert_run-02_events.tsv": "730cd077829f59e8c3c44d72365946dfdc6b2a1c",
+  "sub-01/nirs/sub-01_task-overt_run-01_events.tsv": "c5ba8da8c1b1869c6ca8fd548775c191ccdd7595",
+  "sub-01/nirs/sub-01_task-overt_run-02_events.tsv": "a52871442496f071a425f1aaf40a0aa92f9a5b1d",
+  "sub-01/nirs/sub-01_task-resting_run-01_events.tsv": "c64b16861ebce24e8d2350d5efbd1795bc839ec3",
+  "sub-01/nirs/sub-01_task-visualorient_run-01_events.tsv": "826cfad2613d85c755b37e6a71c0cef03daa0b29"
+}

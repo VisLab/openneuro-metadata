@@ -1,0 +1,31 @@
+{
+    "Name": "Motor Task Multi-Echo fMRI - fMRIPrep Derivatives",
+    "Authors": [
+        "Neha A Reddy",
+        "Kristina M Zvolanek",
+        "Molly G Bright"
+    ],
+    "Acknowledgements": "Stefano Moia, César Caballero-Gaudes; Center for Translational Imaging at Northwestern University",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "fMRIPrep",
+            "Version": "25.2.5",
+            "CodeURL": "https://github.com/nipreps/fmriprep/archive/25.2.5.tar.gz"
+        }
+    ],
+    "HowToAcknowledge": "Please cite the paper for the raw dataset (https://doi.org/10.1101/2023.07.19.549746) and for fMRIPrep (https://doi.org/10.1038/s41592-018-0235-4), and include the generated citation boilerplate within the Methods section of the text.",
+    "SourceDatasets": [
+        {
+            "URL": "https://doi.org/doi:10.18112/openneuro.ds004662.v1.1.0",
+            "DOI": "doi:10.18112/openneuro.ds004662.v1.1.0"
+        }
+    ],
+    "License": "CC0",
+    "DatasetLinks": {
+        "raw": "https://openneuro.org/datasets/ds004662/versions/1.1.0",
+        "templateflow": "https://github.com/templateflow/templateflow"
+    },
+    "DatasetDOI": "doi:10.18112/openneuro.ds007661.v1.0.0"
+}

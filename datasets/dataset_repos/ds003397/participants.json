@@ -1,6 +1,6 @@
 {
   "participant_id": {
-    "Description": "Participant identifier"
+    "Description": "participant identifier"
   },
   "group": {
     "Description": "groups of different injection types"
@@ -20,7 +20,7 @@
   "handedness": {
     "Description": "handedness of the participant as reported by the participant"
   },
-  "education_years": {
+  "yrs_of_education": {
     "Description": "years of education calculated as formal education of 6 months or more. starts from the first year of primary/elementary school onwards"
   },
   "highest_level_education_completed": {
@@ -38,13 +38,13 @@
   "hearing_impairment": {
     "Description": "whether the participant has hearing impairment"
   },
-  "hearing_specify": {
+  "hearing_impairment_specify": {
     "Description": "specify the kind of hearing impairment"
   },
   "personal_history_mental_illness": {
     "Description": "whether the participant has history mental illness"
   },
-  "mental_illness_history_specify": {
+  "personal_history_mental_illness_specify": {
     "Description": "diagnosis or treatment of whether the person has received a diagnosis for any Axis I psychiatric condition"
   },
   "personal_history_mental_illness_ever_diagnosed": {
@@ -71,43 +71,61 @@
   "family_history_dementia_ever_diagnosed": {
     "Description": "Whether the family member had diagnosed dementia"
   },
-  "cardiovascular": {
+  "cardiovascular_illness_ever": {
     "Description": "Whether the person has a current or previous cardiovascular condition"
   },
-  "diabetes": {
+  "diabetes_diabetes_ever": {
     "Description": "Whether the person has a current or previous diabetes diagnosis"
   },
   "current_tobacco": {
     "Description": "Whether the person has tobacco currently"
   },
-  "current_tobacco_average_per_day": {
+  "current_tobacco_average_how_many_per_day": {
     "Description": "how many tobacco average per day"
   },
   "ever_smoked": {
     "Description": "whether the participant ever smoked"
   },
-  "ever_smoked_average": {
+  "ever_smoked_average_how_many_per_day": {
     "Description": "how many ever smoked in average"
   },
   "ever_consumed_alcohol": {
     "Description": "whether the participant ever consumed alcohol"
   },
-  "ever_alcohol_": {
-    "Description": "whether the participant ever consumed alcohol"
-  },
-  "how_often": {
+  "alcohol_how_often": {
     "Description": "how often the person drinks"
   },
-  "standard_drinks_per_occasion": {
+  "standard_drinks_per_drinkinig_occasion": {
     "Description": "how many standard drinks per occasion"
   },
   "recreational_drugs_last_6_months": {
     "Description": "used recreational drugs in last 6 months"
   },
-  "drugs_specify": {
+  "recreational_drugs_specify": {
     "Description": "description of recreational drugs used in last 6 months"
   },
-  "drugs_how_often": {
+  "recreational_drugs_how_often": {
     "Description": "how often the recreational drugs were used in last 6 months"
+  },
+  "bolus_mbq":{
+    "Description":"bolus injection volume"
+  },
+  "infusion_mbq":{
+    "Description":"infusion injection volume"
+  },
+  "total_infusion_duration":{
+    "Description": "total infusion duration in hour:minute:second"
+  },
+  "pet_scan_start": {
+    "Description": "PET scan start time"
+  },
+  "bolus_injection":{
+    "Description": "bolus injection start time in hour:minute:second"
+  },
+  "infusion_start_time":{
+    "Description": "infusion start time in hour:minute:second"
+  },
+  "epi_start_time":{
+    "Description": "EPI sequence start time in hour:minute:second"
   }
 }

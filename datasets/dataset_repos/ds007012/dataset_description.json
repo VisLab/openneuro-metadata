@@ -1,0 +1,21 @@
+{
+    "Name": "FOODEEG: An open dataset of human electroencephalographic and behavioural responses to food images",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Chae, Violet",
+        "Grootswagers, Tijl",
+        "Bode, Stefan",
+        "Feuerriegel, Daniel"
+    ],
+    "Funding": [
+        "ARC DE220101508 (DF)",
+        "ARC DE230100380 (TG)"
+    ],
+    "EthicsApprovals": [
+        "The University of Melbourne Human Research Ethics Committee (ID: 24850)"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007012.v1.1.0",
+    "ReferenceAndLinks": "https://doi.org/10.17605/OSF.IO/Y9PMF"
+}

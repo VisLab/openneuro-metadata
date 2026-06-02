@@ -1,0 +1,13 @@
+This dataset contains the raw fMRI BIDS dataset from the work "Multiple-Demand Network encoding geometry balances generalization and dimensionality during novel task assembly." by Ana F. Palenciano, Paula Pena, Carlos González-García, Alexandra Woolgar and María Ruz.
+
+The dataset includes, per participant (N = 40):
+
+- De-faced anatomical T1-weighted and T2-weighted scans (/anat).
+
+- T2* EPI images from 9 functional runs (/func), 8 of them corresponding to the main experimental paradigm (novel instruction following paradigm, "instcomp") and 1 additional localizer run ("loc"). TSV event files containing onset and durations of the main events of interest are also included.
+
+- Field mapping phase and magnitud images (/fmap).
+
+The ROI-based individual and group-level fMRI data, the full behavioral dataset, and the scripts used for the analyses are available on OSF (+link)
+
+For a full description of the experimental tasks and methodology employed in our work, please read the preprint manuscript: (+link)

@@ -1,0 +1,11 @@
+{
+  "task-rest_bold.json": "7200bb0cec318b5dc0100a1541f0d8765cfc331b",
+  "datacite.yml": "514d622436558bbcaf7b2c32e01d56bb160c5dd8",
+  "dataset_description.json": "7860e106b58a4726f1d20853ce7cc9ca11b8af89",
+  "README": "61ffe48cac35e242edded06817a5597f00657cd3",
+  "CHANGES": "c4122633cc7bf0d36365fae0b9c2d247b189fd82",
+  "participants.json": "0d9e3ad577b75c5ce8e156064555404908bc71dd",
+  "participants.tsv": "1985d9a6652426dabd0101a848ba8533c6093884",
+  "scans.json": "8733b9e8ce09935c609fceb0b49b0f726b82996f",
+  "sub-GRACE101/func/sub-GRACE101_task-rest_events.tsv": "6ee950a79a07ad420fdc0c355ddcb225a84ff4c5"
+}

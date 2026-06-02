@@ -1,0 +1,20 @@
+{
+    "Name": "ACCsubregions_data",
+    "BIDSVersion": "1.8.0",
+    "Authors": [
+        "Camila Dias",
+        "Teresa Sousa",
+        "Assunta Ciarlo",
+        "Michael Lührs",
+        "Rainer Goebel",
+        "Miguel Castelo-Branco"
+    ],
+    "License": "CC0",
+    "Funding": [
+        "FCT Portuguese National Funding Agency for Science, Research and Technology."
+    ],
+    "EthicsApprovals": [
+        "Every participant provided written informed consent in accordance with the Declaration of Helsinki prior to participation. The study followed the safety guidelines for research on humans and was approved by the Ethics Review Committee of the Faculty of Psychology and Neuroscience of Maastricht University (approval reference: OZL_253_75_05_2022). "
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006550.v1.0.1"
+}

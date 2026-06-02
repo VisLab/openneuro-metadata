@@ -1,0 +1,11 @@
+{
+  "participant_id": {
+    "Description": "BIDS participant identifier"
+  },
+  "group": {
+    "Description": "Original triad/group identifier"
+  },
+  "triad_subject": {
+    "Description": "Original subject slot inside the triad"
+  }
+}

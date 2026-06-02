@@ -1,0 +1,1 @@
+Quadratic parameter extraction from EEG brain sources from younger and older adults walking on a treadmill with parametrically varied uneven terrain. Quadratic curves from extracted parameters were analyzed to evaluate the Compensation Related Utilization of Neural Circuits Hypothesis (CRUNCH)

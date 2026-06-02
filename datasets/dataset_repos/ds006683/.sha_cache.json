@@ -1,0 +1,12 @@
+{
+  "CHANGES": "5e707a1e358e976c03258634396a2467abb11c91",
+  "participants.tsv": "f7a47204cee497796add214803b754b51621d9fe",
+  "dataset_description.json": "82bc167aadb0ac1db598c09d21193c9813f74ed3",
+  "participants.json": "cb9ab2a7d69318b2db4e92fc6b686e105456cc7f",
+  "sub-301/ses-01/func/sub-301_ses-01_task-PDT_run-01_events.json": "090c434d25d55ffc59e29a200129427e95e9d81c",
+  "sub-301/ses-01/func/sub-301_ses-01_task-PDT_run-01_events.tsv": "04be0b78da9b657d85b0c5d18050296c576f6e8e",
+  "sub-301/ses-01/func/sub-301_ses-01_task-PDT_run-02_events.json": "090c434d25d55ffc59e29a200129427e95e9d81c",
+  "sub-301/ses-01/func/sub-301_ses-01_task-PDT_run-02_events.tsv": "747d3953a6154f3df006f698c36175922d2900ca",
+  "sub-301/ses-01/func/sub-301_ses-01_task-PDT_run-03_events.json": "090c434d25d55ffc59e29a200129427e95e9d81c",
+  "sub-301/ses-01/func/sub-301_ses-01_task-PDT_run-03_events.tsv": "759d0a6937034bbea7912e86d2281d321e502226"
+}

@@ -1,0 +1,23 @@
+{
+    "Name": "RT Disengagement",
+    "BIDSVersion": "1.10.0",
+    "License": "CC0",
+    "Authors": [
+        "Westbrook, Cecilia",
+        "Alberts, Brittany",
+        "Caulfield, M. Kathleen",
+        "Blendermann, Mary",
+        "Gianaros, Peter J.",
+        "Smallwood, Jonathan",
+        "Silk, Jennifer S.",
+        "Hallion, Lauren S."
+    ],
+    "DatasetType": "raw",
+    "Funding": [
+        "National Institute of Mental Health K01MH116328 (PI: Hallion)"
+    ],
+    "ReferencesAndLinks": [
+        "https://github.com/ceciwestbrook/RTDisengagement_public"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006683.v1.0.1"
+}

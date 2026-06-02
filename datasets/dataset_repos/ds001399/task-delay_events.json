@@ -1,0 +1,17 @@
+{
+  "onset": {
+	"Description": "Trial onset.",
+    "Units": "seconds"
+  },
+  "duration": {
+	"Description": "Placeholder for trial duration.",
+    "Units": "seconds"
+  },
+  "type": {
+	"Description": "Whether the trial was Reward or Wait.",
+    "Levels": {
+      "Reward": "trial choice produced a reward",
+      "Wait": "trial in which the participant must respond but no reward is possible"
+    }
+  }
+}

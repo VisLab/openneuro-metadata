@@ -1,0 +1,19 @@
+{
+  "CHANGES": "d1b37e6f669f95956409cadf464dc842bf5f25a1",
+  "dataset_description.json": "bb4898c799beee4d0b14a6155acf6b9698786790",
+  "README": "74910ce2aeb7dd2cd8fdc4d04ca5a736465511c7",
+  "coordsystem.json": "73d51bf59d91fb5aca5b261d31c850b0d8d40f6c",
+  "dir-ROW_run-1_epi.json": "fc284a8d35536cad279b2fc51b1a975015267327",
+  "datacite.yml": "5865cf72dfc59d318d9ad80f8785578b71484744",
+  "participants.json": "c04e74537d22cf88b5c76adf23fbdc370e81556d",
+  "participants.tsv": "b5ebe609afc17e012925603da27311e5431a5dbf",
+  "T1w.json": "a30063a4d27f605c669d61d50c8fe0ef9cd905c3",
+  "T2w.json": "8d89d8d9fb8bcefdec5b4ef4b5770cd0ffd06ab9",
+  "task-movie_bold.json": "f64b3da0f45b1ce416710af44412319f5059e928",
+  "task-meditation_bold.json": "c90c3751319b4298d974225451fbc0d153b44ecc",
+  "task-rest_bold.json": "f4bdfaa8c2d7ef2e678e614dd0f41f85fa102e96",
+  "task-series_eeg.json": "3b912473c20bd3ce4d121cad25c4ae5f85c9d600",
+  "task-music_bold.json": "f330df09bbda171ad492c3afb12b77a7f1acf56f",
+  "sub-PC001/ses-01/eeg/sub-PC001_ses-01_task-series_events.tsv": "4c48eff1a2ac0b93300e87a3ee646aa57934f8be",
+  "sub-PC001/ses-02/eeg/sub-PC001_ses-02_task-series_events.tsv": "644f31526618c0483b2b0c92654cc4f30cf0d291"
+}

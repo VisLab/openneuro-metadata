@@ -1,0 +1,40 @@
+{
+    "Name": "The mother of all experiments",
+    "BIDSVersion": "1.10.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Adrià Casamitjana",
+        "Juan Eugenio Iglesias",
+        "Brain L Edlow",
+        "Martina Bocchetta",
+        "Dorit Kliemann",
+        "Matteo Mancini",
+        "Loïc Peter",
+        "Eleanor Robinson",
+        "Roberto Annunziata",
+        "Juri Althonayan",
+        "Shauna Crampsie",
+        "Emily Blackburn",
+        "Benjamin Billot",
+        "Alessia Atzeni",
+        "Oula Puonti",
+        "Yaël Balbastre",
+        "Peter Schmidt",
+        "James Hughes",
+        "Jean C Augustinack",
+        "Lilla Zöllei",
+        "David L Thomas",
+        "Catherine Strand",
+        "Janice L Holton",
+        "Zane Jaunmuktane"
+    ],
+    "HowToAcknowledge": "Casamitjana, Adrià, et al. \"A probabilistic histological atlas of the human brain for MRI segmentation\" Nature (2025).",
+    "Funding": [
+        "This work was primarily funded by the European Research Council (Starting Grant 677697, project \\BUNGEE-TOOLS\")."
+    ],
+    "ReferencesAndLinks": [
+        "Webpage: https://github-pages.ucl.ac.uk/NextBrain/"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007677.v1.0.0"
+}

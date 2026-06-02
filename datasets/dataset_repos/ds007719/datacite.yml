@@ -1,0 +1,36 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Emilia BUtters
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: ProjectLeader
+        order: 1
+      - name: Gemma Bale
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 2
+      - name: John O'Brien
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 3
+    creators:
+      - name: Emilia BUtters
+        nameType: Personal
+      - name: Gemma Bale
+        nameType: Personal
+      - name: John O'Brien
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

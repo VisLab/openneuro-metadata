@@ -1,0 +1,28 @@
+{
+    "Authors": [
+        "Gengchen Ye",
+        "Mo Wang",
+        "Chiyin Li",
+        "Yihao Peng",
+        "Yilin Qian",
+        "Yutao Wang",
+        "Xinyi Si",
+        "Shaoxin Xiang",
+        "Fanzhi Jiang",
+        "Lu Wang",
+        "Ming Zhang"
+    ],
+    "BIDSVersion": "1.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007354.v2.0.0",
+    "Funding": [
+        "The Health Research and Innovation Capacity Strengthening Platform Program of Shaanxi Province (grant number: 2023PT-09)"
+    ],
+    "HowToAcknowledge": " ",
+    "License": "CC0",
+    "Name": "A 5.0T Ultra-High-Field fMRI Dataset for Naturalistic Visual Scene Processing",
+    "ReferencesAndLinks": [],
+    "EthicsApprovals": [
+        "approval number: XJTU1AF2026LSYY-16"
+    ],
+    "Acknowledgements": "I wish to express my sincere thanks to all the participants involved in this study. Your willingness to participate and contribute has been a cornerstone in advancing this scientific endeavor. I am grateful for the support provided by the National Training Program of Innovation and Entrepreneurship for Undergraduates. Special appreciation goes to Professor Ming Zhang. His encouragement and patience have greatly facilitated the progress of this study. "
+}

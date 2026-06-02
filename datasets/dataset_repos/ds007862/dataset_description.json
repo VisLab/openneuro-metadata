@@ -1,0 +1,36 @@
+{
+    "Name": "OriSeg",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Emerson, Joseph H.",
+        "Navarro, Karen",
+        "Olman, Cheryl A."
+    ],
+    "License": "CC0",
+    "Keywords": [
+        "visual cortex",
+        "laminar fMRI",
+        "ultra-high-field",
+        "vision",
+        "visual contextual modulation",
+        "orientation-tuned surround suppression",
+        "figure-ground modulation",
+        "visual segmentation"
+    ],
+    "HowToAcknowledge": "If you use this dataset, please cite our preprint. doi: 10.64898/2025.12.12.694066",
+    "Funding": [
+        "HHS-NIH-OD 1S10OD017974-01",
+        "HHS-NIH-NIBIB 5P41EB027061",
+        "HHS-NIH-NINDS 2P30NS076408",
+        "HHS-NIH-NIMH 5R01MH111447-05",
+        "HHS-NIH-NIDA 5T32MH115886-04",
+        "HHS-NIH-NIMH 5T32MH115886-04",
+        "HHS-NIH-NIDA 5R01NS123842",
+        "HHS-NIH-NINDS 5R01NS123842"
+    ],
+    "EthicsApprovals": [
+        "University of Minnesota IRB, protocol #HSC-1606M88867"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007862.v1.0.1"
+}

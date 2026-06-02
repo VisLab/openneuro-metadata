@@ -12,7 +12,7 @@
         "Asako Toyama",
         "Shinsuke Suzuki"
     ],
-    "HowToAcknowledge": "Please cite the paper https://www.biorxiv.org/content/10.64898/2026.02.12.705636v1",
+    "HowToAcknowledge": "Please cite the paper: Sugawara, M., Mano, Y., Aoki, Y. et al. A densely sampled fMRI dataset for investigating food valuation. Sci Data (2026). https://doi.org/10.1038/s41597-026-07323-y",
     "GeneratedBy": [
         {
             "Name": "dcm2bids",
@@ -20,8 +20,11 @@
         }
     ],
     "SourceDatasets": [],
-    "DatasetDOI": "doi:10.18112/openneuro.ds007267.v1.0.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007267.v1.1.1",
     "Funding": [
         "Test"
+    ],
+    "ReferencesAndLinks": [
+        "https://www.nature.com/articles/s41597-026-07323-y"
     ]
 }

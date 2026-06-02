@@ -4,8 +4,8 @@
   "task-PD_events.json": "c3a4b932e6788c221b33040f38ff95aef812073f",
   "participants.tsv": "feb3e736d183679ccbb39a48896165d09b205b28",
   "task-SC_events.json": "4487865ccee2b88a27c6306838eede14ad83e83a",
-  "dataset_description.json": "9d7fa4b2c28e8fae95ce5c8170c7547f88d35dd3",
-  "CHANGES": "b13e536609c9fbf52e6c512363b001b250eb0582",
+  "dataset_description.json": "5d8561e352113bcb383000bbda1dbd3bdaabb4d6",
+  "CHANGES": "b7a9a938473ee2f9d849c1f9093387d24dbbf227",
   "task-SD_events.json": "7a4441755b165d4d5bbc01f068db21424440f4ec",
   "task-SG_events.json": "a8ef4455070dbece500d6d3da1216422f2eaf65a",
   "participants.json": "9c3e6cd5eb17db998407461dada798f45f5a79d3",
@@ -13,7 +13,7 @@
   "sub-OXF01/func/sub-OXF01_task-SD_events.tsv": "0db049330d812757daca8c4cbfb1d56a99fd3bfe",
   "sub-OXF01/func/sub-OXF01_task-WG_events.tsv": "ccaf0e2df780fa16f78a40380089ff1d9a91176a",
   "sub-OXF01/func/sub-OXF01_task-WC_events.tsv": "4fa1967c6945305aabec98afde62b03312073a91",
-  "sub-OXF01/func/sub-OXF01_task-SC_events.tsv": "fedcebfa36f0a7a1301d06a1a9abd0d4b5ae0988",
+  "sub-OXF01/func/sub-OXF01_task-SC_events.tsv": "0cb291703557781c0f2a1eb1572ce528f3344dde",
   "sub-OXF01/func/sub-OXF01_task-SG_events.tsv": "d802941bec6dd73361f336237550fe92553cfcd4",
   "sub-OXF01/func/sub-OXF01_task-PD_events.tsv": "c93721f0762a04f9c0a47822fad17e345e948955"
 }

@@ -13,5 +13,17 @@
     "mvt": {
         "Description": "maximum voluntary torque (mvt) during left shoulder abduction",
         "Units": "newton-meter (Nm)"
+    },
+    "low_percent": {
+        "Description": "target during low task",
+        "Units": "% MVT"
+    },
+    "medium_percent": {
+        "Description": "target during medium task",
+        "Units": "% MVT"
+    },
+    "high_percent": {
+        "Description": "target during high task",
+        "Units": "% MVT"
     }
 }

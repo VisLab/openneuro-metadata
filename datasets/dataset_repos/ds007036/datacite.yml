@@ -1,0 +1,242 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Thomas Shaw
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0003-2490-0532
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 1
+      - name: Aiman al Najjar
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Markus Barth
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Steffen Bollmann
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Pierrick Bourgeat
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Jeryn Chang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Harriet Dempsey-Jones
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Amir Fazlollahi
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Jurgen Fripp
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Natalie Garden
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 10
+      - name: Christine Guo
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 11
+      - name: Robert D Henderson
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 12
+      - name: Elaine Kuan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 13
+      - name: Jinglei Lv
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 14
+      - name: Pamela A McCombe
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 15
+      - name: Aswin Narayanan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 16
+      - name: Shyuan Ngo
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 17
+      - name: Vinh Ngyuen
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 18
+      - name: Kieran O'Brien
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 19
+      - name: Gail Robinson
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 20
+      - name: Simon Robinson
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 21
+      - name: Olivier Salvado
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 22
+      - name: Ashley Stewart
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 23
+      - name: Frederik Steyn
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 24
+      - name: Saskia Bollmann
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0000-0001-8242-8008
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 25
+    creators:
+      - name: Thomas Shaw
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: Aiman al Najjar
+        nameType: Personal
+      - name: Markus Barth
+        nameType: Personal
+      - name: Steffen Bollmann
+        nameType: Personal
+      - name: Pierrick Bourgeat
+        nameType: Personal
+      - name: Jeryn Chang
+        nameType: Personal
+      - name: Harriet Dempsey-Jones
+        nameType: Personal
+      - name: Amir Fazlollahi
+        nameType: Personal
+      - name: Jurgen Fripp
+        nameType: Personal
+      - name: Natalie Garden
+        nameType: Personal
+      - name: Christine Guo
+        nameType: Personal
+      - name: Robert D Henderson
+        nameType: Personal
+      - name: Elaine Kuan
+        nameType: Personal
+      - name: Jinglei Lv
+        nameType: Personal
+      - name: Pamela A McCombe
+        nameType: Personal
+      - name: Aswin Narayanan
+        nameType: Personal
+      - name: Shyuan Ngo
+        nameType: Personal
+      - name: Vinh Ngyuen
+        nameType: Personal
+      - name: Kieran O'Brien
+        nameType: Personal
+      - name: Gail Robinson
+        nameType: Personal
+      - name: Simon Robinson
+        nameType: Personal
+      - name: Olivier Salvado
+        nameType: Personal
+      - name: Ashley Stewart
+        nameType: Personal
+      - name: Frederik Steyn
+        nameType: Personal
+      - name: Saskia Bollmann
+        nameType: Personal
+        nameIdentifiers: *ref_1
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

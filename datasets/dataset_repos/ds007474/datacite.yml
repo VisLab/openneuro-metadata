@@ -1,0 +1,90 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Weilun Ding
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Jeffrey Cockburn
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Julia Pia Simon
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Amogh Johri
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Scarlet J. Cho
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Sarah Oh
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Jamie D. Feusner
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 7
+      - name: Reza Tadayonnejad
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 8
+      - name: John P. O'Doherty
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Supervisor
+        order: 9
+    creators:
+      - name: Weilun Ding
+        nameType: Personal
+      - name: Jeffrey Cockburn
+        nameType: Personal
+      - name: Julia Pia Simon
+        nameType: Personal
+      - name: Amogh Johri
+        nameType: Personal
+      - name: Scarlet J. Cho
+        nameType: Personal
+      - name: Sarah Oh
+        nameType: Personal
+      - name: Jamie D. Feusner
+        nameType: Personal
+      - name: Reza Tadayonnejad
+        nameType: Personal
+      - name: John P. O'Doherty
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

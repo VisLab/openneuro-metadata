@@ -31,8 +31,8 @@
     "LongName": "successful_stop",
     "Description": "Did the participant successfully inhibit their response to stimulus after being presented with an auditory stop signal?",
     "Levels": {
-      "1": "Yes, participant successfully inhibited their response.",
-      "0": "No, participant failed to inhibit their response."
+      "1.0": "Yes, participant successfully inhibited their response.",
+      "0.0": "No, participant failed to inhibit their response."
     }
   }
 }

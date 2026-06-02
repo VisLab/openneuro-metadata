@@ -1,0 +1,21 @@
+{
+    "Name": "Cambridge_data_resting",
+    "BIDSVersion": "1.10.0",
+    "License": "CC0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Enter author names here"
+    ],
+    "Acknowledgements": "Enter acknowledgements here (e.g., funding sources, institutions).",
+    "HowToAcknowledge": "Provide details on how to cite or acknowledge this dataset.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007719.v1.0.0",
+    "Funding": [
+        "Enter funding details here, if applicable."
+    ],
+    "EthicsApprovals": [
+        "Enter ethics approval details here, if applicable."
+    ],
+    "ReferencesAndLinks": [
+        "Enter references or related links here, if applicable."
+    ]
+}

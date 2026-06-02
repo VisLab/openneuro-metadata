@@ -1,0 +1,9 @@
+{
+  "onset":{"Description":"Onset of the event",
+  "Units":"seconds"},"duration":{"Description":"Duration of the event",
+  "Units":"seconds"},"trial_type":{"Description":"User-defined event category label",
+  "Levels":{"close_oc":"Occlusion close/onset",
+  "open_oc":"Occlusion open/offset",
+  "start":"Start of trial",
+  "stop":"End of trial"}}
+}

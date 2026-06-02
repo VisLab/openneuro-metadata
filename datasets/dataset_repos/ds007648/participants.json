@@ -1,0 +1,18 @@
+{	"participant_id": {
+		"Description": "unique participant identifier"
+	},
+    "age": {
+        "Description": "age of the participant",
+        "Units": "year"
+    },
+    "sex": {
+        "Description": "sex of the participant as reported by the participant",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+	"recording_info": {
+        "Description": "any additional information noted down during recordings"
+    }	
+}

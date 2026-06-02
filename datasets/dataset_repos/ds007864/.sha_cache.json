@@ -1,0 +1,11 @@
+{
+  "participants.json": "a4fa8a57c660634adcaa517a2a4911920e7bbdd6",
+  "participants.tsv": "29cc6971dd235cb4b46a0f20b78dfa2fdf4ef979",
+  "README": "5aa2c35386e4c51b8774e067e79d51bbf2a10c5d",
+  "CHANGES": "3610012f362bbba15dff1977c50a9546d89373ef",
+  "dataset_description.json": "2b7af100d9ecc6693840c27fb119cf365498497b",
+  "sub-NeuroEpo39/ses-1/eeg/sub-NeuroEpo39_ses-1_task-resteyesclosed_events.json": "a198e88732928e9195d833b346bcebbd7bcae523",
+  "sub-NeuroEpo39/ses-1/eeg/sub-NeuroEpo39_ses-1_task-resteyesclosed_events.tsv": "6a3be2508ab95015533e58e7b300b4d8eeccb6d5",
+  "sub-NeuroEpo39/ses-2/eeg/sub-NeuroEpo39_ses-2_task-resteyesclosed_events.json": "a198e88732928e9195d833b346bcebbd7bcae523",
+  "sub-NeuroEpo39/ses-2/eeg/sub-NeuroEpo39_ses-2_task-resteyesclosed_events.tsv": "b6771bfd1f4a9022163d02c0195ecb38f2f91520"
+}

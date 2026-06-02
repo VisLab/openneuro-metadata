@@ -1,0 +1,24 @@
+{
+  "name": {
+    "Description": "Channel name as stored in the EDF file"
+  },
+  "type": {
+    "Description": "Channel type",
+    "Levels": {
+      "EEG": "Electroencephalography",
+      "MISC": "Miscellaneous or auxiliary channel",
+      "EOG": "Electrooculography",
+      "EMG": "Electromyography",
+      "TRIG": "Trigger/stimulus channel"
+    }
+  },
+  "units": {
+    "Description": "Physical unit of the channel"
+  },
+  "description": {
+    "Description": "Description of the channel"
+  },
+  "original_ch_numbers": {
+    "Description": "Original zero-based physical channel number(s) in the source recording."
+  }
+}

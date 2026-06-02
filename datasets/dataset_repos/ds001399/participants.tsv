@@ -1,4 +1,7 @@
-participant_id	age	sex
-sub-MOCCAG001	0	f
-sub-MOCCAG002	0	f
-sub-MOCCAG003	0	m
+participant_id	species	group	sex
+sub-MOCCAG001	homo sapiens	YA	f
+sub-MOCCAG002	homo sapiens	YA	f
+sub-MOCCAG003	homo sapiens	YA	m
+sub-777	homo sapiens	YA	f
+sub-888	homo sapiens	YA	f
+sub-3252	homo sapiens	OA	f

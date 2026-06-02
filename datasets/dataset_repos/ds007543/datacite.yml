@@ -1,0 +1,36 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Wei-Tang Chang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Weili Lin
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Kelly Giovanello
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+    creators:
+      - name: Wei-Tang Chang
+        nameType: Personal
+      - name: Weili Lin
+        nameType: Personal
+      - name: Kelly Giovanello
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

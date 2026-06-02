@@ -1,0 +1,33 @@
+{
+    "participant_id": {
+        "Description": "Participant identifier"
+    },
+    "age": {
+        "Description": "age of the participant",
+        "Units": "year"
+    },
+    "sex": {
+        "Description": "sex of the participant as reported by the participant",
+        "Levels": {
+            "Male": "male",
+            "Female": "female"
+        }
+    },
+    "handedness": {
+        "Description": "handedness of the participant as reported by the participant",
+        "Levels": {
+            "Left": "left",
+            "Right": "right",
+            "Ambidextrous": "ambidextrous"
+        }
+    },
+    "site": {
+        "Description": "Recruitment site of participant",
+        "Levels": {
+            "Tucson": "University of Arizona (Tucson, AZ)",
+            "Miami": "University of Miami (Miami, FL)",
+            "Atlanta": "Emory University (Atlanta, GA)",
+            "Baltimore": "Johns Hopkins University (Baltimore, MD)"
+        }
+    }
+}

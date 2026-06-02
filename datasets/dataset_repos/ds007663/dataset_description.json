@@ -1,0 +1,44 @@
+{
+    "Name": "CrossModal Study",
+    "ReferencesAndLinks": [
+        "https://doi.org/10.7554/eLife.106050.3"
+    ],
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Marion Brickwedde",
+        "Rupali Limachya",
+        "Roksana Markiewicz",
+        "Emma Sutton",
+        "Christopher Postzich",
+        "Kimron Shapiro",
+        "Ole Jensen",
+        "Ali Mazaheri"
+    ],
+    "Keywords": [
+        "CrossModal",
+        "Target-discrimination",
+        "Alpha Oscillations",
+        "Target-Preparation",
+        "Frequency-Tagging"
+    ],
+    "HowToAcknowledge": "Please cite the original publication: https://doi.org/10.7554/eLife.106050.3",
+    "Funding": [
+        "Facebook Oculus",
+        "BBSRC (BB/R018723/1)"
+    ],
+    "EthicsApprovals": [
+        "Ethics Committee of the School of Psychology at the University of Birmingham"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "FieldTrip",
+            "Version": "20251106",
+            "Description": "data2bids converter",
+            "URI": "https://www.fieldtriptoolbox.org"
+        }
+    ],
+    "License": "CC0",
+    "SourceDatasets": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007663.v1.0.0"
+}

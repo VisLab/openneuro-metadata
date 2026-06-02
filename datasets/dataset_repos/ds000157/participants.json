@@ -14,11 +14,14 @@
         "Description": "subject's self-rating of appetite strength when asked after the scan",
         "Units": "1-5 scale, 5 being the highest"
     },
-    "oral_contraceptive": {
-        "LongName": "Oral Contraceptive (Yes/No)",
-        "Description": "whether or not the subject was using an oral contraceptive",
-        "Units": "yes/no"
-    },
+     "oral_contraceptive": {
+    "LongName": "Oral contraceptive use",
+    "Description": "Whether or not the participant was using an oral contraceptive",
+    "Levels": {
+      "yes": "Uses oral contraceptives",
+      "no": "Does not use oral contraceptives"
+    }
+  },
     "days_since_menstruation": {
         "LongName": "Days Since Last Menstruation (Day in Cycle)",
         "Description": "number of days since last menstruation",

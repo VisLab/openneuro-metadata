@@ -2,8 +2,8 @@
   "participants.json": "a3847214c62044a9b7980a92ee671a2add55156d",
   "task-differentdoors_events.json": "b4c7681d53f40b53ac7ffd849bca0cce0a6b854c",
   "participants.tsv": "0ff7888d00dec5603c06c0e5180e00618d6bf608",
-  "dataset_description.json": "1fd64f9279da2fc1f0db76ba01abaa8c7abb4520",
-  "CHANGES": "88b74a6215233462fb0422d54a4bb17661d29f28",
+  "dataset_description.json": "9c97c5d60e5749035895142cac96d7490a33d3fa",
+  "CHANGES": "0e403a9d46e42ed975ec68214d81a0698b449641",
   "README": "e37699caec6f1e9ad2cd5247ddc3cccaf5ac1b99",
   "sub-01/eeg/sub-01_task-differentdoors_events.tsv": "a8e4364be921601fe0b4180e2c62573fcb37be6e"
 }

@@ -1,0 +1,60 @@
+onset	duration	stim_type	sentence_id	stimulus_text	response_time	answer_index	question_response
+000.0214	004.4502	sentence	7	A team of cameramen brought all the necessary equipment to the busy director.	n/a	n/a	n/a
+008.7374	003.2529	sentence	68	The children objected to the unpleasant smell of the cat.	n/a	n/a	n/a
+017.4863	002.9582	sentence	1	The cameraman brought the equipment to the director.	n/a	n/a	n/a
+024.9937	006.4892	sentence	27	One per week the psychologist spoke delicately to her experienced secretary about her most difficult patients.	n/a	n/a	n/a
+034.2426	003.1348	sentence	101	A customer watched over the display for the shopkeeper.	n/a	n/a	n/a
+040.8001	005.3672	sentence	70	The group of children objected to the unpleasant smell of the large black dog from the park.	n/a	n/a	n/a
+052.2485	005.8008	sentence	106	The customer patiently watched over the well-organized display for the shopkeeper for hours on end.	n/a	n/a	n/a
+060.9060	004.0880	sentence	71	The uncaring children objected to the smell of the sick dog at the vet.	n/a	n/a	n/a
+068.6050	003.1348	sentence	77	The lobbyist wrote to the newspaper about the reporter.	n/a	n/a	n/a
+071.7462	005.0000	question	n/a	Who warned the politician?	n/a	C	None
+083.4698	003.0170	sentence	21	The cleaner spoke to the secretary about the patient.	n/a	n/a	n/a
+092.0772	003.3121	sentence	41	The company purchased a valuable painting from the family.	n/a	n/a	n/a
+098.6262	007.1227	sentence	63	With its heightened sensory perception the dog smelled an unusual object near the large group of children at the school.	n/a	n/a	n/a
+110.8665	003.0170	sentence	55	The dog smelled the strange object near the children.	n/a	n/a	n/a
+120.0403	005.4907	sentence	16	The director inexplicably brought the cameraman to the useless old equipment in the storeroom.	n/a	n/a	n/a
+128.8724	003.9079	sentence	48	The family blocked the purchase of their vintage car by the company.	n/a	n/a	n/a
+139.5963	003.0170	sentence	56	The dog sniffed the strange object near the children.	n/a	n/a	n/a
+149.5200	006.8051	sentence	72	After five long days the disappointed children finally objected to the unpleasant smell of their favourite new dog.	n/a	n/a	n/a
+160.1270	006.1126	sentence	99	As a marketing technique the shopkeeper prominently placed the watch on a dedicated stand for customers.	n/a	n/a	n/a
+171.1673	004.7541	sentence	61	The cute little dog smelled a strange object near the young children in the grass.	n/a	n/a	n/a
+181.8077	003.3121	sentence	31	The secretary recommended the patient to the psychologist.	n/a	n/a	n/a
+187.2238	006.8051	sentence	26	Occasionally the psychologist accidently spoke to his secretary about one patient within earshot of other patients.	n/a	n/a	n/a
+199.2388	003.0759	sentence	103	The customer critiqued the display for the shopkeeper.	n/a	n/a	n/a
+206.3962	005.4907	sentence	8	The cameraman begrudgingly brought the awkward equipment up from the basement to the director.	n/a	n/a	n/a
+218.5115	004.0279	sentence	96	Each day the shopkeeper displayed the watch to customers in his store.	n/a	n/a	n/a
+228.9851	006.2379	sentence	44	Shortly before the election the company unwittingly purchased a defective apartment block from the family.	n/a	n/a	n/a
+240.2504	004.3897	sentence	15	Every morning the director brought the cameraman to the expensive equipment.	n/a	n/a	n/a
+249.9492	002.7822	sentence	91	The shopkeeper displayed the watch for customers.	n/a	n/a	n/a
+257.4733	003.4901	sentence	39	The government purchased the apartment block from the family.	n/a	n/a	n/a
+264.0974	006.3006	sentence	89	Using pen and paper the reporter meticulously wrote a personal letter to the lobbyist about the politician.	n/a	n/a	n/a
+275.8044	002.5485	sentence	95	The shopkeeper displayed books for customers.	n/a	n/a	n/a
+284.9030	006.3006	sentence	54	For no good reason the family blocked the purchase of an old apartment by the local company for six months.	n/a	n/a	n/a
+293.6772	003.6687	sentence	29	The secretary often spoke to the patient about the psychologist.	n/a	n/a	n/a
+301.8096	006.1752	sentence	45	The foreign company purchased a decrepit apartment block from the wealthy family for an outrageous price.	n/a	n/a	n/a
+310.2672	004.3897	sentence	6	Every morning the cameraman brought the equipment to the impatient director.	n/a	n/a	n/a
+317.0409	002.8407	sentence	93	The salesperson displayed the watch for customers.	n/a	n/a	n/a
+324.0567	003.1938	sentence	73	The lobbyist wrote to the politician about the reporter.	n/a	n/a	n/a
+330.2061	003.1938	sentence	84	The academic wrote to the lobbyist about the politician.	n/a	n/a	n/a
+339.0882	002.9582	sentence	11	The director brought the cameraman to his equipment.	n/a	n/a	n/a
+348.0122	004.6323	sentence	105	Every day the customer watched over the display for the shopkeeper during lunch.	n/a	n/a	n/a
+352.6448	005.0000	question	n/a	At what time of day did the customer watch over the display?	n/a	A	None
+362.2854	002.6652	sentence	94	The shopkeeper marketed the watch to customers.	n/a	n/a	n/a
+364.9554	005.0000	question	n/a	What was the shopkeeper marketing?	002.1302	A	a
+376.2087	003.0170	sentence	58	The dog noticed the strange object near the children.	n/a	n/a	n/a
+381.4164	004.0279	sentence	75	The nonprofit organisation wrote to the politician about the reporter.	n/a	n/a	n/a
+389.4321	003.3121	sentence	74	The lobbyist wrote to the politician about the journalist.	n/a	n/a	n/a
+396.6395	003.1348	sentence	23	A psychologist spoke to her gardener about the patient.	n/a	n/a	n/a
+404.6136	006.5523	sentence	18	On the weekend the helpful film director brought the inexperienced cameraman to his equipment in the storeroom.	n/a	n/a	n/a
+411.1710	005.0000	question	n/a	Where was the equipment?	004.4175	B	a
+421.9447	003.1938	sentence	22	The psychologist warned the secretary about the patient.	n/a	n/a	n/a
+431.4851	002.4903	sentence	13	The director sold the cameraman's equipment.	n/a	n/a	n/a
+436.5429	003.7881	sentence	49	The family secured the purchase of their apartment by the company.	n/a	n/a	n/a
+447.3331	005.4290	sentence	17	The renowned director brought the impatient cameraman to the equipment from his last project.	n/a	n/a	n/a
+452.7699	005.0000	question	n/a	What was the cameraman's attitude?	n/a	D	None
+460.4398	005.1211	sentence	51	The stubborn family blocked the purchase of the apartment by the company for six months.	n/a	n/a	n/a
+469.9220	003.2529	sentence	100	The customer watched over the display for the shopkeeper.	n/a	n/a	n/a
+476.6961	005.6765	sentence	35	The exhausted secretary spoke slowly to the patient about their psychologist late in the evening.	n/a	n/a	n/a
+485.4201	005.8630	sentence	43	A small company purchased the drab concrete apartment block from the family for later redevelopment.	n/a	n/a	n/a
+494.9858	003.0170	sentence	92	The shopkeeper displayed the watch for his customers.	n/a	n/a	n/a

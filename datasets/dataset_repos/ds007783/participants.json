@@ -1,0 +1,17 @@
+{
+    "participant_id":  {
+                           "Description":  "Unique participant identifier"
+                       },
+    "species":  {
+                    "Description":  "Species of the subject"
+                },
+    "sex":  {
+                "Description":  "Sex of the subject"
+            },
+    "group":  {
+                  "Description":  "Experimental group"
+              },
+    "data_types":  {
+                       "Description":  "Data modalities available for this subject: fMRI (functional MRI), EEG (electroencephalography), or both"
+                   }
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Feedback to deep layers in human V1 during perceptual filling-in",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Kenshu Koiso",
+        "Anna Razafindrahaba",
+        "Vincent Van De Ven",
+        "Mark J. Roberts",
+        "Federico De Martino",
+        "Peter De Weerd"
+    ],
+    "Acknowledgements": "This work was supported by Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) Open Competition grant 406.21.GO.044 to PDW. We acknowledge Desmond H.Y. Tse and Scannexus for scanning and advance shimming, Mario Senden for a discussion of the localizer paradigm, and Omer Faruk Gülban for consultation regarding layer analysis. \n",
+    "HowToAcknowledge": "Please use our paper upon acceptance. Until then, please cite openneuro DOI or our preprint DOI. ",
+    "Funding": [
+        "Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO) Open Competition grant, 406.21.GO.044 to PDW"
+    ],
+    "EthicsApprovals": [
+        "the scanning procedures have been approved by the Ethics Review Committee for Psychology and Neuroscience (ERCPN) at Maastricht University, following the principles expressed in the Declaration of Helsinki."
+    ],
+    "ReferencesAndLinks": [
+        "none yet"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007799.v1.0.1"
+}

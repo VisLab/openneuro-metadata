@@ -1,0 +1,11 @@
+# BindingWM — Studie-BWM-1
+
+This dataset contains fMRI data for the BindingWM study (Studie-BWM-1),
+investigating feature binding in visual working memory.
+
+Subjects: 20 healthy adults
+Sessions: 4 per subject (ses-01 to ses-04)
+Tasks:
+  - task-bwm       (binding working memory task)
+
+Data were acquired on a Siemens Prisma 3T scanner at Cooperative Brain Imaging Center (CoBIC) in Frankfurt, Germany.

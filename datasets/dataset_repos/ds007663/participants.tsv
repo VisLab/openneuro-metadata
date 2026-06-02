@@ -1,0 +1,28 @@
+﻿participant_id	age	sex	hand	ethnicity	recording_info
+sub-001	24	male	right	white	n/a
+sub-002	31	male	right	white	n/a
+sub-003	30	male	right	white	MEG1011 noisy. very high auditory accuracy
+sub-004	21	female	right	white	eyelink lost pupil in block 10 or 11, as fixed after block 12
+sub-005	27	female	right	white	left occipital sensory noisy. very high auditory accuracy.
+sub-006	24	female	right	white	eyetracker only worked after removal of contact lenses
+sub-008	20	female	right	asian / asian british	n/a
+sub-009	25	female	right	asian / asian british	sometimes button box didn't work
+sub-010	29	female	right	asian / asian british	sometimes lost earplugs
+sub-011	22	female	right	white	n/a
+sub-012	22	female	right	white	noise in temporal sensors
+sub-013	20	female	right	white	n/a
+sub-014	27	female	right	black / black british / caribbean or african	visual calibration performed twice
+sub-015	21	male	right	white	coughed throughout experiment
+sub-016	21	male	right	white	n/a
+sub-017	20	female	right	white	n/a
+sub-018	22	male	right	white	4 trials incorrect (block 5, last 4), where ppt kep his finger on the pressed button
+sub-019	28	female	right	white	some sensors flat
+sub-020	20	female	right	white	n/a
+sub-021	22	female	right	white	n/a
+sub-022	21	male	right	white	n/a
+sub-023	20	female	right	asian / asian british	audio only working in right ear
+sub-024	23	female	right	asian / asian british	n/a
+sub-025	18	male	right	white	n/a
+sub-026	19	female	right	white	n/a
+sub-027	29	female	right	white	a lot of blinking
+sub-028	24	female	right	asian / asian british	very tired from block 9 onwards

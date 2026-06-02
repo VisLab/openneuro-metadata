@@ -1,8 +1,8 @@
 {
   "README.md": "765fce500f924e31d2c6adce466567f43552ba22",
-  "dataset_description.json": "aa0602e1dd05aacce6802f7b352ac8c5d0326db1",
+  "dataset_description.json": "af0a8f358d7c0f5c77d1f6b61bddfc0657486bb5",
   "participants.tsv": "f02a94961ed867cc8e2911a46afde7c55baac5ee",
-  "CHANGES": "21144d3b39c87d110df3e805c2c22cafcadde6aa",
+  "CHANGES": "99b800cf960702fab1e03ac85f7988bb75160138",
   "participants.json": "a1569cf25cacacf652f08f962e40275446d41919",
   "sub-369463/ses-01/func/sub-369463_ses-01_task-smst_acq-enc_run-01_events.json": "b352734ab2c1d415cc11f320e6bcb1721e719808",
   "sub-369463/ses-01/func/sub-369463_ses-01_task-smst_acq-enc_run-02_events.json": "b352734ab2c1d415cc11f320e6bcb1721e719808",
@@ -29,5 +29,6 @@
   "sub-369463/ses-02/func/sub-369463_ses-02_task-smst_acq-map_run-07_events.json": "4334f4177d2647e534b3e6a150b4fe886b1f79fa",
   "sub-369463/ses-02/func/sub-369463_ses-02_task-smst_acq-map_run-08_events.json": "4334f4177d2647e534b3e6a150b4fe886b1f79fa",
   "sub-369463/ses-02/func/sub-369463_ses-02_task-smst_acq-map_run-08_events.tsv": "1fe5a465bbce07497d3831af7a64fdd2612332aa",
-  "sub-369463/ses-02/func/sub-369463_ses-02_task-smst_acq-map_run-07_events.tsv": "41f068964f0ca7cfa664b50d16d8d5c287f3242d"
+  "sub-369463/ses-02/func/sub-369463_ses-02_task-smst_acq-map_run-07_events.tsv": "41f068964f0ca7cfa664b50d16d8d5c287f3242d",
+  "README": "1b391541763dd2e3c084ff8f5ee7abbd2cafeb9b"
 }

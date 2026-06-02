@@ -1,0 +1,34 @@
+{
+    "onset": {
+        "LongName": "Stimulus onset time",
+        "Description": "Time of stimulus onset in seconds from the beginning of the run."
+    },
+    "duration": {
+        "LongName": "Stimulus duration",
+        "Description": "Time of stimulus duration in seconds."
+    },
+    "stim_type": {
+        "LongName": "Stimulus type",
+        "Description": "Indicates whether the stimulus was a sentence or a question."
+    },
+    "sentence_id": {
+        "LongName": "Sentence ID",
+        "Description": "ID number of the sentence presented, from 1 to 108. NaN for questions."
+    },
+    "stimulus_text": {
+        "LongName": "Stimulus text",
+        "Description": "Text of the presented stimulus, either a sentence or a question."
+    },
+    "response_time": {
+        "LongName": "Response time",
+        "Description": "Time taken by the participant to respond to the question in seconds. NaN for sentences."
+    },
+    "answer_index": {
+        "LongName": "Answer index",
+        "Description": "Correct answer index for the question presented, one of A, B, C, or D. NaN for sentences."
+    },
+    "question_response": {
+        "LongName": "Question response",
+        "Description": "Participant's response to the question, one of a, b, c, or d. NaN for sentences or null responses."
+    }
+}

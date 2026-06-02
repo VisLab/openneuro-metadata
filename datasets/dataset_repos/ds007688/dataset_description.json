@@ -1,0 +1,14 @@
+{
+    "Name": "The Temporal Sequence of Party Leader Incongruence",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Gustavo Couto de Jesus",
+        "Bert N. Bakker",
+        "Gijs Schumacher",
+        "Joe Bathelt"
+    ],
+    "Acknowledgements": "We thank Anna Mae van Dooren, Lois van Petegem, and Rayna Akil who helped in recruitment and data collection, Roeland Dubèl who helped reviewing our Dutch political statements, and  Manos Tsaikiris, Szymon Wichary, and Marte Otten for helpful feedback concerning the manuscript.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007688.v1.0.0"
+}

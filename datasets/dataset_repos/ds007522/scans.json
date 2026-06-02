@@ -1,0 +1,8 @@
+{
+    "filename": {
+        "Description": "Name of the BIDS data file associated with this scan."
+    },
+    "acq_time": {
+        "Description": "Acquisition time of the scan in ISO 8601 format. Note: The date component has been jittered by a subject-specific random integer (1-15 days) for de-identification purposes."
+    }
+}

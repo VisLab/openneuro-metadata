@@ -1,0 +1,45 @@
+{
+    "blockNo": {
+        "Description": "block number out of 5 blocks (0-4)"
+    },
+    "trialNoPerBlock": {
+        "Description": "trial number out of 87 trials within a block (0-86)"
+    },
+    "stim1_path": {
+        "Description": "file path for the stimulus presented on the left"
+    },
+    "stim1_healthRating": {
+        "Description": "participant's health rating for the left stimulus (0-100)"
+    },
+    "stim1_tasteRating": {
+        "Description": "participant's taste rating for the left stimulus (0-100)"
+    },
+    "stim1_willingToEatRating": {
+        "Description": "participant's willingness to eat rating for the left stimulus (0-100)"
+    },
+    "stim2_path": {
+        "Description": "file path for the stimulus presented on the right"
+    },
+    "stim2_healthRating": {
+        "Description": "participant's health rating for the right stimulus (0-100)"
+    },
+    "stim2_tasteRating": {
+        "Description": "participant's taste rating for the right stimulus (0-100)"
+    },
+    "stim2_willingToEatRating": {
+        "Description": "participant's willingness to eat rating for the right stimulus (0-100)"
+    },
+    "stimChosen_path": {
+        "Description": "file path for the stimulus chosen by participant"
+    },
+    "respKey": {
+        "Description": "participant's keypress response for the trial",
+        "Levels": {  
+            "z": "z key - left stimulus chosen",
+            "m": "m key - right stimulus chosen"
+        }
+    },
+    "respRT": {
+        "Description": "response time for keypress responses in seconds"
+    }
+}

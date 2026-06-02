@@ -4,17 +4,21 @@
     "License": "CC0",
     "Authors": [
         "Neil M. Dundon",
-        "Elizabeth Rizor",
-        "Joanne Stasiak",
+        "Elizabeth J. Rizor",
+        "Joanne E. Stasiak",
         "Jingyi Wang",
         "Kiana Sabugo",
-        "Christina Villaneuva",
+        "Christina Villanueva",
         "Parker Barandon",
+        "Viktoriya Babenko",
+        "Renee Beverly-Aylwin",
+        "Alexandra Stump",
+        "Tyler Santander",
         "Andreea C. Bostan",
         "Regina Lapate",
         "Scott T. Grafton"
     ],
-    "HowToAcknowledge": "Please cite the following: Dundon, N. M., Rizor, E., Stasiak, J., Wang, J., Sabugo, K., Villaneuva, C., Barandon, P., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2024). Dissociation of novel open loop from ventral putamen to motor areas from classic closed loop in humans II: task-based function. bioRxiv, 2024-06.",
+    "HowToAcknowledge": "Please cite the following: Dundon, N. M., Rizor, E. J., Stasiak, J. E., Wang, J., Li, T., Sabugo, K., Villanueva, C., Barandon, P., Babenko, V., Beverly-Aylwin, R., Stump, A., Santander, T., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2026). Incentive valence differentially engages open- and closed-loop basal ganglia circuits during movement initiation. PNAS.",
     "Funding": [
         "SKIP was funded in whole by Aligning Science Across Parkinson’s ASAP-020-519 through the Michael J. Fox Foundation for Parkinson’s Research (MJFF)"
     ],
@@ -26,5 +30,6 @@
         "www.socalkinesia.org",
         "https://parkinsonsroadmap.org/#"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005263.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005263.v1.0.1",
+    "Acknowledgements": "We thank Mario Mendoza at University of California,\nSanta Barbara’s Brain Imaging Center and Katherin Martin, Arthur Toga, Danny Wang, Kay Jann, and Ioannis Pappas at the University of Southern California Mark and Mary Stevens Neuroimaging and Informatics Institute for scan acquisition development and data collection assistance. "
 }

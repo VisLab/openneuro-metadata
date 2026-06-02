@@ -1,0 +1,23 @@
+{
+    "target_age_group": {
+        "Description": "The target developmental milestone age group for the scan (e.g., P28, P35)."
+    },
+    "age_days": {
+        "Description": "The true chronological age of the animal on the day of the scan.",
+        "Units": "days"
+    },
+    "weight_g": {
+        "Description": "Body weight of the animal measured prior to the scan.",
+        "Units": "grams"
+    },
+    "respiration_bpm": {
+        "Description": "Average respiration rate recorded during the functional scan.",
+        "Units": "breaths per minute"
+    },
+    "comment": {
+        "Description": "Additional notes or observations recorded during the session."
+    },
+    "scan_date": {
+        "Description": "The actual date the scan was carried out on in YYYYMMDD."
+    }
+}

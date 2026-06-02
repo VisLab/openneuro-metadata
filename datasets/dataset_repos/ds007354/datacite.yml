@@ -1,0 +1,108 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Gengchen Ye
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Mo Wang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Chiyin Li
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Yihao Peng
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Yilin Qian
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Yutao Wang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Xinyi Si
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Shaoxin Xiang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Fanzhi Jiang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Lu Wang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 10
+      - name: Ming Zhang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 11
+    creators:
+      - name: Gengchen Ye
+        nameType: Personal
+      - name: Mo Wang
+        nameType: Personal
+      - name: Chiyin Li
+        nameType: Personal
+      - name: Yihao Peng
+        nameType: Personal
+      - name: Yilin Qian
+        nameType: Personal
+      - name: Yutao Wang
+        nameType: Personal
+      - name: Xinyi Si
+        nameType: Personal
+      - name: Shaoxin Xiang
+        nameType: Personal
+      - name: Fanzhi Jiang
+        nameType: Personal
+      - name: Lu Wang
+        nameType: Personal
+      - name: Ming Zhang
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

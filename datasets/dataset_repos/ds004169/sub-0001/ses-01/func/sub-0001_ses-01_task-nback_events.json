@@ -1,0 +1,53 @@
+{
+  "onset": {
+    "LongName": "Trial start time",
+    "Description": "Trial start time in seconds. Relative to the start of the task, not the start of the scan"
+  },
+  "duration": {
+    "LongName": "Stimuli duration",
+    "Description": "Stimuli presentation time in seconds"
+  },
+  "nback_display": {
+    "LongName": "Number displayed ",
+    "Description": "Number (1-4) displayed during the trial"
+  },
+  "trial_type": {
+    "LongName": "n-back condition",
+    "Description": "n-back condition displayed",
+    "Levels": {
+      "0": "0-back",
+      "2": "2-back"
+    }
+  },
+  "response": {
+    "LongName": "Participant response",
+    "Description": "Participant response number (1-4)",
+    "Levels": {
+      "1": "Number 1",
+      "2": "Number 2",
+      "3": "Number 3",
+      "4": "Number 4",
+      "6": "No response made"
+    }
+  },
+  "response_time": {
+    "LongName": "Response time",
+    "Description": "Trial response time in seconds"
+  },
+  "correct_response": {
+    "LongName": "Correct response for the n-back condition",
+    "Description": "Correct answer for the trial (i.e. either the number displayed (for 0-back) or the number displayed 2 trials previously (for 2-back)"
+  },
+  "correct": {
+    "LongName": "Correct response marker",
+    "Description": "Did the participant respond with the correct number?",
+    "Levels": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "stim_file": {
+    "LongName": "Stimuli file for the trial",
+    "Description": "Stimuli file used in the trial"
+  }
+}

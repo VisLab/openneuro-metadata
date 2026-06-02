@@ -1,0 +1,24 @@
+{
+    "Name": "Cortex-specific inversion of visual responses during sleep",
+    "BIDSVersion": "1.0.2",
+    "DatasetType": "raw",
+    "Authors": [
+        "Nicholas G. Cicero",
+        "Michaela Klimova",
+        "Louis Vinke",
+        "Sam Ling",
+        "Laura D. Lewis"
+    ],
+    "Funding": [
+        "NIH R01-EY028163",
+        "NIH U19-NS128613",
+        "NIH F31-NS139696",
+        "Pew Biomedical Scholars Program",
+        "Sloan Fellowship",
+        "McKnight Scholar Award"
+    ],
+    "License": "CC0",
+    "HowtoAcknowledge": "Please cite the paper and cite Cicero, N. G., Klimova, M., Vinke, L., Ling, S., Lewis, L. D.(2026). Cortex-specific inversion of visual responses during sleep. Nature Communications",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007761.v1.0.1",
+    "HowToAcknowledge": "Please cite the paper and cite Cicero, N. G., Klimova, M., Vinke, L., Ling, S., Lewis, L. D.(2026). Cortex-specific inversion of visual responses during sleep. Nature Communications"
+}

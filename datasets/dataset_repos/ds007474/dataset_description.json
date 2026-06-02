@@ -1,0 +1,32 @@
+{
+    "Name": "2-step task reinforcement learning fMRI dataset",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Weilun Ding",
+        "Jeffrey Cockburn",
+        "Julia Pia Simon",
+        "Amogh Johri",
+        "Scarlet J. Cho",
+        "Sarah Oh",
+        "Jamie D. Feusner",
+        "Reza Tadayonnejad",
+        "John P. O'Doherty"
+    ],
+    "Acknowledgements": "We thank Julian Michael Tyszka from the California Institute of Technology (Caltech) Brain Imaging Center for assistance with the functional neuroimaging. We thank Emmily Hovhannisyan and Zoe Hartman from the University of California, Los Angeles, for their precious help in participant recruitment. We thank Lisa Marieke Kluen and Rani Gera from Caltech for advice on data processing of the MRI data. We thank all Caltech colleagues who helped with the data acquisition process. We thank all participants of this study for their time and effort. This study was supported by a grant from the National Institute of Mental Health (R01MH121089) to J.P.O.D.",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "National Institutes of Health R01MH121089"
+    ],
+    "EthicsApprovals": [
+        "University of California, Los Angeles (UCLA) 19-002267",
+        "California Institute of Technology (Caltech) 19-0914"
+    ],
+    "ReferencesAndLinks": [
+        "Preprint: https://www.biorxiv.org/content/10.1101/2025.09.17.676398",
+        "",
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007474.v1.0.4"
+}

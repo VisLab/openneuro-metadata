@@ -1,0 +1,91 @@
+name	type	units	description	original_ch_numbers
+EEG001	EEG	µV	eego sports EEG electrode Fp1	0
+EEG002	EEG	µV	eego sports EEG electrode Fpz	1
+EEG003	EEG	µV	eego sports EEG electrode Fp2	2
+EEG004	EEG	µV	eego sports EEG electrode F7	3
+EEG005	EEG	µV	eego sports EEG electrode F3	4
+EEG006	EEG	µV	eego sports EEG electrode Fz	5
+EEG007	EEG	µV	eego sports EEG electrode F4	6
+EEG008	EEG	µV	eego sports EEG electrode F8	7
+EEG009	EEG	µV	eego sports EEG electrode FC5	8
+EEG010	EEG	µV	eego sports EEG electrode FC1	9
+EEG011	EEG	µV	eego sports EEG electrode FC2	10
+EEG012	EEG	µV	eego sports EEG electrode FC6	11
+EEG013	EEG	µV	eego sports EEG electrode M1	12
+EEG014	EEG	µV	eego sports EEG electrode T7	13
+EEG015	EEG	µV	eego sports EEG electrode C3	14
+EEG016	EEG	µV	eego sports EEG electrode Cz	15
+EEG017	EEG	µV	eego sports EEG electrode C4	16
+EEG018	EEG	µV	eego sports EEG electrode T8	17
+EEG019	EEG	µV	eego sports EEG electrode M2	18
+EEG020	EEG	µV	eego sports EEG electrode CP5	19
+EEG021	EEG	µV	eego sports EEG electrode CP1	20
+EEG022	EEG	µV	eego sports EEG electrode CP2	21
+EEG023	EEG	µV	eego sports EEG electrode CP6	22
+EEG024	EEG	µV	eego sports EEG electrode P7	23
+EEG025	EEG	µV	eego sports EEG electrode P3	24
+EEG026	EEG	µV	eego sports EEG electrode Pz	25
+EEG027	EEG	µV	eego sports EEG electrode P4	26
+EEG028	EEG	µV	eego sports EEG electrode P8	27
+EEG029	EEG	µV	eego sports EEG electrode POz	28
+EEG030	EEG	µV	eego sports EEG electrode O1	29
+EEG031	EEG	µV	eego sports EEG electrode O2	30
+EEG032	MISC	µV	Miscellaneous cap channel at table channel 32	31
+EEG033	EEG	µV	eego sports EEG electrode AF7	32
+EEG034	EEG	µV	eego sports EEG electrode AF3	33
+EEG035	EEG	µV	eego sports EEG electrode AF4	34
+EEG036	EEG	µV	eego sports EEG electrode AF8	35
+EEG037	EEG	µV	eego sports EEG electrode F5	36
+EEG038	EEG	µV	eego sports EEG electrode F1	37
+EEG039	EEG	µV	eego sports EEG electrode F2	38
+EEG040	EEG	µV	eego sports EEG electrode F6	39
+EEG041	EEG	µV	eego sports EEG electrode FC3	40
+EEG042	EEG	µV	eego sports EEG electrode FCz	41
+EEG043	EEG	µV	eego sports EEG electrode FC4	42
+EEG044	EEG	µV	eego sports EEG electrode C5	43
+EEG045	EEG	µV	eego sports EEG electrode C1	44
+EEG046	EEG	µV	eego sports EEG electrode C2	45
+EEG047	EEG	µV	eego sports EEG electrode C6	46
+EEG048	EEG	µV	eego sports EEG electrode CP3	47
+EEG049	EEG	µV	eego sports EEG electrode CP4	48
+EEG050	EEG	µV	eego sports EEG electrode P5	49
+EEG051	EEG	µV	eego sports EEG electrode P1	50
+EEG052	EEG	µV	eego sports EEG electrode P2	51
+EEG053	EEG	µV	eego sports EEG electrode P6	52
+EEG054	EEG	µV	eego sports EEG electrode PO5	53
+EEG055	EEG	µV	eego sports EEG electrode PO3	54
+EEG056	EEG	µV	eego sports EEG electrode PO4	55
+EEG057	EEG	µV	eego sports EEG electrode PO6	56
+EEG058	EEG	µV	eego sports EEG electrode FT7	57
+EEG059	EEG	µV	eego sports EEG electrode FT8	58
+EEG060	EEG	µV	eego sports EEG electrode TP7	59
+EEG061	EEG	µV	eego sports EEG electrode TP8	60
+EEG062	EEG	µV	eego sports EEG electrode PO7	61
+EEG063	EEG	µV	eego sports EEG electrode PO8	62
+EEG064	EEG	µV	eego sports EEG electrode Oz	63
+EEG065	MISC	µV	Listening audio monitor after preprocessing	64
+EEG066	MISC	µV	Speaking microphone monitor after preprocessing	65
+EEG067	EOG	µV	EOG after differential preprocessing	66
+EEG068	EMG	µV	Upper-lip EMG after differential preprocessing	67
+EEG069	EMG	µV	Lower-lip EMG after differential preprocessing	68
+EEG070	MISC	µV	Miscellaneous auxiliary channel	69
+EEG071	MISC	µV	Miscellaneous auxiliary channel	70
+EEG072	MISC	µV	Miscellaneous auxiliary channel	71
+EEG073	MISC	µV	Miscellaneous auxiliary channel	72
+EEG074	MISC	µV	Miscellaneous auxiliary channel	73
+EEG075	MISC	µV	Miscellaneous auxiliary channel	74
+EEG076	MISC	µV	Miscellaneous auxiliary channel	75
+EEG077	MISC	µV	Miscellaneous auxiliary channel	76
+EEG078	MISC	µV	Miscellaneous auxiliary channel	77
+EEG079	MISC	µV	Miscellaneous auxiliary channel	78
+EEG080	MISC	µV	Miscellaneous auxiliary channel	79
+EEG081	MISC	µV	Miscellaneous auxiliary channel	80
+EEG082	MISC	µV	Miscellaneous auxiliary channel	81
+EEG083	MISC	µV	Miscellaneous auxiliary channel	82
+EEG084	MISC	µV	Miscellaneous auxiliary channel	83
+EEG085	MISC	µV	Miscellaneous auxiliary channel	84
+EEG086	MISC	µV	Miscellaneous auxiliary channel	85
+EEG087	MISC	µV	Miscellaneous auxiliary channel	86
+EEG088	MISC	µV	Miscellaneous auxiliary channel	87
+EEG089	TRIG	n/a	Trigger channel	88
+EEG090	MISC	µV	Miscellaneous auxiliary channel	89

@@ -1,0 +1,4 @@
+onset	duration	trial_type	trial	group	subject	choice	triad_outcome
+0.0	60.0	rest	1	G01	S01	n/a	n/a
+60.0	60.0	rest	2	G01	S01	n/a	n/a
+120.0	60.0	rest	3	G01	S01	n/a	n/a

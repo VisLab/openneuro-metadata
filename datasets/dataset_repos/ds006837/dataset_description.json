@@ -1,0 +1,57 @@
+{
+    "Name": "Disentangling crossing fibers with advanced dMRI methods reveals bundle-specific degeneration across the visual system in asymmetric glaucoma",
+    "BIDSVersion": "v1.10.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Daniela Coutiño",
+        "Judith Guerrero",
+        "César Arturo Domínguez-Frausto",
+        "Marlene García-Guillén",
+        "Ricardo Coronado-Leija",
+        "Alonso Ramírez-Manzanares",
+        "Erick Hernández-Gutiérrez",
+        "Maxime Descoteaux",
+        "Martin Ayala",
+        "Mariana Badillo",
+        "Luis Concha"
+    ],
+    "Funding": [
+        "UNAM PAPIIT IN213423",
+        "CONAHCYT CF-2023-I-218",
+        "National Laboratory for MRI funded by CONAHCYT/SECIHTI",
+        "CONAHCYT scholarship CVU 1288997"
+    ],
+    "Acknowledgements": "We thank Dr. Erick Pasaye for MRI support, Luis Aguilar for data analysis assistance, and the technical staff (Mirelta Regalado, Leopoldo González-Santos, Juan Ortiz-Retana, Moisés Baltazar) for their help during data collection.",
+    "EthicsApprovals": [
+        "Research Ethics Committee of the Institute of Neurobiology, UNAM",
+        "Bioethics Committee of the Instituto Mexicano de Oftalmología (IMO)"
+    ],
+    "DatasetLinks": {
+        "preprint": "https://doi.org/10.1101/2025.10.20.683506",
+        "fulltext": "https://www.biorxiv.org/content/10.1101/2025.10.20.683506v1"
+    },
+    "ReferencesAndLinks": [
+        "Coutiño D, Guerrero J, Domínguez-Frausto C.A., García-Guillén M., Coronado-Leija R., Ramírez-Manzanares A., Hernández-Gutiérrez E., Descoteaux M., Ayala M., Badillo M., Concha L. (2025). End-to-end evaluation of white matter microstructure of the visual pathway in asymmetric glaucoma. bioRxiv. https://doi.org/10.1101/2025.10.20.683506"
+    ],
+    "SourceDatasets": [
+        {
+            "DOI": "10.1101/2025.10.20.683506",
+            "URL": "https://www.biorxiv.org/content/10.1101/2025.10.20.683506v1",
+            "Version": "v1"
+        }
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "dcm2niix",
+            "Version": "v1.0.20230411",
+            "CodeURL": "https://github.com/rordenlab/dcm2niix"
+        },
+        {
+            "Name": "dcm2bids",
+            "Version": "2.1.7",
+            "CodeURL": "https://github.com/cbedetti/Dcm2Bids"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006837.v1.0.1"
+}

@@ -1,0 +1,13 @@
+1.0.0 2026-05-21
+  - The very first
+1.0.1 2026-05-11
+  - Removed sub-04 from the working dataset.
+  - Restored participants.tsv with anonymized participant identifiers only.
+  - Removed original participant-name metadata from participants.json.
+
+1.0.2 2026-05-13
+  - Split device acquisitions into acq-pangolin, acq-scarabeo, and acq-eego.
+  - Updated EEG sidecar manufacturer, model, and channel-count metadata from EDF headers.
+  - Regenerated per-run channels.tsv files with confirmed device-specific channel types.
+  - Added g.Pangolin session-level electrodes.tsv and coordsystem.json files.
+  - Updated README device and EDF format descriptions.

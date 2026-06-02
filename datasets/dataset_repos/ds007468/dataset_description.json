@@ -1,0 +1,20 @@
+{
+    "Name": "Brain mechanisms for processing systematic sound-to-meaning mappings for concrete and abstract concepts",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Greig de Zubicaray",
+        "Marko Krsmanovic",
+        "Katie McMahon",
+        "Valeriya Tolkacheva",
+        "Joanne Arciuli"
+    ],
+    "Funding": [
+        "Australian Research Council DP220101853"
+    ],
+    "EthicsApprovals": [
+        "Metro North Health and QUT HREC (HREC/15/QRBW/447 and 2015-1148-1620)"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007468.v1.1.0"
+}

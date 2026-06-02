@@ -1,0 +1,22 @@
+{
+    "participant_id": {
+        "LongName": "Participant ID",
+        "Description": "Unique ID for each participant."
+    },
+    "age": {
+        "LongName": "Participant age",
+        "Description": "Age of each participant in years."
+    },
+    "gender": {
+        "LongName": "Participant gender",
+        "Description": "Self-reported gender of each participant, one of Man, Women, or Other."
+    },
+    "nationality": {
+        "LongName": "National origin",
+        "Description": "Whether each participant was raised in a predominantly English-speaking or Non English-speaking country."
+    },
+    "runs_included": {
+        "LongName": "Runs included in analysis",
+        "Description": "The number of runs included in the analysis, including derivatives files. \nMostly equal to 8, but for some participants the final two runs were excluded due to head motion or low attention. \nEqual to 0 for participants who failed attention checks and so were excluded completely."
+    }
+}

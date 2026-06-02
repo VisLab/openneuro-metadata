@@ -1,0 +1,38 @@
+# README
+
+
+## Overview
+
+This dataset was collected to study the reinforcement learning process across individuals at the behavioral and neural level. The 2-step task is an established task to study the Markov decision-making process, and here we used a variant of the task (Cockburn et al., 2024). We paired the task with the functional MRI to study the common and distinct decision-making processes across individuals using different strategies in this task. Please refer to the preprint for the task details.
+
+The event timing information and the behavioral data of the task are available at this link on OSF: https://osf.io/ctfzd/overview?view_only=022584fa16944755982f0d06a713835c. The task code and the analysis code are available at this GitHub link (task code author and model script's author: Jeffrey Cockburn): https://github.com/Gentu-Ding/2-step-task-MBMF-fMRI-code.
+
+The participant IDs of the task are coded as sub-MBMFxxxx01 or sub-MBMFxxxx02. The four digits in the middle are the participants' IDs. And the '01' or '02' at the end denotes whether participants performed the task first or second, as this 2-step task was paired with another task (which studies habit) for each participant within the same MRI session.
+
+The MRI scans were collected from 189 healthy controls, who did not report any history of substance/alcohol use disorder, anxiety disorder (Obsessive-Compulsive Disorder, Body Dysmorphic Disorder, generalized anxiety, social anxiety/social phobia), and/or depressive disorders (dysthymia, major depression). Furthermore, participants reported they did not use any medications for subclinical psychiatric disorders.
+
+
+
+
+- Notes on the data:
+
+1. Participant with the following ID does not have the fieldmaps for the functional task run-1, but only has those for the functional task run-2 (for your consideration of the susceptibility distortion correction):
+
+sub-MBMF025002
+
+
+2. Participants with the following ID(s) only experience state-contingent reward (different from the rest of the participants' pool, which experienced both state-contingent and stimulus-contingent rewards):
+
+sub-MBMF021501
+sub-MBMF021601
+sub-MBMF021701
+sub-MBMF021801
+sub-MBMF021901
+
+
+
+- Contact:
+
+John P. O'Doherty, jdoherty@caltech.edu
+
+Weilun Ding, wdding@caltech.edu  

@@ -1,8 +1,8 @@
 {
-  "participants.tsv": "0e1954faa344aed30afa65745bfd651b027b7b66",
-  "CHANGES": "b97fc9bc431b76a9d9e882cd6221a5162047f087",
-  "dataset_description.json": "f45173c613b047ebbdfb85db6fc05af19f72a0d3",
-  "README": "0e57cd37ccfb1b4c6829cba82361e834e89be620",
+  "participants.tsv": "e6d4939cbc5a8d6863d734cd6d3f247c276cb3fc",
+  "CHANGES": "ce9a53b60e6d68662c7bd441ed3c4ac8db69eb00",
+  "dataset_description.json": "0160127fc68addcf76b57a75a96e5c34adee96fa",
+  "README": "656861b54b7198c5656619fbd1877fe9a26f87cf",
   "sub-MOCCAG001/ses-01/func/sub-MOCCAG001_ses-01_task-reward_acq-multiband2p4flatAP_run-05_events.tsv": "69bb874ec5ea2b6f3d5f5fca85d380d2861bb18a",
   "sub-MOCCAG001/ses-02/func/sub-MOCCAG001_ses-02_task-delay_acq-multiband3p0MB2AP_run-03_events.tsv": "74847631ca211b5bbd211f0fad14f3f05654ff53",
   "sub-MOCCAG001/ses-01/func/sub-MOCCAG001_ses-01_task-reward_acq-multiband3p0tiltAP_run-04_events.tsv": "39a78c88a0d879b9afc0ff4a9fda86ecf483a82f",
@@ -14,5 +14,9 @@
   "sub-MOCCAG001/ses-01/func/sub-MOCCAG001_ses-01_task-reward_acq-multiband2p4flatPA_run-06_events.tsv": "6c743294b2c41e3b578643231c5ddb66db16c750",
   "sub-MOCCAG001/ses-02/func/sub-MOCCAG001_ses-02_task-delay_acq-multiband3p0MB2PA_run-04_events.tsv": "10545dfc6ab48ce963af08f994bffd5fe818293b",
   "sub-MOCCAG001/ses-02/func/sub-MOCCAG001_ses-02_task-delay_acq-multiband3p0flatAP_run-01_events.tsv": "013be5912a79494c64f861f2bb6a1994b222c2d4",
-  "sub-MOCCAG001/ses-02/func/sub-MOCCAG001_ses-02_task-delay_acq-multiband3p0flatPA_run-02_events.tsv": "0b62dace50fc6d5dc5419534ae745e99bd70f61e"
+  "sub-MOCCAG001/ses-02/func/sub-MOCCAG001_ses-02_task-delay_acq-multiband3p0flatPA_run-02_events.tsv": "0b62dace50fc6d5dc5419534ae745e99bd70f61e",
+  "task-delay_events.json": "7a9a17372251845de980e097ca6de5fcfd02bd33",
+  "task-reward_events.json": "c82e7a7295a213544f0c2d964f4f198e371d829b",
+  "participants.json": "8b54b2ce172aac3cefdd985d904d8400d5ac24ac",
+  "task-CuedtsPro_events.json": "eafd7099ba2982b53b12559272c3017cd43e7bc1"
 }

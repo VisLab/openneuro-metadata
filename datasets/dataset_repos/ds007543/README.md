@@ -1,0 +1,2 @@
+This dataset contains fMRI data acquired at 0.9 mm spatial resolution with a TR of 4 seconds. Both raw and processed images are included. 
+For each subject in the visuomotor task, four sessions are provided. The first through fourth sessions correspond to the following conditions: TE = 30 ms, TE = 38 ms, b = 6, and b = 8, respectively.

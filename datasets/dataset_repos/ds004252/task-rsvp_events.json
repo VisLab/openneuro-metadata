@@ -1,0 +1,65 @@
+{
+    "onsetsample": {
+        "Description": "the onset time of the event"
+    },
+    "duration": {
+        "Description": "duration of the event (not in use)"
+    },
+    "eventnumber": {
+        "Description": "event number in the experiment"
+    },
+    "stimnumber": {
+        "Description": "ID number of the stimulus that was shown"
+    },
+    "stim": {
+        "Description": "path to the stimulus that was shown"
+    },
+    "rotationnumber": {
+        "Description": "rotation number (0-7)"
+    },
+    "rotation": {
+        "Description": "rotation of the stimulus in degrees"
+    },
+    "blocksequencenumber": {
+        "Description": "block number"
+    },
+    "sequencenumber": {
+        "Description": "sequence number"
+    },
+    "speedcondition": {
+        "Description": "stimulus presentation speed (0 = 5 Hz and 1 = 20 Hz)"
+    },
+    "stimduration": {
+        "Description": "time the stimulus was on the screen (s)"
+    },
+    "soaduration": {
+        "Description": "time between 2 consecutive stimuli (s)"
+    },
+    "istarget": {
+        "Description": "is this a target?"
+    },
+    "presentationnumber": {
+        "Description": "event number in the sequence"
+    },
+    "stimname": {
+        "Description": "name of the stimulus that was shown"
+    },
+    "response": {
+        "Description": "did the participant press the response button? 0 = no and 1 = yes"
+    },
+    "rt": {
+        "Description": "response time of the button press"
+    },
+    "correct": {
+        "Description": "accuracy of the button press. 1 = correct"
+    },
+    "time_stimon": {
+        "Description": "time the stimulus is presented"
+    },
+    "time_stimoff": {
+        "Description": "time the stimulus is taken away"
+    },
+    "stimdur": {
+        "Description": "stimulus duration in seconds"
+    }
+}

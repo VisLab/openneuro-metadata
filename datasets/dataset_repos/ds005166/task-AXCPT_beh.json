@@ -16,8 +16,8 @@
     "LongName": "Accuracy",
     "Description": "Whether the participant responded correctly or incorrectly.",
     "Levels": {
-      "1": "Participant responded correctly.",
-      "0": "Participant responded incorrectly."
+      "1.0": "Participant responded correctly.",
+      "0.0": "Participant responded incorrectly."
     }
   }
 }

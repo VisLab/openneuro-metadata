@@ -1,0 +1,41 @@
+{
+    "Name": "YaleNeuroConnect",
+    "BIDSVersion": "1.2.1",
+    "License": "CC0",
+    "Authors": [
+        "Anja Samardzija",
+        "Xilin Shen",
+        "Abigail S. Greene",
+        "Saloni Mehta",
+        "Santino Iannone",
+        "Alexander J. Simon",
+        "Flor Parra",
+        "Wenjing Luo",
+        "Sarah A. Cutts",
+        "Jagriti Arora",
+        "Fuyuze Tokoglu",
+        "C. Alice Hahn",
+        "Scott W. Woods",
+        "Gerard Sanacora",
+        "Rachel Katz",
+        "Vinod Srihari",
+        "Marisa N. Spann",
+        "Dustin Scheinost",
+        "R. Todd Constable"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "Please reference: Samardzija, A., Shen, X., Greene, A. S., Mehta, S., Iannone, S., Simon, A. J., ... & Constable, R. T. (2025). A Transdiagnostic fMRI Dataset With 300+ Deeply Phenotyped Subjects Across Resting and Task States. medRxiv.",
+    "Funding": [
+        "This work was supported by funding from the NIH (MH121095 to D.S. and R.T.C)."
+    ],
+    "ReferencesAndLinks": [
+        "The preprocessed NIFTI files can also be found on NDA: https://nda.nih.gov/edit_collection.html?id=3276"
+    ],
+    "OpenNeuroIncludedOutputs": [
+        "Raw NIFTI files for T1w, T2w, 2xrs-fMRI, and 6xtask-fMRI"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007286.v1.0.5",
+    "EthicsApprovals": [
+        "Yale Institutional Review Board (HIC #2000020891) "
+    ]
+}

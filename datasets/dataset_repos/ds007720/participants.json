@@ -1,0 +1,14 @@
+{
+  "participant_id": {
+    "Description": "Anonymized unique participant identifier"
+  },
+  "devices_used": {
+    "Description": "EEG devices used across all sessions for this participant"
+  },
+  "n_sessions": {
+    "Description": "Number of recording sessions (unique dates)"
+  },
+  "n_tasks": {
+    "Description": "Total number of tasks (calibration + copy phrase) recorded"
+  }
+}

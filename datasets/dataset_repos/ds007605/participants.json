@@ -1,0 +1,98 @@
+{
+	"participant_id":{
+		"Description":"pseudonymized identification code for each participant"
+	},
+	"age":{
+		"Description":"age of the participant",
+		"Unit":"years"
+	},
+	"sex":{
+		"Description":"sex of the participant",
+		"Levels":{
+			"M":"male",
+			"F":"female",
+			"D":"diverse",
+			"K":"not specified "
+		}
+	},
+	"group":{
+		"Description":"experiment group",
+		"Levels":{
+			"withPCS":"participants with subjective cognitive impairment asked by trained medical staff during the COVIDOM study",
+			"withoutPCS":"participants without subjective cognitive impairment asked by trained medical staff during the COVIDOM study"
+		}
+	},
+	"years_of_education":{
+		"Description":"years of graduation of the participant as counted by the MoCA",
+		"Unit":"years"
+	},
+	"neurological_diseases_1":{
+		"Description":"Does the participant have any previous neurological diseases",
+		"Levels":{
+			"yes":"yes",
+			"no":"no"
+		}
+	},
+	"tmt_a_time":{
+		"Description":"time needed to finish TMT A",
+		"Unit":"seconds"
+	},
+	"tmt_b_time":{
+		"Description":"time needed to finish TMT B",
+		"Unit":"seconds"
+	},
+	"facit_f_FS":{
+		"Description":"sum of points in the fatigue subscale of the FACIT-F questionnaire"
+	},
+	"hads_a_total_score":{
+		"Description":"sum of points in the HADS-A questions. Higher scores mean more anxiety symptoms"
+	},
+	"hads_d_total_score":{
+		"Description":"sum of points in the HADS-D questions. Higher scores mean more depression symptoms"
+	},
+	"psqi_total_score":{
+		"Description":"sum of points in the PSQI questionnaire. Higher scores mean more sleep disorder symptoms"
+	},
+	"pvt_reaction_time":{
+		"Description":"average time between stimulus Onset and button press in the psychomotor vigilance test",
+		"Unit":"seconds"
+	},
+	"nback_miss_1":{
+		"Description":"number of times that the participant did not react to a target before the next stimulus started in the 1-back task"
+	},
+	"moca":{
+		"Description":"MoCA total score"
+	},
+	"group_Fatigue":{
+		"Description":"clinically relevant fatigue group",
+		"Levels":{
+			"clinically relevant fatigue":"participants with a score of 30 or less in the FACIT-F fatigue subscale",
+			"no clinically relevant fatigue":"participants with a score of more than 30 in the FACIT-F fatigue subscale"
+		}
+	},
+	"alpha_peak_power_Pre":{
+		"Description":"maximum power between 8 and 12 Hz, calculated across all channels after removing the aperiodic component from the power spectrum, during the one-second period preceding stimulus onset in the PVT",
+		"Unit":"µV"
+	},
+	"theta_peak_power_Pre":{
+		"Description":"maximum power between 4 and 7 Hz, calculated across all channels after removing the aperiodic component from the power spectrum, during the one-second period preceding stimulus onset in the PVT",
+		"Unit":"µV"
+	},
+	"alpha_peak_power_Post":{
+		"Description":"maximum power between 8 and 12 Hz, calculated across all channels after removing the aperiodic component from the power spectrum, during the one-second period after stimulus onset in the PVT",
+		"Unit":"µV"
+	},
+	"theta_peak_power_Post":{
+		"Description":"maximum power between 4 and 7 Hz, calculated across all channels after removing the aperiodic component from the power spectrum, during the one-second period after stimulus onset in the PVT",
+		"Unit":"µV"
+	},
+	"bad_trials":{
+		"Description":"number of trials that were removed based on pop_jointprob (EEGlab) per participant before calculation of powerspectra "
+	},
+	"bad_channels":{
+		"Description":"number of channels that were removed based on deviation from median channel variance per participant before calculation of ICA"
+	},
+	"bad_segments":{
+		"Description":"number of segments that were removed based on deviation from z-score per participant before calculation of ICA"
+	}
+}

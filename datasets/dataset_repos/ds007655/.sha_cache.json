@@ -1,0 +1,12 @@
+{
+  "task-firstlast_events.json": "702b4205fa2abef24fa726d658d170f443e010b8",
+  "CHANGES": "5f8fe5942ddbc6e1acd285ed1d7ff2fe10a69e59",
+  "participants.tsv": "5b4860bb607cb207d6aa3983f3051bd2b106aa05",
+  "dataset_description.json": "56849eeb09e9e4889ea88b4f8db48aa28e5ba83c",
+  "datacite.yml": "8f27b75a5dc59582773ec80e3e07021fe436552b",
+  "README": "758ffb96a946d40dafcedd08bbddb6061c7da29a",
+  "participants.json": "76af22954bd6610b783cbb0fb382387932bb17cb",
+  "task-dotcount_events.json": "702b4205fa2abef24fa726d658d170f443e010b8",
+  "sub-01/eeg/sub-01_task-dotcount_events.tsv": "f52a4965d3ac367063713e1738fb7cfdd5dd30a2",
+  "sub-01/eeg/sub-01_task-firstlast_events.tsv": "b0b29ffba29ff67a4c07a240e21ee9b5c7dd3102"
+}

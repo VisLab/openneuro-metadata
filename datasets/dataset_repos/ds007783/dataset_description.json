@@ -1,0 +1,32 @@
+{
+    "Name": "fMRI Dataset for Studying Propofol Anesthesia Mechanisms with Awake Baseline in Mice",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Ye Bo"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007783.v1.0.0",
+    "License": "CC0",
+    "Acknowledgements": "n/a",
+    "HowToAcknowledge": "Ye Yunshuang (2025). fMRI Dataset for Studying Propofol Anesthesia Mechanisms with Awake Baseline in Mice. OpenNeuro. https://doi.org/10.XXXX/XXXXXX",
+    "Funding": [
+        "This work was supported by National Key Research and Development Program of China (Noncommunicable Chronic Diseases-National Science and Technology Major Project: 2024ZD0529202 to JW), National Natural Science Foundation of China (82471504 and 32271148 to JW), Key R&D Program of Ningxia Hui Autonomous Region (2026BEG02033 and 2024BEG02027 to JW), the Open Project of Translational Medicine National Major Science and Technology Infrastructure (Shanghai) (TMSK-2024-107 to JW), Medical key Discipline Project of Songjiang District (24SJYXZDA04 to DHW), the Key Discipline Project of Shanghai Municipal Health Commission (2024ZDXK0050 to DHW), and also supported by the Research Grant of Key Laboratory of Anesthesiology and Resuscitation (Huazhong University of Science and Technology), Ministry of Education, China (2025MZFS002 to YSY ).) and Shanghai Engineering Research Center of Peri-operative Organ Support and Function Preservation (No. 20DZ2254200 to JX)."
+    ],
+    "EthicsApprovals": [
+        "n/a"
+    ],
+    "ReferencesAndLinks": [],
+    "GeneratedBy": [
+        {
+            "Name": "convert_to_bids.py",
+            "Version": "1.0",
+            "Description": "Converted fMRI data from non-standard layout to BIDS 1.9.0"
+        },
+        {
+            "Name": "eeg_organization.py",
+            "Version": "1.0",
+            "Description": "Organized EEG data (EDF format) into BIDS 1.9.0 format"
+        }
+    ],
+    "Description": "Multimodal neuroimaging dataset (fMRI and EEG) from propofol-induced sleep in mice. fMRI data: 10 subjects (sub-02 to sub-11). EEG data: 7 subjects (sub-12 to sub-18). Note: EEG and fMRI data are from different animals within the same experimental cohort."
+}

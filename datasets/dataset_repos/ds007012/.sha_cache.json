@@ -1,0 +1,12 @@
+{
+  "README.md": "90d7dbeff98ad515674d75f960d28a5a73af4816",
+  "participants.tsv": "36a20db88cb39f45f292f07c609ebfcc725b98de",
+  "CHANGES": "c77d9ce6979e0142730cbf7d606aaea63eb95b61",
+  "participants.json": "f130e3ac61c90ed3670b1fa9615e2b00b8ed0260",
+  "dataset_description.json": "f47a5b2f92f15d79e55f8c151b443656a399dde2",
+  "task-pairedchoice_beh.json": "23675d7ec5de960f7fbb2149182a9c1458d96427",
+  "task-categorisation_events.json": "eda5892b93be1614ff72efb0c4eee267984860a5",
+  "task-categorisation_eeg.json": "26bbf45808f077f742c33fc573fe3a54fd6521b4",
+  "task-gonogo_beh.json": "ab0b23fc95a6a9e1046fc80e7152d294d81b9e6a",
+  "sub-006/eeg/sub-006_task-categorisation_events.tsv": "492584bb463f77e1453f081adedc8f5f4aa74bee"
+}

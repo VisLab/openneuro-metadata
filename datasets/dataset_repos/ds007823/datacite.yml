@@ -1,0 +1,401 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: >-
+          Ana Calzada-Reyes (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,Cuban Centre for Neurosciences, Havana, Cuba,China-Cuba
+          Belt and Road Joint Laboratory on Neurotechnology and Brain-Apparatus
+          Communication, University of Electronic Science and Technology of
+          China, Chengdu, China)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: >-
+          Eduardo Aubert-Vázquez(Cuban Centre for Neurosciences, Havana,
+          Cuba,Neurodevelopment Research Unit at the Instituto de Neurobiología,
+          Universidad Nacional Autónoma de México )
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: >-
+          Lidice Galán-García(Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: >-
+          Maria Luisa Bringas-Vega (The Clinical Hospital of Chengdu Brain
+          Sciences Institute, University of Electronic Science and Technology of
+          China, Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Trinidad Virués-Alba (Cuban Centre for Neurosciences, Havana, Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: >-
+          Lidia Charroó-Ruiz (Cuban Centre for Neurosciences, Havana,
+          Cuba,Centro Habana Community Mental Health Center, Havana, Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Yanely Acosta-Imás (Cuban Centre for Neurosciences, Havana, Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: >-
+          Mitchell Valdés-Sosa (Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China),
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Laura Perez-Mayo (Cuban Centre for Neurosciences, Havana, Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: >-
+          Joel Gutiérrez-Gil (Institute of Neurology and Neurosurgical. Havana.
+          Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 10
+      - name: >-
+          Antonio Caballero-Moreno (Psychiatric Clinic “Gali Garcia”, National
+          Hospital, Havana, Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 11
+      - name: >-
+          Miguel Angel Alvarez (Institute of Neurology and Neurosurgical.
+          Havana. Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 12
+      - name: >-
+          Norge Santiesteban (Institute of Neurology and Neurosurgical. Havana.
+          Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 13
+      - name: >-
+          Javier Vicente Sánchez-Lopez (Institute of Neurology and
+          Neurosurgical. Havana. Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 14
+      - name: Annette Valdés-Virués (Hermanos Ameijeiras Hospital, Havana, Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 15
+      - name: >-
+          Elba Elvira Varona-Galindo (Centro Habana Community Mental Health
+          Center, Havana, Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 16
+      - name: >-
+          Elizabeth Méndez-Parra (Centro Habana Community Mental Health Center,
+          Havana, Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 17
+      - name: >-
+          Joviana Castro-Valiente (Centro Habana Community Mental Health Center,
+          Havana, Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 18
+      - name: Leyanis Ramos-Hernández (Pediatric Hospital of Cerro, Havana, Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 19
+      - name: Mabel Whilby-Santiesteban (Pediatric Hospital of Cerro, Havana, Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 20
+      - name: >-
+          Thelma Luz Carrillo-Alfonso (Pediatric Hospital of Centro Habana,
+          Havana, Cuba)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 21
+      - name: >-
+          Shahwar Yasir (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 22
+      - name: >-
+          Yu Kin (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 23
+      - name: >-
+          Peng Ren (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 24
+      - name: >-
+          Dezhong Yao (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 25
+      - name: >-
+          Luo Cheng (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 26
+      - name: >-
+          Roberto Rodriguez-Labrada (Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 27
+      - name: >-
+          Pedro Valdés-Sosa (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 28
+    creators:
+      - name: >-
+          Ana Calzada-Reyes (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,Cuban Centre for Neurosciences, Havana, Cuba,China-Cuba
+          Belt and Road Joint Laboratory on Neurotechnology and Brain-Apparatus
+          Communication, University of Electronic Science and Technology of
+          China, Chengdu, China)
+        nameType: Personal
+      - name: >-
+          Eduardo Aubert-Vázquez(Cuban Centre for Neurosciences, Havana,
+          Cuba,Neurodevelopment Research Unit at the Instituto de Neurobiología,
+          Universidad Nacional Autónoma de México )
+        nameType: Personal
+      - name: >-
+          Lidice Galán-García(Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
+        nameType: Personal
+      - name: >-
+          Maria Luisa Bringas-Vega (The Clinical Hospital of Chengdu Brain
+          Sciences Institute, University of Electronic Science and Technology of
+          China, Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
+        nameType: Personal
+      - name: Trinidad Virués-Alba (Cuban Centre for Neurosciences, Havana, Cuba)
+        nameType: Personal
+      - name: >-
+          Lidia Charroó-Ruiz (Cuban Centre for Neurosciences, Havana,
+          Cuba,Centro Habana Community Mental Health Center, Havana, Cuba)
+        nameType: Personal
+      - name: Yanely Acosta-Imás (Cuban Centre for Neurosciences, Havana, Cuba)
+        nameType: Personal
+      - name: >-
+          Mitchell Valdés-Sosa (Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China),
+        nameType: Personal
+      - name: Laura Perez-Mayo (Cuban Centre for Neurosciences, Havana, Cuba)
+        nameType: Personal
+      - name: >-
+          Joel Gutiérrez-Gil (Institute of Neurology and Neurosurgical. Havana.
+          Cuba)
+        nameType: Personal
+      - name: >-
+          Antonio Caballero-Moreno (Psychiatric Clinic “Gali Garcia”, National
+          Hospital, Havana, Cuba)
+        nameType: Personal
+      - name: >-
+          Miguel Angel Alvarez (Institute of Neurology and Neurosurgical.
+          Havana. Cuba)
+        nameType: Personal
+      - name: >-
+          Norge Santiesteban (Institute of Neurology and Neurosurgical. Havana.
+          Cuba)
+        nameType: Personal
+      - name: >-
+          Javier Vicente Sánchez-Lopez (Institute of Neurology and
+          Neurosurgical. Havana. Cuba)
+        nameType: Personal
+      - name: Annette Valdés-Virués (Hermanos Ameijeiras Hospital, Havana, Cuba)
+        nameType: Personal
+      - name: >-
+          Elba Elvira Varona-Galindo (Centro Habana Community Mental Health
+          Center, Havana, Cuba)
+        nameType: Personal
+      - name: >-
+          Elizabeth Méndez-Parra (Centro Habana Community Mental Health Center,
+          Havana, Cuba)
+        nameType: Personal
+      - name: >-
+          Joviana Castro-Valiente (Centro Habana Community Mental Health Center,
+          Havana, Cuba)
+        nameType: Personal
+      - name: Leyanis Ramos-Hernández (Pediatric Hospital of Cerro, Havana, Cuba)
+        nameType: Personal
+      - name: Mabel Whilby-Santiesteban (Pediatric Hospital of Cerro, Havana, Cuba)
+        nameType: Personal
+      - name: >-
+          Thelma Luz Carrillo-Alfonso (Pediatric Hospital of Centro Habana,
+          Havana, Cuba)
+        nameType: Personal
+      - name: >-
+          Shahwar Yasir (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China)
+        nameType: Personal
+      - name: >-
+          Yu Kin (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China)
+        nameType: Personal
+      - name: >-
+          Peng Ren (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China)
+        nameType: Personal
+      - name: >-
+          Dezhong Yao (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
+        nameType: Personal
+      - name: >-
+          Luo Cheng (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
+        nameType: Personal
+      - name: >-
+          Roberto Rodriguez-Labrada (Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
+        nameType: Personal
+      - name: >-
+          Pedro Valdés-Sosa (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

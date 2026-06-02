@@ -1,0 +1,103 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Anderson, Elizabeth J.
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Staples, Ryan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Dyslin, Sara M.
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Chang, Elizabeth H. T.
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Laks, Alycia B.
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Dickens, J. Vivian
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Mathur, Devna
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Paul, Sachi
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Dvorak, Elizabeth
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Peter Turkeltaub
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0003-2080-6055
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 10
+    creators:
+      - name: Anderson, Elizabeth J.
+        nameType: Personal
+      - name: Staples, Ryan
+        nameType: Personal
+      - name: Dyslin, Sara M.
+        nameType: Personal
+      - name: Chang, Elizabeth H. T.
+        nameType: Personal
+      - name: Laks, Alycia B.
+        nameType: Personal
+      - name: Dickens, J. Vivian
+        nameType: Personal
+      - name: Mathur, Devna
+        nameType: Personal
+      - name: Paul, Sachi
+        nameType: Personal
+      - name: Dvorak, Elizabeth
+        nameType: Personal
+      - name: Peter Turkeltaub
+        nameType: Personal
+        nameIdentifiers: *ref_0
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

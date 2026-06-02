@@ -13,8 +13,9 @@
     ],
     "ReferencesAndLinks": [
         "Please cite the following papers when using this data:",
-        "add link to manuscript"
+        "add link to manuscript",
+        "https://doi.org/10.1162/NOL.a.248"
     ],
     "BIDSVersion": "1.10.0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds006021.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds006021.v1.0.1"
 }

@@ -1,0 +1,45 @@
+{
+  "participant_id": {
+    "description": "Unique participant identifier"
+  },
+  "sex": {
+    "description": "Biological sex of the participant",
+    "levels": {
+      "M": "Male",
+      "F": "Female"
+    }
+  },
+  "education": {
+    "description": "Education by degree",
+    "levels": {
+      "12": "12th grade, no diploma",
+      "14": "GED or equivalent",
+      "16": "Associate degree (Occupational, technical, vocational)",
+      "18": "Bachelors degree",
+      "19": "Master's degree",
+      "20": "Professional school degree (MD, DDS, DVM, JD)",
+      "21": "Doctoral degree"
+    }
+  },
+  "age_enrollment": {
+    "description": "Age of the participant at time of enrollment",
+    "units": "years"
+  },
+  "age_mri": {
+    "description": "Age of the participant at time of MRI",
+    "units": "years"
+  },
+  "ethnicity": {
+    "description": "Self-reported ethnicity of the participant"
+  },
+  "handedness": {
+    "description": "Dominant hand of the participant",
+    "levels": {
+      "Right": "Right-handed",
+      "Left": "Left-handed"
+    }
+  },
+  "race": {
+    "description": "Self-reported race of the participant"
+  }
+}

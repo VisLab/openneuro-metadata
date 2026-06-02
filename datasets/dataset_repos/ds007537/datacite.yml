@@ -1,0 +1,36 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Prakash Mishra
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Tapan K. Gandhi
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Saurabh R. Gandhi
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+    creators:
+      - name: Prakash Mishra
+        nameType: Personal
+      - name: Tapan K. Gandhi
+        nameType: Personal
+      - name: Saurabh R. Gandhi
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

@@ -1,0 +1,34 @@
+{
+    "sex": {
+        "Description": "sex of the participant",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+    "group": {
+        "Description": "experimental group the participant belonged to",
+        "Levels": {
+            "Covid": "participants who were disgnosed with COVID-19",
+            "Control": "healthy participants"
+        }
+    },
+    "COVID_symptoms": {
+        "Description": "presence/absence of COVID symptoms",
+        "Levels": {
+            "Asymptomatic": "absence of COVID-19 symptoms",
+            "Symptomatic": "presence of COVID-19 symptoms"
+        }
+    },
+    "COVID_severity": {
+        "Description": "severity of the disease",
+        "Levels": {
+            "Asymptomatic": "absence of COVID-19 symptoms",
+            "Mild": "mild symptoms",
+            "Severe": "severe symptoms"
+        }
+    },
+    "Days_in_hospital": {
+        "Description": "number of days in hospital"
+    }
+}

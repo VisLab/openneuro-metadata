@@ -1,0 +1,35 @@
+{
+    "Name": "HaD-PET: Effects of DMT and harmine on cerebral glucose metabolism: FDG-PET dataset",
+    "BIDSVersion": "1.10.1",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Klemens Egger",
+        "Milan Scheidegger",
+        "Paul Cumming"
+    ],
+    "Keywords": [
+        "psychedelics",
+        "FDG-PET",
+        "DMT",
+        "harmine",
+        "glucose metabolism",
+        "neuroscience",
+        "pharmacological intervention",
+        "resting state"
+    ],
+    "Acknowledgements": "The authors would like to thank all participants for their time and commitment to the study, as well as the staff at the PET center of the University Hospital Bern for their support during data acquisition.",
+    "HowToAcknowledge": "When using these data, please cite both the dataset and the corresponding publication:\n\nEgger, K., et al. (2026). Global Increases in Brain Glucose Metabolism Following Acute N,N-Dimethyltryptamine and Harmine Administration in Healthy Volunteers: A randomised [18F]FDG-PET Study. Journal of Cerebral Blood Flow & Metabolism. https://doi.org/10.1177/0271678X261454172",
+    "Funding": [
+        "Swiss National Science Foundation grant number 320030-204978"
+    ],
+    "EthicsApprovals": [
+        "Cantonal Ethics Commission Bern - BASEC-ID 2022-01515"
+    ],
+    "ReferencesAndLinks": [
+        "ClinicalTrials.gov: https://clinicaltrials.gov/study/NCT06252506",
+        "Publication: Egger et al. Global Increases in Brain Glucose Metabolism Following Acute N,N-Dimethyltryptamine and Harmine Administration in Healthy Volunteers: A randomised [18F]FDG-PET Study. JCBFM (2026). DOI: https://doi.org/10.1177/0271678X261454172",
+        "Github (Zenodo) repository: Egger, K. (2026). HDP FDG PET STUDY (v1.0). Zenodo. DOI: https://doi.org/10.5281/zenodo.20396101"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007768.v1.0.0"
+}

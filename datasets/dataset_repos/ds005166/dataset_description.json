@@ -1,9 +1,29 @@
 {
-    "BIDSVersion": "1.14.0",
+    "BIDSVersion": "1.10.0",
     "Name": "A framework for leveraging technology to probe mechanism: A proof of concept study of inhibitory control",
     "DatasetType": "raw",
     "Authors": [
-        "Anonymous"
+        "Elise M Cardinale",
+        "Jennifer M Meigs",
+        "Simone P Haller",
+        "Kenny Fling",
+        "Urmi Pandya",
+        "Olivia Siegal",
+        "Anjali Poe",
+        "Shannon Shaughnessy",
+        "Christian Zapp",
+        "Jessica L Bezek",
+        "Kyunghun Lee",
+        "Parmis Khosravi",
+        "Ramaris German",
+        "David C Jangraw",
+        "Lauren M Henry",
+        "Meghan E Byrne",
+        "Katharina Kircanski",
+        "Ellen Leibenluft",
+        "Reut Naim",
+        "Daniel S Pine",
+        "Melissa A Brotman"
     ],
     "License": "CC0",
     "CuratedBy": [
@@ -17,5 +37,5 @@
     "EthicsApprovals": [
         "NIH Institutional Review Board (NIH Clinical Study Protocols 15-M-0182 (ClinicalTrials.gov identifier: NCT02531893), 02-M-0021 (NCT00025935), 00-M-0198 (NCT00006177), and 01-M-0192 (NCT00018057)DatasetDOI"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005166.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005166.v1.0.1"
 }

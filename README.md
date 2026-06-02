@@ -128,6 +128,9 @@ Fetches the top-level file and directory listing for every `ds*` repository usin
 GitHub **GraphQL API** (batches of 10 repos per request) and stores the results in
 `repo_contents.json`.
 
+**Important:** This step only fetches **metadata** (file names, sizes, SHAs). It does
+not create directories or download files — that happens in Step 3.
+
 ```bash
 python sync_repo_contents.py
 ```
@@ -159,9 +162,11 @@ This script replaces the older `get_repo_files.py` for new runs (see
 
 **Script:** `sync_local_files.py`
 
-Downloads every top-level *file* (blob) from `repo_contents.json` into
-`datasets/dataset_repos/<repo>/`.  Uses SHA-based incremental skipping so only
-changed or new files are re-downloaded.
+Creates directories under `datasets/dataset_repos/<repo>/` and downloads every
+top-level *file* (blob) from `repo_contents.json` (produced in Step 2). Uses SHA-based
+incremental skipping so only changed or new files are re-downloaded.
+
+**This step creates the actual dataset directories** — Step 2 only fetches metadata.
 
 ```bash
 python sync_local_files.py

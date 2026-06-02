@@ -1,0 +1,4 @@
+1.1.0 2026-04-17
+  - Acquisition date was anonymized, but time of day is correct. Added information on this into the README file.
+1.0.0 2026-04-16
+  - Revision 1

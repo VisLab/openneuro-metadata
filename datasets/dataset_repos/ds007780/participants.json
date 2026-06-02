@@ -1,0 +1,9 @@
+{
+  "sample": {
+    "Description": "Study sample or cohort membership.",
+    "Levels": {
+      "original": "Original study sample",
+      "replication": "Replication study sample"
+    }
+  }
+}

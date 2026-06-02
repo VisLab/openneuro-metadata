@@ -1,0 +1,45 @@
+{
+    "Name": "BCI-FIT: A customization protocol for communication brain-computer interface systems.",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Betts Peters",
+        "Daniel Klee",
+        "Michelle Kinsella",
+        "Yonah Hendin",
+        "Tab Memmott",
+        "Matthew Lawhead",
+        "Srikar Ananthoju",
+        "Basak Celik",
+        "Scott Spaulding",
+        "Barry Oken",
+        "Melanie Fried-Oken"
+    ],
+    "Acknowledgements": "These studies were approved by the Oregon Health & Science University Institutional Review Board (IRB#26456). The studies were conducted in accordance with the local legislation and institutional requirements. The participants provided their written informed consent to participate in this study. We thank the Consortium of Accessible Multimodal Brain-Body Interfaces (CAMBI) for their insight and guidance over the course of the experiment. Additionally, we would like to thank all the participants for their time and effort in contributing to this research.",
+    "HowToAcknowledge": "Please cite the BCI-FIT poster: Peters, B., Kinsella, M., Klee, D., Lawhead, M., Memmott, T., Spaulding, S., Oken, B., & Fried-Oken, M. (2025, June 2-5). BCI-FIT: Effects of cBCI customization on performance [Poster presentation]. 11th International BCI Meeting, Banff, AB, Canada. https://bcisociety.org/wp-content/uploads/2025/05/DeArmond-BCI-2025-program-v106.pdf",
+    "Funding": [
+        "This work was supported by the National Institutes of Health under National Institute on Deafness and Other Communication Disorders grant R01DC009834."
+    ],
+    "EthicsApprovals": [
+        "Oregon Health & Science University Institutional Review Board (IRB#26456)"
+    ],
+    "ReferencesAndLinks": [
+        "https://github.com/CAMBI-tech/BciPy"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007720.v1.0.1",
+    "GeneratedBy": [
+        {
+            "Name": "BciPy convert_study_to_bids.py",
+            "Version": "2.0.0",
+            "Description": "Converted from BciPy raw format to BIDS by Tab Memmott using BciPy and MNE-BIDS.",
+            "CodeURL": "https://github.com/CAMBI-tech/BciPy"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "Original BciPy raw recordings retained at OHSU; not publicly distributed. Contact petersbe@ohsu.edu for access requests.",
+            "Version": "BciPy 2.0.0"
+        }
+    ]
+}

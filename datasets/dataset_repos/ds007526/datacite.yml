@@ -1,0 +1,36 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Zoya Katzir
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Daniel Vered (vereddan@tlvmc.gov.il)
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Inbal Maidan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+    creators:
+      - name: Zoya Katzir
+        nameType: Personal
+      - name: Daniel Vered (vereddan@tlvmc.gov.il)
+        nameType: Personal
+      - name: Inbal Maidan
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract

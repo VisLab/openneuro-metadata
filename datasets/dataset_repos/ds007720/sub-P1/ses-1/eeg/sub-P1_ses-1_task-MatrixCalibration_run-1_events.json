@@ -1,0 +1,17 @@
+{
+    "sample": {
+        "Description": "The event onset time in number of sampling points."
+    },
+    "value": {
+        "Description": "The event code (also known as trigger code or event ID) associated with the event."
+    },
+    "trial_type": {
+        "Description": "The type, category, or name of the event."
+    },
+    "StimulusPresentation": {
+        "OperatingSystem": "Windows 11 Professional (64-bit)",
+        "SoftwareName": "BciPy",
+        "SoftwareVersion": "2.0.0",
+        "Code": "https://github.com/CAMBI-tech/BciPy"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "age": {
+        "Description": "Age of the participant at time of testing",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "Biological sex of the participant",
+        "Levels": {
+            "female": "Female",
+            "male": "Male"
+        }
+    },
+    "hand": {
+        "Description": "Handedness of the participant",
+        "Levels": {
+            "right": "Right-handed",
+            "left": "Left-handed",
+            "ambi": "Ambidextrous"
+        }
+    },
+    "ethnicity": {
+        "Description": "Self-reported ethnicity of the participant"
+    },
+    "recording_info": {
+        "Description": "Any additional information noted down during recordings. n/a means nothing unusual to report."
+    }
+}

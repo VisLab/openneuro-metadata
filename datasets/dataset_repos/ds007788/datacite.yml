@@ -1,0 +1,24 @@
+creators:
+  - name: "Sarkar, Shantanu"
+    affiliation: "University of Houston"
+    orcid: "https://orcid.org/0000-0002-5125-6925"
+  - name: "Nathan, Kevin"
+    affiliation: "University of Houston"
+    orcid: "https://orcid.org/0000-0002-1234-5678"
+  - name: "Contreras-Vidal, Jose L."
+    affiliation: "University of Houston"
+    orcid: "https://orcid.org/0000-0002-6499-1208"
+
+title: "Dataset: EEG-Controlled Exoskeleton for Walking and Standing - A Longitudinal Study of Healthy Individuals"
+
+description: "This dataset contains multimodal recordings from a brain–machine interface (BMI) training study involving seven healthy adult participants (ages 20–30, mean = 24.3 years, SD = 3.8). The study investigates open-loop and closed-loop control of a lower-limb robotic exoskeleton (Rex Bionics) using electroencephalography (EEG). Each participant completed nine experimental sessions over multiple weeks, comprising structured training and task execution phases. The dataset includes synchronized EEG/EOG signals, motion sensor (IMU) data, exoskeleton command/feedback, and associated metadata, organized according to the Brain Imaging Data Structure (BIDS) standard."
+
+keywords:
+  - EEG
+  - Brain–Machine Interface
+  - Exoskeleton
+  - Human–Robot Interaction
+  - Motor Imagery
+  - Gait
+  - Neurorehabilitation
+  - IMU

@@ -1,0 +1,44 @@
+{
+    "Name": "Precision Aging Network: Closing the Gap Between Cognitive Healthspan and Human Lifespan",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Carol A. Barnes",
+        "Matt J. Huentelman",
+        "Zhao Chen",
+        "Lee Ryan",
+        "Tatjana Rundek",
+        "Paul F. Worley",
+        "Meredith Hay",
+        "Nicholas J. Schork",
+        "Bonnie LaFleur",
+        "Roberta D. Brinton",
+        "David W. Coon",
+        "Ralph L. Sacco",
+        "James Lah",
+        "Marilyn Albert",
+        "Nan-Kuei Chen",
+        "Esther M. Sternberg",
+        "Johnny Ray Runyon"
+    ],
+    "Acknowledgements": "We acknowledge the members of the Precision Aging® Network for their contribution to the research: B. Aimagamabetova, A. Aldabergenova, C. Anderson, M. Albert, C. Babbitt, C. A. Barnes, S. Beres, N. Bhadra, A. Bilgin, Y.F. Bolla, A. Bonfitto, A. Box, R. D. Brinton, E. Burrows, D. Cabral, V. D. Calhoun, S. Callahan, C. Camargo, C. Carrasco, D. Chambers, NK. Chen, Z. Chen, D. Coon, M. M. Crespo, M.D. De Both, W. Degnan III, M. Dehghan Rouzi, K. A. Delgado, A. Dolby, J. Don, V. M. Dotson, K. P. Doyle, K. Ellingson, M. Fan, A. Feal Rodriguez, S. Fox-Rosellini, J.B. Frye, L. F. Gladulich, A. Glinka, L. Gossa, S. Han, M. Hay, S. Hoscheidt, M.J. Huentelman, T. James, K. Johnson, M. Johnson, D. Kartchner, S.-Y. Kim, B.J. LaFleur, J.J. Lah, A.J.B. Lee, M. Lee, G. Leito, A.I. Levey, B. Levin, S. Matijevic, M.R. Mehl, N. Merchant, S. Merritt, D. Metz, C.S. Mitchell, M. Modjeski, A. Moghekar, C. H. Na, B. Najafi, M. Naymik, K. Norton, T. Nuno, B. Nursal, E. Paitel, P. Pattany, J. Pekar, C.A. Pettigrew, G. Pfaff, V. Pfeifer, S.-E. Roh, T. Rundek, J. R. Runyon, L. Ryan, D. Sama-Borbon, K. Sanders, N. Schork, S. Scott, S. Sharma, A. Sidhu, J. Simon, J. Sloan, T. Smith, S. Sockanathan, A. Sokan, A. Soldan, S. Soto, B. Stark, E. M. Sternberg, X. Sun, M. Swartzlander, F. Taguinod, R. Tandon, M. Taylor John, T. Trouard, C. Ugonna, J.G. Varelo Saboria, H. Venkatachalam, L. White, P. F. Worley, J. Xie, Y. Yang, C. Ye, T. Yuhas, T.K. Zepeda, J. Zhou.",
+    "HowToAcknowledge": "Data collection and sharing for the Precision Aging Network (PAN) is funded by the National Institute on Aging (National Institutes of Health Grant “Closing the Gap Between Cognitive Health Span and Human Lifespan” (U19AG065169)). The grantee organization is the University of Arizona. For publications, please cite the PAN Writing Block as specified in the README.",
+    "Funding": [
+        "NIA 5U19AG065169"
+    ],
+    "ReferencesAndLinks": [
+        "https://precisionagingnetwork.org",
+        "https://precisionagingnetwork.org/access-pan-study-data-for-research",
+        "https://mindcrowd.org",
+        "https://doi.org/10.3389/fnagi.2019.00128",
+        "https://doi.org/10.1016/j.tins.2019.11.004",
+        "https://doi.org/10.1159/000547246",
+        "https://doi.org/10.1159/000548488",
+        "https://doi.org/10.1159/000546852"
+    ],
+    "EthicsApprovals": [
+        "WIRB-Copernicus Group Institutional Review Board"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007522.v1.1.0"
+}

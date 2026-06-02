@@ -1,0 +1,113 @@
+# Precision Aging Network (PAN): Closing the Gap Between Cognitive Healthspan and Human Lifespan
+
+## Contact
+For additional information, please contact:
+
+**Principal Investigator:** Carol Barnes, PhD (University of Arizona)
+
+## Overview
+The **Healthy Minds for Life (HML)** study of the **[Precision Aging® Network (PAN)](https://precisionagingnetwork.org)** is a multi-site initiative designed to take an individualized approach to understanding factors that impact brain aging and risk for and resilience to age-related cognitive impairment. The goal is to develop personalized interventions that optimize cognitive health by closing the gap between cognitive healthspan and human lifespan.
+
+### Study Sites
+This is a multi-site study conducted in-person at four sites:
+* **University of Arizona** (`Tucson`, AZ)
+* **University of Miami** (`Miami`, FL)
+* **Emory University** (`Atlanta`, GA)
+* **Johns Hopkins University** (`Baltimore`, MD)
+
+### Participant Recruitment & Eligibility
+* **Age:** 50–79 years.
+* **Demographics:** Self-identify as White, Black, or Hispanic race/ethnicity.
+* **Key Inclusion:** English language proficiency, No diagnosis of memory loss or dementia; no history of psychotic illness; no contraindications for blood draw or MRI.
+* **MindCrowd:** Participants are drawn from [MindCrowd](https://mindcrowd.org), a large-scale online study capturing cognitive performance and health factors across a diverse population. 
+
+
+### Study Visit Procedures
+The protocol includes a baseline visit for most participants. For a selected subset of participants at the University of Arizona, a shorter longitudinal follow-up visit, 2 years after the baseline visit, is conducted. 
+
+---
+
+## PAN Data in this OpenNeuro repository
+This OpenNeuro dataset specifically contains just the **Neuroimaging (3T MRI)** data for the **Healthy Minds for Life (HML)** study.
+
+### Data Access, Associated Datasets and Detailed Protocols
+For researchers seeking access to associated PAN datasets including MindCrowd tests, demographic and biometric measures, corresponding cognitive scores, Garmin wearable data, blood/CSF biomarkers and other derived biomarker panels, carotid ultrasound metrics, derived MRI measures, assessments and surveys and much more please request access via the PAN centralized data portal at [https://precisionagingnetwork.org/access-pan-study-data-for-research/](https://precisionagingnetwork.org/access-pan-study-data-for-research/). In addition to the datasets mentioned, detailed Standard Operating Protocols (SOP) governing data collection are also available on the portal as well as protocols used for obtained deriving measures.
+
+### MRI Derived Measures and Processing Protocols 
+Preliminary processing has been performed on the MRI data provided here and MRI derived measures are available for access at the [PAN Data Portal](https://precisionagingnetwork.org/access-pan-study-data-for-research/) as described above. 
+
+Protocols used for producing these MRI measures and other PAN measures can be found at the [PAN Data Portal](https://precisionagingnetwork.org/access-pan-study-data-for-research/) under **2. Prepare Your Abstract**  ->  **Protocols (with DOIs)**. 
+
+While every effort will be made to ensure that the protocols on the **PAN Data Portal** are up to date, please refer also to the  **MRI Protocols Release 1** folder at this [PANPipelines OSF](https://osf.io/fpbkn/files/osfstorage) page for the most current protocol releases. 
+
+Details for replicating the MRI measures are also available in the [PANpipelines Github](https://github.com/MRIresearch/PANpipelines/tree/main/october2025_PAN_Deployment) page
+
+---
+
+### Session and Scan Details
+Information about session and scan details are available in the bids hierarchy at `sub-{}/sub-{}_sessions.tsv` and `sub-{}/sub-{}_ses-{}_scans.tsv` respectively
+
+The `_sessions.tsv` file contains the following fields, `session_notes`, `protocol_check`, `manufacturer_model` and `software_version`. The `session_notes` field is a free text field with information that may be pertinent to the session. This may contain information about the potential quality of scans, the participant's experience of the scan session or other technical issues of note. The last three fields help to uniquely identify the MRI scanner/software used for the acquisition. This allows researchers to identify scanner upgrades.
+
+The `_scans.tsv` file provides the order in which the BIDS files were obtained during the session. The `acq_time` field has been randomly shifted by a subject-specific factor of between 1 to 15 days to anonymize the subject visit. Scans that have been omitted from the repository due to technical issues have also been removed from this table. These excluded scans are described in the `_excluded.tsv` file which is described below.
+
+The `_excluded.tsv` file in `derivatives/excluded_scans` provides a brief label in the `scan_exclusion_reason` field explaining why an acquired scan may have been removed from the BIDS hierarchy for a particular subject and session.
+
+The `sessions_omitted.tsv` file in `derivatives/omitted_sessions` provides a brief label in the `session_omission_reason` field explaining why a session may have been removed from the BIDS hierarchy.
+
+
+
+### Session Labels
+* The BIDS session label used for the **initial baseline** visit is `ses-01`
+* Repeat visits conducted to correct technical issues with the **initial baseline** visit are labeled `ses-02`, `ses-03` and so on.
+* The BIDS session label used for the **initial 2-year longitudinal follow-up** visit is `ses-follow01` (only available at the moment in the `Tucson` site)
+* Repeat visits conducted to correct technical issues with the **initial 2-year longitudinal follow-up** visit are labeled `ses-follow02`, `ses-follow03` and so on.
+
+### MRI Quality
+Efforts are ongoing to complete as much manual quality control and quality assurance of the provided data as possible. In the meantime, the main source of information on the quality and validity of provided scans is the `_sessions.tsv` and `_scans.tsv` files for each subject and session as detailed above. Where specific scans had to be repeated during the **same** session to correct a technical issue or address patient motion then only the valid scan has been uploaded to avoid multiple runs of the same acquisition in each session.
+
+Where issues have been discovered in scans retrospectively then in a few cases a second session (see section **Session Labels** above) has been scheduled when possible to try and acquire just the affected scans. These events are documented in the `_sessions.tsv` file which is located in each subject's root folder. Any invalid scans have been omitted from this repository and the reason for this is provided in the `scan_exclusion_reason` field in the `_excluded.tsv` file which resides in the `derivatives/excluded` folder.
+
+As described in section **Session Labels** above, the existence of multiple **baseline** sessions e.g. `ses-01` and `ses-02` or multiple **longitudinal follow-up** sessions e.g. `ses-follow01` and `ses-follow02` for a subject are an indication that the subject's initial session (either the initial baseline session, `ses-01` or the initial follow-up session, `ses-follow01`) had a scan or series of scans that needed correcting in a subsequent session (e.g. *baseline* repeated as `ses-02`, or *follow-up* repeated as `ses-follow02`).
+
+In some instances the entire initial baseline or longitudinal session needed to be repeated. For example, a number of subjects at the `Tucson` site were affected by a technical issue with the scanner ttansmitter box in summer 2025. The initial baseline (`ses-01`) or longitudinal scans (`ses-follow01`) for these subjects have not been uploaded to the repository as all scans were affected. Instead only the fully repeated baseline scans (`ses-02`) and/or longitudinal scans (`ses-follow02`) have been uploaded. The accompanying `_sessions.tsv`, `_scans.tsv` , `_excluded.tsv` and `sessions_omitted.tsv` files provide supporting information to help users understand which scans/sessions have been excluded, repeated or retained.
+
+### Scanner upgrades
+There have been 2 scanner upgrades to date:
+* In October 2024, University of Miami upgraded from Siemens XA20 to XA50
+* In December 2024, University of Arizona upgraded from Siemens VE11 to XA30
+
+### Derived Field Maps
+
+Dedicated field maps were not acquired for the ASL or resting-state fMRI acquisitions, in order to maximize the number of MRI contrasts collected within the available scan time.
+
+Field maps for these acquisitions were instead derived from two sources: the multi-echo T2starw acquisition, represented by `magnitude1`, `magnitude2`, `phase1`, and `phase2`, and the diffusion/reverse phase-encoded diffusion MRI acquisitions, represented by `acq-fmri_dirAP_epi` and `acq-fmri_dirPA_epi`.
+
+---
+
+## License and Terms of Use
+The MRI data hosted on this site is made available without restriction under the [Creative Commons Zero (CC0) v1.0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Associated datasets hosted on the PAN Data Portal provided at [https://precisionagingnetwork.org/access-pan-study-data-for-research/](https://precisionagingnetwork.org/access-pan-study-data-for-research/) are subject to the **Precision Aging® Network Data Use Agreement (DUA)**. Users are responsible for reviewing and complying with those licenses, unless explicitly stated otherwise.
+
+---
+
+## Citation & Writing Block
+If you publish manuscripts using data from PAN, you agree to include the following writing block in the by-line or acknowledgements:
+
+**The Precision Aging® Network Writing Block:**
+> “We acknowledge the members of the Precision Aging® Network for their contribution to the research: B. Aimagamabetova, A. Aldabergenova, C. Anderson, M. Albert, C. Babbitt, C. A. Barnes, S. Beres, N. Bhadra, A. Bilgin, Y.F. Bolla, A. Bonfitto, A. Box, R. D. Brinton, E. Burrows, D. Cabral, V. D. Calhoun, S. Callahan, C. Camargo, C. Carrasco, D. Chambers, NK. Chen, Z. Chen, D. Coon, M. M. Crespo, M.D. De Both, W. Degnan III, M. Dehghan Rouzi, K. A. Delgado, A. Dolby, J. Don, V. M. Dotson, K. P. Doyle, K. Ellingson, M. Fan, A. Feal Rodriguez, S. Fox-Rosellini, J.B. Frye, L. F. Gladulich, A. Glinka, L. Gossa, S. Han, M. Hay, S. Hoscheidt, M.J. Huentelman, T. James, K. Johnson, M. Johnson, D. Kartchner, S.-Y. Kim, B.J. LaFleur, J.J. Lah, A.J.B. Lee, M. Lee, G. Leito, A.I. Levey, B. Levin, S. Matijevic, M.R. Mehl, N. Merchant, S. Merritt, D. Metz, C.S. Mitchell, M. Modjeski, A. Moghekar, C. H. Na, B. Najafi, M. Naymik, K. Norton, T. Nuno, B. Nursal, E. Paitel, P. Pattany, J. Pekar, C.A. Pettigrew, G. Pfaff, V. Pfeifer, S.-E. Roh, T. Rundek, J. R. Runyon, L. Ryan, D. Sama-Borbon, K. Sanders, N. Schork, S. Scott, S. Sharma, A. Sidhu, J. Simon, J. Sloan, T. Smith, S. Sockanathan, A. Sokan, A. Soldan, S. Soto, B. Stark, E. M. Sternberg, X. Sun, M. Swartzlander, F. Taguinod, R. Tandon, M. Taylor John, T. Trouard, C. Ugonna, J.G. Varelo Saboria, H. Venkatachalam, L. White, P. F. Worley, J. Xie, Y. Yang, C. Ye, T. Yuhas, T.K. Zepeda, J. Zhou.”
+
+**Funding Statement:**
+> “Data collection and sharing for the Precision Aging Network (PAN) is funded by the National Institute on Aging (National Institutes of Health Grant “Closing the Gap Between Cognitive Health Span and Human Lifespan” (U19AG065169)). The grantee organization is the University of Arizona.”
+
+---
+
+## References
+* Ryan L., et al. (2019). Precision Aging: applying precision medicine to the field of cognitive aging. *Frontiers in aging neuroscience, 11*, 128 [doi:10.3389/fnagi.2019.00128](https://doi.org/10.3389/fnagi.2019.00128)
+* Huentelman MJ, et al. (2020). Reinventing neuroaging research in the digital age. *Trends in Neurosciences, 43*(1), 17-23. [doi:10.1016/j.tins.2019.11.004](https://doi.org/10.1016/j.tins.2019.11.004)
+* Ryan L, et al. (2025). MindCrowd-Expanded: an online multi-domain assessment of cognitive aging. *Gerontology 71*(9), 773-791. [doi:10.1159/000547246](https://doi.org/10.1159/000547246)
+* Barnes, C.A., & Najafi, B. (2025). The Precision Aging Network: Creating a roadmap for healthy brain aging. *Gerontology*, 1. [doi.org/10.1159/000548488](https://doi.org/10.1159/000548488)
+* Sonderer, C., et al. (2025). Analysis of quantitative susceptibility mapping data for multi-site and multi-modal brain imaging studies: for measuring brain iron and its changes with age. *Gerontology 71*(9), 734-754. [doi:10.1159/000546852](https://doi.org/10.1159/000546852)
+
+---

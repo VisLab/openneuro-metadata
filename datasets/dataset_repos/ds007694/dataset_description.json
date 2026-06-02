@@ -1,0 +1,19 @@
+{
+    "Acknowledgements": "Project leaders and contributors.",
+    "Authors": [
+        "Galya Clara Iseli",
+        "David Coynel",
+        "André Schmidt"
+    ],
+    "BIDSVersion": "1.8.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007694.v1.0.2",
+    "Funding": [
+        "Swiss National Science Foundation: Grant No. 320030_200801"
+    ],
+    "HowToAcknowledge": "All users must cite the original publication associated with the dataset (https://doi.org/10.1016/j.bpsgos.2025.100567). For substantial reuse or collaborative projects, users are expected to contact the original authors to discuss potential co-authorship and appropriate acknowledgment.",
+    "License": "CC0",
+    "Name": "GRACE",
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1016/j.bpsgos.2025.100567"
+    ]
+}

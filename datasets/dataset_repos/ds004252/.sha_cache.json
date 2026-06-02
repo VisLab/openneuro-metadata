@@ -1,5 +1,10 @@
 {
   "README": "5bd9477d421046c6434c8a60f3b2aa559439949a",
   "CHANGES": "576988d2d674e6b414c41a848eee20c081107a4c",
-  "dataset_description.json": "4609858e6370e8bde24613f63fd6db01c54d865c"
+  "dataset_description.json": "4609858e6370e8bde24613f63fd6db01c54d865c",
+  "participants.tsv": "5a5278fed6201c1d466979cb10c8b25248fdb974",
+  "participants.json": "4e6c9ce6688400be1d1312805b1ef125267eed50",
+  "task-rsvp_eeg.json": "5ad9d362ca75ea5d56608f086523891d99c7155b",
+  "task-rsvp_events.json": "0bfb62cbf589d240f835392081c38f0693a856f9",
+  "sub-01/eeg/sub-01_task-rsvp_events.tsv": "c40e721a851c48ce15f8a8b2ce284bdd4593a6ed"
 }

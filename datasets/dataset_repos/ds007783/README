@@ -1,0 +1,126 @@
+# fMRI Dataset for Studying Propofol Anesthesia Mechanisms with Awake Baseline in Mice
+
+## Dataset Overview
+
+This dataset contains resting-state functional MRI (fMRI) data from propofol-induced sleep in mice, organized according to the Brain Imaging Data Structure (BIDS) standard version 1.9.0.
+
+**Data Modality:**
+- **fMRI only**: Resting-state functional MRI data from 10 mice (sub-02 to sub-11)
+
+## Dataset Structure
+
+```
+fMRI_only_BIDS/
+├── dataset_description.json       # BIDS dataset metadata
+├── participants.tsv             # Subject metadata (fMRI only)
+├── participants.json             # Metadata column descriptions
+├── README                       # This file
+├── task-rest_bold.json          # Task-specific JSON (inherited)
+├── .bidsignore                 # BIDS ignore file
+├── sub-02/ to sub-11/         # fMRI subjects (10 subjects)
+│   ├── anat/                   # T2-weighted anatomical images
+│   │   ├── sub-XX_T2w.nii.gz
+│   │   └── sub-XX_T2w.json
+│   └── func/                   # Resting-state BOLD fMRI
+│       ├── sub-XX_task-rest_bold.nii.gz
+│       └── sub-XX_task-rest_bold.json
+└── code/                       # Python analysis scripts (see below)
+```
+
+## Acquisition Parameters
+
+### fMRI Data
+| Parameter | Value |
+|-----------|-------|
+| Scanner | Bruker BioSpec 94/20, 9.4 T |
+| Sequence | Gradient-echo EPI |
+| TR | 2000 ms |
+| TE | (see individual JSON sidecars) |
+| Slices | 30 (axial, interleaved ascending) |
+| Slice timing | 0.0 – 1.93 s (30 slices, step = 0.0667 s) |
+| Voxel size | (see individual NIfTI headers) |
+| Phase encoding direction | j- (anterior–posterior) |
+| Subjects | n=10 (sub-02 through sub-11) |
+
+## Subject ID Mapping (Original to BIDS)
+
+| Original ID | BIDS ID | Source Folder |
+|-------------|---------|---------------|
+| 1 | sub-02 | (from PRO10 dataset) |
+| 2 | sub-03 | (from PRO10 dataset) |
+| 3b | sub-04 | (from PRO10 dataset) |
+| 4 | sub-05 | (from PRO10 dataset) |
+| 5c | sub-06 | (from PRO10 dataset) |
+| 6 | sub-07 | (from PRO10 dataset) |
+| 7b | sub-08 | (from PRO10 dataset) |
+| 8 | sub-09 | (from PRO10 dataset) |
+| 9 | sub-10 | (from PRO10 dataset) |
+| 10 | sub-11 | (from PRO10 dataset) |
+
+## Code Directory (`code/`)
+
+The `code/` directory contains Python 3 scripts used to generate all figures in the manuscript. Each script is prefixed with the figure it corresponds to.
+
+### Requirements
+- Python 3.x
+- numpy
+- scipy
+- matplotlib
+- nibabel
+- nilearn
+
+### Script List
+| Script | Description |
+|--------|-------------|
+| `Fig1F-*` | Fraction of high-motion TRs analysis |
+| `Fig3A-*` | Behavioral response rate time course |
+| `Fig3DE-*` | Modular brain network metrics |
+| `Fig3FH-*` | Graph theory statistics |
+| `Fig3G-*` | Graph theory analysis |
+| `Fig4ABC-*` | Functional connectivity matrix with significance |
+| `Fig4DEF-*` | Connectogram visualization |
+| `Fig4G-*` | ROI summary violin plots |
+| `Fig5AB-*` | Brain activation maps (mricroGL-friendly) |
+| `Fig5C-*` | Binary significance masks |
+| `Fig5D-*` | Global signal subject-level analysis |
+| `Fig5E-*` | Bubble plot of subjects |
+| `Fig5F-*` | Group mask validation |
+| `Fig5G-*` | Subject-level amplification analysis |
+| `Fig6A-Fig6J*` | Thalamus-specific analyses (connectivity, specificity, dynamics) |
+| `S-FigS1C-S-FigS6I-*` | Supplementary figure scripts |
+
+## Validation
+
+This dataset passes `bids-validator` checks. To validate locally:
+
+```bash
+npm install -g bids-validator
+bids-validator /path/to/fMRI_only_BIDS/
+```
+
+## Usage Notes
+
+1. **For fMRI analysis**: Use subjects sub-02 through sub-11
+2. **Code execution**: Run Python scripts from the `code/` directory
+
+## License
+
+This dataset is made available under the **Creative Commons Attribution 4.0 International (CC-BY 4.0)** license.
+
+## Citation
+
+If you use this dataset, please cite:
+
+> Ye Yunshuang et al. (2025). fMRI Dataset for Studying Propofol Anesthesia Mechanisms with Awake Baseline in Mice. OpenNeuro.
+
+Also available on Figshare: https://doi.org/10.6084/m9.figshare.32227659
+
+## Contact
+
+For questions about this dataset, please contact: Ye Yunshuang (Shanghai Jiao Tong University)
+
+## Version History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.0 | 2025-05-10 | Initial release (fMRI only) |

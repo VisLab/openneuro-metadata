@@ -1,0 +1,15 @@
+{
+    "Name": "Representations of Sentence Meaning in the Human Brain (RSMB) Dataset",
+    "BIDSVersion": "1.10.0",
+    "License": "CC0",
+    "Authors": [
+        "James Fodor",
+        "Carsten Murawski",
+        "Shinsuke Suzuki"
+    ],
+    "HowToAcknowledge": "Please cite this paper: https://doi.org/10.7554/eLife.108442.1",
+    "ReferencesAndLinks": [
+        "Code: TODO"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007393.v1.0.1"
+}

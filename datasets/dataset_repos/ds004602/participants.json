@@ -1,49 +1,28 @@
 {
-  "SubjectID": {
-    "LongName": "Subject ID",
-    "Description": "Subject ID"
+  "participant_id": {
+    "Description": "Unique BIDS participant identifier."
   },
-  "Gender": {
-    "Description": "Gender of the participant",
-    "Levels": {
-      "M": "Man",
-      "W": "Woman",
-      "O": "Other"
-    }
+  "Original_ID": {
+    "Description": "Original study participant identifier."
   },
-  "Sex": {
-    "Description": "Sex of the participant",
-    "Levels": {
-      "M": "Male",
-      "F": "Female"
-    }
-  },
-  "Age": {
-    "Description": "Age of the participant",
+  "age": {
+    "Description": "Age of the participant.",
     "Units": "years"
   },
-  "Race": {
-    "Description": "Race of the participant",
-    "Levels": {
-      "AIA": "American Indian/Alaskan",
-      "A": "Asian",
-      "BAA": "Black/AA",
-      "M": "Multiracial",
-      "W": "White"
-    }
+  "Description": "Participant-level metadata and column descriptions.",
+  "sex": {
+    "Description": "Phenotypical sex of the participant. Values use BIDS-compatible lowercase labels."
   },
-  "Ethnicity": {
-    "Description": "Ethnicity of participants",
-    "Levels": {
-      "Y": "Participant of Hispanic/Latino/Spanish origin",
-      "N": "Participant NOT of Hispanic/Latino/Spanish origin"
-    }
+  "gender": {
+    "Description": "Self-reported gender of the participant."
   },
-  "StudySite": {
-    "Description": "Study site where participant was run",
-    "Levels": {
-      "B": "BYU",
-      "U": "USF"
-    }
+  "race": {
+    "Description": "Self-reported race of the participant."
+  },
+  "ethnicity": {
+    "Description": "Self-reported Hispanic, Latino, or Spanish origin."
+  },
+  "study_site": {
+    "Description": "Study site where the participant was run."
   }
 }

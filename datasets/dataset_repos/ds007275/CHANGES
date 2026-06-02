@@ -1,2 +1,4 @@
+1.0.1 2026-05-08
+  - Added HC subfield masks based on the protocol of Berron et al. (2017) as part of a Revision
 1.0.0 2026-01-28
   - Initial upload and publishing of the dataset.

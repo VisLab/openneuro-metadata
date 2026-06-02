@@ -12,3 +12,6 @@ To capture the richness of emotional experiences, we employed a multi-faceted as
 ## Citation
 For a detailed description of the stimulus selection, experimental design, and data acquisition process, please refer to the publication listed below. We kindly request that any research utilizing this dataset cites the following paper: 
 [Add on Reference/DOI]
+
+In addition, please cite the OpenNeuro dataset itself using its DOI:
+doi:10.18112/openneuro.ds007640.v1.0.0

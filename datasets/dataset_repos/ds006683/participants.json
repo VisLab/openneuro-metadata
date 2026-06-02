@@ -1,0 +1,27 @@
+{
+  "Age": {
+    "LongName": "Age",
+    "Description": "Participant age",
+    "Levels": {
+      "Numeric Age": "Numeric age"
+    }
+  },
+  "Gender": {
+    "LongName": "Gender",
+    "Description": "Participant self-reported gender",
+    "Levels": {
+      "Male": "Male",
+      "female": "Female"
+    }
+  },
+  "Notes": {
+    "LongName": "Notes",
+    "Description": "General notes about the scan session",
+    "Levels": {
+      "not enough probes completed": "This participant did not complete enough thought probes to calculate uncontrollability.",
+      "High motion run 3": "We excluded the third run from this participant due to high motion. Use at your own risk.",
+      "Almost no RTs on SART": "This participant made almost no responses on the SART. This may have been a technical issue.",
+      "n/a": "no additional notes"
+    }
+  }
+}

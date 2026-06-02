@@ -1,0 +1,2 @@
+1.0.0 2026-05-10
+  - Initial release: resting-state fMRI data from 10 mice under propofol anesthesia with awake baseline (sub-02 to sub-11). Includes anatomical T2w images, functional BOLD data, and analysis code.

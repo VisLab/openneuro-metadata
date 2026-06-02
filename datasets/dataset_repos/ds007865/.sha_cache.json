@@ -1,0 +1,11 @@
+{
+  "dataset_description.json": "2b3c49e07bf0943e13b449baa0d6bc2ab9b52516",
+  "participants.json": "a4fa8a57c660634adcaa517a2a4911920e7bbdd6",
+  "participants.tsv": "6a3295d35de0691a555dc7983bf80d8823672561",
+  "README": "8322191eacc9c0aab487c081b9e80eac7013bd93",
+  "CHANGES": "df8c3f678fbd765f4c461e8eb103e1b73bcbc5a6",
+  "sub-subPLAC24/ses-1/eeg/sub-subPLAC24_ses-1_task-resteyesclosed_events.json": "a198e88732928e9195d833b346bcebbd7bcae523",
+  "sub-subPLAC24/ses-1/eeg/sub-subPLAC24_ses-1_task-resteyesclosed_events.tsv": "ab7102b658e3f5fff6b61a201235e3c24444b328",
+  "sub-subPLAC24/ses-2/eeg/sub-subPLAC24_ses-2_task-resteyesclosed_events.json": "a198e88732928e9195d833b346bcebbd7bcae523",
+  "sub-subPLAC24/ses-2/eeg/sub-subPLAC24_ses-2_task-resteyesclosed_events.tsv": "8678d20bf3499c9854ab135d42dc2c724267b209"
+}

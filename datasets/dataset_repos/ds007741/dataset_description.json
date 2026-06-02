@@ -1,0 +1,17 @@
+{
+    "Name": "SCAN",
+    "BIDSVersion": "1.0.2",
+    "License": "CC0",
+    "Authors": [
+        "Jenni Leppanen, Olivia Bailey, Daniel Halls, Karina Allen, Kate Tchanturia, Steve Williams"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "This research was funded in part by the Wellcome Trust [213578/Z/18/Z]. This research was supported by the National Institute for Health and Care Research (NIHR) Maudsley Biomedical Research Centre (BRC). KA is supported by the Medical Research Council grant no. MR/X030539/1 and the Medical Research Council/Arts and Humanities Research Council/Economic and Social Research Council Adolescence, Mental Health and the Developing Mind initiative as part of the EDIFY programme (grant no. MR/W002418/1)"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007741.v1.0.0"
+}

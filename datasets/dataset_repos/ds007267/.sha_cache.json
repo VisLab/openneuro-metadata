@@ -1,9 +1,9 @@
 {
-  "dataset_description.json": "f0d1c4c3c46caa5998e25ca34357ac5a345ae2b8",
+  "dataset_description.json": "2786ddab794135ce91e24af7b4a9c723dd847a47",
   "participants.tsv": "c46dd78dd3f7b745e96244ccc64601a1326d55a7",
-  "CHANGES": "9dc106dc610dcb404ee4b5681c43b5fce7c772cf",
+  "CHANGES": "90f4f97c841c8717b8c3703045742eef20d50969",
   "participants.json": "6a1b34c0217e6a1a2dec7f241c79b2f954871362",
-  "README.md": "145c348187ef1234d5e1d9f4d3de60f557e69692",
+  "README.md": "3e492f26ba4434b714fb8f59b7e18e4b7cb8a604",
   "sub-001/ses-01/func/sub-001_ses-01_task-food_run-01_events.json": "d3352d876525e08b99e481daeb39db7a56321a8b",
   "sub-001/ses-01/func/sub-001_ses-01_task-food_run-03_events.json": "d3352d876525e08b99e481daeb39db7a56321a8b",
   "sub-001/ses-01/func/sub-001_ses-01_task-food_run-02_events.json": "d3352d876525e08b99e481daeb39db7a56321a8b",

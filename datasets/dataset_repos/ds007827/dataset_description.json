@@ -1,0 +1,20 @@
+{
+    "Name": "Loneliness EEG - Roving Oddball Task",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Joe Bathelt",
+        "Corine van Dijk",
+        "Marte Otten"
+    ],
+    "InstitutionName": "University of Amsterdam",
+    "InstitutionAddress": "Nieuwe Achtergracht 129-B, 1018 WS Amsterdam, The Netherlands",
+    "InstitutionalDepartmentName": "Department of Psychology",
+    "Manufacturer": "Biosemi",
+    "ManufacturersModelName": "ActiveTwo",
+    "EEGReference": "CMS, placed on Cz",
+    "EEGGround": "DRL, placed on Fz",
+    "Acknowledgements": "We thank Famke Bruggeman, Rosalind Dingarten, Vita Karkauskaite, Cleo Rong, Sophie Serrarens, Evi Veer, and Jari Vink for their assistance with data collection. We are also grateful to the participants who generously gave their time to this research.",
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007827.v1.0.0"
+}

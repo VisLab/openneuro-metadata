@@ -1,0 +1,36 @@
+{
+    "participant_id": {
+        "Description": "ID number of the participant"
+    },
+    "date": {
+        "Description": "date the EEG data was obtained"
+    },
+    "age": {
+        "Description": "age of the participant",
+        "Units": "years"
+    },
+    "gender": {
+        "Description": "gender as reported by the participant",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+    "handedness": {
+        "Description": "handedness as reported by the participant",
+        "Levels": {
+            "L": "left",
+            "R": "right"
+        }
+    },
+    "normal_or_corrected_vision": {
+        "Description": "vision as reported by the participant",
+        "Levels": {
+            "YES": "normal or corrected to normal",
+            "NO": "not normal"
+        }
+    },
+    "note": {
+        "Description": "notes"
+    }
+}

@@ -1,25 +1,28 @@
 {
-    "results": {
-        "Description": "Expected outcome for each trial based on task rules",
-        "Levels": {
-            "Match": "Response expected",
-            "NR": "No response expected"
-        }
-    },
-    "score": {
-        "Description": "Trial outcome classification",
-        "Levels": {
-            "false_negative": "Response expected, no response detected",
-            "false_positive": "No response expected, response detected",
-            "true_negative": "No response expected, no response detected",
-            "true_positive": "Response expected, response detected"
-        }
-    },
-    "trial_type": {
-        "Description": "Task condition for each trial",
-        "Levels": {
-            "0BACK": "0-back trial: respond to target picture",
-            "2BACK": "2-back trial: respond if picture matches the one shown two trials before"
-        }
+  "trial_type": {
+    "Description": "Task condition for each event",
+    "Levels": {
+      "INSTRUCTION": "Instruction block shown before task blocks",
+      "0BACK": "0-back trial: respond to target picture",
+      "2BACK": "2-back trial: respond if picture matches the one shown two trials before"
     }
+  },
+  "results": {
+    "Description": "Expected outcome for each event based on task rules",
+    "Levels": {
+      "NR": "No response expected",
+      "Match": "Response expected",
+      "n/a": "Not applicable for instruction events"
+    }
+  },
+  "score": {
+    "Description": "Trial outcome classification",
+    "Levels": {
+      "false_positive": "No response expected, response detected",
+      "true_negative": "No response expected, no response detected",
+      "true_positive": "Response expected, response detected",
+      "false_negative": "Response expected, response not detected",
+      "n/a": "Not applicable for instruction events"
+    }
+  }
 }

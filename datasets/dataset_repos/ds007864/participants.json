@@ -1,0 +1,13 @@
+{
+  "participant_id": {
+    "Description": "BIDS participant identifier."
+  },
+  "sex": {
+    "Description": "Phenotypical sex represented with BIDS-compatible labels.",
+    "Levels": {
+      "F": "female",
+      "M": "male",
+      "O": "other"
+    }
+  }
+}

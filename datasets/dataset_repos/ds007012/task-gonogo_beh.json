@@ -1,0 +1,66 @@
+{
+    "blockType": {
+        "Description": "block type indicating which foods were go and which foods were no-go",
+        "Levels": {         
+            "health": "healthy = go, not-healthy = no-go",
+            "taste": "tasty = go, not-tasty = no-go",
+            "healthRev": "not-healthy = go, healthy = no-go",
+            "tasteRev": "not-tasty = go, tasty = no-go"
+        }
+    },
+    "blockInstructions": {
+        "Description": "instruction text shown to participants at the start of each block"
+    },
+    "blockNo": {
+        "Description": "block number out of 4 blocks (0-3)"
+    },
+    "trialNoPerBlock": {
+        "Description": "trial number out of 100 trials within a block (0-99)"
+    },
+    "stimPath": {
+        "Description": "stimulus file path"
+    },
+    "stimType": {
+        "Description": "stimulus category",
+        "Levels": {
+            "healthy": "healthy food item",
+            "not healthy": "not healthy food item",
+            "tasty": "tasty food item",
+            "not tasty": "not tasty food item"
+        }
+    },
+    "stimRating": {
+        "Description": "participant's rating for the stimulus on the relevant attribute (health or taste; 0-100)"
+    },
+    "stimStatus": {
+        "Description": "whether the stimulus is a go or a no-go stimulus",
+        "Levels": {
+            "Go": "go stimulus",
+            "NoGo": "no-go stimulus"
+        }
+    },
+    "respCorrect": {
+        "Description": "correct keypress response for the trial",
+        "Levels": {
+            "space": "space key",
+            "None": "no response"
+        }
+    },
+    "respKey": {
+        "Description": "participant's keypress response for the trial",
+        "Levels": {
+            "space": "space key",
+            "None": "no response"
+        }
+    },
+    "respOutcome": {
+        "Description": "whether the participant's response was correct or incorrect",
+         "Levels": {
+            "0": "incorrect",
+            "1": "correct"
+        }
+    },
+    "respRT": {
+        "Description": "response time for keypress responses in seconds"
+    }
+}

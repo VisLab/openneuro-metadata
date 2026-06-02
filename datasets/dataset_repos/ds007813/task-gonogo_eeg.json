@@ -1,0 +1,9 @@
+{
+  "TaskName": "gonogo",
+  "SamplingFrequency": 500,
+  "PowerLineFrequency": 50,
+  "Manufacturer": "Brain Products",
+  "EEGReference": "FCz",
+  "SoftwareFilters": "n/a",
+  "EEGPlacementScheme": "10-20 system"
+}

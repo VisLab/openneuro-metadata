@@ -1,0 +1,62 @@
+{
+"trial_type":{
+"LongName":"Event category",
+"Description":"Indicator of the cue and target type",
+"Levels":{
+"vis_only":"visual cue - no distractor",
+"vis_dis":"visual cue - auditory distractor",
+"aud_only":"auditory cue - no distractor",
+"aud_dis":"auditory cue - visual distractor",
+"nonsp_vis":"unspecific cue - visual target",
+"nonsp_aud":"unspecific cue - auditory target"
+}
+},
+"condition":{
+"LongName":"Condition",
+"Description":"equivalent to Event Category but numerical",
+"Levels":{
+"4":"visual cue - no distractor",
+"3":"visual cue - auditory distractor",
+"2":"auditory cue - no distractor",
+"1":"auditory cue - visual distractor",
+"5":"unspecific cue - visual target",
+"6":"unspecific cue - auditory target"
+}
+},
+"GaborV":{
+"LongName":"Gabor Version shown",
+"Description":"see Gabor_stim_file for the exact Gabor File (in stimuli folder)"
+},
+"Gabor_stim_file":{
+"LongName":"Gabor image file shown",
+"Description":"presented Gabor image (in stimuli folder)"
+},
+"SoundV":{
+"LongName":"Sound Version played",
+"Description":"see Sound_stim_file for the exact sound file (in stimuli folder)"
+},
+"Sound_stim_file":{
+"LongName":"Sound file played",
+"Description":"sound file played (in stimuli folder)"
+},
+"correct":{
+"LongName":"Was response correct?",
+"Description":"Was response correct?",
+"Levels":{
+"0":"response was incorrect",
+"1":"response was correct"
+}
+},
+"response_time":{
+"LongName":"Reaction time",
+"Description":"in s"
+},
+"epoch_start":{
+"LongName":"The epoch start trigger",
+"Description":"Epoch start is relative to frequency-tagging start right after CUE "
+},
+"epoch_timing":{
+"LongName":"epoch length",
+"Description":"Epoch starts 1.5 seconds before trigger and lasts until 4.5 seconds after trigger"
+}
+}

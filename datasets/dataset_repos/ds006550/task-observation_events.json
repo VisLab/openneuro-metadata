@@ -1,0 +1,40 @@
+{
+  "onset": {
+    "Description": "Time in seconds from the start of the acquisition."
+  },
+  "duration": {
+    "Description": "Duration of the event in seconds."
+  },
+  "trial_type": {
+    "Description": "Type of event.",
+    "Levels": {
+      "Instruction": "Presentation of an instruction consisting of a facial expression (happy or sad, looking right or left), enclosed within a frame (red or green in either a rectangle or diamond shape).",
+      "Obs_corr": "Moment at which the correct response was shown.",
+      "Obs_err": "Moment at which the incorrect response was shown.",
+      "Catch_trial": "Period to indicate whether the previous trial was correct or incorrect.",
+      "Change_rule": "Moment at which some rules reversed at the middle of the run.",
+      "Baseline": "Rest moment (white noise was shown)."
+    } 
+  },
+  "stimulus_type": {
+    "Description": "Type of stimulus.",
+    "Levels": {
+      "1": "Happy face looking left, enclosed within a green rectangular frame.",
+      "2": "Happy face looking right, enclosed within a green rectangular frame.",
+      "3": "Sad face looking left, enclosed within a green rectangular frame.",
+      "4": "Sad face looking right, enclosed within a green rectangular frame.",
+      "5": "Happy face looking left, enclosed within a green diamond-shaped frame.",
+      "6": "Happy face looking right, enclosed within a green diamond-shaped frame.",
+      "7": "Sad face looking left, enclosed within a green diamond-shaped frame.",
+      "8": "Sad face looking right, enclosed within a green diamond-shaped frame.",
+      "9": "Happy face looking left, enclosed within a red rectangular frame.",
+      "10": "Happy face looking right, enclosed within a red rectangular frame.",
+      "11": "Sad face looking left, enclosed within a red rectangular frame.",
+      "12": "Sad face looking right, enclosed within a red rectangular frame.",
+      "13": "Happy face looking left, enclosed within a red diamond-shaped frame.",
+      "14": "Happy face looking right, enclosed within a red diamond-shaped frame.",
+      "15": "Sad face looking left, enclosed within a red diamond-shaped frame.",
+      "16": "Sad face looking right, enclosed within a red diamond-shaped frame."
+    }
+  }
+}

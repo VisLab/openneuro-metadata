@@ -1,0 +1,9 @@
+{
+  "README": "4299eea7573b60b4036ffc0554b4776d39c02703",
+  "CHANGES": "940f71caa1fa9567efbd6a659a7bee6bca5da758",
+  "participants.tsv": "febcbc888aeba516c027b9e7de6e95dd3dde63ae",
+  "participants.json": "ae794e6ed4c1ce4570f0512885ad99fe7ebd6d51",
+  "dataset_description.json": "ad60abf32ed5261fb0cf024b685a401e9ebf7022",
+  "datacite.yml": "072859457aee13be8199d6ca6e53fce043a6935b",
+  "sub-CUCOV001/eeg/sub-CUCOV001_task-COVID_events.tsv": "f0dd6a472595e34f67769c5d6f06809cb2eaf4db"
+}

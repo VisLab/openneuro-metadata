@@ -1,0 +1,31 @@
+{
+  "onset": {
+    "Description": "Event onset from the beginning of the recording.",
+    "Units": "s"
+  },
+  "sample": {
+    "Description": "Zero-based sample index corresponding to event onset."
+  },
+  "trial_type": {
+    "Description": "Categorical event label recoded from EEGLAB event type.",
+    "Levels": {
+      "cor": "Correct response",
+      "err": "Error response",
+      "con": "Congruent stimulus",
+      "inc": "Incongruent stimulus",
+      "neu": "Neutral stimulus",
+      "go": "Go stimulus",
+      "ng": "No-go stimulus",
+      "boundary": "EEGLAB boundary event marking a discontinuity in the recording."
+    }
+  },
+  "Description": "Event-level metadata and column descriptions.",
+  "duration": {
+    "Description": "Event duration.",
+    "Units": "s"
+  },
+  "StimulusPresentation": {
+    "SoftwareName": "E-Prime"
+  },
+  "TaskDescription": "Participants responded to the direction of a central target arrow in congruent and incongruent arrow arrays. More detailed task information is available at https://osf.io/8cbua/."
+}
